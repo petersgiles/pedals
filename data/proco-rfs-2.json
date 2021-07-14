@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15507",
+    "name": "RFS-2",
+    "image": "images/proco-rfs-2.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 180,
+    "height": 102,
+    "details": "R2DU footswitchDual footswitch for the ProCo RAT R2DU dual rackmount distortion unit. Connects to R2DU via a 5-pin DIN cable.",
+    "hrid": "proco-rfs-2"
+}

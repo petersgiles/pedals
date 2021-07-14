@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14272",
+    "name": "SV-1 Supervibe",
+    "image": "images/marshall-sv-1-supervibe.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Current draw: 19mA",
+    "hrid": "marshall-sv-1-supervibe"
+}

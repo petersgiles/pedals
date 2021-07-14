@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19346",
+    "name": "Buffer (small)",
+    "image": "images/analogman-buffer-(small).jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 39,
+    "height": 92,
+    "details": "Vintage TS style BufferMost buffers on the market are the simplest opamp circuit possible-one opamp stage with unity gain, just a few resistors and capacitors are needed. Even the KLON buffer is like this. Some are one transistor or FET with some similar simple power and coupling circuit. These do the job of having a high input impedance and a low output impedance to drive your signal to the amp nice and strong. But many cheap buffers like that just don't sound and feel the same as the original best tone described above - a good cord direct into your amp. Some buffers can send too much high end through, and sound brittle or HARD, not a nice feel. Many great sounding pedals like tube screamers, etc don't run your signal directly into the op-amp, instead they use a transistor input buffer. We use the same transistor as an old tube screamer on the input of our buffer, with the same input impedance of 510K. Most buffers use a higher input impedance but that can sound too bright and tinny - not like the sound of plugging straight into your amp with a 10' quality cord, which is what we tried to emulate. We also use the tube screamer's JRC4558D opamp later in the circuit for a warm but clean unity gain amplifier. \nhttp://www.analogman.com/buffer.htm",
+    "hrid": "analogman-buffer-(small)"
+}

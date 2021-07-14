@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15325",
+    "name": "Grand Orbiter (V1)",
+    "image": "images/earthquaker-devices-grand-orbiter-(v1).jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$195 Price in €",
+    "width": 94,
+    "height": 118,
+    "details": "PhaserThis is V1 of the Earthquaker Devices Grand Orbiter.",
+    "hrid": "earthquaker-devices-grand-orbiter-(v1)"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11715",
+    "name": "EVH-117 Flanger",
+    "image": "images/mxr-evh-117-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$256 Price in €",
+    "width": 127,
+    "height": 95,
+    "details": "",
+    "hrid": "mxr-evh-117-flanger"
+}

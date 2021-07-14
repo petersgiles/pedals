@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21995",
+    "name": "R-09 Vision",
+    "image": "images/joyo-r-09-vision.jpg",
+    "function": [
+        "Chorus",
+        "Filter",
+        "Flanger",
+        "Multieffect",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 130,
+    "height": 110,
+    "details": "Dual channel modulation pedalJOYO R-09 VISION is a dual channel modulation pedal, supporting stereo input and output.\nBoth of the two effects have independent SPEED/RATE, CONTROL, and DEPTH/MIX knobs.\nIn the middle of the panel, a 3-position toggle switch is used for choosing the sequence of the two effects’ output.\nEach channel features 9 effects, you can adjust various tones with the independent Tap Tempo control.\nTrue bypass design minimizes tone loss.\n\nhttps://www.joyoaudio.co.uk/JOYO-Vision-Dual-Modulation",
+    "hrid": "joyo-r-09-vision"
+}

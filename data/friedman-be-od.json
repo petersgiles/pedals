@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11407",
+    "name": "BE-OD",
+    "image": "images/friedman-be-od.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Friedman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Effects pedal\nhttp://friedmanamplification.com/friedman-pedals/be-od-pedal",
+    "hrid": "friedman-be-od"
+}

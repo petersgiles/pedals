@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16001",
+    "name": "Spark Delay",
+    "image": "images/mooer-spark-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 62,
+    "details": "DelayClassic analog delay, Warm and smooth. Vintage knob adds modulation to the delay sounds. Up to 500 milliseconds of delay.\nhttp://www.mooeraudio.com/?product/201409197462.html",
+    "hrid": "mooer-spark-delay"
+}

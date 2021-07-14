@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17422",
+    "name": "TrancePortal",
+    "image": "images/mr.-black-tranceportal.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Shimmering Echo",
+    "hrid": "mr.-black-tranceportal"
+}

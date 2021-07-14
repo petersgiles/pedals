@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18771",
+    "name": "Magnetic Echo",
+    "image": "images/keeley-magnetic-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Tape-style Delay and ModulationInject warm, saturated tape delay tone into your guitar rig with the Keeley Magnetic Echo tape-style digital delay pedal. With delay ranging from 40ms to 600ms, you can dial in everything from short slapbacks to dub-style echoes. Set the delay time, delay regeneration, and delay level to get the right delay effect, then use the wow and flutter controls to fine-tune the magnetic tape effect. We've played countless delay pedals at Sweetwater, and we know you'll dig the analog vibe of the Keeley Magnetic Echo tape-style digital delay pedal.\nhttps://robertkeeley.com/product/magnetic-echo/",
+    "hrid": "keeley-magnetic-echo"
+}

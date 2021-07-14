@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19471",
+    "name": "V-10",
+    "image": "images/digitech-v-10.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 191,
+    "height": 91,
+    "details": "Premium Isolated 10-Pedal DC Power SupplyPower your pedalboard with the HardWire V-10 Power Block knowing that your pedals are protected and performing at the highest possible level night after night. And as expected, the HardWire V-10 comes with our exceptional 6-year warranty.",
+    "hrid": "digitech-v-10"
+}

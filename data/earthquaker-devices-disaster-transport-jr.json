@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25293",
+    "name": "Disaster Transport JR",
+    "image": "images/earthquaker-devices-disaster-transport-jr.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 61,
+    "height": 112,
+    "details": "Analog voiced digital delayThe Disaster Transport JR is an analog voiced digital delay with 625ms delay time with an all analog dry signal path and true bypass switching. It was designed as an anti-modern delay for those who appreciate a nice vintage tape echo with all its peculiarities. Its unique Tone control doubles as a noise filter on longer delay settings and really helps the delay shine with a dirty signal. The Mix control allows you to boost the effected signal to nearly 4x the original signal level and the Repeats control goes from one signal repeat to near infinite repeats all the way through to self-oscillation.\nhttps://www.earthquakerdevices.com/disaster-transport-jr",
+    "hrid": "earthquaker-devices-disaster-transport-jr"
+}

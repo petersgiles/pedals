@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17344",
+    "name": "Power Plant",
+    "image": "images/harley-benton-power-plant.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$42 Price in €",
+    "width": 165,
+    "height": 85,
+    "details": "Power",
+    "hrid": "harley-benton-power-plant"
+}

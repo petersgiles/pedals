@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17349",
+    "name": "Fuzz Peaks Chrome",
+    "image": "images/adventure-audio-fuzz-peaks-chrome.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 93,
+    "height": 119,
+    "details": "",
+    "hrid": "adventure-audio-fuzz-peaks-chrome"
+}

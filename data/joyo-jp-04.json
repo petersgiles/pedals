@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17662",
+    "name": "JP-04",
+    "image": "images/joyo-jp-04.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$123 Price in €",
+    "width": 160,
+    "height": 90,
+    "details": "Isolated Power SupplyHave you ever found the strange noises jumping out of nowhere when using several pedals together? The biggest reason that produces such annoying sound is that pedals are connected in a parallel mode. With such parallel connection each pedal forms a ground loop, which brings the noises from other magnetic field into the signal path and all the other pedals are interfered and become unstable. To solve this problem, all need to do is to get rid of the ground loop and make sure each pedal work in an independent route and most importantly choose a power supply with real independent output free from ground loop troubles.\nWell, here is JOYO JP-04 right made for you!\nJOYO JP-04 is an isolated power supply available for guitar pedals. It uses a high quality R transformer. It has eight 9V outputs with independent power cable and ground wire, each output is completely isolated, short-circuits and over current protected, highly filtered and regulated, This ensures reliable power, free of hum and noise, just clean and transparent sound.\nTech Specs\n​Input:- Standard IEC 110-240V\nOutputs:- Isolated Centre Negative DC 9V\n5x 100mA\n2x 250mA\n1x 100mA Switchable 12/18V Output\nDimensions: 16 x 9 x 5.5cm\nFeatures:- Isolated Short Circuit Protection, Total 10A Current\nIncluded Accessories:- DC Cables, Reverse Polarity Cable\nhttp://joyoaudio.com/en/product/show_248.html",
+    "hrid": "joyo-jp-04"
+}

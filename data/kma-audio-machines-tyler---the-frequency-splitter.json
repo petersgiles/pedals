@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18936",
+    "name": "Tyler - The Frequency Splitter",
+    "image": "images/kma-audio-machines-tyler---the-frequency-splitter.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Switch"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "18 mA / 9 V / DC / Negative Center",
+    "cost": "$263 Price in €",
+    "width": 145,
+    "height": 121,
+    "details": "Frequency SplitterCan you hear the sounds coming from the woods? The steely strikes of an axe are echoing clearly through the forest, alongside the separated heavy thuds of chopped trees falling. It’s Tyler - a man, rough and towering, wielding his steely axe with only one aim: Splitting up your sound!\nKMA Audio Machines bring you Tyler – The Frequency Splitter. The ultimate tool for developing new sounds and pushing your creativity to new unprecedented heights.\nTyler is an active and variable two channel crossover/signal splitter, which divides your signal with HIGH PASS and LOW PASS paths. Both filters have a 12db/Oct. roll-off with a variable cut-off frequency from 20Hz to 3kHz. Each channel has its own foot-switchable buffered FX-Loop to process your lows (WOOD) or your highs (STEEL) with independent effects loops in parallel.\nThe MIX knob controls the ratio of the Low Pass and High Pass signals. The range goes from 100% LP over to a 50/50 ratio until 100% HP when set fully clockwise. The mix control has a flat response, with equally chosen cut-off frequencies for the LP and HP to avoid notches or bumps. If required, the LEVEL control can boost your mixed signal up to 14dB. To avoid any phase-cancellation issues when external pedals are inserted, we also added a phase inverter and internal trim pots to better control the impedance for not only the main input, but also for each effects-loop. This is pretty handy when you want to insert your favourite fuzz pedal and get the tone just right.\nSome examples of use: Bass players want to retain their low end while using their favourite fuzz or dirt pedal. Insert your dirt box in the highpass FX-Loop and adjust the cut-off frequency of the High and Low Pass to your needs. Dial in your preferred ratio of those Low and High Pass signals, engage the STEEL footswitch and you will never turn off TYLER again! You can also insert different modulation pedals, for example insert a lush phaser for the lows and a nice shimmering delay for the highs and TYLER will make it sound like two different guitars are playing at once. Mix up your modulation pedals with any dirt pedals, for a very pronounced and punchy sound all coming from one amp. As you can see, TYLER is like a Swiss army knife for your tone, being both a sonic tool and a supreme source of creativity - so take your axe and let the magic happen.\nPowered by an optional standard 9V DC (max.) PSU (negative center, 2.1mm, approx. 18mA current draw)\nhttps://shop.kma-machines.com/product/tyler-the-frequency-splitter",
+    "hrid": "kma-audio-machines-tyler---the-frequency-splitter"
+}

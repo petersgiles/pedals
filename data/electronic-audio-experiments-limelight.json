@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32012",
+    "name": "Limelight",
+    "image": "images/electronic-audio-experiments-limelight.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 115,
+    "height": 93,
+    "details": "Overdrive Limelight is an all-new dual channel overdrive developed in collaboration with LA-based punk band Touche Amore to commemorate the release of their new LP, Lament.\nThe distinctive bright, clear tones of guitarists Nick Steinhardt and Clayton Stevens form the timbral foundation of TA’s impassioned brand of post-hardcore, letting their riffs morph effortlessly between serene clean passages and cacophonous blast beats.\nhttps://www.electronicaudioexperiments.com/limelight",
+    "hrid": "electronic-audio-experiments-limelight"
+}

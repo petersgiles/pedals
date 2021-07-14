@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33080",
+    "name": "GPA-100",
+    "image": "images/harley-benton-gpa-100.jpg",
+    "function": [
+        "Equalizer",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "600 mA / 230 V / AC",
+    "cost": "$85 Price in €",
+    "width": 102,
+    "height": 164,
+    "details": "Pedalboard power ampOur super-compact power-amp-in-a-pedal, the GPA-100, is a reliable companion for gigging guitarists and bassists. Packed with lightweight Class D technology delivering 100 Watts at 8 Ohms or 190 Watts at 4 Ohms, this tiny wonder is ready to power your cabinet whenever you need it. Whether it’s in the backup role in case your old tube amp packs up mid-gig without warning, or as an additional power amp to drive your wet/dry amp rig, the GPA-100 has you covered. Attenuate the clean, crisp and full sound as needed with the 3-band EQ; the handy Signal and Peak lights help you keep your signal in check.\nhttps://harleybenton.com/product/gpa-100/",
+    "hrid": "harley-benton-gpa-100"
+}

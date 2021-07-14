@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15642",
+    "name": "Super Octave OC-3",
+    "image": "images/boss-super-octave-oc-3.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Super OctaveWorld’s first compact pedal with true Polyphonic Octave effects\nNew Drive mode adds distortion to octave notes for a fatter, more aggressive tone\nIncludes the original OC-2 mode, capable of producing notes one and two octaves down\nPoly Octave effect adjustable to play within a specific note range\nBass input for adapting octave sound to bass guitars\nBOSS five-year limited warranty\nhttps://www.boss.info/us/products/oc-3/",
+    "hrid": "boss-super-octave-oc-3"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31061",
+    "name": "Flux Echo",
+    "image": "images/horizon-devices-flux-echo.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Horizon Devices",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 57,
+    "height": 108,
+    "details": "Delay/ReverbIt’s the result of years of research & development, our community’s great input and Misha’s extensive delay collection ranging from vintage tape echoes to modern crisp delays.\nMono and Stereo I/O's: The Flux Echo is designed to work great with most setups including traditional mono rigs as well as stereo rigs with multiple amps/instruments, it even sounds great with synthesizers.\nFlux Mode: Variable switch that allows 3 distinct voices: a warm, ambient reverb with clean analog delay repeats, a lightly modulated reverb with a smooth reverse delay, and a shimmer reverb with a tape-style echo.\nTap/Hold switch: Tap to set your delay tempo, hold to freeze both reverb and delay. Once you let go both will decay as set.\nBypass/Delay and Reverb Trails switch: Tap to turn the Flux Echo on or oﬀ.  Hold the bypass switch down while the pedal is on to enable or disable delay/reverb trails.\nhttps://horizondevices.com/products/flux-echo",
+    "hrid": "horizon-devices-flux-echo"
+}

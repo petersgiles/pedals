@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12845",
+    "name": "Fuzz Factory 7 (ltd edition)",
+    "image": "images/zvex-fuzz-factory-7-(ltd-edition).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$469 Price in €",
+    "width": 92,
+    "height": 122,
+    "details": "A limited edition version of our Fuzz Factory. When Zack found a supply ofblack glass germanium transistors from the mid-fifties, he was so inspired by their unique look and sonic character, that he designed a new Fuzz Factory specifically to showcase them. Where the Fat Fuzz Factory has a 3 position toggle, The FF7 has a nine position rotary switch and covers enormous sonic territory, from earthshaking low frequencies to “dog whistle” (figuratively) high frequencies. The Fuzz Factory 7 also has a passive tone control (with its own switch) to roll off high end if need be.",
+    "hrid": "zvex-fuzz-factory-7-(ltd-edition)"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21848",
+    "name": "Xenyx 1002b",
+    "image": "images/behringer-xenyx-1002b.jpg",
+    "function": [
+        "Equalizer",
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$88 Price in €",
+    "width": 298,
+    "height": 216,
+    "details": "10-Input 2-Bus MixerPremium ultra-low noise analog mixer with optional battery operation\n2 state-of-the-art XENYX Mic Preamps comparable to stand-alone boutique preamps\nNeo-classic ''British'' 3-band EQs for warm and musical sound\nOptional battery operation (with 9 V alkaline batteries) allows for mobile operation\n4 balanced, high-headroom stereo inputs with 3 additional mic inputs\nOne FX send and one Monitor send per channel for external FX devices and monitor applications\nClip LEDs on all channels and dedicated inserts on all mono channels\nMain output plus separate Phones and CD/Tape outputs\nSwitchable phantom power for condenser microphones\nLong-wearing 60-mm logarithmic-taper master fader and sealed rotary controls\nExternal power supply for noise-free audio and superior transient response\nhttps://www.behringer.com/product.html;jsessionid=79A349AF24E7D71B7E312CE68ACF80BA?modelCode=P0A04",
+    "hrid": "behringer-xenyx-1002b"
+}

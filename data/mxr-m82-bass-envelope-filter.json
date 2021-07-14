@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18598",
+    "name": "M82 Bass Envelope Filter",
+    "image": "images/mxr-m82-bass-envelope-filter.jpg",
+    "function": [
+        "Filter",
+        "Wah",
+        "Bass"
+    ],
+    "manufacturer": "MXR",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 62,
+    "height": 111,
+    "details": "MXR M82 Bass Envelope FilterThe Bass Envelope Filter delivers classic analog envelope filter sounds with separate Dry and Effect level controls to keep your low end intact.\nThe Bass Envelope Filter delivers classic, analog, envelope filter sounds in an easy-to-use and compact pedal designed specifically for bass. Separate Dry and Effect controls let you dial in the perfect mix of effected and direct signals, so you can bring the funk without losing the low end. Its wide range of filter tones can be shaped with the Decay and Q controls, and a simple twist of the Sensitivity knob can tailor the pedal for your attack—as well as adjust for passive or active basses. The Bass Envelope Filter's power supply circuitry is designed to withstand over-voltage or polarity mishaps, and its true-bypass switching preserves your tone in bypass mode. It's all packaged in a durable, lightweight, Phase 90-size aluminum housing for the ultimate in portability and pedalboard space-saving dimensions. Power: Dunlop ECB003 AC Adapter or Single 9 volt battery\nClassic envelope filter sounds.\nSeparate Dry and Effect signal controls.\nOrganic analog tone\n\nSPECIFICATIONS\nInput Impedance 1 MΩ\nOutput Impedance 100 Ω\nMax Input Level* -15 dBV\nMax Output Level +8 dBV\nNoise Floor* -94 dBV\nFilter Sweep (fc) 76 Hz to 3.2 kHz\nSensitivity Range 46 dB Max\nSensitivity at 500 Hz fc = 3.2 kHz -23 dBV fc = 100 kHz -39 dBV\nDecay Stop Freq. 76 Hz to 1.3 kHz\nFilter Gain at fc Q Min, fc = 76 Hz +8 dB\nQ Max, fc = 76 Hz +18 dB\nQ Min, fc = 3.2 kHz +8 dB\nQ Max, fc = 3.2 kHz +26 dB\nFX Range** -∞ to 0 dB\nDry Range -∞ to +6 dB\nBypass True Hardwire Current Draw 6 mA\nPower Supply 9 volts DC\n\nhttps://www.jimdunlop.com/product/m82-7-10137-04685-6.do",
+    "hrid": "mxr-m82-bass-envelope-filter"
+}

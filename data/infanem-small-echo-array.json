@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11799",
+    "name": "Small Echo Array",
+    "image": "images/infanem-small-echo-array.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Infanem",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "The Small Echo Array is Infanem's vision of the ideal pedal delay: a circuit that combines the best features from classic echos into one small, reliable, and affordable box. Multihead style playback, inspired by legendary tape and disk machines, allows for syncopated echos. Delay times ranging from 30ms to 2.3 seconds and feedback that can skate just at the edge of self oscillation make the SEA a perfect replacement for aging PDS units. Echos that are clear and full range with just enough grit are a pleasing middle ground between analog BBD and early digital units: fidelity without sterility, character without mud.\nhttp://www.infanem.com/small-echo-array/",
+    "hrid": "infanem-small-echo-array"
+}

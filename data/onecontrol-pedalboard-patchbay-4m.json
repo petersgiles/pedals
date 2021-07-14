@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30245",
+    "name": "Pedalboard Patchbay 4M",
+    "image": "images/onecontrol-pedalboard-patchbay-4m.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "Pedal is passive",
+    "cost": "$80 Price in €",
+    "width": 112,
+    "height": 66,
+    "details": "Junction pedal, patchbayOne Control Pedalboard Patchbay; 4M; patchbay / junction box for pedalboards; metal housing; 2 pairs of 6.3 mm mono in / output jacks, 2 pairs of 6.3 mm stereo in / output jacks (TRS), 1 pair of MIDI jacks; passive operation; no power supply required; dimensions (L x W x H) 66 x 112 x 48 mm / 2.6\" x 4.41\" x 1.89\", weight 360 g / 0.79 lbs",
+    "hrid": "onecontrol-pedalboard-patchbay-4m"
+}

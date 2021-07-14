@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20255",
+    "name": "Rotary Chorus RC99",
+    "image": "images/ibanez-rotary-chorus-rc99.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo",
+        "Rotary"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 130,
+    "height": 163,
+    "details": "Analog Chorus with Rotary Speaker simulationIbanez Rotary Chorus RC99\n\nGuitar in\nStereo out\n9v (no battery)",
+    "hrid": "ibanez-rotary-chorus-rc99"
+}

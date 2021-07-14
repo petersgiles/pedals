@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21668",
+    "name": "Nandamonium",
+    "image": "images/synthrotek-nandamonium.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Synthrotek",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$165 Price in €",
+    "width": 188,
+    "height": 119,
+    "details": "Mega drone with echoLow pulsing drones, dive bombs and high-pitched laser sounds! This drone monster has six square wave oscillators with a delay, essentially combining two 4093 NAND Synths and one Cosmic ECHO.\nThe Nandamonium has two SAG CV inputs. When the CV jack is patched and the switch is toggled to \"CV,\" the NAND circuit is powered directly by the incoming voltage. Beyond controlling pitch, the incoming CV can also be used to create lofi rhythmic effects.\nDial in your drone with the Nandamonium!\nFeatures:\n- Six tunable square wave oscillators and two level controls\n- Delay rate, mix, and feedback controls, with touch control over the rate and mix\n- Warp switch: adds a bright, \"small\" speaker tone\n- Blast switch: introduces max feedback into the circuit momentarily, great for adding rhythm and strange sounds\n- Two SAG CV inputs, one per NAND synth\n- CV/On Switch allows selection of CV control or internal power control (1 switch per NAND synth)\n- 3.5mm jacks\n- Housed in an aluminum case\nSpecifications:\nPCB size:  7 x 4.25\" (178 x 108mm)\nRequires a 100mA (or greater) 9V center-negative power supply or 9V battery (not included)\nhttp://www.synthrotek.com/products/other-circuits/nandamonium-double-drone-nand-synth-with-echo/",
+    "hrid": "synthrotek-nandamonium"
+}

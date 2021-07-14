@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22319",
+    "name": "Hawaiian Pizza",
+    "image": "images/caroline-hawaiian-pizza.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$237 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Sweet and savory fuzzWe discovered this circuit in the discarded manila file folders of our old multinational overlords, the Caroline Corporation, alongside all kinds of very 1970s corporate villainy and sci-fi plans for world domination. Your pedal was then dreamed, designed and created at our small batch distortery™ in Columbia, S.C. So thank you for supporting our work!\n*(it’s really a fuzz, but a really versatile one)",
+    "hrid": "caroline-hawaiian-pizza"
+}

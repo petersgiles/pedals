@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17189",
+    "name": "Parabola",
+    "image": "images/caroline-parabola.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 122,
+    "details": "Solid State Tremolo",
+    "hrid": "caroline-parabola"
+}

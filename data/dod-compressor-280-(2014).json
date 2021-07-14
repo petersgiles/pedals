@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19786",
+    "name": "Compressor 280 (2014)",
+    "image": "images/dod-compressor-280-(2014).jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$125 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Optical CompressorLike its predecessor, the DOD Compressor 280 (2014) offers independent Compression and Output controls. However, there are some improvements over the original design. The DOD 280 (2014) features true bypass which allows your guitar tone to remain pristine even when the DOD 280 is off. This is a big difference from the original, which would color your bypassed tone. Also, the new DOD 280 features a modern 9V DC power supply input that makes it more pedalboard friendly. The Compressor 280 employs an electro-optical circuit that varies the amount of the pedal’s dynamic compression using a light-dependent resistor and internal LED. At lower settings the “Comp” knob adds a subtle volume-leveling effect that adds a touch of evenness to the guitar’s signal, bringing up the level of low-volume playing and limiting the maximum volume of harder-hit single-note passages and chords. At higher settings the Comp knob “squashes” the initial attack and raises the level of notes and chords as they decay. The \"Output\" knob controls the overall volume of the effected signal and can act as a volume boost if desired.\nhttps://dod.com/en/products/compressor-280-2014",
+    "hrid": "dod-compressor-280-(2014)"
+}

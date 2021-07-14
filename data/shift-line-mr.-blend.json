@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14706",
+    "name": "mr. Blend",
+    "image": "images/shift-line-mr.-blend.jpg",
+    "function": [
+        "Bass",
+        "Looper"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "BlenderName: Mr. Blend \nType: Guitar/Bass/Synth \nShort description: Blender (parallel loop) - special device for mixing dry and wet (FX loop) signals. Great tool for adding new colors to you sound without loosing original tone.\nControls: \nKnob Mix - dry and wet signal proportions.\nKnob Level - output volume.\nSwicth Phase - inverts loop signal phase.\nFeatures:\nMr. Blend is a parallel Fx-loop in a stompbox. Mostly favored by bass players, because it retains clean bass sound and make possible to add any effect of any stompbox.\nPhase switch corrects loop phase, you can add or substract wet and dry signals.\nMr. Blend can be used as active Y-splitter, to play one guitar for two amplifiers.\nAlso Mr. Blend can be used as simple 2 channel mixer.\nDimensions: Box dimensions without knobs are 111х60х30 mm (4.3x2.4x1.2”) \nPower supply: 9V regulated center negative power adapter or 9v battery. Current draw: 12 mA max.",
+    "hrid": "shift-line-mr.-blend"
+}

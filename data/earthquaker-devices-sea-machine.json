@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11621",
+    "name": "Sea Machine",
+    "image": "images/earthquaker-devices-sea-machine.jpg",
+    "function": [
+        "Chorus",
+        "Phase Shifter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Super ChorusThe Sea Machine is a chorus pedal with as many modulation possibilities as there are fish in the ocean. That’s a lot of fish. And a lot of modulation. From subtle, shimmery chorus sounds, to wobbly, seasick, warbly pitch-bent detuning that rocks the boat, the Sea Machine is the audio bait that’ll help you reel in the big one.\nThe Sea Machine ain’t no one-trick seahorse. With a mix of standard and unique controls, everything from subtle warble, classic Leslie, seasick pitch bends, strangled alien sounds, stunted arpeggiations and many more far out sounds are available. Or you could just use it as a chorus. That works, too. Oh, and if you’re a bass player who fancies themselves a fan of the classic 80s post-punk bass sound, the Sea Machine is pretty much just like (tone) heaven.\nhttps://www.earthquakerdevices.com/sea-machine/",
+    "hrid": "earthquaker-devices-sea-machine"
+}

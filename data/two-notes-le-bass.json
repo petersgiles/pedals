@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11656",
+    "name": "Le Bass",
+    "image": "images/two-notes-le-bass.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp",
+        "Bass",
+        "Tube"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 124,
+    "height": 189,
+    "details": "Two-channel tube bass preamp\nhttp://www.two-notes.com/en/le-bass",
+    "hrid": "two-notes-le-bass"
+}

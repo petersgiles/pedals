@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13750",
+    "name": "Deluxe Memory Man 1100TT",
+    "image": "images/electro-harmonix-deluxe-memory-man-1100tt.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$426 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "BBD DelayFor over 30 years, the Deluxe Memory Man has been the industry bottom line for sweet organic delay and modulation. Prized by serious musicians, the DMM became the definition of attitude and character that still leads the way to analog perfection.\nElectro-Harmonix has now created the ultimate Deluxe Memory Man equipped with Tap Tempo, 1100mS of maximum delay time, Expression Control and an Effects Loop. Adding Tap Tempo ensures that you will always be in sync with the groove, wherever your performance takes you, while five Tap Divide subdivisions deliver rhythmic variation. The Expression Pedal Input provides real time control over Blend, Rate, Depth, Feedback and Delay. The Effects Loop lets you insert effects into your wet signal without changing your dry signal, making the Deluxe Memory Man 1100-TT the most powerful analog delay ever designed.\nQuick Specs\nThe sound of the Deluxe Memory Man with the addition of Tap Tempo\nFive Tap Tempo subdivisions: dotted eighth, quarter note triplet, eighth note, eighth note triplet and sixteenth note\nFive Expression Modes: Blend, Rate, Depth, Feedback and Delay\nSend and return EFX loop allows effects to be added to only the delayed signal\nFully adjustable control over Rate and Depth of the modulation\nInput for an External Tap switch\nTrue Bypass\n9 Volt power supply provided\nDimensions in inches: 4.75 (w) x 5.75 (l) x 2.5 (h)\nDimensions in mm: 146 (w) x 121 (l) x 64 (h)\nhttps://www.ehx.com/products/deluxe-memory-man-tap-tempo",
+    "hrid": "electro-harmonix-deluxe-memory-man-1100tt"
+}

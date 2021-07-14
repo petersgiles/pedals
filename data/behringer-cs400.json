@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11526",
+    "name": "CS400",
+    "image": "images/behringer-cs400.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$32 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Compressor / SustainerGet super-smooth compression and endless sustain\nThis Behringer product has been designed to compete head to head with leading products on the market\nCompress loud and boost low signals without degrading the original sound\nDedicated Level, Tone, Attack and Sustain controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for highest signal integrity in bypass mode\nhttps://www.behringer.com/product.html?modelCode=P0605",
+    "hrid": "behringer-cs400"
+}

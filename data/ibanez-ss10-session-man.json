@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16433",
+    "name": "SS10 Session Man",
+    "image": "images/ibanez-ss10-session-man.jpg",
+    "function": [
+        "Chorus",
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 125,
+    "details": "Distortion and Chorus",
+    "hrid": "ibanez-ss10-session-man"
+}

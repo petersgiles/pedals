@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11741",
+    "name": "Reverberation Machine",
+    "image": "images/death-by-audio-reverberation-machine.jpg",
+    "function": [
+        "Distortion",
+        "Reverb"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 91,
+    "height": 121,
+    "details": "Digital Space SimulatorThe Reverberation Machine is a synthetic atmosphere creator. Use the effect on any instrument to add depth and simulate different environments. Experiment and combine a variety of settings to obtain the perfect ambiance for your sound.\nThe controls on this pedal are straightforward. Volume, Altitude, Reverb Blend and two distinct reverb flavors: Bright Sunshine and Dark Star. Altitude adjusts the gain structure of the reverb and the clean simultaneously creating exciting new reverberation soundscapes that span from subtle to wild.\nAlthough the controls are extremely easy to use and intuitive, there is a vast array of sounds. Everything from simulations of vintage amp verb, playing in a cave, large concert halls, and space ships being sucked into wormholes.\nLet your sound shimmer and breathe with new dimension. Get the Reverberation Machine now.\nhttp://www.deathbyaudio.com/reverberationmachine.html",
+    "hrid": "death-by-audio-reverberation-machine"
+}

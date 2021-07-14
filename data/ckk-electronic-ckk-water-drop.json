@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17022",
+    "name": "CKK Water Drop",
+    "image": "images/ckk-electronic-ckk-water-drop.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "CKK Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "We are always committed to develop an analog chorus effect pedal which is similar to the CE1, ongoing experiments, until the day Water Drop was born. As with all classic chorus effect pedal, Water Drop is pure analog chorus using BBD chips. The tone of Water Drop is erratic, and has highly encapsulated, You won’t hear the obvious vibration of the strings, it will try to make the sound of string into the combination of the tiny pitch offsets tone. In the process of developing Water Drop, we used CE2 chorus classic modify solution of A.M., and added a WIDTH switch, you can feel the chorus effect of different width sound field by the WIDTH switch. When you select wide sound field, the chorus tone become erratic; When you select narrow sound field, the chorus tone become vivid and specific. The RATE knob is used to adjust the speed of chorus, the range of it is very large, by adjusting this knob, you can either get a super slow chorus with a few seconds repeat, and you can also get a rapid vibrato with ten times a second, at this time, when mixing and matching the WIDTH switch and DEPTH knob, Water Drop can become excellence feeling chorus effect pedal at any rate.\n■ Classic Chorus Similar to the Tone of CE1\n■ Using the refitting Solution of CE2 \n■ BBD All Analog Circuit\n■ Adjustable the Width of the Sound Field\n■ Wide Adjusting the Speed of the Chorus\nhttp://www.ckkelectronic.com/product/water/water.html",
+    "hrid": "ckk-electronic-ckk-water-drop"
+}

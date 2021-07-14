@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12526",
+    "name": "Overlord",
+    "image": "images/dean-markley-overlord.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Dean Markley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 81,
+    "height": 127,
+    "details": "Classic Tube Overdrive with Tuned 12AX7A Tube4558 based overdrive/distortion with tube output\nBuffered bypass\n3 band tone stack\nDrive and Volume controls\nPowered from the mains",
+    "hrid": "dean-markley-overlord"
+}

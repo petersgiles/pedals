@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18430",
+    "name": "Binary IR Cab",
+    "image": "images/hotone-binary-ir-cab.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 121,
+    "height": 72,
+    "details": "Speaker simulationFeatures:\n✪ Grown out of next-gen XTOMP technology\n✪ Compact, easy-to-use dual footswitch IR cabinet simulator pedal\n✪ Advanced CDCM modeling system ensures realistic playing experience\n✪ Dual DSP-powered platform ensures high sound quality\n✪ 24-bit A/D/A conversion, up to 110dB S/N ratio\n✪ 100 legendary cab models\n✪ 10 CDCM based legendary studio microphone simulations\n✪ Detailed mic position (X, Y, Z) and room simulations\n✪ 8 CDCM based power amp simulations with presence control\n✪ Supports 3rd party IR files\n✪ USB jack for firmware upgrading, loading/managing IRs with free PC/Mac software\n✪ Aux in and headphone output for practicing and jamming\n✪ 100 Presets\n✪ Built-in OLED screen with clear display\n✪ 5 transparent knobs with LEDs\n✪ 9V DC power supply\nhttp://www.hotoneaudio.com/products/Binary/Binary/2018/0224/262.html",
+    "hrid": "hotone-binary-ir-cab"
+}

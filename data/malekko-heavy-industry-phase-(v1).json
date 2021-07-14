@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12500",
+    "name": "Phase (V1)",
+    "image": "images/malekko-heavy-industry-phase-(v1).jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 38,
+    "height": 91,
+    "details": "Omicron-series mini analog phaser, original designThis is the pre-2013 design of the pedal.\nFrom http://www.effectsdatabase.com/model/malekko/omicron/phase#:\nWe are super happy to introduce \"PHASE\", the Malekko Omicron Series analog phaser pedal.\nSmall and simple to use, this all analog, true bypass 4 stage phaser packs quite a punch, and all in a super-small little package.\nThe color pot subtly shifts the phasing frequency. All the way left, more bass passes through, and all the way right, less. The speed pot will take you from slow chugging evolving phasing to super fast tilt-o-wheel craziness!\nFor even more flexibility, the internal trim pot is a coarse frequency range selector. Set all the way left will allow the lower frequencies to be phasing, all the way right allows more high end frequencies to pass. This combination of the internal trim pot and the color main pot work in conjunction so you can dial in your specific range perfectly!\nRuns off a 'standard' 9VDC neg tip regulated power supply (not included).\nhttps://malekkoheavyindustry.com/product/phase-2/",
+    "hrid": "malekko-heavy-industry-phase-(v1)"
+}

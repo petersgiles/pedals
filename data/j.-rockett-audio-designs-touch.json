@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23469",
+    "name": "Touch",
+    "image": "images/j.-rockett-audio-designs-touch.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 44,
+    "height": 89,
+    "details": "Overdrive",
+    "hrid": "j.-rockett-audio-designs-touch"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33526",
+    "name": "Morning Glory V1 Throwback",
+    "image": "images/jhs-morning-glory-v1-throwback.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "43 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 94,
+    "height": 124,
+    "details": "flagship transparent overdrive300 made as a Pedal Movie exclusive.\nhttps://reverb.com/p/jhs-morning-glory-v1-throwback-pedal-movie-exclusive",
+    "hrid": "jhs-morning-glory-v1-throwback"
+}

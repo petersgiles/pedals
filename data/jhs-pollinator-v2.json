@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23240",
+    "name": "Pollinator V2",
+    "image": "images/jhs-pollinator-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "19 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 76,
+    "height": 152,
+    "details": "Germanium Fuzz",
+    "hrid": "jhs-pollinator-v2"
+}

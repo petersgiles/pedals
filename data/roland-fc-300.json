@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12146",
+    "name": "FC-300",
+    "image": "images/roland-fc-300.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Expression"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$449 Price in €",
+    "width": 550,
+    "height": 250,
+    "details": "MIDI Foot ControllerAdvanced MIDI foot controller with two assignable expression pedals, two control pedals, nine footswitches and expandability\nNew Patch Mode stores up to 100 MIDI setups\nIn addition to standard MIDI connection, newly developed RRC2 protocol adapted for bidirectional data flow between FC-300 and Roland RRC2-equipped products\n3-way power supply and rock-solid metal construction for stage use\nTwo Amp Control switches for controlling amp channels or effects\nControls\nNumber Pedal x 5 (1/6, 2/7, 3/8, 4/9, 5/10)\nDOWN/UP Pedals\nControl Pedal x 2 (1, 2)\nExpression Pedal x 2 (1, 2)\nPARAMTER Button x 2\nVALUE Button x 2\nUTILITY Button\nMODE Button\nEXIT Button\nWRITE Button\nPOWER Switch\nDisplay7 segments, 3 characters (LED)\n16 characters, 2 lines (backlit LCD)\nIndicators\nMODE Indicator (STANDARD/CONTROL/SYS EX/PATCH)\nUTILITY Indicator\nWRITE Indicator\nNumber Indicator x 10 (1--10)\nDOWN/UP Indicators\nControl Indicator x 2 (1, 2)\nExpression Pedal ON/OFF Indicator x 2 (1, 2)\nConnectors/Jacks\nDC IN Jack\nMIDI Connectors (IN, OUT)\nRRC2 OUT Connector\nAMP CONTROL 1 Jack\nAMP CONTROL 2 Jack\nEXP PEDAL 3 / CTL 3, 4 Jack\nEXP PEDAL 4 / CTL 5, 6 Jack\nEXP PEDAL 5 / CTL 7, 8 Jack\nMODE Jack\nNumber of PATCH (PATCH Mode)100\nPower SupplyDC 9 V: AC Adaptor\nDry Batteries AA type x 6\nRRC2\nCurrent Draw94 mA (ECONOMY MODE OFF)\n61 mA (ECONOMY MODE ON)\nExpected batery life under continuous useCarbon:\n6.5 hours or longer (ECONOMY MODE OFF)\n12 hours or longer (ECONOMY MODE ON)\n* These figures will vary depending on the actual conditions of use.AccessoriesOwner's Manual\nDry Batteries R6 (AA) type (carbon) x 6\nRoland ServiceOptionsAC Adaptor PSA serise (BOSS)\nFoot Switch: FS-5U (BOSS) , FS-6 (BOSS)\nExpression Pedal: EV-5, FV-500H/500L (BOSS)\nSIZE AND WEIGHT ( DIMENSIONS )\nWidth550 mm\n21-11/16 inches\nDepth250 mm\n9-7/8 inches\nHeight76 mm\n3 inches\nWeight5.3 kg\n11 lbs. 11 oz.\nhttps://www.roland.com/us/products/fc-300/",
+    "hrid": "roland-fc-300"
+}

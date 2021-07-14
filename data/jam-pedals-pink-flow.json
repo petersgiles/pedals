@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19658",
+    "name": "Pink flow",
+    "image": "images/jam-pedals-pink-flow.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,221 Price in €",
+    "width": 399,
+    "height": 170,
+    "details": "Gilmour inspired multi-effects unitThe Pink Flow is our proposed combination of JAM pedals designs that will do a number of things for your playing and tone:\n•   Equip you with the essential tools to not only bring your “Pink” lines to life but lift them to a whole new level\n•   Offer a future-proof and versatile array of effects that will help you “Shine On” in most live and recording situations you might find yourself in down the road\n•   Maintain the integrity of your hard-earned tone with 100% handmade analog circuitry, a selection of true or buffered bypass (Delay Llama trails mode) and zero patch cables\n•   Simplify your rig by minimizing set-up and tear-down times, reduce hauling weight and restrict power and audio cabling to the minimum\n•   Allow you to focus on creating and playing music\nIn seeking to make the Pink Flow as versatile as possible, we have proceeded to introduce the following features:\n•   TAP tempo with subdivisions on the Delay Llama\n•   Delay Llama trails mode\n•   External TAP tempo IN\n•   Send / Return FX loop between the Overdrive and Modulation sections for you to place other effects in\n•   True Bypass Relay Switching\nSIGNAL CHAIN\n1.  Seagull: the seagull effect heard in “Echoes”!\n2.  Dyna-ssoR: A realisation of our inspiration to combine a Ross Compressor® and an MXR DynaComp® using the extremely rare NOS CA3080 chip.\n3.  TubeDreamer58: a JRC4558D equipped 808 style overdrive offering a carefully tuned, midrange frequency register, that delivers warm and rich overdriven sound through any amp. Features a high-gain footswitch.\n4.  Red Muck: a Fuzz / Distortion pedal, inspired from the circuits of the ’71 “triangle” and the later “Red Army / Civil War” Muff.\n5.  FX Loop Send / Return: Connect other effect/s to place them AFTER the Red Muck and BEFORE the WaterFall. SEND goes to said pedals’ input and RETURN receives the output.\n6.  WaterFall: a smooth, lush-sounding Chorus / Vibrato pedal, featuring BBD chips, with 2 toggle-switches, one to select between chorus and vibrato modes, and another to switch to a wetter effect.\n7.  Ripple: Smooth, sweet and transparent 2-stage phaser pedal, with a single SPEED control setting the effect’s rate\n8.  Delay Llama: A fully analog, BBD chip, delay pedal with a maximum delay time of 600ms, Tap Tempo, HOLD function, and Delay Time expression pedal input. Features a two-position toggle-switch for trails mode ON/OFF and external Tap Tempo input\nUNDER THE HOOD\nRemoving the bottom cover will reveal 3 trimmers, located on the blue PCB (right) which you can adjust to further tweak your sound!\n(1) increase WaterFall’s speed\n(2) increase Delay Llama’s repeats\n(3) increase Delay Llama’s trails decay\nhttps://www.jampedals.com/pink-flow/",
+    "hrid": "jam-pedals-pink-flow"
+}

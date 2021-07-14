@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31392",
+    "name": "TR-6S",
+    "image": "images/roland-tr-6s.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Roland",
+    "current": "500 mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 224,
+    "height": 132,
+    "details": "Rhythm PerformerSix-track version of the TR-8S in a compact and affordable package\nDetailed circuit models of the Roland TR-808, TR-909, TR-606, TR-707, and more\nLarge preset sample library with support for custom user samples\nFM sound engine for futuristic tones\nMix and match sounds for exotic hybrid drum kits\nAdvanced sequencer with sub-steps, flam, step-loop, motion recording, and more\nRuns on four AA batteries or USB bus power\nAlso functions as a high-quality USB audio/MIDI interface\nhttps://www.roland.com/us/products/tr-6s/",
+    "hrid": "roland-tr-6s"
+}

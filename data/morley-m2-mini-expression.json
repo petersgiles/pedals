@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17999",
+    "name": "M2 Mini Expression",
+    "image": "images/morley-m2-mini-expression.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Morley",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 114,
+    "height": 172,
+    "details": "-Passive Voltage Control/Expression Pedal operation. No battery or power adapter needed\n-Smooth consistent taper to ensure accurate control of various parameters\n-Use stereo (TRS) cable to hook to any device with Voltage Control or Expression Pedal capability\n-Alternate TRS jack for devices that have voltage control wired differently\n-Cold-rolled steel housing\n-Current Draw: N/A (Passive)\n-Dimensions: 6.75\"L x 4.5\"W x 2.75\"H",
+    "hrid": "morley-m2-mini-expression"
+}

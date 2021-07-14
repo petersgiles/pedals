@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13825",
+    "name": "Ventris",
+    "image": "images/source-audio-ventris.jpg",
+    "function": [
+        "Digital",
+        "Reverb",
+        "MIDI",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "280 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "Dual DSP Reverb",
+    "hrid": "source-audio-ventris"
+}

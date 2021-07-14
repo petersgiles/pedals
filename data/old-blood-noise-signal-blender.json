@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26094",
+    "name": "Signal Blender",
+    "image": "images/old-blood-noise-signal-blender.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "31 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Parallel Effect MixerThe Signal Blender provides a number of parallel routing solutions through its use of a pair of send/returns, primary input and output, switching, and volume control.\nSignal Blender can be used as a:\nParallel effect blender\n3-to-1 mixer\n1-to-3 splitter\nActive ABY in either direction\nVolume level setter \nand more\nA courtesy 9V power outlet and phase correction switches for both Sends add further versatility to this box. Clever switching allows for latching or momentary on/off action.\nhttps://www.oldbloodnoise.com/pedals/signal-blender",
+    "hrid": "old-blood-noise-signal-blender"
+}

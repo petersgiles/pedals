@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22416",
+    "name": "Riot Reloaded",
+    "image": "images/suhr-riot-reloaded.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Suhr",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "DistortionRiot Reloaded is the result of countless hours of listening, testing, and\ntweaking our original distortion circuit to create a pedal that is amp-like,\naggressive, in your face, and features more gain (30% more than our original\nRiot), ideal for players seeking Hi-Gain Rock, Metal, and drop tuning style\ntones. Riot Reloaded features an easy to tweak layout which includes\nDistortion, Level, Tone, and a three position Voice switch.\nCONTROLS\nDist: Adjusts the amount of distortion added to your tone, taking you from a\nclassic crunch to blistering high gain.\nLevel: Adjusts the Riot Reloaded’s overall output. Use this control to\nminimize the difference between the affected and unaffected signals.\nTone:  Shapes the overall tonal response of the pedal - from smooth and\nwarm to cutting lead tones. Riot Reloaded’s tone control was modified to\nemphasize upper mid-frequencies for a sweeter, more cutting tone, without\nsounding harsh or fatiguing.\nVoice Switch (three position):\nRedesigned to be more apparent offering flexibility, giving you the ability to\nfine tune your sound.\nLeft: Produces a natural, organic tone that responds dynamically to your\ninstrument’s volume control.\nMiddle: Puts you into high gain territory with a solid midrange, and a fat\nbottom end.  \nRight: Produces a classic mid-scooped response, with excellent definition.\nNote: The Voice switch may have less effect at lower gain and tone settings.",
+    "hrid": "suhr-riot-reloaded"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15145",
+    "name": "Octavix",
+    "image": "images/electro-harmonix-octavix.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Octavix Fuzz Octavix delivers the definitive late 1960’s fuzzed out, octave up sound together with modern enhancements that update the classic concept.\nHoused in EHX’s rugged nano package, the Octavix features Volume, Boost and Octave knobs. Volume regulates the output level of the pedal. Boost controls the amount of fuzztone and Octave adjusts the volume of the octave above. A mini-toggle lets the player select between 9 or 24 volt power rails and determines the power supply voltage for the entire circuit. At 9V the pedals behaves like the classic, saggy fuzz box. At 24V the Octavix delivers a tighter sound and a richer octave tone. True bypass ensures maximum signal path integrity.\nA period-evocative, psychedelic design and blue LED contribute to the pedal’s vintage vibe. Octavix runs on a 9 volt battery or accepts a standard EHX9.6DC power supply.\nhttps://www.ehx.com/products/octavix",
+    "hrid": "electro-harmonix-octavix"
+}

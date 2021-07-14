@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16562",
+    "name": "Prism Limited Edition Black",
+    "image": "images/jackson-audio-prism-limited-edition-black.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 124,
+    "details": "",
+    "hrid": "jackson-audio-prism-limited-edition-black"
+}

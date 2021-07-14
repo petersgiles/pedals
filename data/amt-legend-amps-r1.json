@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23734",
+    "name": "Legend Amps R1",
+    "image": "images/amt-legend-amps-r1.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 74,
+    "height": 112,
+    "details": "JFET guitar preamp - Mesa Boogie Triple Rectifer EmulationAMT Electronics R1 Legend Amps – JFET guitar preamp\nFeatures overview\nThe R1 Legend Amp Series pedal, one of most sought after high gain modern amplifiers now in pedal form, the Mesa Triple Rectifer*. Huge ultra modern distortion tone now able to fit on your crowded pedalboard. Sparkling tight chunky rhythm that will impress even the most demanding ears, and cutting powerful leads to make you stand out through any mix. If you’re the player who likes your gain on 10, then this one goes to 11+.\n– The AMT Legend Amp Series guitar pedals provide excellent dynamics, nuances, and characteristics similar to that of tube driven amplifiers.\n– Tube-like range of volume control provides great sound density, playability, and power when playing at full volume and also in conjunction with your guitars volume knob.\n– TRUE BYPASS. The preamps of the Legend Amp Series pedals use passive true bypass circuitry, therefore no loss of guitar signal is noticed in your pedal chain. Similar to if no pedal was there at all when bypassed.\n– Features high level of output signal (+10dB in extreme position of Level knob) corresponds to the output levels similar of tube preamps. Thus, you have adjustable signal level allowing to hook up your preamp AND direct input of a power amplifier.\n– Controls include LEVEL, GAIN, LOW, MID, and HIGH.\n– TWO signal outputs: DIRECT AMPLIFIER OUT for guitar amplifier use and CAB SIMULATION OUT for mixer, or studio use.\n– Power saving mode. When the speaker simulation output jack is not in use, the pedal automatically switches to power saving mode. Current consumption (from 9V power unit) is less than 6mА (in power saving mode it drops to 4mА).\n\nNames used in this document are trademarks of their respective owners, which are in no way are associated or affiliated with AMT Electronics. These trademarks of other manufactures were used to identify products whose sounds were reviewed in the making of this product.\n\nhttps://amtelectronics.com/new/amt-r1/",
+    "hrid": "amt-legend-amps-r1"
+}

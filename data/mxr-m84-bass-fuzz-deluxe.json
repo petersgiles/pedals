@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32284",
+    "name": "M84 Bass Fuzz Deluxe",
+    "image": "images/mxr-m84-bass-fuzz-deluxe.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 63,
+    "height": 110,
+    "details": "MXR M84 Bass Fuzz Deluxe\nhttps://www.jimdunlop.com/mxr-bass-fuzz-deluxe/",
+    "hrid": "mxr-m84-bass-fuzz-deluxe"
+}

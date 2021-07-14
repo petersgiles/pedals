@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12418",
+    "name": "ESPLORA",
+    "image": "images/ac-noises-esplora.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "AC Noises",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "fuzzEsplora means \"explore\".\nThis effect pedal is a timeless fuzz that offers many different tonal possibilities.\nIt has two toggle switches.\nLEFT ONE: at the upper position, allows to bypass the tone control for a true tonal punch, releasing all the frequencies available without any kind of cut.\nRIGHT ONE: at the lower position, gives brightness to the gain and boosts the trebles, making the sound more aggressive and modern.\nIt has three adjustable parameters: Level, Tone and Fuzz/Sustain.\nThe ESPLORA can make the difference for any musical genre which needs a real sonic boost, allowing to play the classic fuzz sound or experimenting with the endless options that this pedal offers.\nBest electronic parts for the highest quality.\nDigital printed graphics for the longest lifetime.\nTop-mounted jack to save space on pedalboard.\nHand-built and designed in Italy.\nTrue bypass switching.\nStandard 9V DC negative power.\nhttp://www.acnoises.com/fuzz/9-combatti.html",
+    "hrid": "ac-noises-esplora"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25306",
+    "name": "White Light OD",
+    "image": "images/earthquaker-devices-white-light-od.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Vintage OverdriveThe White Light Overdrive is based on vintage overdrives that defined the sounds of classic hard rock. This vintage voiced stompbox is similar to a vintage DOD 250 or MXR Distortion+, but don’t mistake it for a direct clone of these OD’s of yesteryear. The White Light gives total control over the voice of the dirt along with a modern presence that is both dynamic and responsive to your playing. The Weight control allows you to adjust the saturation and low end, giving you plenty of tonal shaping options. The White Light Overdrive doesn’t discriminate – it likes both humbuckers and single coils, and will add some real 70′s grit to your tone. The Compression switch lets you choose between an open voiced overdrive with more high-mids and bite, or more compression with less bit and flatter mid-range.\nAll analog, true bypass and handmade one at a time by ghouls in the cement bunker of Akron, Ohio.\nhttps://www.earthquakerdevices.com/white-light",
+    "hrid": "earthquaker-devices-white-light-od"
+}

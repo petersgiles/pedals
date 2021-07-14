@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20612",
+    "name": "Black Devil",
+    "image": "images/donner-black-devil.jpg",
+    "function": [
+        "Digital",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$75 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "2-channel mini preamp pedal\nhttps://www.donnerdeal.com/collections/mini-preamp/products/donner-black-devil-mini-electric-guitar-preamp-guitar-effect-pedal",
+    "hrid": "donner-black-devil"
+}

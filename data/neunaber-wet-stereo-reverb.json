@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11457",
+    "name": "Wet Stereo Reverb",
+    "image": "images/neunaber-wet-stereo-reverb.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$301 Price in €",
+    "width": 73,
+    "height": 117,
+    "details": "",
+    "hrid": "neunaber-wet-stereo-reverb"
+}

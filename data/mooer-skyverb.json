@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18087",
+    "name": "Skyverb",
+    "image": "images/mooer-skyverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$56 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "ReverbSkyverb\nHigh quality digital reverb pedal , using a 32 bit fixed point DSPchip\nThree reverb modes: Studio/ Church/ Plate\nStudio: warm & natural indoor reverb, and the decay knob can show different\nsizes of indoor reverb effects\nChurch: church reverb, empty and smooth natural reflex reverberation\nPlate:plate reverb, let the steel or gold tinsel vibrate and get the man-made \nmixed sound by refering to the vibration frequency \nFull metal shell \nVery small and compact design\nTrue bypass switch\nSpecifications\nInput : 1/ 4”monaural j ack (impedance: 470   )\nOut put : 1/ 4”monaural jack (impedance: 100 Ohms)\nPower Requirement s: AC adapt er 9 V DC (center minus plug)\nCurrent Draw:128 mA\nDimensi ons: 93. 5mm (D) × 42mm (W) × 52mm (H)\nWeight : 170g\nhttp://www.mooeraudio.com/?product/201409199392.html",
+    "hrid": "mooer-skyverb"
+}

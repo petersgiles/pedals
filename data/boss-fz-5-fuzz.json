@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12795",
+    "name": "FZ-5 Fuzz",
+    "image": "images/boss-fz-5-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "36 mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Vintage sounds inspired by famous fuzz pedals of the ’60s and ’70s\nUses advanced COSM technology to recreate classic fuzz\nBOOST control for more aggressive tone\nRoad-tough BOSS metal construction\nBOSS five-year warranty\nhttps://www.boss.info/us/products/fz-5/",
+    "hrid": "boss-fz-5-fuzz"
+}

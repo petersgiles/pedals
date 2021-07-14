@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17316",
+    "name": "Cry Baby Mini Bass Wah",
+    "image": "images/dunlop-cry-baby-mini-bass-wah.jpg",
+    "function": [
+        "Bass",
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$119 Price in €",
+    "width": 76,
+    "height": 133,
+    "details": "Bass WahThe Cry Baby Bass Mini Wah delivers the same sound and functionality as the popular 105Q at half the size with a lighter aluminum housing. Just like its bigger brother, this pedal is optimized to retain a strong, solid fundamental while sweetening up fills and solos, and it'll fit nicely on your downsized travel board.\nhttps://www.jimdunlop.com/product/cbm105q-7-10137-08582-4.do?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=",
+    "hrid": "dunlop-cry-baby-mini-bass-wah"
+}

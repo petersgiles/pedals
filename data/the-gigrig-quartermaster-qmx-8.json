@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20793",
+    "name": "QuarterMaster QMX 8",
+    "image": "images/the-gigrig-quartermaster-qmx-8.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$268 Price in €",
+    "width": 540,
+    "height": 40,
+    "details": "8 Loop Switcher\nhttps://shop.thegigrig.com/quartermaster-qmx-8/",
+    "hrid": "the-gigrig-quartermaster-qmx-8"
+}

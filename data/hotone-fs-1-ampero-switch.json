@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33705",
+    "name": "FS-1 Ampero Switch",
+    "image": "images/hotone-fs-1-ampero-switch.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Hotone",
+    "current": "Pedal is passive",
+    "cost": "$21 Price in €",
+    "width": 100,
+    "height": 40,
+    "details": "2-Way Push-Button Footswitch ControllerVery compact and light\nSuitable for Hotone Ampero and for many other devices with support for push-button foot switch controllers\nhttps://www.hotoneaudio.com/products/controlers/Ampero-switch",
+    "hrid": "hotone-fs-1-ampero-switch"
+}

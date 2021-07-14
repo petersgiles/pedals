@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12777",
+    "name": "Metal Master",
+    "image": "images/digitech-metal-master.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "",
+    "hrid": "digitech-metal-master"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27259",
+    "name": "Pitchblack Portable",
+    "image": "images/korg-pitchblack-portable.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 161,
+    "height": 60,
+    "details": "Polyphonic TunerScale: 12 note equal temperament\nDetection Range: E0 (20.60 Hz) ~ C8 (4186 Hz), sine wave\nDetection Accuracy: +/- 1 cent\nTuning Mode: Mono / Chromatic, Polyphonic / Guitar – Bass (Auto detection) \nDisplay Mode: Regular / Strobe / Half Strobe *0.1 cent indication when using strobe \nCalibration Range: A4 = 436-445 Hz (1 Hz steps)\nFlat / Capo: Flat (b): Can tune down; up to five steps (Chromatic Scale), Capo(#): Can transpose up; up to seven steps (Chromatic Scale) \nInput Impedance: 1 M Ohms (when tuner is on)\nCurrent Consumption: Maximum 130mA\nOutput Current: Maximum 200mA\nConnectors: Input /Check (mono 1/4\" jack), Output (mono 1/4\" jack), Cable Check (mono 1/4\" jack), DC IN (9V), DC OUT (9V) \nPower Supply: AA Alkaline batteries (LR6) x 2, Optional AC adapter (9V)-ready \nBattery Life (Tuner on, Polyphonic tuning mode): approximately 15 hours of continuous use with the tuner on (LR6, using Polyphonic input continuously, Regular meter)\nDimensions (W x D x H): 161 × 60 × 33 mm / 6.34 x 2.36 x 1.30 inches (including rubber feet)\nWeight: 268 g / 9.45 Oz. (including battery)\nColor Variations: Aluminum Black (PB-04-BK), Aluminum Silver (PB-04-SI), Aluminum Red (PB-04-RD)\nAccessories: AA Alkaline batteries x 2 for verifying functionality\nOptions: AC adapter (9V)\nhttps://www.korg.com/uk/products/tuners/pitchblack_portable/index.php",
+    "hrid": "korg-pitchblack-portable"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13279",
+    "name": "Magnifica Reverb Deluxe",
+    "image": "images/foxpedal-magnifica-reverb-deluxe.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Double Reverb\nhttps://foxpedal.com/products/magnifica-deluxe",
+    "hrid": "foxpedal-magnifica-reverb-deluxe"
+}

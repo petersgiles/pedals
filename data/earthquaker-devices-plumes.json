@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22948",
+    "name": "Plumes",
+    "image": "images/earthquaker-devices-plumes.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Small Signal ShredderPlumes™ is a unique, all-analog approach to a classic tube-like overdrive circuit offering 3 different clipping voices, loads of headroom and almost three-dimensional clarity that will push your amp over the edge. The reimagined tone control is finely tuned to sculpt low end, clear top end, and focus midrange with blooming sustain.",
+    "hrid": "earthquaker-devices-plumes"
+}

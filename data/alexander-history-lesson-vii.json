@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18583",
+    "name": "History Lesson VII",
+    "image": "images/alexander-history-lesson-vii.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "DelayThe History Lesson Vol.II is our loving homage to the best echoes the past has to offer.  We’ve updated the pedal with stereo outputs, an improved mixer section, and a tone control for maximum versatility while remaining easy to use.  So plug in and turn some knobs with us on our journey through the past.\n1963 - Magnetic tape echo, warm and rich.  The 1963 mode captures the frequency response of the tape heads and preamp of a vintage tape delay.  The Mod knob controls the \"wow\" or \"flutter\" of the tape.  Each delay repeat loses both treble and bass, for a warm and compressed sound.  The Tone knob controls the age of the tape, making the echo brighter or darker.\n1977 - Analog delay, murky and wet.  The 1977 mode is based on a classic solid-state analog echo.  This mode is capable of infinite repeats for the classic analog delay \"spaceship\" tone.  The Mod knob adds analog chorus or vibrato.  The Tone knob controls the analog delay filter.\n1984 - Digital delay, bright and present.  The 1984 mode captures the sheen and clarity of the early digital delays.  Each repeat sounds just like what you put in, with the classic digital \"clang\" you will either love or hate.  The Mod knob adds wide-ranging pitch modulation, be careful!  The Tone control sweeps the delay between low-pass and high-pass filtering for a wide range of delay tones.\nhttps://reverb.com/p/alexander-pedals-history-lesson-delay",
+    "hrid": "alexander-history-lesson-vii"
+}

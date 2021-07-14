@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14120",
+    "name": "FT201 - Filter / 10 Step Sequencer",
+    "image": "images/koma-elektronik-ft201---filter--10-step-sequencer.jpg",
+    "function": [
+        "Controller",
+        "Filter"
+    ],
+    "manufacturer": "KOMA Elektronik",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$391 Price in €",
+    "width": 152,
+    "height": 229,
+    "details": "State Variable Filter with built-in 10 Step SequencerThe FT-201 by KOMA Elektronik is an unique, innovative filter stompbox effect with an internal 10-step sequencer. In addition it can be controlled by an infrared motion sensor and thus be played gestically!\nFT-201 is already a highly sought after unit and only a few of these were made in black. A very unique.\nAnalog State-Variable multimode filter based on vactrols with a wide frequency range of 20Hz-20kHz. Three separate audio outputs for the filter types are available. A potentiometer controls the cutoff frequency, a fader controls the amount of resonance.\nThe internal 10 step analog sequencer has an own clock generator for setting the tempo but it can be overriden by an external clock signal. The length of the sequence can be set from 2 to 10 steps by a potentiometer. An impulse at the external reset input forces the sequencer to skip to step one. The sequencer voltage can be output a separate jack so you can use the sequencer to control your modular synth.\nThe infrared motion sensor is a special feature controlling the cutoff frequency by default but it can be patched to other parameters. This allows for playing and controlling the filter and sequencer by gestures, with feet or hands.\nA rugged big bypass switch de/-activates the filter. The sensitivity of the CV inputs and outputs as well as the sensitivity of the motion sensor can be adjusted with attenuators which are mounted on the back of the pedal.\nhttps://koma-elektronik.com/?product=ft201-analog-filter-10-step-sequencer",
+    "hrid": "koma-elektronik-ft201---filter--10-step-sequencer"
+}

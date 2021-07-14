@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19774",
+    "name": "DC-Filter",
+    "image": "images/lehle-dc-filter.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Lehle",
+    "current": "Pedal is passive",
+    "cost": "$50 Price in €",
+    "width": 71,
+    "height": 38,
+    "details": "The L ehle DC F ilter will clean analog signals of DC voltageThe Lehle DC Filter eliminates DC voltage from analog signals. Audio signals containing DC voltage cause ugly switching noise. Now, both line and high-impedance signals are cleaned - but with no loss of sound. The DC Filter is of full stereo type, and thus filters stereo - and, of course, mono - signals. This little aid can even process balanced signals. The Lehle DC Filter is a passive filter, so it needs no power supply.\nhttps://lehle.com/EN/Lehle-DC-Filter",
+    "hrid": "lehle-dc-filter"
+}

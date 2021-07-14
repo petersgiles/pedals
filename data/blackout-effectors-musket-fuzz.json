@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15829",
+    "name": "Musket Fuzz",
+    "image": "images/blackout-effectors-musket-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Neat Muff Clone w/ Extra Control",
+    "hrid": "blackout-effectors-musket-fuzz"
+}

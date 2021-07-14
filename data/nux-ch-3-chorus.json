@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13927",
+    "name": "CH-3 Chorus",
+    "image": "images/nux-ch-3-chorus.jpg",
+    "function": [
+        "Bass",
+        "Chorus"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$30 Price in €",
+    "width": 61,
+    "height": 117,
+    "details": "A BUDGET PRICE BUT GREAT SOUNDING CHORUS PEDAL\nFeatures:\nHigh quality effects with flexible function.\nAdopted low noise BBD in delay circuit, natural and clear sound.\nTrue bypass design, minimizes tone loss and get more control of your pedal.\nAluminum alloy housing, good durability.\nLED indicator shows status of effect and battery condition.\nThe pedal can be powered by a battery or AC adapter.\n3 adjustable knobs:\nDepth knob: control the amount of sweep deviation.\nBlend knob: control the amount of chorus effect signal.\nSpeed knob: varies sweep rate.\nColor: Yellow .\nInput impedance: 1M Ohms .\nOutput impedance: 10K Ohms .\nPower: 9V Battery or 9V AC Adapter (not included) .\nProduct size: 11.7 * 6 * 3cm / 4.6 * 2.4 * 1.2in . \nhttps://www.amazon.com/CH-3-Guitar-Electric-Effect-Chorus/dp/B00BK3V6S6",
+    "hrid": "nux-ch-3-chorus"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11453",
+    "name": "Seraphim Stereo Shimmer",
+    "image": "images/neunaber-seraphim-stereo-shimmer.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$301 Price in €",
+    "width": 73,
+    "height": 117,
+    "details": "Shimmer reverbSeraphim Shimmer combines the Wet Reverb with our celebrated shimmer effect, taking the \"choir of angels\" sound to a new level! Simple, versatile controls allow you to quickly dial in your ideal celestial sound.\nEven better—you can switch on-the-fly between shimmer and reverb-only with a long-press of the footswitch. It's like two pedals in one! Kick in the shimmer only when you need it—to add a little sparkle, or for a full keyboard pad effect.\nA long press of the footswitch is just like setting the Shim knob to 0, and a second long press sets it back to the knob position. This results in a seamless transition between shimmer and reverb-only with no break in the effect.\nSelectable buffered/trails or normal/true bypass\n    Mix knob adjustment from 0% to 100% wet\n    Analog dry signal for low noise and zero latency\n    Mono input & output\n    Compact footprint\n    Does not function with the ExP Controller\n    Requires standard 9V pedal power supply (not included)\n    Made in USA—designed and manufactured in Orange County, California\nhttps://neunaber.net/products/seraphim-shimmer",
+    "hrid": "neunaber-seraphim-stereo-shimmer"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25382",
+    "name": "Simble",
+    "image": "images/mad-professor-simble.jpg",
+    "function": [
+        "PreAmp",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$259 Price in €",
+    "width": 60,
+    "height": 120,
+    "details": "Dumble OverdriveThe Simble overdrive - a transparent and organic sounding pedal with wide dynamic range, a Dumble amp in a box.\nSimble Overdrive has a natural organic tone, unsurpassable touch sensitivity, sweet tube-like compression and built in inspiration. This natural sounding pedal works as a clean boost, ”on the edge” crunch, or a sweet singing overdrive, always retaining the tone of your prized guitar.\nThe Simble pedal is happy with either single coil pickups or humbuckers and thanks to the pedals wide bandwidth also works great with bass!\nSimble Overdrive is great for Robben Ford or Larry Carlton tone and much more!\nhttps://www.mpamp.com/non_eu/simble-overdrive",
+    "hrid": "mad-professor-simble"
+}

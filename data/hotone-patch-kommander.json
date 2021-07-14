@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18333",
+    "name": "Patch Kommander",
+    "image": "images/hotone-patch-kommander.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$122 Price in €",
+    "width": 403,
+    "height": 56,
+    "details": "Programmable Effect LooperWith 4 independent relay-based true-bypass audio loops\n12 Memory slots\nSwitchable buffer at the entrance to avoid height loss\nTuner Mute function with independent tuner output\nSW A / B function for switching the amplifier\nAluminum chassis\nSwitch: Buffer On / Off\nLED: Mode or Bank / Patch - Buffer\nFootswitch: 6 low noise footswitches\nConnections: Input - Tuner out - 4 x Send & Return - A / B SW - Output (all 6.3 mm jack) - Power supply connection (coaxial socket 5.5 x 2.1 mm - negative pole inside)\nPower consumption: 150 mA\nPower supply via 9 V DC power supply (2.1 mm x 5.5 mm hollow plug, polarity (-) inside, not included in delivery, suitable power supply available under Art. 409939), no battery operation possible\nTrue bypass\nDimensions (W x D x H): 403 x 56 x 48 mm\nhttp://www.hotoneaudio.com/products/Controller/Loop_Switcher/2017/0911/239.html",
+    "hrid": "hotone-patch-kommander"
+}

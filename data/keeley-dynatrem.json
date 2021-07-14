@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13893",
+    "name": "Dynatrem",
+    "image": "images/keeley-dynatrem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 114,
+    "details": "",
+    "hrid": "keeley-dynatrem"
+}

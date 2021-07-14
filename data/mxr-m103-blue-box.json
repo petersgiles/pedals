@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12360",
+    "name": "M103 Blue Box",
+    "image": "images/mxr-m103-blue-box.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$79 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Fuzz/OctaveThe MXR Blue Box takes your guitar signal, fuzzes it up, then duplicates it 2 octaves down. You control the output and the mix between the dry signal and the effect. Using it 100% wet is quite an experience, but more recognizable sounds appear as you dial in more dry signal. The Blue Box is known for having a chaotic personality that can make each session a totally unique experience!\nhttps://www.jimdunlop.com/product/m103-7-10137-00654-6.do?sortby=ourPicksAscend&page=3&refType=&from=fn",
+    "hrid": "mxr-m103-blue-box"
+}

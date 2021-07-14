@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14864",
+    "name": "Biscuit",
+    "image": "images/oto-machines-biscuit.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "OTO Machines",
+    "current": "? mA / 9 V / AC",
+    "cost": "$504 Price in €",
+    "width": 190,
+    "height": 117,
+    "details": "8-BIT EFFECTS & ANALOG FILTERBISCUIT add depth, texture and organic behavior to synths, basslines, drum machines and virtual sounds from computers.\nBy using 8-bit converters, digital processing and analog resonant filters, BISCUIT opens up a wide range of sounds from harsh distortion, digital and aliasing artifacts to warm and fat 8-bit sounds.\nYou can mute or invert each of the 8 bits of the digital signal by pressing one of the 8 rectangular switches, to generate strong distortions with an intense digital character.\nLower the sample frequency down to 250 Hz for aliasing effects and use the multimode analog filter to get a warm and fat sound.\nYou can also add one of the following effects to your 8-bit modifications: Waveshaper, Delay, Pitchshifter and Step Filter. Each effect contains one or several parameters to set.\nProducers, deejays, musicians and sound lovers can use BISCUIT to extend their sound creation possibilties.\nBISCUIT will find its place in studios, on stages or even in clubs.\nFEATURES\n• Stereo inputs and outputs\n• Input gain from -? to 15 dB with diode clipping\n• Real 8-bit Analog to Digital and Digital to Analog converters\n• Unique capability of muting and inverting each of the 8 bits\n• Variable sample clock from 250 Hz to 30 kHz\n• True analog multimode filter with resonance control\n• FX section: Waveshaper, Delay, Pitch Shifter and Step Filter\n• Separate control of dry and 8-bit signals\n• MIDI : Continuous Controller, Beat Clock, Program Change and Sysex for presets\n• Firmware can be upgraded via a MIDI SysEx file\n• 16 user presets\n• True Bypass by relay\n• Rugged metallic Neutrik© jacks\n• Dimensions: 190mm x 60mm x 117mm / 7.48? x 2.36? x 4.60? (W x D x H)\n• Weight: 580g / 1.27 lbs\nhttp://www.otomachines.com/portfolio/biscuit/",
+    "hrid": "oto-machines-biscuit"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11830",
+    "name": "Liquid Ambience",
+    "image": "images/flux-effects-liquid-ambience.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Flux Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 120,
+    "height": 95,
+    "details": "Atmospheric Reverb with polyphonic Voicing\nhttp://www.fluxeffects.com/liquidambience",
+    "hrid": "flux-effects-liquid-ambience"
+}

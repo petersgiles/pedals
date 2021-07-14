@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17778",
+    "name": "Levitation",
+    "image": "images/earthquaker-devices-levitation.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Reverberation MachineIntroducing the Levitation reverb, a pedal designed by EarthQuaker Devices in conjunction with the LEVITATION music festival! LEVITATION, founded as Austin Psych Fest in 2008, has become a way to honor and preserve Austin’s psychedelic rock heritage, and carry it into the future. We wanted to remain true to the theme ofLEVITATION and decided to do a variation on our popular Ghost Echo pedal to honor the reverb-drenched tones synonymous with classic psych rock. The Levitation Reverb builds on the base sound found in the Ghost Echo but does away with the attack and dwell and adds control over tone, decay, atmosphere and length in their place. It is a vintage voiced reverb that aims to fit somewhere between dirty sixties chambers, classic spring, and the big, ringing plate reverbs of days gone by.\nFour knobs and one switch control quite a bit more than you’d expect. Want a slap back small room sound? Set all of your controls to the minimum and use the mix to dial in the sound of room devoid of anything but a guitar and amp. Want to revel in infinite spatial oscillations? Flip the toggle to long, turn up the atmosphere and decay then tune out. Dial in a bright chiming slap back by turning the tone all the way counter clockwise and reducing the decay. For a rattling, full-bandwidth assault, dime everything and let ‘er rip.\nEach Levitation Reverb is built entirely by hand in Akron, Ohio by EarthQuaker Devices.\nControls\nLength (Toggle): Broad stroke control for decay time. Shorter to left, longer to the right.  \nDecay: Controls the length of the reverb decay. Longer clockwise, shorter counter clockwise.\nAtmosphere: This is a harmonic regeneration control, it feeds the upper frequencies of the reverb trails back through to create a more harmonic (ringing) reverb. More atmosphere clockwise, less counter clockwise.\nMix: This controls how much wet signal is blended in with the dry. More reverb clockwise, less counter clockwise.\nTone: This is an input bandwidth control for the reverberated signal. All the way clockwise reduces all low end content to make a brighter reverb, turning counter-clockwise allows more low end to pass through resulting in a fuller reverberated tone.\nThe Levitation Reverb is True Bypass.",
+    "hrid": "earthquaker-devices-levitation"
+}

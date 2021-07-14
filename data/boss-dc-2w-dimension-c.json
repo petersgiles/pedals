@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19021",
+    "name": "DC-2w Dimension C",
+    "image": "images/boss-dc-2w-dimension-c.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Dimensional ChorusThe genuine Boss and Roland Dimension effect is back, and it's now more versatile than ever! Designed in the premium Waza Craft analog tradition, the Boss DC-2w offers not just a perfect sonic recreation of the original DC-2 Dimension C pedal, but also the legendary SDD-320 Dimension D studio rack effect it was based on. The DC-2W features the same intuitive four-button preset interface as the original '80s-era effects, now evolved with electronic switching that unlocks a multitude of sonic variations not available on the vintage units.\nHighly sought-after by musicians and audio engineers, the Dimension's unique spatial processing magically enhances the width and depth of any sound, from electric and acoustic guitars to keyboards, vocals, and other sources. Built from the original circuit designs and updated with modern refinements, the DC-2W is the only pedal available that delivers the classic Dimension experience with complete sonic authenticity.\nFeatures\n- Premium Waza Craft pedal with all-analog audio circuitry\n- Standard mode provides the sound of the original DC-2 Dimension C pedal\n- SDD-320 mode authentically reproduces the vintage Roland SDD-320 Dimension D, a legendary studio rack effect heard on countless hit records\n- Iconic four-button preset interface, updated with reliable electronic switches and LED status indicators\n- Four main sounds in each mode, plus six variations by pressing two switches together (20 total sounds available)\n- Premium buffer and enhanced bypass circuitry\n- Versatile I/O for integrating with any mono or stereo application, from guitar and bass pedalboards to keyboards and studio mixing\n- Made in Japan\nhttps://www.boss.info/global/products/dc-2w/",
+    "hrid": "boss-dc-2w-dimension-c"
+}

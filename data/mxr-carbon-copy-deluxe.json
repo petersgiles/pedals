@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13282",
+    "name": "Carbon Copy Deluxe",
+    "image": "images/mxr-carbon-copy-deluxe.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 120,
+    "height": 137,
+    "details": "Analog Delay PedalThe Carbon Copy Deluxe Analog Delay features extended delay time with tap tempo functionality, optional modulation, a switch to toggle between the warm sound of the original pedal and vibrant sound of the Bright version, and much more.\nWith extended delay time - now up to 1.2s - and tap tempo functionality, you now have more control over your Carbon Copy repeats than ever. The Tap Division feature, with an easy-to-read status display, gives you four different subdivisions: dotted 8ths, 8ths, triplets, and 16ths. On the tonal side, the Carbon Copy Deluxe Analog Delay lets you choose between the original's dark, mellow wash and the vibrant articulation of the Bright version with the push of a switch. To add further character and texture to your repeats, just hit the Mod switch and use the Speed and Width controls to shape the chorusing to your taste. Additional features include an expression jack for external control of various functions, programmable presets, and more. \nInside the pedal is a Line Level/Instrument Level switch - which allows the pedal to be used either in front of the amp or in the FX loop - and a Dry Kill switch for a \"wet only\" effect that's perfect for studio recording. With true bypass switching, 9-volt battery operation, and MXR's famously rugged construction, the Carbon Copy Deluxe Analog Delay is a must-have for delay aficionados.\nhttps://www.jimdunlop.com/product/m292-7-10137-09560-1.do?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=",
+    "hrid": "mxr-carbon-copy-deluxe"
+}

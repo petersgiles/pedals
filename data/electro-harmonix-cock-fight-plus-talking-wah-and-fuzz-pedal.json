@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15123",
+    "name": "Cock Fight Plus Talking Wah and Fuzz Pedal",
+    "image": "images/electro-harmonix-cock-fight-plus-talking-wah-and-fuzz-pedal.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice",
+        "Wah"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$125 Price in €",
+    "width": 105,
+    "height": 252,
+    "details": "Wah/Talking Pedal with Built In FuzzThe EHX Cock Fight Plus offers up the award-winning tone of the original Cock Fight in a rugged, lightweight pedal and with a traditional rack and pinion style operating mechanism. It contains two different expressive filters: a traditional wah pedal filter and a formant filter used for vowel sounds. The Cock Fight also features a lively fuzz section that can be added before or after the filter section, or taken out of the signal path completely.\nQuick Specs\n - Great wah and talking pedal sounds\n - Like getting three pedals in one: crying wah + talking wah plus a classic fuzz\n - Use with or w/out the fuzz. Place the fuzz before the filter for a vintage vibe or after for a more modern sound \n- Adjustable bias control takes the fuzz from “normal” to a classic “dying battery” sound \n- 9Volt battery included, also works with optional EHX 9.6DC200mA power supply\n - Dimensions in inches: 9.92 (l) x 3.4 (w) x 3.0 (h)\n - Dimensions in mm: 252.0 (l) x 87.0 (w) x 75.25 (h)\nhttps://www.ehx.com/products/cock-fight-plus",
+    "hrid": "electro-harmonix-cock-fight-plus-talking-wah-and-fuzz-pedal"
+}

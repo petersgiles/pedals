@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12701",
+    "name": "FRV-1",
+    "image": "images/boss-frv-1.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Fender ReverbA stunning recreation of the legendary ’63 Fender® Reverb via COSM technology. The FRV-1 puts that timeless tube-driven reverb sound under your foot in a tough, reliable compact pedal.\nA timeless classic — the Fender® Spring Reverb is the sound that launched the surf-music phenomenon, and is a staple of rockabilly, country, and blues. Later, it became commonplace in grunge and other modern genres. Now the same legendary sound can be had in an affordable, rugged compact pedal.\nhttps://www.boss.info/us/products/frv-1/",
+    "hrid": "boss-frv-1"
+}

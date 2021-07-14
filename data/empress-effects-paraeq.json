@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15859",
+    "name": "ParaEq",
+    "image": "images/empress-effects-paraeq.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "Three band parametric eq + boost\nhttps://empresseffects.com/collections/pedals/products/paraeq",
+    "hrid": "empress-effects-paraeq"
+}

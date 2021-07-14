@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19892",
+    "name": "Time Machine",
+    "image": "images/vox-time-machine.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 143,
+    "height": 47,
+    "details": "Joe Satriani signature delay pedalControls: Level, Delay Range, Time, Feedback, ON SW, Tap & Modern/Vintage SW, Hi-Fi/Lo-Fi SW\nIn/Outputs: 1/4″ Input, 1/4″ Output, AC power input (9V)\nMax Delay Time: 5800 milliseconds via Tap-Tempo, 1000 milliseconds via Delay control\nInput Impedance: 1MΩ\nOutput Impedance: 1kΩ\nPower Supply: 9V alkaline battery or AC adapter (sold separately)\nCurrent Consumption: 60mA\nDimensions: 5.63″ W x 2.28″ H x 4.76″ D\nWeight: 600g /1.32 lb. (without batteries)\nIncluded Items: 9V alkaline battery\nOptions: 9V AC adapter (not included)\nhttps://www.joesatrianiuniverse.com/gear/vox-js-pedals/time-machine/",
+    "hrid": "vox-time-machine"
+}

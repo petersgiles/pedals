@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21399",
+    "name": "Havalina",
+    "image": "images/way-huge-havalina.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$69 Price in €",
+    "width": 83,
+    "height": 127,
+    "details": "Germanium FuzzThe Havalina Germanium Fuzz from Way Huge Electronics is a germanium-powered fuzz box inspired by a vintage 3-transistor design that became the psychedelic shot-heard-round-the-world for guitar players, ushering in the new sound of rock. Designed around hand-selected Russian germanium transistors and a passive tone circuit, this peccary of a pedal can go from a soft, mellow crunch for meaty chords to a maelstrom of sonic fur that will make every note feel like a summer of love. Prepare to have your mind bent when you ride the Havalina Germanium Fuzz! \nhttps://www.sweetwater.com/store/detail/Havalina--way-huge-havalina-germanium-fuzz-pedal",
+    "hrid": "way-huge-havalina"
+}

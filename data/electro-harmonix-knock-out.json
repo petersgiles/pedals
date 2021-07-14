@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14575",
+    "name": "Knock Out",
+    "image": "images/electro-harmonix-knock-out.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$84 Price in €",
+    "width": 102,
+    "height": 122,
+    "details": "Attack EqualizerAn innovative effect pedal from the venerable old Electro Harmonix Soundsmith. The knockout makes angular single coil sounds out of thick humbuckers - to explain it roughly. This is done with genuinely selected bass and treble frequencies that are mixed with the original signal. Edge without end - but also when the bass range is emphasised, there is no mulching. Instead, it produces a very contoured, crisp bass area. Uncomplicated, you can improve your sound or simply create a completely different sound variant from your favorite guitar.\nAttack Equalizer\nConverts humbucker sound into single coil sound\nConverts ST sound into T-Style sound\nDimensions (WxDxH): 102 x 121 x 64 mm\nhttps://www.thomann.de/gb/electro_harmonix_knock_out.htm",
+    "hrid": "electro-harmonix-knock-out"
+}

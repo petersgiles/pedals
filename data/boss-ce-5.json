@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11669",
+    "name": "CE-5",
+    "image": "images/boss-ce-5.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$133 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Stereo ChorusThe CE-5 Chorus Ensemble is BOSS' ultimate compact chorus pedal, covering a wide frequency range and featuring high- and low-cut filters. This lets users create any kind of chorus effect--from a mild, natural chorus to the clear and penetrating stereo chorus effect popular in contemporary music.\nInput Impedance:                                  1 M ohms\nOutput Impedance:                               1 k ohms\nRecommended Load Impedance:    10 k ohms or greater\nResidual Noise Level:                          -93 dBu (IHF-A, Typ.)\nConnectors:                                            INPUT Jack, OUTPUT Jack A (mono)/ B, AC Adaptor Jack (DC 9 V)\nPower Supply:                                        DC 9 V: Dry Battery 9 V type (6F22/9 V), AC Adaptor\nCurrent Draw:                                         22 mA (DC 9 V)\nhttps://www.boss.info/us/products/ce-5/",
+    "hrid": "boss-ce-5"
+}

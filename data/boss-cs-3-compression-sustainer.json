@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11472",
+    "name": "CS-3 Compression Sustainer",
+    "image": "images/boss-cs-3-compression-sustainer.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Boss",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$95 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "CompressionCompact compression/sustainer pedal with high-quality circuitry\nCompresses loud signals and boosts softer signals for a smooth overall sound\nOnboard Level, Tone, Attack and Sustain controls for precise tonal shaping\nLow-noise design for super-quiet operation\nBOSS five-year warranty\nhttps://www.boss.info/us/products/cs-3/",
+    "hrid": "boss-cs-3-compression-sustainer"
+}

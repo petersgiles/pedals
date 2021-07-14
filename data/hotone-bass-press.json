@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13072",
+    "name": "Bass Press",
+    "image": "images/hotone-bass-press.jpg",
+    "function": [
+        "Bass",
+        "Utility",
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Hotone",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 62,
+    "height": 138,
+    "details": "Volume / Expression / WahBass Press\nVolume/Expression/Wah-Wah Pedal\nThe Hotone Bass Press is a 3-in-1 compact pedal designed for bass players. This unit features Wah, Volume,\nand Expressionmodes.\nWAH: This Wah mode is specially optimized for bass frequencies, featuring wild, strong, clear sound character\nwithout affecting your bottom end.\nVOL: If musicians the world over agree on one thing, it is their common hatred of the “tone sucking” quality of\npassive volumepedals.\nBass Press' Volume mode is an active volume design, which keeps your tone pristine. Fine tune the bottom\nend with the volume range control.\nEXP: Expression pedal mode can be used without a battery or external power supply. It is compatible with most\ndigital effects and connects with a standard stereo 1/4” jack.This mode also supports keyboards and other\ninstrument that use expression control.\nFeatures:\n✪ True Bypass\n✪ Extreme compact size\n✪ Cool LED lights\n✪ 3 in 1 pedal (Volume, Expression, Wah)\n✪ Specially optimized wah tone for bass\n✪ Adjustable control range (bottom value)\n✪ Active volume mode for lossless tone\n✪ 9V DC or 9V battery power supply\nhttp://www.hotoneaudio.com/products/press/Vol_Exp_Wah_Pedal/2016/1114/194.html",
+    "hrid": "hotone-bass-press"
+}

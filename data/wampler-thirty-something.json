@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23180",
+    "name": "Thirty Something",
+    "image": "images/wampler-thirty-something.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 89,
+    "height": 114,
+    "details": "Vox amp in a boxOverdrive pedal for electric guitar\nDesigned to give you the sound and feel of classic VOX amplifiers\nTop Cut EQ gives you the smooth response you'd expect from a VOX amp's tone controls\nHeadroom switch gives you control over how quickly your tone starts distorting\nGain Boost switch can be engaged to hit your amp harder, even when the overdrive is bypassed",
+    "hrid": "wampler-thirty-something"
+}

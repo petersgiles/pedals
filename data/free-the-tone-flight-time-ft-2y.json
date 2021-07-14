@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17961",
+    "name": "Flight Time FT-2Y",
+    "image": "images/free-the-tone-flight-time-ft-2y.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "digital delay",
+    "hrid": "free-the-tone-flight-time-ft-2y"
+}

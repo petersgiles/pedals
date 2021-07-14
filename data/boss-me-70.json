@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20112",
+    "name": "ME-70",
+    "image": "images/boss-me-70.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "130 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 384,
+    "height": 229,
+    "details": "Multiple Effects UnitDedicated knobs for each parameter for fast, friendly operation\nNew COSM Preamp section derived from GT-10 and Legend series\nEZ TONE for quick, easy editing\nFour footswitches and Expression pedal\nPHRASE LOOP function in DELAY section, with 38 seconds of recording time\nBattery or AC (optional PSA-120s) operation\nhttps://www.boss.info/us/products/me-70/",
+    "hrid": "boss-me-70"
+}

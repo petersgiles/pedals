@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16827",
+    "name": "Voyager Black Friday",
+    "image": "images/walrus-audio-voyager-black-friday.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Overdrive",
+    "hrid": "walrus-audio-voyager-black-friday"
+}

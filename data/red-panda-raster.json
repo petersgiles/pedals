@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11805",
+    "name": "Raster",
+    "image": "images/red-panda-raster.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$324 Price in €",
+    "width": 80,
+    "height": 106,
+    "details": "Pitch & frequency shifting delayThe Raster™ is a digital delay with a pitch- and frequency-shifter integrated into the feedback loop. It delivers a wide range of sounds including harmonized delays, reverse delays, chorus, arpeggios, infinite descents, chaotic self-oscillation, and continuously evolving soundscapes.\nThe core of the Raster™ is a clean delay with up to 750 milliseconds delay time. The low end of the delay control allows you to precisely dial in resonant feedback sounds. The feedback control covers a wide range from slapback delay to noisy, textured infinite feedback loops. Knob responses are carefully tuned for exploration of self-oscillation and feedback on the verge of blowing up.\nThree pitch shifting algorithms are integrated into the feedback loop. Repeats can be pitch shifted up or down by an octave in semitone steps. The detuning mode gives smooth pitch changes from a fourth down to a major third up. Slight detuning creates chorused delay sounds, while wider intervals with feedback create strange organ-like textures. Repeats can continuously shift up or down, or shift once and remain at that pitch. Two reverse delay modes can be used for reverse solos or with pitch shifting for crystal echoes.\nBeyond pitch shifting, a combination phase/frequency shifter creates subtle evolving repeats, dissonant harmonies, and barber pole flanging. It can be pushed to extremes for ring modulation and inharmonic shifted delays that distort and break apart.\nCapable of extreme sonic mayhem, it can also be used with restraint to add unique character to your sound.\nMade in USA. Requires a 9V 100 mA center negative power supply (not included).\nhttp://www.redpandalab.com/products/raster",
+    "hrid": "red-panda-raster"
+}

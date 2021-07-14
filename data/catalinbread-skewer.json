@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33778",
+    "name": "Skewer",
+    "image": "images/catalinbread-skewer.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "1 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 110,
+    "details": "Inspired by the Hornby-Skewes Treble BoosterOne of Blackmore’s most recognizable pieces of gear is his old Hornby-Skewes Treble Booster, a version of the classic effect used by too many artists to list. While almost all of them used a Rangemaster, the Hornby-Skewes version came stock with a silicon transistor for a more biting sound that cut through even the densest of mixes. The SKEWER stays true to that circuit, giving the old JHS unit the same treatment as our Naga Viper. This lets you dial in the desired frequency range from rich and full to treble-heavy, as well as control the amount of boost. You can also vary the amount of transistor gain for some extra juice. \nOf course, because it’s Blackmore we’re talking about here, he had his original Treble Booster modded to play nicer with the rest of his gear. We’ve taken the liberty of giving you that mod as well, which is fully adjustable via the trimpot inside. Further enhancements include a noise reduction filter and anti-pop switch circuitry. This one bites just a little harder than our Naga Viper, and sounds fantastic with the DREAMCOAT.\nhttps://catalinbread.com/products/dreamcoat-skewer-special-edition-box",
+    "hrid": "catalinbread-skewer"
+}

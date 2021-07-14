@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11887",
+    "name": "V847",
+    "image": "images/vox-v847.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 254,
+    "details": "Wah",
+    "hrid": "vox-v847"
+}

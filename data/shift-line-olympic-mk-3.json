@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14769",
+    "name": "Olympic mk 3",
+    "image": "images/shift-line-olympic-mk-3.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 122,
+    "height": 102,
+    "details": "Bass preamp",
+    "hrid": "shift-line-olympic-mk-3"
+}

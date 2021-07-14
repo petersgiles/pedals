@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15023",
+    "name": "Bright Switch",
+    "image": "images/rock-stock-pedals-bright-switch.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Rock Stock Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 38,
+    "height": 89,
+    "details": "5v USB Charger and gooseneck light\nhttps://www.rockstockpedals.com/the-bright-switch",
+    "hrid": "rock-stock-pedals-bright-switch"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26139",
+    "name": "Treeverb",
+    "image": "images/dwarfcraft-devices-treeverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Hall / Pitch / Modulated ReverbTreeverb is a compact, versatile reverb that offers deep but intuitive control allowing users to fit it into just about any setlist. Hall is a traditional, long reverb, with controls for Tone, Pre-delay (Character), and Length. Hall is the broadest mode in the Treeverb and can be tweaked to fit just about any standard reverb need. It can even simulate a slap back delay. Pitch mode starts with a reverb, of course, but the secret sauce is the dual pitch shifters that come next. One is an octave up, one is an octave down. If you’re looking for a HUGE sound, Dwarfcraft has a recipe you need to try. Modulated is made for all kinds of atmospheric, woozy, and sci-fi sounds. It is a big old reverb with a chorus on the wet signal. The Tone and Character knobs allow you to dial in chorus from an almost subliminal cycle to a deep vibrato.\nhttps://www.dwarfcraft.com/store/p126/treeverb.html#/",
+    "hrid": "dwarfcraft-devices-treeverb"
+}

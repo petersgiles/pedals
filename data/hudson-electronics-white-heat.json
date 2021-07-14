@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19535",
+    "name": "White Heat",
+    "image": "images/hudson-electronics-white-heat.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Hudson Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "germanium transistor fuzzThe White Heat is our recreation of the Italian made fuzz built between 1966 and 1970. This pedal delivers a killer raspy fuzz with plenty of top end, without being an ice pick to the forehead. The White Heat cleans up superbly when you roll back the volume on your guitar making it very versatile and usable in many different music settings. If you are looking to recreate the tone of the Sixties, this is the fuzz for you! The White Heat comes loaded with a pair of new old-stock germanium transistors custom tuned right to the sweet spot.\nEach White Heat is built by hand from scratch onto vintage-style stripboard, using high quality components and with a high attention to detail. They come loaded with   CITEC longlife pots, a heavy duty  switch, Neutrik Jacks, carbon film resistors, BC / Vishay capacitors and other high quality components.\nControls\nATTACK – Controls the intensity of the fuzz effect. For a wider range of ‘cleaner’ tones try rolling back the volume control on your guitar.\nLEVEL – Controls the overall volume of the pedal.\nThe over forty year old topology of the circuit and germanium transistors interact best with low to medium output ‘vintage voiced’ pick-ups. Some more modern high output pick-ups (particularly humbuckers) alter the tone of the fuzz and cause the output level to drop and sag when the pedal is engaged though rolling back the volume on your guitar can help counteract this.\nThe original two transistor Italian pedals did not have a huge amount of output – some just making unity gain. The White Heat has more output than the original unit but still does not have modern levels of volume boost available (unity is a round 2/3-3/4 on the LEVEL control) . Therefore it is recommend that you start with both controls set to maximum and ease them back to taste.\nPower\nA standard 9 volt DC regulated power supply with a 2.1mm negative tip barrel plug or a 9 volt PP3 battery. If you intend on sharing the same powers supply with other pedals, please ensure it is one with isolated outputs.\nDimensions\n(including knobs and jacks) 120 x 65 x 60 mm",
+    "hrid": "hudson-electronics-white-heat"
+}

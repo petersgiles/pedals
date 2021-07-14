@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27912",
+    "name": "Phase Tone II",
+    "image": "images/ibanez-phase-tone-ii.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 124,
+    "height": 155,
+    "details": "Phaser70's phaser",
+    "hrid": "ibanez-phase-tone-ii"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12833",
+    "name": "Prestige",
+    "image": "images/jhs-prestige.jpg",
+    "function": [
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 38,
+    "height": 91,
+    "details": "Signal Buffer & Boost\nAt lowest settings, the Prestige makes a great buffer for driving long cables and pedal chains\nUp to 27dB of gain on tap to drive any amplifier into thick, creamy, overdrive/fuzz/distortion\n\nhttps://www.jhspedals.com/products/bass-pedals/prestige/",
+    "hrid": "jhs-prestige"
+}

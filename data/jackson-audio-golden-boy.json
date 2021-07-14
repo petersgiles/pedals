@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28461",
+    "name": "Golden Boy",
+    "image": "images/jackson-audio-golden-boy.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "MIDI"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 72,
+    "height": 130,
+    "details": "Transparent Overdrive The Golden Boy Transparent Overdrive (designed in collaboration with Joey Landreth) is the most versatile and transparent overdrive ever made.\nRich in harmonic detail and overflowing with headroom, the Golden Boy redefines the concept of transparent overdrive and brings it up to date with modern features never before seen in an overdrive pedal.",
+    "hrid": "jackson-audio-golden-boy"
+}

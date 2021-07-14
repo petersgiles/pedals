@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12943",
+    "name": "String Ringer",
+    "image": "images/elta-music-string-ringer.jpg",
+    "function": [
+        "Ring Modulator",
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Elta Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$378 Price in €",
+    "width": 203,
+    "height": 121,
+    "details": "Advanced Ring ModulatorString Ringer\nThe String Ringer, from Elta Music, is a classic LT 44 transformer ring modulator. It is a modern replica of the Lovetone Ring Stinger. It has 1/4\" connections for almost every parameter, making it essentially a module that can be interfaced with any 1/4\" gear (or 3.5mm with converters). It has a built in modulator LFO, as well as a VCO to be used as either the Carrier or Modulator. There are three foot switches for LFO on, Bypass/Active, and Oct/ring. \n​\nString Ringer Features \n   Ring Modulator pedal\n    Based off of the Lovetone Ring Stinger\n    Classic LT 44 Transformer\n    1/4\" inputs and outputs for almost every parameter",
+    "hrid": "elta-music-string-ringer"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26181",
+    "name": "Fathom + Arp 87 Combo",
+    "image": "images/walrus-audio-fathom-+-arp-87-combo.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "130 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 127,
+    "height": 102,
+    "details": "Reverb + Delay",
+    "hrid": "walrus-audio-fathom-+-arp-87-combo"
+}

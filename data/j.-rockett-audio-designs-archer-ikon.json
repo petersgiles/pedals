@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18943",
+    "name": "Archer ikon",
+    "image": "images/j.-rockett-audio-designs-archer-ikon.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 58,
+    "height": 102,
+    "details": "Sort of a 2 in one pedal. It can be used as just a clean boost by turning the gain all the way down. As you introduce gain it will attenuate the clean signal but there is a magical blend in between that you will find. Please experiment!!\nhttps://rockettpedals.com/product/archer-ikon/",
+    "hrid": "j.-rockett-audio-designs-archer-ikon"
+}

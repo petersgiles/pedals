@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24702",
+    "name": "Broadcast AP",
+    "image": "images/hudson-electronics-broadcast-ap.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Hudson Electronics",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$207 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "PreAmpAriel Posen's take on the famous Broadcast. Silicon based, goes from light grit to tasty fuzz. Very versatile pedal.",
+    "hrid": "hudson-electronics-broadcast-ap"
+}

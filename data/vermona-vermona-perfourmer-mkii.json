@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33030",
+    "name": "Vermona PERfourMER MKII",
+    "image": "images/vermona-vermona-perfourmer-mkii.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Vermona",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$972 Price in €",
+    "width": 435,
+    "height": 315,
+    "details": "quad analog synthesizerSynthesizer Channel\none analogue oscillator with sine-, triangle-, square-, and sawtooth-waveform, white noise generator or external audio signal\nPWM via LFO or MIDI (modulation wheel CC#1)\none lowpass filter with 24 db/octave and resonance\none LFO with sawtooth (down), square, sine and sample & hold\none ADSR envelope generator for VCO (pitch), VCF and VCA\nInteraction between Synthesizer Channels\nfrequency modulation of VCO or VCF\noscillator synchronization (hard-sync)\nplaymodes for connected Synthesizer Channels\nM1 - monophonic, unison\nM2 - monophonic, rotating\nD1 - duophonic, unison\nD2 - duophonic, rotating\nP1, P2 - polyphonic\nMiscellaneous\npower supply: internal PSU (90 V~ bis 240 V~)\ndimensions: approx. 43.5 cm x 31.5 cm x 10.5 cm\nweight: approx. 3.7 kg\nOptions:\nCV/Gate inputs (has to be ordered with the PERfourMER MKII and can only be installed by Vermona afterwards)\nwooden side panels",
+    "hrid": "vermona-vermona-perfourmer-mkii"
+}

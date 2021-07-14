@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32041",
+    "name": "R-01 TAUREN",
+    "image": "images/joyo-r-01-tauren.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$64 Price in €",
+    "width": 67,
+    "height": 109,
+    "details": "OverdriveKlon Centaur clone",
+    "hrid": "joyo-r-01-tauren"
+}

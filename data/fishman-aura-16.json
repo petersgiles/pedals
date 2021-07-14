@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17864",
+    "name": "Aura 16",
+    "image": "images/fishman-aura-16.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Fishman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 102,
+    "height": 142,
+    "details": "https://www.fishman.com/wp-content/uploads/2016/03/aura_sixteen_user_guide.pdf",
+    "hrid": "fishman-aura-16"
+}

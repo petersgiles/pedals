@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11403",
+    "name": "Helix LT Guitar Processor",
+    "image": "images/line6-helix-lt-guitar-processor.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,085 Price in €",
+    "width": 529,
+    "height": 301,
+    "details": "Guitar Processor\nhttp://line6.com/helix/helix-lt.html",
+    "hrid": "line6-helix-lt-guitar-processor"
+}

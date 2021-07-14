@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14271",
+    "name": "Bass Envelope Filter Pro",
+    "image": "images/source-audio-bass-envelope-filter-pro.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 152,
+    "height": 178,
+    "details": "Auto-Wah",
+    "hrid": "source-audio-bass-envelope-filter-pro"
+}

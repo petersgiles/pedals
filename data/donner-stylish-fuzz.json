@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14849",
+    "name": "Stylish Fuzz",
+    "image": "images/donner-stylish-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$29 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Classical Fuzz\nTraditional fuzz effect, plump and rich\nWhole Aluminium-alloy classic,stable and strong\nTrue bypass provides transparent\n\nhttps://www.donnerdeal.com/collections/guitar-pedal/products/donner-stylish-fuzz-guitar-effect-pedal-true-bypass",
+    "hrid": "donner-stylish-fuzz"
+}

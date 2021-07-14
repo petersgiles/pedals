@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15318",
+    "name": "JF-01 Vintage Overdrive",
+    "image": "images/joyo-jf-01-vintage-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "OverdriveA representation of the classic Tube Screamer, with a RC4558 chip. The overdrive effect is mellow, mild, smooth--simply exquisite! Also nice sustain.\nTrue bypass design minimizes tone loss.\nAluminum alloy casing with stoving varnish finish.\nhttp://joyoaudio.com/en/product/show_124.html",
+    "hrid": "joyo-jf-01-vintage-overdrive"
+}

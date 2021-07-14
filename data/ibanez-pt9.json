@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20496",
+    "name": "PT9",
+    "image": "images/ibanez-pt9.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 74,
+    "height": 124,
+    "details": "Phaser",
+    "hrid": "ibanez-pt9"
+}

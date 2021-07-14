@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33706",
+    "name": "Ampero Press",
+    "image": "images/hotone-ampero-press.jpg",
+    "function": [
+        "Expression",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "Hotone",
+    "current": "Pedal is passive",
+    "cost": "$85 Price in €",
+    "width": 81,
+    "height": 162,
+    "details": "Compact 2-in-1 passive volume/expression pedalAmpero Press is a compact, passive volume/expression 2 in 1 pedal designed not only for controlling Ampero series multi-effects, but also for controlling other musical devices (with external EXP pedal jacks) or using as a passive volume pedal. Ampero Press boasts the DNA of the Hotone Ampero line: classic black and gold attire with a high-end textured finish. It has solid aluminum alloy casing, smooth and comfortable user experience. \nhttps://www.hotoneaudio.com/products/press/Ampero%20Press",
+    "hrid": "hotone-ampero-press"
+}

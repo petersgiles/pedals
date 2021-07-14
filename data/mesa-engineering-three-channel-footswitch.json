@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32897",
+    "name": "Three Channel Footswitch",
+    "image": "images/mesa-engineering-three-channel-footswitch.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "Pedal is passive",
+    "cost": "$129 Price in €",
+    "width": 349,
+    "height": 105,
+    "details": "3 Channel Dual & Triple Rectifier non Multi-WattFunctions: Channels 1 - 3, Solo & Loop Switches\nWhere used: Dual and Triple Rectifier non Multi-Watt Amplifiers\nDimensions: Width 13 3/4\" x Depth - 4 1/8\" x Height (front) 1 3/8\" and Height (back) 1 3/4\". Stick-on feet add 1/8\" to the height.\nCable not included.\nhttps://store.mesaboogie.com/products/footswitch-3-channel-dual-triple-rectifier-non-multi-watt.html",
+    "hrid": "mesa-engineering-three-channel-footswitch"
+}

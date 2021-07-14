@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12817",
+    "name": "FL-9",
+    "image": "images/ibanez-fl-9.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 124,
+    "details": "Flanger",
+    "hrid": "ibanez-fl-9"
+}

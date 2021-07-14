@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11530",
+    "name": "Nano Double Muff",
+    "image": "images/electro-harmonix-nano-double-muff.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$73 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Fuzz/OverdriveClassic dual overdrive. The original 1969 plug-in Muff Fuzz had just a touch of overdrive and sounded like a vintage amp with a slightly torn speaker. We paired two of these together in one box to create the Double Muff. Use just one Muff for a hint of milky distortion, or cascade the second Muff for over-the-top overdrive that turns the milk into cream. Two distortions in one! Now in a compact, rugged Nano-sized package.\n\nTrue bypass\n9 volt battery included\nOptional 9.6DC-200 power supply available\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\nDimensions in mm: 70 (w) x 115 (l) x 54 (h)\n\nhttp://www.ehx.com/products/double-muff",
+    "hrid": "electro-harmonix-nano-double-muff"
+}

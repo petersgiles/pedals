@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13530",
+    "name": "Deep Impact",
+    "image": "images/akai-deep-impact.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / 9 V / DC",
+    "cost": "$800 Price in €",
+    "width": 140,
+    "height": 175,
+    "details": "Bass Synth Pedal\nhttp://www.effectsdatabase.com/model/akai/pedals/deepimpact",
+    "hrid": "akai-deep-impact"
+}

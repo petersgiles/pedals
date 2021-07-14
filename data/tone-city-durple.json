@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24767",
+    "name": "Durple",
+    "image": "images/tone-city-durple.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Collaboratively designed by Tone City and Andertons TV presenter Peter \"Danish Pete\" Honoré, the Tone City 'Durple' is a versatile mini overdrive pedal that offers rich and responsive low-to-medium gain sounds. Based on Tone City's best-selling Mandragora overdrive, the Durple has been slightly modified to suit Danish Pete's specific tonal tastes.\nFlexible EQ\nA notable tweak includes the 'Mid' control, which has replaced the 'Pre' (presence) knob found on the Mandragora. Letting you cut or boost the amount of mid-range, this thoughtful EQ parameter allows you to attain anything from a smooth and scooped drive sound to a punchy, aggressive crunch.\nThe 'Tone' control has also been adjusted. While the Mandragora provides a super-wide sweep, some users have found its tone control to be too bright-sounding at its max setting. The Durple's tone control, however, is far more user-friendly. Offering a more moderate amount of treble, the Tone City Durple remains musical even when the tone control is cranked up all the way up.\nSmall & Portable\nAlmost all Tone City pedals are built in mini enclosures, which helps to save precious real-estate on your pedalboard. But don't worry, you don't lose any sound quality with micro-sized stompboxes! Tone City uses high-quality components to construct its pedals, and with true bypass switching, your signal will remain as clean and pure as possible when the pedal is disengaged.",
+    "hrid": "tone-city-durple"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32427",
+    "name": "Revelation",
+    "image": "images/black-arts-toneworks-revelation.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "666 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 120,
+    "height": 94,
+    "details": "Dirty boostA revelation. Stripped down all out amp pusher. The Revelation has a trio of controls. Pre Gain, Gain, and Volume. LOTS of volume. Pre Gain sets the overall gain level of the device, the gain control dials in the correct amount of distortion and the volume knob absolutely slays the front end of your amp. Think of the Revelation as an extension of your amp’s pre section. Use it to push your amp into super creamy saturation, use it to boost your riffs into full and thick exaggerations of your amp’s base tone. The Revelation does not alter your tone, just makes MORE of it. Choose the Revelation to hammer your amp.\nhttps://www.blackartstoneworks.com/pedal/revelation/",
+    "hrid": "black-arts-toneworks-revelation"
+}

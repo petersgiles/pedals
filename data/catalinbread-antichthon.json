@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16525",
+    "name": "Antichthon",
+    "image": "images/catalinbread-antichthon.jpg",
+    "function": [
+        "Distortion",
+        "Tremolo"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "1 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Fuzz tremolo“Antichthon” refers to the ancient Greek idea that there was a “Counter-Earth”, 180 degrees opposite of Earth, but unseeable since it was always on the opposite side of the “Central Fire” from Earth. Today, that notion sounds quaint and ridiculous. But if such a planet did indeed exist, what was it like? Was it a mirror-image world where everything was the opposite of our world? These days we have new notions of the unseeable. There’s the concept of the multiverse, that there is more than one universe, and that “big bangs” are happening all the time, the quantum foam bubbling away, giving birth to new universes. And in these universes from a higher dimension, the laws of physics that we know to be true in our home universe may not be the same.   \nhttps://catalinbread.com/products/antichthon",
+    "hrid": "catalinbread-antichthon"
+}

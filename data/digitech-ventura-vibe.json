@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14844",
+    "name": "Ventura Vibe",
+    "image": "images/digitech-ventura-vibe.jpg",
+    "function": [
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 112,
+    "details": "Vibrato/Rotary Pedal\nhttps://digitech.com/en-US/products/ventura-vibe",
+    "hrid": "digitech-ventura-vibe"
+}

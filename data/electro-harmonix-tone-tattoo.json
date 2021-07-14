@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27658",
+    "name": "Tone Tattoo",
+    "image": "images/electro-harmonix-tone-tattoo.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Distortion",
+        "Multieffect"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$215 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Analog multi-effects pedalTONE TATTOO is our first fully-interactive, analog multi-effects pedal. Satisfy your tone jones with a chain that features the Metal Muff Distortion, Neo Clone Chorus and Memory Toy Analog Delay.\nDelivers crushing Lead & Rhythm tones. Features full tone sculpting, including two levels of scoop. New Noise Gate for minimal noise. With three critically acclaimed effects, it’s like a talisman for great guitar.\nhttps://www.ehx.com/products/tone-tattoo",
+    "hrid": "electro-harmonix-tone-tattoo"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23106",
+    "name": "Germanium Fuzz Face Distortion Mini",
+    "image": "images/dunlop-germanium-fuzz-face-distortion-mini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 89,
+    "height": 89,
+    "details": "FFM2This Fuzz Face Mini Distortion provides warm vintage fuzz tones thanks to mismatched germanium transistors, with a status LED, AC power jack, battery door, and mini housing for modern convenience.\nhttps://www.jimdunlop.com/germanium-fuzz-face-mini-distortion/",
+    "hrid": "dunlop-germanium-fuzz-face-distortion-mini"
+}

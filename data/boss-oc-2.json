@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12227",
+    "name": "OC-2",
+    "image": "images/boss-oc-2.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$101 Price in €",
+    "width": 74,
+    "height": 129,
+    "details": "Octave\nhttps://www.boss.info/us/products/oc-2/",
+    "hrid": "boss-oc-2"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26138",
+    "name": "Volca Sample",
+    "image": "images/korg-volca-sample.jpg",
+    "function": [
+        "Digital",
+        "Dual/Stereo",
+        "Sampling"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / DC / Positive Center",
+    "cost": "$149 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Digital Sample SequencerThe Volca Sample is a sample sequencer that lets you edit and sequence up to 100 sample sounds in real time for powerful live performances. It’s a powerful addition to any existing Volca setup, or simply on its own. The new Volca lets you recapture the excitement of the first generation of samplers, in which any sound --- vocals, spoken words, ambient sound, or glitches --- becomes material for your creations!\nhttps://www.korg.com/us/products/dj/volca_sample/index.php",
+    "hrid": "korg-volca-sample"
+}

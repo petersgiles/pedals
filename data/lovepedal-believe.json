@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21273",
+    "name": "Believe",
+    "image": "images/lovepedal-believe.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Octavia style Octave upThis oldschool-style octavia circuit gives you the octave up sound without the fuzz that's usually associated with octave-up pedals. Your octave-up signal is also treated to some of that famous ring-modulation that octavias are known for. If you're looking for something to help your tone kiss the sky, this is your ticket UP!\nwww.lovepedal.com",
+    "hrid": "lovepedal-believe"
+}

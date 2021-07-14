@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23465",
+    "name": "Santa Ana Overdrive",
+    "image": "images/fender-santa-ana-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Fender",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "Overdrive with boostWe helped generate the classic guitar tones that inspired players to create new music, and now with the Santa Ana Overdrive, we’ve brought our expertise to stompboxes. Armed with FET technology, this pedal lets you dial in sounds varying from “just a little hairy” all the way to thick, fully saturated overdrive. The flexible tone controls unlock a wide range of sonic flavors. This pedal cleans up with the guitar’s volume control, just like our famous amplifiers.\nhttps://shop.fender.com/en-US/effects-pedals/boost-gain/santa-ana-overdrive/0234533000.html",
+    "hrid": "fender-santa-ana-overdrive"
+}

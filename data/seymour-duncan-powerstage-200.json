@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27051",
+    "name": "Powerstage 200",
+    "image": "images/seymour-duncan-powerstage-200.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Utility",
+        "Power"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / AC",
+    "cost": "$499 Price in €",
+    "width": 157,
+    "height": 127,
+    "details": "200-Watt Pedal Board Guitar Amp HeadSeymour Duncan's PowerStage 200 is a miniature power amplifier that is engineered to attain the best tone and performance from your pedal-based electric guitar rig. Small enough to fit right on your pedalboard, the PowerStage 200 still pumps out an astounding 200 watts — more than enough to power any combination of guitar cabinets. And the onboard 3-band EQ makes it extremely versatile, no matter what pedals you are using for your front end. Complete with built-in speaker cabinet emulation so you can record directly into your DAW, the Seymour Duncan PowerStage 200 is a powerful solution both on stage and in the studio.\nCompact power amp for a pedal-based guitar rig\n200 watts of power is enough for practically any type of performance\nSmall enough to fit in a backpack or right on your pedalboard\n3-band EQ in the power section for dialing in your ideal tone\nBuilt-in cabinet simulation allows you to go direct to your DAW or a mixing board\nHeadphone output for private practice sessions\nAllows you to use your pedals as the rig's front end",
+    "hrid": "seymour-duncan-powerstage-200"
+}

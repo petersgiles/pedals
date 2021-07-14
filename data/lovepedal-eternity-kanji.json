@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17431",
+    "name": "Eternity Kanji",
+    "image": "images/lovepedal-eternity-kanji.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 65,
+    "height": 118,
+    "details": "Overdrive",
+    "hrid": "lovepedal-eternity-kanji"
+}

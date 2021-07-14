@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17167",
+    "name": "Mandate",
+    "image": "images/ds-guitar-engineering-mandate.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "DS Guitar Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 51,
+    "height": 51,
+    "details": "",
+    "hrid": "ds-guitar-engineering-mandate"
+}

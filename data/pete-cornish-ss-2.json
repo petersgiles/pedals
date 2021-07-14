@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12175",
+    "name": "SS-2",
+    "image": "images/pete-cornish-ss-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Pete Cornish",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$411 Price in €",
+    "width": 95,
+    "height": 145,
+    "details": "http://www.petecornish.co.uk/SAESS-2.html",
+    "hrid": "pete-cornish-ss-2"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11416",
+    "name": "DD-7",
+    "image": "images/boss-dd-7.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Digital Delay & LooperEven with the best-selling delays in compact-pedal history, BOSS continues to push the envelope and innovate. The new DD-7 takes the best features from its predecessors and expands the creative potential with Modulation Delay mode, classic modeled Analog Delay mode, External pedal control options, longer delay time, and more.\n\nExpanded delay time, up to 6.4 seconds\nModulation Delay mode offers natural, chorus-type sounds\nAnalog Delay mode models the classic warm BOSS DM-2 analog delay sound\nTap tempo controllable via external footswitch\nDelay time, feedback, and effect level can be controlled via external Expression pedal\nUp to 40 seconds of recording for sound on sound (Hold mode)\n\nhttps://www.boss.info/global/products/dd-7/",
+    "hrid": "boss-dd-7"
+}

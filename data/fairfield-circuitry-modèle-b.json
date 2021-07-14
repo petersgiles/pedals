@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13396",
+    "name": "Modèle B",
+    "image": "images/fairfield-circuitry-modèle-b.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 92,
+    "height": 40,
+    "details": "Always On BarbershopFor everyone out there who nevers turns off their Barbershop, this is for you. The same circuit in a tiny box, no bypass switch, no light. You can select between two tone options via a jumper inside the pedal:\nflat and wide, like the original Barbershop, like the middle tone position of the Millenium Edition\nlight, high frequency cut, like the right tone position of the Millenium Edition\nAlways on, never off, this is serious.\nhttps://fairfieldcircuitry.com/collections/effect-pedals/products/model-b",
+    "hrid": "fairfield-circuitry-modèle-b"
+}

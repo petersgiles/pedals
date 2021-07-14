@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12275",
+    "name": "SL Drive",
+    "image": "images/xotic-sl-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Xotic",
+    "current": "5 mA / 18 V / DC / Negative Center",
+    "cost": "$124 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Overdrive» Famous for its woody, organic and beautiful sounds of saturation, these legendary British amplifiers, the Super Lead & Super Bass, have been delivering one of the all-time classic sounds for almost 50 years. Players like Jimmy Page, Paul Kossoff and countless other relied on this type of tone for their signature sound.\n» Xotic have recreated this vintage masterpiece in a rugged small enclosure. The SL Drive offers very amp-like response and cleans up nicely with a roll of your guitar’s volume knob. The internal dip switches allow you to choose the sound characteristics of both 1959 models. The “Super Lead” setting offers a brighter tone with more gain, while the “Super Bass” setting has more low end with less highs.\n» This compact design is a powerful tool for the working musicians.\n» The SL Drive is equipped with true bypass switching and eliminates any signal interference when switched off. Power requirements are either 9V battery or AC adaptor (optional).\nhttps://xotic.us/effects/sl-drive",
+    "hrid": "xotic-sl-drive"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17544",
+    "name": "Valeton Surge EP-1",
+    "image": "images/valeton-valeton-surge-ep-1.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 66,
+    "height": 149,
+    "details": "Active Volume/Wah Pedal\nFeatures:\n● Lightweight casing\n● Cool LED lights\n● 2 in 1 functionality (Volume/Wah)\n● Switch between Volume mode and Wah mode by footswitch\n● Vintage wah tone (Wah mode)\n● Smooth taper volume control\nhttp://www.valeton.net/html/en/index.php?ac=article&at=read&did=208",
+    "hrid": "valeton-valeton-surge-ep-1"
+}

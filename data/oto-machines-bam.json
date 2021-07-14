@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16817",
+    "name": "BAM",
+    "image": "images/oto-machines-bam.jpg",
+    "function": [
+        "Chorus",
+        "Reverb"
+    ],
+    "manufacturer": "OTO Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$615 Price in €",
+    "width": 145,
+    "height": 145,
+    "details": "SPACE GENERATORBAM is a stereo reverb processor inspired by the late 70s / early 80s digital reverberator units.These units are sought after by sound engineers, producers and musicians for their grainy, warm and musical reverberations.\nHere at OTO, we are passionated by the technology of the digital reverberators, especially the old models !\nWe have carefully listened to all digital reverberators built from 1976 to 1986, studied their architecture and read all the available papers (from 1961 to nowadays) on digital reverb design. It seemed obvious to us that the musicality of the early digital reverb processors was partly due to the algorithms (the way the processor synthesized a natural reverberation), but also to their hardware limitations.\nThe audio signal was severely high-cut filtered (10 kHz was standard at that time) because of the limited sample clock. Some units used 12 bit gain stepping converters to achieve a 15 bit resolution and others used the first 16 bit converters. Then the samples were digitally processed through a 16 to 20 bit fixed-point CPU with limited memory. The algorithms had to be simple but efficient to create the most musical and versatile reverberation from these limitations. And the hardware itself added grain and warmness to the sound.\nThe technology used in BAM is very close to the one used in these early digital reverberator units : 16 bit converters, 20 bit fixed-point processing, analog filtering and even an input transformer transient simulator. Some of the 7 reverb algorithms are influenced by the early structures, and some are brand new.\nBAM is a very musical and unique reverb processor. It combines the sound quality of a vintage reverb processor with the playability of a desktop effect in a compact format with MIDI control and 36 user presets.\nFEATURES\n• 7 algorithms: Room, Hall, Plate, Ambient, Chorus, Non-Linear and Primitive\n• Input gain up to +15 dB with analog clipping\n• Pre Delay up to 500 ms (with the PRE DELAY pot) or 1500 ms (with the TAP switch)\n• Continuous control of the reverb Size parameter for fine tuning\n• Low-Cut Filter: 20 Hz, 80 Hz, 150 Hz, 250 Hz, 450 Hz\n• Hi-Cut Filter: 1,8 kHz, 4,5 kHz, 7 kHz, 9 kHz, 15 kHz\n• Chorus parameter can add modulation to the reverberator signal\n• Tap Tempo assignable to Pre Delay or Reverb Time\n• Freeze switch\n• 36 user presets\n• MIDI input: BAM responds to CCs and Pgm Change\n• 3 bypass modes: Relay, Spillover and Aux\n• Nice and simple user interface via 16 white LEDs\n• Rugged steel enclosure\n• Neutrik® jack connectors\n• Power supply included\nhttp://www.otomachines.com/product/bam/",
+    "hrid": "oto-machines-bam"
+}

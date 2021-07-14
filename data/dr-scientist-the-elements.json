@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11616",
+    "name": "The Elements",
+    "image": "images/dr-scientist-the-elements.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 70,
+    "height": 129,
+    "details": "The Elements is a dual-channel overdrive/distortion with a wide gain range and a full 3 band equalizer. To increase its versatility, we’ve added toggle switch options for clipping modes, bass cut frequencies, and midrange frequencies. Whether you’re looking for high gain metal distortion or a clean equalizer, The Elements can fulfill a role on any pedalboard. Like all Dr. Scientist pedals, the Elements can be used with guitar, bass, synths, and many other instruments.\nhttps://www.drscientist.ca/pedals/the-elements/",
+    "hrid": "dr-scientist-the-elements"
+}

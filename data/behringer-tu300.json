@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16411",
+    "name": "TU300",
+    "image": "images/behringer-tu300.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Chromatic TunerKnockoff of the Boss TU-3 Chromatic Tuner",
+    "hrid": "behringer-tu300"
+}

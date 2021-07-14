@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23084",
+    "name": "Mandragora",
+    "image": "images/tone-city-mandragora.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 42,
+    "height": 93,
+    "details": "mini od",
+    "hrid": "tone-city-mandragora"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15940",
+    "name": "Refinery",
+    "image": "images/foxpedal-refinery.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Compressor\nhttps://foxpedal.com/products/refinery",
+    "hrid": "foxpedal-refinery"
+}

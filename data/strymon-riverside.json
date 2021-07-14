@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11442",
+    "name": "Riverside",
+    "image": "images/strymon-riverside.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Multistage Drive",
+    "hrid": "strymon-riverside"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21725",
+    "name": "Instant Lo-Fi Junky Vertical Version",
+    "image": "images/zvex-instant-lo-fi-junky-vertical-version.jpg",
+    "function": [
+        "Chorus",
+        "Dynamics",
+        "Filter"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$239 Price in €",
+    "width": 65,
+    "height": 110,
+    "details": "Signal degradationZVEX has released a vertical version of the Instant Lo-Fi Junky stompbox. According to the brand, the circuit remains the same, but the stomper is now more pedalboard-friendly.\nThe Instant Lo-Fi Junky, which emulates the sonic character of the Lo-Fi Loop Junky, is a signal degradation unit that’s capable of deep chorus sounds, sparkling clear compression and warbly vibratos. At the heart of this pedal is a Comp/Lo-fi control which manages the compression-vibrato blend. This works with a wave shape control – triangle, wave or square – to achieve the pedal’s wide range of sounds.\nApart from these, the original’s volume, speed, tone and depth controls have been retained.\nhttps://www.zvex.com/guitar-pedals/instant-lo-fi-junky-vertical-guitar-effects-pedal",
+    "hrid": "zvex-instant-lo-fi-junky-vertical-version"
+}

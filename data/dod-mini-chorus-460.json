@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19788",
+    "name": "Mini-Chorus 460",
+    "image": "images/dod-mini-chorus-460.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Analog Chorus",
+    "hrid": "dod-mini-chorus-460"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28480",
+    "name": "Fuzz",
+    "image": "images/akai-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Akai",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "Three times the fuzzy pleasure.Tri-Mode Fuzz is Akai Professional’s Analog Custom Shop solution to the classic fuzz guitar sound. Tri-Mode Fuzz combines Level, Tone and Fuzz knobs with a Muffy, Boost and Warm Tri-Mode switch in heavy-duty polished stainless-steel housing. True-bypass switching, three adjustable knobs and tone toggle switch provide complete fuzz control.\nTri-Mode Fuzz’s Tri-Mode toggle-switch provides a wide variety of fuzz sounds. Select Muffy for that rich, saturated BIG rock sound, Boost for a bright sting ideal for new-wave, power-pop glory or Warm to get that perfect blend of velvety-smooth fuzz tone. Tone depth, brightness and intensity may be further adjusted using the three precision Level, Tone and Fuzz knobs.\nTri-Mode Fuzz is powered by the included 9-volt battery or 9v AC adapter (sold separately).\nMain Features:\nThree modes of classic Fuzz sounds: Muffy, Boost and Warm\nPure analog design\nLevel, Fuzz, and Tone controls\nTrue Bypass for retaining a pure signal when the effect is disengaged",
+    "hrid": "akai-fuzz"
+}

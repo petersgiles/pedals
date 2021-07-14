@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29072",
+    "name": "Mothership CV Editon",
+    "image": "images/pigtronix-mothership-cv-editon.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Ring Modulator",
+        "Synth Voice"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / 18 V / DC / Negative Center",
+    "cost": "",
+    "width": 188,
+    "height": 117,
+    "details": "Custom shop modification of the Mothership which added CV & Gate outputsPigtronix Mothership is an analog synthesizer featuring VCO, Sub-Octave and Intelligent Ring Modulator. Incredibly fast tracking and ultra FAT tone make this unique synthesizer ideal for use with guitar, bass, horns, vocals or any other musical instrument. No special pickup or interface is required.\nAt the heart of the Mothership is a revolutionary note recognition system that achieves instantaneous and accurate pitch to voltage translation. The Mothership is a true analog monosynth with a limitless array of tuning options between its voices covering 8 octaves\nVCO – The main voice of the Pigtronix Mothership is a VCO (voltage controlled oscillator) that outputs either triangle or square waves. An adjustable portamento (glide) effect can be added to produce subtle slides from note to note or outrageous multi-octave glissando maneuvers. An expression pedal jack for Whammy control provides tunable pitch bending up to one octave using a TRS Expression pedal. That’s right… ANALOG WHAMMY!\nSub-Octave – The octave down is a massive, earthshaking sine wave bass tone that remains locked to the input signal. A dedicated SUB Out jacks allows low frequencies to be sent to a separate bass amp or house DI for maximum booty.\nIntelligent Ring Modulator – Pigtronix unique pitch tracking ring modulator follows every note you play, retaining the exact harmonic intervals between its output and the signal it is tracking. A “ring mod source,” switch lets the ring modulator follow either the input signal or the VCO signal, providing an immense array of analog textures and interactive harmony. The glide and whammy functions also apply to the intelligent ring modulator, letting the musician morph one harmony into another and then back again.\nThis version is a unique modification which allowed added CV & Gate outputs which could then be used to control modular or semi-modular synthesizers with the guitar, independent of the pedal's other functions.\n\nhttps://pigtronix.com/legacy/",
+    "hrid": "pigtronix-mothership-cv-editon"
+}

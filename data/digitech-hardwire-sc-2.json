@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12258",
+    "name": "Hardwire SC-2",
+    "image": "images/digitech-hardwire-sc-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 89,
+    "height": 140,
+    "details": "Valve Distortion\nhttp://digitech.com/en/products/sc-2",
+    "hrid": "digitech-hardwire-sc-2"
+}

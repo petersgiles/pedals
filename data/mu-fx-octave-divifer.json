@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18504",
+    "name": "octave divifer",
+    "image": "images/mu-fx-octave-divifer.jpg",
+    "function": [
+        "Bass",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mu-FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 114,
+    "height": 152,
+    "details": "Octave DividerThe Mu-FX Octave Divider retains all the versatility and accurate tracking of the original Musitronics Mu-tron Octave Divider pedal, but now in a “mini-Mu” housing that has the authenticity of the original in a pedal-board friendly size. It includes the same Octave Down effect and Green Ringer that made the original Octave Divider so popular with Jerry Garcia, Frank Zappa, Chris Squire, Larry Graham and others. Made in the USA with modern manufacturing techniques, the enhanced reissue offers more versatility of operating modes and features.\nhttps://www.mu-tron.com/mu-fx-octave-divider/",
+    "hrid": "mu-fx-octave-divifer"
+}

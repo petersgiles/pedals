@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11727",
+    "name": "Sex Drive",
+    "image": "images/durham-electronics-sex-drive.jpg",
+    "function": [
+        "Distortion",
+        "Dynamics",
+        "Multieffect"
+    ],
+    "manufacturer": "Durham Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 57,
+    "height": 102,
+    "details": "Clean boost with compression\"I designed the SEX DRIVE pedal to fulfill the very particular needs of good friend Charlie Sexton (Bob Dylan, ARC Angels, David Bowie, Grammy winning producer, all around musician). The goal was to build a “clean-boost” pedal that would supply additional bottom end and sustain when needed. The pedal would have to provide a boost that would not alter the original quality of the amplifiers natural tone. Most important, was to not add a “nasal” tone like the other pedals in his effects graveyard. The result was the SEX DRIVE pedal. Though it wasn't my intention to go into production of effect pedals, the demand has been so overwhelming I found I had no choice\".\n​\nFEATURES:\nTotally hand built/wired\nSwitch Craft jacks\nAlpha full size potentiometers\nBack-lit Blue LED\nUses standard negative tip 9V DC supply (not included) drawing 10mA\n2 year warranty\nSound is NOT colored while bypassed - \"Very transparent, hi-fi sounding, didn't color my sound at all\" -Eric Johnson\nNot True Bypass - We tried true bypass, and we didn't like it\nDimensions 2 1/4\" x 4 1/4\"\nhttps://www.durhamelectronics.com/sex-drive",
+    "hrid": "durham-electronics-sex-drive"
+}

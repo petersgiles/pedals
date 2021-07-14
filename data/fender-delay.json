@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12049",
+    "name": "Delay",
+    "image": "images/fender-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$66 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Digital stereo delayDigital stereo delay\n300ms Delay Time\nInput Impedance: 500 kOhm\nOutput Load Impedance: >10 kOhm\nEquivalent Input Noise: -110dBm\nPower Consumption: 11mA",
+    "hrid": "fender-delay"
+}

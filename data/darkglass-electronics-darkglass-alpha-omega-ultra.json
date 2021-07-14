@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17709",
+    "name": "Darkglass Alpha Omega Ultra",
+    "image": "images/darkglass-electronics-darkglass-alpha-omega-ultra.jpg",
+    "function": [
+        "Distortion",
+        "Bass"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "110 mA / 9 V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 125,
+    "height": 96,
+    "details": "Distortion PreAmp",
+    "hrid": "darkglass-electronics-darkglass-alpha-omega-ultra"
+}

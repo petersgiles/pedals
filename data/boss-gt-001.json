@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13307",
+    "name": "GT-001",
+    "image": "images/boss-gt-001.jpg",
+    "function": [
+        "Digital",
+        "MIDI",
+        "Multieffect",
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "240 mA / ? V / AC",
+    "cost": "$299 Price in €",
+    "width": 211,
+    "height": 137,
+    "details": "Guitar Effects ProcessorPremium amps and effects in a stylish desktop unit includes BOSS’ latest COSM amp models, powerful MDP effects, and more\nFlexible routing of amps and effects through two effect chains\nAdvanced multi-channel USB audio/MIDI interface for flexible recording and efficient re-amping\nCompatible with GT-100 Version 2.0 sound patches\nPanel knobs for adjusting sounds and dedicated buttons for calling up favorite tones\nBOSS TONE STUDIO editor/librarian for Mac/Windows and custom patches available at bosstonecentral.com\nXLR mic input with phantom power; specially designed effects patches for vocals and acoustic guitars\n1/8-inch input for connecting a stereo device such as a smart phone or music player\nMonophonic guitar-to-MIDI conversion from normal 1/4-inch guitar input\nJack for connecting an expression pedal or up to two footswitches for real-time effects control and patch changes\nPowered by USB bus or included AC adapter\nhttps://www.boss.info/us/products/gt-001/",
+    "hrid": "boss-gt-001"
+}

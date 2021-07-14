@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18049",
+    "name": "Dead Stag",
+    "image": "images/kma-audio-machines-dead-stag.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 119,
+    "height": 142,
+    "details": "Fuzz / DistortionDeep black mud is covering his jaws, but the rising sun reveals the glancing brake draped antlers of the majestic dead stag. His massive blast of distortion will tear down even the thickest boondock wilderness and set the world on fire.\nThe Dead Stag is based on one of the most classic discrete fuzz/distortion circuits in pedal history. This design has been built into countless versions by many pedal builders along the last forty odd years, however we wanted to take the evolution further than ever before and give you a Big Muff style pedal, but one with many more tonal options and smart features to make as versatile a fuzz/distortion pedal as possible.\nBeneath the active Bass/Treble EQ with a 15db cut/boost, KMA designed a parametric mid EQ with a 12db cut/boost between 400Hz and 2.4kHz. Apart from the internal Q Bandwidth control, every EQ control is on top of the pedal which gives you a ton of tonal options. From a thick low-end rumble or spitty mid-range, to scooped mids or a low mid hump, everything is possible. The MUD control sets up the grade of distortion, while GROWL controls the overall volume. In addition, you can choose between two gain levels with the high/low switch and give your high mids a boost at the end of the circuit by the smooth/sharp switch. \nPowered by an optional standard 9V DC (max.) PSU (negative center, 2.1mm, approx. 12mA current draw) \nEvery pedal is designed, assembled, silkscreened, tested and numbered by hand in our small workshop. We use external manufactured PCBs to guarantee our high quality standard and keep the price of our pedals reasonable. The use of an indestructible powdercoated die-cast enclosure ensures a maximum durability. \nhttp://kma-machines.com/m_stag.html",
+    "hrid": "kma-audio-machines-dead-stag"
+}

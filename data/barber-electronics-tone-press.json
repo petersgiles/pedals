@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16561",
+    "name": "Tone Press",
+    "image": "images/barber-electronics-tone-press.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Barber Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "Parallel CompressionThe Barber Tone Press: Tone and Sustain with “Plug and Play” Performance.\nBringing together the very best of classic guitar compression and time-honored recording techniques. The Barber Tone Press is a revolutionary performance compression pedal that has no rival...\nA remarkable Tonal Breakthrough: How We Did It\nIn research and development, Barber studied the problems associated with classic guitar compressors and their recent clones and found that, while the clone-makers build pedals with improved components (cleaner switching, in particular) and matched transistors, a few of the major drawbacks of those “vintage” designs still exist. The most glaring drawback of popular classic compressors is that they reverse the guitar’s phase and cause a “pop” that squashes the attack at the beginning of every note. Although we now see some compression units that have attack controls, they leave a bit to be desired as they require seemingly endless trial and error tweaking , and still no true solution to gracefully removing the pop.\nParallel compression is the solution. a Barber innovation that blows away having to deal with attack, ratio and release knobs of other so-called \"studio compressors.\" Barber developed a one-of-a-kind proprietary continuous “blend control” circuit, and combined it with a discrete “Class A” FET mixer circuit to allow you to continuously blend the natural signal of your carefully selected guitar with a “phase-corrected” classic compression circuit. The result? What guitar players have always wanted, unaltered attack and supernatural sustain and resonance. No studio engineering degree required.\n• Precision components- Panasonic supply capacitors and metal film resistors for low noise. \n\n•True bypass switching with led indicator- this is achieved by using an high grade switch, in addendum Solid 20 gauge copper hookup wire is used between the jacks and switching to create a transparent bypass.\n\n• Full size pots- for durability and for easy serviceability if needed. \n\n• Cast aluminum enclosure-our incredibly durable enclosure will last a lifetime! \n\n• Double sided pc board with plate through holes-This is the way the military does it when they want electronics to work FOREVER! all pedals should be made this way , few are.\nNEW FEATURES! Elna silk particulate audio caps, Panasonic and Wima film caps. Enhanced circuit with 2-3db increased available output to help match higher output pickups.\nBarber is the pioneer of compression pedals with adjustable blend, the first ever to market a \"parallel compressor\".\nTone Press only $159.95, replaced by Compact Tone Press.\nDC jack included (ac power adaptor not included)\ncurrent draw 10ma\n4.7\"x3.7\"x1.1\"",
+    "hrid": "barber-electronics-tone-press"
+}

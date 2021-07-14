@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13043",
+    "name": "Shallow Water",
+    "image": "images/fairfield-circuitry-shallow-water.jpg",
+    "function": [
+        "Filter",
+        "Pitch Shifter",
+        "Tremolo",
+        "Chorus"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$415 Price in €",
+    "width": 119,
+    "height": 97,
+    "details": "K-Field Modulator | Randomly modulating Chorus-VibratoPoolside conversations while staring at your own reflection. The depths of which shall never be known, at least not for another couple thousand years. So it goes.\nBefore the reflection, is the experience. Before phenomena, or even noumena, is that which is undefinable. That which has never been heard, that which will never be heard again and that which has always been heard but never listened to.\nK-field (Simulation mathematics), an  undefined, two-dimensional, non-linear field where past and future forces interact at irregular intervals. Shallow Water generates this k-field by randomly modulating a short time delay to create unexpected shifts in pitch. The result is this non cyclical vibrato/chorus/flanger-type thing favouring old tape flavours.\nThe water is shallow on this side of the pool. Do not dive and you will not drown.\nhttps://fairfieldcircuitry.com/products/shallow-water",
+    "hrid": "fairfield-circuitry-shallow-water"
+}

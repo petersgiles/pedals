@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32440",
+    "name": "Surveyor V1",
+    "image": "images/electronic-audio-experiments-surveyor-v1.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "IVP Preamp section",
+    "hrid": "electronic-audio-experiments-surveyor-v1"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16794",
+    "name": "Fishman Aura Spectrum DI Preamp Acoustic Pedal",
+    "image": "images/fishman-fishman-aura-spectrum-di-preamp-acoustic-pedal.jpg",
+    "function": [
+        "Dynamics",
+        "Modeling/Simulation",
+        "Tuner",
+        "Volume"
+    ],
+    "manufacturer": "Fishman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 133,
+    "height": 142,
+    "details": "Acoustic Preamp DI PedalFishman Aura Spectrum DI is the complete tone solution for the acoustic musician! It features award-winning Aura Acoustic Imaging technology that restores a studio-miked sound to your undersaddle or soundhole pickup. Housed in a pro quality all-metal case, Aura Spectrum DI features a 3-band EQ, one-knob compressor, automatic feedback suppression with up to three notches, chromatic tuner, effects loop, plus a high-quality balanced XLR DI. The included Aura Image Gallery software provides access to an ever-expanding list of instruments (guitar, dobro, violin, mandolin,) recorded with world-class studio mics and techniques. Aura Spectrum DI is an incredibly versatile means of delivering the most realistic acoustic sound available for stage or studio.\nFishman Aura Spectrum DI Features:\nAura Acoustic Imaging: 128 images for multiple instruments\n16 user-configurable locations\nUSB and software for uploading Images from the Aura gallery\nPro-quality instrument preamp with balanced XLR DI out and automatic DI ground lift\n3-Band EQ, one knob compressor, chromatic tuner w/ bypass/mute\nAutomatic anti-feedback with up to three notches\nFeedback-fighting phase switch\nhttps://www.fishman.com/products/series/aura/aura-spectrum-di-preamp/",
+    "hrid": "fishman-fishman-aura-spectrum-di-preamp-acoustic-pedal"
+}

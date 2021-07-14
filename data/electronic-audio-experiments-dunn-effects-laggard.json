@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16709",
+    "name": "Dunn Effects Laggard",
+    "image": "images/electronic-audio-experiments-dunn-effects-laggard.jpg",
+    "function": [
+        "Delay",
+        "Filter"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 93,
+    "details": "ENVELOPE MODIFIER + DELAYThe Laggard a collaboration between dunn effects (St Louis, MO) and Electronic Audio Experiments (Boston, MA). It is a combination of a lo-fi digital delay with modulation, and an envelope modifier which alters the attack and release of notes played on a guitar. This pedal is capable of ambient textures, volume swells, faux-reverse effects, and unusual dynamic sounds, thus transcending the common SG1 clone to create something totally new.\nThe envelope modifier is a VCA (voltage-controlled amplifier) controlled by an envelope detector with variable Attack and Release controls. These controls directly adjust the speed at which the VCA responds to the input signal. In addition there is an active volume control with +3dB of boost available.\nThe delay circuit is a fairly standard PT2399 implementation, but with some tricks for graceful overload. We also added a modulation (Warp) circuit using a hypertriangular LFO, which offers a different sort of pitch bending than the standard sine or triangular LFO. The controls are as follows: \nMix: level of delay repeats (clean signal remains constant) \nTime: delay time, introduces noise and artifacts at high settings \nFeedback: number of repeats, from a single echo to self-oscillation \nRate: modulation speed, from imperceptibly slow to a fast vibrato \nDepth: modulation depth, from subtle to seasick \nWarp toggle: engages modulation\nThe pedal also features top loaded jacks, true bypass switching, bright LEDs, and standard 9V power. The enclosure is a 1790NS size (4.7”x5.7”) in landscape orientation",
+    "hrid": "electronic-audio-experiments-dunn-effects-laggard"
+}

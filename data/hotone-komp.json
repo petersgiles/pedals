@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25887",
+    "name": "Komp",
+    "image": "images/hotone-komp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Hotone",
+    "current": "19 mA / 9 V / DC / Negative Center",
+    "cost": "$69 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Optical compressorThe Hotone Komp stompbox is an optical compressor that provides a smooth compressed tone, while maximizing\nthe punch of your notes. You will feel as if every sound from your amp was mastered in the studio.\nUse the SPARK button to insert more high end into your sound.\nInspired by the legendary Urei LA2A photoelectric compressor*, our circuit has been optimized according to the\ncharacteristics of the electric guitar and performs outstandingly over the spectrum of different playing styles.\nThe compressed tone is round and smooth, full of musicality, and perfectly retains the original guitar tone.\n✪ True Bypass Footswitch\n✪ Zinc Alloy Outer Cover\n✪ Transparent top knob and 2 noctilucent small knobs\n✪ Cool LED lights\nhttps://www.hotoneaudio.com/products/skyline/komp",
+    "hrid": "hotone-komp"
+}

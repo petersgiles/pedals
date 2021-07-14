@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18986",
+    "name": "Tall Font Russian",
+    "image": "images/wren-and-cuff-tall-font-russian.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$177 Price in €",
+    "width": 70,
+    "height": 123,
+    "details": "Meticulous sonic recreation of the sought-after Russian Muff.The payoff of multitudes of hours spent researching just what made the old big box tall font sovtek muffs so great, Wren and Cuff are proud to present you with the Wren and Cuff Tall Font Russian. The Wren and Cuff Tall Font Russian is not only a vintage repro, but it is THE repro. It boasts that slightly brighter tone with more open highs than the generally acclaimed civil war version does. The Wren and Cuff Tall Font Russian also has custom modded potentiometers for the perfect amount of gain in order to bring you just the right wide open fuzz tones for your riffing pleasure!",
+    "hrid": "wren-and-cuff-tall-font-russian"
+}

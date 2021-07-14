@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11686",
+    "name": "Nautila",
+    "image": "images/digitech-nautila.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$167 Price in €",
+    "width": 67,
+    "height": 112,
+    "details": "",
+    "hrid": "digitech-nautila"
+}

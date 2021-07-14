@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20497",
+    "name": "M-85 Bass Distortion",
+    "image": "images/mxr-m-85-bass-distortion.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 60,
+    "height": 114,
+    "details": "M-85 Bass DistortionTHE LONG STORY.\nThe MXR Bass Distortion dishes out big gnarly tones with all the low end your bottom-dwelling heart desires. Working closely with indie pedal phenom, bass dirt guru, and Fuzzrocious Pedals founder Ryan Ratajski, we took a famously nasty sounding distortion circuit and re-tooled it for the modern working bass player. \nBack in the day, if you wanted to use a distortion pedal and keep your low end intact, you had to split your clean and dirty signals between two amps. With the MXR® Bass Distortion, there's no such need-this pedal puts control over the clean/dirty mix right at your feet with separate Dry and Wet level controls. The Tone control, which only affects the distortion signal, is a simple high cut filter for dialing back the top end, and the Distortion control sets the distortion signal's intensity.\nFinally, the MXR® Bass Distortion's raunchy sound comes in two flavors, selectable via the LED/SIL switch. The default SIL setting uses silicon clipping diodes for an aggressive, biting sound and a bit of compression, while the LED setting uses LED diodes for a more wide open sound and a nice gain bump.\nhttps://www.jimdunlop.com/product/m85-7-10137-08503-9.do",
+    "hrid": "mxr-m-85-bass-distortion"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33662",
+    "name": "WH10V3",
+    "image": "images/ibanez-wh10v3.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 100,
+    "height": 202,
+    "details": "Wah with selectable buffer type",
+    "hrid": "ibanez-wh10v3"
+}

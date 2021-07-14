@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12137",
+    "name": "BigShot ABY",
+    "image": "images/radial-bigshot-aby.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 95,
+    "height": 95,
+    "details": "True Bypass Amplifier Switch SwitcherBigShot ABY™ True-Bypass Switcher\nPart No. R800 7210 \nTrue-bypass ABY amp selector with LED indicators\nOn-board transformer to eliminate hum & buzz\n180° polarity reverse to phase-match amps\n100% passive audio path, does not require power\nThe Radial BigShot ABY is a compact ABY switcher that enables you to either switch between two amplifiers or combine the signal when you want both amps to play at the same time.\nDesigned for the purist, this true-bypass ABY switcher is completely passive meaning that there are no tone altering buffers in between the guitar and the amplifier. With the BigShot ABY, you get the pure tone from your guitar plugged direct into your amp! To add versatility, the BigShot ABY is also equipped with a separate tuner out. This 'always on' output feeds your tuner for constant monitoring while keeping it out of the signal chain. Should you experience hum and buzz problems due to ground loops, the BigShot ABY comes to the rescue with a built-in isolation transformer and ground lift switch. Once engaged, you can toggle the polarity of the second amplifier to ensure both amps play in absolute phase.\nIn use, the BigShot ABY is both simple to use and efficient on stage. When powered by an external 9V supply or pedalboard power brick, full size super-bright LEDs spring to life to provide instant on-stage amplifier status readout. When power is unavailable, the passive audio signal path still works, unaffected. The compact yet ultra-rugged design makes the BigShot ABY ideal for pedalboards where space is always at a premium.\nhttp://www.radialeng.com/bigshotaby.php",
+    "hrid": "radial-bigshot-aby"
+}

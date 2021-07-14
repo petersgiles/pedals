@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19222",
+    "name": "Tchula Gold",
+    "image": "images/lovepedal-tchula-gold.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 112,
+    "height": 59,
+    "details": "Gold Version of the Tchula (2 stage COT50)The TCHULA was originally built for Josh Smith as a “one off” 2 stage, custom tuned, COT50 and quickly became a his #1 Dirt Box.\nHighly sought after by professional guitarists and collectors worldwide it has been my mission to produce this unit from time to time in custom small batch builds.. This unit blows minds! It sounds and feels so natural you will swear there is an amp in this box!\nhttp://www.lovepedal.com/pedals/tchula/",
+    "hrid": "lovepedal-tchula-gold"
+}

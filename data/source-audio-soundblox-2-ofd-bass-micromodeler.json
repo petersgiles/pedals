@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20498",
+    "name": "Soundblox 2 OFD Bass Micromodeler",
+    "image": "images/source-audio-soundblox-2-ofd-bass-micromodeler.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "Soundblox 2 OFD Bass MicromodelerSOUNDBLOX 2 OFD BASS microMODELER\nBUY NOW\nThe OFD Bass microModeler packs a comprehensive, low-end enhanced collection of new and vintage overdrive, fuzz, and distortion tones into a single stage-ready stompbox perfect for bassists of all genres. Each effect has been meticulously crafted to provide precise and naturally responsive tones, from warm and thumping tube overdrive to bass-in-your-face fuzz. The OFD also features Lo-RETAIN, our special low-end preserving algorithm. Plus each effect can be blended with the original dry signal to maintain the thumping essence of your bass tone.\nThe Bass OFD features incredibly natural modeling of twelve bass specific versions of tones inspired by classic gear including Marshall Amplifiers®, Mesa Boogie Amplifiers®, Tone Bender®, Fuzz Face®, and Octavia®. The box also includes a super saturated tone called METAL for an especially growling distortion, an extremely nasty, spitting fuzz called the GATED FUZZ (inspired by the Z-Vex Woolly Mammoth®), and Source Audio’s own CRUNCH TUBE, which delivers an extra aggressive tube overdrive. It also offers a multitude of forward thinking and useful design functions like clean and dirty MIX control, Lo-RETAIN, preset morphing, easy-to-adjust internal noise gates, and external Hot Hand, Expression Pedal, or MIDI control.\nAdditional Features and Specifications\nDiverse Sound Palette — Featuring extremely natural modeling of 12 bass versions of classic overdrive, fuzz, and distortion tones.\nCompact, cast aluminum housing.\n2 User Presets easily recalled via two footswitches.\nClean and dirty MIX control to blend the effected tone with the original dry signal.\nLo-Retain: Source Audio’s low-end retaining algorithm.\n3-band tone control — select between “treble”, “mid”, and “bass” for precision tone sculpting.\nNoise Gate — easily activated 3-level noise gate.\nUniversal Bypass — selectable buffered or true bypass.\nMulti-function In — use an expression pedal or the Hot Hand Motion Sensor to morph between presets or manipulate any of the six assignable parameters.\nMIDI Capable — the Multi-function In jack also allows MIDI access to presets and parameters when used with the Neuro Hub.\nState-of-the-art DSP — Our proprietary 56-bit Digital Signal Processor, the SA601, and crystal clear 24-bit converters.\n9V DC power supply included\nDimensions: L: 4.5 in./11.4cm x W: 4.5 in./11.4cm x H: 2.25 in./5.7cm (including knobs)\nhttps://www.sourceaudio.net/sb2-ofd-bass-micromodeler.html",
+    "hrid": "source-audio-soundblox-2-ofd-bass-micromodeler"
+}

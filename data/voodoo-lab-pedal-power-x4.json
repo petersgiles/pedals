@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23203",
+    "name": "Pedal Power x4",
+    "image": "images/voodoo-lab-pedal-power-x4.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "1000 mA / 12 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 86,
+    "height": 70,
+    "details": "Isolated DC Power SupplyPedal Power X4 is a professional isolated power supply for both battery operated and high current DSP effects. Its ultra-compact size fits even the smallest pedalboards – including Voodoo Lab Dingbat TINY and Pedaltrain Nano – and operates at any mains voltage for international touring. X4's innovative hybrid DC transformer design incorporates exotic components, linear regulation, and computer optimized filtering to establish industry-leading audiophile quality power that unveils the hidden sonic potential of your rig.\nAs well as delivering the cleanest, most reliable power for small pedalboards, Pedal Power X4 shines as a supplementary power supply in an expanding rig. Powering directly from any 12V 400mA output or X-Link port, X4 adds four isolated outputs to an existing Pedal Power. X4 can also power from the AC courtesy outlet of a Pedal Power 2 PLUS, significantly upgrading both its isolated output capacity and high current capability.\nhttp://www.voodoolab.com/pedalpower_x4.htm",
+    "hrid": "voodoo-lab-pedal-power-x4"
+}

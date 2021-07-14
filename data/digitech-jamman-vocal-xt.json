@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12420",
+    "name": "JamMan Vocal XT",
+    "image": "images/digitech-jamman-vocal-xt.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 86,
+    "height": 122,
+    "details": "Dedicated Stompbox Looper for VocalistsFeatures\n10 minutes of looping time\nBuilt-in dbx® Mic Preamp\n+48V Phantom Power\nXLR Input & Output\nJamSync™ - automatically synchronizes with other JamSync-enabled JamMan pedals\nSilent Clear™ - clears loop memory without starting playback first\nSeparate LEDs for Record, Overdub, and Play Status\nUnlimited Overdubs with Undo and Redo\nIncluded 9VDC Power Supply\nDurable metal chassis and footswitch\n24-bit 44.1kHz sample rate\nSpecifications\nA/D Converter   24 bit\nSample Rate 44.1 kHz\nInput Connectors    1 x XLR Female, 1/8\" JamSync In\nOutput Connectors   1 x XLR Male, 1/8\" JamSync Out\nDimensions  4.8” x 3.4” x 2.1” (L x W x H)\nWeight  .6 lbs. / 0.272 kgs.\nPower Supply    PS0913DC-01 (US, JA); PS0913DC-02 (EU, AU, UK)\nhttp://digitech.com/en-US/products/jamman-vocal-xt",
+    "hrid": "digitech-jamman-vocal-xt"
+}

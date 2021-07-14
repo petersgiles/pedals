@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12652",
+    "name": "Stutter Bomb™",
+    "image": "images/loop-master-stutter-bomb™.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Loop-Master",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 48,
+    "height": 48,
+    "details": "Momentary Line Mute or Kill SwitchConnect this little box anywhere in your signal chain to emulate Randy Rhoads & Buckethead-type stutters without modding your guitars.\nAlso use as a momentary line mute or a kill switch. \nPress and hold the switch down and switch guitars silently etc...\nDoes not require power to operate\nhttp://www.loop-master.com/stutter-bomb153-p-52.html",
+    "hrid": "loop-master-stutter-bomb™"
+}

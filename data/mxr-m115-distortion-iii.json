@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11817",
+    "name": "M115 Distortion III",
+    "image": "images/mxr-m115-distortion-iii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$123 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "vintage tube amp distortion",
+    "hrid": "mxr-m115-distortion-iii"
+}

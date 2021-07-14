@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15989",
+    "name": "FP-777",
+    "image": "images/ibanez-fp-777.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 178,
+    "height": 89,
+    "details": "",
+    "hrid": "ibanez-fp-777"
+}

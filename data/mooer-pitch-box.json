@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18682",
+    "name": "Pitch Box",
+    "image": "images/mooer-pitch-box.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$66 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Harmony Pitch Shifting Pedal The Mooer Pitch Box offers guitarists a way to add new harmonic elements in their playing. Shift an octave down to emulate a bass. Shift up for a Jack White type octave solo effect. Create angular lines by shifting to non-standard intervals. Use the harmonize mode to add color to your solo lines. There's tons of room to experiment with this effect as the video demonstrates.\nTastefully used, this pedal can really add new dimensions to your sound, adding harmonic elements previously unknown.\n•Three Modes: Harmony, Pitch Shift, Detune\n•Harmony: Shifts pitch and mixes it back with the original signal to create a rich harmonic voice\n•Pitch Shift: Outputs a precise polyphonic pitch shifting voice\n•Detune: Slight detune mixed back with the original signal to create a spacey chorus-like effect\n•Pitch controls ±2 Oct Pitch Range (16 optional parameters) \n•True Bypass\n•Mini Pedal Size Saves Space on Pedalboard\n•Solid Built Metal Casing\n•Uses Standard Boss Style DC 9V Adapter\nhttp://www.mooeraudio.com/?product/201410163296.html",
+    "hrid": "mooer-pitch-box"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13269",
+    "name": "RMC10",
+    "image": "images/rmc-rmc10.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "RMC",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$235 Price in €",
+    "width": 83,
+    "height": 266,
+    "details": "Teese Real McCoy Custom WahWith just one look, you know exactly what it sounds like. \nPure. \nTrue. \nLove at first sight. \nLove at first sound.\nThe perfect 10...\nInside you'll find free-standing Switchcraft jacks, a heavy-duty Italian on/off switch, double-clad circuit board, our Metal Can inductor, exclusive RMC-ICAR potentiometer, and tight tolerance through-hole components. Outside you've got a black crinkle-finish base and a chrome rocker with black footpad.\nItalian soul.\nPlain and simple.\nhttp://www.realmccoycustom.com/RMC10.htm",
+    "hrid": "rmc-rmc10"
+}

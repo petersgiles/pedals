@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13568",
+    "name": "JB-2 Angry Driver",
+    "image": "images/boss-jb-2-angry-driver.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Overdrive/DistortionAll-new overdrive pedal with massive tonal range, jointly developed by BOSS and JHS Pedals\nCombines the voices of the BD-2 Blues Driver from BOSS and Angry Charlie from JHS Pedals\nThree dual-concentric knobs provide independent drive, tone, and level control for each overdrive type\nMode selector for choosing individual overdrive types, two series connections for stacking, or parallel connection for unique new sounds\nAlso includes a mode for toggling between BOSS and JHS overdrives with the built-in pedal switch\nRemote switch jack for controlling pedal modes and bypass from an optional footswitch or effects switching system\nMulti-color LED indicator shows BOSS mode (blue), JHS mode (red), and both together (purple)\nBOSS five-year warranty\nhttps://www.boss.info/us/products/jb-2/",
+    "hrid": "boss-jb-2-angry-driver"
+}

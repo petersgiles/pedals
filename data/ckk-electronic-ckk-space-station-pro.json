@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17024",
+    "name": "Ckk Space Station Pro",
+    "image": "images/ckk-electronic-ckk-space-station-pro.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb"
+    ],
+    "manufacturer": "CKK Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Guitarists always want to have a space pedal with collection of effects, Space Station Pro is perfectly achieved this wish. Users can get three space effects by using Space Station Pro, digital delay, digital delay-verb and digital reverb. Space Station Pro made up of two independently modules, digital delay-verb module and digital reverb module with all adjustable parameters, users can select the two modules by the MODE switch in the middle of the pedal. Each module is independently work and correspond to itself parameters, and the parameters of four knobs are reused. As everybody knows, the delay effect is indispensable, but sometimes we need to add a little reverb effect to enhance the sense of space, this time, the digital delay-verb module is the best choice. When the digital delay-verb module is available, just turning on the REVERB knob, you can immediately get atmospheric and psychedelic space effect. The digital delay-verb module provides 2000ms of delay time, and the DELAY knob and REGEN knob can be used to respectively adjust delay time and feedback level, In other applications, if you need professional level reverb, just switching the MODE switch to the top, Space Station Pro is immediately became a reverb pedal with all adjustable parameters. The digital reverb module provide four parameters, PREDELAY, DAMPING, DECAY and MIX, through adjusting them, any delicate reverb tone all can be obtained easily. The digital reverb module can provide a atmosphere reverb for a long time, the decay time can last tens of seconds, it’s very important to make atmosphere music. There is only conversion between digital signal and analog signal inside Space Station Pro, this guarantees the best signal integrity, and you can get higher tone quality than using a delay in series a reverb.\n■ Collection of Three Different Space Effects in One Pedal, Digital Delay, Digital Delay-verb and Digital Reverb\n■ Including Two Separate Modules, Digital Delay-verb Module and Digital Reverb Module\n■ The Digital Delay-verb Module Provides the Delay Time of 2000ms\n■ The Digital Reverb Module is Multi – Parameter Adjustable\n■ The Digital Reverb Module Provides Atmosphere Reverb with Super Long Time\n■ The Best Signal Integrity\nhttp://www.ckkelectronic.com/product/space/space.html",
+    "hrid": "ckk-electronic-ckk-space-station-pro"
+}

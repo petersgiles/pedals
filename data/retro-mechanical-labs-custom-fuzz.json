@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11531",
+    "name": "Custom Fuzz",
+    "image": "images/retro-mechanical-labs-custom-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Retro Mechanical Labs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 121,
+    "height": 145,
+    "details": "http://www.rmlfx.com/?p=711",
+    "hrid": "retro-mechanical-labs-custom-fuzz"
+}

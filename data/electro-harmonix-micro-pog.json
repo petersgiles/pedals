@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13563",
+    "name": "Micro POG",
+    "image": "images/electro-harmonix-micro-pog.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$213 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Micro Polyphonic Octave GeneratorThe Legenday and classic original POG won top awards from every major magazine on every continent for its flawless polyphonic tracking and musical flexibility. The Micro POG delivers the same perfect tracking and smooth polyphony in a simplified design. Now in a small pedalboard-friendly diecast chassis, the Micro POG delivers and will blow you away the first time you use it.\nhttps://www.ehx.com/products/micro-pog",
+    "hrid": "electro-harmonix-micro-pog"
+}

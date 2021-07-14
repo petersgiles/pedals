@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20628",
+    "name": "Reverb M300",
+    "image": "images/mxr-reverb-m300.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Reverb",
+    "hrid": "mxr-reverb-m300"
+}

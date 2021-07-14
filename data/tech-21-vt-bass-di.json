@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13070",
+    "name": "VT Bass DI",
+    "image": "images/tech-21-vt-bass-di.jpg",
+    "function": [
+        "Bass",
+        "Utility"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 121,
+    "height": 65,
+    "details": "Bass pre-amp/DIFor the pro on the go, the VT Bass DI covers a lot of ground in a small footprint. This multi-function, multi-application format features three different outputs. You can complement your current rig, record direct, drive power amps and go direct to the PA. Just throw it in your gig bag and you’re ready at a moment’s notice.\nLike its sibling, the original VT Bass, you can get the same legendary tower of power tone pumping through a stack of 10-inchers. This is for players who enjoy being heard. From chunky funk with the ubiquitous flip top, to the higher gain growl of indie rock. Want more? Lean on the Character control for the fat distortion of Crimson and King’s X.\nThe VT Bass DI incorporates a Blend control to adjust the ratio of direct signal and SansAmp circuitry, and a Bite switch to engage a presence boost and a subsonic filter.\nWith the VT Bass DI, you can go from clean SVT®-style thump to dirty earthquaking rump. No matter which way you dial it in, it all sounds massive.\nhttp://www.tech21nyc.com/products/sansamp/vtbassdi.html",
+    "hrid": "tech-21-vt-bass-di"
+}

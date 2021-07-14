@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19591",
+    "name": "Mod Factory Pro",
+    "image": "images/mooer-mod-factory-pro.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 106,
+    "height": 96,
+    "details": "Mod Factory ProMod Factory Pro",
+    "hrid": "mooer-mod-factory-pro"
+}

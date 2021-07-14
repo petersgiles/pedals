@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12834",
+    "name": "Mini Foot Fuzz",
+    "image": "images/jhs-mini-foot-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$135 Price in €",
+    "width": 50,
+    "height": 195,
+    "details": "Fuzz Pedal for Guitar and Bass\nhttps://www.jhspedals.com/products/guitar-pedals/mini-foot-fuzz/",
+    "hrid": "jhs-mini-foot-fuzz"
+}

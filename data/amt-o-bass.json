@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31891",
+    "name": "O-Bass",
+    "image": "images/amt-o-bass.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Tube"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 55,
+    "height": 95,
+    "details": "",
+    "hrid": "amt-o-bass"
+}

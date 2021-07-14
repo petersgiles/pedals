@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15577",
+    "name": "Black Sheep",
+    "image": "images/black-arts-toneworks-black-sheep.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$165 Price in €",
+    "width": 140,
+    "height": 102,
+    "details": "Fuzz\nhttps://www.blackartstoneworks.com/pedal/black-sheep/",
+    "hrid": "black-arts-toneworks-black-sheep"
+}

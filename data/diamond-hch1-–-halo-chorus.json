@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15946",
+    "name": "HCH1 – HALO CHORUS",
+    "image": "images/diamond-hch1-–-halo-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$420 Price in €",
+    "width": 119,
+    "height": 119,
+    "details": "ChorusThe Halo Chorus is a combination delay/pitch modulation/phase modulation chorus design with autoconfigurable I/O for mono, mono in/stereo out, and stereo in/stereo out operation. The combination of pitch and phase modulation can be used together or individually for traditional chorus sounds or unique, spatial tones\nhttp://www.diamondpedals.com/products/halo-chorus/",
+    "hrid": "diamond-hch1-–-halo-chorus"
+}

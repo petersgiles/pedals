@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26405",
+    "name": "ProRMP",
+    "image": "images/radial-prormp.jpg",
+    "function": [
+        "Bass",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 70,
+    "height": 108,
+    "details": "1-channel Passive Re-Amping DeviceThe Radial ProRMP is a passive box that allows for re-amping of the signal. Re-amping has been the 'secret weapon' for countless recordings by the biggest names in the business and the process is often used on guitars, bass, keyboards, percussion and even voice to create new textures! The ProRMP is a 100% passive re-amplifier that lets you to take a pre-recorded track and re-amplify it through a guitar amp or effects pedals to create new and exciting tones. Dive into the creative possibilities of re-amping with the ProRMP.\nhttps://www.sweetwater.com/store/detail/ProRMP--radial-prormp-1-channel-passive-re-amping-device",
+    "hrid": "radial-prormp"
+}

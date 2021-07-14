@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25100",
+    "name": "Algal Bloom V3",
+    "image": "images/fuzzhugger-algal-bloom-v3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "FuzzHugger",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Flexible and original fuzz circuit\nhttp://fuzzhugger.com/pedal-algal-bloom.html",
+    "hrid": "fuzzhugger-algal-bloom-v3"
+}

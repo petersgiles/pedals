@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13660",
+    "name": "Ring Stinger",
+    "image": "images/lovetone-ring-stinger.jpg",
+    "function": [
+        "Ring Modulator"
+    ],
+    "manufacturer": "Lovetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$918 Price in €",
+    "width": 200,
+    "height": 185,
+    "details": "Ring ModulatorYou wanted excess, you wanted weirdness of unimaginable proportions!\nThe Ring Stinger represents a whole new level of interactive complexity and we can say with that ring of confidence that never has so much mayhem potential been crammed by so few into so little. But be warned, if you've been bemused, befuddled and bamboozled by our previous creations then this is not the pedal for you! Defying all known boundaries of taste and decency - bells with balls (but definitely not the belle at the ball) - the big, fat, smokin', trouser-defying Ring Stinger is a ring modulator/fuzz octave doubler/repeater/dirt box/optical synth all rolled into one. We believe (correct us if we're wrong!) that the Ring Stinger is the only commercially available ring mod using the classic transformer matrix modulator (and not the ubiquitous modulator chip) which gives it the distictive vintage ring mod sound and germanium distortion.\nklangs, bells, metallic fx, pseudo vocoder fx, dalek noises, sci-fi atmospherics, spooky warbling, trem arpeggios, tonal toggling, touch sensitive keying, pitch crossfiring, microtonal + atonal fx, evolving drones, digeridoo fx and not least the meanest graunchiest octave fuzz ever - and these are just for starters!\nAmazing on guitar, bass, keys, synths, drums, studio applications - anything at all in fact! Stunning in conjunction with the other pedals - especially in the Meatball loop!\nhttp://www.lovetone.com/ringstinger.html",
+    "hrid": "lovetone-ring-stinger"
+}

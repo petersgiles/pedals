@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12222",
+    "name": "MS-50G",
+    "image": "images/zoom-ms-50g.jpg",
+    "function": [
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 77,
+    "height": 130,
+    "details": "MultiStomp\nhttps://www.zoom.co.jp/products/multistomp/zoom-ms-50g-multistomp-guitar-pedal",
+    "hrid": "zoom-ms-50g"
+}

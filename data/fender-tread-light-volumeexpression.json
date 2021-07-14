@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30907",
+    "name": "Tread-Light Volume/Expression",
+    "image": "images/fender-tread-light-volumeexpression.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Fender",
+    "current": "Pedal is passive",
+    "cost": "$99 Price in €",
+    "width": 89,
+    "height": 216,
+    "details": "Volume/Expression pedal",
+    "hrid": "fender-tread-light-volumeexpression"
+}

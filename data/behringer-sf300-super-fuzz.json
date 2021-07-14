@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12730",
+    "name": "SF300 Super Fuzz",
+    "image": "images/behringer-sf300-super-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "3-Mode FuzzRecreate the whole variety of famous fuzz tones of the '60s and '70s\n3 different sound modes for classic fuzz, grunge and gain boost\nDedicated Gain, 2-band EQ and Level controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for highest signal integrity in bypass mode\nhttps://www.behringer.com/product.html?modelCode=P0525",
+    "hrid": "behringer-sf300-super-fuzz"
+}

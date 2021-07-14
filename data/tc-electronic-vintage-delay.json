@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15909",
+    "name": "Vintage Delay",
+    "image": "images/tc-electronic-vintage-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$392 Price in €",
+    "width": 100,
+    "height": 120,
+    "details": "Analog Vintage Delay emulationThe Vintage Delay will instantly bring you back to the days of warm, lush, \"all-tube echoes, and at the same time it connects you to the state-of-the-art digital delays of today. It builds on the legacy of the classic TC 2290, the holy grail of delays. Resurrect the tape echo of the 60'ies, recreate the \"analog temperate sound of the tubes, or be cool with the studio quality delays. Tap-tempo lets you set the pace, and several control knobs gives you the power to be delayed, but not late.\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/VINTAGE-DELAY/p/HE197",
+    "hrid": "tc-electronic-vintage-delay"
+}

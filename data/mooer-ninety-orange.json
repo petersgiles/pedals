@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11609",
+    "name": "Ninety Orange",
+    "image": "images/mooer-ninety-orange.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$54 Price in €",
+    "width": 43,
+    "height": 94,
+    "details": "Phaser",
+    "hrid": "mooer-ninety-orange"
+}

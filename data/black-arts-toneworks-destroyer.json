@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32402",
+    "name": "Destroyer",
+    "image": "images/black-arts-toneworks-destroyer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$163 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Double fuzzPART RITUAL, PART OATH. FULL DESTRUCTION. This goes from a controllable WALL OF FUZZ, to a SAVAGE PREAMP ANNIHILATOR. Use the Ritual or the OATH separately, OR STOMP BOTH AND DESTROY. New V2 version Ritual fuzz has more gain, compression and low mids on tap, roll guitar volume back to 9 for more bite and less compression. The Destroyer will make a hole that few can follow. It is LOUD. It is NOISY. It makes your amp howl like a banshee when you stop playing. You have been forewarned.\nhttps://www.blackartstoneworks.com/pedal/destroyer/",
+    "hrid": "black-arts-toneworks-destroyer"
+}

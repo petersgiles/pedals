@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13143",
+    "name": "Hot Wax",
+    "image": "images/electro-harmonix-hot-wax.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Dual Overdrive PedalElectro-Harmonix combined two of their popular dirt pedals — the Crayon boost/overdrive and the Hot Tubes overdrive pedal — to create the Hot Wax dual-overdrive pedal. Offering two footswitchable sections, you can switch between two distinct overdrive tones or combine them for even more harmonic complexity. Guitarists at Sweetwater dig the global Bass and Tone controls, which help create some common ground between the two overdrives. And a Blend control allows you to fine-tune the balance of your dirt effects. Whether you're looking for subtle richness or stinging lead tones, you'll be able to cover a lot of sonic range with the Electro-Harmonix Hot Wax dual-overdrive pedal.\nFeatures:\n• Dual-overdrive pedal for electric guitar and bass\n• Based on Crayon dirty boost pedal and Hot Tubes overdrive pedal\n• 2 footswitchable drive circuits can be used separately or in conjunction\n• Individual Volume and Drive controls for each overdrive section\n• Master Bass and Treble controls to fine-tune your tone\n• Blend control for balancing the overdrive effects\nhttps://www.sweetwater.com/store/detail/HotWax",
+    "hrid": "electro-harmonix-hot-wax"
+}

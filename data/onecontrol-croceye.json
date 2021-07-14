@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18588",
+    "name": "CrocEye",
+    "image": "images/onecontrol-croceye.jpg",
+    "function": [
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$66 Price in €",
+    "width": 94,
+    "height": 39,
+    "details": "Midi Programmer for Crocodile Tail LoopThe CrocEye allows you to expand the midi capabilities of the Crocodile Tail Loop, offering total control of all your MIDI capable effect pedals.\nhttp://www.one-control.com/croceye.html",
+    "hrid": "onecontrol-croceye"
+}

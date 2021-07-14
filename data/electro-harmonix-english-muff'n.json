@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11661",
+    "name": "English Muff'n",
+    "image": "images/electro-harmonix-english-muff'n.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp",
+        "Tube"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$201 Price in €",
+    "width": 121,
+    "height": 191,
+    "details": "Valve Overdrive",
+    "hrid": "electro-harmonix-english-muff'n"
+}

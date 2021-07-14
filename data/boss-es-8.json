@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12620",
+    "name": "ES-8",
+    "image": "images/boss-es-8.jpg",
+    "function": [
+        "Switch",
+        "Controller"
+    ],
+    "manufacturer": "Boss",
+    "current": "400 mA / ? V / AC",
+    "cost": "$699 Price in €",
+    "width": 439,
+    "height": 137,
+    "details": "Programmable switching system with eight loopsThe ES-8 Effects Switching System begins life with a sharp and clear mission: to provide pro and high-end users with cool and creative solutions. The new and innovative ES-8 is a system that represents a major leap “out of the box” from the standard individual stomp box utility. It is a whole new way of providing unprecedented capability without sacrificing sound quality. The ES-8 combines far-reaching flexibility with total freedom of expression. All this, in one cool device.\nNot just another utility tool, the ES-8 kicks down the door to unlimited possibilities in the universe of musical expression. From this day on, the use of stomp boxes will never be the same. Using BOSS’ advanced technology the ES-8 is designed for spontaneity on the stage. So, go ahead. Jump out of the box. Take the plunge into a whole new world of musical expression. Celebrate the birth of the cool at BOSS with the hot new ES-8 Effects Switching System. It’s a total game changer that will take you to places no musician has ever gone before.\nhttps://www.boss.info/global/products/es-8/",
+    "hrid": "boss-es-8"
+}

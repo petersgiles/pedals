@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18649",
+    "name": "OD-20 Drive Zone",
+    "image": "images/boss-od-20-drive-zone.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 173,
+    "height": 158,
+    "details": "Overdrive / Distortion w/ COSMWith the Boss OD-20 Drive Zone Twin Pedal, COSM modeling gives you the sound of 16 classic overdrive and distortion pedals plus 6 all-new tones, while deep-level controls let you shape your own sounds. Attack Shape and Heavy Octave knobs let you profoundly impact the effect. The OD-20 stompbox has 4 user memories and line out with amp simulator that's also a headphone out. Amp control jack lets the OD-20 double as a footswitch for switching amp channels. BOSS 5-year warranty.\n16 classic overdrive models\n6 brand new models\n4 user memories\nAttack shape and heavy octave knobs for deep-level control\nHeadphone out/line out with amp simulator\nWorks as a footswitch for changing amp channels\nhttps://www.boss.info/us/products/od-20/",
+    "hrid": "boss-od-20-drive-zone"
+}

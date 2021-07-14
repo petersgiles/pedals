@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23307",
+    "name": "Brownie",
+    "image": "images/cmat-mods-brownie.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "CMAT Mods",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "A high gain Marshal sound.Officially licensed from the creator of the BSIAB(brown sound in a box).  Super high gain marshal cranked to 11 sounds.\nhttp://www.cmatmods.com/brownie.html",
+    "hrid": "cmat-mods-brownie"
+}

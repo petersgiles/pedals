@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11762",
+    "name": "Sub Machine Octave Fuzz",
+    "image": "images/mxr-sub-machine-octave-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$211 Price in €",
+    "width": 124,
+    "height": 92,
+    "details": "",
+    "hrid": "mxr-sub-machine-octave-fuzz"
+}

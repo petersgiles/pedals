@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26693",
+    "name": "Again",
+    "image": "images/adventure-audio-again.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 64,
+    "height": 119,
+    "details": "Vintage-style modulating delayAgain is the classic vintage style, modulating delay you’re already familiar with while adding the flexibility to control 5 parameters via control voltage jacks. Designed around a cascading system of 3 PT2399s, Again can provide lo-fi slapback tones to long, tape-like repeats.\nhttps://www.adventurepedals.com/pedals/again",
+    "hrid": "adventure-audio-again"
+}

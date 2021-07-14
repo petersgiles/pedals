@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17649",
+    "name": "Octavius",
+    "image": "images/t-rex-octavius.jpg",
+    "function": [
+        "PreAmp",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 99,
+    "height": 119,
+    "details": "Tri-Octave Divider & Boost OCTAVE DIVIDER - TRI-TONE GENERATOR\nTRIPLE YOUR IMPACT\nJimi Hendrix might be called the father of effect pedals, with his innovative use of distortion pedals, wah-wahs, vibes and phase shifters. So it’s no surprise that the legendary guitarist was one of the earliest to experiment with an octave divider. The T-Rex Octavius is our take on this unusual and powerful effect. A tri-tone generator with a perfect set of controls and a brilliant BOOST function, Octavius gives you everything you could want in octave generation – plus incredible T-Rex tone\nRISE ABOVE, GO BELOW…\nOctavius lets you get that classic octave-down effect you’ll recognise from Hendrix’ “Machine Gun” and other recordings. But it also lets you add in a high octave so you can hit your audiences with a sonic wall of three-octave lead lines.\nYou can mix the octaves however you want to create your own signature sound. And the pedal features a controllable boost button to help you lift your solos up above the mix.\nCLASSIC T-REX TONE\nAn octave divider or any other pedal is only as good as it sounds, and you can count on Octavius to deliver all the warm, vintage-sounding tone you’d expect from T-Rex.\nTry out the T-Rex Octavius and experience the thrill of what this masterpiece of sound and technology can do for the music you make.\nOCTAVIUS TRI-TONE GENERATOR HAS 4 CONTROLS LO OCT, HIGH OCT, MASTER MIX AND BOOST.\nLO OCT knob lets you set the volume of the lower octave signal produced by the pedal.\nHIGH OCT knob controls the volume of the higher octave signal produced by the pedal.\nThe balance between the levels of these 2 knobs is what creates your particular octave-divided sound. Experiment with your mix, and you’ll be amazed at the variety of effects you’ll get.\nMASTER MIX knob lets you set the overall volume of your low and high octaves compared to your direct signal.\nUse the BOOST knob to control the output of your octave-divided sound. The boost function lets you dial in a solo level, whether the overdrive circuit is activated or not.\nhttp://www.t-rex-effects.com/octavius/",
+    "hrid": "t-rex-octavius"
+}

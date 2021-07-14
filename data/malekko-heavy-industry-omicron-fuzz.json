@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19352",
+    "name": "Omicron Fuzz",
+    "image": "images/malekko-heavy-industry-omicron-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$178 Price in €",
+    "width": 45,
+    "height": 90,
+    "details": "Malekko Omicron Series analog fuzz pedalThis is our take on a classic Germanium diode based fuzz pedal of the past. It produces a wide range of fuzz tones in a super small enclosure. Very easy to use, the FUZZ has just two pots:\nVOL, which increases the volume of the signal and is capable of producing a volume boost if so desired, and\nDRIVE, which increases the fuzz amount…go ahead, turn it up!!!\nBut that’s not all- simply flip the pedal over, unscrew the four retaining screws (screwdriver not included), and remove the bottom cover to reveal a tiny three-position switch on the upper left-hand side! This mini switch unleashes the true power of the FUZZ! Position 1 (up) gives you a sweet octave fuzz. Position 2 (down) gives you a heavier “scooped” tone. Engineered to be searing and musical, both of these classic fuzz tones will inspire you to play and play. That’s two killer tones for one low price!\nBut wait! There’s more! Place the internal switch in the middle position and you activate tones 1 & 2 at the same time!! This parallel arrangement is SUPER HEAVY AND CRUSHING!! INCREDIBLE! Now how much would you pay?\nYou get the mini enclosure, the classic octave tone 1, the classic thick tone 2, and the new modern Malekko monster tone 3- all for the low, low price of $130!!\nAre you tired of trying to fit one more effect pedal on your pedal board? You try this arrangement, you try that arrangement—but you can never find the room for them all! We’re here to help! With Malekko’s incredible super small pedals, there’s always room for one more!\nRuns off a ‘standard’ 9VDC neg tip regulated power supply (not included). Current draw is 50mA. Enclosure size approx. 3.6″x 1.5″x 1.2″.\nVolume pot- adjusts signal volume\nDrive pot- adjusts fuzz saturation amount",
+    "hrid": "malekko-heavy-industry-omicron-fuzz"
+}

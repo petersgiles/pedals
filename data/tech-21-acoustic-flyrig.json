@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19239",
+    "name": "Acoustic FlyRig",
+    "image": "images/tech-21-acoustic-flyrig.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 318,
+    "height": 64,
+    "details": "",
+    "hrid": "tech-21-acoustic-flyrig"
+}

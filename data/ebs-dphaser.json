@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23127",
+    "name": "DPhaser",
+    "image": "images/ebs-dphaser.jpg",
+    "function": [
+        "Bass",
+        "Phase Shifter"
+    ],
+    "manufacturer": "EBS",
+    "current": "110 mA / 9 V / DC / Negative Center",
+    "cost": "$279 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Digital Triple Mode Phase ShifterFrom the 70's to the 21st Century! The DPhaser offers three different modes of stunning phaser effects. Short is the classic phaser effects recognized from the 70's, Longemphasize the effects a bit more, while Wide gives you extrem swirling flanger-like effects.\nHi, Lo and Off decides the resonance of the effect while the two controls change the width and rate.\nUnder the hood. In addition you can set a lot of parameters inside the box for fine tuning your sound. These controls include setting the centre frequency for the sweep controlled by the Width knob, adjusting the gain for the output signal to prevent signal loss, settings for bypass and types of effects (further explained in the manual).\nDigital technique - analog sound. The pedal is built with the highest quality components and uses 24-bit digital processing circuitry for outstanding performance on stage and in the recording studio. While the pedal offer juicy analog sound, the use of digital technique makes it possible to fit in the compact format that the Black Label Pedals offer.\nhttps://ebssweden.com/content2/effects/ebs-dphaser/",
+    "hrid": "ebs-dphaser"
+}

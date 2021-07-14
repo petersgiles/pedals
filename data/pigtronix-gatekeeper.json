@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23542",
+    "name": "Gatekeeper",
+    "image": "images/pigtronix-gatekeeper.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "5 mA / 9 V / DC",
+    "cost": "$100 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "A noise gate that keeps the hiss, hum and buzz at bay.Pigtronix Gatekeeper is a lightning-fast, studio-quality noise gate pedal that locks out all unwanted noise from any rig. Sporting threshold and release time knobs, the Gatekeeper provides 100% attenuation with unprecedented response time, making it one of the most useful and effective noise gate pedals on the market.\nPigtronix Gatekeeper utilizes ultra-high speed J-FET circuitry to completely eliminate hum, hiss, buzz and any other non-musical sounds from your signal path. The wide range threshold control combines with superior headroom to deliver smooth, transient response and warp-speed time constants previously available only in rackmount, studio-oriented noise-gate processors. These extreme performance characteristics allow for musical gating even under the most punishing demands of high-speed metal. The addition of the release time knob allows the user to control how long it takes the gate to slam closed.\nMercilessly cutting out any and all sounds you don't want to hear at the very instant you stop playing, the Gatekeeper will allow players to crank up the volume without fear of hearing the annoying 60-cycle hum or white noise that plagues most high-gain rigs.\nhttps://www.musiciansfriend.com/amplifiers-effects/pigtronix-gatekeeper-noise-gate-pedal",
+    "hrid": "pigtronix-gatekeeper"
+}

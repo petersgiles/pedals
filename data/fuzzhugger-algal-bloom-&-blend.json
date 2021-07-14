@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16983",
+    "name": "Algal Bloom & Blend",
+    "image": "images/fuzzhugger-algal-bloom-&-blend.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "FuzzHugger",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$185 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "FuzzThe Algal Bloom V2 plus a Clean Volume knob! Blend in cleans or whatever's in front of it. Great for bass, blending fuzzes, or for adding even more mass, definition, and cleanness to your tone.\nhttp://www.fuzzhugger.com/pedal-algal-bloom-blend.html",
+    "hrid": "fuzzhugger-algal-bloom-&-blend"
+}

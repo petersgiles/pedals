@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18916",
+    "name": "Lumberjack",
+    "image": "images/electro-harmonix-lumberjack.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$62 Price in €",
+    "width": 56,
+    "height": 109,
+    "details": "Logarithmic Overdrive PedalThe Lumberjack logarithmic overdrive breaks the rules to deliver distortion with a character that's all its own and uniquely EHX. Depending on your dynamic level, its response ranges from powerful clean boost to subtle torn-speaker to gritty distortion. The always handy true bypass rounds out the equation.\n\nA unique logarithmic overdrive that distorts more heavily in higher registers\nFrothy, jangly distortion that's great for a raw sound with tons of expression and character\nCapable of producing heavy distortion while retaining phenomenal note clarity\nAn amazing ingredient pedal that plays extremely well with modulation and reverb effects\nAwesome for bass, baritone guitar, drop-tunings, or guitars with 7 or more strings\n\nhttps://www.ehx.com/products/lumberjack",
+    "hrid": "electro-harmonix-lumberjack"
+}

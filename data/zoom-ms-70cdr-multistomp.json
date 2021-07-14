@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11961",
+    "name": "MS-70CDR MultiStomp",
+    "image": "images/zoom-ms-70cdr-multistomp.jpg",
+    "function": [
+        "Multieffect",
+        "Chorus",
+        "Delay",
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Zoom",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 77,
+    "height": 130,
+    "details": "Chorus / Delay / Reverb PedalZoom's MS-70CDR MultiStomp Chorus / Delay / Reverb pedal is the first of its kind. It provides the full power of a rack-mounted multi-effects device in a compact stompbox design. With its 86 custom guitar and bass effects, an easy-to-use interface, onboard chromatic tuner and versatile power options, you'll be astonished at how much this little box offers.\nZoom MS-70CDR MultiStomp Chorus/Reverb/Delay Pedal Features:\nCompact multi-effects processor\n86 stompbox effects\nEffects include chorus, reverb, delay, tremolo, flanger, and more\nLarge LCD screen\n30 preset patches and 50 used patches\nStereo in and out\nGreat for guitar, keyboard, bass, pedal steel, and more\nBuilt-in chromatic tuner\nhttps://www.zoom.co.jp/products/multistomp/zoom-ms-70cdr-multistomp-chorus-delay-reverb-pedal#overview",
+    "hrid": "zoom-ms-70cdr-multistomp"
+}

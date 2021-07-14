@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25984",
+    "name": "MIDI Baby 3",
+    "image": "images/disaster-area-midi-baby-3.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 112,
+    "height": 61,
+    "details": "MIDI Controller\nhttps://www.disasterareaamps.com/shop/midi-baby-3",
+    "hrid": "disaster-area-midi-baby-3"
+}

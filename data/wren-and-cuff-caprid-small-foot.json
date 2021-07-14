@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24035",
+    "name": "Caprid Small Foot",
+    "image": "images/wren-and-cuff-caprid-small-foot.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 65,
+    "height": 119,
+    "details": "Fuzz\nhttps://www.wrenandcuff.com/site/the-stompboxes/caprid-small-foot",
+    "hrid": "wren-and-cuff-caprid-small-foot"
+}

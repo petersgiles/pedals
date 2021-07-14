@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15937",
+    "name": "Fuzzmaster General",
+    "image": "images/earthquaker-devices-fuzzmaster-general.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Octave FuzzOctave Fuzz Blaster\nThe Fuzz Master General is our take on the vintage Ace Tone Fuzz Master FM-2 Professional fuzz machine, an octave fuzz that was very similar to the wildly popular Super Fuzz. We have taken the basic circuit and re-imagineered it to be more useful for the modern player. The Fuzz Master General features a more accurate Fuzz control that delivers a much broader spectrum of dirt tones ranging from nearly clean through full buzz saw assault. We added a “Voice” toggle to further enhance your dirt desires and wrangle a more variable tone out of the classic circuit. This toggle selects between germanium, silicon and no diode clipping. This has a huge impact on the characteristics of fuzz tone, upper octave clarity and output level. Germanium diodes offer more output and an open, looser fuzz tone while the silicon diodes compress the signal and yield a tighter fuzz tone. When the voice is set to no diode clipping (center position) you can attain a nearly clean upper octave that boarders on ring modulation! While the original Fuzz Master had a foot switch to select between two different tone settings, The Fuzz Master General has a variable tone control that allows you to dial in anything from a wide open treble assault to a super-scooped, bass heavy blast. It also has significantly more output volume and a much lower noise floor than the original, vintage unit. With all these added features, the Fuzz Master General delivers a more versatile version of the original while still retaining the same swelling octave grind we all know and love. Each Fuzz Master General is made by human hands in mostly tropical Akron, Ohio.\nhttps://www.earthquakerdevices.com/fuzz-master-general/",
+    "hrid": "earthquaker-devices-fuzzmaster-general"
+}

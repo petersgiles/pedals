@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16420",
+    "name": "Claksdale",
+    "image": "images/wampler-claksdale.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 64,
+    "height": 115,
+    "details": "",
+    "hrid": "wampler-claksdale"
+}

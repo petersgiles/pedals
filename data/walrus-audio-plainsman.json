@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13371",
+    "name": "Plainsman",
+    "image": "images/walrus-audio-plainsman.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 117,
+    "details": "Boost The Plainsman Dual Stage Clean Boost will increase the volume of your instrument signal when employed. It was designed to raise your signal volume without adding overdrive to your sound; to give your amp that extra push it needs to break into the voice you want to reach. The right toggle will give you the option to choose whether your maximum volume possible is an 8 decibel increase or 15 decibel increase from your existing volume. The left toggle allows you to run your signal through the tone control or bypass it completely. The volume control allows you to pick a signal between zero decibels and 8/15 decibels past your unity volume\nhttps://www.walrusaudio.com/collections/boost-pre-amp/products/plainsman-clean-boost",
+    "hrid": "walrus-audio-plainsman"
+}

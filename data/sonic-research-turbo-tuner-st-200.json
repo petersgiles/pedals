@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12160",
+    "name": "Turbo Tuner ST-200",
+    "image": "images/sonic-research-turbo-tuner-st-200.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Sonic Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "True Strobe Tuner\nhttps://www.turbo-tuner.com/pages/manual-st2.htm",
+    "hrid": "sonic-research-turbo-tuner-st-200"
+}

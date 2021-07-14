@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31158",
+    "name": "2 Looper with Master Bypass Switch",
+    "image": "images/loop-master-2-looper-with-master-bypass-switch.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Loop-Master",
+    "current": "2 mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "2 loops with master bypass switch\nhttps://www.loop-master.com/looper-wmaster-bypass-p-103.html",
+    "hrid": "loop-master-2-looper-with-master-bypass-switch"
+}

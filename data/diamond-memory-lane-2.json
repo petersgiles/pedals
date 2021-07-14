@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12456",
+    "name": "Memory Lane 2",
+    "image": "images/diamond-memory-lane-2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$450 Price in €",
+    "width": 184,
+    "height": 121,
+    "details": "Analog DelayThe Memory Lane 2 is not a ‘hybrid delay’ or ‘analog voiced’ delay. Featuring NOS (new-old-stock) MN3005 BBD (bucket brigade delay) chips running at 15V the Memory Lane offers high headroom and superior sound quality with a 100% analog signal path.\nThe Memory Lane 2 expands on the innovations of the original Memory Lane offering several new features requested by players and a new twist that further bridges the feature gap between analog and digital delays while retaining the warmth and unique sound of bucket brigade delay devices.\nWith this newly revised version of our highly acclaimed analog delay pedal players now have the ability to control delay time via an expression pedal input, footswitch between two independent delay times: one set via the Delay knob, the other set using the tap tempo footswitch function. In addition, we’ve added a dotted 8th note setting for producing ‘U2 style’ rhythmic delays.\nSlapback mode- We’ve also added a ‘slapback’ switch to the back of the pedal which allows DLY1 to be set to a single repeat while DLY2 can have as many as you like further enhancing the useability of the pedal.\nSpaceship mode- many players loved the way the original Memory Lane could easily be coaxed into self oscillation, but for some players it was a little too easy. We’ve reduced the sensitivity of the default mode for higher feedback (more repeats) before self oscillation but for the players who are into those jet-fueled, screaming self oscillation sounds, there’s an internal switch to enable ‘Spaceship mode”. In this mode the Feedback path is even more sensitive than the original Memory Lane- fun, fun, fun!\nhttp://www.diamondpedals.com/retired-pedals/memory-lane-2/",
+    "hrid": "diamond-memory-lane-2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21098",
+    "name": "The Pelt",
+    "image": "images/fender-the-pelt.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fender",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 72,
+    "height": 124,
+    "details": "Flexible Silicon FuzzA good fuzz pedal is indispensable—this gloriously splatty, satisfying sound has been the cornerstone of rock tone for decades. An all-original design, The Pelt Fuzz has a few tricks hidden up its sleeve. All the familiar controls are there: Level, Fuzz and Tone, along with a Bloom control to shape the contours of your sound. Our secret-weapon Mid switch lets you boost or cut the midrange for even more voicing options, while the Thick switch adds some girth to your sound.\nhttps://shop.fender.com/en-US/effects-pedals/the-pelt-fuzz/0234542000.html",
+    "hrid": "fender-the-pelt"
+}

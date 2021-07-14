@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27122",
+    "name": "Deluxe Memory Man Reissue (Classic Chassis)",
+    "image": "images/electro-harmonix-deluxe-memory-man-reissue-(classic-chassis).jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "100 mA / 24 V / DC / Positive Center",
+    "cost": "$550 Price in €",
+    "width": 200,
+    "height": 170,
+    "details": "Analog Delay 550 ms with Modulation (Chorus or Vibrato)\nhttps://www.ehx.com/products/deluxe-memory-man-classic-chassis",
+    "hrid": "electro-harmonix-deluxe-memory-man-reissue-(classic-chassis)"
+}

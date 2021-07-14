@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13993",
+    "name": "Supa-Trem2",
+    "image": "images/fulltone-supa-trem2.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$192 Price in €",
+    "width": 133,
+    "height": 102,
+    "details": "Stereo Tremolo / Auto-PannerFeatures:\n**N.O S. Fairchild 2N5484 JFETs **on each input! The very first thing your guitar hits...and I LOVE the way these JFETs feel and sound.\nTap Tempo with speeds so slow that it takes 6+ seconds to pan between the outputs, or super-fast speeds in excess of 200bpm.\nTrue Half-Speed/Double-Speed function by holding down on the Tap Tempo switch for 3/4 of a second.\nPhase Correlation Knob: a Fulltone exclusive allowing you to throw the outputs ANY degree IN or OUT of Phase with each other. You've never heard it and it's GREAT, with a hint of \"naturally occurring\" Harmonic Phase-shift as your guitar pans between the amps with knob set full OUT of phase. Or enjoy one massive throbbing Tremolo with no panning when knob set full IN-phase! Or then there's 12 o'clock, which is hard to describe. Look, even if you're not a huge tremolo fan, the ST-2 is the most tuneful, and slowest AUTO-PANNER ever made so it is the ideal device for the foundation of a great stereo rig.\nInstrument Volume Knob with 15db of available Boost... turn down the Mix control and this pulls double-duty as one of the finest Clean boosts ever.\n3-way Waveform switch:\n(1) Standard pure SINE wave for your everyday gigs (2)True SQUARE wave..brutally abrupt and choppy at any speed even with hi-gain amps, something the most Tremolo pedals cannot do, and (3) my favorite \"Warble,\" that's not on ANY other tremolo and crafted by me to approximate vintage Leslie and Univibe waveforms ... so organic and rollicking that you will not want to stray too far from this setting.\nInputs  2 x 1/4\" (mono/stereo)\nOutputs     2 x 1/4\" (mono/stereo)\nBypass Switching    Buffered\nhttps://www.fulltone.com/products/supa-trem2",
+    "hrid": "fulltone-supa-trem2"
+}

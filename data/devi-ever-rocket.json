@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22636",
+    "name": "Rocket",
+    "image": "images/devi-ever-rocket.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Devi Ever",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "Dual channel fuzz/distortion",
+    "hrid": "devi-ever-rocket"
+}

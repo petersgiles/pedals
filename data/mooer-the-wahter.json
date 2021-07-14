@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14486",
+    "name": "The Wahter",
+    "image": "images/mooer-the-wahter.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 55,
+    "height": 128,
+    "details": "Micro Wah with intelligent pressure switch",
+    "hrid": "mooer-the-wahter"
+}

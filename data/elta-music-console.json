@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16860",
+    "name": "Console",
+    "image": "images/elta-music-console.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Elta Music",
+    "current": "? mA / 9 V / DC",
+    "cost": "$250 Price in €",
+    "width": 120,
+    "height": 103,
+    "details": "CONSOLE effects pedal with interchangeable cartridgesThere are 10 cartridges available for start. Each contains 3 effects.\n​Cathedral - Reverb and space effects\nMagic - Pitched delays\nTime - Classic Mod delays\nVibrotrem - Modulation effects\nFilter - Filter and Wah\nVibe - Rotary phase mods\nPitch Shifter - Octave and Pitch\nInfinity - Big ambient effects\nString Ringer - Audio rate modulation\nSynthex-1 - Bass Synth​\nConsole comes with Cathedral and Magic cartridges. If that is not enough, choose any other for 20 USD each. \nhttps://www.eltamusic.com/console",
+    "hrid": "elta-music-console"
+}

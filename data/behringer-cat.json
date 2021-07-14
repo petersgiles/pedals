@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25613",
+    "name": "CAT",
+    "image": "images/behringer-cat.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Behringer",
+    "current": "1000 mA / 12 V / DC / Positive Center",
+    "cost": "$335 Price in €",
+    "width": 374,
+    "height": 136,
+    "details": "Duophonic Analog Synthesizer with Dual VCOsLegendary Duophonic Analog Synthesizer with Dual VCOs, 4 Mixable Waveforms, External Signal Processor, 16-Voice Poly Chain, and Eurorack Format.\nAmazing analog synthesizer with dual VCO design allows for insanely fat music creation\nAuthentic reproduction of original “CAT SRM II” circuitry with matched transistors and JFETs\nPure analog signal path based on authentic VCO, VCF and VCA designs\n4 variable and simultaneous oscillator shapes (Sawtooth, Triangle, modulated Pulse and Sub-Octave Square) for ultimate sounds\nDuophonic/Paraphonic mode allows both oscillators to be independently controlled\nOscillators can be modulated from 6 different sources with 2 modulation depth attenuators\nClassic filter design (low pass with peak/resonance) with self-resonance capability\nFilter can be modulated from 6 different sources with 2 modulation depth attenuators\nDedicated and fully analog sine/square wave LFO\n2 analog Envelope Generators for modulation of VCF and VCA\n\nWhite noise generator dramatically expands waveform generation\n16-voice Poly Chain allows combining multiple synthesizers for up to 16 voice polyphony\nComplete Eurorack solution – main module can be transferred to a standard Eurorack case\n47 controls give you direct and real-time access to all important parameters\nAudio input for processing external sound sources for enhanced creativity\nExternal control inputs and outputs (High Note CV, Low Note CV, Gate, Filter etc.)\nComprehensive USB/MIDI implementation with MIDI channel and Voice Priority selection\n3-Year Warranty Program*\nDesigned and engineered in the U.K.\n\nhttps://www.behringer.com/Categories/Behringer/Keyboards/Synthesizers-and-Samplers/CAT/p/P0DNE#googtrans(en|en)",
+    "hrid": "behringer-cat"
+}

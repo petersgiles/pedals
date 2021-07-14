@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12402",
+    "name": "The Warden",
+    "image": "images/earthquaker-devices-the-warden.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "31 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Optical CompressorHey boss, thanks for taking a visit from The Warden™! The Warden is an optical compressor with a feature set usually reserved for studio grade units. Built with high grade components and internally powered by 18v, The Warden has loads of gain and sustain on tap. With complete control over attack, release, sustain and ratio, The Warden will allow everything from a heavy squash with fast attack and release to “barely there” subtle compression. Optical compression has a reputation for having more character than a VCA or FET-based compression and The Warden is no exception.\nhttps://www.earthquakerdevices.com/the-warden",
+    "hrid": "earthquaker-devices-the-warden"
+}

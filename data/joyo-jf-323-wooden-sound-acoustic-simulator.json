@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24145",
+    "name": "JF-323 Wooden Sound Acoustic Simulator",
+    "image": "images/joyo-jf-323-wooden-sound-acoustic-simulator.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$65 Price in €",
+    "width": 43,
+    "height": 74,
+    "details": "Acoustic Simulator\nhttp://www.joyoaudio.com/en/product/show_237.html",
+    "hrid": "joyo-jf-323-wooden-sound-acoustic-simulator"
+}

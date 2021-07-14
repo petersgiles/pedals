@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29171",
+    "name": "FC-1",
+    "image": "images/fishman-fc-1.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Fishman",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$247 Price in €",
+    "width": 235,
+    "height": 130,
+    "details": "TriplePlay FC-1 ControllerControl External Sound Modules or Keyboards\nWith the FC-1, you can now use TriplePlay to plug directly into an external MIDI sound module or keyboard, without a computer attached! Simply remove the USB receiver from your Mac or PC and insert it into the TriplePlay FC-1 Controller’s USB host port. The incoming MIDI data is then passed wirelessly from the guitar to the conventional 5-Pin Din output for use with any MIDI-equipped hardware.\nProgrammable foot switches and expression pedal input\nThree programmable switches default to patch selection, hold, tuner access, and TriplePlay sensitivity settings, with the added ability to program each to send a separate MIDI CC as a momentary or latched controller. An additional programmable expression pedal input allows you to control volume or any other MIDI CC as well!\nProgrammable Hardware Presets\nA large graphic LCD displays the currently loaded hardware synth patch. All the hardware patches are stored on the controller and can be programmed with the TriplePlay software so you can load the exact sound you need immediately! \nhttps://www.fishman.com/portfolio/tripleplay-fc-1-controller/",
+    "hrid": "fishman-fc-1"
+}

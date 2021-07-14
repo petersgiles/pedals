@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12129",
+    "name": "JamMan",
+    "image": "images/digitech-jamman.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 173,
+    "height": 57,
+    "details": "Stereo Looping Station",
+    "hrid": "digitech-jamman"
+}

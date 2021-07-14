@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20254",
+    "name": "Plexitube",
+    "image": "images/radial-plexitube.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 200,
+    "height": 114,
+    "details": "Guitar DistortionTonebone series Radial Plexitube\nFeatures\n• Clean true bypass, rhythm and lead modes\n • Compact 12AX7 tube-hybrid design\n • Effects loop on lead channel-2\n • Separate Contour Voicing for each channel\nApplications\n• Incredible gain with tons of harmonics\n • Quick seamless changes on stage\n • Perfect for live and studio guitar rigs\nCool Stuff\n• Huge chunky rhythm with scooped mids\n • Razor sharp solos with smooth sustain\n • Effects loop on Lead channel\n • Like a double stack in a box\n• 7.8” x 4.5” x 2” (200mm x 114mm x 52mm)\n • Includes 15VDC power supply\n • 3 Year transferable warranty\nhttp://www.radialeng.com/",
+    "hrid": "radial-plexitube"
+}

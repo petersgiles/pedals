@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30317",
+    "name": "Waveform Destroyer",
+    "image": "images/death-by-audio-waveform-destroyer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 118,
+    "height": 144,
+    "details": "Waveform Destroyer FuzzHundreds of possible distortion sounds at your fingertips, customizable via four selectable foot switches and eight internal DIP switches. Set it and forget it, then dig back in when you want to change things up again. This gives you a ton of fuzz, overdrive, and distortion sounds you will become addicted to.\nhttps://deathbyaudio.com/products/waveformer-destroyer",
+    "hrid": "death-by-audio-waveform-destroyer"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17051",
+    "name": "Voco-Loco",
+    "image": "images/radial-voco-loco.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$549 Price in €",
+    "width": 168,
+    "height": 114,
+    "details": "Effects Switcher for Voice or InstrumentAdd guitar effects pedals to vocals or instruments\nCreate exciting and unique effects as you perform\nTurn on multiple effects using one footswitch\nWorks with either dynamic or condenser microphones\nThe Voco-Loco is a foot-controlled effects loop that enables the lead vocalist, sax or trumpet player to incorporate guitar effects pedals into the signal path, just like an electric guitarist adds effects for soloing.\nThe design begins with a state-of-the-art mic preamp that is designed to accept both a standard dynamic microphone or a condenser by activating the built-in phantom power supply. A great sounding two band EQ with low and high frequency shelving makes it easy to add warmth and shimmer. The signal is then sent to the guitar pedals via a transformer isolated hi-Z effects loop circuit that is equipped with individual send & receive controls to optimize signal-to-noise and reduce distortion. A tone control on the return path lets you smooth the sound of pedals that may be overly bright and the blend control lets you mix the original 'dry' signal with the 'wet' effect to set the perfect mix.\nSimply plug your mic into the Voco-Loco via the XLR input, connect your effects pedals using standard ¼\" guitar cables, and then send the output from the Voco-Loco to the input on your mixer. Before the song begins, choose which effects you want on and - when you are ready - activate the loop using the right hand footswitch. A second footswitch serves double-duty as either a mute switch to turn off the mic between sets or as a 100% wet effects loop for special situations where you may not want any of the clean signal to pass through.\nWith the Voco-Loco in your signal chain, you can add delay or reverb, maybe a touch of distortion or even a special effect like a wah-wah to enhance your solo performance. The options are only limited by your imagination and desire to stand out from the crowd!\nhttp://radialeng.com/r2011/vocoloco.php",
+    "hrid": "radial-voco-loco"
+}

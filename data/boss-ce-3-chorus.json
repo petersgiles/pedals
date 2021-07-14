@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12995",
+    "name": "CE-3 Chorus",
+    "image": "images/boss-ce-3-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "13 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 135,
+    "details": "Analogue Stereo ChorusThe CE-3 is an analogue stereo chorus pedal, offering stereo in two modes; a WET A / DRY B, and a WET A / WET B (phase inverted signal). Many stereo chorus pedals of this era only offered the combination of DRY/WET outputs, so to have true affected stereo available is a nice feature. Otherwise operation is similar to the previous CE-2 with adjustments for depth and rate of chorusing.\nVersion differences\nThere are minor colour differences between versions of this pedal and from 1988 the CE-3 was shipped with white black knobs with white tops. The CE-3 was the first metallic coloured Boss compact pedal. The green label was introduced 1984 to indicate compliance with FCC rules and production moved to Taiwan, 1988.\nSpecifications\nControls: Rate, Depth, 2-way Mode Switch\nConnectors: Input, Output A, Output B, AC Adaptor\nCurrent Draw: 13 mA (DC 9V)\nWeight: 400g/0.88 lbs.\nInput Impedance: 1Mohm\nResidual Noise Level: -90 dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nGreen – Made In Japan\nGreen – Made In Taiwan\nThe CE-3 was sold from October 1982 to February 1992.\nhttp://www.bossarea.com/boss-ce-3-chorus/",
+    "hrid": "boss-ce-3-chorus"
+}

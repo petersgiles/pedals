@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26974",
+    "name": "Minimal Drone",
+    "image": "images/rucci-electronics-minimal-drone.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "42 mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 119,
+    "height": 64,
+    "details": "Desktop Drone SynthThis is a minimal drone synthesizer capable of dense sounds. Two oscillators modulate each other while a third selectable LFO adds more interesting rhythmic drones. There is also a low pass filter and volume. A CV input allows you to power the device with control voltages from 0-5V for interesting automated power sag results.\nThe die-cast aluminum enclosure is painted black. This was designed and hand-built in Oakland, California.\nAudio Out: 1/4″ mono\nCV Input: 1/8″ mono (0-5V)\nPower: 9V Battery (included) or 9V DC Center-Negative (not included)\n\nhttps://handmadeelectronicinstruments.com/product/minimal-drone/",
+    "hrid": "rucci-electronics-minimal-drone"
+}

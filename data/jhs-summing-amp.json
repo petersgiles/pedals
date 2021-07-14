@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20799",
+    "name": "Summing Amp",
+    "image": "images/jhs-summing-amp.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 95,
+    "height": 47,
+    "details": "The JHS Pedals Summing Amp gives you the ability to take two inputs and blend them into one output. From two signals the Summing Amp creates one mono signal. This is perfect for putting effects in parallel so that they are not affected by one another. \nhttps://www.jhspedals.com/products/guitar-pedals/summing-amp/",
+    "hrid": "jhs-summing-amp"
+}

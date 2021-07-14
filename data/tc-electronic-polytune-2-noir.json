@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12186",
+    "name": "PolyTune 2 Noir",
+    "image": "images/tc-electronic-polytune-2-noir.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 48,
+    "height": 94,
+    "details": "TunerUltra-Compact Tuner with Polyphonic, Chromatic and Strobe Modes plus 109-LED Display for Ultimate Tuning Performance\n\nUltra-compact tuner with polyphonic, chromatic and strobe tuning for fast and accurate tuning \nSuper-bright 109-LED display and an ambient light detector provide an instant and clear readout in all viewing conditions \nTiny footprint easily fits on any pedal board \nPolyphonic tuning allows you to tune all your strings at once \nLightning-fast chromatic tuner offers 0.5 cent accuracy \nUltra-precise strobe tuner gives you 0.1 cent accuracy for ultimate tuning performance \nTuner magnet feature slows the needle when you get close to the target pitch, making it easy to tune up fast \nAutomatically switches between polyphonic and monophonic tuning modes based on how many strings you play \nTrue bypass and silent tuning footswitch provides optimum clarity and zero high-end loss when the pedal is off \nInternal memory retains preferences even after power down so you only have to set things once \nFlat, Drop D, and capo tuning settings for total tuning flexibility \n3-Year Warranty Program*\nDesigned and engineered in Denmark\n\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Tuners/POLYTUNE-2-NOIR/p/P0DD8",
+    "hrid": "tc-electronic-polytune-2-noir"
+}

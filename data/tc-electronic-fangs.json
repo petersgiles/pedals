@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25094",
+    "name": "Fangs",
+    "image": "images/tc-electronic-fangs.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$49 Price in €",
+    "width": 72,
+    "height": 134,
+    "details": "Metal Distortion PedalUltra-thick high-gain distortion tones w. super tight response\nVersatile mid-control\nTrue bypass and top-mounted I/O",
+    "hrid": "tc-electronic-fangs"
+}

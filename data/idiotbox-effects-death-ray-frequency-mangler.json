@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12246",
+    "name": "DEATH RAY FREQUENCY MANGLER",
+    "image": "images/idiotbox-effects-death-ray-frequency-mangler.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "It's like plugging your guitar into a fuzzed out AtariThe Death Ray Frequency Mangler is AWESOME! Its like plugging your guitar into a fuzzed out Atari. This pedal can go from a high filtered squelchy fuzz to a low buzzed out bit crushy mess! The -Z knob controls the main pitch of the square wave divider while the -A knob kind of slews the pitch so to speak. With the -A knob on full blast the -Z knob gives more of what you would think a square wave filtered fuzz would sound like, where if you back off on the -A knob you can get all kinds of rad lo-fi tracking blip outs when you let notes ring out! This sucker can get loud as balls and the -P knob keeps that under control. But what makes this pedal my absolute favorite is the expression pedal input. Take control of the -Z knob with foot control for killer synthy tone sweeps! Crazy fun!! Oh yeah, and there's no oscillation noise when the signal is muted. SWEET!!! \nKills on guitar or bass!!!\n4.7″ x 3.7″ x 1.18″ enclosure, true bypass switching, common 9v DC center negative BOSS style power input and battery snap. Current draw 8.9mA. Power supply not included.",
+    "hrid": "idiotbox-effects-death-ray-frequency-mangler"
+}

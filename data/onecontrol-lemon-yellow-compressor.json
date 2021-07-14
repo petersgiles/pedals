@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11647",
+    "name": "Lemon Yellow Compressor",
+    "image": "images/onecontrol-lemon-yellow-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$162 Price in €",
+    "width": 47,
+    "height": 100,
+    "details": "Effect Pedal",
+    "hrid": "onecontrol-lemon-yellow-compressor"
+}

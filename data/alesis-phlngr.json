@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12953",
+    "name": "Phlngr",
+    "image": "images/alesis-phlngr.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Flanger"
+    ],
+    "manufacturer": "Alesis",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 148,
+    "height": 98,
+    "details": "Stereo Digital Flangerall digital DSP working at 48 kHz at 24 bits resolution.\nThe effects is outputs in 6 modes: \n1- mono \n2- stereo \n3- sync left/ right direction \n4- contrary in opposite direction \n5- ASYNC is an asynchronous mode (direction L/R at random)\n6- through Zero simulates original natural tape flanging effect modulations)\nhttp://www.polynominal.com/site/studio/gear/fx/Alesis-phlngr-flanger/alesis-modfx-phlngr.html",
+    "hrid": "alesis-phlngr"
+}

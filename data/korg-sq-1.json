@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12516",
+    "name": "SQ-1",
+    "image": "images/korg-sq-1.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 5 V / DC",
+    "cost": "$100 Price in €",
+    "width": 193,
+    "height": 63,
+    "details": "2 x 8 step sequencerThe SQ-1 is a compact step sequencer with 2 x 8 steps. It's wealth of connection jacks allows it to be connected to the MS-20 and a variety of other synthesizers. Vintage analog synths or the latest compact synths can be controlled from this single unit. You can also switch between a variety of synthesizer modes and use the step buttons to create performances overflowing with spontaneity, just as when using a Volca unit.\nLiberate yourself from the numerically-bound parameter editing that's typical on a DAW; you'll enjoy truly musical inspiration as you train your ears and concentrate on what your fingertips are doing. Don't miss the experience of music that's driven by your instinct.\nTwo AA batteries (alkaline batteries recommended), or USB power\nhttps://www.korg.com/us/products/dj/sq_1/",
+    "hrid": "korg-sq-1"
+}

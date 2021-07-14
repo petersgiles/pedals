@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20485",
+    "name": "Swiss Things",
+    "image": "images/earthquaker-devices-swiss-things.jpg",
+    "function": [
+        "Looper",
+        "Switch",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 144,
+    "height": 121,
+    "details": "Advanced bypass looper / controllerSwiss Things™ combines two true-bypass Flexi-Switch™ enabled effects loops, a Flexi-Switch™ AB-Y box with transformer isolation between outputs, a buffered tuner output, 20dB of clean boost with adjustable gain, an expression pedal output for volume control and a quiet, high headroom output buffer into a compact pedalboard-friendly signal routing junction box that lives at the top-right corner of your pedalboard and really ties your rig together without any signal loss.\nThis is what you can do with it:\nUse as many pedals as you’d like without tone-suck\nQuickly and easily bypass or engage all of your effects with one click\nUse Flexi-Switch™ Technology with every pedal in your setup\nEliminate volume pedal tone-suck by using any expression pedal to control volume\nUse multiple amps without phase issues, ground loops, or extra noise\nTidy up your rig, shorten cable runs, and reduce tone loss by keeping all inputs and outputs in one location\nhttps://www.earthquakerdevices.com/swiss-things",
+    "hrid": "earthquaker-devices-swiss-things"
+}

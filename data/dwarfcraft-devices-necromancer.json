@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24043",
+    "name": "Necromancer",
+    "image": "images/dwarfcraft-devices-necromancer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "FuzzThe Necromancer started as the Super Fuzz style circuit from the Silver Rose v2. We added a middle band was added to the EQ. The Mids knob is tuned to the deepest frequency dip created by flipping the “Mids” toggle down, allowing players to get a little more picky with their scooped tones.\nWhile rooted in the world of Old School Fuzz (and capable of many of those classic tones) there are also plenty of new and exciting textures in the Necromancer, thanks to it’s wide feature set, and slightly higher gain. Topping off the effect is some evil wizard art from Metalocalypse veteran SMO, a long time collaborator at Dwarfcraft.\nWhile designed primarily for guitar, the Necromancer is happy to destroy anything you can stick in it’s jack, and does exemplary work with the electric bass. Just watch those knobs, Dwarfcraft is proud to provide “too much” bass and treble on the dial.\nhttps://www.dwarfcraft.com/necromancer.html#/",
+    "hrid": "dwarfcraft-devices-necromancer"
+}

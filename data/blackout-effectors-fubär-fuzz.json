@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18836",
+    "name": "Fubär Fuzz",
+    "image": "images/blackout-effectors-fubär-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$205 Price in €",
+    "width": 70,
+    "height": 121,
+    "details": "Tone Bender MkII-based do-it-all fuzzThe Fubär Fuzz is from the expanding universe of the monstrous, limited edition Blackout Fuzz Bear, a wild five-knob, do-it-all fuzz exploration device itself.\nThe Fubär represents the entire timeline of fuzz, from the smooth glissando machines of yore to more modern oscillating gated fuzz. At the heart of the Fubär is a Tone Bender MkII circuit, built with a triplet of silicon devices. Then, after adding layer upon layer of control options, things get Fubär in a hurry.\nClassic fuzz? Check. Oscillating, psychotic fuzz madness? Check. Expression capabilities?! Oh yes, check and check. The Fubär not only contains an expression Jack (10kΩ), it contains an EXP knob (which is a second Sag control, switchable as a preset with the associated footswitch) and the option to run the knob in parallel with the expression pedal itself (via internal DIP switches), giving users the option for some wild expression capabilities, while reclaiming the knob usually lost to expression control.\nhttp://www.blackouteffectors.com/?product=fubar-fuzz",
+    "hrid": "blackout-effectors-fubär-fuzz"
+}

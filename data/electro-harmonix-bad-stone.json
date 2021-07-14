@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11672",
+    "name": "Bad Stone",
+    "image": "images/electro-harmonix-bad-stone.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 110,
+    "details": "6-stage phase shifter",
+    "hrid": "electro-harmonix-bad-stone"
+}

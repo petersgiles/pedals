@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17342",
+    "name": "Fuel Tank Goliath",
+    "image": "images/t-rex-fuel-tank-goliath.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 81,
+    "details": "Power",
+    "hrid": "t-rex-fuel-tank-goliath"
+}

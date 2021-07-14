@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18446",
+    "name": "Ubertreiber",
+    "image": "images/palmer-ubertreiber.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Palmer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$95 Price in €",
+    "width": 120,
+    "height": 120,
+    "details": "Bass DistortionThe Clean control mixes your original signal in with the overdriven signal to maintain attack and definition providing the effect of stacked amps, one set clean and the other with a distorted setting. The pedal can also be used as a booster with the clean control all the way up and the gain control at 0. With the clean control at 0, the PEBUT provides all the sounds of a classic overdrive effect. The PAD switch allows you to use the unit with active and passive basses.\nhttp://www.palmer-germany.com/mi/en/_UumlBERTREIBER-Distortion-effect-for-bass-PEBUT.htm",
+    "hrid": "palmer-ubertreiber"
+}

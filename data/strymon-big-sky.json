@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11412",
+    "name": "Big Sky",
+    "image": "images/strymon-big-sky.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo",
+        "MIDI"
+    ],
+    "manufacturer": "Strymon",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$479 Price in €",
+    "width": 171,
+    "height": 130,
+    "details": "Multidimensional Reverberator\nhttp://www.strymon.net/bigsky/",
+    "hrid": "strymon-big-sky"
+}

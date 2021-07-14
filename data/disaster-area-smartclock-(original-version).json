@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12027",
+    "name": "SMARTClock (original version)",
+    "image": "images/disaster-area-smartclock-(original-version).jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 70,
+    "height": 110,
+    "details": "Analog Tap Tempo Controller and MIDI Master Clock PedalThe Disaster Area SMARTClock is an intelligent tap tempo and clock source for your pedalboard.  The SMARTClock sends both MIDI clock and analog tap tempo signals to a variety of pedalboard devices.\nFeatures:\nBlue LED display shows tempo in Beats Per Minute\nTwo (2) isolated optical relay powered Tempo Outputs, compatible with normally open or normally closed (Boss) devices\nTempo Outputs may be used as non-tap expression or function switches\nMIDI Clock output synchronizes all connected MIDI devices\nMIDI input and output with full thru and merge functionality\nMulti-Jack functions as tap tempo input, third Tempo Output, or additional MIDI output (requires adaptor cables.)\nTap Tempo mode with selectable tap subdivisions for each output\nPreset mode with twelve (12) user-accessible presets, clock start and stop\nPreset mode may send MIDI Program Changes to other devices\nUp to one hundred twenty-eight (128) presets may be accessed using an external MIDI controller\nReceives external MIDI clock from a computer or other device, Tempo Outputs sync to incoming clock\nSends tap signals and clock from 30-240 beats per minute, accurate to 0.07%\nAvailable subdivisions include Whole, Half, Half Triplet, Quarter, Dotted Eighth, Quarter Triplet, Phi (Golden Ratio,) Eighth, and Sixteenth Notes\nThe SMARTClock is simple to use – just tap the footswitch and all your gear will synchronize to its internal clock.  The SMARTClock has two performance modes, selectable by pressing and holding the knob.\nIn the Tap Tempo mode, the clock is set by either turning the knob or tapping the footswitch.  Tap the knob to set the Tempo Output subdivisions, then hold the footswitch to save the tempo to the current preset if desired.\nIn Preset Mode, the clock rate is set automatically based on the tempos saved in the SMARTClock memory.  Tap the footswitch to move to the next preset, or to start the clock if the clock is currently stopped.  Hold the footswitch to stop the clock.  Turning the knob selects a new preset.\nThe innovative Multi-Jack can function as either a dedicated remote tap tempo input jack, third Tempo Output (requires PTP adaptor,) or a second MIDI output.  The Multi-Jack can communicate directly with the Chase Bliss (Wombtone, Warped Vinyl, Gravitas) and Empress (Tremolo 2 and Phaser ) pedals using an appropriate TRS cable.  The Disaster Area TRS to MIDI cable is required to use the MultiJack as a standard MIDI output.\nThe Multi-Jack may be used as a MIDI Clock Filter – set the JACK configuration to nCLK and it passes through all MIDI information except for MIDI Clock.  This configuration prevents the clock from changing the pre-delay on the Strymon BigSky.\nhttp://www.disasterareaamps.com/shop/smartclock",
+    "hrid": "disaster-area-smartclock-(original-version)"
+}

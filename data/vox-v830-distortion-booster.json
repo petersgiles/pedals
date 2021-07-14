@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11555",
+    "name": "V830 Distortion Booster",
+    "image": "images/vox-v830-distortion-booster.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 83,
+    "height": 146,
+    "details": "Trebly Vox distortion/fuzz\nhttp://www.voxshowroom.com/us/misc/810830.html",
+    "hrid": "vox-v830-distortion-booster"
+}

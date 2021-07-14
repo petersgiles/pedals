@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14299",
+    "name": "HT-REVERB",
+    "image": "images/blackstar-ht-reverb.jpg",
+    "function": [
+        "Reverb",
+        "Tube",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$270 Price in €",
+    "width": 160,
+    "height": 119,
+    "details": "Blackstar HT-REVERB valve effects pedalThe HT-REVERB can take you from your room to an arena via hall, plate, spring, gate and reverse reverb effects. Valve compression and harmonics are added using the Dwell control, and you can switch the reverb time from short to long while you are playing.\n\n8 reverb effects\nGenuine valve design\nOperates at 300V HT\nUnique dwell control\nManual and Short/Long modes\nStereo\nUnique switching operation\nSilent switching\nPower supply included\nHigh integrity buffered bypass\n\nTechnical Specification\nPower: 22V DC\nMaximum Current Draw: 1.1A\nControls: Effect, Time, Tone, Dwell, Level\nValve: ECC83 (12AX7)\nSwitches: Effect On/Off Switch, Mode (Manual or Short/Long)\nSwitch Indicator: Effect On/Off, Dwell, Mode (Short/Long Status), Power On/Off (Valve Backlight LED)\nJacks: Input, Left (Mono) Output, Right Output\nInput Impedance: 1MOhm\nOutput Impedance: \nhttps://www.blackstaramps.com/uk/products/ht-reverb",
+    "hrid": "blackstar-ht-reverb"
+}

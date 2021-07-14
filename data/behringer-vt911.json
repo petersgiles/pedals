@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19004",
+    "name": "VT911",
+    "image": "images/behringer-vt911.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$22 Price in €",
+    "width": 127,
+    "height": 159,
+    "details": "With the VINTAGE TUBE OVERDRIVE VT911 effects pedal, you get distortion with the distinctive tonal quality that only a real tube can deliver, bringing vintage sound back to life. Get a whole tube amp in a pedal and take off with anything from warm blues overdrive to heavy distortion!\nVirtually all of the most-desired distortion tones can be found in the VINTAGE TUBE OVERDRIVE VT911 pedal. This high-quality classic tube overdrive is based on a hand-selected 12AX7 vacuum tube and offers dedicated Drive, Tone and Level controls for awesome sound shaping.\nA status LED for effect On/Off is included, plus there is a true hard-wire bypass for ultimate signal integrity. VT911’s dedicated power supply comes with it, so you’re ready to rock right-out-of-the-box!\nhttps://www.behringer.com/product.html?modelCode=P0618",
+    "hrid": "behringer-vt911"
+}

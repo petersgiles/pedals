@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20643",
+    "name": "Bass Mono Synth",
+    "image": "images/electro-harmonix-bass-mono-synth.jpg",
+    "function": [
+        "Bass",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$124 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Bass SynthesizerIn the vein of the B9 Organ Machine, the Bass Mono Synth converts your bass guitar to a massive-sounding synth without MIDI or any instrument modifications/new pickups.\nhttps://www.ehx.com/products/bass-mono-synth",
+    "hrid": "electro-harmonix-bass-mono-synth"
+}

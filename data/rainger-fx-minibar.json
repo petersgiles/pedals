@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26772",
+    "name": "Minibar",
+    "image": "images/rainger-fx-minibar.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Liquid AnalyserThe Minibar from Rainger FX is a liquid analyzer pedal, which uses the properties of liquids to determine the tone of your sound. It has a volume control and a watertight container for whatever liquids you might find suitable.\nMinibar makes no sound until you fill the container with liquid, at which point the analysing LED determines the character and behavior of the pedal. The conductivity of the guitar's AC signal determines the gain while opacity determines the treble and bass make up of the signal. Minibar often imparts a band pass filtering effect to the signal, carving out tones in your guitar signal. Try experimenting with different liquids: nail polish remover, coffee, soda, wine...whatever you want!\nhttps://www.raingerfx.com/product/minibar-liquid-analyser/",
+    "hrid": "rainger-fx-minibar"
+}

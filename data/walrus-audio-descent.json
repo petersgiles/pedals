@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11807",
+    "name": "Descent",
+    "image": "images/walrus-audio-descent.jpg",
+    "function": [
+        "Digital",
+        "Reverb"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "140 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 143,
+    "height": 117,
+    "details": "The Descent was designed to create ambient textures of sound, from thick and endless hall reverbs to symphonic shimmers. The Descent is a three mode reverb system; hall, reverse, and shimmer. In each mode, the user has the ability to feed +1 and -1 octaves into the reverberated signal. The Hall mode will feature a classic reverb sound that can move your signal from a small-room-echo to a haunting long hall- echo. The Reverse mode smoothly flips your signal to playback unique responses and can be manipulated with pre-delay time controls. Shimmer mode highlights the octave features, dry signal, -1, and +1 to mix in your signal and creates a symphony of sound.",
+    "hrid": "walrus-audio-descent"
+}

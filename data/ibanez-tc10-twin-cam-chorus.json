@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12759",
+    "name": "TC10 Twin Cam Chorus",
+    "image": "images/ibanez-tc10-twin-cam-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "",
+    "hrid": "ibanez-tc10-twin-cam-chorus"
+}

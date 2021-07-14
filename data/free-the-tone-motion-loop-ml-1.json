@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31932",
+    "name": "Motion Loop ML-1",
+    "image": "images/free-the-tone-motion-loop-ml-1.jpg",
+    "function": [
+        "Delay",
+        "Filter",
+        "Looper",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "185 mA / 9 V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 66,
+    "height": 125,
+    "details": "Stereo Pitch Shiftable Short Looper“Welcome to the world of MOTION LOOP”\nThe Free The Tone MOTION LOOP is a revolutionary short looper that performs short-term sampling and real-time effect processing such as pitch shift, delay, filter. Its real-time processing enables this short looper to be used as a tool handled like a musical instrument. Random processing of sampled waveforms can create accidental sounds. Enjoy the world of MOTION LOOP that has unlimited potential.\nMain Effects Implemented in MOTION LOOP\n● Pitch shift (up or down to 2 octaves, speed of pitch shift is also\n● Delay (high quality sound with subdivision function)\n● Filter (high-pass/low-pass)\n● Fade curve effect (adjusts attack of sound)\n● Reverse\n● Soft clipping\n● Loop level (volume increase/decrease setting for each repeat of loops)\n● Slowdown (pitch change speed is slowed down along with lowering of pitch)\n● Random (divides waveform randomly and rejoins the split pieces)\nFEATURES\n    High-speed real-time effect processing by dedicated DSP.\n    The combination of 32-bit fixed point high-speed arithmetic processing and 32-bit floating point high precision arithmetic processing satisfies both sound quality and processing speed, and enables the best performance.\n    A unique waveform smoothing process prevents noise due to discontinuities in spliced waveforms.\n    A powerful re-triggering function is implemented with sensitivity adjustment per preset. Considering use combined with various effects units, its degree of freedom in playing has been enhanced.\n    Functions for knobs and expression pedal are freely assignable. This is configurable in each preset.\n    By setting proper BPM, the MOTION LOOP can easily be manipulated while synchronizing with the beat of performance.\n128 user presets, 35 factory presets\nhttps://www.freethetone.com/en/products/detail60/",
+    "hrid": "free-the-tone-motion-loop-ml-1"
+}

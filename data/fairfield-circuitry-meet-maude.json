@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13335",
+    "name": "Meet Maude",
+    "image": "images/fairfield-circuitry-meet-maude.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$336 Price in €",
+    "width": 119,
+    "height": 97,
+    "details": "Imparting a dark and tape-like quality to your sound, this analogue delay offers a rich and distinct character for you to wallow in luxury, self-righteousness and filth.  Imparting a dark and tape-like quality to your sound, this analogue delay offers a rich and distinct character for you to wallow in luxury, self-righteousness and filth.  \nUsing the tone and feedback controls, you can shape your repeats to be much more than simple reproductions of the input. Play right on the threshold of feedback, which you can mold as a low thundering growl or screeching wail, or let your echo slowly die out as the dynamic output filter gets darker every repeat. \nA random delay time modulation adds a true tape feel to the delay, like a reel-to-reel motor spinning not quite perfectly. Full CV capabilities allow you to control delay time and/or feedback with any external source, like an expression pedal.",
+    "hrid": "fairfield-circuitry-meet-maude"
+}

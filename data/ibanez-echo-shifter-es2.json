@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11779",
+    "name": "Echo Shifter ES2",
+    "image": "images/ibanez-echo-shifter-es2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 120,
+    "height": 160,
+    "details": "",
+    "hrid": "ibanez-echo-shifter-es2"
+}

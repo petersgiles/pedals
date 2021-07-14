@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26010",
+    "name": "Sunday Driver sw",
+    "image": "images/lehle-sunday-driver-sw.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Lehle",
+    "current": "28 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 90,
+    "height": 92,
+    "details": "PreampThe Lehle Sunday Driver SW is a compact-format high-end preamp for all types of electrical and acoustic instruments - a preamp that enables electric guitars and basses, acoustic guitars, and also other stringed instruments (such as violins, cellos and double basses) to realize all of their musical potential. The switchable version expands the classical Lehle Sunday Driver's features by an On/Off footswitch.\nThe Lehle Sunday Driver SW, with its high-quality JFET technology, provides two operating modes. In D (= Driver) mode, the input signal is amplified with zero modification, to eliminate the signal losses that long cable routings and/or effects chains can cause. The signal remains powerful and clear, and retains its dynamics. Mode S (= Sunday) multiplies input impedance by four, bringing out previously inaudible details and, as gain increases, imparting to the guitar a characteristic and unmistakable warmth. There is no distortion at any stage, and the signal always stays clean, even at a maximum gain setting of 15 dB. Thanks to its studio-standard signal-to-noise ratio of better than -100 dB, the Lehle Sunday Driver SW is totally free of background noise. To exploit the dynamics of tube amplifiers to the full, the input voltage is also rectified from the power supply socket, then filtered, stabilized and doubled to 18V.\nhttps://lehle.com/EN/Lehle-Sunday-Driver-SW/MANUAL#go",
+    "hrid": "lehle-sunday-driver-sw"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24036",
+    "name": "VoT Reverb and Tremolo Workstation",
+    "image": "images/keeley-vot-reverb-and-tremolo-workstation.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Keeley",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Reverb & Tremolo\nhttps://robertkeeley.com/product/keeley-vot-workstation/",
+    "hrid": "keeley-vot-reverb-and-tremolo-workstation"
+}

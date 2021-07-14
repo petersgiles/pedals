@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12502",
+    "name": "DeLayla XL",
+    "image": "images/carl-martin-delayla-xl.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$430 Price in €",
+    "width": 186,
+    "height": 120,
+    "details": "Digital analog echo and slapback emulationThis pedal includes both a tap-tempo-controlled echo, as well as a slapback \"second tape head\".  The pedal uses an integrated power supply and non-removal power cable, attached to the unit.\nhttps://carlmartin.com/delayla_xl/",
+    "hrid": "carl-martin-delayla-xl"
+}

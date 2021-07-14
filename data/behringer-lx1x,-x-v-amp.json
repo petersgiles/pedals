@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29082",
+    "name": "LX1X, X V-Amp",
+    "image": "images/behringer-lx1x,-x-v-amp.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 235,
+    "height": 172,
+    "details": "Bass Multi FX, AMP Simulation with expression PedalUltra-Flexible Modeling Amp/Multi-Effects Processor with Integrated Expression Pedal\n16 original V-AMP amp/speaker simulations, including a special acoustic simulation\nHigh-resolution stereo multi-effects processor including first-class stomp box simulations, \ndelay, wah wah, chorus, flanger, reverb, noise gate, compressor effects and many more\nFreely assignable expression pedal for real-time control of effects or wah/volume control\nAmp and cabinet simulation, compressor, noise gate, EQ, modulation effects, \ndelay and reverb can be used simultaneously in any combination\nAwesome modulation and pitch bend effects\nDedicated semi-parametric EQs for low-end and presence control\n9 different output configurations for utmost flexibility\n100 memory locations—easily editable and storable\n2 stereo TRS Line and Headphone outputs plus\nIntuitive controls and comprehensive display for visual feedback during editing\nAdjustable, super-precise auto-chromatic tuner\nPower supply included\n3-Year Warranty Program*\nDesigned and engineered in Germany\nhttps://www.behringer.com/behringer/product?modelCode=P0209",
+    "hrid": "behringer-lx1x,-x-v-amp"
+}

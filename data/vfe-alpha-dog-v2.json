@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13208",
+    "name": "Alpha Dog V2",
+    "image": "images/vfe-alpha-dog-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "VFE",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Distortion based on the ProCo RATOur most popular pedal, the Alpha Dog v2 combines the warmth and sag of tube saturation with the teeth of a modern distortion pedal. Built on the esteemed LM308N chip, the Alpha Dog v2 expands its tone options by adding our unique HCC circuitry. The HARD and SOFT controls provide an infinite continuum of voicings, from bluesy breakup to aggressive grunge, to stoner rock (or whatever the cool kids are calling it these days) and much, much more.\nhttp://vfepedals.com/alpha-dog.html",
+    "hrid": "vfe-alpha-dog-v2"
+}

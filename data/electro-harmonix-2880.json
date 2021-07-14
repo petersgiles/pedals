@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11907",
+    "name": "2880",
+    "image": "images/electro-harmonix-2880.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 237,
+    "height": 160,
+    "details": "Multi-Track Looping RecorderStay in the loop! \nOVERVIEW\nCreate complex layered loops in performance.\nThe Electro-Harmonix 2880 offers the familiar control setup of a multitrack digital recorder plus flexible looping capabilities and track manipulation control. Multiple loops, in stereo and mono, can be pitch shifted, reversed and manipulated on four recording tracks. These four tracks can then be moved to two mixdown tracks, freeing them up to be reused. Flexible punch in/out is available on any recording track, allowing the musician to achieve \"Looper Perfection\" with the 2880. Complex multitrack loops may be created and overlaid in a performance situation with ease\nThe 2880's non-compressed audio delivers 16-bit/44.1kHz CD fidelity while providing audio storage of 480 seconds for each of the six available tracks when using a 256MB CF card. It comes with 128MB CF card and is comptable with cards up to 2GB. With external in/out MIDI clocking, it also provides automatic format conversion to Mac or PC via USB.\nFEATURES\nNon-compressed audio 44.1k, 16-bit CD fidelity Audio storage of 480 seconds for each track\n6 available tracks when using a 256 megabyte card (expandable to 2 gigabytes).\nExternal in/out MIDI clocking\nAutomatic format conversion to Mac or PC via USB.\nIt's looper's heaven. Order today\nhttp://www.ehx.com/products/2880",
+    "hrid": "electro-harmonix-2880"
+}

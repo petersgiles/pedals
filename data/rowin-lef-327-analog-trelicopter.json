@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19156",
+    "name": "LEF-327 Analog Trelicopter",
+    "image": "images/rowin-lef-327-analog-trelicopter.jpg",
+    "function": [
+        "Expression",
+        "Tremolo"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 45,
+    "height": 95,
+    "details": "Tremelo\nhttps://www.amazon.co.uk/Rowin-LEF-327-Trelicopter-Photoelectric-Tremolo/dp/B01IV510DG/ref=sr_1_fkmr1_2?s=musical-instruments&ie=UTF8&qid=1539550006&sr=1-2-fkmr1&keywords=rowin+trelicopter",
+    "hrid": "rowin-lef-327-analog-trelicopter"
+}

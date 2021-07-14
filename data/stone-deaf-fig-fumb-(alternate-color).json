@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13185",
+    "name": "Fig Fumb (Alternate Color)",
+    "image": "images/stone-deaf-fig-fumb-(alternate-color).jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 113,
+    "height": 152,
+    "details": "Paracentric Fuzz Filter PedalThe Fig Fumb adds class and control to the classic ‘Muff’ fuzz design. Bursting at the seams with the smooth singing fuzz-stortion tones that we all know and love, Fig Fumb sports a switchable noise gate, as well as a super precise Paracentric EQ for ultra-tight fuzz tones that’ll cut through any mix like a flaming sword through butter (that butter never stood a chance!). Plus, with on-the-fly tone sculpting or foot-controlled phaser and wah sounds via the optional Stone Deaf EP-1 active expression pedal, you suddenly have the coolest and most versatile fuzz pedal known to musickind.\nhttp://www.stonedeaffx.com/fig-fumb",
+    "hrid": "stone-deaf-fig-fumb-(alternate-color)"
+}

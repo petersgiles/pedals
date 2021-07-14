@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27242",
+    "name": "Ernie Ball 6160 250K Mono Volume Pedal",
+    "image": "images/ernie-ball-ernie-ball-6160-250k-mono-volume-pedal.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 89,
+    "height": 61,
+    "details": "Passive 250k mono volume pedal250k mono volume pedal, later redesigned them to have the jacks in front. 1970s.\nhttp://forums.ernieball.com/ernie-ball-music-man-guitars/54463-generation-eb-volume-pedals.html",
+    "hrid": "ernie-ball-ernie-ball-6160-250k-mono-volume-pedal"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12021",
+    "name": "69 MKII",
+    "image": "images/fulltone-69-mkii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 75,
+    "height": 114,
+    "details": "Germanium Fuzz PedalFulltone '69 mkII Features at a Glance:\nInternal bias trimmer gives you unprecedented control over your tone\nTrue bypass for sonic purity when not engaged\nUltra-rugged design will take a licking and keep on rocking\nContour control can smooth out your sound, or make it cut right through the mix\nMatched germanium transistors give you a true vintage vibe\nhttps://www.fulltone.com/products/69-mkii",
+    "hrid": "fulltone-69-mkii"
+}

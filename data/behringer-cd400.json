@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31216",
+    "name": "CD400",
+    "image": "images/behringer-cd400.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 123,
+    "details": "Digital 3-Dimensional Sound Effects PedalA chorus pedal can add a shimmering texture to your guitar’s sound with a simple toe-tap; and there are lots of good chorus pedals on the market. But, why settle for good – when you can have great! Now you can have it all, thanks to the CHORUS SPACE-D CD400 pedal’s built-in EQ and RSM.\nThe CD400 features all the standard Depth, Rate and Level settings you would expect, but we’ve included a dedicated EQ knob that provides total control over the treble content. Soft and supple, or sharp as a razor’s edge – your thumb and forefinger have never had it so good!\nCD400’s footswitch is electronic, so that it can stand up to years of hard use, while maintaining absolute signal integrity in bypass mode. The CD400 effects pedal can be used with our PSU-SB DC power supply, or a simple 9 V battery for mobile applications. A clear blue LED indicates power status and battery condition.\nhttps://www.behringer.com/product.html?modelCode=P0514",
+    "hrid": "behringer-cd400"
+}

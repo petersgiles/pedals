@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26196",
+    "name": "Hypersleep",
+    "image": "images/electronic-audio-experiments-hypersleep.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "180 mA / 9 V / DC / Negative Center",
+    "cost": "$275 Price in €",
+    "width": 93,
+    "height": 114,
+    "details": "BBD-based analog lo-fi modulated reverbThe Electronic Audio Experiments Hypersleep is a solid-state analog reverberator. It evokes the immediate acoustic reflections of metal and tile, but with a darker timbre and a ringing, fluttering decay—forgoing epic atmospherics in favor of liminality.\nAt the heart of the Hypersleep is the unusual and obsolete MN3011 bucket brigade device. Unlike other BBDs with one input and one output, the MN3011 uses an array of staggered delay outputs to produce a smeared-out echo. Feeding this echo back upon itself produces a reverberant texture. The reverb length can be modulated via the onboard LFO for atypical chorus and vibrato effects, or the haunting sound of a room changing size in real time. As always, careful signal conditioning ensures that Hypersleep is friendly to any instrument or line level signal source.\nControls:\nLevel - overall effect level, gracefully overloads at higher settings\nSpace - delay time of the BBD, simultaneously controlling six taps on a single delay line\nMix - blend of clean and effected signals, from full dry to full wet\nFeedback - increases the decay time of the reverb, will self-oscillate at extreme settings\nRate - modulation rate, from imperceptibly slow to nearly audio rates\nDepth - modulation depth, from subtle vibrato to warped pitch bending\nAdditional features include buffered bypass soft-touch relay switching, 9V center negative power (180mA current draw), top-mounted jacks.\nhttp://www.electronicaudioexperiments.com/hypersleep",
+    "hrid": "electronic-audio-experiments-hypersleep"
+}

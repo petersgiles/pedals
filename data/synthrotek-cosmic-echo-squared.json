@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13408",
+    "name": "Cosmic Echo Squared",
+    "image": "images/synthrotek-cosmic-echo-squared.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Expression"
+    ],
+    "manufacturer": "Synthrotek",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 188,
+    "height": 120,
+    "details": "Advanced Space Delay\nhttp://store.synthrotek.com/Cosmic_ECHO_Squared",
+    "hrid": "synthrotek-cosmic-echo-squared"
+}

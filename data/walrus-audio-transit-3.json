@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13387",
+    "name": "Transit 3",
+    "image": "images/walrus-audio-transit-3.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 248,
+    "height": 66,
+    "details": "bypass looper",
+    "hrid": "walrus-audio-transit-3"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24639",
+    "name": "Electric Blue Chorus",
+    "image": "images/mad-professor-electric-blue-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 110,
+    "details": "Chorus Pedal for EveryoneELECTRIC BLUE CHORUS - We wanted to design a chorus pedal, that would please ALSO people, who do not generally like chorus pedals.\nA chorus effect is achieved by mixing a dry signal with a modulated signal (vibrato, delay, etc.) simulating the effect of more than one instrument playing the same part. Traditionally one would mix a vibrato effect and a dry signal in equal portions to get the chorus effect. This may lead to a metallic quality of sound.\nWith the EBC “Blend” knob you can adjust the mix of these two and get tones from mild to wild. The Electric Blue Chorus (EBC) uses a sine wave generator for a more pleasing and gentle “liquid wave” sound. It also has a very musical modulation with even stronger chorus settings and tones that lean toward vibrato that sets it apart from most other chorus pedals.\nWith the “Depth” and “Blend” knobs one can also adjust in a very mild, barely audible chorus that adds some dimension and depth to your tone.The EBC is also very quiet and transparent with very little filtering. Traditionally chorus pedals have had a treble loss, noise, or a metallic tone, especially when used with distortion.\nThe EBC was designed to be used with both clean and distorted tones and works equally well both in front of or after a distortion pedal.\nhttps://www.mpamp.com/non_eu/electric-blue-chorus",
+    "hrid": "mad-professor-electric-blue-chorus"
+}

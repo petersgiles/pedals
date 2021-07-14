@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13865",
+    "name": "Soundwave Breakdown",
+    "image": "images/death-by-audio-soundwave-breakdown.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 91,
+    "height": 55,
+    "details": "The Soundwave Breakdown takes the idea of a screaming fuzz pedal and turns it inside out. It uses specially matched transistors turned backwards to get it's bombastic sound. The Soundwave Breakdown takes the idea of a screaming fuzz pedal and turns it inside out. It uses specially matched transistors turned backwards to get it's bombastic sound. The one knob controls extreme biasing of one of the transistors and the other controls intense filtering. Although this sounds simple the results are perplexing. The combination of allow a vast universe of fuzz | distortion | overdive | buzz | grind | bleeps | synth sounds | harmonies | and soundwave manipulation. The exact positions of the knobs yeild completely different sounds for endless great insane fuzz tones. Be forewarned, there is no volume control on this beast, it is only balls to the wall fuzz and does not clean up when the volume control on your guitar is turned down or anything foolish like that. This is rock and roll inspiration, and damn it feels good.\nheight .............. 55 mm\nwidth ................ 91 mm\ndepth ............... 117 mm\nweight ............. 12.9 oz\ncurrent draw ... 1.8 - 2.6 mA\nhttp://www.deathbyaudio.com/soundwavebreakdown.html",
+    "hrid": "death-by-audio-soundwave-breakdown"
+}

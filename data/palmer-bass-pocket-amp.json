@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24913",
+    "name": "Bass Pocket Amp",
+    "image": "images/palmer-bass-pocket-amp.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer",
+        "Utility"
+    ],
+    "manufacturer": "Palmer",
+    "current": "? mA / 9 V / DC",
+    "cost": "$150 Price in €",
+    "width": 100,
+    "height": 100,
+    "details": "Bass Preamp\nhttps://www.palmer-germany.com/en/products/guitar-effects/5140/pocket-amp-bass",
+    "hrid": "palmer-bass-pocket-amp"
+}

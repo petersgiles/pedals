@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30197",
+    "name": "Belle",
+    "image": "images/wampler-belle.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 42,
+    "height": 90,
+    "details": "Nashville OverdriveThe pedal that inspired this circuit has been around for a long time in various forms but most versions of it have too much of a “Hi Fi” sound about them, they fail to get the right mix of clarity and bass that is needed to make this overdrive sing. Brian has added further gain capabilities to this circuit, and added a bass control that controls all the harmonics from smooth and creamy to tight and crunchy.\nThe sound this circuit delivers is a firm favorite in Nashville and Brian Wampler’s take is everything you would expect it to be – high quality components, a beautiful enclosure, and a glorious tone.  If you set the gain low and the bass control up high, you get a wonderful clean boost sound that can rival any Klone circuit, but when you spin the bass down and the gain all the way up, you suddenly find yourself with an awesome transparent overdrive / medium distortion sound with all the crunch you need.\nThe Color control is more than just a standard tone control and it’s pretty unique to this circuit. Dialling it right or left will either boost or cut the high and low end a little, but the midrange frequencies are left well alone.  Combine this with the Bass control and you have a very versatile tone shaping palette with Wampler’s legendary ease of use. Brian has also added a push switch on the side which will control the amount of compression and alter the clipping structure in the circuit for some extra punch.\nThis pedal can add some serious muscle to your country, some extra grit to your blues, and some soaring boosts to rock – it’s such a flexible drive we know you are going to love stacking it with your favorite pedals as much as playing it straight through a clean amp.\nThis pedal is exclusively available to purchase from our partners Sweetwater and Thomann\nhttps://www.wamplerpedals.com/products/distortion-overdrive/belle/",
+    "hrid": "wampler-belle"
+}

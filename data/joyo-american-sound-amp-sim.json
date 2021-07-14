@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14331",
+    "name": "American Sound Amp Sim",
+    "image": "images/joyo-american-sound-amp-sim.jpg",
+    "function": [
+        "PreAmp",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 102,
+    "height": 120,
+    "details": "Great Fender tone from Joyo at a real value price! We know good tone when you hear it, and the Joyo American Sound JF-14 is modeled after a Fender 57 Deluxe amp. Allows you to go from pristine Fender clean, to smooth overdrive and everything in between.\nModels the twang and clarity of a Fender 57 Deluxe\n6 controls for shaping EQ and overdrive response: Low, Mid, High, Level, Voice, and Drive\nRugged Aluminum alloy casing\nDimensions: 11.8(L)X8.7(H)X3.8(W)cm\nUses a 9V Battery or 9V AC Adapter\n\nhttp://www.joyoaudio.co.uk/JOYO-JF-14-american-sound-effect-pedal",
+    "hrid": "joyo-american-sound-amp-sim"
+}

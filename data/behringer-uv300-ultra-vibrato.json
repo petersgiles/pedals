@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12742",
+    "name": "UV300 Ultra Vibrato",
+    "image": "images/behringer-uv300-ultra-vibrato.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$24 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "VibratoCall up classic psychedelic vibrato effects of the '60s and '70s\nDedicated Depth, Rate, and Rise controls provide awesome sound-shaping options\nChoose from latched or unlatched operation modes (with optional full bypass)\nRuns on standard 9V battery or optional power supply for full pedalboard integration\nFirst-class electronic On/Off switch offers noise-free operation\nhttps://www.behringer.com/product.html;jsessionid=5F17C570117CBF432E65D2C42733D9DF?modelCode=P0507",
+    "hrid": "behringer-uv300-ultra-vibrato"
+}

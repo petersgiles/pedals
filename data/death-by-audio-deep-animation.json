@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16085",
+    "name": "Deep Animation",
+    "image": "images/death-by-audio-deep-animation.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$270 Price in €",
+    "width": 150,
+    "height": 102,
+    "details": "Dual Envelope FilterThis is the Deep Animation and it's so good it hurts. This crazy goofball responds to how you play, enveloping and filter sweeping and overdriving. Finally, the perfect wave-thumper moving with how hard you hit your strings. It multiplies your dynamics into a hyper, exaggerated dance. Or it adds just the right amount of movement to punch through the mix. Or it moves around with an external trigger to lock you in. The sounds are wild, the thump is thick, and the animation is deep. \nInput: Plug an instrument in to this jack.\nTrig: Plug another instrument in to this jack to trigger the filter sweep with that instrument.\nOut: Connect this to the amplifier.\nSensitivity: Determines the point at which the filter kicks in and how dynamic the filter shifts to the input amplitude.\nIntensity: Simultaneously blends in the resonance, amount, and grit of the filter.\nVol: Adjusts the output volume of the DEEP ANIMATION.\nFrequency Selector: Selects the frequency range of the filter.\nBypass: True bypass the effect.\nUp / Down: Controls the direction the filter travels when decaying after being triggered. UP sweeps the frequency from higher frequencies to lower ones.\nAdditional Features: There is a subtle light which indicates when the trigger is being triggered behind the main bypass LED.\nhttps://deathbyaudio.com/collections/all-pedals/products/deep-animation?variant=5293952008223",
+    "hrid": "death-by-audio-deep-animation"
+}

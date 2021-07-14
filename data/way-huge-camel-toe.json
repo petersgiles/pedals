@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15365",
+    "name": "Camel Toe",
+    "image": "images/way-huge-camel-toe.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$324 Price in €",
+    "width": 121,
+    "height": 81,
+    "details": "Green Rhino + Red Lama\nhttps://www.scan.co.uk/PDFs/Products/79635.pdf",
+    "hrid": "way-huge-camel-toe"
+}

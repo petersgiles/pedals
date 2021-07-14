@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18306",
+    "name": "LOCK STOCK & BARREL DISTORTION",
+    "image": "images/outlaw-effects-lock-stock-&-barrel-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Outlaw Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 43,
+    "height": 65,
+    "details": "3-Mode Distortion\nhttp://www.outlawguitareffects.com/pedals/lock-stock-barrel",
+    "hrid": "outlaw-effects-lock-stock-&-barrel-distortion"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23947",
+    "name": "DVP1 Volume Pedal",
+    "image": "images/dunlop-dvp1-volume-pedal.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 114,
+    "height": 292,
+    "details": "Volume PedalThe Dunlop DVP1 volume guitar effects pedal features a patent pending Steel Band Drive that creates a low-friction environment with no strings or ratchet gears attached. This allows you to achieve thick, luscious volume swells in one smooth motion without the fear of breaking. With fully adjustable tension and high-quality low-noise electronic components, the sound is as clean and transparent as the feel is smooth. Housed in a lightweight but durable aluminum chassis, the volume pedal features a rocker pedal that is slightly curved for ergonomics, with an aggressive non-slip tread that keeps your foot firmly in place.",
+    "hrid": "dunlop-dvp1-volume-pedal"
+}

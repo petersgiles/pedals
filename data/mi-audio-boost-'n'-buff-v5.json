@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16554",
+    "name": "Boost 'n' Buff v5",
+    "image": "images/mi-audio-boost-'n'-buff-v5.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Mi Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 56,
+    "height": 109,
+    "details": "Boost / BuffThe Boost ‘n’ Buff is a booster and a buffer pedal that should be an essential on every pedal board, whether to keep your original guitar tone intact or to boost the signal  in three different ways; FULL, MID and TREBLE. The super quiet, Class A (single transistor) design provides a huge 35dB boost when engaged and acts as an ultra high input impedance buffer (5MΩ!) in bypass mode, or (new for V5) true bypass if desired.\nhttp://miaudio.com/effects/boost-n-buff-v5/",
+    "hrid": "mi-audio-boost-'n'-buff-v5"
+}

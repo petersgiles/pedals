@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12878",
+    "name": "VO-1 Vocoder",
+    "image": "images/boss-vo-1-vocoder.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Innovative, easy-to-use vocoder pedal powered by BOSS’ famous guitar synth technology\nUse your voice to dramatically extend the expressive range of your instrument in countless ways\nVintage mode for classic electronic synth-voice sounds and Advanced mode for all-new vocoder tones with enhanced clarity\nTalk Box mode enables “talking lead guitar” tones without the hassles of a traditional talk box setup\nChoir mode for achieving rich vocal sounds with no mic connected\nEffect loop for sound enhancement and easy integration with existing pedals\nWorks with guitar, bass, or any instrument with a 1/4-inch output\nBOSS five-year warranty\nhttps://www.boss.info/us/products/vo-1/",
+    "hrid": "boss-vo-1-vocoder"
+}

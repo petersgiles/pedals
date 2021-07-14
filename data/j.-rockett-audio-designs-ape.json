@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33056",
+    "name": "APE",
+    "image": "images/j.-rockett-audio-designs-ape.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 108,
+    "details": "Analog Preamp ExperimentThe APE is a unique design and an accurate re-creation of a famous vintage tape delay’s analogue section. This is not just a preamp but rather the entire analogue circuit from input to output including the sonic influence of the tape heads. It runs at 22.5v just like the original. For convenience it uses a DC to DC converter allowing you to power it with a simple standard 2.1/5.5mm 9v power supply just like most of the pedals on the market.",
+    "hrid": "j.-rockett-audio-designs-ape"
+}

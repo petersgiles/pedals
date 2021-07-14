@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12001",
+    "name": "FV-300L (original)",
+    "image": "images/boss-fv-300l-(original).jpg",
+    "function": [
+        "Controller",
+        "Utility",
+        "Volume",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 111,
+    "height": 294,
+    "details": "FV-300L Stereo Volume Pedal (orignal version)Low-impedence stereo volume pedal with heavy-duty all-metal design\nSpecial 2-in/2-out design enables direct control of stereo keyboards and stereo effects units\nMinimum Volume knob lets users set the minimum volume as desired\nConvenient Tuner Out jack enables speedy tuning on stage\nCombined with the optional PCS-33 Stereo Phone Cable, the FV-300L can also be used as an expression pedal\nhttps://www.boss.info/us/products/fv-300l/features/",
+    "hrid": "boss-fv-300l-(original)"
+}

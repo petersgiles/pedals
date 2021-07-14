@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12444",
+    "name": "RV-500",
+    "image": "images/boss-rv-500.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "225 mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 170,
+    "height": 138,
+    "details": "Multi-reverb pedalJourney to new dimensions of time and space with the RV-500, the most powerful and versatile reverb processor BOSS has ever produced. This multifaceted creation machine features class-defying 32-bit AD/DA along with 32-bit/96 kHz floating point processing and immense programmability, putting pro-level studio reverb and more at your feet.\nTwelve modes and 21 newly developed reverb algorithms deliver a huge range of textures, from complementary ambience to deep, immersive sonic atmospheres. And thanks to the RV-500’s high-octane DSP, you can access a full-featured digital delay along with every reverb patch, and even run two reverb patches at once! Adding in MIDI I/O, support for external footswitch/expression control, and USB for connection to the free RV-500 Editor/Librarian software, the RV-500 is simply the most advanced reverb pedal available, bar none.\nhttps://www.boss.info/us/products/rv-500/",
+    "hrid": "boss-rv-500"
+}

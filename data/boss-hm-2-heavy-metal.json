@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12002",
+    "name": "HM-2 Heavy Metal",
+    "image": "images/boss-hm-2-heavy-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Chainsaw distortionControls: Level, Color Mix (L, H), Distortion\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 10 mA (DC 9V)\nWeight: 400 g (14 oz.)\nInput Impedance: 1 MOhm\nRecommended AC Adaptor: ACA Series\nhttp://www.bossarea.com/boss-hm-2-heavy-metal/",
+    "hrid": "boss-hm-2-heavy-metal"
+}

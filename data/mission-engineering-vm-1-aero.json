@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28454",
+    "name": "VM-1 Aero",
+    "image": "images/mission-engineering-vm-1-aero.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 99,
+    "height": 251,
+    "details": "Volume Pedal",
+    "hrid": "mission-engineering-vm-1-aero"
+}

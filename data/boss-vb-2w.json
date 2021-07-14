@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11586",
+    "name": "VB-2W",
+    "image": "images/boss-vb-2w.jpg",
+    "function": [
+        "Filter",
+        "Chorus"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Vibrato Waza Craft PedalAhead of its time when it debuted in 1982, the VB-2 Vibrato has been rediscovered by modern players looking to create unique guitar textures with stompbox effects. Thanks to its expressive, one-of-a-kind sound, this rare pedal has gone on to become one of the most valuable BOSS effects in the vintage market. Now, the progressive spirit of the VB-2 has been reborn as the Waza Craft VB-2W. Using all-analog circuitry, the VB-2W authentically reproduces the true pitch-shifted vibrato of the original pedal, and also adds an innovative new vibrato mode and real-time control function for enhanced expression.\nhttps://www.boss.info/us/products/vb-2w/",
+    "hrid": "boss-vb-2w"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12050",
+    "name": "ML-2",
+    "image": "images/boss-ml-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Ultra Heavy DistortionWith its extreme gain, the ML-2 is the most potent and heavy distortion pedal ever created by BOSS. It easily delivers massive distortion and gain with heavy lows for playing Nu Metal, Grind Core, Industrial, Hard Core, or any genre that requires crushing sound. The ML-2’s ferocious and biting tone will complement and cut through any blast beats your rhythm section can create.\nNominal Input Level:                            -20 dBu\nInput Impedance:                                  1 M ohm\nNominal Output Level:                         -20 dBu\nOutput Impedance:                               1 k ohm\nRecommended Load Impedance:    10 k ohms or greater\nControls:                                                 Pedal switch, LEVEL knob, LOW knob, HIGH knob, DIST knob\nIndicator:                                                 CHECK indicator (Serves also as battery check indicator)\nConnectors:                                            INPUT jack, OUTPUT jack, AC adaptor jack (DC 9 V)\nPower Supply:                                        DC 9 V, Battery\nCurrent Draw:                                         36 mA (DC 9 V)\nhttps://www.boss.info/us/products/ml-2/",
+    "hrid": "boss-ml-2"
+}

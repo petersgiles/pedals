@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21906",
+    "name": "Deep Six V3",
+    "image": "images/walrus-audio-deep-six-v3.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 63,
+    "height": 120,
+    "details": "CompressorThe Deep Six is a true bypass studio-grade compressor in stomp box form, inspired by the performance of the Universal Audio 1176 with the simplicity of the Ross and Dynacomp. Offering a Level, Sustain, Attack, and Blend control, the Deep Six will give you unmatched versatility at a price you can afford. Polarity will never be an issue as the Deep Six comes standard with a polarity correction circuit. The internal voltage is doubled to 18 volts giving you the maximum amount of headroom for your sound while maintaining a typical current draw of 8.9mA. The Deep Six also offers a Blend and Attack control which allows you to use the pedal with active pickups or humbuckers. The blend feature allows you to use high output instruments while truly being able to dial out any distortion that may be present.\nhttps://www.walrusaudio.com/collections/pedals/products/deep-six-compressor-v3",
+    "hrid": "walrus-audio-deep-six-v3"
+}

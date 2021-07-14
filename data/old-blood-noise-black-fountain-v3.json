@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30045",
+    "name": "Black Fountain V3",
+    "image": "images/old-blood-noise-black-fountain-v3.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$209 Price in €",
+    "width": 67,
+    "height": 121,
+    "details": "Oil Can Delay simulation with tap tempoAfter nearly six years of production, Old Blood Noise Endeavors has expanded their original pedal, the Black Fountain Oil Can Delay. The Black Fountain captures the sound of vintage oil can delay units, which processed the instrument signal through actual oil in order to create warm, modulated repeats unlike anything else. This previously rare and unwieldy sound is now available in the Black Fountain, which features three modes and ample control over the signal. \nBlack Fountain V3 features:\nTap tempo: set your tempo on the fly with two taps of a footswitch, and subdivide that tempo into quarter, eighth, or triplet notes\nHidden function: hold the Tap footswitch to momentarily maximize feedback, leading to a nearly sound-on-sound effect\nExpression control: use an expression pedal to control Time, Feedback, or both simultaneously\nExpanded delay time: all the way down to around 30ms and up to around 1s\nModern, Organ, and Vintage mode give three different takes on the voice of the delay, and Fluid, Mix, Time, and Feedback knobs give control over the elements\nhttps://www.oldbloodnoise.com/blog/2020/9/1/black-fountain-v3-tap-tempo",
+    "hrid": "old-blood-noise-black-fountain-v3"
+}

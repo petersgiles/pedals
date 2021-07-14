@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27062",
+    "name": "Mini Deja Vibe MK II",
+    "image": "images/fulltone-mini-deja-vibe-mk-ii.jpg",
+    "function": [
+        "Chorus",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "35 mA / 18 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 99,
+    "height": 104,
+    "details": "The smallest iteration yet of Fulltone's authentic take on the UnivibeThe 2018 CS-MDV mkII...the world's smallest (3.9\" W x 4.1\" L x 2.3\" H ) yet biggest sounding \"real vintage Univibe clone.\"\nIt's the biggest sounding 'vibe we've ever made or heard, bar none, yet is totally green, only drawing 35mA of current, meaning it can also be powered via 2 x 9 VDC outlets on your pedalboard multi-power supply by using the Voodoo Lab PPY \"series voltage doubling cable.\"\nThe mkII has an expression pedal out jack should you need it, and still with no ICs and using only full-size Capacitors throughout the entire audio path! It's 100% Analog, you can't get this sound out of the flavor-of-the-minute Digital pedals using a $3 DSP chip. You need 13 transistors, 4 x correct resistance and response photoresistor, a real & correct incandescent light bulb, and 30 years experience...you need the Fulltone CS-MDV mkII\nFeatures:\n• 30% smaller enclosure than older MDVs, still with top-mounted jacks for tight spaces.\n• Now has MUCH slower and MUCH faster available speeds (than all older Fulltone vibes) achieved by replacing the standard Speed pot with a Fulltone designed & custom-made Photoresistor, while retaining the original Univibe's unique Analog Oscillator circuit and 100% analog warble feel.\n• has a linear ramp up of the Speed knob (and external pedal). This is the bummer about older Deja'Vibes, other clones, and original Univibes: the speed controller has a spot where everything happens, making it hard to find the right speed.\nProblem-solved with the mkII.\n• it has an External Pedal jack allowing the use of virtually any expression pedal out there, whether it has a 10K, a 50K, 100K, etc potentiometer. As i mentioned previously.\n• It has twice the available volume as any vibe clone, assuring that you don't get bogged-down in the mix when you kick it on...without being bright and cold sounding, and a super-low output impedance so it is not affected by pedals that come after it and shines with the dirtiest of amps!\n• 100% correct Vintage Univibe analog circuit with no op-amps in the Audio path, still using 13 discrete transistors, still the Fulltone Proprietary glass lens/ hermetically sealed photocells with correct incandescent bulb.\n• 500mA Fulltone IPS-18, the only Noise-Free “worldwide ready” switching-type power supply in the world, is included free with every CS-MDV mkII!\nhttps://www.fulltone.com/products/custom-shop-mini-dejavibe-mkii",
+    "hrid": "fulltone-mini-deja-vibe-mk-ii"
+}

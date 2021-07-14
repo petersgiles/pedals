@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11978",
+    "name": "MF-103 12-stage Phaser",
+    "image": "images/moog-music-inc.-mf-103-12-stage-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "200 mA / 9 V / DC / Positive Center",
+    "cost": "$339 Price in €",
+    "width": 152,
+    "height": 231,
+    "details": "MoogerFooger MF-103 12-stage Phaser\nhttps://www.moogmusic.com/products/moogerfoogers/mf-103-12-stage-phaser",
+    "hrid": "moog-music-inc.-mf-103-12-stage-phaser"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17057",
+    "name": "Key-Largo",
+    "image": "images/radial-key-largo.jpg",
+    "function": [
+        "Utility",
+        "Dual/Stereo",
+        "MIDI",
+        "Volume"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$380 Price in €",
+    "width": 213,
+    "height": 127,
+    "details": "Keyboard mixerThe Key-Largo is a unique and powerful device that combines a multi-channel keyboard mixer with the performance attributes of real-time footswitch control!\nDesigned for stage use, the compact design features three dual ¼\" analog inputs for standard performance keyboards along with a USB interface to connect a laptop for use with soft-synths. Each stereo input is equipped with an individual level control for quick onstage adjustments along with an effects loop to interface an external multi-effects device. The effects loop can then be turned on or off using the built-in footswitch to activate an echo or reverb when desired. The effects bus is stereo but may be summed mono when using guitar-style pedals. To add even more fun to the performance, a built-in sustain footswitch lets you connect the Key-Largo to your master keyboard or digital piano using a standard guitar cable, eliminating the need to bring a separate sustain footswitch to the gig!\nAs with all Radial products, the Key-Largo is made tough and sounds great! It features solid 14-gauge steel construction with steel-shafted potentiometers and switches to handle the abuse of being on the road. Inside, a switch-mode power supply elevates the rail voltage to 24 volts for extra headroom to handle the most dynamic digital keyboards and fattest analog synths without fear of overload or distortion. Separate monitor outputs allow the artist to adjust the level on-stage while the XLR main outputs provide a balanced connection to the PA system. The main outputs are transformer isolated to eliminate hum and buzz caused by ground loops and all outputs are equipped with ground lift switches to further abate noise.\nWith both USB and MIDI connectivity, the Key-Largo easily integrates with all types of keyboard setups. High quality 24bit/192kHz converters allow playback of the best sample libraries and soft-synths, and also provide the ability to record over USB with excellent audio quality. This means the Key-Largo can also be used as a robust recording interface, ideal for recording tracks when on the road or capturing your live performance.\nThe Radial Key-Largo... A large wonder in a small box!\nhttp://www.radialeng.com/keylargo.php",
+    "hrid": "radial-key-largo"
+}

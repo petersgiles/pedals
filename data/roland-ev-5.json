@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12142",
+    "name": "EV-5",
+    "image": "images/roland-ev-5.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 86,
+    "height": 200,
+    "details": "Expression PedalThe EV-5 Expression Pedal is designed for use with keyboards or other Expression-compatible instruments and devices, providing a more dynamic performance. You can set the minimum volume to the level of your choice, thereby determining the maximum effect of the pedal.\nCable length\n2 m (TRS 1/4” plug)\nControls\nMain Volume Pedal, Minimum Volume Knob\nSIZE AND WEIGHT\nWidth\n86 mm\n3-7/16 inches\nDepth\n200 mm\n7-7/8 inches\nHeight\n54 mm\n2-3/16 inches\nWeight\n400 g\n0 lbs. 15 oz.\nhttps://www.roland.com/global/products/ev-5/",
+    "hrid": "roland-ev-5"
+}

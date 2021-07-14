@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21886",
+    "name": "Blooper",
+    "image": "images/chase-bliss-audio-blooper.jpg",
+    "function": [
+        "Digital Glitch",
+        "Looper",
+        "Sampling"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$499 Price in €",
+    "width": 69,
+    "height": 125,
+    "details": "LooperKickstarter link: https://www.kickstarter.com/projects/chaseblissaudio/blooper?ref=project_link\n40 seconds max loop time (48kHz, 16 bit) with ultra-low-noise hardware / XMOS DSP processor, 32 save-able presets and full undo / redo capability\n8 layers of undo / redo, unlimited overdubs (oldest layer gets discarded after 8)\nLayers knob to navigate through undo / redo layers\n6 loop modifiers (quantized & free time/speed changes, scrambler, trimmer, filter and dropper) available over 2 independent channels \nNormal, additive (effects get recorded), and one-shot sampling modes \nFull midi implementation via 1/4\" TRS\nRepeats knob for fading loops or to use blooper like a tap-tempo delay\nCV clock sync and modulation control\nStability control introducing optional tape and warble effects to loop.\nChase Bliss ramping control (including randomization and ability to sync to loop time)\nExpression control over any parameter either individually or simultaneously\nDip-switches for customizing behavior: dry kill, straight to overdub, etc.\nExpected release Mar. 2020\nhttps://www.chaseblissaudio.com/shop-pedals/blooper",
+    "hrid": "chase-bliss-audio-blooper"
+}

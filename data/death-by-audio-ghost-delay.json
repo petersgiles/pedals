@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12321",
+    "name": "Ghost Delay",
+    "image": "images/death-by-audio-ghost-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$320 Price in €",
+    "width": 118,
+    "height": 144,
+    "details": "3 echo circuits cascaded into one anotherThe Delay Masters at Death By Audio bring you a whole new take on what a delay can sound like with the introduction of the Ghost Delay.\n3 echo circuits cascade into each other to bring an extremely organic and versatile dream machine to your fingertips. Each of the Ghost Delay's echo circuits have controls for time and feedback to sculpt the sound to vast new places. Blend and master volume controls give you the ability to tame back the insanity or bring it forth with a wall of screaming dying ghosts. The amount of sounds produced by this thing and their originality are uncanny. It could be the start of a new sound. It could be the start of a new band.\nYour guitar, vocals, keyboard, drum machine, bass, clarinet never sounded so creepy! \nhttp://www.deathbyaudio.com/ghostdelay.html",
+    "hrid": "death-by-audio-ghost-delay"
+}

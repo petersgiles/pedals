@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21034",
+    "name": "Talons",
+    "image": "images/earthquaker-devices-talons.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "High Gain OverdriveThe Talons is an extremely versatile high gain overdrive that serves up the full range of gain from transparent boost to heavy saturation, and all points in between. Unlike all our other overdrives, the Talons was not designed to emulate any specific sound or era. The presence control gives you a wide range of top-end contour and the active 3 band EQ allows you to sculpt your tone to perfection. The Talons can be powered at the standard 9v for a warmer amp-like tone or at 18v for greater headroom, more volume and a brighter, stiffer grind.\nhttps://www.earthquakerdevices.com/talons/",
+    "hrid": "earthquaker-devices-talons"
+}

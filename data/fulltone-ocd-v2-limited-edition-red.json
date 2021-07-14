@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29664",
+    "name": "OCD v2 Limited Edition Red",
+    "image": "images/fulltone-ocd-v2-limited-edition-red.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 60,
+    "height": 115,
+    "details": "Overdrive / Distortion",
+    "hrid": "fulltone-ocd-v2-limited-edition-red"
+}

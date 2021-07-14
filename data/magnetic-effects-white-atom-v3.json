@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20600",
+    "name": "White Atom V3",
+    "image": "images/magnetic-effects-white-atom-v3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Magnetic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$167 Price in €",
+    "width": 60,
+    "height": 118,
+    "details": "Hybrid Silicon/Germanium Fuzz\nhttp://www.magneticeffects.net/white-atom/",
+    "hrid": "magnetic-effects-white-atom-v3"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31252",
+    "name": "Little Black Buffer 2",
+    "image": "images/jhs-little-black-buffer-2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 38,
+    "height": 91,
+    "details": "Buffer pedal with side jacksThe cure for weak guitar sound caused by using too many pedals\n    Remedies capacitance problems by providing the ideal input impedance for your rig\n    Delivers robust, natural tone that sounds like you're plugged straight into your amp\n    Plug your guitar straight into the input, then out into your pedal chain\n    Sounds great no matter how many pedals you use\n    Ultra-compact form factor takes up very little space on your pedalboard\n    Works great on bass, too\n    Requires standard 9V DC negative power\nhttps://www.jhspedals.com/",
+    "hrid": "jhs-little-black-buffer-2"
+}

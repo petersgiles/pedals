@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14535",
+    "name": "Boost/EQ",
+    "image": "images/diamond-boosteq.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Boost EQ Pedal\nhttp://www.diamondpedals.com/products/boost-eq/",
+    "hrid": "diamond-boosteq"
+}

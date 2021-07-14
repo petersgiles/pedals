@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17087",
+    "name": "Cinders",
+    "image": "images/tc-electronic-cinders.jpg",
+    "function": [
+        "Distortion",
+        "Multieffect"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Tube-Like Overdrive with Extremely Responsive and Expressive FeelCINDERS OVERDRIVE is the ideal tool for blues shredders and retro rockers. Its all-analog circuit convincingly recreates the warm harmonic distortion associated with a hard-driven tube amplifier. Is it responsive? You bet it is; whether you pick the strings with a dust broom or with a fire iron, CINDERS OVERDRIVE tracks perfectly to ignite your sound. And thanks to its super-wide gain range, your tone remains incredibly transparent at all times.\nIf you long for the roar of a maxed-out tube amp, you’re gonna love CINDERS OVERDRIVE. Even if you play late all night at bedroom levels, you always get that hard-rockin’ warm tube sound that drives your soul and your music. There’s just something about the big, warm sound of tube breakup that has inspired legions of rock guitarists for decade after decade.\nhttp://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/CINDERS-OVERDRIVE/p/P0CAS",
+    "hrid": "tc-electronic-cinders"
+}

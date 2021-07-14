@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20125",
+    "name": "Fabrikat",
+    "image": "images/pladask-elektrisk-fabrikat.jpg",
+    "function": [
+        "Sampling",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 95,
+    "height": 124,
+    "details": "Granular Synthesizer / Sample PlaybackSynthetic ambiance, sonic deconstruction and spectral choirs. FABRIKAT is a 100% inorganic, experimental multi-effects processor featuring 16 algorithms focusing on granular synthesis and modified sample playback. Among its algorithms you’ll find granular time stretching, pitch shifting time stretching, freeze and shuffling effects, glitching sample playback and a beat repeater. FABRIKAT is aimed for use both as a guitar pedal and as a tabletop device as some of its algorithms greatly reward live parameter adjustment.\nhttps://pladaskelektrisk.com/product/fabrikat/",
+    "hrid": "pladask-elektrisk-fabrikat"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16305",
+    "name": "Loop Gate",
+    "image": "images/zvex-loop-gate.jpg",
+    "function": [
+        "Looper",
+        "Noise Gate",
+        "Switch"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$219 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "Loop switch with a built-in audio gateGating very complex sounds like fuzz and delay is always a challenge. The Loop Gate™ provides a loop switch with a built-in “perfect” audio gate (high headroom, no distortion, no hiss) that lets you set up a loop of pedals you can switch in and out of your signal path at will, but you have a couple of really fun options to control that loop that include a cross-fade “mix” option, as well as creating tremolo-like sounds with “chop” mode.\nhttps://www.zvex.com/products/loop-gate",
+    "hrid": "zvex-loop-gate"
+}

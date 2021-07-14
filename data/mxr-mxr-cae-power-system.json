@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27834",
+    "name": "MXR CAE Power System",
+    "image": "images/mxr-mxr-cae-power-system.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 230 V / AC",
+    "cost": "$269 Price in €",
+    "width": 343,
+    "height": 102,
+    "details": "MC403 power supplyThe MC403 Power System—a collaboration between Bob Bradshaw and the MXR design team—is truly the ultimate power supply. The MC403 powers more types of pedals and electronics at one time than any previous power supply unit available. High quality, high performance toroidal transformers ensure quiet operation with superior performance capabilities. Designed for maximum flexibility, the MC403 can be used on pedal boards or rack mounted in a single rack space with the front mount bracket (included). All multi-tap outputs are completely isolated, linear regulated, and short-circuit protected. Enclosed in a heavy-duty housing, the MC403 is designed for years of rugged road or studio use. \nhttps://www.jimdunlop.com/mxr-cae-power-system/",
+    "hrid": "mxr-mxr-cae-power-system"
+}

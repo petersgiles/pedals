@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17173",
+    "name": "DMC.Micro",
+    "image": "images/disaster-area-dmc.micro.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 93,
+    "height": 38,
+    "details": "Ultra Compact MIDI controllerThe Disaster Area DMC.micro is an ultra-compact MIDI Controller for your pedalboard.\nThe DMC.micro uses our advanced Gen3 technology in a tiny package – just 3.6″ x 1.5″ x 1.6″ (93 x 38 x 42mm.)\nThe DMC.micro user interface is incredibly simple – tap the left or right buttons to perform an action, hold the left button to perform a third “alternate” action, or hold the right button to advance to the next “page.”\nThe DMC.micro can access up to five pages, whose functions may include:\nDevice Control:  Program select and bypass for up to three devices.\nLooper Control: Controls the looper on the Strymon Timeline, Eventide H9 / Timefactor, or Line 6 M9/M13.\nUtility:  User-set actions on left / right / alt buttons.\nPreset:  Stores programs from Device Control pages and allows the user to change multiple devices at once.\nThe DMC.micro also features our astounding MultiJack connector, which can perform several different functions to simplify your setup!\nConnect one or two 1/4″ MIDI devices from companies such as Alexander Pedals, Chase Bliss Audio, Empress, and Meris\nConnect an expression pedal to send MIDI messages to one or more of your devices.\nConnect an external footswitch for tap tempo control.\nSend tap tempo to an external device such as a DD-7, Panther Cub, Flint, and more.\nNeed more control?  Use the USB port to interface with your computer or tablet device and turn the DMC.micro into a USB MIDI controller.  Maybe you have a Zoom MultiStomp (MS-50G / MS-60B / MS-70CDR?)  Connect it to the USB port using our gHOST Adaptor to control it with MIDI!\nhttp://www.disasterareaamps.com/shop/dmc-micro",
+    "hrid": "disaster-area-dmc.micro"
+}

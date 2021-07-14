@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19918",
+    "name": "Remote 4",
+    "image": "images/red-panda-remote-4.jpg",
+    "function": [
+        "Controller",
+        "Digital Glitch",
+        "Looper",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "Pedal is passive",
+    "cost": "$100 Price in €",
+    "width": 254,
+    "height": 70,
+    "details": "Remote footswitch for Tensor pedalTensor remote switch with 4 modes to access presets and pedal functions.  Scribble strips above each switch can be labeled with a Sharpie and erased using isopropyl alcohol.\nConnects to the Tensor or Particle 2 via a 1/4\" TRS cable (included).  The Tensor firmware needs to be version 1.1 or later (available here).  The Remote 4 does not require power.\nSize: 10\" x 2.75\" x 2.25\" high\nhttp://www.redpandalab.com/products/remote-4.html",
+    "hrid": "red-panda-remote-4"
+}

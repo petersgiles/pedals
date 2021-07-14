@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11790",
+    "name": "Voyager",
+    "image": "images/walrus-audio-voyager.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "walrus-audio-voyager"
+}

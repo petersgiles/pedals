@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13211",
+    "name": "Noise Clamp",
+    "image": "images/mxr-noise-clamp.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 57,
+    "height": 108,
+    "details": "FX Loop Noise GateCrank your stomp pedals to the extremes without the fear of any hiss or excess noise with the MXR Noise Clamp. By sensing your guitar's dry signal, The Noise Clamp reduces the noise level within the effect loop, coming down hard on even the noisiest signals. A single Trigger knob allows you to set the volume threshold at which the pedal is active, and a green LED shows whether the gate is on/off. This bad boy is capable of reducing Noise up to 26dB, maintaining riff definition at extreme gain levels.\nhttps://www.jimdunlop.com/product/m195-7-10137-05089-1.do",
+    "hrid": "mxr-noise-clamp"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23286",
+    "name": "Envelope Filter FX25B",
+    "image": "images/dod-envelope-filter-fx25b.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 85,
+    "height": 135,
+    "details": "Envelope filter with added BlendDOD's classic Envelope Filter with an added blend knob that blends the dry signal with the wet, making it bass friendly.\nhttps://dod.com/en/products/fx25b",
+    "hrid": "dod-envelope-filter-fx25b"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23281",
+    "name": "Sweet Cream Overdrive",
+    "image": "images/tone-city-sweet-cream-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Tone City",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Low Gain Overdrive (corrected size)A low to mid gain overdrive with adjustable break-up sensitivity.  Usable as a clean-ish boost.  A Sweet Honey Overdrive clone.\nhttp://www.tonecityaudio.com/PRODUCTS",
+    "hrid": "tone-city-sweet-cream-overdrive"
+}

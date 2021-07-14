@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12022",
+    "name": "Custom Comp",
+    "image": "images/mxr-custom-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Compression pedalThe Custom Comp is built from the finest components available and designed with a blend of modern and classic compressor technology. At the heart of the pedal resides the legendary and rare CA3080 metal can IC that delivers increased dynamic range, greater transparency, and quieter operation. In addition, the MXR Custom Shop design team included RF suppression components for interference-free operation, and an internal Attack control that allows fine tuning of the speed of the note's initial attack. Combined with a TPDT (Triple Pole Double Throw) switch for true bypass and heavy duty pots, the MXR Custom Comp will provide years of high performance live and in the studio.\nMXR Custom Shop effects are designed for discerning players with unique and specific needs-players who know their gear inside and out and carefully consider every part of their signal chain, from guitar output to amplifier input. Likewise, the Custom Shop's master pedal builders consider every component and circuit board layout choice with the same discretion, ensuring players with refined tastes and finely tuned ears get the tools they need for their own sonic exploration.\nhttps://www.jimdunlop.com/product/csp202-7-10137-04734-1.do",
+    "hrid": "mxr-custom-comp"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12006",
+    "name": "P3 Jamie Stillman Fuzz",
+    "image": "images/dc-voltage-p3-jamie-stillman-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DC Voltage",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 80,
+    "height": 111,
+    "details": "Benefits\nCircuitry designed by Jamie Stillman, mastermind of EarthQuaker Devices\nKiller fuzz pedal with great dynamics and harmonic content\nTouch-sensitivity\n\"Thunder\" switch for fatter low-end beef\nP3 Ready™\nRuns on P3. Passes P3.\nCan power stock pedals.\nCan use 9-volt battery.\nhttp://dcvoltage.net/products/p3_stillman_fuzz",
+    "hrid": "dc-voltage-p3-jamie-stillman-fuzz"
+}

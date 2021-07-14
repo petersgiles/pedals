@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32498",
+    "name": "Ghoul Screamer",
+    "image": "images/khdk-ghoul-screamer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KHDK",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "OverdriveAn iconic circuit has been pushed to perfection and equipped with 5 switches to give you the ultimate control over your tone.\nThe Ghoul Screamer is a multipurpose pedal, a true utility knife of overdrives. The dramatic versatility of the controls spans from a clean boost all the way to a massive overdrive. \nIn addition to the three standard controls (Drive, Tone, Volume) five mini toggle switches have been added, offering enhancement for Bass, Highs, and Body, as well as two variations of Compression.\nThis hugely enhances your sound palette and elevates the Ghoul Screamer to the highest class of stage and studio gear.\nThe ghoulish face on the pedal's enclosure was created by San Francisco's tattoo artist Tim Lehi. Like all KHDK pedals, the Ghoul Screamer is proudly crafted and quality-tested in Kentucky, USA.\nhttps://www.khdkelectronics.com/products/detail/ghoul-screamer/",
+    "hrid": "khdk-ghoul-screamer"
+}

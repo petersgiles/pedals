@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24735",
+    "name": "SLOIKA Mk.II",
+    "image": "images/malekko-heavy-industry-sloika-mk.ii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 63,
+    "height": 139,
+    "details": "WOLFTONE ANALOG MULTI-BAND DISTORTION PEDALDesigned to create a transparent distortion that retains the sound of your guitar and amp, SLOIKA will not mask your equipment’s tone. Very sensitive to input levels, SLOIKA allows you to control the amount of distortion from your guitar. Want a clean sound? Just back off the guitar’s volume. Searing distortion is just a matter of playing harder or cranking the guitar volume. And SLOIKA enables a seamless transition from distortion into clean when you play a full chord and let it sustain. \nhttps://malekkoheavyindustry.com/product/sloika-2/",
+    "hrid": "malekko-heavy-industry-sloika-mk.ii"
+}

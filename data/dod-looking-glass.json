@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14686",
+    "name": "Looking Glass",
+    "image": "images/dod-looking-glass.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Class-A FET Overdrive\nCircuit Design by Christopher Venter of SHOE Pedals\nDiscrete FET Class-A Design\nDual Gain Stages selectable via toggle switch\nHybrid Pre- and Post-Gain Bass and Treble Controls\nInput Filter control to tame overly-bright guitars\nInternal DIP switches to reduce unwanted effects of overly-bright signals and buffers\nTrue bypass\n9V Power Supply jack\nAluminum chassis\n\nhttps://digitech.com/en/products/looking-glass-overdrive",
+    "hrid": "dod-looking-glass"
+}

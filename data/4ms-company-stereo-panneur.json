@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33664",
+    "name": "Stereo Panneur",
+    "image": "images/4ms-company-stereo-panneur.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "4ms Company",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$280 Price in €",
+    "width": 178,
+    "height": 102,
+    "details": "Advanced Panner / TremoloBasic features\n   Speed\n    Depth\n    Smoothness\n    Symmetry\n    Spacing\n    Gain\n    Trem/pan switch: selects stereo panning (bouncing), or stereo tremolo (rolling)\n    Sync switch: synchronize the left and right channels, or use them independently\n    Bypass stomp with LED indicator (3PDT stomp)\n    Two LEDs flash to the tempo of each LFO\n    Jacks: Left/mono input, Right input, Left output, Right output\n    Separate true-bypassing stomps optional\n    9 VDC power supply included (USA orders)\n    Die-cast 7\" x 4\" x 2\" aluminum box. Solid color with text labels\nhttps://4mscompany.com/panneur.php",
+    "hrid": "4ms-company-stereo-panneur"
+}

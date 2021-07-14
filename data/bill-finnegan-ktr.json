@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12338",
+    "name": "KTR",
+    "image": "images/bill-finnegan-ktr.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Bill Finnegan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 124,
+    "height": 89,
+    "details": "Bill Finnegan Klon reissue",
+    "hrid": "bill-finnegan-ktr"
+}

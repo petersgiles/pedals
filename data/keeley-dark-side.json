@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11464",
+    "name": "Dark Side",
+    "image": "images/keeley-dark-side.jpg",
+    "function": [
+        "Distortion",
+        "Delay",
+        "Phase Shifter",
+        "Flanger"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$402 Price in €",
+    "width": 120,
+    "height": 99,
+    "details": "",
+    "hrid": "keeley-dark-side"
+}

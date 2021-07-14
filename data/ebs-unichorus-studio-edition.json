@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23128",
+    "name": "Unichorus Studio Edition",
+    "image": "images/ebs-unichorus-studio-edition.jpg",
+    "function": [
+        "Bass",
+        "Chorus"
+    ],
+    "manufacturer": "EBS",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Analog Bass ChorusAnalog Processing. The pedal is built with the best analog processing circuitry available. This gives a smoother, warmer and fatter sounding chorus/flange effect, useful both for live and studio performances. The pedal output can run in mono or stereo.\nEffect mix level. Under the hood of the UniChorus, there's a mix level control that let you decide how much or little of the effect you'd like to be blended with the original tone. See the manual for details.\nEvolution. The UniChorus was first introduced in 1997. From the 2008 edition improvements added 3 dB higher headroom, higher sensitivity (makes it easier to dial-in) and new analog circuitry with higher dynamics and lower noise, as well as true bypass switching technique.\nThe Studio Edition features an optimized signal path, new design, new signal relay switching technique, protection against over voltage up to 18V and the possibility to power the pedal with anything between 9-12V DC.\nNot just for bass players. The UniChorus is suitable for bass as well as keyboard. For guitar, we are now happy to present the EBS RED TWISTER!\nhttps://ebssweden.com/content2/effects/ebs-unichorus-studio-edition/",
+    "hrid": "ebs-unichorus-studio-edition"
+}

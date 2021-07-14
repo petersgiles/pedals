@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11721",
+    "name": "Nebulus",
+    "image": "images/empress-effects-nebulus.jpg",
+    "function": [
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$398 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "",
+    "hrid": "empress-effects-nebulus"
+}

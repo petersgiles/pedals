@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17018",
+    "name": "CKK Gears",
+    "image": "images/ckk-electronic-ckk-gears.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "CKK Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$85 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Gears comes from a modification of classic ROSS compressor. The classic compressor has never be overturned since more than 20 years, from the tone to usability. When design an excellent compressor, we must firstly understand the guitarist’s need to these compressor effect. The goal of designing Gears is that the original tone is restored faithfully and the application is natural. Gears is still based on the OTA circuit, we add a buffer signal of original signal and it can be mixed with one completely compressed signal by turning the MIX knob. This has the advantage that you can get full compressed sustain without losing tone head, and the tone is closer to guitar itself. If using distortion pedal after Gears in the effect chain, the tone sounds more nature. We also set the ATTACK knob and VOICE switch in the compressed circuit branch, The ATTACK knob can adjust the signal rise speed, and when it is used in conjunction with the MIX knob, users can adjust the different feeling of tone fullness. The VOICE switch is divided into three ranks, one of three is close off, and the other two is respectively adjusted for low frequency and high frequency to suit for many requirements of guitars and music style.\n■ Gears comes from a modification of classic ROSS compressor.\n■ Based on the OTA Circuit\n■ Adding a Buffer Signal and Getting full compressed sustain without losing tone head\n■ Natural Tone and The Original Signal is truly restored\n■ Equipped Three-Way Toggle Switch to Adjust Tone\nhttp://www.ckkelectronic.com/product/gears/gears.html",
+    "hrid": "ckk-electronic-ckk-gears"
+}

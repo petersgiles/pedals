@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12957",
+    "name": "Vintage Fuzz Tone FZ-1S Super Fuzz",
+    "image": "images/maestro-vintage-fuzz-tone-fz-1s-super-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maestro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 200,
+    "height": 175,
+    "details": "Iconic Fuzz PedalMaestro was a brand operated by Gibson from the '50s to the '70s. The FZ-1 Fuzz Tone was introduced in the early '60s along with the Echoplex tape echo, and both rank as absolutely classic vintage guitar effects. The Fuzz Tone evolved throughout the '60s with different battery requirements, as well as expanding control options and new casings. It was an original FZ-1A that Keith Richards used to record the riff on Satisfaction -- possibly the most famous recorded Fuzz tone of all time. \nThe FZ-1S is perhaps the most under-rated fuzz in the Maestro Fuzz-Tone family, it's quite a versatile fuzz with some useful features. The three controls include Volume, Sustain and Balance, which is a blend control to pan between the fuzz tone and a clean sound.\nType: Fuzz/Distortion\nControls: Volume, balance, Sustain, Fuzz 1/2\nNotable Players: Keith Richards, Pete Townshend, Christian Bland",
+    "hrid": "maestro-vintage-fuzz-tone-fz-1s-super-fuzz"
+}

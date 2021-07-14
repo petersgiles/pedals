@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14646",
+    "name": "DynaVerb Studio Edition",
+    "image": "images/ebs-dynaverb-studio-edition.jpg",
+    "function": [
+        "Bass",
+        "Reverb"
+    ],
+    "manufacturer": "EBS",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "High Dynamics Stereo ReverbOutstanding performance. The EBS DynaVerb Studio Edition use a 24-bit digital processing circuitry for outstanding and noiseless performance on stage and in the recording studio. It has stereo input as well as stereo out.\nThe foundation. The DynaVerb feature three different Modes or types of reverb - Room,Plate and Hall. Room and Plate can run in three variations, A, B and C (explained in detail in the manual), while the Hall reverb offers two variations A, B (C same as B). It makes a total of 8 different reverbs. The controls simply set the volume for the tone (Tone), and how much of the reverb you'd like to blend in (Reverb).\nSerial, or parallel. Inside the box, you can change the pedal to run in parallel mode, if preferred in the studio.\nEvolution. The DynaVerb was first introduced in 2002. From the 2008 edition improvements added 3 dB higher headroom and new analog circuitry with higher dynamics and lower noise, as well as true bypass switching technique. 2015 introduce a complete new design of the pedals looks, and adding a new signal relay type switch for secure and silent action, protection against overvoltage use up to 18V, possibilities to power the pedal with anything from 9-12V DC and an optimized signal path for studio quality sound.\nNot just for the bass player. The EBS DynaVerb Studio Edition is highly recommended to use with bass and keyboard. The Stereo in and out adds to the usability and the excellent sound quality is comparable to any studio rack unit. EBS now also offer a DynaVerb Guitar Edition, with a different tail suited especially for use with guitar.\nhttps://ebssweden.com/content2/effects/ebs-dynaverb-studio-edition/",
+    "hrid": "ebs-dynaverb-studio-edition"
+}

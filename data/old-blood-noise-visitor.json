@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27244",
+    "name": "Visitor",
+    "image": "images/old-blood-noise-visitor.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Multieffect",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Parallel Multi-Modulator\nhttps://www.oldbloodnoise.com/pedals/visitor-parallel-multi-modulator",
+    "hrid": "old-blood-noise-visitor"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11591",
+    "name": "Green Mile",
+    "image": "images/mooer-green-mile.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$88 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Tubescreamer Clone\nhttp://www.mooeraudio.com/?product/201410168039.html",
+    "hrid": "mooer-green-mile"
+}

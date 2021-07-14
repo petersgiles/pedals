@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13329",
+    "name": "Tremorama",
+    "image": "images/zvex-tremorama.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$379 Price in €",
+    "width": 102,
+    "height": 51,
+    "details": "TremoloThe Tremorama (TM) is to the Seek-Trem as the Ooh-Wah is to the Seek-Wah. If you're able to understand that, you must be pretty familiar with our products! Basically, the Tremorama has all of the functions of the Seek-Trem plus it has an extra foot switch on the left that allows you to select random mode, which sounds a little bit like a bad guitar cord that is cutting in and out in time with the tremolo speed. Otherwise the Tremorama is an eight-stage sequencer-controlled tremolo pedal. The controls are, from left to right, 4/8/6 step selector switch, speed (tempo), and 8 sequencer volume controls. All of the controls work in the opposite direction from conventional because the pots are smoother this way. This means you have to turn them to the left to make them louder, or in the case of the speed control, to make it faster. There is also a true-bypass stomp switch which causes the sequencer to “halt” and wait at step number 1 until the pedal is turned back on.\nhttps://www.buyanalogman.com/ZVex_Tremorama_p/zvex%20tremorama.htm",
+    "hrid": "zvex-tremorama"
+}

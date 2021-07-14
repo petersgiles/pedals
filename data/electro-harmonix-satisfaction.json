@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13121",
+    "name": "Satisfaction",
+    "image": "images/electro-harmonix-satisfaction.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Fuzz",
+    "hrid": "electro-harmonix-satisfaction"
+}

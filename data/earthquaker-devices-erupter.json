@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14225",
+    "name": "Erupter",
+    "image": "images/earthquaker-devices-erupter.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$145 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Ultimate Fuzz ToneCan we ask you a serious question? When’s the last time you turned up your favorite fuzz pedal to anything but eleven? If there’s one true thing about rock n’ roll, it’s that it sounds best cranked all the way up. But where do we go from here? We go one louder. Enter the Erupter.\nThe Erupter is the result of over two years’ worth of tone-chasing, tweaking, and experimentation in search of the ultimate classic fuzz tone with a big low end (but not too mushy), a biting top end without being too harsh, and just enough output to politely send a tube amp over the top.\nWe used every trick in the book to craft a classic fuzz Device that sounds good with any pickup type, anywhere in the chain (even before a wah pedal!) without any tone-sucking impedance mismatching. We build each Erupter with a buffered input section, transformer-based pickup simulation, new production 5% ½ watt carbon composition resistors, metallized polyester film capacitors, Sprague and BC electrolytic capacitors, and low-gain, hand-matched NOS silicon transistors to deliver a well-rounded and defined fuzz tone with just enough pummeling intensity, so you can rock n’ roll all night and still get to bed at a reasonable hour.\nThe Erupter’s simple control set stands in stark relief of its rigorous design process, and believe us, we tried everything. Adding controls, removing controls, measuring resistors, swapping transistors, trying different capacitor values, rolling dice, throwing darts at transformer spec sheets on the wall… Heck, we would have done William Burroughs-style circuit board cut-ups if we thought it would’ve worked. If it’s good enough for the Stones, it’s gotta be good enough for us, right?\nAnywho, what we finally landed on is a super-simple single knob setup that allows you to bias the Erupter’s NOS silicon transistors for the perfect sound and feel, while still being touch responsive and cleaning up nicely when you roll back the guitar’s volume and tone controls.\nLow “Bias” settings yield a rude, spongy fuzz tone with plenty of sag and a blossoming attack envelope that’s gated without entering “dying battery” territory. As the “Bias” control is increased, additional harmonics stack atop the input signal, producing a stiffer, more complex fuzz tone with a tighter response, increased output, and longer sustain. We had a custom center-detent pot made to fit the required resistance for the Erupter. When the Bias control is set at noon you will feel a little click. That means the pedal is perfectly biased to give the best possible fuzz tone.\nThe Erupter uses a fixed master output level and gain setting for the thickest fuzz possible and to push the full frequency range of the guitar out front when you kick it on. And we do hope you’ll kick it on often.\nEach and every Erupter is built by the hands of real-life dream warriors in the foothills of Mt. Akron, Ohio.\nhttps://www.earthquakerdevices.com/erupter/",
+    "hrid": "earthquaker-devices-erupter"
+}

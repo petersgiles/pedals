@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31219",
+    "name": "Ripply Fall Bass",
+    "image": "images/jam-pedals-ripply-fall-bass.jpg",
+    "function": [
+        "Bass",
+        "Chorus",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "26 mA / 9 V / DC / Negative Center",
+    "cost": "$302 Price in €",
+    "width": 130,
+    "height": 100,
+    "details": "Chorus/Vibrato/Phaser Bass VersionImmerse yourself in 100% analog 3-D multi-modulation bliss!\nAfter years of recommending the WaterFall and the Ripple as a great combination, we set out to offer these two pedals, housed side-by-side in a single enclosure, with the introduction of the following unique features:\nThe middle footswitch triples the at-any-given-point WaterFall Speed, generating sounds ranging all the way from Leslie speaker simulation, to ring modulator effects and up to deranged warble!\n\nExpression pedal inputs for sculpting the WaterFall’s Depth and Speed in real-time.\n\nWaterFall\nA smooth, lush-sounding Chorus / Vibrato pedal, featuring BBD chips, with 2 toggle- switches, one to select between chorus and vibrato modes, and another to switch to a “wetter” effect.\nRipple\nSmooth, sweet and transparent 2-stage phaser pedal.\nhttps://www.jampedals.com/ripply-fall-bass/",
+    "hrid": "jam-pedals-ripply-fall-bass"
+}

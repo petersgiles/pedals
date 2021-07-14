@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19261",
+    "name": "Monarch",
+    "image": "images/earthquaker-devices-monarch.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$104 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "FET-based distortion voiced to match the gain stage of a popular \"ORANGE-colored\" British ampThe Monarch Overdrive is an all discrete, FET-based dirt machine. It’s designed around the input stage of a vintage amp produced by a company that bears the same name as the color of the monarch (hint…). It has been configured to produce higher gains that sound very open and free of unnatural compression. The Monarch gives big bottom end with a snappy, bright top at all gain ranges with some careful tuning of the treble and bass controls. The treble and bass controls function as frequency boosters, not the traditional roll off filters in most overdrives. They are located in the preamp section and have a large impact on the over all tone, nature and distortion characteristics. If you are looking for an overdrive for big fat chords with excellent low end retention, this is it!\nhttps://www.earthquakerdevices.com/monarch\nhttps://www.stewmac.com/Pickups_and_Electronics/Pedal_Kits_and_Parts/Pedal_Kits/EarthQuaker_Devices_Monarch_Pedal_Kit.html",
+    "hrid": "earthquaker-devices-monarch"
+}

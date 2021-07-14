@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26851",
+    "name": "Astro Tone Fuzz",
+    "image": "images/analogman-astro-tone-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 59,
+    "height": 110,
+    "details": "Based on the 1960's SAM ASH FUZZZ BOXX and ASTROTONE FUZZThe Analog Man ASTRO TONE fuzz is somewhere between a fuzz and distortion as it acts differently into different amps. But it sounds great into almost anything! The Astro Tone is MUCH easier to use than a Fuzz Face and you can hear it well with a band.\nAnalog Man's first new pedal of 2010 is the ASTRO TONE fuzz. This pedal is based on the 1960's SAM ASH FUZZZ BOXX and ASTROTONE FUZZ made in New York City in 1966-68 by the Astro Amp company.",
+    "hrid": "analogman-astro-tone-fuzz"
+}

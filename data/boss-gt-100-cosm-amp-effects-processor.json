@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20537",
+    "name": "GT-100 COSM Amp Effects Processor",
+    "image": "images/boss-gt-100-cosm-amp-effects-processor.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "600 mA / 9 V / DC / Negative Center",
+    "cost": "$499 Price in €",
+    "width": 542,
+    "height": 271,
+    "details": "Guitar Multi-Effect Pedal with COSM Amp ModelingWith the new GT-100 Version 2.0 update, BOSS’ high-end multi-effects processor is now even more powerful than before, adding a host of great new features to its already formidable arsenal. Two new amp types are included, along with cutting-edge MDP effects, an acoustic guitar simulator, and an improved rotary effect. A convenient Guitar-to-MIDI function is on board as well, letting you connect to a computer to play soft synths and input MIDI note using your normal guitar. The GT-100’s USB audio capabilities have been expanded too, providing greater flexibility for re-amping applications. And with the BOSS TONE STUDIO software, you can now edit GT-100 patches from a friendly graphical interface on your computer.\nWith its next-generation COSM processor, the GT-100 ushers in a new era of expression and sonic capabilities. Recreating the meticulous details of vintage amps and how they behave, the GT-100 excels in not only cloning classic amps, but in creating a new world of unimagined tones as well. The Amp Customize function lets you mutate classic amps beyond reality to construct completely new, unimagined sounds!\nThe GT-100’s unique dual-LCD and eight-knob user interface provides fast access and intuitive control. There are no menus to navigate; every function is instantly available. The tone-customizing functionality has been improved as well—all patches, amps, and overdrives/distortions can be created from scratch and/or customized with the friendly graphical Tone Grid.\nA new dimension of expression is available with the Accel pedal, which enables control of multiple parameters simultaneously, as well as time-variant effects such as Feedbacker, S-Bend, Twist, and more. Experiment with creative combinations of parameters and bring dynamic new sounds to your performances by interacting in real time with this cool pedal.\nAnother notable feature in the GT-100 is the versatile A/B Channel Divider. This lets you assign different amps and effects to each channel, either for blending together or switching between them with a footswitch. Going even further, you also have the ability to switch channels by playing strength or frequency range. With each channel capable of driving its own effects and amps settings, the range of tones gets wider and wilder! You can assign smooth, mild lead tones to the mid-to-high pitches, for example, and heavy, cutting tones to the lower notes—the tonal possibilities are endless.\nhttps://www.boss.info/us/products/gt-100/",
+    "hrid": "boss-gt-100-cosm-amp-effects-processor"
+}

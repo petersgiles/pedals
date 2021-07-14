@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30122",
+    "name": "Iron Horse V2 - Halloween 2020 Edition",
+    "image": "images/walrus-audio-iron-horse-v2---halloween-2020-edition.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 74,
+    "height": 121,
+    "details": "LM308 DistortionBreaking through ink filled panels, the Grim Reaper returns in the form of gritty comic books and graphic novels as illustrated by DC & Marvel artist, Dexter Soy. Each pedal ships with a sticker of the pedal art as well!\nThe Iron Horse V2 is a return to the classic distortion: thick, punchy, riff-y and rowdy. The true bypass, high gain behemoth has been updated to help steer the stallion or let the reins loose for full on distorted onslaught. Dial back the gain and it can be used as a thick, warm overdrive. The Iron Horse has three distortion modes operated by a toggle switch that changes between different clipping diodes providing more versatility in shaping the tone of the distortion. Left will give some compression. Right will give you a higher amount of compression and middle will give you a wide open, non compressed signal.\nThe Iron Horse V2 updates are as follows:\n- Updated the Level control so that it is easier to dial in unity gain. \n- Updated the Tone control to allow more treble to be dialed in if desired. \n- Updated Distortion control to smooth out the range of distortion making it easier to dial in lower gain tones.\nThe Iron Horse V2 comes in a Galaxy Gold finish with black ink. Artwork by illustrator Adam Forster features a new battle ready stallion cloaked in armor.\nhttps://www.walrusaudio.com/collections/overdrive-fuzz-distortion/products/iron-horse-lm308-distortion-v2-halloween-2020-limited-edition?variant=32665809354798",
+    "hrid": "walrus-audio-iron-horse-v2---halloween-2020-edition"
+}

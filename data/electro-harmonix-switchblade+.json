@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13210",
+    "name": "Switchblade+",
+    "image": "images/electro-harmonix-switchblade+.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 110,
+    "height": 65,
+    "details": "ABY PedalThe Switchblade+ offers a convenient solution to a player’s switching needs. Route your signal to either output A or B, or send it to both at once. Connect a tuner or effects pedal to its dedicated Tuner output. With a fully passive audio path and active LED indication, the new Switchblade+ is your utilitarian sidekick.\nhttps://www.ehx.com/products/switchblade-plus",
+    "hrid": "electro-harmonix-switchblade+"
+}

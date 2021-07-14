@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15734",
+    "name": "Bass Whammy",
+    "image": "images/digitech-bass-whammy.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 160,
+    "height": 203,
+    "details": "Legendary pitch shifting effect for bass guitarThe next generation Bass Whammy uses the most advanced pitch detection and polyphonic note tracking technology to create the world’s best pitch shifting effect pedal optimized for bass. The Bass Whammy maintains the classic settings from the original with many modern upgrades.  With two different tracking modes, Classic and Chord, the Bass Whammy gives players the ability to recreate the shift glitch effects from the original or get the smooth pitch shift effect. Chord mode uses advanced polyphonic tracking algorithms for a more exact and smooth pitch shift effect while Classic maintains the tracking artifacts of the original Whammy. The Bass Whammy is true bypass, MIDI controllable, and uses a 9V DC power supply to easily integrate into your existing pedalboard. \nhttps://digitech.com/en/products/bass-whammy",
+    "hrid": "digitech-bass-whammy"
+}

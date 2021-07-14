@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17427",
+    "name": "Shepard's End",
+    "image": "images/mr.-black-shepard's-end.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Infinite Flanger",
+    "hrid": "mr.-black-shepard's-end"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29340",
+    "name": "VT2 Vintage Tremolo",
+    "image": "images/guyatone-vt2-vintage-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 68,
+    "height": 90,
+    "details": "Tremolo",
+    "hrid": "guyatone-vt2-vintage-tremolo"
+}

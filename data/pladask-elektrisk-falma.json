@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29844",
+    "name": "Falma",
+    "image": "images/pladask-elektrisk-falma.jpg",
+    "function": [
+        "Filter",
+        "Tremolo"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 67,
+    "height": 126,
+    "details": "Random Modulation\nhttps://pladaskelektrisk.com/product/falma/",
+    "hrid": "pladask-elektrisk-falma"
+}

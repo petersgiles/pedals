@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11967",
+    "name": "EKKO 616 (Original)",
+    "image": "images/malekko-heavy-industry-ekko-616-(original).jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 71,
+    "height": 112,
+    "details": "650MS ANALOG DELAY PEDALIf your 616 has a green board inside, you have an EKKO 616.\nIf your 616 has a blue board inside, you have an EKKO 616 MKII.\nCurrent draw is 50mA and operates on a 9V battery or optional 9VDC neg tip regulated power supply.",
+    "hrid": "malekko-heavy-industry-ekko-616-(original)"
+}

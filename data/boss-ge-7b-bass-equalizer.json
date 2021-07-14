@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12891",
+    "name": "GE-7B Bass Equalizer",
+    "image": "images/boss-ge-7b-bass-equalizer.jpg",
+    "function": [
+        "Bass",
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "Boss",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Bass EqualizerThe GE-7B is a 7 band Equalizer for Bass guitar. The design is very similar to the GE-7 but the frequency bands are optimized for bass guitar. The bands have center frequencies at 62Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz and 4Khz. There is also a level control that allows each band to be adjusted by +/- 15db.\nThe production moved from Japan to Taiwan early 1992.\nSpecifications\nControls: 7 Band Graphic Equalizer + level control\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 16 mA (DC 9V)\nWeight: 450g/0.99 lbs.\nInput Impedance: 470 kOhm\nResidual Noise Level: Less than -100dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nEqualizer: 62 Hz, 125 Hz, 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4kHz\nLevel Control: +/-15 dB per band\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nBlack – Made In Taiwan\nThe GE-7B was sold from February 1987 to February 1995.\nhttp://www.bossarea.com/boss-ge-7b-bass-equalizer/",
+    "hrid": "boss-ge-7b-bass-equalizer"
+}

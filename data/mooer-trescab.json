@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25980",
+    "name": "TresCab",
+    "image": "images/mooer-trescab.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "128 mA / 9 V / DC / Negative Center",
+    "cost": "$98 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Digital cab simulatorThe Mooer TresCab delivers high-quality digital cabinet simulation in a micro pedal. The TresCab offers five different types of cabinets with EQ adjustment or microphone placement with the mode switch.\n1x8 Combo\n1x10 Combo\n1x12 Open\n2x12 Open\n4x12 Closed",
+    "hrid": "mooer-trescab"
+}

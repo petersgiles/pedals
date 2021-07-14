@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11441",
+    "name": "FX600",
+    "image": "images/behringer-fx600.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$44 Price in €",
+    "width": 70,
+    "height": 123,
+    "details": "Digital Stereo Multi-Effect Pedal",
+    "hrid": "behringer-fx600"
+}

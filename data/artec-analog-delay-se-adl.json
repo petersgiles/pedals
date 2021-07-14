@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11467",
+    "name": "Analog Delay SE-ADL",
+    "image": "images/artec-analog-delay-se-adl.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Artec",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$43 Price in €",
+    "width": 76,
+    "height": 116,
+    "details": "Effect Pedal",
+    "hrid": "artec-analog-delay-se-adl"
+}

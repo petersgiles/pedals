@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30571",
+    "name": "Flatiron Fuzz",
+    "image": "images/electro-harmonix-flatiron-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Fuzz / Distortion based on Proco Rat 2The Flatiron Fuzz is a classic op-amp powered fuzz/distortion. With its late ‘70s style circuit and symmetrical hard clipping, it’s EHX’s take on the RAT2™ pedal, only we think it’s better.\nThe Flatiron Fuzz is extremely versatile. At lower drive settings it remains fairly clean and adds a pleasing mild distortion. As the drive is turned up it transports you to a world of arena rock and produces spectacular, thick, meaty tones.\nhttps://www.ehx.com/products/flatiron-fuzz",
+    "hrid": "electro-harmonix-flatiron-fuzz"
+}

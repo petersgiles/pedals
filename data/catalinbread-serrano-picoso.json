@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28811",
+    "name": "Serrano Picoso",
+    "image": "images/catalinbread-serrano-picoso.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 49,
+    "height": 93,
+    "details": "Mini Clean BoostA very simple, transparent, low noise, and extraordinarily tiny boost. Provides 30dB of clean boost. When you can't compromise your tone and need a buffer or boost that doesn't take up a lot of space the Serrano Picoso is your only real choice.\nhttp://www.effectsdatabase.com/model/catalinbread/serranopicoso#links",
+    "hrid": "catalinbread-serrano-picoso"
+}

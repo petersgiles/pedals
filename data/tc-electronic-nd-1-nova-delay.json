@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11431",
+    "name": "ND-1 Nova Delay",
+    "image": "images/tc-electronic-nd-1-nova-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 127,
+    "height": 130,
+    "details": "Stereo Digital DelayThe ND-1 Nova Delay raises the bar for guitar effect pedals and redefines what it means to be \"state-of-the-art.\" It's built upon the legacy and knowledge of TC's world-renowned TC 2290 Dynamic Digital Delay.\nWith 6 different stereo delay types and the option to store up to 9 presets customizable by an array of style parameters ranging from vintage tape to digital delay. This effect pedal easily serves all delay requirements of modern guitar players who seek unique sounds.\nEach of these types can be modified with a delay style - a unique feature of ND-1 Nova Delay that allows you to mix and match your delay type and style infinitely.\nWith the ND-1 Nova Delay, both single delay and dual delay lines can be applied to any type and style using the tap tempo switch or delay time knob to determine the delay time that ranges from 1 to 2290 ms.\nThree different types of modulation (light, medium and heavy) can be applied to any of the delay types - a feature originating from the TC 2290 Dynamic Digital Delay processor.\nThe all-new Audio Tapping technology enables you to set the tempo of the delay by playing a rhythm into the pedal while holding down the tap tempo switch. You can now set the tempo of the delay using your most important asset: Your playing.\nOther great ND-1 Nova Delay features include the pedal's ability to choose between ms (milliseconds) and bpm (beats per minute) readout, decide if you want spillover on individual settings and turn global tempo - where tap tempo determines delay time on user presets - on and off.\nFeatures\nUncompromised studio-quality TC effects 6 stereo delay types: line, dynamic, reverse, ping-pong, pan, and slap back\nStyle parameters for extensive tweaking\nStores up to 9 presets\nTwo switchable settings:\nmanual and preset\nUp to 2290 ms delay time\nAudio Tapping ” audio-generated tap tempo\nModulated delay\nDelay spillover\nDC adapter sold separately\nhttp://www.tcelectronic.com/nd-1-nova-delay/",
+    "hrid": "tc-electronic-nd-1-nova-delay"
+}

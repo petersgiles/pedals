@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21133",
+    "name": "qCONNECT",
+    "image": "images/disaster-area-qconnect.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 122,
+    "height": 66,
+    "details": "Quarter-Inch MIDI interface and controllerThe first controller designed specifically to interface with quarter-inch MIDI devices.\nThe qCONNECT is a compact controller with eight 1/4″ outputs, designed to control an entire pedalboard full of pedals by Chase Bliss Audio, Alexander, Empress, Meris, and Bondi.\nSimply connect your MIDI devices to the qCONNECT ports, then use our comprehensive setup menu to configure the port assignments and device routing.  All of the qCONNECT ports may send MIDI on the ring (Chase Bliss) or on the tip (most other brands) without using jumpers or DIP switches.\nSetting up your devices is easy – we offer simple step-by-step guides for all of the currently supported devices.\nYou can even link multiple qCONNECTs together to control very large pedal setups, or use a qCONNECT to expand the capabilities of your current controller.\nFeatures:\n\nSix 1/4″ outputs with software-assignable polarity – no jumpers or DIP switches required\nTwo 1/4″ outputs assignable to MIDI, expression pedal, or tap functionality\nStandard 5-pin MIDI input and output to interface with other devices or controllers\nFlexible MIDI routing, assign incoming MIDI to ports A-F, port X, port Y or any combination\nCompact Size – 4.8″ x 2.6″ x 1.4″, same size as Chase Bliss or Alexander pedals\nBlue LED display with 10 brightness levels\nUSB port connects to your DAW or mobile device for MIDI communication or firmware update\nRuns on standard 9V power, 100mA or less\n\nhttps://www.disasterareaamps.com/shop/qconnect",
+    "hrid": "disaster-area-qconnect"
+}

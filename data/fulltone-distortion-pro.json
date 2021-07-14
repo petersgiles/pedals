@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23162",
+    "name": "Distortion Pro",
+    "image": "images/fulltone-distortion-pro.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 66,
+    "height": 111,
+    "details": "Distortion pedal",
+    "hrid": "fulltone-distortion-pro"
+}

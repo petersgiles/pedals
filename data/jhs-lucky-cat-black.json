@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24755",
+    "name": "Lucky Cat Black",
+    "image": "images/jhs-lucky-cat-black.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 68,
+    "height": 122,
+    "details": "Digital Tape DelayDigital delay pedal for electric guitar\nTurn on Tape mode to conjure the saturated, compressed sound of vintage tape delay\nDark control ranges from completely transparent delays to gritty, lo-fi delays\nSwitchable modulation with 2 modes — subtle and shimmery or deep and warbly\nTap tempo and Ratio controls",
+    "hrid": "jhs-lucky-cat-black"
+}

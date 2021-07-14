@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20107",
+    "name": "BP200",
+    "image": "images/digitech-bp200.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 254,
+    "height": 210,
+    "details": "Bass Multi-EffectThe BP200 is a revolutionary Amp Modeling/Multi-effects processor designed specifically for bass guitar. Under the hood of the BP200 is the powerful AudioDNA™ DSP processor, providing 16 bass amp and stompbox models and a host of other effects (22 total) for creating your own signature sound. The built-in expression pedal can be assigned to control your choice of parameters in real time. Each effect includes up to 3 adjustable parameters giving you the flexibility to create the exact sound you are looking for. The 6 character alpha-numeric display and 3 knob matrix based user interface provide simple, straight forward editing functions. The Rhythm Trainer is a great tool for polishing up your timing with your choice of different patterns, tempo, and adjustable volume level. A chromatic tuner lets you quickly check or tune your instrument to one of 4 different tuning references.\nThe BP200 comes ready to use with 40 great Factory Presets, and includes 40 User Presets for your own custom creations. The rear panel features a single 1/4\" input, a 1/4\" TRS stereo output, 1/8\" stereo headphone output and a 1/8\" stereo Jam-A-Long™ input.\nhttps://digitech.com/en/products/bp200",
+    "hrid": "digitech-bp200"
+}

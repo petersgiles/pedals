@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20200",
+    "name": "I.Q. Compressor",
+    "image": "images/j.-rockett-audio-designs-i.q.-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Equalizer"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 64,
+    "height": 102,
+    "details": "Compressor with Pre Compression 6 Band Graphic EQCompressor with Pre Compression 6 Band Graphic EQ\nBand 1 – 100Hz\nBand 2 – 200Hz\nBand 3 – 400Hz\nBand 4 – 800Hz\nBand 5 – 1.5K\nBand 6 – 3.2K\nThe I.Q. Compressor is an EQ/Compressor with a pre-compression EQ. The EQ  let’s you choose which frequencies you want compressed harder based on their respective gain setting. Each frequency slider has 18db of gain or cut. The compressor has a volume and mix control. The volume adjusts the output level and the mix control blends the compressed and dry signal. (There will be a slight bump in volume as the mix control blends dry with wet). It can be adjusted with the volume control.\nVolume – Controls Overall Output\nMix – Blends Compressed Signal with Dry Signal",
+    "hrid": "j.-rockett-audio-designs-i.q.-compressor"
+}

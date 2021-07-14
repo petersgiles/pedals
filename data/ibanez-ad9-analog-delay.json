@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16143",
+    "name": "AD9 Analog Delay",
+    "image": "images/ibanez-ad9-analog-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 65,
+    "height": 122,
+    "details": "REISSUE, Analog Delay with CompanderMeasurements do not include 1/4\" jacks. (Add approx. 10mm per dimension)\nhttps://reverb.com/p/ibanez-ad-9-analog-delay-1980s-hot-pink",
+    "hrid": "ibanez-ad9-analog-delay"
+}

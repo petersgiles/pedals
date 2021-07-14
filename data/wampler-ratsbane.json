@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32558",
+    "name": "Ratsbane",
+    "image": "images/wampler-ratsbane.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 42,
+    "height": 92,
+    "details": "Mini distortion/fuzz RAT clone",
+    "hrid": "wampler-ratsbane"
+}

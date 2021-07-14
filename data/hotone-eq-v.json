@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27311",
+    "name": "EQ-V",
+    "image": "images/hotone-eq-v.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "5-Band Equalizer Pedal for Guitar and BassThe Skyline EQ-V from Hotone is a 5-band graphic equalizer pedal with a true bypass footswitch designed for use with guitar and bass, providing complete control of your sound and eliminating unwanted feedback. It can also be used as a booster for a multi-dimensional, expanded sound. The pedal includes a zinc alloy outer cover, a large transparent knob for controlling the input level, 5 mini sliders to adjust each of the five EQ bands, and LED indicator lights. The EQ-V is powered by a 9 VDC adapter with a center negative plug (available separately).\nFrequencies: 80 Hz, 350 Hz, 720 Hz, 1.6 kHz, 5 kHz with maximum 18 dB boost/cut\nTrue bypass footswitch\nZinc alloy outer cover\nTransparent top knob controls input level and 5 mini sliders adjust EQ bands\nCool LED lights",
+    "hrid": "hotone-eq-v"
+}

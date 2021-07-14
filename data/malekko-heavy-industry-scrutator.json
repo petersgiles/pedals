@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15224",
+    "name": "Scrutator",
+    "image": "images/malekko-heavy-industry-scrutator.jpg",
+    "function": [
+        "Digital Glitch",
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Sample Rate & Bit Reduction PedalThe Scrutator Sample Rate and Bit Reducer pedal rises from Malekko’s new and powerful DSP platform and is the ﬁrst of many radical pedals to come. External control over any combination of Rate, Bit, Filter, and Q controls (via expression pedal or control voltage), and a switchable 2 pole bandpass or lowpass ﬁlter allows for extreme creative possibilities. \nhttps://malekkoheavyindustry.com/product/scrutator/",
+    "hrid": "malekko-heavy-industry-scrutator"
+}

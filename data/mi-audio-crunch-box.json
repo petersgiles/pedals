@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27297",
+    "name": "Crunch Box",
+    "image": "images/mi-audio-crunch-box.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mi Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 64,
+    "height": 119,
+    "details": "Marshall on SteroidsThe Crunch Box Distortion is our take on high gain British amp distortion. Careful multiple clipping architecture design and development has meant we have achieved our goal of creating a pedal which captures the huge crunch of a Marshall on steroids.\nGAIN – from the lightest breakup to insane high gain scream\nTONE – custom taper control which adjusts the high end cut of the pedal.\nVOLUME – tapered for a more gradual and controlled volume sweep.\nINTERNAL PRESENCE CONTROL – for adjusting the ‘shape’ of the Crunch Box’s sonic footprint.\nhttps://miaudio.com/effects/crunch-box-distortion/",
+    "hrid": "mi-audio-crunch-box"
+}

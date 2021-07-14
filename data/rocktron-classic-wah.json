@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17652",
+    "name": "Classic Wah",
+    "image": "images/rocktron-classic-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 102,
+    "height": 279,
+    "details": "Wah PedalThis wah has a sweet, musical, vintage tone and buyers are surprised at just how well this wah pedal delivers the goods. The Rocktron Classic Wah has a heavy duty, all metal chassis with tension adjustment for the pedal.\nPower Supply - AC Adapter, Battery\nOutput - Impedance1 K ohms\nInput - Impedance1 M ohms\nCurrent Draw - 35 mA\nNominal Input - 10 dBu\nhttps://reverb.com/item/756844-rocktron-classic-wah?gclid=CjwKCAjw06LZBRBNEiwA2vgMVaz1gVun2J5ptJgxHtDvFzJdqBqfmcI6N60iusWjWm0jD5R-Qjeg8BoC51AQAvD_BwE&pla=1",
+    "hrid": "rocktron-classic-wah"
+}

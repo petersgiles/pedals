@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11752",
+    "name": "Gain Changer",
+    "image": "images/barber-electronics-gain-changer.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Barber Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 58,
+    "height": 110,
+    "details": "OverdriveMeasuring only 2.3” wide, the NEW Barber Gain-Changer harnesses a vast spectrum of EQ and gain. Flick the toggle one way and you have sweet very low-gain overdrive, flick it the other way and you get wildly charged harmonic content of our much praised unLimiTeD distortion. Pop over to the other toggle-switch and you can volley between the flat sweet-EQ of the LTD SR , the vintage snarling-fat-EQ of our classic LTD v2 or a new voice that combines flat EQ with a little added fatness. Combine all these different options together and you have a super-versatile harmonic beast. Our goal was to shrink the size of our pedals and retain all the ultra-high quality electronics and build quality that we are world famous for. In the end, it’s almost impossible to miss the target if you are shopping for a new overdrive for your rig, “it’s like shooting fish in a barrel Jethro.”\nThe Gain-Changer has real honest solder lugs for jacks, True-bypass footswitch, toggles and pots. There are no worries about PCB mounted thru-panel parts that can’t be serviced on the road, or that lead to high cost repairs. Nothing but the best tried and true hand-built methods adorn the interior of the Barber Electronics Gain-Changer. The Gain-Changer has a generous 2 1/2” of clearance between the front edge of the footswitch and the back edge of the knobs, no more worries about changing your settings with each click of your footswitch. Buy a hand-built Barber Gain-Changer, and enter a world of immense overdrive possibilities.",
+    "hrid": "barber-electronics-gain-changer"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21262",
+    "name": "DECI-MATE",
+    "image": "images/isp-technologies-deci-mate.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "ISP Technologies",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$117 Price in €",
+    "width": 37,
+    "height": 93,
+    "details": "Noise Gate• Full Decimator in MICRO Pedal package\n• True Bypass design\n• New DECIMATOR X Technology uses Time Vector Integration. Adaptive release provides smoothest release response possible\n• Adaptive release tracks both staccato and long sustained notes\n• Adaptive tracking response tracks any playing style\n• Greater than 90db effective noise reduction\n• Superior design to noise gates using downward expansion with adaptive release\n• Analog circuit for transparency / no digital aliasing\nPedal Type : Guitar Noise Reduction\nInputs : 1X Guitar Input ¼ inch\nInput Impedance : 500k ohms\nMaximum Input Level : +10 dbU\nOutput : 1X ¼ inch\nMaximum Noise Reduction : Greater than 90db\nRelease Response : Adaptive over 1000 to 1 ratio\nTrue Bypass : Yes\nChassis Size : 3.7 inches x 1.5 inches x 1.3 inches\nPower Input : 9VDC 40 milliamp minimum / tip :negative / sleeve : positive\nPower Supply Included : NO\nhttp://www.isptechnologies.com/portfolio/deci-mate-micro-decimator-pedal/",
+    "hrid": "isp-technologies-deci-mate"
+}

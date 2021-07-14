@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20751",
+    "name": "Clover",
+    "image": "images/jhs-clover.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 41,
+    "details": "The Edge Style Preamp",
+    "hrid": "jhs-clover"
+}

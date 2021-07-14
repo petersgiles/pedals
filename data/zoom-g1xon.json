@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19011",
+    "name": "G1Xon",
+    "image": "images/zoom-g1xon.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 237,
+    "height": 155,
+    "details": "Guitar Multi-effects with Expression PedalThe G1Xon offers 100 guitar effects, including a variety of distortion, compression, modulation, delay, reverb, and amp models, as well as a number of special pedal-controlled effects.\nUp to 5 effects can be used simultaneously, chained together any way you like. In addition, there are 68 built-in rhythm accompaniment patterns, and you can connect headphones to the output jack (as well as portable music players to the auxiliary input jack) for silent practice sessions. There's an onboard chromatic tuner that supports all standard guitar tunings, including open and drop tunings, and a Looper feature that allows you to record up to 30 seconds of CD-quality audio. Loop length can be set either manually or to a preset number of quarter notes (up to 64 beats), and you can loop to any rhythm pattern, with automatic quantization that ensures seamless start and end times. Programming is simple and straightforward, thanks to a streamlined user interface and large backlit LCD screen. Advanced editing features such as Swap, Auto Save, and Pre Select make it easy to organize your patches for live performance and allow you to scroll through patches silently while keeping the current patch operational. In addition, the G1Xon's built-in expression pedal enables you to control input level, output level, or any selected effect parameter in real time.\nhttps://www.zoom.co.jp/products/guitar/zoom-g1xon-guitar-multi-effects-processor-expression-pedal",
+    "hrid": "zoom-g1xon"
+}

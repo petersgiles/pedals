@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22991",
+    "name": "JF-31 Noise Gate",
+    "image": "images/joyo-jf-31-noise-gate.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / DC",
+    "cost": "$25 Price in €",
+    "width": 68,
+    "height": 118,
+    "details": "Noise Gate",
+    "hrid": "joyo-jf-31-noise-gate"
+}

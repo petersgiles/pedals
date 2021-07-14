@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21579",
+    "name": "Architect",
+    "image": "images/matthews-effects-architect.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Klonk Alone",
+    "hrid": "matthews-effects-architect"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26308",
+    "name": "Snazzy LV - Mini-Ark",
+    "image": "images/erica-synths-snazzy-lv---mini-ark.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Pitch Shifter",
+        "Synth Voice",
+        "Tremolo"
+    ],
+    "manufacturer": "Erica Synths",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$336 Price in €",
+    "width": 140,
+    "height": 178,
+    "details": "Guitar & Bass SynthesizerSnazzy FX and Erica Synths have teamed up as Snazzy LV to re-release the classic guitar synth/tracking device/sound deconstructor: the Mini-Ark. Exactly the same in form and function as the original Snazzy Mini-Ark, this pedal is a monophonic signal tracking synthesizer ideal for guitar and bass synth sounds as well as absolute sonic chaos.\nThe Mini-Ark quickly and accurately tracks incoming monophonic signals, allowing mixing of pitch-shifted harmonized intervals and both clean and dirty versions of the input signal. Infinite hold is possible via dedicated footswitch, enabling easy access to drones and other bizarre textures. Built to effectively respond to as many types of signals as possible, the Mini-Ark is ready to destroy drums, entire tracks, and far more.\nMini-Ark Features\n    Pedal-format tracking synthesizer\n    Tracks super quickly\n    Huge range of sounds from subtle to agressive to outright absurd\n    Gate and Square outputs intended for use with external gear—interface with a modular synth's envelopes and syncable oscillators\n    Magical Selector allows access to eight presets, for everything from gnarly vibrato, fuzz effects, and more\n    Heavy-duty enclosure with classic Snazzy FX green and red pinwheel graphics\nhttps://www.ericasynths.lv/shop/snazzy-fx/mini-ark/",
+    "hrid": "erica-synths-snazzy-lv---mini-ark"
+}

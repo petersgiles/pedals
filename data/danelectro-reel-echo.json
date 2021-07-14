@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15148",
+    "name": "Reel Echo",
+    "image": "images/danelectro-reel-echo.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 240,
+    "height": 160,
+    "details": "Tape EchoBuilt with options for tube/solid state styles, a warble switch for organic tape pitch deviation and speed range control of up to 1500ms, the Danelectro DTE-1 Reel Echo Tape Simulator Pedal brings warm, atmospheric, analog tape delay in a reliable, manageable package. Capable of summoning haunting trails and delay along with a unique Sound on Sound stomp switch for layering multiple tracks, this is an excellent addition to an ambient, post-rock, or shoegaze arsenal.",
+    "hrid": "danelectro-reel-echo"
+}

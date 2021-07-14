@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21371",
+    "name": "Octatrack MKII",
+    "image": "images/elektron-octatrack-mkii.jpg",
+    "function": [
+        "Looper",
+        "MIDI",
+        "Multieffect",
+        "Sampling",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,399 Price in €",
+    "width": 340,
+    "height": 184,
+    "details": "8 Track Dynamic Performance SamplerMore than a sampler\nDiscovering the perfect sample is the start of the process. Then twist it, mess around with it and rebuild it into something uniquely yours. The Octatrack MKII sets new standards for sampling as an art form.\nGame-changing hardware\nThe Octatrack MKII brings enormous sample processing ability into a machine designed for live performance. It redefines how you transform your sounds, as well as how you interact and play with them. It lets you do things that were previously impossible with a single instrument.\nNatural born performer\nRecord samples in real time. Add live time-stretching and pitch-shifting. Use the sequencer to control both internal sounds and external MIDI gear. The Octatrack MKII can also be treated as a small mixing desk for your whole setup. The immediate control makes all the difference.\nAudio mutation\nThe crossfader adds immense depth to your sound. First, choose how you want it to affect your samples. Then nudge the crossfader gently for the most subtle and natural-sounding changes – or knock it back and forth like you’re scratching for rapid and extreme enhancements.\nhttps://www.elektron.se/products/octatrack-mkii/",
+    "hrid": "elektron-octatrack-mkii"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17243",
+    "name": "Pedal Cracker",
+    "image": "images/cusack-music-pedal-cracker.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Cusack Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Mic PreampCusack Music presents our latest addition, the Pedal Cracker. It was inspired by vocalists, keyboardists, horn players, and percussionists around the world who desire the ability to have the control and versatility that guitar and bass players have always possessed. The Pedal Cracker offers the ability for a vocalist, or anyone with a microphone on their instrument, to incorporate any pedals they desire into a pedal board of their own. It enables complete control of your sound with some added flair compliments of the momentary and three-position switch features. Simply plug into the Pedal cracker via the XLR input, connect the pedal board through the 1/4\" input and output jacks, and you have a buffered effects loop.\nhttps://cusackmusic.com/collections/all-products/products/pedal-cracker",
+    "hrid": "cusack-music-pedal-cracker"
+}

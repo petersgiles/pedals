@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18501",
+    "name": "umi3",
+    "image": "images/logidy-umi3.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Logidy",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 152,
+    "height": 76,
+    "details": "usb midi foot controllerThe UMI3 is a USB foot controller which shows up as a class MIDI device on Mac or PC. No driver installation is required. It is powered through USB. Each of its three switches can be configured to send any type of short MIDI message (note on/off, continuous controller, program changes...) An external expression pedal can be connected to the \"exp\" input which can be configured to send any continuous controller message. A status LED indicates power and USB activity. The enclosure is made out of steel.\nhttp://www.logidy.com/?pid=1",
+    "hrid": "logidy-umi3"
+}

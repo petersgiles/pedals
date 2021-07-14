@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14152",
+    "name": "Doctor Q",
+    "image": "images/electro-harmonix-doctor-q.jpg",
+    "function": [
+        "Bass",
+        "Wah"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Envelope filter\nThe legendary effect of the old Electro Harmonix Q-tron is now generally known as Auto-Wah and had its gory days during the 70's, but even today you can still hear this very noticeable sound. The Nano Doctor Q comes in small package and, like his father, is very suitable for making a funky rhythm guitar even more eye-catching and groovy. With the range knob, you have different sound variants available; With the bass switch, the effect can be directed into lower regions - Doc Q will be a wonderful ear catcher for the bass solo as well!\nhttps://www.amazon.com/Electro-Harmonix-Nano-Envelope-Follower-Pedal/dp/B000PHLYNA",
+    "hrid": "electro-harmonix-doctor-q"
+}

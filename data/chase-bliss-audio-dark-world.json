@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19715",
+    "name": "Dark World",
+    "image": "images/chase-bliss-audio-dark-world.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Dual Channel ReverbDark World™ is the first fully digital offering from Chase Bliss Audio; a unique dual channel reverb that we made with a little help from our friends. Cooper FX is responsible for the “Dark” channel; a collaborative effort influenced partly by their Generation Loss and Outward designs. Keeley Electronics crafted the “World” channel, which houses three absolutely gorgeous Hall, Plate, and Spring algorithms. Put together, the channels can be routed in 33 distinct ways, creating a stunning palette of reverb ranging from subtle, tasteful, and lush all the way to broken video cassette, glitch shimmer, and infinite freeze. Add all this to the dense digital control and full MIDI, dip-switch, and preset implementation Chase Bliss is known for, and you have yourself a very fun, powerful, and player-friendly reverb pedal in a small package.\nhttps://chaseblissaudio.com/product/dark-world/",
+    "hrid": "chase-bliss-audio-dark-world"
+}

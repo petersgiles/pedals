@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13971",
+    "name": "Vapor Trail",
+    "image": "images/seymour-duncan-vapor-trail.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 69,
+    "height": 129,
+    "details": "Analog delayEveryone loves the warm, smooth, ambient vibe of a Bucket Brigade Device (BBD) analog delay pedal. The Vapor Trail gives you those classic tones but with a TRS insert jack that lets you process the repeats through additional effects to unlock your creativity and redefine what you can do with analog delay.\nThe Vapor Trail’s natural compression and treble-smoothing characteristics support rather than overpower the dry note… at least until you want to max out the controls to make ray-gun and spaceship noises. A flashing LED in the Delay knob gives you a visual readout of the tempo of your repeats (which range from 15ms to 600ms), and the Mix knob gives you everything from the gentlest hint of a repeat up to a 3dB boost.\nThe Vapor Trail also has modulation controls to add shimmer and movement to your echoed signal. Use the TRS insert jack to send the wet signal through any other pedal or effect, such as distortion flanger, chorus, envelope filter, or reverb – or use a volume pedal to vary the level of the delayed signal. You can even use it as a wet output to send just the repeats to a separate amp or signal chain.\nhttps://www.seymourduncan.com/pedal/vapor-trail-analog-delay",
+    "hrid": "seymour-duncan-vapor-trail"
+}

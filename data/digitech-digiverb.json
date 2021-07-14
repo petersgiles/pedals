@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17449",
+    "name": "Digiverb",
+    "image": "images/digitech-digiverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 80,
+    "height": 126,
+    "details": "Reverb",
+    "hrid": "digitech-digiverb"
+}

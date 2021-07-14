@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12067",
+    "name": "Flint",
+    "image": "images/strymon-flint.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Tremolo & ReverbSound Design\n    Three hand crafted tremolo algorithms faithfully deliver classic tremolo experiences:\n    ’61 Harmonic Tremolo, ’63 Power Tube Tremolo, ’65 Photocell Tremolo\n    Three distinct reverb algorithms:\n    ’60s Spring Tank Reverb, ’70s Electronic Reverb, ’80s Hall Rack Reverb\n    Two tremolo adjustment and tone shaping knobs: Intensity, Speed\n    Three reverb adjustment and tone shaping knobs: Decay, Color, Mix\n    Four “hidden” knobs for extensive tone tweaking:\n    Tremolo Boost/Cut, Reverb Boost/Cut, Effect Order, Tap Subdivision\nIns, Outs, Switches\n    High impedance mono input (internal jumper enables selectable TRS stereo input)\n    Stereo output\n    Tremolo Bypass and Reverb Bypass footswitches\n    Expression pedal input allows the connection of either an expression pedal (for selectable control over any knob parameter), external tap pedal (for remote tap tremolo), or Favorite switch (to save a Favorite preset)\nAudio Quality\n    Super low noise, high performance 24-bit 96kHz A/D and D/A converters\n    115db typical signal to noise\n    +8dBu maximum input level easily handles instrument and line signals\n    20Hz to 20kHz frequency response\n    Premium analog front end and output section\n    Analog dry path (when Reverb only is engaged)\n    Super high performance DSP in a compact form factor\n    32-bit floating point processing\nMore\n    True Bypass (electromechanical relay switching)\n    Selectable “trails” mode with high quality Analog Buffered Bypass\n    Adjustable +/- 3dB boost or cut when effect is engaged\n    Powered with a standard 9V center negative DC supply, 250mA minimum\n    Strong and lightweight black anodized aluminum chassis\n    Crafted with love in the USA\nhttp://www.strymon.net/products/flint/",
+    "hrid": "strymon-flint"
+}

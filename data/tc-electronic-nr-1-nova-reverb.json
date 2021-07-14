@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18293",
+    "name": "NR-1 Nova Reverb",
+    "image": "images/tc-electronic-nr-1-nova-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "300 mA / 12 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 130,
+    "height": 130,
+    "details": "Digital Reverb•    5 studio quality digital stereo reverb types\n •    Two switchable settings: manual and preset\n •    DynaMix™ - dynamic ducking reverb\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/NR-1-NOVA-REVERB/p/HE132",
+    "hrid": "tc-electronic-nr-1-nova-reverb"
+}

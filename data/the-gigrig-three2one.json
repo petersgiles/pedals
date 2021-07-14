@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14794",
+    "name": "Three2One",
+    "image": "images/the-gigrig-three2one.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 80,
+    "height": 115,
+    "details": "Three way input switcherThe Three2One has three inputs, which can be switched through using the footswitch on the pedal.  Each input has its own switchable preamp (buttons on the side) with cut/boost level pots next to the LEDs on the top.  It also has a TRS link jack for linking multiple Three2Ones together.\nhttps://www.thegigrig.com/three2one",
+    "hrid": "the-gigrig-three2one"
+}

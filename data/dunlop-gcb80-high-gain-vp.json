@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15664",
+    "name": "GCB80 High Gain VP",
+    "image": "images/dunlop-gcb80-high-gain-vp.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 130,
+    "height": 279,
+    "details": "Volume Pedal\nhttps://www.jimdunlop.com/product/gcb80-7-10137-00615-7.do",
+    "hrid": "dunlop-gcb80-high-gain-vp"
+}

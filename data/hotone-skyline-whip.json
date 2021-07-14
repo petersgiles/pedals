@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11951",
+    "name": "Skyline Whip",
+    "image": "images/hotone-skyline-whip.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Metal Distortion Pedal with Zinc Alloy Outer Cover, True Bypass Footswitch, Transparent Top Knob, 2 Small Glow-in-the Dark Knobs, HOT Button, and Cool LED Lights\nhttp://www.hotoneaudio.com/products/skyline/distortion/69.html",
+    "hrid": "hotone-skyline-whip"
+}

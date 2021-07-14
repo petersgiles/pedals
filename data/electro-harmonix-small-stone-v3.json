@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28584",
+    "name": "Small Stone V3",
+    "image": "images/electro-harmonix-small-stone-v3.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$119 Price in €",
+    "width": 85,
+    "height": 135,
+    "details": "4-stage OTA Phase Shifter V3 (1979-1982)Electro Harmonix 4-stage OTA Phase Shifter.\nRevision 3, made from 1979 to 1982.",
+    "hrid": "electro-harmonix-small-stone-v3"
+}

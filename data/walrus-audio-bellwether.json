@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11788",
+    "name": "Bellwether",
+    "image": "images/walrus-audio-bellwether.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 143,
+    "height": 117,
+    "details": "ANALOG DELAY WITH TAP TEMPO",
+    "hrid": "walrus-audio-bellwether"
+}

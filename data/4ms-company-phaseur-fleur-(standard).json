@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16906",
+    "name": "Phaseur Fleur (standard)",
+    "image": "images/4ms-company-phaseur-fleur-(standard).jpg",
+    "function": [
+        "Chorus",
+        "Phase Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "4ms Company",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 102,
+    "details": "6 stage phaserBasic features\nSpeed: sweep the rate from the rythym of sea shore waves to a swelling throb to a machine gun pulse\nDepth: amount of phasing from the threshold of consciousness through a rolling phase to a holistic phasing experience\nHeight: \"manual\" control of center phasing frequency\nBlend: blend between wavering vibrato to rich chorus-y sounds or anything in-between\nRing: regenerative feedback for resonant color variation almost to the point of self-oscillation\nThe assembled pedal is discontinued, but the DIY kit is still available.\nhttp://www.4mspedals.com/phaseur.php",
+    "hrid": "4ms-company-phaseur-fleur-(standard)"
+}

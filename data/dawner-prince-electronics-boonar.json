@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12581",
+    "name": "Boonar",
+    "image": "images/dawner-prince-electronics-boonar.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Dawner Prince Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 112,
+    "height": 58,
+    "details": "Multi-Head Drum EchoWhen we decided to revive one of the finest magnetic echo-delay machines ever built, we knew it will be everything but an easy task. Months of research, in-depth study, development and fine tuning were needed to bring it back in all its fame.\nBoonar™ is an effects pedal precisely designed to deliver sound and feel of the legendary Binson Echorec, a multi-tap magnetic drum echo unit. Everything is in there and more: from thick, juicy tube tone, glorious multi-dimensional echo repeats melted with haunting reverb decays, variable delay time up to a full second and separate playback heads switching system to an amazing and distinctive external looks dominated by a gold finish and green pulsating \"magic-eye\" level indicator, all packed in an incredibly compact stompbox form.\nBoonar shares the same analog signal path as original Echorec but we used high voltage driven FETs as tube emulators and replaced magnetic memory drum with a DSP unit. We developed a special DSP code that faithfully replicates all the characteristics of the actual Binson memory system that we named a virtual magnetic drum.\nReveal an authentic Binson sound and enjoy in magical echoes of the past!\nhttps://dawnerprince.com/products/boonar",
+    "hrid": "dawner-prince-electronics-boonar"
+}

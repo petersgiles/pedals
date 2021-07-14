@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12417",
+    "name": "COMBATTI",
+    "image": "images/ac-noises-combatti.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "AC Noises",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "distortionCombatti means \"fight\".\nThis effect pedal is a very expressive distortion that offers three different clipping options selectable by a toggle switch.\nMIDDLE POSITION: the standard one. The sound is open and dynamic.\nUPPER POSITION: the sound is very compressed with a mid-scoop. Perfect for cutting solos. \nLOWER POSITION: the sound is a bit more compressed and modern then the standard one (middle position). More definition on the low frequencies, especially on chords.\nIt has three adjustable parameters: Volume, Tone and Distortion.\nThe COMBATTI is created for that kind of guitarist who still believes in the power of rock, playing strong rhythmic sessions and cutting solos. Anyway, turning back the distortion knob, it's possible to use that as a very warm overdrive.\nhttp://www.acnoises.com/distortion/8-combatti.html",
+    "hrid": "ac-noises-combatti"
+}

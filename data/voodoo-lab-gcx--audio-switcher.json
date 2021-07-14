@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11954",
+    "name": "GCX  Audio Switcher",
+    "image": "images/voodoo-lab-gcx--audio-switcher.jpg",
+    "function": [
+        "Switch",
+        "Utility",
+        "Controller"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 508,
+    "height": 44,
+    "details": "8 Channel Rack Mount Pedal Switcher Bypass Looper\nhttp://www.voodoolab.com/gcx.htm",
+    "hrid": "voodoo-lab-gcx--audio-switcher"
+}

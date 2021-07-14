@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19094",
+    "name": "soundblox 2 multiwave distortion",
+    "image": "images/source-audio-soundblox-2-multiwave-distortion.jpg",
+    "function": [
+        "Bass",
+        "Digital",
+        "Distortion",
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "filtered foldover distortion",
+    "hrid": "source-audio-soundblox-2-multiwave-distortion"
+}

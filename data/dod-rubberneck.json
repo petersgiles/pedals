@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15127",
+    "name": "Rubberneck",
+    "image": "images/dod-rubberneck.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "DOD",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$281 Price in €",
+    "width": 125,
+    "height": 118,
+    "details": "Analog DelayThe new DOD Rubberneck Analog Delay has double the features with the cool new double-wide chassis. The Rubberneck boasts over a second of warm and musical 100% analog repeats you crave, along with tap-tempo, subdivisions, and tails. Double concentric knobs give you independent control of the Modulation Rate and Depth as well as Gain and Tone of the delay.\nhttps://digitech.com/en/products/dod-rubberneck",
+    "hrid": "dod-rubberneck"
+}

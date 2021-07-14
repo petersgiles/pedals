@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13731",
+    "name": "OK",
+    "image": "images/devi-ever-ok.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Devi Ever",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 59,
+    "height": 112,
+    "details": "Stuttering FuzzThe Devi Ever OK Fuzz is a guitar effects pedal that adds a low fidelity fuzz with a stuttering decay. The OK Fuzz pedal works well with bass, guitar, vocals, synths, drums, and anything else you can run through it.",
+    "hrid": "devi-ever-ok"
+}

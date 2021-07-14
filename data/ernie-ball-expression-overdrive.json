@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20974",
+    "name": "Expression Overdrive",
+    "image": "images/ernie-ball-expression-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Expression"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 89,
+    "height": 180,
+    "details": "Expression Overdrivehe Ernie Ball Expression Overdrive delivers natural tube-like overdrive with more range than ever before. It features settings for drive, boost and tone, with a foot-sweepable overdrive control, making it effortless to go from clean to searing lead tones and everything in between, all without taking your hands off the guitar.\nhttps://www.ernieball.com/guitar-accessories/pedals/expression-overdrive",
+    "hrid": "ernie-ball-expression-overdrive"
+}

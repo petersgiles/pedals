@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23635",
+    "name": "Somersault Lo-Fi Modulator",
+    "image": "images/caroline-somersault-lo-fi-modulator.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 91,
+    "height": 122,
+    "details": "Lo-fi modulationThe Somersault lo-fi modulator from Caroline Guitar is the answer to all of your blissed-out chorus and vibrato dreams. A remarkably easy-to-use yet powerful pedal, the Somersault is inspired by older arcade cabinets that would start to malfunction from decades of use. In this respect, the Somersault is capable of gentle shifting 80's style choruses as well as glitched out mayhem. The Somersault features controls for offset, speed, depth, and mix, and switches for the tone and shape of your modulation. The Somersault also features a special havoc button that pushes the speed of the pedal all the way up so that you can have quick access to any momentary mangle that your song may call for.\nSOMERSAULT FEATURES\nGreat for vintage sounding lo-fi modulation effects\nControls for: offset, speed, depth, and mix\nSwitches for tone, and shape of the modulation",
+    "hrid": "caroline-somersault-lo-fi-modulator"
+}

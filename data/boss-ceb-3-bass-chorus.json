@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12784",
+    "name": "CEB-3 Bass Chorus",
+    "image": "images/boss-ceb-3-bass-chorus.jpg",
+    "function": [
+        "Bass",
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "22 mA / 9 V / DC / Negative Center",
+    "cost": "$125 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Compact chorus pedal especially designed for bass guitar\nApplies chorus sound to the high frequencies without altering low frequencies\nEffect Level, Low Filter, Rate and Depth knobs permit precise tonal shaping\nBOSS five-year warranty\nhttps://www.boss.info/us/products/ceb-3/",
+    "hrid": "boss-ceb-3-bass-chorus"
+}

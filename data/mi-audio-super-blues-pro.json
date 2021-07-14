@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16552",
+    "name": "Super Blues Pro",
+    "image": "images/mi-audio-super-blues-pro.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mi Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 56,
+    "height": 109,
+    "details": "Highly customisable overdriveOne of MI’s most popular pedals, now even better! We’ve re-designed the original and added new features to make the Super Blues Pro so much more than a blues overdrive! Added BODY, TRIM and CLIPPING STRUCTURE controls makes this one of the most flexible low to mid-gain overdrives on the market.\nThe Blues Pro’s classic three-knob design is now bigger and better! All of the variables of this modified TS design are now on the face of the pedal for the ultimate in low/mid-gain tone-shaping. A plethora of overdrive tones await: Be it a low-gain boost, a harmonic blues solo tone or super-compressed fuzz – all can be dialled and switched in with the new expanded feature set. The classic compressed, mid-hump overdrive of the original is still there but is now surrounded by many more options for you to find your custom overdrive tone!\nhttp://miaudio.com/effects/super-blues-pro/",
+    "hrid": "mi-audio-super-blues-pro"
+}

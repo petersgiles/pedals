@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18193",
+    "name": "Retro Vibe V2",
+    "image": "images/jam-pedals-retro-vibe-v2.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$329 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Uni-Vibe cloneComprised of photocells, a bulb, original NOS 2SC828 transistors and carbon comp resistors, the RetroVibe mk.2 delivers the majestic sounds of the best Uni-Vibe pedals from back in the day, but housed in a modern pedalboard-friendly enclosure and featuring standard 9V DC operation, internally lifted to 15V DC.\nChoose between the Vibrato and Chorus settings and navigate from slow-rate wavy sounds all the way to fast Leslie-speaker effects!\nUse it in conjunction with our EXP4 Expression pedal for real-time Speed control!\nAn added twist! We have incorporated an internal trimmer that affects the maximum intensity of the effect, but also dramatically manipulates the sound of the RetroVibe mk.2, all the while, maintaining the pedal’s true vintage character.\nRoses are red violets are blue the RetroVibe’s purple and you’ll looove it too!\nhttps://www.jampedals.com/retrovibe/",
+    "hrid": "jam-pedals-retro-vibe-v2"
+}

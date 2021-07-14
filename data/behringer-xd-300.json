@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16415",
+    "name": "XD-300",
+    "image": "images/behringer-xd-300.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Distortion XKnockoff of the Boss XT-2 Xtortion",
+    "hrid": "behringer-xd-300"
+}

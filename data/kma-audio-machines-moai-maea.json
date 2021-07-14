@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12930",
+    "name": "Moai Maea",
+    "image": "images/kma-audio-machines-moai-maea.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 150,
+    "height": 122,
+    "details": "Monophonic analog octaver",
+    "hrid": "kma-audio-machines-moai-maea"
+}

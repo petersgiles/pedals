@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16249",
+    "name": "Spark Booster",
+    "image": "images/tc-electronic-spark-booster.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "26db Boost with Active EQ\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/SPARK-BOOSTER/p/P0CL5",
+    "hrid": "tc-electronic-spark-booster"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25625",
+    "name": "1962x",
+    "image": "images/keeley-1962x.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 68,
+    "height": 100,
+    "details": "OverdriveOverdrive pedal that delivers scorching Bluesbreaker tones\nKT66 mode produces the same tone as Keeley's standard 1962 British Overdrive — everything from mild breakup to out-and-out distortion\nKT88 mode inserts a MOSFET transistor into the clipping stage for a forceful, gritty sound with lots of output\nDual JFET circuits are arrayed like the tubes in a British amp for tube-amp-like gain staging\nStylish Bluesbreaker-inspired graphics\nLimited edition\nhttps://robertkeeley.com/product/1962X",
+    "hrid": "keeley-1962x"
+}

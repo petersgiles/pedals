@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19643",
+    "name": "K-Buffer",
+    "image": "images/foxpedal-k-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 39,
+    "height": 93,
+    "details": "",
+    "hrid": "foxpedal-k-buffer"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11559",
+    "name": "EP Booster",
+    "image": "images/xotic-ep-booster.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Xotic",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$116 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Preamp based on EchoPlexThe Xotic EP Booster is a discrete FET preamp pedal with a low impedance output. The EP Booster was based around the classic preamp side of an Echoplex and produces a shimmering boost tone that adds some high end sparkle and definition. The Xotic EP Booster features up to 20db of gain on tap and two internal DIP switches to customize the boost. One is a Bass Boost and the other is a Bright switch. The default setting is Bright on/Bass Boost off. This provides extra sparkle for the darker sounding instruments and is great for that extra edge or shimmer. The Bass Boost adds just the right amount of low end for single coils to keep up. By turning off the Bright Switch you can get a full frequency boost that is transparent and gives you back what you put into it. The Xotic EP Booster is a versatile boost pedal with more options than it appears. For that classic tone you’ve been searching for, check out the Xotic EP Booster.\nhttps://www.amazon.com/Xotic-EP-Booster-Effect-Pedal/dp/B002UXS4JO/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1496017108&sr=1-1&keywords=xotic+ep+booster",
+    "hrid": "xotic-ep-booster"
+}

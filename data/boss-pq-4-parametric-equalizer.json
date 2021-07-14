@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12887",
+    "name": "PQ-4 Parametric Equalizer",
+    "image": "images/boss-pq-4-parametric-equalizer.jpg",
+    "function": [
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "Boss",
+    "current": "23 mA / 9 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "THE PQ-4 has over time become quite rare. It was never a big seller and as Boss presently doesn’t make any parametric equalizers, they are highly sougth after. You can adjust Presence, Low Level boost or cut, Mid Frequency range between 100Hz and 1.6 KHZ , and a High Frequency range between 500HZ and 8KHZ. Each frequency range selector has it’s own individual levels for boosting or cutting specific frequencies, plus it has a -18 to +18 over all level boost or cut.\nSpecifications\nControls: Presence/Low, Middle, High, Level\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 23mA\nWeight: 410g\nInput Impedance: 1 Mohm\nOutput Impedance: 1 kohm\nResidual Noise Level: less than -98dBm (IHF-A)\nRecommended Load Impedance: More than 10kOhm\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe PQ-4 was sold from March 1991 to November 1997.\nhttp://www.bossarea.com/boss-pq-4-parametric-equalizer/",
+    "hrid": "boss-pq-4-parametric-equalizer"
+}

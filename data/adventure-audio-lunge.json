@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24668",
+    "name": "Lunge",
+    "image": "images/adventure-audio-lunge.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 64,
+    "height": 119,
+    "details": "Digital octave chorus\"You’ve been surfing the sea of chorus pedals but nothing seems to put the warble in your tone quite the way you want. That’s why you are here….\nLet Lunge drift your tone down the stream and around the bend into a warble-y dream. This digital octave chorus has as many shifting tones as there are waves in the ocean. Warp and warble your way to the adventure you’ve always needed. \"\nhttps://www.adventurepedals.com/pedals/lunge",
+    "hrid": "adventure-audio-lunge"
+}

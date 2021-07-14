@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13236",
+    "name": "Ghost Echo",
+    "image": "images/earthquaker-devices-ghost-echo.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Vintage Voiced Reverb\nAttack: Adjusts the length of the pre-delay, from 30ms at minimum to about 150ms at maximum. When the Dwell is set to self-oscillate, this will change the pitch of the oscillations.\nDwell: Adjusts the length of the decay. This will start to self oscillate around 3 O’clock, the pitch of the oscillations can be changed by turning the Attack control.\nDepth: Mixes in the wet signal with the dry, unity is around noon and everything after is boosted.\n\nhttps://www.earthquakerdevices.com/ghost-echo",
+    "hrid": "earthquaker-devices-ghost-echo"
+}

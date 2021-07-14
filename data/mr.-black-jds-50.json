@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25220",
+    "name": "JDS-50",
+    "image": "images/mr.-black-jds-50.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "OverdriveWhile the JDS-50’s sleek and un-assuming looks may insinuate that you’ve got a standard overdrive pedal before you, the JDS-50 really isn’t quite like any other overdrive out there.\nFrom its perfectly balanced frequency spread, to the ridiculous dynamic response held within, the JDS-50 is not only an indispensable pedal-board staple, but a highly expressive instrument unto itself.\nEffortlessly delivering tones ranging from meticulously tuned, touch-responsive crunch, to thick harmonic-laden overdrive and even to near-full distortion, the JDS-50 not only sounds phenomenal, but responds and feels like a high-quality tube amplifier, all while retaining the unique signature tonal characteristics of your guitar, or bass.\nhttps://www.mrblackpedals.com/collections/pedals/products/jds-50",
+    "hrid": "mr.-black-jds-50"
+}

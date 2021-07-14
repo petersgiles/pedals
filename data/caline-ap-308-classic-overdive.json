@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30177",
+    "name": "AP-308 Classic Overdive",
+    "image": "images/caline-ap-308-classic-overdive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 43,
+    "height": 94,
+    "details": "Transparent and singing low gain overdriveTransparent and singing low gain overdrive pedal . use it for added gain on a crunch sound amp or for light overdrive on a clean amp\nhttps://azorpedal.com/collections/frontpage/products/azor-ap-308-classical-overdrive-guitar-effect-pedal-true-bypass-blue",
+    "hrid": "caline-ap-308-classic-overdive"
+}

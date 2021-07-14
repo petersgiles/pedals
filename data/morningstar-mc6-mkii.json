@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19841",
+    "name": "MC6 MKII",
+    "image": "images/morningstar-mc6-mkii.jpg",
+    "function": [
+        "MIDI",
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "Morningstar",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 145,
+    "height": 95,
+    "details": "MIDI ControllerThe MC6 is a fully programmable midi controller, capable of sending up to 16 different MIDI messages per switch. Each of these messages can be triggered separately by performing different actions, giving you precise and customizable control with just one switch. With 30 banks of 6 switches in a compact low-profile chasis, the MC6 sits comfortably on any pedalboard, meeting the needs of even the most demanding musician.\nhttps://www.morningstarfx.com/mc6-mkii",
+    "hrid": "morningstar-mc6-mkii"
+}

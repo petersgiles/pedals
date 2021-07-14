@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29914",
+    "name": "3 Series Reverb",
+    "image": "images/jhs-3-series-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "JHS",
+    "current": "74 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "The JHS Pedals 3 Series Reverb is an extremely versatile unit that allows you to create the perfect amount of space for your guitar. You can achieve any reverberation effect, all the way from small room sounds to nearly endless washes of ambiance. The EQ lets you perfectly adjust for a bright or dark texture to the reverb's overall tone. The Pre-Delay knob allows you to select a short delay before the reverb begins. This lets you explore effects ranging between slap-like singing in the shower sounds and spacey spring-like sounds. \nThe JHS Pedals 3 Series Reverb runs on 9V DC Negative Center power and consumes 74mA.\nhttps://www.jhspedals.info/3-series-reverb",
+    "hrid": "jhs-3-series-reverb"
+}

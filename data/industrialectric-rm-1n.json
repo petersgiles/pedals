@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11832",
+    "name": "RM-1N",
+    "image": "images/industrialectric-rm-1n.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp",
+        "Reverb"
+    ],
+    "manufacturer": "Industrialectric",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 140,
+    "height": 89,
+    "details": "lite spring/room to massive ambient chaotic reverb\nboost-overdrive-distortion-fuzz going into and out of the reverb, the gain knobs can be used on their own as well as with the reverb\nunique massive chaotic drone\ndark and lite frequencies for unique reverb textures\ninfinite reverb at the flick of a switch\nmassive reverb depth which introduces explosive gain when turned all the way up\nmomentary footswitch for oscillation on the fly or creating long beautiful trails\nyou can select between the two distinct outputs of the reverb module or both\nfeedback to trail into madness\ntone control for deep reverb\nmaster level to tame everything\nmix from dry to wet and everything in between\ntop mounted power and jacks\npowered with a standard (-9v) Boss, one spot, adapter\nEVERY ENCLOSURE FINISH IS COMPLETELY UNIQUE\nBUILT ON A PROFESSIONAL PCB, COMPLETELY HAND MADE FROM SCRATCH\nreverse polarity circuit protection\n\nhttp://www.industrialectric.com/rm-1n.html",
+    "hrid": "industrialectric-rm-1n"
+}

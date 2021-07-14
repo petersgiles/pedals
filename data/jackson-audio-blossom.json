@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32831",
+    "name": "Blossom",
+    "image": "images/jackson-audio-blossom.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "20 mA / 18 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 46,
+    "height": 102,
+    "details": "CompressorAs a compressor, the BLOSSOM features an optical limiting circuit that takes its inspiration from compressors designed during the golden age of vacuum tube circuits. Optical compressors as they are called, are known for their transparency and subtlety. While the BLOSSOM can provide a very aggressive response at more extreme compression settings, its real strength lies in its ability to add a gentle sweetening and roundness to the tone as the optical circuit works to polish off any rough edges in the sound.\nBecause of its natural and touch responsive bloom, the BLOSSOM is ideal for players who typically don’t use compression but want the ‘mastered’ response that optical compression gives a guitarists tone.\nThe frequency response of the compressor section is flat as a board and does not boost or cut any of your highs or lows. Just like a well-designed compressor should, the BLOSSOM alters the dynamics of the guitar signal and not the tone. A good compressor should be felt and not heard!",
+    "hrid": "jackson-audio-blossom"
+}

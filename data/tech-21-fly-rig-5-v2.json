@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20598",
+    "name": "Fly Rig 5 V2",
+    "image": "images/tech-21-fly-rig-5-v2.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 318,
+    "height": 64,
+    "details": "http://www.tech21nyc.com/products/sansamp/flyrig5_v2.html",
+    "hrid": "tech-21-fly-rig-5-v2"
+}

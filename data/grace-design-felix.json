@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12954",
+    "name": "Felix",
+    "image": "images/grace-design-felix.jpg",
+    "function": [
+        "Controller",
+        "Dual/Stereo",
+        "Equalizer"
+    ],
+    "manufacturer": "Grace Design",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$995 Price in €",
+    "width": 241,
+    "height": 140,
+    "details": "Mic Preamplifier / DI / EQ/ Blender2 channel mic preamp and DI blender with independent parametric EQ\nhttp://www.gracedesign.com/products/felix/felix.htm",
+    "hrid": "grace-design-felix"
+}

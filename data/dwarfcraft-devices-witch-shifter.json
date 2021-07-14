@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17777",
+    "name": "Witch Shifter",
+    "image": "images/dwarfcraft-devices-witch-shifter.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "75 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Pitch ShifterIt’s more than a pitch shifter, it’s an engine of creation.\nYes, it smoothly shifts pitches from one octave down to one octave up, but the doppler effect courtesy of the “Bend” toggle and the chaotic pitch jumping from the Wizard of Pitch are also included.  The “Scatter” toggle turns the pitch knob into a chaotic pitch modulator, often landing between pitches for unique confused machine noises and tortured-tape-machine warbles. We’ve also integrated the “DinDin” stomp, freezing the Witch’s audio buffer for glitched out repeats. \nSpeaking of repeats, doesn’t an echo make everything better? Of course it does, that’s why the secret menu of the Witch Shifter controls a delay circuit.\nThe Witch Shifter is also our smoothest and cleanest pitch pedal, presenting you high fidelity audio.  Unless you want it dirty… in that case, turn up the on-board fuzz. You can turn the knob from pristine-clean all the way up to super destroyed digital damnation, with the old fashioned wizard’s hiss somewhere around ten o’clock on the dial.\nWe have also added expression control over the Speed or Pitch, assignable by toggle.\nSo take a seat in the Witch’s hut, and learn to make magic.\nhttps://www.dwarfcraft.com/witch-shifter.html",
+    "hrid": "dwarfcraft-devices-witch-shifter"
+}

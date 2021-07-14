@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32589",
+    "name": "E7 Polyphonic Guitar Synth",
+    "image": "images/mooer-e7-polyphonic-guitar-synth.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 42,
+    "height": 94,
+    "details": "",
+    "hrid": "mooer-e7-polyphonic-guitar-synth"
+}

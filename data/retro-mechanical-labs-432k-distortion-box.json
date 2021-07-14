@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11933",
+    "name": "432K Distortion Box",
+    "image": "images/retro-mechanical-labs-432k-distortion-box.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Retro Mechanical Labs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 138,
+    "height": 187,
+    "details": "432K Distortion Box (standard meter)The 432k Distortion box is all about signal routing. One distortion circuit with an active hybrid diode/transistor ladder filter (with resonant feedback) for tone control. Another with a clean pass signal. Both signals are merged together and “glued” through a transistor drive and op amp style fuzz. A feedback noise circuit is added in for fun. Also equipped with CV in for filter control. Use a CV pedal to control the filter.\nDistortion: Volume of Distortion\nFilter: Filter Frequency\nResonance: Active resonant feedback\nClean: Clean signal\nLow Cut: low end roll off\nTransistor: Transistor gain/drive\nOp Amp: Op Amp Fuzz\nFeedback: Noise loop (works best with sequenced sounds)\nOutput: Volume\nPrice: $349 (non vintage meter)\nWith Vintage Meter: $399\nWith Vintage Meter and Removable lid: $449\nhttp://www.rmlfx.com/?p=830",
+    "hrid": "retro-mechanical-labs-432k-distortion-box"
+}

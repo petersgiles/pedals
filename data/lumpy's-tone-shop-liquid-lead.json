@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12107",
+    "name": "Liquid Lead",
+    "image": "images/lumpy's-tone-shop-liquid-lead.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Lumpy's Tone Shop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 90,
+    "height": 70,
+    "details": "\"models itself after Page’s live tones from 1975-1977 when he used the high treble channel of a late 60s Marshall Super Lead. The result is a honky and bright Marshall in a box that will give you Page tone for days with a set of PAFs, plus some great bluesy tones with a Strat.\"\ndesigned to run on either a 9 volt or 18 volt power supply.  At 9 volts you will find the tone to be a little softer and spongier.  When using an 18 volt supply the overall headroom will increase as well as the dynamics, output and presence.",
+    "hrid": "lumpy's-tone-shop-liquid-lead"
+}

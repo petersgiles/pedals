@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11943",
+    "name": "CrossOver Filter",
+    "image": "images/bugbrand-crossover-filter.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Filter",
+        "PreAmp"
+    ],
+    "manufacturer": "BugBrand",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 133,
+    "details": "Low/Band/High filter with variable band widthInput Preamp - clean with gain up to 20dB\nTwo independent or chained 12dB/Oct State Variable Filters with resonance (Q) to self-oscillation. Each filter covers the full audio spectrum 20-20kHz and has Low/Band/High-pass outputs though not all of these are accessible on the standalone module (there is a 1FW expander for modular users which presents ALL + extra CV and audio ins)\nThe filters can be run in Series or Parallel:\nSeries - the High output of Filt1 feeds the input of Filt2.\nParallel - both filters get the buffered input signal. In this mode the first filter is purely a Low-Pass, while the 2nd has separate Low/High outputs.\nThe Filters are, of course, voltage controlled, scaled to 1V/Oct (haven't confirmed tracking range - imagine 5+ octaves tight tracking) - each one has an FM input (banana) and polarizing depth control. The Int/Ext switches are a weird bonus -> I took the BandPass output from each filter and that feeds the Int switch position for some audio cross-modulation - it can get very gnarly and chaotic, especially with high resonance.\nThe three outputs bands each have a polarity switch (centre-off for quick signal muting) so you can experiment with phase inversion/cancelling before an output level control and buffer. The Low and Mid outputs are normalised to the High section so if nothing is plugged into either then the signal flows on to mix at High.",
+    "hrid": "bugbrand-crossover-filter"
+}

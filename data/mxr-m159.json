@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14895",
+    "name": "M159",
+    "image": "images/mxr-m159.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Tremolo"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 18 V / DC / Negative Center",
+    "cost": "",
+    "width": 80,
+    "height": 121,
+    "details": "Stereo Tremolo/PannerWith its warm analog circuitry and lush tremolo sound, the Dunlop TS-1 set the standard for tremolo pedals for over a decade. The MXR M159 Tremolo Pedal keeps all the effects and controls of the original--but in a smaller, pedal board-friendly size. Its 18-volt operation provides rich and vibrant sound with low noise due to its high headroom. With the versatile input/output options the M159 guitar pedal can produce hypnotic, pulsing mono tremolo through a single amp or ping-ponged from one amp to another in stereo mode for a huge, spacious tone.\nPedalboard-friendly size\n18-volt operation\nVersatile input/output options",
+    "hrid": "mxr-m159"
+}

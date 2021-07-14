@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12151",
+    "name": "Looper LN-632",
+    "image": "images/rowin-looper-ln-632.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 38,
+    "height": 76,
+    "details": "Nanoi Loop Pedal w USB",
+    "hrid": "rowin-looper-ln-632"
+}

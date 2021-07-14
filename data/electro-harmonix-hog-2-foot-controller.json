@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12624",
+    "name": "HOG 2 Foot Controller",
+    "image": "images/electro-harmonix-hog-2-foot-controller.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$74 Price in €",
+    "width": 114,
+    "height": 70,
+    "details": "Receives power from the HOG2\nStores presets in your HOG2, not the Foot Controller\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\nDimensions in mm: 70 (w) x 115 (l) x 54 (h)",
+    "hrid": "electro-harmonix-hog-2-foot-controller"
+}

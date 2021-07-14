@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19983",
+    "name": "Red Dirt Germanium Overdrive",
+    "image": "images/keeley-red-dirt-germanium-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Red Dirt Germanium Overdrive Effect PedalRed Dirt Germanium Overdrive Effect Pedal\nKeeley’s latest mod to the venerable platform has everyone grinning here at the shop. The Red Dirt Germanium is nothing short of a red hot saturation machine. Perfect classic amp tones.\nThe New Mod\nThe new mod happened as a result of me trying to be a touch lazy.  Or let’s say, I was trying to find a short cut and struck gold.  In modifying the circuit I came across a way to have variable gain on different parts of the frequency response.  The rather small change isn’t ground breaking, but I’ve never seen it done this way in a tube screamer type of circuit.  The resulting sound is exceptional.  It sounds 3D.  It’s more of everything.  It in fact cleans up really nicely with the volume control even though it has plenty more gain on tap.  It makes a stock screamer sound very flat and one dimensional.  By allowing differing gain rates for the bass response, the bass stays tight and forceful.  The mid range and highs are soaked in sustain and saturation.  The balance is exceptional.\nLance Keltner ladies and gentleman!\nRed Dirt History\nThe Red Dirt overdrive began from a quest to find the perfect classic drive sound while also offering new levels of sonic versatility to satisfy a wider range of musical styles. Founder and head engineer Robert Keeley took this idea and combined the great sounds found within his original “Mod Plus” and “Baked” modified pedals and added refinements found exclusively in his custom pedal line.  A Keeley designed FET input stage makes this overdrive breakup in a whole new, genuinely “tube like” style that will have your leads singing and your rhythm playing sounding more dynamic and expressive than ever.  It all culminates in an overdrive that is superbly dynamic, with crispness and clarity that let players cut through a dense mix, while retaining the plump midrange.  By incorporating these tones along with the Keeley standard of U.S.A. hand-built quality using premium components, the Red Dirt overdrive aims to become an indispensable part of any pedal chain.\nhttps://robertkeeley.com/Red+Dirt+Germanium",
+    "hrid": "keeley-red-dirt-germanium-overdrive"
+}

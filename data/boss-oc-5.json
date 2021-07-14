@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29663",
+    "name": "OC-5",
+    "image": "images/boss-oc-5.jpg",
+    "function": [
+        "Bass",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 74,
+    "height": 129,
+    "details": "Octave OC-2 plus OC-3Fusing classic BOSS octave tones with the latest tracking technologies, the BOSS OC-5 sets a new standard in octave pedal performance. Vintage mode provides a spot-on recreation of the legendary mono OC-2 from 1982, while Poly mode offers numerous enhancements for extended-range playing. And with the addition of an octave-up feature, a span of three octaves is now available for creative exploration. From fat, low mono sounds to octave-shifted chords and more, the OC-5 delivers the widest range, finest sound quality, and best playability in any octave stomp to date.\nhttps://www.boss.info/us/products/oc-5/",
+    "hrid": "boss-oc-5"
+}

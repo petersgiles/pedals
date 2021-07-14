@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20642",
+    "name": "Digitone",
+    "image": "images/elektron-digitone.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$899 Price in €",
+    "width": 215,
+    "height": 176,
+    "details": "Master of the digital methodEight voice polyphonic digital synthesizer\nA new deal\nDigitone represents our vision of how FM synthesis can be revitalized and modernized. Here’s how: combine FM sound generation with a classic subtractive synthesis signal flow. From jagged chaos to mellow soundscapes in less than a second. Digitone is one unique box.\nUltra digital\nChoose from multiple FM algorithms featuring carefully selected parameters. Shape the tones with powerful filters. Arrange them with the intuitive Elektron sequencer. Round off with the stellar effects. Now enjoy the most spectacular sounds, seemingly emanating from some parallel universe.\nDigitone specifications\nSynth voice features\n8 voice polyphony (multitimbral)\nMultiple FM algorithms\n1 × multimode filter per voice\n1 × base-width filter per voice\n1 × overdrive per voice\n2 × assignable LFO per voice\nSequencer\n4 synth tracks\n4 MIDI tracks\n1 arpeggiator per track\nPolyphonic sequencing\nIndividual track lengths\nParameter locks\nMicro timing\nTrig conditions\nSound per step change\nSend & master effects\nPanoramic Chorus send effect\nSaturator Delay send effect\nSupervoid Reverb send effect\nOverdrive master effect\nHardware\n128 × 64 pixel OLED screen\n2 × 1/4” impedance balanced audio out jacks\n2 × 1/4” audio in jacks\n1 × 1/4” stereo headphone jack\n48 kHz, 24-bit D/A and A/D converters\nHi-Speed USB 2.0 port\nMIDI In/Out/Thru with DIN Sync out\nPhysical specification\nSturdy steel casing\nDimensions: W 215 × D 176 × H 63 mm (8.5” × 6.9” × 2.5”) (including knobs and feet)\nWeight: approximately 1.49 kg (3.3 lbs)\n100 × 100 mm VESA mounting holes. Use M4 screws with a max length of 7 mm.\nMiscellaneous\nOverbridge enabled\n3 year Elektron warranty\nIncluded in the box\nPower Supply PSU-3b\nElektron USB cable\nhttps://www.elektron.se/products/digitone/",
+    "hrid": "elektron-digitone"
+}

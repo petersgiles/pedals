@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27066",
+    "name": "2 Button Latching Amp Footswitch",
+    "image": "images/american-loopers-2-button-latching-amp-footswitch.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "Pedal is passive",
+    "cost": "$50 Price in €",
+    "width": 92,
+    "height": 39,
+    "details": "Two Button Amp Footswitch, for standard AMP switching, depending on your amp, it will change channels, activate reverb, eq, fx loop, etc. Please contact us before purchasing to make sure your amp will work with our pedal. Your amp needs to work with latching Tip to Sleeve, and Ring to Sleeve\n*You WILL NEED a TRS Cable\nhttps://www.americanloopers.com/products/two-button-amp-footswitch",
+    "hrid": "american-loopers-2-button-latching-amp-footswitch"
+}

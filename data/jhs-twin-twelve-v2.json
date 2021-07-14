@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13002",
+    "name": "Twin Twelve V2",
+    "image": "images/jhs-twin-twelve-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 130,
+    "details": "Silvertone 1484 “Twin Twelve” Simulator and Distortion The “Twin Twelve” channel drive is the first ever all-analog stompbox to replicate the classic tones of the Silvertone 1484 \"Twin Twelve\" amplifier. The pedal’s sound and response are meticulously hand-tuned to achieve a striking similarity to the tones made famous by players such as Jack White, Beck, Coldplay, and others. But that’s just the beginning. With its ability to go from a spanky, clean preamp boost to a classic growling medium/heavy overdrive, the “Twin Twelve” V2 is a great option for the do-it-all overdrive spot on your pedalboard.\nSilvertone 1484 “Twin Twelve” in a box\nIn 1963, Silvertone* introduced the 60-watt Model 1484 guitar amplifier. Originally a student-model amplifier, the amp’s gritty and unpolished tone has since made it legendary, hard to find, and coveted by some of the biggest names in music. And now, you get to put those same tones right on your pedalboard.\n\nEffortlessly turn your amp into one of the most sought-after vintage amps out there\nDiscrete transistor stages, hand-tuned to replicate the exact feel and tone of the 1484’s tube sound\n2-band EQ that is almost an exact replication of the 1484's Baxandall tone circuit\n\nFrom ultra-clean preamp to thick vintage crunch\nIf you love pedals that can perform two tonal jobs in one, you’re going to love the Dirt/Clean option we’ve added to the “Twin Twelve” V2. In the Dirt mode, you’ll enjoy the gritty amp-like tones of the cranked Silvertone. Flip the switch to Clean, and you’re instantly bathing in the sound of a clean preamp that works great as a boost or as an always-on tonal enhancement.\n\nTwo very different, yet complementary tones in one pedal\nPowerful boosting potential, thanks to the internal charge pump that converts 9V to 18V performance\nUse the “Twin Twelve” as an amp-in-a-box, a gritty overdrive, a clean preamp, a potent boost, and much more\n\nhttps://www.jhspedals.com/products/guitar-pedals/twintwelve/",
+    "hrid": "jhs-twin-twelve-v2"
+}

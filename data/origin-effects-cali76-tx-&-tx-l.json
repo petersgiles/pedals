@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26407",
+    "name": "Cali76 TX & TX-L",
+    "image": "images/origin-effects-cali76-tx-&-tx-l.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "200 mA / 18 V / DC / Negative Center",
+    "cost": "$639 Price in €",
+    "width": 205,
+    "height": 161,
+    "details": "Studio quality compressor with output transformerThe Cali76is a premium-quality,1960s-style FET compressor, inspired by the legendary Urei 1176. The idea behind this design was to bring the sonic properties of this revered studio-classic into the scope of the average guitar-geek. \nThe topology of the design was kept true to the original, whilst the actual circuitry was carefully condensed. In this way it has been possible to retain the much-loved dynamic-response of the original, whilst at the same time permitting a smaller, more stage-friendly format! \nOrigin have also included a studio-grade 1960s-style discrete preamp, to work as an interface between your guitar and the compressor. The preamp provides gain as well as the optimum conditions for signal transfer.\nThe transformer output stage works in conjunction with the pedal to provide the user with additional tone-options and connectivity. \nA custom-designed transformer sits at the heart of the output stage. The core-size and material have been selected to contribute harmonics when driven by the Class-A, transistor-based, output amplifier.\nThe Cali76 is a great performance tool, but is by by no means limited to this task. Recording guitarists will find the unit highly useful for post-processing drums, bass and vocals.\nKey Features:\n\n100%Class-A discrete signal path\nUltra-fast “FET” response\nAttack & Release presets\nStudio-grade “discrete” preamplifier\nRugged VU-style meter\nLow-noise electronics\nOptimised for guitar but also great forprocessing recorded instruments\n50 hrs from9V cell in non transformer mode\nTraditional Through-Hole PCB\n100%Class-A discrete output-amplifier\nCustom-designed transformer driving a pairof outputs\nUnbalanced instrument output\nBalanced line output\nGround-lift function\nSignal-pad for DI (balanced output only)\nGain-switch adjusts level through transformer circuitry, for increased saturation\nVoltage sensing circuitry shuts down transformer circuitry when powered from a battery or low-voltage supply \n\nhttps://origineffects.com/product/cali76-tx/",
+    "hrid": "origin-effects-cali76-tx-&-tx-l"
+}

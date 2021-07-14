@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28134",
+    "name": "Skyline",
+    "image": "images/rock-stock-pedals-skyline.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Rock Stock Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 71,
+    "height": 127,
+    "details": "ReverbThe Skyline is a spring style reverb. The level adjusts the volume of the wet signal (reverb). The tone control is a high pass filter which only affects the reverb itself allowing you to blend the reverb with a brighter guitar tone while not getting in the way of the dry signal. The drive circuit allows you to add overdrive to the reverb trails pushing the wet signal even further and creating some harsh reflections and the decay controls the length of the reverb trails. The Skyline is the perfect tool for adding some life to your tone.\n• Level, tone, drive & decay controls\n• Independent drive circuit drives wet (reverb) signal\n• Standard 9VDC power\n• Buffered bypass with trails\nhttps://www.rockstockpedals.com/product/skyline-reverb/",
+    "hrid": "rock-stock-pedals-skyline"
+}

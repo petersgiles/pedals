@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28463",
+    "name": "Red Muck Bass",
+    "image": "images/jam-pedals-red-muck-bass.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 111,
+    "details": "Modified Bass Big Muff FuzzThe Red Muck puts on a few pounds, grows a new set of sharp teeth and is out to seduce even the most demanding Muff connoisseurs!\nA Fuzz-Distortion pedal, inspired from the circuits of the ’71 “triangle” and the later “Red Army / Civil War” Muff. Along with our individual touch, the end result boasts a smoother sound, fatter low end, pronounced midrange and added tonal flexibility through the expanded range of the tone knob. The onboard MIX control allows you to discover your sweet- spot of the Dry / Wet signal ratio, while the second footswitch turns it into a 2-gain-stage pedal!\nThis pedal is equally capable at fuzzing things up just a bit to add some vintage wooly fatness to your bass lines, as it is at shooting those heavy riffs into sizzling yet controlled mayhem!",
+    "hrid": "jam-pedals-red-muck-bass"
+}

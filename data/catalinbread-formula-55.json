@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16688",
+    "name": "Formula 55",
+    "image": "images/catalinbread-formula-55.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Next-generation 5E3 Tweed Deluxe inspired Foundation Overdrive\nhttps://www.catalinbread.com/index.php?category=all&product=formula-55",
+    "hrid": "catalinbread-formula-55"
+}

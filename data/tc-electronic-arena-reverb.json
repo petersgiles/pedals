@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17755",
+    "name": "Arena Reverb",
+    "image": "images/tc-electronic-arena-reverb.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$162 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Arena ReverbARENA REVERB takes TC ELECTRONIC's most legendary reverb sounds and adds four new instant classics meticulously crafted with the true reverb aficionado in mind.  You get everything from lush halls and lively springs all the way to gloriously grand cathedrals all incorporated in a high-quality roadworthy Stompbox.\n•    4 Exclusive Custom-Made Reverb Sounds\n•    Stereo I/O\n•    TonePrint-Enabled",
+    "hrid": "tc-electronic-arena-reverb"
+}

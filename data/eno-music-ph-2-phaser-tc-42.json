@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12087",
+    "name": "PH-2 Phaser TC-42",
+    "image": "images/eno-music-ph-2-phaser-tc-42.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "http://www.ex-amp.com/?p=715",
+    "hrid": "eno-music-ph-2-phaser-tc-42"
+}

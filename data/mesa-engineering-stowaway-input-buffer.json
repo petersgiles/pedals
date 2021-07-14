@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17984",
+    "name": "Stowaway Input Buffer",
+    "image": "images/mesa-engineering-stowaway-input-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 36,
+    "height": 101,
+    "details": "Discrete Class-A Input BufferThe Stowaway™ is our compact 100% discrete Class-A Input Buffer solution designed to remedy a whole array of Input challenges caused by a variety of issues. From impedance loading and mismatching, to changes in a pickup’s character and response as a result of varying effect pedals’ input impedance and interconnecting cables’ capacitance, the Stowaway provides the stable, consistent load your instrument needs to sound as intended. While the Stowaway's footprint is small,  allowing it to be mounted on the most crowded of pedal boards, its Feature Set is professional and comprehensive. If your signal does any significant traveling, bring along a Stowaway to guard your Tone.\nhttps://www.mesaboogie.com/tone-tools/buffers-line-drivers-line-balancing/stowaway-input-buffer.html",
+    "hrid": "mesa-engineering-stowaway-input-buffer"
+}

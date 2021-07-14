@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15671",
+    "name": "Fuzz War",
+    "image": "images/death-by-audio-fuzz-war.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "1 mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 120,
+    "height": 145,
+    "details": "THE FUZZ OF ALL FUZZES\nCall in the Army, the Navy, Scotland Yard, your mom, and the Mario Brothers! You'll need all the help you can get to stop this endless wall of fuzz from raging! This kill all circuit explodes the meanest, nastiest, most insane distortion to make you the ruler of the fuzz universe.\nThis Death By Audio pedal has hand spray painted graphix covering up meaty components and sound, giving you a high-tech fuzz mutilator at an affordable price. With three knobs it can create a multitude of ultimate fuzz, boost, overdrive, and distortion sounds. Listen for yourself and you will see, this is the thickest sounding sustaining fuzz pedal we have ever heard.\nhttps://deathbyaudio.com/products/fuzz-war",
+    "hrid": "death-by-audio-fuzz-war"
+}

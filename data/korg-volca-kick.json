@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27730",
+    "name": "Volca Kick",
+    "image": "images/korg-volca-kick.jpg",
+    "function": [
+        "Bass",
+        "Drum"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Analog Kick GeneratorAn analog kick generator that delivers powerful sounds from kick drum to kick bass\nThe volca series has consistently brought renewed attention to classic groove machines and historical synthesis. It now has a new focus. This time, it's the most important sound in dance music: the kick.\nThe volca kick is an analog kick generator that's made for sound design. An analog circuit based on the powerful resonant sound of the original MS-20 filter, it lets you create a wide range of kick sounds only possible through analog circuitry, ranging from solid kick drums to crisp kick basses. The 16-step sequencer, a distinctive feature of the volca, now has a new Touch FX feature that lets you control an effect instantly, giving you even more live performance potential. Experience the stunning power of an analog kick that cannot be obtained from a plug-in or a sample.",
+    "hrid": "korg-volca-kick"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11598",
+    "name": "Whammy DT",
+    "image": "images/digitech-whammy-dt.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Controller",
+        "Chorus"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$295 Price in €",
+    "width": 208,
+    "height": 196,
+    "details": "Digitech Whammy DT",
+    "hrid": "digitech-whammy-dt"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27776",
+    "name": "Pharaoh Supreme",
+    "image": "images/black-arts-toneworks-pharaoh-supreme.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Fuzz on steroidsThe Supreme has all of the sounds and abilities of the Standard and Primitive Pharaohs, but with some very useful additions and a bit of a twist.\nIn place of the hi/lo switch,the Supreme utilizes a variable pre input control to infinitely adjust the saturation of the front end of the circuit from 1 to 10. In Place of the 3 way diode selector, the Supreme utilizes a 6 way rotary switch to select from the Standard Pharaoh diode settings, plus an additional 3 setting not available on the previous Pharaohs. The Pharaoh supreme allows selection from the following diode settings: Germanium, Asymmetrical Germanium(standard Pharaoh), Silicon (standard Pharaoh), Mosfet,LED and Bypass (standard Pharaoh).\nThe Pre knob control in addition to the Clip knob, produce an array of sounds and textures that expand the Pharaoh into the ultimate, or Supreme fuzz-stortion that Black Arts has produced.\nTo visually demonstrate the depth of the new Pharaoh Supreme, a huge 10mm green LED glows with a calm, deep and inviting look into the window of the Supreme soul.\nhttps://www.blackartstoneworks.com/pedal/pharaoh-supreme/",
+    "hrid": "black-arts-toneworks-pharaoh-supreme"
+}

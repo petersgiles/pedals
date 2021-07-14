@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32447",
+    "name": "Wurhm",
+    "image": "images/kma-audio-machines-wurhm.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$237 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Chainsaw distortionKMA Audio Machines brings you the legendary distortion sound from the out of production Boss HM2 MIJ pedal. Its sound was a key element of the Swedish chainsaw metal, invented by Bands like Dismember and Entombed.\nTaking the essential ingredients of this classic, while in the process developing a way more flexible metal-distortion pedal, we kept the classic active EQ section and added two more bands, giving a much wider range of tones to tailor your evil and gritty distortion sound. Each band has an internal trim-pot to change the centre frequency and fine-tune your tone. To switch between the original HM2 high control and our own designed WURM mid-band, we added internal DIP switches for even more tonal variations. Activating Switch 1 alone selects the WURHM high-mids mode. To get the classic HM2 ‘chainsaw’ high-mids character however, put switch 1 in the off position and switch 2 to on, crank the LOWS and the HIGH MIDS and rip that Swedish forest to shreds. Activating both switch 1 and 2 together though gives you three bands, which are controllable via the HIGH MIDS control. TERROR dials in the malice and the evil distortion sound you are searching for! Crank it up and you will feel the rage of the ancient WURHM.\nhttps://kma-machines.com/m_wurhm.html",
+    "hrid": "kma-audio-machines-wurhm"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17095",
+    "name": "Sweet Tea V3",
+    "image": "images/jhs-sweet-tea-v3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$315 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "https://www.jhspedals.com/products/guitar-pedals/sweet-tea/",
+    "hrid": "jhs-sweet-tea-v3"
+}

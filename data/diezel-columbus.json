@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15082",
+    "name": "Columbus",
+    "image": "images/diezel-columbus.jpg",
+    "function": [
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "Diezel",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$499 Price in €",
+    "width": 435,
+    "height": 185,
+    "details": "Memory Switcher for Herbert or VH4There are numerous midi-switchers, but just one Columbus: It starts at “0”, hooks via a XLR to Herbert, via standard midi-cable to the VH4 and other amps.\nColumbus gets its power via phantom supply off your Herbert or VH4(S). The bright display is visible even on the darkest stages – and it is built like all Diezel equipment: like a tank.\n\nColumbus is not only the perfect comrade for your Diezel head, but also the central switching unit of more complex rigs: via XLR or midi into the Diezel head – from its midi-thru into whatever fits your needs. Columbus switches either in Omni-Mode or in any (selectable) channel between 1 and 16.\n\nColumbus ships also with an external power-supply (voltages from 90-240 V AC) and can be your entrance to the Diezel world if you should still safe for a Herbert head and you’re already looking for a road-ready midi-switcher.\nSwitches:   10 high quality switches for maximum channels per bank\nLEDs:   Super bright blue LEDs show which channel is engaged\nChassis:    Rugged Steal construction makes it virtually indestructible on the road\nConnections:    MIDI connection for use with the VH4 or any MIDI amp. Also an XLR connection for use with the Herbert Amp\nThere are numerous midi-switchers, but just one Columbus: It hooks up via an XLR/midi to the Herbert, via standard midi-cable to the VH4 or to other midi amps.\nColumbus gets its power via phantom supply from your Herbert or VH4(S), or from the supplied external power-supply (90-240 V AC). The bright display is visible even on the darkest stages - and it is built like all Diezel equipment: like a tank.\nColumbus is not only the perfect partner for your Diezel head, but also the central switching unit of more complex rigs: via XLR or midi into the Diezel head - from its midi-thru into whatever fits your needs.\nColumbus switches either in Omni-Mode or in any (selectable) channel between 1 and 16.\nDimensions: 435W x 85H x 185D mm.\nShipping Size: 560W x 150H x 245D mm.\nMidi and XLR leads available to purchase seperately.\nManuals available to download only and not included with your equipment (paper saving environmentally aware).\nhttp://www.diezelamplification.com/columbus/",
+    "hrid": "diezel-columbus"
+}

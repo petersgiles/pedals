@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14671",
+    "name": "IRig pro i/o",
+    "image": "images/ik-multimedia-irig-pro-io.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "IK Multimedia",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 43,
+    "height": 127,
+    "details": "",
+    "hrid": "ik-multimedia-irig-pro-io"
+}

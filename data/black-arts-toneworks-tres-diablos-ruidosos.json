@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32491",
+    "name": "Tres Diablos Ruidosos",
+    "image": "images/black-arts-toneworks-tres-diablos-ruidosos.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Triple gainstageAs classic as a plate of Nachos, a cerveza and a shot of Tequilla.\nThree Cascading Gainstages.\nThree Master Volumes.\nThis one can go from a slight sweet boost, edgy OD, classic 70s rock distortion to classic 70s and early 80s proto-metal crunch. Dime all three masters and get a gnarly oversaturated fuzz.\nThe Diablos respond well to guitar knob input so you can create layered gain working with your guitar and amplifier.\nKeep it simple.\nKeep it RocknRoll.\nhttps://www.blackartstoneworks.com/pedal/tres-diablos-ruidosos/",
+    "hrid": "black-arts-toneworks-tres-diablos-ruidosos"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19351",
+    "name": "850 Fuzz Mini",
+    "image": "images/ibanez-850-fuzz-mini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "Part of the made in Japan MINI pedal series, The FZMINI's circuit is based on our legendary OD850 fuzz pedal. The mini version features two smaller knobs for Tone and Level, as well as a significantly larger Sustain knob in the middle. True bypass switching provides the shortest, most direct signal path, as well as the cleanest tone, while 100% analog circuitry helps add a natural, organic character to the sound. The FZMINI offers a warm, vintage fuzz tone, all while saving significant space on your pedalboard.\n•Tone, Sustain and Level controls\n•True Bypass\n•Required Current: 16mA@9V\n•Power Supply: External DC 9 volt AC adapter (Center-negative) \nhttps://www.ibanez.com/eu/products/detail/fzmini_01.html",
+    "hrid": "ibanez-850-fuzz-mini"
+}

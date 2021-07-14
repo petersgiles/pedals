@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17615",
+    "name": "Korg Pitchblack Custom",
+    "image": "images/korg-korg-pitchblack-custom.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 68,
+    "height": 113,
+    "details": "TunerThe 3D meter display is based on the acclaimed Pitchblack Pro, delivering a visually appealing tuner positioned on a higher design level than any previous pedal tuner, a stylish floor tuner that is also easy to read.\nFEATURES\n    3D visual meter display with a beautiful look delivers the practical advantage of improved visibility, and further dramatic illumination allows it to project a stunning image on a dark stage\n    Large and easily visible note name indication using a large 7-segment LED Choose from four meter display modes depending on their style\n    In addition to the standard meter mode, a strobe mode for visualizing minute pitch differences, a half-strobe mode, and a Regular B mode are also provided\n    Ultra-precise tuning with +/-0.1 cent accuracy\n    Same high detection precision as KORG™s professional-quality flagship models\n    Battery: 9V battery (6F22) or AC adaptor 9V\n    Battery life: approximately 15 hours (tuner continuously operating, A4 input)\n    Dimensions (WxDxH): 67 mm x 113 mm x 45 mm / 2.64™™ x 4.45™™ x 1.77™™ Weight: 292 g / 0.64 lb. (including battery)\nhttps://www.korg.com/nz/products/tuners/pitchblack_custom/",
+    "hrid": "korg-korg-pitchblack-custom"
+}

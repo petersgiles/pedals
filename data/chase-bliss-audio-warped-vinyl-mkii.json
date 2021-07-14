@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18380",
+    "name": "Warped Vinyl MkII",
+    "image": "images/chase-bliss-audio-warped-vinyl-mkii.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 70,
+    "height": 124,
+    "details": "Ooey-gooey-analog chorus/vibratoOoey-gooey-analog goodness, revisited\nOriginally conceived to simulate the effect of a warped vinyl record, but that is only scratching the surface of what Warped Vinyl MKII can do. This “true pitch” analog chorus/vibrato pedal features an all-analog signal path that can be dialed in to create limitless palette of vibrato and chorus. Warped Vinyl MKII has several changes, including a tone knob for shimmery, transparent vibrato/ chorus as well as an increased signal to noise ratio. Further, every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog the entire time and never gets digitally processed. Since the control of the effect is digital, it opens up unprecedented effects and features that have never been heard or offered in analog stompboxes.",
+    "hrid": "chase-bliss-audio-warped-vinyl-mkii"
+}

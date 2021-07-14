@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16056",
+    "name": "AD-9 Pro",
+    "image": "images/maxon-ad-9-pro.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$279 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Analog Delay100% Analog Delay with 450 mS delay time\nGorgeous, warm, organic delay tone\nSpecial filtering on repeats to reduce distortion\nMulti-Tap switch for “beat-split” effects\nCapable of Self-oscillation effects\nStereo (wet/dry) outputs\nWorks in FX loop or front-end of amp\nTrue Bypass Switching\nWhen Panasonic closed down their BBD production line in the mid 2000’s, Maxon had a tall task ahead of them to redesign their legendary AD-9 Analog Delay around a different IC chip.  The resultant AD-9 Pro trumps the original version, offering several new features and a decidedly superior tone.\nThe AD-9 Pro provides 450 milliseconds of fat, warm analog delay tone thanks to 4 x custom-made Maxon MC4107D Bucket Brigade IC’s.  The delay repeats of the AD-9 Pro are filtered using Maxon's proprietary noise reduction circuitry which reduces the aliasing, clock noise and distortion common to analogs.  The result is a rounder, smoother delay repeat that doesn’t overpower the original note.\nWith a wider dynamic range and max input level of +12 dB, the AD-9 Pro can accept signal from any source.  This improved response offers a better balance between low and high frequency ranges, creating a delay tone that is clear and firm while still retaining that characteristic analog warmth.  It also allows the Pro to be used in line level effects loops on amplifiers.\nThe AD-9 Pro features a Multi-Head mode controlled by a top-mounted mini switch.  This switch activates a midstream delay feedback loop, creating polyrhythmic repeats against the main delay repeat. The Multi-Head mode can create a striking Tape Echo simulation, or it can be used to create ambient reverb effects at shorter delay time settings.\nTopping off the AD-9 Pro are dual outputs that allow routing of the dry and delayed signals to two separate amps or mixer channels.  Both outputs feature Mechanical True Bypass via a 4PDT switch.\nhttp://www.maxonfx.com/nine-series-effects-pedals/ad-9-analog-delay-pro",
+    "hrid": "maxon-ad-9-pro"
+}

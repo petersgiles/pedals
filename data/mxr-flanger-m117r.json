@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14563",
+    "name": "Flanger M117R",
+    "image": "images/mxr-flanger-m117r.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$240 Price in €",
+    "width": 127,
+    "height": 95,
+    "details": "The MXR Flanger creates a variety of wild sounds from dynamic jet plane or cool space effects to short delay, chorus and vibrato.\nhttps://www.jimdunlop.com/product/m117r-7-10137-02651-3.do",
+    "hrid": "mxr-flanger-m117r"
+}

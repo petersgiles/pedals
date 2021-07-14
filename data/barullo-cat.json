@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24083",
+    "name": "Cat",
+    "image": "images/barullo-cat.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Barullo",
+    "current": "28 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 66,
+    "height": 125,
+    "details": "Rat style distortion by BarulloHere’s the Cat distortion, and this cat could devour your rat. So if you like rodent pedals but need a better control over gain and a real eq, not just a filter pot, this is your pedal. It’s based on the classic LM308 chip followed by a James tonestack that lets you control both ends of the spectrum, making this a perfect pedal for bass players, baritones or downtuned guitars.\nCONTROLS\nGain: Controls the gain of the circuit, from an overdrive at its lowest setting to a high gain distorsion.\nHi: Controls the amount of high frequencies in the circuit.\nLo: Controls the amount of low end in the circuit.\nVolume: Controls the overall output level.\nhttps://barullofx.com/2018/09/29/cat-distortion/",
+    "hrid": "barullo-cat"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17279",
+    "name": "Loomer",
+    "image": "images/keeley-loomer.jpg",
+    "function": [
+        "Delay",
+        "Distortion",
+        "Reverb"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 120,
+    "height": 99,
+    "details": "Shoegaze distortion and reverb",
+    "hrid": "keeley-loomer"
+}

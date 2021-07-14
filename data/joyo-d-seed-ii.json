@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28696",
+    "name": "D-SEED II",
+    "image": "images/joyo-d-seed-ii.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "Joyo",
+    "current": "220 mA / 9 V / DC / Negative Center",
+    "cost": "$85 Price in €",
+    "width": 105,
+    "height": 97,
+    "details": "Stereo delay/looperIn total there are 8 different delay types to select from including:\nSpace - Adds in a little Reverb to the delay effect giving you some amazing spacial tones.\nLo-Fi - The lo fi setting de-samples the delay, giving a degradation of your repeats. Similar to some early electronic music sounds.\nFilter – The setting combines a mid frequency modulation into the delay changing with the delay time.\nTape – a classic smooth tape delay perfect for some classic 60s surf.\nDigital / Copy – Copies the tone and repeats the note without losing any quality.\nAnalog – A warmer delay setting that gradually fades out and degrades the signal gently with time.\nMod – A wide spatial delay, creating an effect similar to chorus in the repeat.\nReverse –It’s a psychedelic prog rock fest.\nhttps://www.joyoaudio.co.uk/D-Seed-II-2-Delay-Pedal",
+    "hrid": "joyo-d-seed-ii"
+}

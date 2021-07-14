@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12523",
+    "name": "Vintage Phase 100",
+    "image": "images/mxr-vintage-phase-100.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$235 Price in €",
+    "width": 112,
+    "height": 150,
+    "details": "Original Script LogoDESCRIPTION\n• Big brother of the Phase 90 with a broader range of sounds\n• Four-position rotary switch selects four preset waveforms\n• Spacey, psychedelic ambience for guitar solos or chords\nPOWER \nOne 9-volt battery (remove bottom plate to install)",
+    "hrid": "mxr-vintage-phase-100"
+}

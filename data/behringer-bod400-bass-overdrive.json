@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20270",
+    "name": "BOD400 Bass Overdrive",
+    "image": "images/behringer-bod400-bass-overdrive.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "Bass overdriveGet tube-like distortion, smooth sustain and super-fat tone\nThis Behringer product has been designed to compete head to head with leading products on the market\nUnique Balance control to blend between overdriven and dry bass sound for maximum punch\nDedicated Level, 2-band EQ and Gain controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for highest signal integrity in bypass mode\nhttps://www.behringer.com/product.html;jsessionid=F0383BFB5B09EE26EA4BAEC2E662D9EF?modelCode=P0593",
+    "hrid": "behringer-bod400-bass-overdrive"
+}

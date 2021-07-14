@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27546",
+    "name": "Arcades",
+    "image": "images/cooper-fx-arcades.jpg",
+    "function": [
+        "Multieffect",
+        "Delay",
+        "Digital",
+        "Digital Glitch",
+        "Pitch Shifter",
+        "Reverb"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$330 Price in €",
+    "width": 94,
+    "height": 102,
+    "details": "Experimental multi effect consoleArcades can be any type of pedal you want. It is a versatile multi effect platform, but what makes it unique is that it determines what type of effect it is based on the card that is inserted into the pedal. Much like certain retro video game consoles, the Arcades will allow the user to swap cards to select the experience they want. Instead of a video game however, the change of a card will result in a different bank of eight effects.\nManual\nhttps://www.cooperfx.com/arcades-blog",
+    "hrid": "cooper-fx-arcades"
+}

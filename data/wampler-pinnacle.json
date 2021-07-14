@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15662",
+    "name": "Pinnacle",
+    "image": "images/wampler-pinnacle.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$240 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "Overdrive/Distortion with Boost\"i purchased this pedal and it was really a great choice for me...\"\nhttps://www.wamplerpedals.com/pinnacle-deluxe",
+    "hrid": "wampler-pinnacle"
+}

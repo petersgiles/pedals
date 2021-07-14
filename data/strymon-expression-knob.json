@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13373",
+    "name": "Expression Knob",
+    "image": "images/strymon-expression-knob.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 38,
+    "height": 38,
+    "details": "Expression Knob",
+    "hrid": "strymon-expression-knob"
+}

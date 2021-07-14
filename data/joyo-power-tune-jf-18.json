@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15599",
+    "name": "Power Tune JF-18",
+    "image": "images/joyo-power-tune-jf-18.jpg",
+    "function": [
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 120,
+    "details": "Tuner/Power SupplyJOYO Audio UK delivers a compact and convenient way to combine the essential tools of the guitarists pedalboard that do not necessarily make a sound, but enable it to all happen. A True Bypass guitar pedal tuner and guitar effect pedal power supply.\nThe JF-18 Power Tune combines both power supply and tuner into one amazing product, saving space and eliminating noise\nThe POWER section features a filtered low noise output with short circuit and over current protection. Six outputs give you the standard 100ma power for most of your standard analogue pedals on your board, whilst two additional outputs can deliver a whopping 500ma, which will cover even the most demanding digital effects units.\nThe TUNE section delivers via the large LED screen, which is easy to see in any lighting condition. Using a technologically impressive rapid chromatic tuning algorithm, ensuring fast and responsive note detection for any guitar or bass player. \nThere is no need to worry about your guitar signal running though the power supply, we have made sure that there is no crosstalk noise or hum, the switching adapter does not get hot unlike many other guitar power supplies. We also include 8 DC power cords and 2 polarity reversing cables.\nOf course you can use the Power Tune independently, the tuner section features True Bypass circuit to minimise signal loss.\nTuning Parameters\nInput : 1/4 mono port\nOutput : 1/4 mono port\nTuning Range :12Hz-4186Hz\nWorking voltage: DC9v (centre negative).\nRunning current: DC120mA.\nPower Parameters\nInput voltage for adapter: AC100 -240v.\nOne DC9v input, 2A input (centre negative).\n9 x DC 9v outputs, 2 x 500mA, 6 x 100mA (centre negative).\nFiltered short-circuit and over current protection.\nIncludes JP-03 filtered UK power supply adaptor.\n8 x DC power cords.\n2 x polarity reversing cables.\nhttp://joyoaudio.com/userfiles/image/20150922/20150922021121_72053.jpg",
+    "hrid": "joyo-power-tune-jf-18"
+}

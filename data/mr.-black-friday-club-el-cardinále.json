@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17530",
+    "name": "Friday Club el Cardinále",
+    "image": "images/mr.-black-friday-club-el-cardinále.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "el Cardinále\n(Pronounced \"L Card-ee-NAHL-aay\")\nBeautifully balanced, clear, natural overdrive.\nJust what the doctor ordered.",
+    "hrid": "mr.-black-friday-club-el-cardinále"
+}

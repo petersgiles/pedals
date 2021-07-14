@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22140",
+    "name": "Six Shooter II Tuner",
+    "image": "images/outlaw-effects-six-shooter-ii-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Outlaw Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 45,
+    "height": 96,
+    "details": "",
+    "hrid": "outlaw-effects-six-shooter-ii-tuner"
+}

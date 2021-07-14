@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32241",
+    "name": "SOVTEK Small Stone Russian (V3)",
+    "image": "images/electro-harmonix-sovtek-small-stone-russian-(v3).jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 120,
+    "height": 165,
+    "details": "Phase ShifterThe Electro-Harmonix Small Stone Phase Shifter is a 4-stage phase shifter pedal first made in 1974 by David Cockerell with the legendary operational transconductance amplifiers (OTA). Along with a Rate knob, the Color switch is used to engage an additional stage of feedback for a more pronounced phase shifting effect.\nKey Features :\n- Classic Analog Phaser\n- Uses Operational Transconductance Amplifiers (OTA)\n- Rate & Color Control",
+    "hrid": "electro-harmonix-sovtek-small-stone-russian-(v3)"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15245",
+    "name": "Ana Echo",
+    "image": "images/mooer-ana-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$68 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Analog delay",
+    "hrid": "mooer-ana-echo"
+}

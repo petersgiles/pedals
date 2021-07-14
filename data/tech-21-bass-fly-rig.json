@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23534",
+    "name": "Bass Fly Rig",
+    "image": "images/tech-21-bass-fly-rig.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Chorus",
+        "Dynamics",
+        "Filter"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 318,
+    "height": 64,
+    "details": "Bass Multi-Effects, Preamp, and DIThe Bass Fly Rig is more than a pedalboard. In a single pedal.  And no board. Less than 13 inches long and weighing just over 20 oz., this sleek,compact unit embodies an entire rig.  At its heart, is the all-analog SansAmp, which makes it possible to go direct to a PA or mixer.  For effects, you have the essentials and fun stuff, too:  a compressor,  a powerful boost, an octaver, a fuzz, a filter and a chorus.  No crackling patch cables, dying batteries or ground loops.  No stinkin’ van, heavy flight cases, cable spaghetti, and no dead weight. With the Bass Fly Rig, you can relax. For fly gigs across the globe, jamming at the local hang, and last minute sessions, you’ll be the first one ready to go.  You can stop stressing over what to pack and agonizing over what to leave behind.  You can stop dreading cheesy backline loaners and overheating at the mere thought of your touring rig going down.  Just pop your Bass Fly Rig into your guitar case and head for the door.  (Be sure to wipe that smile off your face when the rest of the band shows up sweating and out of breath.)\nAPPLICATIONS As a PRE-AMP or STOMPBOX with a bass amp. You can connect the Bass Fly Rig in-line just as you would a standard distortion pedal. If the pre-amp of your amplifier is imparting too much of its own character on the pedal, plug into the low level input and set the pre-amp as clean and neutral as possible.    Also, be aware that most tube amps have a tone stack. When every-thing is on max, they tend to cut the mid-range. So don’t be surprised to find that the flattest sound is achieved with bass and treble at minimum, and mid at max. Since most tube amp passive tone stacks work in a similar fashion, we recommend this as a good starting point and adjusting to taste.You can also plug into the effects loop return (if the amp has one). This will disable the entire pre-amp of the amp for a more true representation of the Bass Fly Rig’s sound. For DIRECT RECORDING or DIRECT to PA. All of the tone shaping and cabinet emulation needed is already incorporated into the SansAmp section of the pedal.  The Bass Fly Rig automatically converts your bass signal to Low Z allowing you to plug into a variety of inputs that would normally load down your guitar’s signal.  It can be plugged into mixers (live and studio), workstation/recorders, and even directly into the sound card on a computer. \nhttp://www.tech21nyc.com/products/flyrig/bass-fly-rig/",
+    "hrid": "tech-21-bass-fly-rig"
+}

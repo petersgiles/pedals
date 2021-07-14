@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12211",
+    "name": "DL-10",
+    "image": "images/ibanez-dl-10.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Digital DelayThe digital delay of the IBANEZ DL10, in addition to covering a delay time range of 70 msec to 400 msec for doubling, repeat echoes and other effects, uses stereo outputs (two JRC4558D op-amps) to achieve a uniquely clear stereo echo signal.\nproduced: 1988 - 1993\n9V, ??MA.",
+    "hrid": "ibanez-dl-10"
+}

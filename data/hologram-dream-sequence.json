@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12944",
+    "name": "Dream Sequence",
+    "image": "images/hologram-dream-sequence.jpg",
+    "function": [
+        "Digital Glitch",
+        "Filter",
+        "Multieffect",
+        "Pitch Shifter",
+        "Sampling",
+        "Synth Voice",
+        "Wah"
+    ],
+    "manufacturer": "Hologram",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$425 Price in €",
+    "width": 201,
+    "height": 121,
+    "details": "Sequencer, envelope shaper, pitch shifter, sampler, & moreIt’s a sequencer, an envelope shaper, a pitch shifter, a sampler, and more. It’s a source of inspiration that can create synth-like arpeggios, pulsating sheets of sub-octave distortion, shimmering, ethereal chord washes, and a limitless number of other new sounds.\nFEATURE OVERVIEW\nOctave Up and Down Pitch Shifting\nPattern Sequencer\nRhythmic Gate, with dynamic ADSR “morphing”\nTap Tempo\nDigitally-Controlled, Analog Drive and Tone\nAnalog Dry Path\nInfinite “Hold” Sampler\n24 Built-in Presets\nSave Custom Presets, with 11 Save Slots\nPattern Recorder, for creating custom patterns via tapping footswitches\nRecord and Save Knob “Automation”\nMIDI In/Out\nExpression Pedal Input, mappable to many controls\nTrue Bypass Switching (electromechanical relay)\nAuxiliary Modes for use as a +1/-1 oct. Pitch Shifter, Tremolo, or Hold Sampler\nhttps://hologramelectronics.com/dream-sequence/",
+    "hrid": "hologram-dream-sequence"
+}

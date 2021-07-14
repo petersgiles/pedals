@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29598",
+    "name": "Blackhole",
+    "image": "images/eventide-blackhole.jpg",
+    "function": [
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Eventide",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$279 Price in €",
+    "width": 102,
+    "height": 108,
+    "details": "Discover what lies beyond mere halls, rooms, plates and springs; let Blackhole transport you to an alternate dimension of ambience. Pick and choose from five otherworldly presets – create supermassive atmospheres with the ethereal reverb of Blackhole, soar through nimbus clouds with the airy delay of Dark Matter, achieve sonic supernovas with the resounding swirl of Nebula, experience an uncharted galaxy of sound with the warmth of Singularity, and achieve a stellar rotation of sonority with Pulsar – or get creative and create presets of your own. Blackhole can load as many as 127 presets via MIDI and they are also accessible in the preset list on the Eventide Device Manager (EDM). Unlock a universe of sound-sculpting capability! With this magnitude of flexibility, Blackhole will take you on a journey from cathedral-esque spaces to a new frontier of aural experimentation.\nFeatures\n   Five presets loaded at your feet with dozens more available with Eventide Device Manager (EDM) software\n    Control the Size of your space from a cartoonishly small room to a limitless universe\n    Use PreDelay to offset the onset of the reverb\n    Turn up Feedback to go beyond the event horizon\n    Tap the Freeze Footswitch to instantly 'freeze' your sound \n    Dual action Active Footswitch is latching or momentary\n    Rear panel Guitar/Line Level switch for selecting use with guitar, synths, FX loop or DAW interface\n    Map any combination of parameters to an Expression Pedal\n    Use a single Aux switch to Tap Tempo or a triple Aux switch for easy preset changing (up/down/load)\n    MIDI capability over TRS (use with a MIDI to TRS cable or converter box) or USB\n    Multiple Bypass options: Buffered, Relay, DSP+FX or Kill dry\n    Catch-up mode helps dial in your sound when toggling between presets/parameters\n    Eventide Device Manager PC or Mac application for software updates, system settings and creating/saving presets\n    Fine-tune your tone with Lo, Hi and Q (resonance) controls. Use the tone controls to add airiness or clear up the low-end. Map the EQ controls to an expression pedal to add movement to the reverb tail\n    Unique Gravity control to custom-tailor the reverb tail in two realms — normal or inverse decay. Create interesting swells or suck the dry signal back into the reverb tail. At longer decay times, Blackhole allows the articulation to shine through without competing with the reverb tail\nhttps://www.eventideaudio.com/products/stompboxes/reverb-pedal/blackhole-pedal",
+    "hrid": "eventide-blackhole"
+}

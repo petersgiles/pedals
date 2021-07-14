@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13925",
+    "name": "1-Spot Pro CS7",
+    "image": "images/truetone-1-spot-pro-cs7.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 140,
+    "height": 86,
+    "details": "",
+    "hrid": "truetone-1-spot-pro-cs7"
+}

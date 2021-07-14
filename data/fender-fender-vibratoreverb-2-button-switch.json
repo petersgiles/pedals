@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25621",
+    "name": "Fender Vibrato/Reverb 2-button switch",
+    "image": "images/fender-fender-vibratoreverb-2-button-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Fender",
+    "current": "Pedal is passive",
+    "cost": "$40 Price in €",
+    "width": 120,
+    "height": 80,
+    "details": "Footswitch for Fender amp Reverb and Vibrato (tremolo) effects",
+    "hrid": "fender-fender-vibratoreverb-2-button-switch"
+}

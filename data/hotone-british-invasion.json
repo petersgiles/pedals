@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23616",
+    "name": "British Invasion",
+    "image": "images/hotone-british-invasion.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Hotone",
+    "current": "900 mA / 18 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 128,
+    "height": 75,
+    "details": "Nano Legacy Series AmplifierBritish Invasion is a 5W Class AB guitar amplifier head.\nIt captures the main characteristics of the legendary AC30 at low volume.\nTweak the 3-band EQ, Volume and Gain knobs to recreate some authentic British Sound.\nhttps://www.hotoneaudio.com/products/nanolegacy/70.html",
+    "hrid": "hotone-british-invasion"
+}

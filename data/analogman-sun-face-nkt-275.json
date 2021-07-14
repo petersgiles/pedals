@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15086",
+    "name": "Sun Face NKT 275",
+    "image": "images/analogman-sun-face-nkt-275.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 112,
+    "details": "Germanium Fuzz Face\nhttps://www.buyanalogman.com/Analog_Man_Sun_Face_p/am-sun-face.htm",
+    "hrid": "analogman-sun-face-nkt-275"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17251",
+    "name": "Reverb-X",
+    "image": "images/rainger-fx-reverb-x.jpg",
+    "function": [
+        "Reverb",
+        "Distortion",
+        "Noise Gate"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$193 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Reverb-X digital reverb (& Igor) mini-pedalDigital reverb custom mini-pedal with up to 6 seconds of reverberation time\nIncludes an Igor pressure pad controller for real-time control!\nBlend in any amount of distorted reverb for smouldering atmospherics…\nAmazing 'edited guitar sample' simulation!\nBright and immediate sparkle-verb, or dark and brooding pre-delayed ambience\nEffects 'send' function allows sounds to reverb away while you carry on playing dry\nDoes clean bright reverb, 'live bootleg' reverb, 80's gated reverb, spacerock overload reverb…\nBuilt-in noise gate keeps unwanted hums and buzzes to a minimum\nInput control and indicator for optimum signal-to-noise\nDeeply cool Rainger FX custom mini-pedal steel enclosure\nNo side sockets at all – they're all top end-mounted! Amazing!\n\nhttp://www.raingerfx.com/product/reverb-x-digital-reverb-igor-mini-pedal/",
+    "hrid": "rainger-fx-reverb-x"
+}

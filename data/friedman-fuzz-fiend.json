@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19188",
+    "name": "Fuzz Fiend",
+    "image": "images/friedman-fuzz-fiend.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Friedman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$328 Price in €",
+    "width": 114,
+    "height": 140,
+    "details": "12AX7 TUBE POWERED FUZZ PEDALIf you're addicted to Fuzz pedals, the Fuzz Fiend may be the ultimate fix.  Unlike many pedals that strive to emulate the tone and signal path of a tube using solid-state or digital circuitry, the Friedman Fuzz Fiend has an actual high voltage (220 volt) driven 12AX7A preamp tube.  The tube delivers a natural feel, which compresses, clips and has more harmonics than any solid-state signal path pedal in production. \nThe Fuzz Fiend takes you on journey from light fuzz to all-out mayhem via Dave's unique RAGE switch. The FUZZ knob, as turned clock-wise, makes the signal more square waved and saturated. Where the FUZZ controls ends - the RAGE switch begins.   The RAGE switch when pressed down, causes the Fuzz Fiend’s circuit to become unstable, resulting in endless sustain and mayhem.  Rolling down the volume of your guitar transforms sustain into oscillation. While the momentary push button switch is pressed down and the fuzz control is turned, you will hear the oscillation dramatically change pitch.  You can further shape the tone of the Fuzz Fiend using the Bass, Midrange and Treble controls which are a true tube preamp style tone stack. Since tubes require more current to operate than transistors, this pedal requires a specific power supply source with at least 350-400mA of current.  If your power supply does not have this amount of juice, a universal 12V power supply is included.\nSPECIFICATIONS\n• 12AX7 Tube Fuzz Pedal\n• Fuzz, Bass Middle, Treble and Volume Controls\n• Rage Momentary Switch\n• True Bypass\n• Included Universal 12V Power Supply\n• Voltage Requirements: 9-12vDC - Minimum of 350-400mA of current\n• Built in USA\n• Dimensions: 4.5\" x 5.5\" x 3\"\n• Weight: 1 lbs.\nhttp://friedmanamplification.com/friedman-pedals/fuzz-fiend",
+    "hrid": "friedman-fuzz-fiend"
+}

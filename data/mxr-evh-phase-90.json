@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11688",
+    "name": "EVH Phase 90",
+    "image": "images/mxr-evh-phase-90.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "",
+    "hrid": "mxr-evh-phase-90"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18959",
+    "name": "SOLEMAN MIDI FOOT CONTROLLER",
+    "image": "images/source-audio-soleman-midi-foot-controller.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 267,
+    "height": 95,
+    "details": "",
+    "hrid": "source-audio-soleman-midi-foot-controller"
+}

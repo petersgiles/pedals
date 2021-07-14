@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13562",
+    "name": "Zakk Wylde Cry Baby Wah",
+    "image": "images/dunlop-zakk-wylde-cry-baby-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 254,
+    "details": "Zakk Wylde Signature Cry Baby WahThis Cry Baby Wah delivers Zakk Wylde's characteristically thick and cutting tone with a heavy-duty raw-metal casting.\nhttps://www.jimdunlop.com/product/zw45-7-10137-02650-6.do",
+    "hrid": "dunlop-zakk-wylde-cry-baby-wah"
+}

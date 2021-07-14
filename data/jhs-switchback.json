@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21850",
+    "name": "Switchback",
+    "image": "images/jhs-switchback.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$156 Price in €",
+    "width": 65,
+    "height": 115,
+    "details": "A/B / Looper SwitcherUsable as A/B True Bypass Looper, simple True Bypass Looper, A/B Box Amp Input Switcher or Effect Loop A/B Switcher\nhttps://www.jhspedals.com/products/guitar-pedals/switchback/",
+    "hrid": "jhs-switchback"
+}

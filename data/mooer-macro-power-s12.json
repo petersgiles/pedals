@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23026",
+    "name": "MACRO POWER S12",
+    "image": "images/mooer-macro-power-s12.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Mooer",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 225,
+    "height": 88,
+    "details": "12 output power supplyThe MACRO POWER S12 from MOOER is a high output professional pedalboard power supply.\nSporting 2 toroidal transformers and 12 completely independent outputs the MACRO S12 can deliver up to 3.4 Amps (3400mA) of clean, quiet and consistent DC power for all of your pedal power needs.\n6 x 200mA 9V outputs for all your favourite analog pedals\n3 x 300mA 9V outputs for your preamps and digital pedals\n1 x 300mA output with selectable voltage (9V, 12V, 15V, 18V)\n2 x 500mA 9V outputs for powering your current hungry monster pedals\nSwitchable input voltage for use in different regions across the globe\nAll of this is crammed into a tour ready metal housing and comes packaged with all the cables you need to get up and running.\nhttp://www.mooeraudio.com/product/MACRO-POWER-S12-39.html",
+    "hrid": "mooer-macro-power-s12"
+}

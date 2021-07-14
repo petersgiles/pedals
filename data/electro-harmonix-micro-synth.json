@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15966",
+    "name": "Micro synth",
+    "image": "images/electro-harmonix-micro-synth.jpg",
+    "function": [
+        "Filter",
+        "Ring Modulator",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$286 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Guitar synthesizerFrom the classic vintage sounds of the great early Moog synthesizer to custom creations, the Microsynth creates fat analog synth sounds heard on classic recordings by some of the finest musicians in the world. Compact ten-slider layout lets the sonically adventurous guitarist dial in a virtually limitless array of analog synthesizer sounds: from percussive stabs to backwards-sounding bowed effects.\nhttps://www.ehx.com/products/micro-synthesizer",
+    "hrid": "electro-harmonix-micro-synth"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23951",
+    "name": "Holy Grail Neo",
+    "image": "images/electro-harmonix-holy-grail-neo.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Three super reverb styles in one compact pedalYour quest for an ultra pedalboard-friendly stompbox that includes plate reverb is fulfilled with the Holy Grail Neo. Divine Hall and classic Spring reverbs complete the heavenly mix and give you three of the most sought after reverb styles. The three-position switch lets you choose and the Reverb knob acts as a wet/dry control.\nThe Holy Grail Neo is equipped with True Bypass to ensure maximum signal path integrity when the effect is in bypass mode and comes with a standard EHX9.6DC power supply.\nhttps://www.ehx.com/products/holy-grail-neo",
+    "hrid": "electro-harmonix-holy-grail-neo"
+}

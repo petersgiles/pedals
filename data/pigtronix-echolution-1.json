@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16000",
+    "name": "Echolution 1",
+    "image": "images/pigtronix-echolution-1.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Tremolo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 178,
+    "height": 102,
+    "details": "",
+    "hrid": "pigtronix-echolution-1"
+}

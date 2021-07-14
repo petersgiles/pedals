@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11495",
+    "name": "Supercomp M132",
+    "image": "images/mxr-supercomp-m132.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$133 Price in €",
+    "width": 71,
+    "height": 112,
+    "details": "",
+    "hrid": "mxr-supercomp-m132"
+}

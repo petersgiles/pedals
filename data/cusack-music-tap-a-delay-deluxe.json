@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20907",
+    "name": "Tap-A-Delay Deluxe",
+    "image": "images/cusack-music-tap-a-delay-deluxe.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Cusack Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 119,
+    "height": 91,
+    "details": "Tap Tempo Delay w/ \"Float\" SwitchDescription:\nThe Tap-A-Delay is a 750mS digital delay that mixes the original analog signal with the delayed signal. It is gritty, a bit noisy, and very analog sounding. This isn’t your clean studio quality digital delay with perfect repeats.\nThe new, Deluxe version, which debuted at Summer NAMM 2017, features a \"Float\" switch that momentarily raises your feedback (effectively \"freezing\" your delay). In combination with the \"Float Input\" toggle, this allows you to play over top of your frozen phrase, or feed into it for complex delay layering.\nFeatures:\n-Level (volume)\n-Mix (dry/delayed signal)\n-Feedback\n-Delay (time can be set with the knob, or by pressing the Tap Speed switch twice. When tapping the tempo, the Divide toggle selects 1/8, *1/8, or 1/4 notes)\n-Modulation (an 8-position switch that selects several warm modulation themes as well as a few outer space themes)\n-Mode toggle (selects brake function; Left: holding the brake will alternate between slowing down and speeding up. When you release the switch, it stays right where it was; Center: ”Snap Back.\" Holding the switch will either slow down or speed up. When you release the switch it snaps back to the original tempo; Right: “Slide Back.\" Slide Back is the same as Snap Back, except the tempo slides back to the original tempo slowly. To select between Speed Up and Slow Down for the Slide and Snap modes, just tap both foot switches. The light will blink to let you know it changed. If it was Speed Up, it will now be Slow Down)\n-Float stomp (momentarily raises the feedback to \"freeze\" the delay)\n-Float input toggle (left: new notes are added to the frozen delay, right: delay drones so you can play over top of it)\nInternally, there is an “Echo Roll Off” pot that adjusts the tone of the repeats. All the way up is bright, with a lot of clock noise coming through. All the way down is very dark. 2 o’clock seems to be a good “middle ground.”\nhttps://cusackmusic.com/collections/all-products/products/tap-a-delay-deluxe",
+    "hrid": "cusack-music-tap-a-delay-deluxe"
+}

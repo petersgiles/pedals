@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11602",
+    "name": "Ojai",
+    "image": "images/strymon-ojai.jpg",
+    "function": [
+        "Power",
+        "Utility"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 81,
+    "height": 58,
+    "details": "Isolated PowerPower your pedals with Ojai—the highest horsepower, most technologically advanced effects pedal power supply of its size. Ojai delivers clean, rock-steady power to your effects pedals in a lightweight and expandable package, giving you flexibility and room to grow.\nYou get five high-current, individually isolated, ultra-low-noise outputs—each with its own dedicated regulator and custom transformer. Each output provides a massive 500mA of current.\nOjai’s dual-stage topology, pre-regulated outputs, optically isolated feedback, and advanced multistage filtering result in a power supply that allows your pedals to achieve their highest possible dynamic range.\nIncluded Strymon PS-124 power brick:\nModel: YJS036A-2401000U\nInput: 100-240v AC 50-60Hz 0.8A max\nOutput: 24v DC 1000mA\nDimensions: 4.2″ x 2.15″ x 1.25” (107mm x 55mm x 32mm)\nWeight: 4.7 oz. (133g)\nhttp://www.strymon.net/products/ojai/",
+    "hrid": "strymon-ojai"
+}

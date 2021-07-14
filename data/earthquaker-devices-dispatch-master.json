@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12009",
+    "name": "Dispatch Master",
+    "image": "images/earthquaker-devices-dispatch-master.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$268 Price in €",
+    "width": 66,
+    "height": 125,
+    "details": "Reverb & DelayThe Dispatch Master is one of those pedals that can find you reconsidering the worth of whole swaths of your stompbox collection. It’s also the kind of effect that you grab when you don’t have much space and when you’re trying to do the most with the least. Together and independently the reverb and delay can move from understated to epic in scale, which makes this a pedal that will get you out of almost any jam. And if you’re anything from a country player, accompanist to a singer-songwriter, pop texuralist, or experimental adventurer, it’s easy to imagine hitting a club gig with this thing, a little fuzz or overdrive, and a Champ and being able to cover just about anything a band throws at you. Even if the Dispatch Master isn’t dirt cheap, considering the built-by-hand-in-Ohio quality, Earthquaker’s admirable track record of innovation, and the sounds-to-weight ratio of this cool little box it represents a real and considerable value.  [premierguitar.com]\nhttps://www.earthquakerdevices.com/dispatch-master/",
+    "hrid": "earthquaker-devices-dispatch-master"
+}

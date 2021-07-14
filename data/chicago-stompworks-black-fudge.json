@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12005",
+    "name": "Black Fudge",
+    "image": "images/chicago-stompworks-black-fudge.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Chicago Stompworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "MAESTRO MFZ-1™ CLONEBLACK FUDGE is dirty and grungy, warm 70s fuzz - it's got the sludge you need! We use the same, scarce TL022 opamp as the original.. It's handbuilt in the USA, true bypass switching, best quality jacks pots and switches available. True boutique quality, throughout. In stock and ships today! \n-handbuilt boutique quality throughout\n-true bypass, point-to-point wiring\n-best in class pots and Neutrik brand open-frame jacks\n-standard, center negative \"Boss style\"9v jack (or internal battery)\nhttp://www.chicagostompworks.com/store/p9/%22Black_Fudge%22_Maestro_MFZ-1_Clone.html",
+    "hrid": "chicago-stompworks-black-fudge"
+}

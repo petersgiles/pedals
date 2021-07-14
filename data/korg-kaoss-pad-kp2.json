@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12530",
+    "name": "Kaoss Pad KP2",
+    "image": "images/korg-kaoss-pad-kp2.jpg",
+    "function": [
+        "Controller",
+        "Delay",
+        "Filter",
+        "Flanger",
+        "Looper",
+        "Phase Shifter",
+        "Reverb",
+        "Sampling"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 204,
+    "height": 207,
+    "details": "Dynamic Effect / ControllerThe Korg KP2 KAOSS Pad Digital Effect/Controller takes off where its predecessor the KP1 left off. Using finger movements, you control dozens of effects and their parameters. Just glide across the pad top to bottom, side to side, or tap on it to create changes in your mix with levels of complexity that are impossible with other gear. The KP2 is packed with essential effects such as filters, delays, reverb, and flanging along with killer DJ effects including isolator, slicer, and auto panning. Effects are selected with a knob and eight of them can be assigned to buttons.\nA Hold switch freezes effects in their current position so they're easily captured or rhythmically layered by drumming on the pad. You also get 15 super synth and vocoder sounds plus 20BPM effects that can be auto synced, tapped in, manually set, or run via MIDI. Eight new BPM patterns are triggered from the touch pad for perfectly synced rhythm and bass synth patterns. The KP2 samples up to 12 seconds at 44.1kHz; records and transforms pad movements; and includes phono, line, and MIDI connectors. Includes power adapter.\nControl dozens of effects and their parameters\nEffects include filters, delays, reverb, and flanging\nDJ effects include isolator, slicer, and auto panning\nEffects are selected with a knob and 8 of them can be assigned to buttons\nHold switch freezes effects in current position\n15 super synth and vocoder sounds\n20BPM effects can be auto synced, tapped in, manually set, or run via MIDI\n8 new BPM patterns\nSamples up to 12 seconds at 44.1kHz\nRecords and transforms pad movements",
+    "hrid": "korg-kaoss-pad-kp2"
+}

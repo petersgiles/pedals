@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17030",
+    "name": "Phase Shifter",
+    "image": "images/akai-phase-shifter.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$123 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "10-stage phaserThe Analog Custom Shop Phase Shifter is a 10-stage phaser, which can result in some deep sounds with deeper, more resonant effects or subtle harmonic sweeps.\nA/B SWITCHES: These two switches can be set in a total of four combinations, which are shown next to the switches themselves – 90, 180, 270, and 260. These settings indicate the intensity of the phasing. The 90 position creates a subtle phase while the 360 position creates a much more resonant, deep phasing sound.\nRATE: Turn this knob to adjust the rate of the effect (how quickly the phasing occurs).\nBYPASS SWITCH: Step on this switch to turn the effect on or off. This pedal features a true bypass switch, meaning your signal won't be colored by the pedal's circuitry when the effect is off.\nhttp://www.effectsdatabase.com/model/akai/analogcustomshop/phaseshifter",
+    "hrid": "akai-phase-shifter"
+}

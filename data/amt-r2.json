@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25959",
+    "name": "R2",
+    "image": "images/amt-r2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / 12 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 62,
+    "height": 112,
+    "details": "LA2 guitar preamp/distortion pedalFeatures overview\nIntroducing the next generation of the Legend Amp series of pedals, the LA2 line. Guaranteed to be the most versatile distortion pedals on the market, offering huge tube-style saturated tone in the styles of all of your favorite high gain modern and classic amp heads. The LA2 pedals will accompany the original series, as an enhanced upgraded “PRO” version.\n\nRectifier series amps by Mesa / Boogie is yet another benchmark in modern sound that simply cannot be ignored. A close relative of Soldano, it nevertheless has its own special character, the main features of which we tried to implement in R-2.*\n\nTwo-channel LA-2 series preamp effects are designed to produce clean and overdriven guitar sound within a variety of guitar channel organization. The basic concept of the series is “your own sound in your pocket.” LA-2 incorporates original circuit designs developed by the specialists of AMT, which allow to obtain bright and rich sound in the style of the original tube overdrives using low-voltage (9V) power and low current consumption.\nThe distinctive feature of the series is the presence of three outputs intended for implementation of basic types of channels organization:\n\ndirect connection to guitar system power amp;\nconnection to “clean” channel of a guitar combo or amp;\ndirect connection to a mixer.\n\nAll three of these outputs can be used simultaneously! Use the different outputs for recording direct and micing at the same time, run different effects through different outputs, or record three DAW tracks all at once. The routing and recording options are endless. The Legend II series of pedals are a studios engineers dream come true.\nhttps://amtelectronics.com/new/amt-r2/",
+    "hrid": "amt-r2"
+}

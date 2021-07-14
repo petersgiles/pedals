@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31956",
+    "name": "ReTracer",
+    "image": "images/ebs-retracer.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "EBS",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 83,
+    "height": 115,
+    "details": "Delay WorkstationThe ReTracer is a complete delay workstation with a dozen different engines with individually changeable parameters. Create your own signature presets and store at one of the more than 200 available slots and organize them in banks. You can run this pedal in mono, stereo, or dual (true stereo) mode, with Tail, Buffered, or True bypass mode set individually for each sound (where applicable).\nhttps://ebssweden.com/content2/effects/ebs-retracer-delay-workstation",
+    "hrid": "ebs-retracer"
+}

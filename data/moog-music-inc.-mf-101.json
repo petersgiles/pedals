@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12218",
+    "name": "MF-101",
+    "image": "images/moog-music-inc.-mf-101.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 152,
+    "height": 229,
+    "details": "MoogerFooger MF-101 Lowpass Filter\nhttps://www.moogmusic.com/products/moogerfoogers/mf-101-lowpass-filter",
+    "hrid": "moog-music-inc.-mf-101"
+}

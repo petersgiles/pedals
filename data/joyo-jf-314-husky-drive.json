@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14534",
+    "name": "JF-314 Husky Drive",
+    "image": "images/joyo-jf-314-husky-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 38,
+    "height": 73,
+    "details": "OverdriveTone Gain High Peak / Low Peak switch Volume\nTrue By Pass Input Impedance: 1m Output Impedance: 10k Running Current: 25mA Power: DC 9V negative polarity adapter, not supplied.\nPlug in 9v DC Adapter (not included)\nJF-314 Husky Drive Overdrive, NEW mini Guitar effects pedals from JOYO.\n\nhttp://www.joyoaudio.com/en/product/show_219.html",
+    "hrid": "joyo-jf-314-husky-drive"
+}

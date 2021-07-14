@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18050",
+    "name": "NDR5 Atlantic Delay and Reverb",
+    "image": "images/nux-ndr5-atlantic-delay-and-reverb.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Nux",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 100,
+    "height": 90,
+    "details": "Delay and Reverb Effects PedalThe Nux NDR5 Atlantic features the best delays and reverb algorithms all in a single stompbox. You can choose between 3 delays and 3 reverbs, with the addition of the 'Shimmer' function particularly useful for creating unique atmospheres for your intro, outro and interludes. Tap time function and internal routing complete the picture.\nhttps://www.artistguitars.com.au/buy/nux-ndr5-atlantic-delay-and-reverb-effects-pedal/14830",
+    "hrid": "nux-ndr5-atlantic-delay-and-reverb"
+}

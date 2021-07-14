@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27967",
+    "name": "Pitchblack Blue",
+    "image": "images/korg-pitchblack-blue.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 69,
+    "height": 119,
+    "details": "Chromatic Tuner - Metallic BlueCompact pedal sized guitar/bass tuner that fits in your pedal board.\n    Large bright LED meters clearly show any tuning discrepancy. Choose from four types of display modes: Full Strobe, Half Strobe, Meter & Mirror\n    A broad detection range from E0 (20.60 Hz) to C8 (4186 Hz).\n    Calibration is adjustable from 436--445 Hz.\n    100% True Bypass output keeps your tone intact\n    A 9 VDC output jack is provided for cascading the power supply to other pedals.\n    Sleek, black and tough aluminum die cast body for superb durability\nhttps://www.korg.com/us/products/tuners/pitchblack/",
+    "hrid": "korg-pitchblack-blue"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18266",
+    "name": "Speaker Cranker",
+    "image": "images/earthquaker-devices-speaker-cranker.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 63,
+    "height": 107,
+    "details": "OverdriveNot a boost",
+    "hrid": "earthquaker-devices-speaker-cranker"
+}

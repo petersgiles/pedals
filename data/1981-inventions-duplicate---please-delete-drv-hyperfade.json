@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22049",
+    "name": "DUPLICATE - PLEASE DELETE DRV Hyperfade",
+    "image": "images/1981-inventions-duplicate---please-delete-drv-hyperfade.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "1981 Inventions",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 100,
+    "height": 125,
+    "details": "",
+    "hrid": "1981-inventions-duplicate---please-delete-drv-hyperfade"
+}

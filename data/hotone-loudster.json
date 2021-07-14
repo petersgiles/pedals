@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33006",
+    "name": "Loudster",
+    "image": "images/hotone-loudster.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Hotone",
+    "current": "4500 mA / 18 V / DC / Positive Center",
+    "cost": "$151 Price in €",
+    "width": 190,
+    "height": 119,
+    "details": "portable floor power ampLoudster is a compact power amp specially designed for guitarists.\nThis portable 75-watt power amp puts out a huge, natural tone with musical power. With Loudster at the end of your FX chain, you can forget about hauling an amp around－plug into any cab and you're set.\nhttps://www.hotoneaudio.com/products/nano-legacy-floor/loudster",
+    "hrid": "hotone-loudster"
+}

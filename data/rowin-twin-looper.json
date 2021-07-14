@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29440",
+    "name": "Twin Looper",
+    "image": "images/rowin-twin-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Rowin",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$76 Price in €",
+    "width": 116,
+    "height": 90,
+    "details": "Looper Pedal with FXBasically a Ditto X2 clone\nhttp://www.rowinmusic.com/pd.jsp?id=81#_pp=103_534",
+    "hrid": "rowin-twin-looper"
+}

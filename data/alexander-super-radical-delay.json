@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17408",
+    "name": "Super Radical Delay",
+    "image": "images/alexander-super-radical-delay.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital",
+        "Digital Glitch",
+        "Pitch Shifter",
+        "Filter"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 89,
+    "details": "",
+    "hrid": "alexander-super-radical-delay"
+}

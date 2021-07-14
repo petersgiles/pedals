@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24575",
+    "name": "Logan Overdrive",
+    "image": "images/kma-audio-machines-logan-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Wah"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$212 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "TRANSCEND DRIVETake a walk in the gritty dirt and breathe in the crystal-clear mountain air, exactly as Logan once did on his journey to glean the beauties of both nature and mankind. Once you hear Logan's sweet and graceful sounds you will be driven to find your own way into the transcendental tone kingdom. So plug-in and let Logan guide you into a new era of overdrive. \nLogan is made to transcend the well-known boundaries of overdrive. It doesn't matter if you are looking for a pre-amp, a low/mid-gain drive or a screaming resonant cocked-wah sound, Logan will deliver all the gainy goods. Combined with our active 3-Band EQ, including a fully parametric Mid-EQ with a separate On/Off-Footswitch, Pre or Post Gain position-switch and an expression-in for hands-free filter sweeps, Logan is sure to deliver great tones and outstanding flexibility. \nhttp://kma-machines.com/m_logan.html",
+    "hrid": "kma-audio-machines-logan-overdrive"
+}

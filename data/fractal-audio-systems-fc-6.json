@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19735",
+    "name": "FC-6",
+    "image": "images/fractal-audio-systems-fc-6.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Fractal Audio Systems",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$499 Price in €",
+    "width": 281,
+    "height": 235,
+    "details": "Foot controller for Axe-Fx III with 6 switchesFoot controller for Axe-Fx III with 6 switches",
+    "hrid": "fractal-audio-systems-fc-6"
+}

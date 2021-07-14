@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14397",
+    "name": "Double-Muff (Classic)",
+    "image": "images/electro-harmonix-double-muff-(classic).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 85,
+    "height": 135,
+    "details": "Classic dual overdriveThe original 1969 plug-in Muff Fuzz had just a touch of overdrive and sounded like a vintage amp with a slightly torn speaker. We paired two of these together in one box to create the Double Muff. Use just one Muff for a hint of milky distortion, or cascade the second Muff for over-the-top overdrive that turns the milk into cream. Two distortions in one!\nhttps://www.ehx.com/products/double-muff",
+    "hrid": "electro-harmonix-double-muff-(classic)"
+}

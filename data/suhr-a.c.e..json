@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25866",
+    "name": "A.C.E.",
+    "image": "images/suhr-a.c.e..jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Suhr",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 124,
+    "height": 98,
+    "details": "Analog Cabinet EmulatorThe A.C.E. (Analog Cabinet Emulator) is an active analog cabinet emulator designed to offer guitarists a portable and convenient way to capture the complex characteristics of a guitar speaker cabinet for a variety of recording (silent* or in a studio) and live performance applications without the use of a microphone.\n• Active Analog Cabinet Emulator • Multi-Stage Filtering (MSF) Cabinet Emulation (bypassable) • Unbalanced 1/4″ & Balanced XLR Line Out Section • Phase and Ground Lift For XLR Output • Optimized 18-Volt Circuitry For Maximum Headroom and Dynamic Range • Compact Half Rack Enclosure\n* A.C.E. is not a load device. Make sure your ampliﬁer is connected to a suitable load (Suhr Reactive Load) or speaker cabinet when using A.C.E. to avoid damage.\nhttps://www.suhr.com/electronics/tone-tools/suhr-ace/",
+    "hrid": "suhr-a.c.e."
+}

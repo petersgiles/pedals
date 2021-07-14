@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28136",
+    "name": "Stomp Bluetooth Pedal",
+    "image": "images/coda-music-technologies-stomp-bluetooth-pedal.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Coda Music Technologies",
+    "current": "100 mA / 9 V / DC",
+    "cost": "$129 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "Bluetooth page turnerSTOMP Bluetooth page turner is by far the most robust and reliable pedal on the market. Whether you use charts, lyric sheets, digital set lists, backing tracks, or metronomes, let the STOMP Bluetooth pedal simplify your performance.\nWith just a tap of your foot:\n• Turn or scroll through the pages on your setlist or sheet music\n• Start and stop your metronome\n• Trigger backing tracks\n• Change slides in powerpoint or presentation software\n• And a bunch more\nhttps://www.codamusictech.com/products/bluetooth-page-turner-music-pedal-for-tablets",
+    "hrid": "coda-music-technologies-stomp-bluetooth-pedal"
+}

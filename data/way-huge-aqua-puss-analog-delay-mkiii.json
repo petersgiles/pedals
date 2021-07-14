@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17135",
+    "name": "Aqua Puss Analog Delay MkIII",
+    "image": "images/way-huge-aqua-puss-analog-delay-mkiii.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / 9 V / DC",
+    "cost": "$150 Price in €",
+    "width": 61,
+    "height": 104,
+    "details": "Way Huge Smalls Aqua Puss Analog Delay MkIII WM71The Aqua-Puss Analog Delay MkIII delivers smooth vintage delay tones and tape-based echo with 20ms to 300ms of delay time. \nhttps://www.jimdunlop.com/way-huge-smalls-aqua-puss-analog-delay/",
+    "hrid": "way-huge-aqua-puss-analog-delay-mkiii"
+}

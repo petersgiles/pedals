@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12527",
+    "name": "FX25",
+    "image": "images/dod-fx25.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 77,
+    "height": 131,
+    "details": "Envelope FilterThe FX25 Envelope Filter was derived from DOD's well-received 440 Envelope Filter. Like the 440, the FX25 uses a bandpass filter circuit where the peak frequency is determined by the input signal level, for a touch-controlled wah or auto-wah effect. The FX25 was one of the original ten DOD FX-series pedals that debuted in 1982, and remained in production until it was replaced by the FX25B in 1998.",
+    "hrid": "dod-fx25"
+}

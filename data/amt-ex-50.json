@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12846",
+    "name": "EX-50",
+    "image": "images/amt-ex-50.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 69,
+    "height": 112,
+    "details": "AMT forever changed the concept of the \"crowded\" pedal board by earlier introducing their smaller sized WH-1 Wah and LLM Volume pedals; which have been a huge success. Guitarists worldwide had such great things to say about the functionality, quality, sound, and size of these pedals; that they got bombarded with requests to design and manufacture a smaller-sized expression pedal. Thus, the EX-50 is born.Designed with dual outputs (TS and TRS) and two switchable modes for normal or inverted operation; the EX-50 is capable of controlling a wide range of brands and manufacturers of expression-ready effect pedals.The small footprint allows players to easily mount several EX-50's on their board, difficult in the past due to the large territorial size of conventional expression pedals.\nhttp://amtelectronicsusa.com/productpageex50.html",
+    "hrid": "amt-ex-50"
+}

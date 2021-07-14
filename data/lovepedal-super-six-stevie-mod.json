@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16369",
+    "name": "Super six Stevie mod",
+    "image": "images/lovepedal-super-six-stevie-mod.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$297 Price in €",
+    "width": 58,
+    "height": 102,
+    "details": "",
+    "hrid": "lovepedal-super-six-stevie-mod"
+}

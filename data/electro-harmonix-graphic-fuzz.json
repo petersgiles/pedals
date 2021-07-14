@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13489",
+    "name": "Graphic Fuzz",
+    "image": "images/electro-harmonix-graphic-fuzz.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "EQ / Distortion / SustainerFuzzy Math! For the true tonal alchemist, this unique distortion tool with 6-band EQ is sensitive to the dynamics of your playing. Sliders for Overdrive, Sustain, and Volume further its array of tones. Use the Graphic Fuzz solely as an EQ or switch on the distortion for total sound sculpting!\nhttps://www.ehx.com/products/graphic-fuzz",
+    "hrid": "electro-harmonix-graphic-fuzz"
+}

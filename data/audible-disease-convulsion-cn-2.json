@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12483",
+    "name": "Convulsion CN-2",
+    "image": "images/audible-disease-convulsion-cn-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Audible Disease",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "High Gain DistortionThe Audible Disease Convulsion CN-2 is a vicious high-gain distortion unit that pushes your sound into the realm of complete insanity.\nWith a twist of the Noise knob, you can blend pure white noise with your input signal for extra psychotic enjoyment. If that isn't enough craziness for you, this monster also has the ability to decimate the sound even further with the Spit knob. By tweaking this knob, your sound will start to cough, spit and sputter on the verge of auditory death.\nThe Cough knob rips up the sound even more by oscillating the signal. When a low-level signal is fed into the CN-2, the thing can self- produce bubbling regurgitations on it's own -- plus you can blend in the white noise to make a crazed white noise generator!\nThe pedal is festooned with special artwork by the esteemed Bay Area artist Bonnie Banks.\nFeatures\nCough Control\nSpit Control\nNoise Control\nVolume Control\nBypass Stomp Switch\nhttp://www.audibledisease.com/product/convulsion_cn-2",
+    "hrid": "audible-disease-convulsion-cn-2"
+}

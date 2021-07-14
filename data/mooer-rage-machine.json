@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19571",
+    "name": "Rage Machine",
+    "image": "images/mooer-rage-machine.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "128 mA / 9 V / DC / Negative Center",
+    "cost": "$67 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "Agressive distortionWide variety of heavy metal style distortion tones, Two EQ knobs allow you to shape the tone dramatically and a level knob allows you to dial in the precise amount of distortion you want on your leads. Its full metal casing makes it durable and road ready, and like most great effects pedals it has true bypass.\nMany distortion tones\nFull metal shell\nPedalboard friendly\nTrue bypass\n\nInput: 1/4\" monaural jack (impedance: 470k Ohms)\nOutput: 1/4\" monaural jack (impedance: 100 Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: 128 mA\nDimensions: 1.6535\" (W) x 2.0472\" (H) x 3.6811\" (D)\nWeight: 0.36lb",
+    "hrid": "mooer-rage-machine"
+}

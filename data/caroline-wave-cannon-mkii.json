@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14711",
+    "name": "Wave Cannon MKII",
+    "image": "images/caroline-wave-cannon-mkii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Distortion\nhttp://www.carolineguitar.com/portfolio/wave_cannon/",
+    "hrid": "caroline-wave-cannon-mkii"
+}

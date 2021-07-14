@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14523",
+    "name": "DI400P",
+    "image": "images/behringer-di400p.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "Pedal is passive",
+    "cost": "$30 Price in €",
+    "width": 119,
+    "height": 66,
+    "details": "Professional and multi-purpose direct injection box for stage and studio applications\nProvides impedance and signal matching for the direct connection of instruments to mixers and amplifiers\nUltra-flat frequency response due to renowned BEHRINGER OT-2 transformer\nhttps://www.amazon.com/Behringer-DI400P-BEHRINGER-ULTRA-DI/dp/B000KUA8G6",
+    "hrid": "behringer-di400p"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16144",
+    "name": "PS-2",
+    "image": "images/boss-ps-2.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Digital Pitch Shifter/DelayThe PS-2 was the first pitch shifter made by Boss and one of the first pedals with dual boards. It works both as a pitch shifter and a digital delay and it is perhaps surprising that it doesn’t use the same chip as the DD-3 and DSD-3. Pitch shifting is limited to one octave up or down while maximum delay time is 2 seconds.\nThe earliest PS-2s suffered from high frequency noise. This was alleviated from serial number 845800 but earlier units can be modified to the later specification by changing 3 capacitors. Production was moved from Japan to Taiwan early 1992.\nThe PS-2 has a total of 6 different modes\nUp to 125 ms delay\nUp to 500 ms delay\nUp to 2 seconds delay\nSet pitch shift manually\n+1 octave\n-1 octave\nSpecifications\nControls: Balance (between effect in direct signal), Feedback (for amount of repeats, and very unique pitch shifting effects), Fine-Manual (for adjusting delay times and pitch) and Mode (for selecting any of the 6 modes).\nConnectors: Input, Output, Tuner Out (for plugging into a tuner), AC Adaptor\nCurrent Draw: 60 mA (DC 9V)\nWeight: 460g/1.01 lbs.\nInput Impedance: 1Mohm\nResidual Noise Level: -90dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nDelay Time: 30ms to 2000ms\nFrequency Response: 10Hz to 30kHz, +1/-3dB (Direct)\nRecommended AC Adaptor: PSA Series\nThe PS-2 was sold from October 1987 to March 1994.\nhttp://www.bossarea.com/boss-ps-2-digital-pitch-shifter-delay/",
+    "hrid": "boss-ps-2"
+}

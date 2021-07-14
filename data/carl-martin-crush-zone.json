@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18601",
+    "name": "Crush Zone",
+    "image": "images/carl-martin-crush-zone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 170,
+    "height": 115,
+    "details": "DistortionA vintage style, high-gain/distortion pedal using the same high quality components as its' Carl Martin cousins, the 'Crush Zone' provides everything from a slight edge to your tone, to mind-blowing distortion. Adjust the cool chicken-head knobs for level and distortion, and then refine your sound using the tone control. Crush Zone is housed in heavy die cast case with 9 volt battery compartment and heavy-duty bypass switching.",
+    "hrid": "carl-martin-crush-zone"
+}

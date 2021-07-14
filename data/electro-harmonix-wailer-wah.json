@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18582",
+    "name": "Wailer Wah",
+    "image": "images/electro-harmonix-wailer-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$77 Price in €",
+    "width": 87,
+    "height": 252,
+    "details": "WahThe Wailer Wah features the great sound and tone of the award winning Crying Tone Wah in a rugged, lightweight pedal and with a traditional rack and pinion style operating mechanism. It's also extremely affordable!\nhttps://www.ehx.com/products/wailer-wah",
+    "hrid": "electro-harmonix-wailer-wah"
+}

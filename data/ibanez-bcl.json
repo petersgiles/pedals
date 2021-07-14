@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12099",
+    "name": "BCL",
+    "image": "images/ibanez-bcl.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Bi-Mode Analog Chorus Japan (like BC9)\"This unique pedal allows you to play two different chorus effects simultaneously. The effect has speed and width controls for each side and inverted stereo outs. It was made for only one year way back in 1985.\"\n\"Pedal can be used mono or stereo. Separate speed and band width controls for each output, allowing two separate settings to be played at one time, through the same amp, or through two separate amps.\"",
+    "hrid": "ibanez-bcl"
+}

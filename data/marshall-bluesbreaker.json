@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15959",
+    "name": "Bluesbreaker",
+    "image": "images/marshall-bluesbreaker.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 110,
+    "height": 147,
+    "details": "Overdrive",
+    "hrid": "marshall-bluesbreaker"
+}

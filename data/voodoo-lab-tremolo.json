@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19849",
+    "name": "Tremolo",
+    "image": "images/voodoo-lab-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$156 Price in €",
+    "width": 107,
+    "height": 81,
+    "details": "Tremolo with level controlThe Voodoo Lab Tremolo re-creates the buttery, seductive tone of a vintage tube amp tremolo. This is accomplished by using the same lamp and photocell assembly found in many popular vintage amps.\nThis pedal also features a slope control which lets you adjust the feel from a traditional soothing tremolo to a hard “machine-gun” stutter. Speed and intensity controls provide a wide range to include very slow and deep sounds. A volume control lets you cut or boost the output level. Now you can add warm, mind-bending trem vibes to any amp with the most versatile tremolo available\nhttp://www.voodoolab.com/tremolo.htm",
+    "hrid": "voodoo-lab-tremolo"
+}

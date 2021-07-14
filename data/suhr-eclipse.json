@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11437",
+    "name": "Eclipse",
+    "image": "images/suhr-eclipse.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Suhr",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 124,
+    "height": 98,
+    "details": "",
+    "hrid": "suhr-eclipse"
+}

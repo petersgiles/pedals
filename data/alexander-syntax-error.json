@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13277",
+    "name": "Syntax Error",
+    "image": "images/alexander-syntax-error.jpg",
+    "function": [
+        "Synth Voice",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Synth MadnessNothing can destroy signals like the oldest digital stuff can. Back before folks really figured out digital technology, it was full of bugs and chirps that oftentimes messed everything up, but the glitches and funkiness were music to the ears of budding musicians. Who among us remembers dirty game cartridges corrupting the audio of our old games? Now that power is in your hands, along with much, much more. Enter: the Syntax Error from Alexander.\nThe Syntax Error manipulates and mangles your signal in a variety of ways across four modes. With four modes and four knobs (plus two bonus knobs) tuned to provide maximum destruction, there aren’t too many glitch tones unavailable. Of the six knobs, three of them are mode-specific, with a Sample control changing the sample rate of the signal (think: a “digitizer” control) and a Mix knob to control the volume of the wet signal. Holding the mode switch and turning the Mix control gives you a Volume knob, or, the “level” of the dry signal.\nThe four modes:\nStretch: This mode samples the incoming signal data and dumps it into a buffer, repeating it. Using the Code, Bonus and Tweak knobs, you can set the length of the buffer, the sample playback clock and the feedback of the sample.\nCube: Cube mode funnels your signal into a distortion algorithm of |(x3)3| for maximum angular crunch. The mode-specific controls govern gain, low-pass filtering and filter resonance, for some hearty squelch and throatiness to go along with your dirt.\nRing: Ring modulator meets sample-and-hold filter! In this mode, the knobs control the rate and depth of the sample-and-hold, while the third knob controls the overall EQ of the wet signal.\nFreq: This mode shifts the input frequency by a set amount, which is set by the Code knob. After that’s set, the two remaining knobs alter the feedback and the time delay of the feedback, which really breaks the algorithm and introduces comb-filter style action into the mix.\nYou can control any of the knobs simultaneously with an expression pedal, including customizable toe-and-heel down settings. The same expression port also accommodates a footswitch to allow the use of a preset. Holding down the Select switch while powering on gives you a host of extra features, with everything from expression select to ramping and even LED brightness. Truly, low and high-tech have met under the umbrella of the Syntax Error.\nhttps://www.alexanderpedals.com/shop/syntax-error",
+    "hrid": "alexander-syntax-error"
+}

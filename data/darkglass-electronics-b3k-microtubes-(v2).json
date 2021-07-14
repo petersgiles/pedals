@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17313",
+    "name": "B3K Microtubes (V2)",
+    "image": "images/darkglass-electronics-b3k-microtubes-(v2).jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$230 Price in €",
+    "width": 75,
+    "height": 113,
+    "details": "Bass OverdriveWith the Microtubes B3K v2 you get all the features of the original, with the ability to restore the mids for natural character. The attack switch has been replaced by the tone knob, giving much more control of the higher harmonic content (3 kHz to 8 kHz). The grunt switch is still present, as you would expect. The addition comes in the form of a mid boost, giving you a subtle 6dB boost from 300 Hz to 1 kHz to help you cut through a bit more. \nFundamentally the Microtubes B3K is the same pedal we designed nearly a decade ago, aimed to give you a perfect combination of brutality and clarity. You can guarantee that this pedal will deliver defined and powerful saturation in an intuitive format.\nhttps://www.darkglass.com/creations/microtubes-b3k-v2/",
+    "hrid": "darkglass-electronics-b3k-microtubes-(v2)"
+}

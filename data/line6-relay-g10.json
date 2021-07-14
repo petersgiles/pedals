@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17050",
+    "name": "Relay G10",
+    "image": "images/line6-relay-g10.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 98,
+    "height": 98,
+    "details": "",
+    "hrid": "line6-relay-g10"
+}

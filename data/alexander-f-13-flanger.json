@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14507",
+    "name": "F-13 Flanger",
+    "image": "images/alexander-f-13-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "",
+    "hrid": "alexander-f-13-flanger"
+}

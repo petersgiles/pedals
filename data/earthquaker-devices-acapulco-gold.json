@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12662",
+    "name": "Acapulco Gold",
+    "image": "images/earthquaker-devices-acapulco-gold.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "18 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Power Amp DistortionHey there, treasure hunters! The Acapulco Gold is a dirt-simple distortion Device based on the power section of a cranked vintage Sunn Model T, bringing the openness, clarity, and crunch that only a dimed tube amp can provide, at a fraction of the size, and without expensive maintenance costs!\nSince tone is in the hands, we decided to keep the controls of the Acapulco Gold as simple as possible. The footswitch turns the pedal on and off, and the giant knob controls the output volume. That's it. The rest is at your fingertips. Want less gain? Turn down your guitar's volume knob. Need a darker rhythm tone? Roll back your guitar's tone control. Easy, right?\nWith your guitar’s volume all the way up, the Acapulco Gold roars like a wide-open Model T on the verge of explosion. At just-barely-backed-off, the Gold becomes a raunchy overdrive. At minimum guitar volume settings, the Acapulco Gold delivers a hazy, Nashville-sounding spank to your tone.\nHow about this? If your guitar has separate volume and tone controls for each pickup and a three-way selector switch, this little one-knob banger becomes a three-channel tone monster at the flick of your wrist!\nThe Acapulco Gold is all-analog, true bypass, and built one-at-a-time by a wandering expedition of prospectors and speculators in dusty Akron, Ohio, USA – the hamburger capital of the world.\nThe Acapulco Gold uses silent, relay-based soft-touch switching. Audio will not pass without power.\nhttps://www.earthquakerdevices.com/acapulco-gold/",
+    "hrid": "earthquaker-devices-acapulco-gold"
+}

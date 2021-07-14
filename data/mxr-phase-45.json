@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22412",
+    "name": "Phase 45",
+    "image": "images/mxr-phase-45.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 60,
+    "height": 108,
+    "details": "Phaser",
+    "hrid": "mxr-phase-45"
+}

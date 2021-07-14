@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14846",
+    "name": "Verb Square",
+    "image": "images/donner-verb-square.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Digital reverb\n7-Mode Effects: Room, Hall, Church, Spring, Plate, Studio and Mod.\nDigital circuit design, true bypass provide transparent tone.\nWhole Aluminium-alloy classic, stable and strong.\nLED indicator shows the working state.\nDC 9V Adapter power supply.\n\nhttps://www.donnerdeal.com/collections/guitar-pedal/products/donner-blues-drive-overdrive-guitar-effect-pedal-true-bypass",
+    "hrid": "donner-verb-square"
+}

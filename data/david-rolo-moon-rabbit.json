@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26200",
+    "name": "Moon Rabbit",
+    "image": "images/david-rolo-moon-rabbit.jpg",
+    "function": [
+        "Filter",
+        "Phase Shifter"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "? mA / 9 V / DC",
+    "cost": "$258 Price in €",
+    "width": 93,
+    "height": 114,
+    "details": "6-stage optical phaser with tap tempo and envelope functionsThe Moon Rabbit is a 6 stage optical phaser with tap tempo and an envelope follower.\nThe 6 analog phase stages are voiced halfway between a Uni-Vibe type pedal (staggered phase filter caps) and a more traditional phaser (identical phase filter caps).\nIt has 8 available LFO shapes and an expression pedal input that can be assigned to control the rate or the range of the phasing.\nhttp://www.drolofx.com/product/moon-rabbit-tap-tempo-envelope-phaser/",
+    "hrid": "david-rolo-moon-rabbit"
+}

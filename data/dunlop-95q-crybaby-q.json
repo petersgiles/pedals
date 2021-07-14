@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18804",
+    "name": "95Q Crybaby Q",
+    "image": "images/dunlop-95q-crybaby-q.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$174 Price in €",
+    "width": 122,
+    "height": 279,
+    "details": "Q control wah with auto-return switchingWe've taken the original Cry Baby Wah and added three of our most popular upgrades: the famous Q Control, which varies the intensity of the wah effect by adjusting the effect's bandpass shape; Volume Boost, for up to +15dB added gain; and our Auto-Return function that automatically engages the effect when you place your foot on the pedal. It all adds up to a versatile, great sounding wah.\nhttps://www.jimdunlop.com/product/95q-7-10137-01766-5.do",
+    "hrid": "dunlop-95q-crybaby-q"
+}

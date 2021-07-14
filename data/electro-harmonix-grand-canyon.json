@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19091",
+    "name": "Grand Canyon",
+    "image": "images/electro-harmonix-grand-canyon.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "150 mA / 9 V / DC",
+    "cost": "$271 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Delay & LooperThe Grand Canyon is EHX’s most advanced multifunction delay and looper pedal. It’s equipped with 12 effect types plus a fully featured looper capable of recording and overdubbing the Grand Canyon’s effects. \nThe pedal provides superior sound quality, up to three seconds of delay time, tap tempo and nine tap divide settings, stereo output, 13 presets, programmable EXP pedal settings, high quality analog bypass with soft switching and more. The Grand Canyon’s 13 modes are:\n\nECHO – pristine 24-bit digital delay with available bit crush/sample rate reduction and low/high pass filtering\nMOD – Modulated delay, yields rich flanger, chorus, vibrato, warble and more\nMULTI – Multi-tap delay, set the exact number of echo repeats up to 31. Includes adjustable swell or decay volume envelopes on repeats.\nREVERSE – Reverse delay, an easy-to-use reverse delay with an intelligent pick detection algorithm for great sounding reverse echoes\nDMM – Deluxe Memory Man, re-creates the luscious tone of EHX ‘s legendary bucket-brigade delay pedal\nTAPE – Tape Delay, simulates the organic sound of an analog tape, echo machine including tape distortion, wow and flutter\nREVERB – Plate reverb plus echo. A reverberant echo where each repeat is followed by a wash of gorgeous plate reverb. Can also be used as a pure reverb without the delay\nPITCH – EHX’s critically acclaimed polyphonic pitch shifting plus digital delay provides pitch-shifted echoes and cascading echo repeats\n\n9.SHIM – Shimmer generates a rich octave-shifted wash of shimmering soundscapes \n\nSAMPLE/HOLD – Sample and hold, senses a note being played and produces echoes indefinitely until another note is detected\nDRUM – Magnetic drum echo that faithfully emulates a classic Binson Echorec® style delay. Features an assortment of playback head configurations that let you create musical, rhythmic, echo patterns\nDOUBLE – Thickens up a mono signal or creates a stereo spread. Includes detune and delay time offset of the left and right outputs\nLOOPER – Looper with up to 16 minutes of recording time. Includes unlimited overdubs, undo/redo, dedicated stop button, loop fade-out, reverse and speed adjust.\n\nhttps://www.ehx.com/products/grand-canyon",
+    "hrid": "electro-harmonix-grand-canyon"
+}

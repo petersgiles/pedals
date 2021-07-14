@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17578",
+    "name": "Ernie Ball EB6180 VP-JR",
+    "image": "images/ernie-ball-ernie-ball-eb6180-vp-jr.jpg",
+    "function": [
+        "Tuner",
+        "Volume"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$106 Price in €",
+    "width": 90,
+    "height": 255,
+    "details": "Volume pedal\nhttps://www.thomann.de/fr/ernie_ball_vpjr_volumepedal.htm",
+    "hrid": "ernie-ball-ernie-ball-eb6180-vp-jr"
+}

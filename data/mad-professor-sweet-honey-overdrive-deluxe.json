@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31954",
+    "name": "Sweet Honey Overdrive Deluxe",
+    "image": "images/mad-professor-sweet-honey-overdrive-deluxe.jpg",
+    "function": [],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$184 Price in €",
+    "width": 69,
+    "height": 110,
+    "details": "Updated version of the famed original",
+    "hrid": "mad-professor-sweet-honey-overdrive-deluxe"
+}

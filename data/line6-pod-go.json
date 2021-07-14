@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28995",
+    "name": "Pod GO",
+    "image": "images/line6-pod-go.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "2500 mA / 9 V / DC / Negative Center",
+    "cost": "$504 Price in €",
+    "width": 358,
+    "height": 231,
+    "details": "Multi-effect PedalOver 300 effects and models from the Helix series, M series and Legacy series\nUp to 6 amplifier, speaker and effect models at the same time\nIncludes looper and loudspeaker simulations (Third-Party IR loading)\nIntegrated expression pedal\nCompact and light design\nFree POD Go Edit app\nControls: Interval, Cents, Delay, Shiftlevel, Mix, Menu, Save, Volume\nFoot switch: Up, Down, A, B, C, D, Mode, Tap / Tuner\nLED: 8 Footswitch effects\nDisplay: 4.3\" Colour LCD\nGuitar input: 6.3 mm jack\nEXP 2/Footswitch connection: 6.3 mm stereo\nSend & Return: 2x 6.3 mm jack\nMain output Left & Right: 6.3 mm jack\nAmp output: 6.3 mm jack\nHeadphone jack: 6.3 mm jack\nUSB Type-B\nAC adapter connector: Hollow plug socket 5.5 x 2.1 mm, negative pole inside\nCurrent consumption: 2500 mA\nPower supply via 9 V DC power adapter (included in delivery)\n\nhttps://line6.com/podgo/",
+    "hrid": "line6-pod-go"
+}

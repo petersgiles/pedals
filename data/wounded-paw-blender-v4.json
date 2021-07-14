@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33528",
+    "name": "Blender V4",
+    "image": "images/wounded-paw-blender-v4.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Wounded Paw",
+    "current": "280 mA / 9 V / DC / Negative Center",
+    "cost": "$325 Price in €",
+    "width": 221,
+    "height": 145,
+    "details": "Mix 4 different effects or clean signal together in high fidelity and turn them on and off individually.The Blender V4 has 4 parallel effects loops channels with individual stomp switches to select any combination of channels. And each channel has it's own volume control which sets the level sent to the Blender's output, like a mixing console.\nThe Blender V4 now has a selectable high pass filter on channel B to roll off the low end on the returns of the effects loops. This can be especially useful for bass players who want to use the clean channel to keep the low end clear and an effects loop to add distortion on the higher registers. The HPF toggle switches go from no roll off, roll off at 100Hz, or roll off at 250Hz.\nEach channel will default to a clean channel if nothing is plugged into it's return jack with the dry instrument signal sent through to the output.\nChannel A has a Baxandall type tone section: bass and treble controls with boost and cut. The tone section comes after the effects loop so it acts on the return signal.\nLoops C & D have a rotary switch to go from parallel to series with C feeding into D or D feeding into C.\nPhase switches on loops B, C, and D to compensate for effects pedals which flip the signal phase on their output.\nChannel C has a feedback control to send signal from the effects loop return straight back to the send. This feedback option can send delay pedals into infinite repeats and other craziness and some distortion pedals will make drone noises or other strangeness.\nThe Blender V4 also has the ability to change the bypass settings for each effects loop. When the individual effects loop is turned off a toggle switch allows you to select what gets sent from that effects loop to the Blender's output: either the return of the pedal in the effects loop (to allow trails of delay type pedals to continue), a clean instrument signal, or nothing (muted). One major advantage of this set up is to allow the total signal level sent to the final output of the Blender V4 to remain constant when the various effects loops are bypassed but also allow massive flexibility in shaping your sound and changing it on the fly.\nOPTIONS:\nThe Silent Switch True Bypass replaces the main bypass stomp switch with a silent soft-touch momentary switch and true bypass relay switching.\nThe Remote Bypass Switch uses the same Silent Switch True Bypass option above and adds a remote switch box on a standard 1/4\" cable to allow you to put the main bypass switch almost anywhere. Useful for crowded pedal boards I would think.\nInstruction Manual pdf\nTrue bypass stomp switch to turn the entire unit on/off.\nHeavy duty 8.7\" x 5.7\" x 2.1\" Hammond aluminum enclosure\nCan use DC adaptors from 9 to 18 volts, with a tip negative jack. Standard pedal adaptors like Boss PSA, Godlyke Powerall, Onespot. The voltage doesn't change the Blender V4's operation at all as long as it gets enough current.\nCurrent draw: 280mA\nInput impedance: 500kΩ\nOutput impedance: 150Ω (at 1KHz)\nhttps://www.woundedpawaudio.ca/fx/index.php?main_page=product_info&cPath=2&products_id=13&zenid=7e4vc350nta3vsto1uvt2begt4",
+    "hrid": "wounded-paw-blender-v4"
+}

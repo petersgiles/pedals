@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14300",
+    "name": "Fender PT-100 Pedal Tuner",
+    "image": "images/fender-fender-pt-100-pedal-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 78,
+    "height": 129,
+    "details": "Fender PT-100 Pedal TunerThe Fender PT-100 Pedal Tuner has an easy-to-read LED note indicator. Its flat/sharp LEDs makes onstage tuning fast and foolproof. Dual outputs and on/off indicator. Fender quality, Rugged die-cast case and pro-grade accuracy make the PT-100 Pedal Tuner the one for you. Dual outputs: one sends signal constantly, one mutes when you hit the pedal so you can tune silently.",
+    "hrid": "fender-fender-pt-100-pedal-tuner"
+}

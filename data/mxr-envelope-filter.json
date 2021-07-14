@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28585",
+    "name": "Envelope Filter",
+    "image": "images/mxr-envelope-filter.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 9 V / DC",
+    "cost": "$108 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Envelope Filter from the 70sWonderful syrupy vintage tone, with simple controls yet humongous sweet spot.\nWorks equally well with guitars, bass and Rhodes piano.",
+    "hrid": "mxr-envelope-filter"
+}

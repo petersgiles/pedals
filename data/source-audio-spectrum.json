@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26341",
+    "name": "Spectrum",
+    "image": "images/source-audio-spectrum.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Filter"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "195 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 69,
+    "height": 118,
+    "details": "Intelligent envelope filterThe Spectrum Intelligent Filter was designed with special attention given to the simple plug-and-play experience. Right out of the box the Spectrum offers easy access to tones inspired by some of the most iconic and difficult to find envelope filters effects pedals on the market. It also offers synth-like tones comprised of distorted octave and envelope phaser sounds. Because of the pedal's ALT button, the Spectrum's four knob control surface actually offers access to eight different parameters. Use the Spectrum's Input Gain, Sensitivity and Speed controls to dial in the perfect envelope response for your needs. Maybe you like a slow and smooth envelope movement while you really dig-in on the strings, or possibly you want a quick moving filter that responds to light picking - either way is achievable with the Spectrum.​ The Frequency, Resonance, Depth and Mix controls provide fine control over the color and character of your filter effects. Whatever your needs, the Spectrum is the most comprehensive filter effects pedal available.\nhttps://www.sourceaudio.net/video-spectrum-intelligent-filter-official-demo.html",
+    "hrid": "source-audio-spectrum"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12153",
+    "name": "S3N Super Flutter V2",
+    "image": "images/s3n-s3n-super-flutter-v2.jpg",
+    "function": [
+        "Sampling",
+        "Digital Glitch"
+    ],
+    "manufacturer": "S3N",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 140,
+    "height": 120,
+    "details": "Japanese Stutter Glitch Pedal",
+    "hrid": "s3n-s3n-super-flutter-v2"
+}

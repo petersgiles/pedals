@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12785",
+    "name": "GEB-7 Bass Equalizer",
+    "image": "images/boss-geb-7-bass-equalizer.jpg",
+    "function": [
+        "Bass",
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "50Hz to 10kHz frequency range specifically designed for bass\nFull range response, even for five- and six-string basses\nCan be used as a \"boost\" or \"cut\" pedal using the level control knob\nGreat for eletric-acoustic bass applications\nAC adaptor or 9V battery operation\nBOSS five-year warranty\nhttps://www.boss.info/us/products/geb-7/",
+    "hrid": "boss-geb-7-bass-equalizer"
+}

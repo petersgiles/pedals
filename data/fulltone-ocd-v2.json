@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16499",
+    "name": "OCD v2",
+    "image": "images/fulltone-ocd-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 115,
+    "details": "",
+    "hrid": "fulltone-ocd-v2"
+}

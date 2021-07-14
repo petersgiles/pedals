@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17388",
+    "name": "Boss FV-30H",
+    "image": "images/boss-boss-fv-30h.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 80,
+    "height": 192,
+    "details": "Volume pedalThe FV-30H and FV-30L are compact foot volume pedals with kickin’ new designs. They’ve been specially created for saving space on your pedalboard while maintaining the trusted BOSS standard for sound quality, reliability, and durability. These pedals are 100-percent professional grade, aluminum die-cast units, and feature smooth pivot action that supports subtle changes in volume control. Thanks to their small size, the FV-30H and FV-30L offer a huge advantage for traveling musicians and gigging players who need to maximize pedalboard space.\nAs with the other models in the FV series, two different pedal versions allow you to choose the best type for your specific application:\nFV-30H—A high-impedance pedal (with dedicated tuner output) that’s best for connecting directly to an electric guitar or bass.\nFV-30L—A low-impedance pedal equipped with stereo input/output for stompboxes, keyboards, and other digital instruments.\nhttps://www.boss.info/us/products/fv-30h_30l/",
+    "hrid": "boss-boss-fv-30h"
+}

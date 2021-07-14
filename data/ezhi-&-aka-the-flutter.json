@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12090",
+    "name": "The Flutter",
+    "image": "images/ezhi-&-aka-the-flutter.jpg",
+    "function": [
+        "Chorus",
+        "Filter",
+        "Multieffect",
+        "Tremolo",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Ezhi & Aka",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 90,
+    "height": 80,
+    "details": "The Flutter is a lo-fi flutter/vibrato/tapestop pedal controlled via non-linear strange IR sensor. It features a clean blend for very unusual chorus sounds and a low gritty fuzz mode. The IR sensor works nice both in light and in complete darkness. The sensor allows you to manipulate the pitch of your sounds creating different effects – from a slight flutter to heavy tapestops and crazy wobble.\nhttp://ezhiandaka.ru",
+    "hrid": "ezhi-&-aka-the-flutter"
+}

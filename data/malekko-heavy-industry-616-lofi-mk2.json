@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21260",
+    "name": "616 Lofi Mk2",
+    "image": "images/malekko-heavy-industry-616-lofi-mk2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 114,
+    "details": "Lofi Analog Delay and Vibrato",
+    "hrid": "malekko-heavy-industry-616-lofi-mk2"
+}

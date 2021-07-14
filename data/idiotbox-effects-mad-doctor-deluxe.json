@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32569",
+    "name": "Mad Doctor Deluxe",
+    "image": "images/idiotbox-effects-mad-doctor-deluxe.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$159 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Insane stutter / tremoloThis super cool tremolo utilizing the Electric Druid StompLFO takes the original Mad Doctor Stutter to the ultimate level!\nIt has the typical DEPTH, SPEED and VOLUME controls, but the SHAPE control will change the effect pattern! Going clockwise the patterns are: ramp up, ramp down, square pulse, triangle, sine, sweep, random levels and random slope. The left foot switch activates the effect, the right switch is for tap tempo. There are also EXPression control and control voltage (CV) IN and OUT options.\nhttps://www.idiotboxeffects.com/product/mad-doctor-deluxe",
+    "hrid": "idiotbox-effects-mad-doctor-deluxe"
+}

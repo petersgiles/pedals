@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16528",
+    "name": "RMI Basswitch IQ DI",
+    "image": "images/lehle-rmi-basswitch-iq-di.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Equalizer",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$600 Price in €",
+    "width": 220,
+    "height": 162,
+    "details": "http://lehle.com/ES/RMI-Basswitch-IQ-DI",
+    "hrid": "lehle-rmi-basswitch-iq-di"
+}

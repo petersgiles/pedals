@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21075",
+    "name": "Tre-Verb",
+    "image": "images/fender-tre-verb.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "Digital Reverb/TremoloThere’s no mistaking the sound of genuine Fender amp Tremolo and Reverb. These lush, dynamic amp effects inspired entire genres of music. The Tre-Verb pedal places independent Tremolo and Reverb effects at your feet in a compact, easy-to-use pedal. We included classic reverb voicings based on our renowned spring reverb units from 1963 and 1965 and multiple tremolo modes to make sure you can get the exact sound you need for your music. A full suite of tone-shaping controls, including tap tempo for the tremolo effect, make this pedal sonically flexible, while the stereo inputs and outputs ensure it’s easy to connect to any pedalboard or amp.\nhttps://shop.fender.com/en-US/effects-pedals/tre-verb-digital-reverbtremolo/0234541000.html",
+    "hrid": "fender-tre-verb"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29842",
+    "name": "Analog Chorus",
+    "image": "images/voodoo-lab-analog-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$162 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "analog chorus\nhttp://voodoolab.com/chorus.htm",
+    "hrid": "voodoo-lab-analog-chorus"
+}

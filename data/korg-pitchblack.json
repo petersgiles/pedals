@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11658",
+    "name": "Pitchblack",
+    "image": "images/korg-pitchblack.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 68,
+    "height": 120,
+    "details": "Tuner\nwww.korg.com/us/products/tuners/pitchblack/",
+    "hrid": "korg-pitchblack"
+}

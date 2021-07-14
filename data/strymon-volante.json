@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20526",
+    "name": "Volante",
+    "image": "images/strymon-volante.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "Strymon",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 177,
+    "height": 114,
+    "details": "Magnetic Echo Machine\nhttps://www.strymon.net/products/volante/",
+    "hrid": "strymon-volante"
+}

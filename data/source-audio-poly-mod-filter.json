@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14860",
+    "name": "Poly-Mod Filter",
+    "image": "images/source-audio-poly-mod-filter.jpg",
+    "function": [
+        "Equalizer",
+        "Filter",
+        "MIDI",
+        "Wah"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$258 Price in €",
+    "width": 152,
+    "height": 178,
+    "details": "multifunction envelope filter and wah",
+    "hrid": "source-audio-poly-mod-filter"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13759",
+    "name": "Analog Chorus",
+    "image": "images/joyo-analog-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$43 Price in €",
+    "width": 67,
+    "height": 117,
+    "details": "The Joyo JF-37 Analog Chorus pedal uses an BBD chip to give you the classic analog chorus sound and accurate reproduction.\nAnalog Chorus can expand your musical horizon, when it comes to original tones.\nRate and Depth knobs let you adjust chorus speed and depth.\nTrue bypass design is used to minimise tone loss.\nSimple design and a sturdy casing.\nhttps://www.aliexpress.com/item/JOYO-JF-37-analog-chorus-modulation-Electric-Guitarra-Violao-Guitar-effect-pedal-ture-bypass-free-shipping/32248801099.html",
+    "hrid": "joyo-analog-chorus"
+}

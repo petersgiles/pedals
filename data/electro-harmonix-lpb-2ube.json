@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13654",
+    "name": "LPB-2ube",
+    "image": "images/electro-harmonix-lpb-2ube.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Tube",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "1000 mA / 12 V / AC",
+    "cost": "$280 Price in €",
+    "width": 160,
+    "height": 270,
+    "details": "Tube preamp",
+    "hrid": "electro-harmonix-lpb-2ube"
+}

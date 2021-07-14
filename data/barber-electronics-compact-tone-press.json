@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12387",
+    "name": "Compact Tone Press",
+    "image": "images/barber-electronics-compact-tone-press.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Barber Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 70,
+    "height": 126,
+    "details": "Barber Electronics Compressor\nhttp://www.barberelectronics.com/CompactTonePress.html",
+    "hrid": "barber-electronics-compact-tone-press"
+}

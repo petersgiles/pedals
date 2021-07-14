@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14843",
+    "name": "Dirty Robot",
+    "image": "images/digitech-dirty-robot.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Synth Voice"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 112,
+    "details": "Stereo Polyphonic Guitar Synth\nhttps://digitech.com/en-US/products/dirtyrobot",
+    "hrid": "digitech-dirty-robot"
+}

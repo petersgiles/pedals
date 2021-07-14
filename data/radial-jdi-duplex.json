@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31815",
+    "name": "JDI Duplex",
+    "image": "images/radial-jdi-duplex.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "Pedal is passive",
+    "cost": "$324 Price in €",
+    "width": 160,
+    "height": 127,
+    "details": "Passive DI BoxJensen transformer equipped passive DI\nEliminates hum and buzz from ground loops\n1/4″, 3.5mm, RCA, and XLR inputs to connect to any source\nExceptional signal handling and noise rejection\nhttps://www.radialeng.com/product/jdi-duplex",
+    "hrid": "radial-jdi-duplex"
+}

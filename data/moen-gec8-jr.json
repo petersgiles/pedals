@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15445",
+    "name": "GEC8 Jr",
+    "image": "images/moen-gec8-jr.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Moen",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$202 Price in €",
+    "width": 480,
+    "height": 60,
+    "details": "Switcher",
+    "hrid": "moen-gec8-jr"
+}

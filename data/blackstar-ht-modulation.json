@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19621",
+    "name": "HT-MODULATION",
+    "image": "images/blackstar-ht-modulation.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 119,
+    "details": "Tube Modulation PedalA Pedalboard's Worth of Modulation Effects in One Slick Stompbox\nThe Blackstar HT-Modulation packs a ton of value into your pedalboard. True to Blackstar's dedication to classic analog tone, the genuine tube design provides great vintage-style modulation effects without sounding dated. With eight effect types including Chorus, Tremolo, Rotary, Flanger, and Phaser, you have all your modulation needs taken care of. Speed, Feedback, and Level controls won't surprise anyone, but the Slow/Fast toggle switch is a fantastic addition that is not found on many other effects pedals. And in the spirit of giving you more than you knew you even wanted, the HT-Modulation's Saturation control lets you take advantage of the tube design by adding real tube compression and harmonics!",
+    "hrid": "blackstar-ht-modulation"
+}

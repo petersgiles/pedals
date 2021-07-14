@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25759",
+    "name": "D1 Delay",
+    "image": "images/walrus-audio-d1-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "High Fidelity Stereo DelayMAKO Series stereo delay, tap tempo, MIDI\nThe first in the Mako series, the D1 is a powerful multi-function delay with five, studio grade, high-fidelity, custom tuned programs. The programs are Digital, Mod, Vintage, Dual and Reverse. Each can be tuned and tweaked with modulation, tone, age, and subdivisions. The attack knob adds another dynamic to each program, opening up a new world for creating soundscapes. The D1 boasts stereo in and out, midi control and on-board presets. A workhorse of a delay that is just as ready for the road as it is the studio.\nhttps://www.walrusaudio.com/collections/delay-reverb/products/mako-series-d1-high-fidelity-stereo-delay",
+    "hrid": "walrus-audio-d1-delay"
+}

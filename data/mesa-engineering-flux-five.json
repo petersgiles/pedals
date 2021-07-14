@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17137",
+    "name": "Flux Five",
+    "image": "images/mesa-engineering-flux-five.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 147,
+    "height": 121,
+    "details": "OverdriveThe FLUX-FIVE™ adds our classic Five Band Graphic EQ and footswitchable HI/LO performance Modes, featuring separate OUTPUT LEVEL controls to the already versatile FLUX-DRIVE™ package for increased tone shaping power and enhanced stylistic versatility.\nThe reception for the FLUX-DRIVE’s fat, smooth, expressive gain has been outstanding among Artists and players alike. With critical praise from around the globe, it was an obvious recipient for the enhanced power of our Five-Band EQ. The FLUX-FIVE overdrive is a supercharged version of our popular FLUX-DRIVE that features a “shrunk-to-size” version of our classic Boogie; Five-Band Graphic EQ and new added versatility thanks to footswitchable HI/LO performance Modes. The LO Gain Mode is the original FLUX-DRIVE in every way and now, on this wider platform, a new higher gain version of this soulful sound appears in the HI Mode. The Graphic EQ allows the popular “V-Curve” EQ setting to be applied to its layers of thick gain - creating a huge, wide Heavy Rock or Metal sound that still retains the FLUX’s warm character. The original TREBLE and BASS rotary EQ controls can be used to dial in global enhancements and the combination of the two EQ styles produces signature sounds for any genre.\nThe Graphic EQ can be applied to both HI and LO Gain Modes enabling you to have a global EQ curve or apply it to either gain Mode separately to have two “preset” sounds with different EQ shapes and gain signatures to switch between. A HI TRIM pot allows the volume level of HI to be adjusted in relation to the original LO (FLUX-DRIVE) Mode. However you choose to utilize all this potential, the warm rich FLUX-FIVE overdrive is sure to inspire you and bring out your best.\nhttps://www.mesaboogie.com/pedals--related/drive-pedals/flux-five.html",
+    "hrid": "mesa-engineering-flux-five"
+}

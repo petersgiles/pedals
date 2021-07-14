@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24287",
+    "name": "Billy Sheehan Ultimate Signature Drive",
+    "image": "images/ebs-billy-sheehan-ultimate-signature-drive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 103,
+    "height": 83,
+    "details": "Bass Overdrive",
+    "hrid": "ebs-billy-sheehan-ultimate-signature-drive"
+}

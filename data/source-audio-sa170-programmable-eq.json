@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12697",
+    "name": "SA170 Programmable EQ",
+    "image": "images/source-audio-sa170-programmable-eq.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer",
+        "MIDI"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 70,
+    "height": 122,
+    "details": "Programmable 7 Band EQ with Auto-ScrollThe Source Audio Programmable EQ is a thoroughly modern and highly streamlined upgrade to traditional equalizer pedals. This compact, rugged, cast aluminum stompbox provides quick, hands-free access to four different user programmed EQ settings. Whatever your instrument, playing style, or genre, the Source Audio Programmable EQ is the essential tone-sculpting tool for your live rig.\nThe Programmable EQ packs plus or minus 18dB of range over seven frequency bands, plus an additional frequency band at 62Hz, accessible via the Octave Extend function. Engaging the Octave Extend systematically’optimizes the pedal’s frequency spectrum to accommodate the specific frequency range of the bass. Once you?ve dialed in the desired guitar or bass tone, save it in one of four programmable user presets. Each preset is easily accessible via the hands-free footswitch scrolling function. Simply hold down the footswitch and let the pedal scroll through each preset at an adjustable rate — release to engage. The pedal’s MIDI input also provides remote access for switching presets, controlling parameters, and engaging/bypassing the effect. Run a MIDI signal from your Source Audio Soleman, Disaster Area DMC, Voodoo Lab Ground Control, or any other MIDI controller, and vastly expand your tone horizon within each preset.\nThe Programmable EQ offers a substantial clean boost of up to 12dB. Use the clean boost for an entirely transparent volume increase or go further and give your amp the front-end push needed for an aggressive natural break-up. The Universal Bypass feature offers both relay-based true bypass, and buffered analog bypass. Relay-based true bypass provides a completely unaffected hardwire signal in bypass mode, while buffered analog bypass uses analog switching and provides a consistent input impedance and buffered output. As a bonus, the Auto-scrolling function, which automatically scrolls between all four presets at an adjustable rate, creates unique and dramatic effects similar to sequencer or tremolo units.\nhttp://www.sourceaudio.net/products/toolblox/programmable_eq.php",
+    "hrid": "source-audio-sa170-programmable-eq"
+}

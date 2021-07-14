@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12658",
+    "name": "Endeavors - Dark Star",
+    "image": "images/old-blood-noise-endeavors---dark-star.jpg",
+    "function": [
+        "Delay",
+        "Pitch Shifter",
+        "Reverb"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Dark Star Pad ReverbThere's a gentle hum, a soft light somewhere in the darkness.  And it grows.  A little hope that you're not the only one in a vast universe.  Isolated, alone and dying.  When there's truly nothing making noise, what do you hear?  Is it nothing?  Or is it the softness, the growing of a voice that resides below the normal hum and frequency of the universe.  The voice of the Dark Star.\nThe Dark Star is what we would use to create long reverberated pads.  The noises underneath the lead.  The mood setter.  That's the Dark Star.  The way a song feels.  That's because of the Dark Star.\nAt its heart, the Dark Star is a Reverb.  Then the Reverb signal passes through three possible modes:  Pitch, Delay and Crush. CTRL 1 and CTRL 2 correspond with the selected mode.  In Pitch, you've got two independent pitch controls for + and - an octave.  In Delay, you've got the Delay Time and Delay Feedback.  In Crush, you've got a pitch control for +/- an octave and then a control for Bit Crush.  The Mix and Reverb knobs control the mix of dry/wet signal and the decay of the reverb, respectively.  \nThe Dark Star has two footswitches.  The Bypass switch is your standard on/off True Bypass switch.  The Hold switch is a momentary footswitch that when pressed, will lock in whatever note is being played through the reverb effect.  This will sustain as long as the Hold switch is pressed.  If the Mix control is set less than 100% wet, you can continue to play over the sustaining reverb signal.\nThe Dark Star now features an expression out jack and clickless switching.  The output level can be tweaked via an internal trimpot for boost, slight drop, or unity gain.\n9VDC - 2.1mm negative center pin adapter.\n60 mA draw.\nAs made famous by Delmer Darion. \nhttp://www.oldbloodnoise.com/pedals/dark-star",
+    "hrid": "old-blood-noise-endeavors---dark-star"
+}

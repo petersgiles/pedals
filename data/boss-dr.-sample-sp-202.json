@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15140",
+    "name": "Dr. Sample SP-202",
+    "image": "images/boss-dr.-sample-sp-202.jpg",
+    "function": [
+        "Looper",
+        "Sampling"
+    ],
+    "manufacturer": "Boss",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 178,
+    "height": 254,
+    "details": "SamplerThe SP-202 is a limited sampler designed for loops and grooves for DJs on a budget. It offers four low quality sample rates, from 31 to about 4 kHz, providing 20 to 260 seconds of sample time via built-in microphone, Mic or Line inputs. Each Pad to which you assign your samples can have user-selectable sampling rates in order to maximize sample time. It has six built-in effects including Pitch Shift, Filter 1 & 2, Time Stretch, Delay, and Ring Modulation. An innovative BPM function calculates the BPM from the sample length for easy loop/BPM syncing. The sampler can be battery powered, and comes with lots of sampled loops and one-shots to get you going.\nSample editing and effects editing is limited, to almost non-existent. In fact tempos are calculated for each loop automatically, and individual samples can't be pitch shifted, tempo adjusted, or have their volumes altered. It also lacks any re-sampling abilities, and with only four voices, the musical possibilities are quite limited. But it's great for the DJ who wants to run some material through its filters and effects, or to add a loop or groove over your DJ set, with live filtering and tweaking to liven' things up. For a fully professional sampler/sequencer workstation, check out the SP-808. The SP-202 has been used by Fatboy Slim.\nhttps://www.boss.info/us/products/sp-202/",
+    "hrid": "boss-dr.-sample-sp-202"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13646",
+    "name": "RTG Random Tone Generator",
+    "image": "images/electro-harmonix-rtg-random-tone-generator.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$95 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Random Tone GeneratorA faithful reissue of a rare EHX synthesizer first introduced in 1980. The palm-sized synth produces wild, randomly changing tones over a four-plus octave range. Creates sensational soundscapes, especially when used with other effects!\nhttps://www.ehx.com/products/rtg",
+    "hrid": "electro-harmonix-rtg-random-tone-generator"
+}

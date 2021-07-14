@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12397",
+    "name": "Replicator Tape Echo",
+    "image": "images/t-rex-replicator-tape-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$900 Price in €",
+    "width": 235,
+    "height": 173,
+    "details": "The Replicator is T-Rex Engineering´s take on the ultimate tape echo unit, complete with a motor, magenetic heads and a tape cartridge. There once was a time when a ”bucket brigade” was a handful of firemen and digital processing was only used by computers the size of a house. Echo effects were largely done by using magnetic tape run by a motor – it was such a cool sounding concept, but the size, weight and ease of use was always a challenge for the players.\nThat was then, this is now!\nThe Replicator is T-Rex Engineering´s take on the ultimate tape echo unit, complete with a motor, magenetic heads and a tape cartridge. The goal was to make a tape echo unit that could nail the sound quality of the old echo units, but surpass them in features. Size, ease of use and super-fast tape replacing were obvious areas of improvement, but we also put in tap tempo, two playback heads for three output modes and a chorus mode that modulates the pitch of the echos.\nTwo expression pedal inputs allow the player to control delay time and feedback in real time for instant synth-noise at your feet.\nThe tape cartridge (available seperately) can be replaced in seconds and the high headroom of the circuit will allow you to use this pedal for processing line signals as well (keyboards, P.A. aux sends, preamps, etc.).\nThe difference between a super precise, accurate digital echo and the Replicator is that there is a certain amount of unpredictability in the sound of tape. It has its own life, almost. And that personality translates into a very natural sounding echo that we think feels more like an instrument than a sound effect.\nHANDCRAFTED IN DENMARK\n100% analog signal\nTrue bypass\nTwo playbackheads for three modes of operation\nTap tempo\nKill dry switch\nExpression pedal control of time and feedback\nhttp://www.t-rex-effects.com/replicator/",
+    "hrid": "t-rex-replicator-tape-echo"
+}

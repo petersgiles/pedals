@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32667",
+    "name": "Aquabox",
+    "image": "images/idiotbox-effects-aquabox.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Blue and green octave machineThe Aquabox is my take on the MXR Blue Box and Green Ringer circuits mixed together. I've tamed the glitchiness of the Blue Box octaves somewhat, added one octave down instead of just two and given each facet its own separate level control. It is a raw, and wild with all of the \"charm\" of the original Blue Box, but when you throw in the snarl of the Green Ringer it's just plain 'ol RAD!!! Sounds killer on bass as well as guitar and synths!!!\nhttps://www.idiotboxeffects.com/product/aquabox",
+    "hrid": "idiotbox-effects-aquabox"
+}

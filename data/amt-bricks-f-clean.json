@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24996",
+    "name": "Bricks F-Clean",
+    "image": "images/amt-bricks-f-clean.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "300 mA / 12 V / DC / Negative Center",
+    "cost": "$154 Price in €",
+    "width": 55,
+    "height": 95,
+    "details": "Fender-like guitar preampAMT Bricks F-CLEAN – this is the cleanest or slightly loaded sound, which is based on the scheme of the clean channel of guitar amplifiers Fender Twin.\nNames used in this document are trademarks of their respective owners, which are in no way are associated or affiliated with AMT Electronics. These trademarks of other manufacturers were used to identify products whose sounds were reviewed in the making of this product.\nFeatures:\n– Small dimensions (Snickers size).\n– The full set of regulation knobs (Gain, Treble, Middle, Bass, Volume), despite the compact design.\n– The really high anode voltage (+250…300V).\n– The implementation of either full tube or hybrid (tube + semiconductors) circuit design with efficient emulation of vacuum triode cascades by semiconductor components.\n– Ability to use overloaded channels in preamp mode (connected to the Amp’s Return) or in the drive pedal mode (connected to the amp’s Input).\n– The pedal can control other devices or be controlled by other devices. It has special CTRL A and CTRL B connectors.\n– X-Lead/X-Clean preamps can be used as separate devices, as well as a group of preamps connected in a serial chain (both via the audio path and the control connectors CTRL A and CTRL B). In the latter case, turning on any preamp in the chain will turn off all other connected preamps, that is, they’ll be switched to TRUE BYPASS mode. Thus, without the use of any external devices, it is possible to implement a multichannel preamp from almost any reasonable number of preamps of the X-Lead/X-Clean line, switched by the “one of” rule.\n– In addition, X-Lead / X-Clean preamps, along with other devices, can be used as part of an AMT Bricks pedalboard. Full information about the pedalboard will be presented later.\nCOMPATIBLE TUBES\nAt the discretion of the manufacturer, a preamplifier can be equipped with a tube of one of the following types: AMT-12АХ7WS, 12АХ7, ECC83 (or another 12AX7 compatible).\nhttps://amtelectronics.com/new/amt-f-clean/",
+    "hrid": "amt-bricks-f-clean"
+}

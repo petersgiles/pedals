@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13733",
+    "name": "Blender Looper",
+    "image": "images/saturnworks-blender-looper.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Saturnworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$69 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "True Bypass Looper with Blend ControlThe Saturnworks blender looper lets you blend your dry signal with whatever is in the loop while its active circuitry prevents signal degradation. You can set the blender’s clean knob fully counter-clockwise for a 100% dry signal, fully clockwise for a 100% wet signal, halfway for a 50/50 blend, or anywhere in between.\nhttp://saturnworkspedals.com/product/true-bypass-looper/",
+    "hrid": "saturnworks-blender-looper"
+}

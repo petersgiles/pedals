@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26172",
+    "name": "Pitch Fork +",
+    "image": "images/electro-harmonix-pitch-fork-+.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$219 Price in €",
+    "width": 105,
+    "height": 122,
+    "details": "Dual pitch shifter w/ presets",
+    "hrid": "electro-harmonix-pitch-fork-+"
+}

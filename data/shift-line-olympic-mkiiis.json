@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20522",
+    "name": "OLYMPIC MkIIIS",
+    "image": "images/shift-line-olympic-mkiiis.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion",
+        "Equalizer",
+        "Tube"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$440 Price in €",
+    "width": 122,
+    "height": 102,
+    "details": "Tube bass preamplifier with IR-based cabinet simulationThe Olympic MkIIIS is the newest revision of Shift Line’s bass preamplifier that combines the classic tube sound with modern audio processing technologies, creating a true “Swiss Army knife” for bass players as a result. Sculpting your signature sound and taking it anywhere you go has never been easier.\nThe Olympic MkIIIS is a compact, fully-featured tube preamplifier with a warm, deep and characteristically compressed sound. The device’s universal connectivity allows to use it even in the most complex setups.\nThe cabinet simulation is based on the Impulse Response Convolution technology, which provides a realistic and detailed sound while preserving the character of the power amp, cabinet and microphone used to record the impulse. \nThe device comes with two built-in cabinet impulses: SUNN 200s 2х15 and AMPEG SVT-810E 8х10. The microSD card slot allows users to upload their own cabinet impulses. \nhttp://shift-line.com/card.php?device=97",
+    "hrid": "shift-line-olympic-mkiiis"
+}

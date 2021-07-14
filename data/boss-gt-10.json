@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30557",
+    "name": "GT-10",
+    "image": "images/boss-gt-10.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "800 mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 542,
+    "height": 272,
+    "details": "Flagship Floorboard Multi-EffectsThe GT-10, driven by BOSS’ latest custom-made DSP and proprietary sound-modeling COSM engine, is a floorboard powerhouse that offers natural and musical response as well as a marked improvement in sound quality from previous generations. It’s also loaded with an innovative user interface, including EZ Tone, so guitarists can obtain the exact sound they desire in the most intuitive way imaginable.\nhttps://www.boss.info/global/products/gt-10/",
+    "hrid": "boss-gt-10"
+}

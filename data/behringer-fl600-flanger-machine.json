@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13194",
+    "name": "FL600 Flanger Machine",
+    "image": "images/behringer-fl600-flanger-machine.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-fl600-flanger-machine"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23419",
+    "name": "Headroom",
+    "image": "images/carl-martin-headroom.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 260,
+    "height": 140,
+    "details": "2 channel analog ‘real spring’ reverbThe Carl Martin Headroom is the most simple to operate reverb pedal on the market...with a couple extras. This purely analogue 'real spring' reverb has two identical identical channels, each with tone and level controls to select the depth and tone of your reverb.  This allows you to have a soft, small room reverb on Channel A and a much more dramatic and dark large-room reverb on Channel B (or vise versa) The two foot-controlled switches control which channel you are in, and whether you wish to bypass the effect completely.  It is like having two separate reverbs in your amp!\nAdditional features on the Carl Martin Headroom include solid metal casing, cool vintage chicken head knobs, double mounted springs to minimize stage feedback, and remote jacks for Bypass and Channel Select (which allows you to place the effect in your rack or in the back of your amp to save real-estate on your pedal-board), as well as your input and output jacks.  Of course you also get that famous Carl Martin quality that you have come  to  expect....at  no  extra  charge.    The  Carl  Martin  Headroom  runs  on  9V  DC,  and  as  always,  we recommend using a regulated power supply for optimum performance.\nhttps://carlmartin.com/headroom/",
+    "hrid": "carl-martin-headroom"
+}

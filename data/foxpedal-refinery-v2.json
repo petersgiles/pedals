@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17520",
+    "name": "Refinery V2",
+    "image": "images/foxpedal-refinery-v2.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "CompressorNew in V2! - Top mount Jacks, a full parallel wet/dry mixing blend control.\nA good compressor can be used to add sustain to your clean tone, create volume consistency across notes, chords and strings. Notes that last forever like David Gilmour, fluid lead lines like the great country guitarists, beautiful swells, you name it.\nThe Refinery is a five-knob compressor for ultimate control over your signal. Built around an Operational Transconductance Amplifier (OTA), the Refinery takes some of the great compressor designs of the past into the modern age with an incredibly low noise floor and more headroom.\nThe Refinery offers control over:\nAttack - The time it takes for the compression to engage when a loud signal is introduced.\nRelease- The time it takes for the gain to recover after the loud signal has passed.\nRatio - How much the gain reduces during compression. The refinery accomplishes this by blending uncompressed signal with the compressed response. Fully clockwise produces maximum compression and sustain. At maximum, the refinery is capable of infinite ratio (Acting as a limiter).\nLevel - Compression by nature reduces the signals overall volume. This control re-adds gain to allow you to recover any gain lost during compression. Set your compression settings then dial back in the level to recover.\nBlend (New!) - The refinery maintains your clean (dry signal) and your compressed (wet) signal in two completely parallel paths. The Blend control allows you to mix between full-dry and full-wet with virtually no signal loss.\nBright toggle - A lot of players like to add some sparkle back to a compressed signal. This toggle allows you to boost some treble frequencies.\n\nCurrent Draw: ~30mA\nCredit where its due: The refinery is based on the incredible Engineer's Thumb circuit designed by Merlin Blencoe of http://valvewizard.co.uk, Huge gratitude to Merlin for granting us permission to create a commercial product using this circuit.\nhttps://foxpedal.com/products/refinery",
+    "hrid": "foxpedal-refinery-v2"
+}

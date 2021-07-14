@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23245",
+    "name": "Tri Parallel Mixer",
+    "image": "images/electro-harmonix-tri-parallel-mixer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$138 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Effects loop mixerEHX’s Tri Parallel Mixer is a powerful effects creation and mixing hub. Three separate FX loops with flexible controls allow for multiple configurations, as follows:\n• Run up to three FX Loops in parallel and create sounds that are not possible by connecting effects in series.\n• Switch seamlessly between FX Loops in XOR mode\n• Send one instrument out to three separate amplifiers\n• Mix three instruments into a single output.\nThe Tri Parallel Mixer is surprisingly compact considering the level of functionality it provides, while its intuitive controls and I/O make it easy to operate. The Tri-Parallel Mixer comes with an EHX 9.6DC power supply.\nhttps://www.ehx.com/products/tri-parallel-mixer",
+    "hrid": "electro-harmonix-tri-parallel-mixer"
+}

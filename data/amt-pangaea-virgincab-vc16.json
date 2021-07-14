@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25421",
+    "name": "Pangaea VirginCab VC16",
+    "image": "images/amt-pangaea-virgincab-vc16.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "100 mA / 12 V / DC / Negative Center",
+    "cost": "$146 Price in €",
+    "width": 55,
+    "height": 95,
+    "details": "IR cabinet simulatorAMT Electronics engineers present a new device in the AMT Bricks series - the AMT PANGAEA VIRGIN CAB VC16. It is an IR cabinet simulator for individual practice, Live gigs, and recording. The device has a universal interface of the AMT Bricks series of the devices, which lets you combine the devices of this series in the easily controllable complex. The input attenuator lets you use the device not only with line-level signals but with power amps output signals. The device main outputs can be used either in balanced or unbalanced modes.\nNeedless to say, the electric guitar tone is defined by many components, such as a guitar itself, an amp, a cabinet with speakers and a mic. The new AMT Electronics PANGAEA VIRGIN CAB VC16 can emulate the sound of any miked guitar cab, whose Impulse Responses (IRs) are free or commercially available on the Internet and can be easily loaded to the Pangaea via USB.\nhttps://amtelectronics.com/new/amt-pangaea-vc16/",
+    "hrid": "amt-pangaea-virgincab-vc16"
+}

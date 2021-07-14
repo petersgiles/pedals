@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14119",
+    "name": "BD101 - Analog Gate / Delay",
+    "image": "images/koma-elektronik-bd101---analog-gate--delay.jpg",
+    "function": [
+        "Delay",
+        "Distortion",
+        "Flanger",
+        "Tremolo"
+    ],
+    "manufacturer": "KOMA Elektronik",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$368 Price in €",
+    "width": 130,
+    "height": 230,
+    "details": "Crazy innovative Gate & Delay pedal, which makes crazy sound possible!The KOMA Elektronik BD101 Analog Gate / Delay is an innovative voltage controlled analog delay in combination with a fully adjustable wide frequency range gate. The BD101 is capable of providing bit crushing effects, resonant frequencies, fast shifts between heavy delayed and cranked up sounds and super short pulses, with whatever instrument you want to plug into it. With the on board infrared expression controller the user is able to override / control all the front panel controls by moving their hands or feet over it, which makes the pedal a versatile and powerful tool for use live or in the studio.\nhttps://koma-elektronik.com/?product=bd101-analog-gate-delay",
+    "hrid": "koma-elektronik-bd101---analog-gate--delay"
+}

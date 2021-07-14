@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13848",
+    "name": "Spring King",
+    "image": "images/danelectro-spring-king.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$127 Price in €",
+    "width": 237,
+    "height": 160,
+    "details": "Spring ReverbSPRING KING™\nYes, it has a REAL SPRING REVERB TANK INSIDE! Great 50’s era reverb with the convenience of a pedal. “Kick pad” for over-the-top reverb explosions, just like you get from kicking your reverb combo across the stage. Way fun!\nhttp://danelectro.com/product/spring-king-reverb/",
+    "hrid": "danelectro-spring-king"
+}

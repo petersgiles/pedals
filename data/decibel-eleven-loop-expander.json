@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23160",
+    "name": "Loop Expander",
+    "image": "images/decibel-eleven-loop-expander.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "Decibel Eleven",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 161,
+    "height": 120,
+    "details": "MIDI programmable effects loop switching\nhttps://www.decibel11.com/products_loop_expander.aspx",
+    "hrid": "decibel-eleven-loop-expander"
+}

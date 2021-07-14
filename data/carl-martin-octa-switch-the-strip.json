@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32647",
+    "name": "Octa-Switch The Strip",
+    "image": "images/carl-martin-octa-switch-the-strip.jpg",
+    "function": [
+        "MIDI",
+        "Switch"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "600 mA / 9 V / DC / Negative Center",
+    "cost": "$499 Price in €",
+    "width": 580,
+    "height": 85,
+    "details": "All-analog 8-loop switcherThe Carl Martin Octaswitch, already a legend in the guitar effect switching world, is on it's third evolution since the original.  These all analog units have received rave reviews throughout the guitar world and awards from companies like Premier Guitar.  The fourth version, named 'The Strip' is the smallest and most advanced, taking all the technology used in the first three and adding some amazing features that make the 'Octaswitch The Strip' the most versatile and simplest all-analog switching pedal on the market!\nAt first glance, the 'Octaswitch The Strip' (designed once again and refined by Thomas Guldman), has all the same features as before.  There are 8 fx Loops that can be programmed into 8 Banks.  The Loops are all True-Bypass, impedance free gold relays so you can run all your pedals (old and new) without issue.  The Main Input can be True Bypass, or it can be switched to Buffered for large stages or long cable runs.  There are 8 blue LED's that indicate which of the 8 Loops is being used, and 8 green LED's that indicate which Bank is being used.  This is where the technology changes...\nhttps://www.carlmartin.com/octaswitchthestrip",
+    "hrid": "carl-martin-octa-switch-the-strip"
+}

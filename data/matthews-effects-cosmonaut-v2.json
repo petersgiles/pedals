@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19501",
+    "name": "Cosmonaut V2",
+    "image": "images/matthews-effects-cosmonaut-v2.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Spacey Reverb and Delay \nhttps://www.matthewseffects.com/collections/popular/products/copy-of-the-astronomer-v2-celestial-reverb",
+    "hrid": "matthews-effects-cosmonaut-v2"
+}

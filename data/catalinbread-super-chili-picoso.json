@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11735",
+    "name": "Super Chili Picoso",
+    "image": "11735.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 59,
+    "height": 112,
+    "details": "Clean BoostBuffer. Have a lot of pedals and/or long cable runs on stage? I don’t care how “low capacitance” your cables are, they are going to roll off high frequency detail and signal strength. The Super Chili Picoso’s high input impedance (something like 10M ohms) and ultra low output impedance (around 3K ohms) doesn’t let a drop of your tone escape. Just turn the big knob counter-clockwise and go! The Super Chili Picoso is your buffer!\nOverdriver. Ever want to push your slightly self-overdriven amp into a satisfying crunch at the click of a switch? Say you have a lower wattage amp (or you are lucky enough to play a big ole amp LOUDLY) on the edge of breakup and need push it even harder without messing with your amp’s overall character, the Super Chili Picoso is your overdriver!\nBalancer. Do you have an old Danelectro U2 with low output pickups and a Les Paul with hot humbuckers and have a tough time achieving an equal volume level between the two while maintaining the sonic qualities of the two instruments? Set the Super Chili Picoso’s knob to make up the difference! There we are, nice and balanced!\nMORE! Ever finding yourself needing a clean, uncolored volume nudge? Say you have your fuzz set just right and need to make your entire soundstage louder? The Super Chili Picoso delivers from a few decibels to upward of 35dB unadulterated clean boost! (Provided any gear that you have down stream has headroom to spare.) The Super Chili Picoso is your MORE pedal!\nhttp://catalinbread.com/products/super-chili-picoso/",
+    "hrid": "catalinbread-super-chili-picoso"
+}

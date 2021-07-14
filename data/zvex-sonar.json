@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17957",
+    "name": "Sonar",
+    "image": "images/zvex-sonar.jpg",
+    "function": [
+        "Distortion",
+        "Tremolo"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "Tremolo",
+    "hrid": "zvex-sonar"
+}

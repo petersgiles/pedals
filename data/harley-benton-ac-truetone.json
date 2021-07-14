@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15758",
+    "name": "AC TrueTone",
+    "image": "images/harley-benton-ac-truetone.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer",
+        "Tube"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$34 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "Analog effect pedal for electric guitar\nOverdrive\nTrueTone Series\nSound control: Level, Voice, Drive\n3-Band EQ control: Low, Mid, High\nSize (HxWxD): 38 x 87 x 118 mm\nhttps://www.thomann.de/gb/harley_benton_ac_truetone.htm",
+    "hrid": "harley-benton-ac-truetone"
+}

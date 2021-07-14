@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12720",
+    "name": "Convertor",
+    "image": "images/sonicsmith-convertor.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Sonicsmith",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$419 Price in €",
+    "width": 130,
+    "height": 130,
+    "details": "The first ever, semi modular, Audio Controlled, analog synthesizer.\nhttp://sonicsmith.com/products/convertor/",
+    "hrid": "sonicsmith-convertor"
+}

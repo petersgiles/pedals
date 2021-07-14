@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13744",
+    "name": "Ensemble Queen Bass Chorus",
+    "image": "images/mooer-ensemble-queen-bass-chorus.jpg",
+    "function": [
+        "Bass",
+        "Chorus"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Bass chorusEnsemble Queen Bass Chorus Effects Pedal. \"The Mooer Ensemble Queen is designed for bass players and bass instruments. The Ensemble Queen produces a rich chorus sound and retains the fundamentals of your instrument's characteristics. Designed with high quality components, Ensemble Queen acts pretty well at the bass part. Push down the nail, you will get the rich and stereo Chorus sound, which makes your performance more vivid with the excellent atmosphere. Adjusting the knobs changes the effect sound, warm and soft or psychedelic gorgeous. The best part is that it keeps the strength of your natural bass toe and low end while achieving a beautiful chorus sound designed just for bass.\" \nhttps://www.amazon.com/Mooer-Ensemble-Queen-Chorus-Effects/dp/B019C6C7J4",
+    "hrid": "mooer-ensemble-queen-bass-chorus"
+}

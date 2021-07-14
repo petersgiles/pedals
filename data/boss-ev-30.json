@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15071",
+    "name": "EV-30",
+    "image": "images/boss-ev-30.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 80,
+    "height": 192,
+    "details": "Dual Expression PedalFor pro expression control in a compact package, there’s no better choice than the BOSS EV-30. Its small footprint is perfectly suited for cramped pedalboards, while the die-cast aluminum chassis offers a rock-solid foundation and BOSS’s famous rugged reliability.\nA key feature of the EV-30 is an innovative internal mechanism that provides ultra-smooth feel and precise parameter control, delivering performance that rivals full-size pedals. And with two expression outputs, you can save further space by controlling two different devices from a single pedal. The outputs are electronically isolated, eliminating the possibility of noise issues from ground loops.\nThe EV-30 brings powerful real-time parameter control to the many BOSS compact pedals equipped with expression pedal inputs. It’s also ideal for use with BOSS multi-effects processors and effects switching systems. A handy polarity switch provides compatibility with a wide range of music gear, allowing you to use the EV-30 with most devices that support expression control.",
+    "hrid": "boss-ev-30"
+}

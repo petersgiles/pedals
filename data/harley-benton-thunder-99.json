@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23125",
+    "name": "Thunder 99",
+    "image": "images/harley-benton-thunder-99.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Power",
+        "Utility"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / 24 V / DC / Positive Center",
+    "cost": "$99 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Stereo Pedal Power Amp\nhttps://www.thomann.de/gb/harley_benton_custom_line_thunder_99.htm?sid=0fd242db0969958941c23f28536b9532",
+    "hrid": "harley-benton-thunder-99"
+}

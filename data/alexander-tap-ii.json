@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14858",
+    "name": "Tap II",
+    "image": "images/alexander-tap-ii.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 51,
+    "height": 57,
+    "details": "Tap Tempo SwitchTap Tempo switch for Radical Delay II+.\nNormally-open momentary footswitch works with all Alexander Pedals that support remote control. Controls the following units:\nRadical Delay II+:  Tap Tempo\nHistory Lesson:  Tap Tempo (hold to select subdivision)\nHistory Lesson Vol. II:  Tap Tempo (hold to select subdivision)\nEquilibrium DLX:  Tap Tempo (hold to select fast / slow range)\nChesapeake:  Tap Tempo (hold to select subdivision)\nSuper Radical Delay:  Tap Tempo\nOblivion:  Tap Tempo\nhttps://www.alexanderpedals.com/shop/tap-ii",
+    "hrid": "alexander-tap-ii"
+}

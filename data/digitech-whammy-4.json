@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11946",
+    "name": "Whammy 4",
+    "image": "images/digitech-whammy-4.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 237,
+    "details": "The legendary Whammy™\nIt's been a decade since the Whammy™ was introduced and now it has a permanent place on every professional's pedalboard. This is what has made the Whammy® a legend. Hit after hit, performance after performance, the Whammy™ not only adds to your playing, it creates new sounds, feelings and textures. \nThe Whammy™ is simple -- Take your guitar's sound and pitch shift it using a special algorithm, then control that pitch with an expression pedal. So easy and so expressive that it takes your playing to a new world of quirky squeals, monster dive bombs lower than any whammy bar and bends that can only be found on other instruments. It's no wonder why this single pedal is legendary.\nModes\nWHAMMY MODES\n2 Oct Up - Bends your input note two octaves up.1 Oct Up - Bends your input note one octave up.1 Oct Dn - Bends your input note one octave down.2 Oct Dn - Bends your input note two octaves down.Dive Bomb - Bends your input note three octaves down.Drop Tune - Bends your input note two semi-tones down with a reversed pedal action.\nHARMONY BEND MODES\n2nd Up/3rd Up - Bends the harmony between a second (toe up) and a third (toe down) above the input note.Min 3rd Up/3rd Up - Bends the harmony between a minor third (toe up) and a Major third (toe down) above the input note.3rd Up/4th Up - Bends the harmony between a third (toe up) and a fourth (toe down) above the input note.4th Up/5th Up - Bends the harmony between a fourth (toe up) and a fifth (toe down) above the input note.5th Up/6th Up - Bends the harmony between a fifth (toe up) and a sixth (toe down) above the input note.4th Up/7th Up - Bends the harmony between a fourth (toe up) and a seventh (toe down) above the input note.4th Dn/3rd Dn - Bends the harmony between a fourth (toe up) and a third (toe down) below the input note.5th Dn/4th Dn - Bends the harmony between a fifth (toe up) and a fourth (toe down) below the input note.Oct Up/Oct Dn - Bends the harmony between one octave below (toe up) and one octave above (toe down) the input note.\nDETUNE MODES\nShallow - The signal is shifted slightly out of tune from the original pitch and mixed with the original.Deep - The signal is shifted substantially out of tune from the input signal and mixed with the original.\nFeatures\n6 Whammy modes including famous 2 Octave Up as heard on 100's of songs!\n10 Harmony Bend modes including 2nd Up to 3rd Up simulating pedal steel bends!\nExpression pedal controls dive bombs and bends\nCutting-edge pitch detection engine designed specifically for guitar delivers fast accurate shifting!\nMIDI In & Out/Thru to control pitch bends via cc's",
+    "hrid": "digitech-whammy-4"
+}

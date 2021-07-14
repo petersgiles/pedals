@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17998",
+    "name": "The Bends",
+    "image": "images/fender-the-bends.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Fender",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 70,
+    "height": 124,
+    "details": "CompressorDynamics are a crucial part of playing music. When controlled they bring music to life, but uneven or wild playing can ruin a performance. We put our expertise to work creating The Bends Compressor, a studio-quality stompbox that tames wild volume spikes without altering your tone. Drive and Recovery controls let you dial in the perfect amount of compression to complement your playing style and extend sustain, while the Blend control lets you mix in the dry signal to maintain your natural pick attack. The Amp Jewel LED changes color from white to pink along with your playing to help show when the compression circuit is engaged and how long your signal is affected.\nhttps://shop.fender.com/en-US/effects-pedals/utility/the-bends-compressor/0234531000.html",
+    "hrid": "fender-the-bends"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23432",
+    "name": "R-12 Band Controller",
+    "image": "images/joyo-r-12-band-controller.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Joyo",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 125,
+    "height": 79,
+    "details": "10 Band EQ10 band EQ pedal for guitar and bass.\nthe frequency band ranges from 31.25Hz to 16kHz, including 4-string, 5-string Bass and 6-string, 7-string Guitar.\nWith independent Volume Control Knob and LED light on each knob.\nTrue bypass design minimizes tone loss.\nMetal aluminum alloy case and precise components.\n\nhttp://joyoaudio.com/en/product/show_327.html",
+    "hrid": "joyo-r-12-band-controller"
+}

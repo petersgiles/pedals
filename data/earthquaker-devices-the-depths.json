@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11998",
+    "name": "The Depths",
+    "image": "images/earthquaker-devices-the-depths.jpg",
+    "function": [
+        "Chorus",
+        "Tremolo",
+        "Phase Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "21 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Vibe MachineThe Depths is our take on the classic optical vibe circuit. Now you can swab the decks with the same lush, pulsating, three-dimensional swirling sound you know and love, with some modern accouterments for all you land-lubbers out there.\nThe Depths is optimized for use with all kinds of instruments, pickups, and to play well with dirt, so nobody’s left waiting on shore. If it’s got a ¼” output, plug it in and get deep!\nhttps://www.earthquakerdevices.com/the-depths/",
+    "hrid": "earthquaker-devices-the-depths"
+}

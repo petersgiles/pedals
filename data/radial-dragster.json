@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12138",
+    "name": "Dragster",
+    "image": "images/radial-dragster.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 64,
+    "height": 54,
+    "details": "Load Correction DeviceAdjusts the load on magnetic pickup for a natural sound\nWarms up the tone of harsh sounding active buffers\nHelps improve the sound of your wireless system\nCompact and lightweight, can be used anywhere!\nThe Radial Dragster is a super-compact load correction device that lets you adjust the load on your electric guitar pickup to replicate the sound as if connected directly to a tube guitar amp.\nWhen a guitar is connected to a guitar amplifier, the pickup and the amp join together to form a circuit. But as soon as you introduce a buffer in between the pickup and the amplifier, the natural relationship is lost. The pickup only 'sees' the buffer and the tone changes. This is the fundamental reason why guitarists hate the sound of wireless systems and non-true-bypass pedals. The Dragster solves the problem by restoring the full rich tone you lose when you plug your guitar into a wireless transmitter or other types of buffered inputs such as effects pedals, mixing consoles, sound cards or all-in-one recording systems.\nThe Dragster is plug & play easy to use. You simply connect your guitar or bass to the Dragster using one of the ¼\" inputs and then exit the Dragster using the other. Set the thumb wheel to the sound you like and you are set to go! The compact design makes it easy to fit on any pedalboard while the built-in mounting flanges make it a breeze to attach to a guitar strap. And its unobtrusive size and light weight won't slow you down.\nhttp://www.tonebone.com/dragster.php",
+    "hrid": "radial-dragster"
+}

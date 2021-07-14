@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11892",
+    "name": "BitQuest",
+    "image": "images/dr-scientist-bitquest.jpg",
+    "function": [
+        "Digital Glitch",
+        "Distortion",
+        "Filter",
+        "Flanger",
+        "Pitch Shifter",
+        "Reverb",
+        "Ring Modulator",
+        "Multieffect"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 65,
+    "height": 130,
+    "details": "Multieffect",
+    "hrid": "dr-scientist-bitquest"
+}

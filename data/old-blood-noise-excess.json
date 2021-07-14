@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15311",
+    "name": "Excess",
+    "image": "images/old-blood-noise-excess.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Distortion"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 125,
+    "height": 100,
+    "details": "Distortion Chorus/DelayThe Old Blood Noise Endeavors Excess is everything you need for your next ripping session in 1985 and beyond.  The goods : high gain distortion, lush chorus and slapback delay in a selectable series or parallel signal path.  \nThe Excess has separate volume controls for both the Distortion and the Modulation effects.  The modulation mode is changed via the secondary stompswitch which changes between chorus and delay.\nThe signal path can be changed by the SERIES / PARALLEL toggle switch.  In Series mode, the Distortion effect flows into the Modulation effect, stacking their sound and volumes.  In Parallel mode, the two effects are summed to a single output, resulting in a clear modulation with a distorted layer underneath, cleanly separated.  \nYou can't get enough.  I can see it in your eyes.  You need more.  Maybe the Excess will do you just fine.  Mayhaps.\n9VDC - 2.1mm negative center pin adapter.\n60 mA draw.\nThe art of the Excess comes from the illustrative brain of Atiya Jones. Check out more of her work here: http://www.atiyajones.com/\nhttps://www.oldbloodnoise.com/pedals/excess-distortion-chorusdelay",
+    "hrid": "old-blood-noise-excess"
+}

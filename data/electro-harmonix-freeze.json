@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11783",
+    "name": "Freeze",
+    "image": "images/electro-harmonix-freeze.jpg",
+    "function": [
+        "Sampling",
+        "Dynamics"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 114,
+    "details": "Sound RetainerCapture a frozen moment and turn it into a tonally unique sonic foundation. The Freeze Sound Retainer delivers infinite sustain of any note or chord at the press of a momentary footswitch. Release the footswitch and you are again sample ready. Three selectable decay rates, including a latch mode, guarantee liquid, smooth tonal transitions. Hook the Freeze up with your favorite pedals for a sonic collage that will be unlike anything you have ever heard. It’s like adding an extra musician to the band.\n\nReal time sample capture with perfect looping\nLatch mode for infinite sustain at the touch of a momentary switch\nFast decay mode\nSlow decay mode\nLatch mode for infinite sustain of sample capture\nSmooth tonal transitions between captures\nComes with 9.6DC 200 power supply\nHandles input gains from pedal boards\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\n\nhttp://www.ehx.com/products/freeze",
+    "hrid": "electro-harmonix-freeze"
+}

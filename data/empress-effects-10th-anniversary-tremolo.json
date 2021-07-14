@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23954",
+    "name": "10th Anniversary Tremolo",
+    "image": "images/empress-effects-10th-anniversary-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "The Empress Tremolo is 10 Years old! We’re celebrating with a limited edition, 10th anniversary tremolo pedal. Only 250 of these pedals will be made, each with its serial number engraved on the front of the pedal.Features\nPristine Sound - The Empress Tap Tremolo2 Pedal has to be heard to be believed. It's whisper quiet and free from the \"LFO throb\" usually associated with tremolos. We dare anyone to find a better sounding tremolo.\nWaveform Selection - You can modulate your sound with three different waveforms. An asymmetrical tremolo was modeled after a '65 Fender Vibrolux (brown face) to give you the fullest tremolo sound possible. A square wave can be utilized if you're after a harder sound. And if you're looking for a more normal tremolo, you can use the triangle wave setting.\nTap Tempo - The Empress Tap Tremolo2 Pedal averages your last four taps so it plays in sync with your music. You can also choose different tap to tremolo rate ratios. 1:1, 3:4, 1:2, 1:3 and 1:4 are available.\nRhythms - Another exclusive feature. The Empress Trem will definitely do your run-of-the-mill tremolo sound to a tee. But you can also set it to play different rhythms. Check out the soundclips for examples.\nGain - A problem with most tremolos on the market is that when they're engaged, you hear a noticeable drop in volume. The Empress Trem solves this by having a gain stage on the output. It's able to deliver up to 12dB of gain without adding any distortion to the signal.\nPresets - Save all your settings in up to 8 presets and recall with the touch of a button.\nTrue Bypass - The Empress Trem employs true bypass, so you can be sure that it's not affecting the signal when disengaged. Buffered bypass is also available if that's your thing.\nAdvanced Configuration Menu - The Advanced configuration menu lets you configure how your tremolo works. Select from true or buffered bypass, 0-8 presets, MIDI configuration, Control port control (expression pedal, external tap, control voltage and MIDI) as well as which preset system to use, the ramp speed when switching between presets and more!\nPerfect Size - The enclosure measures approximately 4.5\" by 3.5\" by 1.5\", which is delightfully small when considering all the features packed into this unit.\nhttps://empresseffects.com/products/10th-anniversary-tremolo",
+    "hrid": "empress-effects-10th-anniversary-tremolo"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27509",
+    "name": "Ampliton",
+    "image": "images/alesis-ampliton.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Alesis",
+    "current": "830 mA / 9 V / AC",
+    "cost": "$80 Price in €",
+    "width": 148,
+    "height": 98,
+    "details": "Tremolo/AutopanIndependent tremolo and autopan effects with simple rate and depth controls for each, a tap a tempo function (works in Tempo Sync modes only) and modulation reset button.",
+    "hrid": "alesis-ampliton"
+}

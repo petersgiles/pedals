@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27182",
+    "name": "Météore",
+    "image": "images/caroline-météore.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 91,
+    "height": 122,
+    "details": "Lo-Fi Reverb – Limited Edition PurpleNamed for the ultra-modern line 14 of the Paris Metro and its spacious interiors of glass, tile, and steel that add all kinds of nasty sonic textures at its stops, the Météore is a reverb both for straightforward users and for players who wish to be inspired and challenged by this effect. Built on a frame similar to our acclaimed Kilobyte® Lo-Fi Delay, Météore uses a digital spring reverb “brick” to provide you with traditional sounds, or empower you to distort, magnify, and extend the effect into oscillation. For this pedal, the Havoc™ control allows for infinite hold or ramped escalation into entropy and collapse based on how you set the size control.",
+    "hrid": "caroline-météore"
+}

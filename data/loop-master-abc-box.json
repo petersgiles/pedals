@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29511",
+    "name": "ABC Box",
+    "image": "images/loop-master-abc-box.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Loop-Master",
+    "current": "? mA / ? V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 112,
+    "height": 60,
+    "details": "Switch between three signalsABC Box (LED Version)\nDIMENSIONS: 4.37\" X 2.37\" X 1.1\"\nUSES:\nSwitch between three amps:\nConnect your guitar to \"Input\" on the Loop-Master, connect amp A to \"A\" on the Loop-Master and connect amp B to \"B\" on the Loop-Master and your C amp to \"C\" on the Loop-Master.\nUse for silent tuning and amp switching:\nConnect your A and B amps to the \"A\" and \"B\" jacks on the Loop-Master. Connect your tuner to \"C\" on the Loop-Master and your guitar to \"In\" on the Loop-Master. You can make any tuner true bypass capable this way.\nSwitch between three instruments without unplugging:\nConnect one guitar to \"A\" on the Loop-Master and one to \"B\" on the Loop-Master and and one to \"C\" on the Loop-Master and then connect your amp to \"In\" on the Loop-Master.\nAbsolutely no bleedover\nUnit operates as A or B or C and NOT any two of the three. Stepping on the first switch switches A or B channels as indicated via LEDS for you. When you step on the second switch, (C) one LED (A or B) will still be lit telling you that when you step off of C, you will resume back to that channel. When you step on C, you must click C again to resume back to A or B. Many uses here.\nHandmade with the finest components possible for superior tone such as point-to-point military spec silver plated wiring, silver soldering, Switchcraft jacks and a heavy-duty aluminum enclosure. No buffers and no tone-sucking BS.\nUse Boss/Ibanez style 9v 2.1mm barrel-style adapter (NOT INCLUDED) for LED power only. Will work without power minus LED indication. Our LED circuits does not screw with your tone. This model is built and ready to go and has red, green, and blue leds installed.\nhttps://www.loop-master.com/version-decals-p-220.html",
+    "hrid": "loop-master-abc-box"
+}

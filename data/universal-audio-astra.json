@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31674",
+    "name": "Astra",
+    "image": "images/universal-audio-astra.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Tremolo"
+    ],
+    "manufacturer": "Universal Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 90,
+    "height": 118,
+    "details": "Stereo Modulation Effects3 classic modulation effect emulations powered by UAD DSP\nChorus Brigade conjures up the 1970s big gray unit’s lush, analog chorus and vibrato\n    Flanger/Doubler recreates the characterful blueface bucket-brigade rackmount flanger\n    Trem 65 offers warm, opto tube-style tremolo with sine and square wave modes\n2 free effects upon registration: X90 Phaser and Dharma Trem 61\n    Operates in mono, dual-mono, and stereo modes with automatic mono/stereo detection\n    Rugged enclosure with top-notch components\n    True bypass and optional buffered bypass modes",
+    "hrid": "universal-audio-astra"
+}

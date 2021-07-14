@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11617",
+    "name": "Grand Orbiter",
+    "image": "images/earthquaker-devices-grand-orbiter.jpg",
+    "function": [
+        "Filter",
+        "Phase Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 63,
+    "height": 118,
+    "details": "Four stage OTA-based phaserGrand Orbiter™ is a 4 stage OTA-based phaser with a diverse feature set that can go from stationary and resonant to slow and mellow and on through fast and swirly. It has three way toggle switch to select between the ranges of modulation. The master Rate control fine tunes the speed of the LFO in each of these modes and the flashing red LED acts as a visual indicator, even when the effect is in bypass mode. The Depth control blends the shifted signal in with the dry signal and controls the intensity of the effect. The Sweep control governs the peak frequency of the phased signal’s tone, turned full clockwise the sweep is lively and intense, whereas turning counter clockwise yields a darker, more laid back peak. The Resonance provides a wide range of control over regeneration and at higher settings adds a more pronounced and resonant tone. You can also use the Grand Orbiter as a true pitch vibrato with the “Phase/Vibrato” switch. When in “Vibrato” mode, the dry signal is removed and the Depth controls acts as a volume control. This pedal is 100% analog, true bypass and built by entirely by hand in beachy Akron, Ohio.\nhttps://www.earthquakerdevices.com/grand-orbiter",
+    "hrid": "earthquaker-devices-grand-orbiter"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11743",
+    "name": "DFX 91",
+    "image": "images/dod-dfx-91.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Looper",
+        "Sampling"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 65,
+    "height": 101,
+    "details": "Delay / SamplerIntroduced in late 1989, several months after the DFX9, the DFX91 appeared to have been marketed as DOD's \"pro\" level compact digital delay pedal (much in the same way the Boss DD-5 was marketed relative to the DD-3 upon its debut). The DFX91's basic circuit was similar to the DFX9, but with \"sample\" and \"trigger\" settings in addition to infinite repeat. While the sampling ability of the DFX91 was limited by its maximum 1 second of delay time, it was more than the 0.8 seconds offered by the Boss DSD-2/DSD-3, which were released a few years earlier. The DFX91 was effectively discontinued with the debut of the DFX94 in late 1993, although it was offered alongside the DFX94 through at least Fall 1994.\nControls:\ntwo LEDs (left LED indicates delay effect is on; when the Range/Mode switch is set to Sample, the right LED is lit after a sampled phrase is recorded)\nLevel (no delay when counterclockwise, 50% wet/dry mix when fully clockwise)\nRepeat (1-20 repeats)\nDelay\n6-position Range/Mode rotary switch:\n13.8-62.5 ms of delay\n55.5-250 ms\n222-1000 ms\nInfinite Repeat (222-1000 ms)\nTrigger (222-1000 ms)\nSample Record (222-1000 ms)\nFrom the manual (shared with the DFX9): \"The DFX91 ... delays sound to make effects. When mixed with the original signal, the effects include doubling, slapback, and echoes. Other useful effects are infinite repeat and in the DFX91, sampling.\" \nFrom the manual -- using the DFX91 as a sampler:\nSelect the SAMPLE position on the RANGE/MODE switch. In this mode the BYPASS foostswitch becomes the SAMPLE footswitch only.\nAdjust the amount of repeated time you want within the delay range you've selected with the DELAY control.\nTap the footswitch. The INFINITE REPEAT / SAMPLE LED will go OUT, and then will come back ON when the sample record time is done. The line you've put into the DFX91 while the LED was out is sample recorded.\nSelect the Trigger position on the RANGE/MODE switch. In this mode the BYPASS footswitch becomes the SAMPLE TRIGGER footswitch only.\nWhenever you wish to TRIGGER the playback of your recorded sample sound, tap the footswitch.\nCatalog description: 1990\nTechnical info:\nSpecifications: Delay Ranges as stated above; Signal to Noise Ratio = 92 dB typical; Input Impedance = 470 kOhms, Output Impedance = 4.7 kOhms; Maximum Gain = 1950 V/V; Maximum Output Level = 5 V peak-peak; Bandwidth (dry) = 40 Hz to 20 kHz, (wet) = 40 Hz to 10 kHz; Digital Resolution = 12 bit \nRecommended battery type: The DFX series included a note in their instruction manual, and inside its battery cover, that only alkaline batteries should be used (specifically an Energizer no. 522 9-volt, though any brand will work), as other batteries may not even provide enough power to start up. The DFX91's exact current draw is unknown, but we recommend always using an AC adapter for any digital effects pedal.\nNotable IC chips: SCX61 (??? - a sticker covered the chip's label) micro CMOS gate array chip, socket-mounted D41256C-10 dynamic RAM chip, NE570N compander, three 4558-type op amps\nInternal trim pots: two; however, we do not recommend messing with trim pots\nComponent-side circuitboard image: February 1994",
+    "hrid": "dod-dfx-91"
+}

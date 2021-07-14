@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32836",
+    "name": "Tonebug Reverb",
+    "image": "images/t-rex-tonebug-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / DC",
+    "cost": "",
+    "width": 78,
+    "height": 120,
+    "details": "",
+    "hrid": "t-rex-tonebug-reverb"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29722",
+    "name": "Wally+",
+    "image": "images/hotone-wally+.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Hotone",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$95 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "LooperWally+ was designed on Hotone's smart and simple Wally Looper platform, then enhanced in terms of power, usability, and sophistication. \nWally fans will appreciate the independent I/O controls and unique tempo knob. \nAugmented features include 24-bit 44.1kHz recording/playback quality, 8 GB internal storage, and 11 savable loop phrase banks. \nWally+ has USB onboard so you can import/export/manage your loop phrases with the included PC/Mac software.\nFeatures\n✪ 24-bit 44.1kHz high quality recording/playback\n✪ SAVE button for catching the inspired loops\n✪ 11 banks for storing the keepers\n✪ 8GB internal storage \n✪ Import, export and manage songs via USB \n✪ Free PC & Mac software for managing phrases\n✪ Change loop tempo and volume on the fly\n✪ Max. recording time: Totally 330 minutes (max. 30 minutes of each bank)\nhttps://www.hotoneaudio.com/products/skyline/wally-plus",
+    "hrid": "hotone-wally+"
+}

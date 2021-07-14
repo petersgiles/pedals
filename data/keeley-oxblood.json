@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19710",
+    "name": "Oxblood",
+    "image": "images/keeley-oxblood.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 68,
+    "height": 112,
+    "details": "Modded Centaur CloneClone of the Klon Centaur with added Phat and Clipping switches.\nhttps://robertkeeley.com/Keeley_Oxblood_Overdrive",
+    "hrid": "keeley-oxblood"
+}

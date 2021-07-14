@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12272",
+    "name": "Torpedo C.A.B.",
+    "image": "images/two-notes-torpedo-c.a.b..jpg",
+    "function": [
+        "Utility",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 178,
+    "height": 128,
+    "details": "Cab SimThe Torpedo C.A.B. («Cabinets in A Box»)…\n… is a high-end cabinet simulator in a stompbox format. It includes all the great features of the Torpedo Live, without the loadbox but with an input stage specifically tailored to accept pedal-level signals.\nThe concept\nYou love the sound of your amplifier pushed right to the magic sweet spot where the best tones are. Until now, the only available option was blasting your sound through a 4×12″ to properly excite a microphone. Enter Torpedo, the simplest and most realistic way to get your sound to your audience. Use the amp you love!\nEverything that makes a real amp rule over all the other alternatives is retained. You can even record silently late at night. Gone is the backache from the loadout, complaints from neighbours, venue staff or even bandmates and the frustration of not being able to sound at one’s best trying to reduce the volume.\nhttp://www.two-notes.com/en/torpedo-cab",
+    "hrid": "two-notes-torpedo-c.a.b."
+}

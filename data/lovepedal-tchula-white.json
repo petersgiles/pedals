@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18904",
+    "name": "Tchula White",
+    "image": "images/lovepedal-tchula-white.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 110,
+    "height": 60,
+    "details": "Tchula White\nhttp://www.lovepedal.com/pedals/tchula/",
+    "hrid": "lovepedal-tchula-white"
+}

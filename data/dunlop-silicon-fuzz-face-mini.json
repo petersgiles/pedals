@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11905",
+    "name": "Silicon Fuzz Face Mini",
+    "image": "images/dunlop-silicon-fuzz-face-mini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$148 Price in €",
+    "width": 89,
+    "height": 91,
+    "details": "Classic Fuzz PedalThe FFM1 Silicon Fuzz Face Mini Distortion is spec’d from a 1970 Fuzz Face in our own collection prized for its bright and aggressive Fuzz Face sound delivered by its matched BC108 silicon transistors. \nhttps://www.jimdunlop.com/silicon-fuzz-face-mini-distortion/",
+    "hrid": "dunlop-silicon-fuzz-face-mini"
+}

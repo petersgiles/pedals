@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14847",
+    "name": "DT DeluxeTuner",
+    "image": "images/donner-dt-deluxetuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Donner",
+    "current": "90 mA / 9 V / DC / Negative Center",
+    "cost": "$22 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Tuner\nSuper fast precise strobe mode with +/- 1 percent accuracy.\nChromatic, suitable for wide range tuning.\nLCD display, clear results of tuning.\nTrue bypass, improved analog circuit, real signal, no loss of tune.\n\nhttps://www.donnerdeal.com/collections/guitar-pedal/products/donner-dt-deluxe-guitar-tuner-pedal-0-1-cent-true-bypass",
+    "hrid": "donner-dt-deluxetuner"
+}

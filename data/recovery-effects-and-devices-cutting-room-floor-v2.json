@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18931",
+    "name": "Cutting Room Floor V2",
+    "image": "images/recovery-effects-and-devices-cutting-room-floor-v2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 90,
+    "height": 116,
+    "details": "Glitch, Pitch, Echo, ModulateCUTTING ROOM FLOOR PEDAL\nThe most original and versatile release from Recovery Effects to date. Unlike any effect you’ve heard before, it offers mountains of wild modulation, delay, freeze and stutter. Anything from light lo-fi chorus to broken-tape-deck sounds can be achieved with this unique pedal. Melt, then freeze tones in place, or use it as a gritty echo or faux reverb. Hand-wired in Seattle, WA. Includes a lifetime warranty.\nNew in V2:\n*Intensity and Modulation parameters under one control called “Wow”. \n*New tape deterioration parameter introduced called “Stability”. 2 knobs control “Shape” and “Flutter” in conjunction with Wow. \n*CV control for Eurorack modular. \n*Sleek new design.\nhttps://recoveryeffects.com/collections/effects-pedals/products/cutting-room-floor",
+    "hrid": "recovery-effects-and-devices-cutting-room-floor-v2"
+}

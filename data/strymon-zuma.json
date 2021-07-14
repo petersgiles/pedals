@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11600",
+    "name": "Zuma",
+    "image": "images/strymon-zuma.jpg",
+    "function": [
+        "Power",
+        "Utility"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 173,
+    "height": 84,
+    "details": "Isolated PowerZuma is the highest horsepower, most technologically advanced effects pedal power supply of its kind. Zuma offers nine high-current, individually isolated, ultra-low-noise outputs—each with its own dedicated regulator and custom transformer. Designed to meet the needs of today’s players, each output provides a staggering 500mA of current.\nZuma’s dual-stage topology, pre-regulated outputs, optically isolated feedback, and advanced multistage filtering result in a power supply that allows your pedals to achieve their highest possible dynamic range.\nhttp://www.strymon.net/products/zuma/",
+    "hrid": "strymon-zuma"
+}

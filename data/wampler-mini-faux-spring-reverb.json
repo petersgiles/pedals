@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19907",
+    "name": "Mini Faux Spring Reverb",
+    "image": "images/wampler-mini-faux-spring-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 43,
+    "height": 94,
+    "details": "Spring reverbThe Faux Spring Reverb has been a staple on many players boards for many years now, and when it was discontinued a few years ago Brian received numerous requests to bring it back since then. Not being one to be content with just reissuing something, Brian decided to take all of the feedback from players he had received and give it a but if an upgrade. The result was the birth of the Mini Faux Spring Reverb. Following the idea of “If it’s not broke, don’t fix it,” he just added more of what players love. More decay, more drippiness and more of that bouncy spring tone players love in the bigger Reverb tanks. Despite sounding bigger and fuller, he decided to condense it down into a mini enclosure to fit perfectly at the end if any chain to grab and go.\nhttps://www.wamplerpedals.com/products/delay-reverb/mini-faux-spring-reverb/",
+    "hrid": "wampler-mini-faux-spring-reverb"
+}

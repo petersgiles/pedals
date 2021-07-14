@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27118",
+    "name": "16 Second Delay (vintage)",
+    "image": "images/electro-harmonix-16-second-delay-(vintage).jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Looper"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC",
+    "cost": "",
+    "width": 198,
+    "height": 170,
+    "details": "8 Bit delay with modulation, up to 16 Seconds with Looping - Original Release 1983\nhttps://www.ehx.com/assets/blog/flashback-1981-16second-delay.jpg",
+    "hrid": "electro-harmonix-16-second-delay-(vintage)"
+}

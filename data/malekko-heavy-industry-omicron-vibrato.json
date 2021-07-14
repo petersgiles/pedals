@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11949",
+    "name": "Omicron Vibrato",
+    "image": "images/malekko-heavy-industry-omicron-vibrato.jpg",
+    "function": [
+        "Chorus",
+        "Rotary"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 18 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 50,
+    "height": 100,
+    "details": "VibratoThis Omicron series vibrato pedal is built with the infamous MN3007 IC. Often counterfeited, these ICs are difficult to obtain but but early in the year 2009 Malekko acquired a giant lot of actual obsolete MN3007 BBD ICs and went to work. The result of using this coveted chip is a superior lush analog true pitch (no dry) vibrato pedal. It’s small size, high quality tone and affordable pricing make this pedal a perfect companion on the road or in the studio.\nThis true bypass pedal has two control pots: speed and depth. It’s capable of subtle shimmer to awesome deep pitch bending and everywhere in between.\nAlthough this vibrato pedal will operate with a 9VDC regulated neg tip power supply (not included), it will sound fuller, richer, and have more headroom with a 18VDC regulated neg tip power supply (not included).\n“Don’t let the size of these fool you, these little guys prove that big sound can come from small packages. Collectively speaking, this series of effects really hits the nail on the head for capturing warm, silky analog sound.” – Premier Guitar\nhttps://malekkoheavyindustry.com/product/vibrato-2/",
+    "hrid": "malekko-heavy-industry-omicron-vibrato"
+}

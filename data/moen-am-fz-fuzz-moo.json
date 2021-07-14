@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31474",
+    "name": "AM-FZ Fuzz Moo",
+    "image": "images/moen-am-fz-fuzz-moo.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Moen",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "",
+    "hrid": "moen-am-fz-fuzz-moo"
+}

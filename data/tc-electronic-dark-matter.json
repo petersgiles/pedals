@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11475",
+    "name": "Dark Matter",
+    "image": "images/tc-electronic-dark-matter.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "DistortionGain, Level, Bass, and Treble controls give you total control of your distortion sounds\nVoicing switch shifts the bass response\nTrue bypass preserves your tone\nEasy battery access\nSmall footprint saves precious pedalboard space\nMade with high-quality components\nRoad-ready design with a tough metal chassis",
+    "hrid": "tc-electronic-dark-matter"
+}

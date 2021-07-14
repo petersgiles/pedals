@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11760",
+    "name": "EVH 5150 Overdrive",
+    "image": "images/mxr-evh-5150-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$289 Price in €",
+    "width": 122,
+    "height": 91,
+    "details": "Eddie Van Halen signature model",
+    "hrid": "mxr-evh-5150-overdrive"
+}

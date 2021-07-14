@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18651",
+    "name": "Wurm",
+    "image": "images/kma-audio-machines-wurm.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 118,
+    "height": 92,
+    "details": "",
+    "hrid": "kma-audio-machines-wurm"
+}

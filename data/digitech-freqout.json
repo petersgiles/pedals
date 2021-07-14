@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12125",
+    "name": "FreqOut",
+    "image": "images/digitech-freqout.jpg",
+    "function": [
+        "Digital",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "235 mA / 9 V / DC / Negative Center",
+    "cost": "$225 Price in €",
+    "width": 73,
+    "height": 121,
+    "details": "Natural Feedback CreatorThe DigiTech FreqOut Natural Feedback Creator allows you to get sweet, natural feedback at any volume, with or without distortion. The FreqOut is perfect for situations where volume must be controlled like in the studio, with in ear monitors, or low-volume performance and practice. However, the FreqOut can also be used at gig volume to focus out-of-control feedback on a preferred harmonic at any stage position. The FreqOut uses a 9VDC power supply to easily integrate into your existing pedalboard.\n____General Specifications____\nControls: Feedback, Momentary On/Off, Dry On/Off, Gain, Onset, Type, Effect On/Off\nSignal to Noise Ratio: > -106dB (A weighted); ref = max level, 22 kHz bandwidth\nTHD: 0.004% @ 1 kHz; ref = 1 dBu w/ unity gain\nA/D/A Conversion: 24-bit\nPower Consumption 2.1 Watts (235 mA typical @ 9 VDC)\nPower Requirements 9 VDC External Adapter (sold separately)\nPower Adapter (Sold Separately) PS0913DC-04 (US, JA, EU, AU, UK)\nPower Adapter Output 9 VDC 1.3 A\n____Dimensions____\nLength 4.75\"\nWidth 2.875\"\nHeight 1.75\"\nWeight 0.8 lbs.\n____Audio Output____\nOutput Type 1/4” Unbalanced TS (Tip-Sleeve)\nMax Output Level +10 dBu\nOutput Impedance 1 kΩ (Effect enabled or effect bypassed w/ Momentary switch on) ; True Bypass (Effect bypassed w/ Momentary switch off)\n____Audio Input____\nInput Type: 1/4” Unbalanced TS (Tip-Sleeve)\nMax Input Level: +5 dBu\nInput Impedance: 1 MΩ (Effect enabled or effect bypassed w/ Momentary switch on) ; True Bypass (Effect bypassed w/ Momentary switch off)",
+    "hrid": "digitech-freqout"
+}

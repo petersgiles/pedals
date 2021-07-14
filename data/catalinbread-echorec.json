@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11455",
+    "name": "Echorec",
+    "image": "images/catalinbread-echorec.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$240 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Tape EchoINTRODUCTION\nThe resurrection of the legendary Binson Echorec multi-head drum echo\n“Driving force behind Pink Floyd’s Pompeii performance.”\nTHE STORY\nThe Binson Echorec was so cool we had no choice but to bring it back. And we wanted to bring it back right. We wanted to take all the goodness of that huge Binson Echorec and squeeze it down into a standard sized stompbox without losing anything. In fact, in addition to not losing any of the qualities that made it such a compelling musical device, we wanted to EXTEND its capabilities because the original Binson hinted at possibilities that it couldn’t realize. We’re talking about variable delay time! We thought, “What if we had the same four playback head concept but could stretch the delay time out beyond the 300mS of the original Binson?” Then the rhythmic patterns suggested by the various combinations of those four playback heads could really come to life!\nOVERVIEW\nThe Swell knob controls the number of repeats regenerated – from a single repeat of each playback head to infinite repeats.\nThe Tone control tilts the EQ of the repeats from dark and fat to bright and thin. Dark settings makes the repeats sit in the background. Bright settings emphasizes the attack, great for playing off the syncopated rhythms of the multi-head arrangement.\nThe original Echorec had a maximum delay time of 300ms. The delay time on the Catalinbread Echorec goes from about 40ms -1000ms. And the cool thing is you can twist the Delay Time knob in real-time to get speeding-up / slowing-down, spaceship warp landing sounds!\nMix knob goes from full dry to full wet giving a lot of flexibility to use the Echorec in a variety of situations, even wet/dry rigs by setting the Mix full wet.\nThe original Echorec had a 12 position switch which controlled the various playback head configurations. Since the original was mechanical with the disc only able to go one speed, not all combinations were available for use. The Catalinbread Echorec changes all that. With the ability to vary the delay time on the single playback head, we were able to include all combinations, which include rhythmic patterns not available before.\nEXPERIENCE\nHere’s a quick rundown so you can get some playing time in before coming back and reading the full story. And please do come back and read the rest of the guide! It will help you more fully appreciate what the Echorec can do for you and give you a bit of history! Plug in your guitar, Echorec, and amp. Set your amp clean for now. Don’t put it on your pedalboard just yet, just play it by itself to get familiar with it! Set Swell to minimum, Tone to noon, Delay Time to noon, Mix between 9:00 and noon, and set Program Select anywhere you fancy. Now play your guitar and flip through the Program Select. This control allows you to select the playback head combinations. Program 1 is a single tap and Program 12 is all four heads. And in-between are all the cool combinations that give you some famous and soon-to-be-famous rhythmic pulses (you will write a song before the night’s out – guaranteed! \nhttps://catalinbread.com/products/echorec",
+    "hrid": "catalinbread-echorec"
+}

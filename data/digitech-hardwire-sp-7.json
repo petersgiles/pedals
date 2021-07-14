@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15039",
+    "name": "Hardwire SP-7",
+    "image": "images/digitech-hardwire-sp-7.jpg",
+    "function": [
+        "Phase Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 89,
+    "height": 140,
+    "details": "Stereo Phaser\nhttps://digitech.com/en/products/sp-7",
+    "hrid": "digitech-hardwire-sp-7"
+}

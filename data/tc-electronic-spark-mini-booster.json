@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11848",
+    "name": "Spark Mini Booster",
+    "image": "images/tc-electronic-spark-mini-booster.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 52,
+    "height": 100,
+    "details": "Boost pedalUltra-compact booster pedal with PrimeTime switching and all-analog design kicks your playing into high gear\nImpressive 20 dB of completely clean boost makes your core tone shine through\nRevolutionary PrimeTime footswitch seamlessly toggles between classic on/off or a momentary boost based on how long you hold it down\nHigh-quality discrete analog circuit purely amplifies your signal without any degrading or alteration\nLevel control knob gives you versatility to go for a pristine boost or drive your amps to peak performance\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nExtra-small enclosure easily fits on any pedal board\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/SPARK-MINI-BOOSTER/p/P0DDA#googtrans(en|en)\nhttp://www.tcelectronic.com/spark-mini-booster/",
+    "hrid": "tc-electronic-spark-mini-booster"
+}

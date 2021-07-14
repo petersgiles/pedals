@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14143",
+    "name": "Red Llama MKII",
+    "image": "images/way-huge-red-llama-mkii.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / 9 V / DC",
+    "cost": "$157 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Transparent Overdrive/Boost/Fuzz\nhttps://www.jimdunlop.com/product/whe203-7-10137-05313-7.do",
+    "hrid": "way-huge-red-llama-mkii"
+}

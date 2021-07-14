@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11449",
+    "name": "DS-1",
+    "image": "images/boss-ds-1.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "20 mA / 9 V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Distortion",
+    "hrid": "boss-ds-1"
+}

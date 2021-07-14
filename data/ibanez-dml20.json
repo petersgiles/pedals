@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11927",
+    "name": "DML20",
+    "image": "images/ibanez-dml20.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Modulation Delay III",
+    "hrid": "ibanez-dml20"
+}

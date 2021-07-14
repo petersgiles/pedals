@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26302",
+    "name": "Distortion",
+    "image": "images/empress-effects-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "DistortionFrom mild to crunch to lead, the empress distortion does it all. This true bypass pedal offers three flavors of distortion while retaining a super tight low end and naturally compressing like a high gain amp.\nThe mild setting offers gentle break-up that cleans up with your volume knob. The crunch setting is tight, with good bite. The lead setting offers high gain with lots of sustain.\nGain control, two bands of EQ and output control allow you to tweak the sound to taste.\nhttps://empresseffects.com/products/distortion",
+    "hrid": "empress-effects-distortion"
+}

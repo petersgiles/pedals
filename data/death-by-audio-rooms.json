@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26748",
+    "name": "ROOMS",
+    "image": "images/death-by-audio-rooms.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$395 Price in €",
+    "width": 98,
+    "height": 151,
+    "details": "Stereo, multi-function digital reverbROOMS is a stereo, multi function digital reverb capable of searing volume, gated walls of sound, and long, trailing reverberant ambiances with an intuitive array of controls designed with live mood-bending in mind.\nROOMS was designed to the highest standards of flexibility and audio fidelity. A studio-quality mixer section provides independent DRY and FX controls over six meticulously programmed reverb algorithms; ROOM, DIGIT, PEAK, GATE, WAVE, and GONG. Each different verb is capable of a universe of sounds, and ROOMS is here to help you explore them.\nROOMS' creative I/O switching and dual-mono dry signal lines allow for a wealth of possible mono and stereo configurations, making it easy to route signals for parallel processing or stereo amplifier setups.\nFREQ: Controls the frequency parameter of the current mode.\nDEPTH: Controls the depth parameter of the current mode.\nTIME: Controls the reverb time in all modes.\nDRY: Controls the volume of the dry signal, from -inf to 20x gain.\nFX: Controls the volume of the reverb signal, from -inf to 20x gain.\nALT: Engages the ALT mode, switching between two sets of controls. When active, FREQ is controlled with the F knob, DEPTH with the D knob, and TIME with the T knob. Additionally, the ALT mode turns on expression control of either FREQ or TIME using the FT Switch on the side of the pedal. NOTE: Expression control ONLY works in ALT mode and when an expression pedal is plugged in.\nhttps://deathbyaudio.com/products/rooms",
+    "hrid": "death-by-audio-rooms"
+}

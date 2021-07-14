@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32619",
+    "name": "Cosmos",
+    "image": "images/soma-laboratory-cosmos.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Looper"
+    ],
+    "manufacturer": "SOMA Laboratory",
+    "current": "? mA / 12 V / AC / Positive Center",
+    "cost": "$518 Price in €",
+    "width": 342,
+    "height": 153,
+    "details": "Drifting Memory StationCOSMOS is a drifting memory station designed to work with meditative states through music. The design of the controls, functions and generated soundscapes are intended to evoke, in both performer and listener, states and experiences inherent in meditation, such as limitless space, fluidity, spontaneous development, presence, the ability to hear, tranquility, the experience of subtle harmony and happiness enveloping the whole world.\nFrom a functional point of view, COSMOS is a large array of sound memory, in which recorded sounds undergo constant recombinations, spontaneously generating an ever-changing soundscape. This is achieved in three ways — by a mathematical shift based on the relationships between large prime numbers (the size of all delay lines are different primes), an asynchronous operation of the LFO, and modulation with a slowly changing chaotic signal. As a result, it allows the endless layering and processing of various sounds, as in a looper, but without an intrusive, repetitive loop.\nCOSMOS generates rich, fluid and evolving soundscapes perfect for ambient music. Using COSMOS, you can play an entire meditative solo concert while being in a spontaneous flow and without using studio-prepared sequences, backing tracks and other things that can’t be a reflection of the “here and now”.\nhttps://somasynths.com/cosmos/",
+    "hrid": "soma-laboratory-cosmos"
+}

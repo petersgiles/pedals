@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11974",
+    "name": "MF-108M Cluster Flux",
+    "image": "images/moog-music-inc.-mf-108m-cluster-flux.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "MIDI"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$499 Price in €",
+    "width": 152,
+    "height": 229,
+    "details": "Don’t be fooled by the Chorus/Flange switch. While the Cluster Flux can conjure up a monstrous Jet Flange and sparkling Chorus sound, it also can transport you straight into another dimension.\nCreate an array of unique sounds with 6 wave shapes (Sine, Triangle, Square, Ramp, Reverse Ramp and Sample and Hold).  Each shape is the foundation for a completely different musical inspiration.  Tap in the tempo of your LFO via the TAP TEMPO button, or sync the Cluster Flux to a MIDI clock.\nPositive and Negative Feedback allow you a wider range of tones and voicing than you would find in a normal stomp box.  These can even be used to drive the Cluster Flux into tuned self-oscillation.\nUse the Amount and Rate controls for expression and modulation of the delay line.  Anything from vibrato to a jackhammer, these controls can make it happen.\nJust want a little bit of an effect?  Use mix control to dial in the the perfect blend of original and effected signal.\nWant more control?  CV jacks on the back allow for control of Time, Rate, Mix, Feedback and Amount via the Moog EP-2 Expression Pedal, CV or other Moogerfoogers.\nLike all Moogerfoogers, the Cluster Flux is made to work with all sound sources: Guitars, Drum Machines, Keyboards... you name it.  The Cluster Flux is of course built in the classic Moog fashion and is guranteed to give you a lifetime of musical joy!\nhttps://www.moogmusic.com/products/moogerfoogers/mf-108m-cluster-flux",
+    "hrid": "moog-music-inc.-mf-108m-cluster-flux"
+}

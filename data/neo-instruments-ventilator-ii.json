@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13288",
+    "name": "Ventilator II",
+    "image": "images/neo-instruments-ventilator-ii.jpg",
+    "function": [
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neo Instruments",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$448 Price in €",
+    "width": 160,
+    "height": 140,
+    "details": "Rotary Cabinet Simulator",
+    "hrid": "neo-instruments-ventilator-ii"
+}

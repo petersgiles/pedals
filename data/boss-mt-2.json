@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11864",
+    "name": "MT-2",
+    "image": "images/boss-mt-2.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "20 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$89 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Metal ZoneA very wide range of distortion sounds with 3-band EQ and strong sustain.\nThe MT-2 Metal Zone is one of BOSS' most popular pedals. This stompbox provides some of the most over-the-top, insane distortion tones in the world—with huge mids and lows and an ultra-saturated sound.\nIncredible-sounding distortion pedal with unique dual-gain circuitry\nProvides super-long sustain and heavy mids and lows like a stack of overdriven amps\nThree-band EQ with semi-parametric Mid control offers a wide range of extreme distortion textures\nA must-have pedal for any hard rock or metal guitarist\nBOSS five-year warranty\n\nNominal Input Level\n    -20 dBu\nInput Impedance\n    1 M ohm\nNominal Output Level\n    -20 dBu\nOutput Impedance\n    1 k ohm\nRecommended Load Impedance\n    10 k ohms or greater\nBypass\n    Buffered bypass\nControls\n    DIST knob\n    EQUALIZER MIDDLE/MID FREQ knob\n    EQUALIZER HIGH/LOW knob\n    LEVEL knob\n    Pedal switch\nIndicator\n    CHECK indicator (Used for indication of check battery)\nConnectors\n    INPUT jack: 1/4-inch phone type\n    OUTPUT jack: 1/4-inch phone type\n    DC IN jack\nPower Supply\n    Carbon-zinc battery (9 V, 6F22) or Alkaline battery (9 V, 6LR61)\n    AC adaptor (PSA series: sold separately)\nCurrent Draw\n    20 mA\nExpected battery life under continuous use\n    Carbon: Approx. 19.5 hours\n    Alkaline: Approx. 34.0 hours\n    *These figures will vary depending on the actual conditions of use.\nAccessories\n    Owner's manual\n    Leaflet (\"USING THE UNIT SAFELY,\" \"IMPORTANT NOTES,\" and \"Information\")\n    Carbon-zinc battery (9 V, 6F22)\nOptions (sold separately)\n    AC adaptor: PSA series\nSize and Weight\nWidth\n    73 mm\n    2-7/8 inches\nDepth\n    129 mm\n    5-1/8 inches\nHeight\n    59 mm\n    2-3/8 inches\nWeight (including battery)\n    410 g\n    15 oz\n* 0 dBu = 0.775 Vrms\n*The specifications are subject to change without notice.\nhttps://www.boss.info/us/products/mt-2/",
+    "hrid": "boss-mt-2"
+}

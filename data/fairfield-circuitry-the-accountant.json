@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12815",
+    "name": "The Accountant",
+    "image": "images/fairfield-circuitry-the-accountant.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$215 Price in €",
+    "width": 45,
+    "height": 100,
+    "details": "Every operation needs an accountant, and your signal chain is no exception. This little guy will fit right in, no questions asked. Call upon his services to crunch numbers, cook your books and calculate ratios in all confidence that your shit will remain tight.\nWe’re talking about a mostly utilitarian relationship here, but one of trust as well. Whether you enjoy slight, nuanced dynamics control or you just want to squeeze your signal into one dimension, you'll find a use for The Accountant.\nFeaturing all analogue, JFET feedback compression, The Accountant works well with all signal sources; guitars, bass, vocals, synths, even whole mixes. A simple control interface allows you to change the threshold, compression ratio and makeup gain.\nhttps://fairfieldcircuitry.com/products/the-accountant",
+    "hrid": "fairfield-circuitry-the-accountant"
+}

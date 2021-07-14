@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16037",
+    "name": "Hog 2",
+    "image": "images/electro-harmonix-hog-2.jpg",
+    "function": [
+        "Filter",
+        "Pitch Shifter",
+        "Synth Voice",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$478 Price in €",
+    "width": 235,
+    "height": 152,
+    "details": "",
+    "hrid": "electro-harmonix-hog-2"
+}

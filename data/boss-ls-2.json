@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12122",
+    "name": "LS-2",
+    "image": "images/boss-ls-2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$118 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Line SelectorThe LS-2 Line Selector pedal represents the easy way to switch settings among several effects devices or amplifiers, or route input and output signals. Two line loops and six looping modes provide a wide variety of applications.\n\nCompact line selection pedal for connecting and switching between multiple amplifiers and effects devices\nProvides two line loops with Level control and six looping modes\nCan supply power to several BOSS compact pedals when used with an AC adaptor\nThe ideal power supply and master switching unit for multiple effects setups\n\nhttps://www.boss.info/es-es/products/ls-2/",
+    "hrid": "boss-ls-2"
+}

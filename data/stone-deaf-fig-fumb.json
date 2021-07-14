@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13158",
+    "name": "Fig Fumb",
+    "image": "images/stone-deaf-fig-fumb.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 117,
+    "height": 153,
+    "details": "Paracentric Fuzz Filter\nhttp://www.stonedeaffx.com/fig-fumb",
+    "hrid": "stone-deaf-fig-fumb"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11862",
+    "name": "Plague Rat",
+    "image": "images/lone-wolf-audio-plague-rat.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lone Wolf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "Tweaked ProCo Rat clone",
+    "hrid": "lone-wolf-audio-plague-rat"
+}

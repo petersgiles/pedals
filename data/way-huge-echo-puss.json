@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19338",
+    "name": "Echo-Puss",
+    "image": "images/way-huge-echo-puss.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 84,
+    "height": 124,
+    "details": "Analog DelayThe Way Huge Echo-Puss was designed by delay expert Jeorge Tripps for players who want an organic analog delay pedal that allows them to fine-tune their delay sound with a simple user interface. It serves up 600ms of delay with a pair of gravelly-voiced bucket-brigade chips. Additionally, a fully tweakable LFO modulation circuit allows you to add a liquid texture to the sound of the repeats.\nhttps://www.jimdunlop.com/product/whe702s-7-10137-06606-9.do",
+    "hrid": "way-huge-echo-puss"
+}

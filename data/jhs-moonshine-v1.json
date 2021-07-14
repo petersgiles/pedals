@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13641",
+    "name": "Moonshine V1",
+    "image": "images/jhs-moonshine-v1.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 72,
+    "height": 124,
+    "details": "Tube Overdrive",
+    "hrid": "jhs-moonshine-v1"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18048",
+    "name": "OCD v2 CME Exclusive Limited Edition Black",
+    "image": "images/fulltone-ocd-v2-cme-exclusive-limited-edition-black.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 120,
+    "details": "",
+    "hrid": "fulltone-ocd-v2-cme-exclusive-limited-edition-black"
+}

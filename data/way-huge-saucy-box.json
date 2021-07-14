@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19051",
+    "name": "Saucy Box",
+    "image": "images/way-huge-saucy-box.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 89,
+    "height": 89,
+    "details": "Gritty Analog Overdrive WHs Tubescreamer with a smooth sweet teriyaki flavor. I threw my tubescreamer gently into a corner, I use this with \nA fuzz to give it some fur. \nhttps://www.amazon.com/Way-Huge-WHE205-Saucy-Overdrive/dp/B00QU2GI1C/ref=sr_1_1/142-9413515-1740609?ie=UTF8&qid=1538918645&sr=8-1&keywords=way+huge+saucy+box",
+    "hrid": "way-huge-saucy-box"
+}

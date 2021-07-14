@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27424",
+    "name": "Viper",
+    "image": "images/donner-viper.jpg",
+    "function": [
+        "Controller",
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Donner",
+    "current": "10 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 66,
+    "height": 149,
+    "details": "Mini Passive Volume/Expression PedalThe Donner Viper Mini Volume/Expression 2 in 1 Pedal is a multi-functional pedal with extremely lightweight casing, which provides convenience for guitarists. The Viper delivers both an excellent Expression response along with Volume function and all in a small footprint. Special analog circuit design, and automatically detects and catchs output source (EXP/Vol) objective. Very small footprint and much shorter than a standard Expression pedal or Volume pedal. Made of hard plastic lightweight casing but very robust and well made. Smooth taper responds to various parameters with precision. Works without battery or pedal power supply, extensive range with guitar, bass and other musical instruments. \nAnalog circuit design, 2 functions in 1 pedal- passive volume and expression pedal.\nAutomatically detects and catchs output source (EXP/Vol) objective.\nMade of hard plastic lightweight casing but very robust and well made.\nSmooth taper responds to various parameters with precision.\nWorks without battery or pedal power supply, extensive range with guitar, bass and other musical instruments.\n\nSpecifications\nInput: 1/4\"Monaural Jack.\nOutput: 1/4\"Monaural Jack.\nWorking Current: 10mA.\nDimensions: 148.5mm (D)*65.5mm (W)*60mm (H)\nNet Weight: 280g (with box)\n\nhttps://www.donnerdeal.com/collections/guitar-effect-pedal/products/donner-viper-mini-volume-expression-pedal",
+    "hrid": "donner-viper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26972",
+    "name": "16-Step CV Sequencer",
+    "image": "images/rucci-electronics-16-step-cv-sequencer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "93 mA / 9 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 121,
+    "height": 145,
+    "details": "(0-5 Volt) 16-Step CV SequencerThis is a 16-step sequencer that outputs control voltage from 0 to 5 volts. This is used to manipulate other equipment that utilizes incoming CV.\nIn addition to being able to select the number of steps (2 to 16) there are other modes and patterns…\n\n16 Steps forward followed by 16 in reverse\n8 blocks of 2 steps repeated 16 times\n4 blocks of 4 steps repeated 4 times\n2 blocks of 8 steps repeated 4 times\nDual overlapping 8-Step Sequences\nHolding 3 beats on steps 1, 5, 9 and 13\n2 steps forward, 1 step back\nRandom Mode\n\nModes are selectable via a mode control knob. You have control over the speed and 16 sliders to set the voltage of each step. There is a switch to start/stop the sequence and a button to manual step through when stopped.\nAll jacks are 1/8″ (3.5mm). The CV output is separated from the sync jacks. It has a sync input and two sync outputs, one that outputs a 5V clock pulse for each step and one that outputs a pulse only at step one. This allows multiple units to sync up either step for step or overlapping. Sync in is closest to the DC input, in the middle is the sync out, and closest to the CV output jack is the sync out with one pulse at step one.\nIt is housed in an extremely tough, raw aluminum case. It is powered by a 9V battery or 9V center-negative DC adapter.\n;\nhttps://handmadeelectronicinstruments.com/product/16-step-cv-sequencer/",
+    "hrid": "rucci-electronics-16-step-cv-sequencer"
+}

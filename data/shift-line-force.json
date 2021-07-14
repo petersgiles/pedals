@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16504",
+    "name": "Force",
+    "image": "images/shift-line-force.jpg",
+    "function": [
+        "Looper",
+        "Reverb",
+        "Sampling"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 38,
+    "height": 99,
+    "details": "Microsampler / Freeze Reverb / Sound Retainer PedalShift Line Force Freeze Reverb / Sound Retainer Pedal\nThank you so much for checking out a BRAND NEW in box w/ warranty Shift Line Force Freeze Reverb / Sound Retainer Pedal!\nPlay a chord and push the footswitch: the chord will freeze and create a wall of sound, over which you can play a solo. You can also use these pad-like sounds in Ambient/Drone types of music.\nThe Force records a very short sample of music and (as soon as it's switched on) loops, filters and adds a high-feedback reverb, that results in a lush background / pad sound!\nA very few devices can do the same thing and none of them have such a small footprint!\nOne more distinctive feature of the Force is that the pedal constantly \"listens\" to the input signal. You don't have to wait for the reverb to build up when you press the footwitch on – the Force samples the incoming signal and starts working exactly when you need it.\nFeatures\nLatched (\"••\") and Momentary (\"•\") switching modes\n2 (two) effect types: Standard Freeze & Freeze w/ an octave down\nClean and Octave Down freeze modes\nBright red LED on/off indicator\nUltra-compact (\"nano\") lightweight housing\nBuffered Bypass does not distort or color the signal\nThe \"Secret\" mode – sounds of upcoming Shift Line pedals!\nSpecifications\nInputs/Outputs: guitar/bass guitar or any other signal source input (IN) and output to an amp or other effects pedals (OUT)\nPower requirements: 9 Volts DC ~70 mA, center (tip) negative polarity. Can be powered by a 9 Volt regulated AC/DC adapter (not included)\nDimensions (W x D x H, w/o the knob): 38 x 98 x 33 mm (1.5 x 3.9 x 1.2\")\nWeight: 150 grams / 5.3 oz\nPackage Contents\n(1) Shift Line Force\n(1) User's Guide (English)\nPower supply is NOT included\nhttps://shift-line.com/",
+    "hrid": "shift-line-force"
+}

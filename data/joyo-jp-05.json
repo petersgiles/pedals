@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22502",
+    "name": "JP-05",
+    "image": "images/joyo-jp-05.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 146,
+    "height": 64,
+    "details": "Isolated Power SupplyJOYO's JP-05 power supply has 8 DC outputs and 1 standard USB output, one of the 8 outputs can be switched between 9V, 12V and 18V for the odd pedals in your collection that just want a little bit more voltage. The 5V USB output enables you to load your cell phone, iPad and other portable devices.\nFeatures:\n\nWith a built-in 7.4V/4400mAh rechargeable lithium battery pack, charging time is about 2.5hrs.\n4 DC 9V 100mA outputs.\n3 DC 9V 500mA outputs.\n1 DC 9V/12V/18V adjustable output, maximum output current is 100mA.\nWith battery level indicator. It stops charging automatically when it is fully charged.\nOne 5V output USB port, compatible for charging cell phones, tablets and other portable devices.\nLasts 2 hours with high current digital pedals; lasts more than 10 hours with 8 analog pedals\n\nPacking List:\nPower supply: 1 piece (dimensions:1466535mm weight:620g )\nOwner's manual: 1 piece\n9V/2A power adapter: 1 piece\nDC Cable: 8 pieces (plug's size: outside diameter:5.5mm， inside diameter: 2.1mm)\nReversed polarity cable: 1 piece (plug's size: outside diameter:5.5mm， inside diameter:2.1mm ) \nhttp://joyoaudio.com/en/product/show_306.html",
+    "hrid": "joyo-jp-05"
+}

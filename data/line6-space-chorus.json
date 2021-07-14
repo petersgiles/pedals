@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12097",
+    "name": "Space Chorus",
+    "image": "images/line6-space-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Digital",
+        "Dual/Stereo",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 86,
+    "height": 143,
+    "details": "OVERVIEW    \nGet your hands on tones that are truly orbital with the Space Chorus™ pedal. Space Chorus features three models all based on vintage and modern analog effects: Chorus, Tri, and Vibrato. Tweak your sound with adjustable speed, shape, and depth. Space Chorus also features stereo ins and outs and Tap Tempo to keep your luscious swirling tone in time.\nModel Switch - Give this a flick to reconfigure the virtual circuitry inside Space Chorus, and enjoy three distinctly different \"flavors.\"\nChorus - This model lets you get tones in the style of both vintage and modern analog chorus units with \"bucket brigade\" electronics. Feed it a mono in, and you'll get chorused sound on the left, and unprocessed \"dry\" sound on the right. Feed it stereo, and you'll get processed sound to both left and right outputs.\n\nTri - Get thick, richly modulated tone from this model based on the legendary multi-voiced chorus unit that's a treasured \"secret weapon\" in many great studios.\n\nVibrato - This model gives a warbling pitch variation to your sound, in the style of no-dry-mix vibrato units. \n\nSpeed - Adjusts the effect sound from a slow sweep to a speedy warble.\nDepth - Dial in the amount of effect, from subtle to dramatic.\nColor - The Color knob simultaneously adjusts many behind the scenes details of the sounds and works differently for each model:\nWith the Chorus model, the Color knob lets you go from vintage analog tones (knob pointing left) to more modern chorus sounds (knob pointing right).\nFor the Tri model, color gives you a choice from warm and mellow sound to shimmering and bright.\nFor Vibrato, color works more like a three-way switch for Vintage, Blue and Euro style sounds as shown. \n\nTap Tempo - Get your swirling chorus groove on! Using the innovative ToneCore® double-action footswitch, you can tap a couple times and have the pulsations match your tempo. Whether the effect is active or bypassed, you can tap the footswitch lightly to set your tempo. Your first two taps establish the tempo and any additional taps will be averaged in.\nAny time the Tap Tempo switch is used, the tapped value overrides the current setting. Whenever the knob is turned, it overrides the last value entered with the Tap Tempo switch. Space Chorus? indicator light flashes the tempo in green when the effect is ON and amber when the effect is OFF.",
+    "hrid": "line6-space-chorus"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26343",
+    "name": "The Clone Theory",
+    "image": "images/electro-harmonix-the-clone-theory.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Chorus/VibratoThis recreation of the original 1970's Clone Theory is re-known for its very edgy chorus. Stereo outputs provide lush chorus and vibrato with a sparkling wash and liquid elegance.\nhttps://www.ehx.com/products/stereo-clone-theory",
+    "hrid": "electro-harmonix-the-clone-theory"
+}

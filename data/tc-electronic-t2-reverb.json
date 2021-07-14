@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12203",
+    "name": "T2 Reverb",
+    "image": "images/tc-electronic-t2-reverb.jpg",
+    "function": [
+        "Flanger",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 122,
+    "details": "High-Quality Reverb with Built-In TonePrint TechnologyHigh-quality reverb pedal with gorgeous exclusive reverb effects and built-in TonePrint technology offers you a wealth of fascinating sonic potential\n10 exclusive reverb effects handcrafted by reverb experts at TC ELECTRONIC and ProGuitarShop* developed with the ambient guitarist in mind\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized reverb effects from scratch with free TonePrint Editor for PC, Mac* and iPad*\nSimple and intuitive user interface lets you focus on playing\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nOptional buffered bypass mode prevents high frequency loss from long cable runs\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when reverb is engaged\nKill-Dry feature removes the dry signal path for use with parallel effects loops\nTrue stereo I/O provides incredibly wide 3-dimensional tones\nEasy \"1 screw\" battery compartment access\nCompact format fits on any pedal board\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nThe T2 is wired for true bypass and accepts a standard 9v 2.1mm center-negative Boss-style power supply. The current draw is 100mA. Make sure you isolated power supply is capable of putting out 100mA of current before assigning it to a tap. \nhttp://www.tcelectronic.com/t2-reverb/",
+    "hrid": "tc-electronic-t2-reverb"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11421",
+    "name": "RE-20 Space Echo",
+    "image": "images/boss-re-20-space-echo.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$259 Price in €",
+    "width": 173,
+    "height": 158,
+    "details": "Tap Tempo Tape Echo Emulation PedalAmazing simulation of the famous Roland RE-201, with the spacious, analog tone of the original Space Echo\nFaithful modeling of the RE-201’s tape flutter and magnetic head sound saturation\nTap input pedal allows delay time to be set by foot\nLonger delay time than the original RE-201\nControl parameters such as REPEAT RATE, INTENSITY, and more via Expression pedal\nMODE SELECTOR knob with 12 placements just likes the original Space Echo\n\nhttps://www.boss.info/global/products/re-20/features/",
+    "hrid": "boss-re-20-space-echo"
+}

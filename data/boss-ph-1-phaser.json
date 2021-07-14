@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12709",
+    "name": "PH-1 Phaser",
+    "image": "images/boss-ph-1-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Boss' first phaser, MIJ and analog",
+    "hrid": "boss-ph-1-phaser"
+}

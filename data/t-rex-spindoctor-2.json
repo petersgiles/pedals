@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31870",
+    "name": "Spindoctor 2",
+    "image": "images/t-rex-spindoctor-2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "2500 mA / 12 V / DC / Negative Center",
+    "cost": "$324 Price in €",
+    "width": 255,
+    "height": 186,
+    "details": "Tube preamp pedalTRIODE PROGRAMMABLE PREAMP\nMusicians and music equipment reviewers were astonished when T-Rex Effects released our original SpinDoctor, a tube-driven preamp stomp box with 4 programmable channels, a full set of tone controls, motorised knobs and gorgeous vintage tone. Now, we are pleased to introduce SpinDoctor2 – offering all the amazing features of the original, but revamped guts that deliver a wider spectrum of clean and dirty sounds and an even richer, more vibrant tone.\nTHE WORLD’S BEST OVERDRIVE PEDAL\nWhen plugged into your stage amp, SpinDoctor2 is nothing less than the best overdrive pedal on the planet. You’ll broaden and deepen your amp with 4 custom channels of analogue overdrive – each with its own settings for gain, bass, mid, treble, presence and output level. A “lead” button is always available to take your right over the edge, and you can bypass your SpinDoctor2 from any channel for a clean sound straight from your amp.\nA PROGRAMMABLE TUBE PREAMP\nYou can also use SpinDoctor2 as a tube preamp, plugging it directly into a power amp via the output jack. In the studio, use the speaker-simulation output to plug into a studio mixer or AD converter connected to your computer. Special level and frequency knobs let you set the volume and define the character of your virtual cabinet.\nBRILLIANT FEATURES, STUNNING DESIGN\nSpinDoctor2 is a masterpiece of sonic art. But it’s also a triumph of design – packing a stunning array of features into a set of controls so intuitive and easy to use, you’ll have to try to believe it. Here’s what you get:\n•  4 channels of T-Rex tone. For each channel, you set the gain, tone and output exactly how you want it. Switching between channels and making     adjustments on the fly is simple, fast and intuitive.\n•  Tone controls let you tune your tone (bass, mid, treble and presence) for each individual channel. When you switch channels, all your settings change too     giving you the perfect depth, sustain and edge no matter how much gain you apply.\n•  Motorised knobs move when you switch channels – like faders on a state-of-the-art studio mixing board. They’re way cool, but they also provide mission     critical visual cues that let you monitor your settings at a glance – and adjust them in no time.\n•  Gain gives you the entire spectrum of analogue gain in a single knob. Turn it down low for a warm clean sound. Turn it up to lay on the gain. And if you     want even more – hit the boost button and blast off into the stratosphere of world-class overdrive.\nhttps://www.t-rex-effects.com/spindoctor2",
+    "hrid": "t-rex-spindoctor-2"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30347",
+    "name": "Bass Compressor",
+    "image": "images/empress-effects-bass-compressor.jpg",
+    "function": [
+        "Bass",
+        "Dynamics"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "Bass compressorWhen we released our original Compressor back in 2011, it quickly became a favourite among guitar and bass players alike who were searching for something more than the typical oversimplified controls found on most compressor pedals. Although our original Compressor sounded great on bass (and still does!) we set out to do even better. \nOn top of the full range of features and controls normally only seen in high end studio equipment, such as input and gain reduction metering, independent attack and release controls, a mix knob for parallel compression, and an external sidechain insert, we’ve now added a fully variable sidechain high pass filter, and a two position ‘tone + colour’ circuit which adds gentle tone sculpting and harmonic distortion, giving your bass some delicious character.",
+    "hrid": "empress-effects-bass-compressor"
+}

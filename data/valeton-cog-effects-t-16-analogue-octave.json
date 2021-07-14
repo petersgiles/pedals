@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19353",
+    "name": "Cog Effects T-16 Analogue Octave",
+    "image": "images/valeton-cog-effects-t-16-analogue-octave.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 47,
+    "height": 97,
+    "details": "T-16 Analogue OctaveT-16 Analogue Octave\nHuge analogue octave tones, tiny enclosure. The T-16 is the smallest analogue octave pedal around, yet still has the flexibility and tone to run with the big boys. As well as level controls for the clean signal and octave down signal, a variable Filter control (like the one on the T-16's big brother, the T-65) is included to allow shaping of the octave down signal from buzzy and synthy through to fat sub tones and everything in between. Find the right octave tone for your sound and your rig. \nThe T-16 is built to last, with all jacks panel-mounted rather than PCB-mounted, and features true bypass switching. No need to compromise on size, on quality, or on tone. Awesome. \n\nClean and Down level controls are independent\nFilter allows you to shape your octave down tone\n2.1mm Boss-style 9v DC input (power supply not included)\nBuilt into the tiny Hammond 1590A aluminium enclosure\nTrue Bypass\n\nhttps://www.cogeffects.co.uk/t-16-octave.php",
+    "hrid": "valeton-cog-effects-t-16-analogue-octave"
+}

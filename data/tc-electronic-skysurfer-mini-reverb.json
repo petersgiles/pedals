@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33009",
+    "name": "Skysurfer Mini Reverb",
+    "image": "images/tc-electronic-skysurfer-mini-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 57,
+    "height": 99,
+    "details": "Studio-Grade Reverb with 3 AlgorithmsSKYSURFER MINI REVERB offers 3 \"bread and butter\" reverb flavours via its on-board mode switch. SPRING recreates all of the drip and splash of an oldskool reverb tank like you will find in a vintage tube amp. PLATE enables you to mimic classic studio reverbs and HALL covers a full range of tones from earthy and organic to full-on interstellar spaceflight.\nhttps://www.tcelectronic.com/product.html?modelCode=P0EBU",
+    "hrid": "tc-electronic-skysurfer-mini-reverb"
+}

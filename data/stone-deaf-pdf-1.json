@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12394",
+    "name": "PDF-1",
+    "image": "images/stone-deaf-pdf-1.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 112,
+    "height": 150,
+    "details": "The PDF-1 stands for Parametric Distortion Filter number 1. This pedal works incredibly well on Guitar or Bass!It is a parametric EQ that has a switch-able clean and distorted circuit inside which enables the user to cut and boost by 20dB of a selected frequency from 65Hz-3000Hz. It has a selectable 5 position bandwidth switch that tailors your sound from FAT to THIN which will give you FAT bottom end and THIN needle point highs on your guitar and bass. Kick in the overdrive/fuzz and you can select a multitude of sounds that can get you from dirty overdriven /fizzy guitar tone to fizzy velcro type bass fuzz tuning to clip the output of your amp that also has a lot of colour in between.\nIt has a true bypass Aux output to a second amp for your clean sound to be used simultaneously. (We suggest using an output transformer such as the GigRig Humdinger to eliminate potential earth loops.)\nThis pedal also interacts with your amp and works well with other pedals so experiment people!\nThe PDF-1 is based on the Maestro Parametric Filter MPF-1 that was designed by Bob Moog back in the 1970's for Gibson Norlin. This original pedal is used by Alex Lifeson of Rush and more notably Joshua Homme of Queens Of The Stone Age (Its all over the rated R album). Stone Deaf FX felt this pedal sounded too good to be overlooked and too rare for people really to have the opportunity to play one. So we thought lets re-design the Maestro MPF-1 and improve upon what was already great about this pedal. Other Notable users include: Red Hot Chilli Peppers, The Strokes, Biffy Clyro, Foo Fighters and Them Crooked Vultures plus many more.\nThey have designed the circuit to be virtually silent when it is switched on when you are not playing your instrument. (No audible hum or frequency whistle). Aswell as this they have used high quality components including: ALPHA Pots, WIMA, PANASONIC and MULTICOMP caps, High Quality Lead Free PCB's, Dual LED with LED Bezel, Rohs Compliant True Bypass Footswitch, High Quality Jacks, Custom made satin finished Black/Silver powder coated aluminium enclosure, easy access battery compartment and 9v boss style power adaptor.",
+    "hrid": "stone-deaf-pdf-1"
+}

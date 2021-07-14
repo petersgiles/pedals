@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26009",
+    "name": "Sunday Driver II sw",
+    "image": "images/lehle-sunday-driver-ii-sw.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Lehle",
+    "current": "165 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 90,
+    "height": 92,
+    "details": "Preamp• High-end preamp, buffer and booster\n• Discrete Class A input stage\n• 130 dB dynamic range thanks to 30 V technology\n• Choose between two sound modes\n• Neutral, studio quality sound\n• Switchable boost up to +18 dB\n• Choose between Buffer and True-Bypass operation\n• Balanced output can be used as a DI box\nThe LEHLE SUNDAY DRIVER SW II is a compact high-end preamp for all types of electric and acoustic instruments - a preamp for electric and acoustic guitars and basses, not to mention other stringed instruments (such as violins, cellos and double basses) to realize their full musical potential. The switchable version expands on the classic LEHLE SUNDAY DRIVER II with a soft-touch foot switch, to activate and deactivate the pedal.\nhttps://lehle.com/EN/Lehle-Sunday-Driver-SW-II",
+    "hrid": "lehle-sunday-driver-ii-sw"
+}

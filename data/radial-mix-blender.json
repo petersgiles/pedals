@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19458",
+    "name": "Mix-Blender",
+    "image": "images/radial-mix-blender.jpg",
+    "function": [
+        "Switch",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$212 Price in €",
+    "width": 90,
+    "height": 117,
+    "details": "Multi-function footswitchThe Mix-Blender™ is a multi-function pedal that lets you mix two instruments or pedals together and then send the signal through a footswitch-controlled effects loop for processing.\nMix two instruments or effects together at the same time\nBlend in effects while retaining the tone of your instrument\nClass-A buffered inputs with individual level controls\nOpens the door to creating subtle or unique effects\n\nhttps://www.radialeng.com/product/mix-blender",
+    "hrid": "radial-mix-blender"
+}

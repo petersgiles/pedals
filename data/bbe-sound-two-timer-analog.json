@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23521",
+    "name": "Two Timer Analog",
+    "image": "images/bbe-sound-two-timer-analog.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "13 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "Analog bucket brigade dual timeBBE's Two Timer is a dual-mode analog delay that delivers warm and haunting tones, reminiscent of tape-style delays. The pedal offers two independent delay times. Using two separate dials, you can choose the delay time of each, then switch between the two delays by using an onboard footswitch. The BBE Two Timer's circuit features a Bucket Brigade Delay, offering true analog character, and special metal film resistors keep the audio quality clean. Ture hardwire bypass, an LED indicator, and a non-slip rubber bottom round out the versatile BBE Two Timer delay pedal.\nhttp://www.bbesound.com/products/stomp-boxes/Two-Timer_TT-2.aspx",
+    "hrid": "bbe-sound-two-timer-analog"
+}

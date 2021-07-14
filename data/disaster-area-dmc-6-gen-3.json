@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11988",
+    "name": "DMC-6 Gen 3",
+    "image": "images/disaster-area-dmc-6-gen-3.jpg",
+    "function": [
+        "Utility",
+        "MIDI"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 188,
+    "height": 119,
+    "details": "MIDI ControllerThe DMC-6 Gen3 is our most powerful next generation compact MIDI controller.  The DMC-6D was the very first Gen2 controller from Disaster Area, and it really pushed the boundaries by adding additional presets, control modes, device support, and connectivity.  We first offered the DMC-6D way back in 2013, and now the time has come for us to give it the Gen3 treatment.\nhttp://www.disasterareaamps.com/shop/dmc-6-gen3",
+    "hrid": "disaster-area-dmc-6-gen-3"
+}

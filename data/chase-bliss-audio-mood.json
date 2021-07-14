@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22757",
+    "name": "Mood",
+    "image": "images/chase-bliss-audio-mood.jpg",
+    "function": [
+        "Digital Glitch",
+        "Looper",
+        "Sampling"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Granular Sampler M O O D™ is a two channel granular micro-looper / delay. Designed to be playful and immediate, it is a study of interaction. M O O D™ is internally collaborative, allowing audio to freely pass back and forth between its two sides, evolving and transforming over time. Drolo FX is behind the loop channel, a collection of always-listening micro-loopers, and Old Blood Noise Endeavors offer us the wet channel, a suite of live spatial effects. We have three different options for how the channels are internally routed. Run a time-stretched loop through a cloud of delay taps, re-record it and carry on. Overdub, freeze, dissolve, smear. The device’s heart is the clock control, which slows or accelerates both sides simultaneously in harmonized steps. Instantly turn a loop into rolling chirps, or divide a reverb down into atmospheric noise. And naturally, we have full MIDI, dip-switch, and preset implementation.\nhttps://chaseblissaudio.com/product/mood/",
+    "hrid": "chase-bliss-audio-mood"
+}

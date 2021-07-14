@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15593",
+    "name": "Drip",
+    "image": "images/tc-electronic-drip.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 72,
+    "height": 132,
+    "details": "Retro Spring Reverb with Adjustable Dwell, Mix and ToneThe TC Electronic Drip Spring Reverb delivers an iconic and authentic spring reverb to take your sound back to the classic days of amp reverbs. Its 3-control setup ensures any player can dial in the perfect level of luscious reverb to enhance their tone with plenty of depth and distinct character. Its top mounted jacks are designed to minimise its footprint on your pedalboard, while its true bypass retains the original signal when the pedal is switched off. Enclosed within a durable metal chassis to survive life on the road, the TC Electronic Drip Spring Reverb is the perfect companion for any pedalboard.\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/DRIP-SPRING-REVERB/p/P0CQ2#googtrans(en|en)",
+    "hrid": "tc-electronic-drip"
+}

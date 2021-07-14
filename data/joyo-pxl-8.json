@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16702",
+    "name": "PXL-8",
+    "image": "images/joyo-pxl-8.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 440,
+    "height": 67,
+    "details": "Multi-Effects Routing DeviceCombine effects and turn them ALL ON with one click!\nSeveral banks of pedal configuration settings\nSignal integrity is not negatively effected\nSwitching occurs seamlessly, with up to 4 pedals ON/OFF together",
+    "hrid": "joyo-pxl-8"
+}

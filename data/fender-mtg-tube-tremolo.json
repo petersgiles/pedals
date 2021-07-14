@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30651",
+    "name": "MTG Tube Tremolo",
+    "image": "images/fender-mtg-tube-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Fender",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 95,
+    "height": 124,
+    "details": "Tube TremoloAnalog Tube Tremolo with NOS 6205 preamp tube & Tap tempo.\nThe MTG Tube Tremolo brings the hypnotic sound typically found in vintage amps and conveniently places it into a stomp box based around a genuine, U.S. made NOS 6205 preamp tube. The pedal features Level, Intensity, and Speed controls, three oscillator wave shapes, and a dedicated tap tempo foot switch which allows access to various note subdivisions.\nhttps://shop.fender.com/en-US/effects-pedals/modulation/mtg-tube-tremolo/0234554000.html",
+    "hrid": "fender-mtg-tube-tremolo"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27991",
+    "name": "Halberd",
+    "image": "images/electronic-audio-experiments-halberd.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$235 Price in €",
+    "width": 94,
+    "height": 114,
+    "details": "Discrete transistor overdrive preampThe Electronic Audio Experiments Halberd is a discrete transistor overdrive circuit designed for the greatest possible dynamic range and note clarity. It is a novel addition to our family of drive pedals—a medium-gain device with the harmonic fullness and grind of a much higher-gain pedal, one that stands apart from both the brazen buzz of op amp distortion and the smooth breakup of JFET amp emulations alike. \nThe Halberd’s character comes from a jumble of silicon and germanium transistors working in harmony. It is familiar but unique, sitting somewhere between blown-up tweed and an overdriven console. Rather than resigning itself to transparency, it imparts its character in a collaborative fashion, responding in unique ways to different instruments and amplifiers but not without leaving its distinct fingerprints. And of course, it is equally at home on guitar, bass, and synthesizer.",
+    "hrid": "electronic-audio-experiments-halberd"
+}

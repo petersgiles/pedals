@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30315",
+    "name": "Echoverb",
+    "image": "images/mooer-echoverb.jpg",
+    "function": [],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$78 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Digital Delay / Reverb PedalEchoVerb Combines a new high quality reverb and digital delay into one small pedal. Either effect can be used alone or simultaneously for. The versatile controls allow the user to easily dial in Echo Verb to be used in a myriad of different ways, be it subtle ambient enhancement or huge wet special effects. The delay comes complete with Tap Tempo which can be operated via the footswitch or with the small LED button in the centre of the pedal. Perfect companion for a small pedal rig.",
+    "hrid": "mooer-echoverb"
+}

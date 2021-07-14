@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12462",
+    "name": "Tuna Melt Tremolo",
+    "image": "images/danelectro-tuna-melt-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$34 Price in €",
+    "width": 76,
+    "height": 108,
+    "details": "",
+    "hrid": "danelectro-tuna-melt-tremolo"
+}

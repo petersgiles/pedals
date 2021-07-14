@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18071",
+    "name": "PXL-Live",
+    "image": "images/joyo-pxl-live.jpg",
+    "function": [
+        "Looper",
+        "Utility"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 540,
+    "height": 67,
+    "details": "JOYO PXL-Live Pedal LooperThe PXL-Live is the newest member of the Joyo PXL series programmable pedal controllers - PXL4, PXL9, PXL-Pro. The PXL-Live is a very powerful pedal controller. It not only has dual 4 channel outputs like the PXL-Pro, and dual (relay)switch outputs for channel switching, it also has MIDI out. Programmable MIDI commands can be sent enabling you to control MIDI-enabled devices such as effect pedals, effects racks, keyboards or amps through the MIDI port. The PXL-Live can send MIDI cc and MIDI program change commands at the same time and will allow “Hands-free” control of your computer recording software. For musicians who own a lot of musical gear, the PXL-Live will be the perfect pedal controller to make life easier. \n.Fully programmable\n.Dual 4 channel loop design\n.2 ×on board fully programmable trigger switch(relay)\n.1 X MIDI out\n.MIDI CC and MIDI program change command are available simultaneously\n.Buffered bypass\n.Rated power supply voltage: DC 9V\n.Rated current consumption: 220Mah\nhttp://joyoaudio.com/en/product/show_204.html",
+    "hrid": "joyo-pxl-live"
+}

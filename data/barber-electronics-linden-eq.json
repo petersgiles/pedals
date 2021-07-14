@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20716",
+    "name": "Linden EQ",
+    "image": "images/barber-electronics-linden-eq.jpg",
+    "function": [
+        "Bass",
+        "Equalizer"
+    ],
+    "manufacturer": "Barber Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "http://barberelectronics.com/linden_compact.html",
+    "hrid": "barber-electronics-linden-eq"
+}

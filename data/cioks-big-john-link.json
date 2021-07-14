@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16442",
+    "name": "Big John Link",
+    "image": "images/cioks-big-john-link.jpg",
+    "function": [
+        "Power",
+        "Wah"
+    ],
+    "manufacturer": "Cioks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 130,
+    "height": 88,
+    "details": "Power Supply\nhttp://cioks.com/products/big-john-link/",
+    "hrid": "cioks-big-john-link"
+}

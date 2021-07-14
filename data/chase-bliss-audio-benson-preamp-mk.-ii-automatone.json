@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26829",
+    "name": "Benson Preamp Mk. II Automatone",
+    "image": "images/chase-bliss-audio-benson-preamp-mk.-ii-automatone.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Filter",
+        "MIDI"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$749 Price in €",
+    "width": 146,
+    "height": 165,
+    "details": "https://www.chaseblissaudio.com/shop-pedals/preamp-mkii",
+    "hrid": "chase-bliss-audio-benson-preamp-mk.-ii-automatone"
+}

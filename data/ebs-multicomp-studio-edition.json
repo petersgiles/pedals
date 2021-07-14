@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23202",
+    "name": "Multicomp Studio Edition",
+    "image": "images/ebs-multicomp-studio-edition.jpg",
+    "function": [
+        "Bass",
+        "Dynamics"
+    ],
+    "manufacturer": "EBS",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Multi-Band CompressorImprove Your Sound. If you ever encountered the world of compressors, you may have experienced they can be tricky to dial-in and do what you want them to do. But a good compressor handled well can do wonders to improve your bass tone. Imagine if you could reach there without the need of a super expensive rack unit and a Masters degree in sound engineering? With the MultiComp, EBS already played the engineers part. You only have two knobs and three optional Types to worry about that you can’t go wrong with!  \nLess is more. The EBS MultiComp is a super easy compressor to dial in. One knob sets the level of Comp/Limit. Another sets the Gain level. Once you find the right levels of compression and gain, you can choose Tubeism, Multi Band (MB) or Normal for three distinct types of compression. Done! If you play a bass with very high output, there is an Active/Passive switch on the side to reduce the input level.  For those with that engineer’s degree that like to fiddle around with their equipment, there’s an internal trim pot for the Threshold located under the hood too.\nEvolution. The Studio Edition that was introduced in 2015, is improved with optimized signal path, new design, new signal relay switching technique, protection against over voltage up to 18V and offer the possibility to power the pedal with anything from 9-12V DC.\nhttps://ebssweden.com/content2/effects/ebs-multicomp-studio-edition/",
+    "hrid": "ebs-multicomp-studio-edition"
+}

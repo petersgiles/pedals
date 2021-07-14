@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33074",
+    "name": "TremoLo",
+    "image": "images/ebs-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "The TremoLo is a bass tremolo pedal featuring controls for depth and speed, sweep character modes with sine, square and sawtooth waveforms, and a switch for volume or filter type effects.",
+    "hrid": "ebs-tremolo"
+}

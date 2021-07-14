@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30259",
+    "name": "DC Drive",
+    "image": "images/carl-martin-dc-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 112,
+    "details": "",
+    "hrid": "carl-martin-dc-drive"
+}

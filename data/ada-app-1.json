@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15988",
+    "name": "APP-1",
+    "image": "images/ada-app-1.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "ADA",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 152,
+    "height": 203,
+    "details": "",
+    "hrid": "ada-app-1"
+}

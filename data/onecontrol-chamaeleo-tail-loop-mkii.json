@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20585",
+    "name": "Chamaeleo Tail Loop MKII",
+    "image": "images/onecontrol-chamaeleo-tail-loop-mkii.jpg",
+    "function": [
+        "Controller",
+        "Looper",
+        "Switch"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$279 Price in €",
+    "width": 440,
+    "height": 60,
+    "details": "Programmable 5-Channel Loop Switcher\nhttp://www.one-control.com/chamaeleo-tail-loop-mkii.html",
+    "hrid": "onecontrol-chamaeleo-tail-loop-mkii"
+}

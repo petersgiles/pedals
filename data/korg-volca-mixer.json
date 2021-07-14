@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17069",
+    "name": "Volca Mixer",
+    "image": "images/korg-volca-mixer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 193,
+    "height": 115,
+    "details": "Mixer for the Volcas",
+    "hrid": "korg-volca-mixer"
+}

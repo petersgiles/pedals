@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12064",
+    "name": "Krush",
+    "image": "images/hotone-krush.jpg",
+    "function": [
+        "Filter",
+        "Modeling/Simulation",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Bitcrusher / Sample Rate ReducerKRUSH is a compact-sized bitcrusher sample rate reducer stompbox.\nThis pedal features a variable, flexible and sweet-sounding digital downsampler with 3 different modes: Radio simulator, neutral mode, and vintage phonograph simulator. Each mode downgrades the original signal in avery musical fashion. \nhttp://www.hotoneaudio.com/products/skyline/frequency/107.html",
+    "hrid": "hotone-krush"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11438",
+    "name": "M169 Carbon Copy Analog Delay",
+    "image": "images/mxr-m169-carbon-copy-analog-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "MXR",
+    "current": "26 mA / 9 V / DC / Negative Center",
+    "cost": "$211 Price in €",
+    "width": 65,
+    "height": 111,
+    "details": "Effects PedalThe Carbon Copy Analog Delay delivers rich, warm bucket-bridgade delay with up to 600ms of delay time and modulation.\nhttps://www.jimdunlop.com/mxr-carbon-copy-analog-delay/",
+    "hrid": "mxr-m169-carbon-copy-analog-delay"
+}

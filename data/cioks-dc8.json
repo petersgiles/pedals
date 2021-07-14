@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21563",
+    "name": "DC8",
+    "image": "images/cioks-dc8.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Cioks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 146,
+    "height": 88,
+    "details": "DC8 is a professional medium sized multi-output power supply for effect pedals. It has 8 regulated and well-filtered DC outlets configured in 6 isolated sections. With a total of 1.000mA it’s a perfect solution for small or medium size rigs with pedals only using a DC power source. Its two powerful sections with 300mA each will power pedals like the TC Electronic Nova-series, TC Helicon, Eventides, Strymons, BOSS twins, digital EHX pedals or other which draw a higher current than 100mA. The first 4 isolated outlets offering 4x100mA are ideal for 9 or 12V pedals needing less than 100mA. Combined with the included Stack Flex the DC8 will also power your 18V pedal.\nhttps://cioks.com/products/dc8/",
+    "hrid": "cioks-dc8"
+}

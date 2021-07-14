@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23742",
+    "name": "Funky Monkey",
+    "image": "images/mooer-funky-monkey.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 42,
+    "height": 93,
+    "details": "Auto Wah",
+    "hrid": "mooer-funky-monkey"
+}

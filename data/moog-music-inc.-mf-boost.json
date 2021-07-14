@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13305",
+    "name": "MF Boost",
+    "image": "images/moog-music-inc.-mf-boost.jpg",
+    "function": [
+        "PreAmp",
+        "Filter"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 83,
+    "height": 146,
+    "details": "MoogerFooger Boost\nhttps://www.moogmusic.com/products/minifoogers/mf-boost",
+    "hrid": "moog-music-inc.-mf-boost"
+}

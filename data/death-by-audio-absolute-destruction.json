@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14894",
+    "name": "Absolute Destruction",
+    "image": "images/death-by-audio-absolute-destruction.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "FuzzThe Absolute Destruction might be our most insane pedal yet. Showing little to no respect for what instruments normally sound like, or even what many people want them to sound like -we pushed this thing until it sounded totally disgusting. Want a thick, gnarly fuzz sound? Sure, you can do that, and it’ll sound really, really good. But you can also push the OVERLOAD slider into blooming, octave nastiness. Push it further and starve the circuit so that your signal starts to eat itself. Push it all the way and your sound will completely duck down before violently coming back to life.\nControls include: MASTER VOLUME (the red knob), OVERLOAD, GAIN. OVERLOAD (red) and GAIN (white) are horizontal sliders and recessed close to the enclosure to protect them from being bent or accidentally moved while playing.\nPowered by a 9v alkaline battery or a 9v, negative tip, 2.1mm barrel, DC adaptor.\nAs usual, the Absolute Destruction is built to last forever and true bypass.\nThe Absolute Destruction harnesses a power amplifier IC to generate its insane sound. Its GAIN and OVERLOAD sliders interact to create a wide range of \"unique\" sounds in various positions. You choose how much to absolutely destroy your sound. The farther the OVERLOAD control is set to the left, the faster the effect slips into absolute destruction and gets totally disintegrated. Blow it out even harder and faster by slamming GAIN and OVERLOAD opposite one another. Lower one or the other for smoother attack and release. Screaming octaves, thick fuzz, and the sound of your guitar reaching back from the depths of destruction are at your fingertips. Think of it as a psychotic compressor, or the sound your amp might make when literally on fire, or any number of things that your boring friends wouldn’t call music.",
+    "hrid": "death-by-audio-absolute-destruction"
+}

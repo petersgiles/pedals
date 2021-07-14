@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16694",
+    "name": "Unicorn V2",
+    "image": "images/jhs-unicorn-v2.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 119,
+    "details": "Uni-Vibe Tap TempoVintage-style photocell, all-analog vibrato/chorus unit\nTap tempo control and 4 speed ratios let you dial in your perfect sound\n4-position speed control includes 1/4 note, 1/8 note, dotted 1/8 note, and triplet settings\nVolume control lets you add up to 9dB of boost\nMini toggle switches between wet/dry mixes\nTap/Exp input lets you hook up an expression pedal or footswitch for tap tempo control\nTap input/output allows external tap controller or tap slaving\nTrue bypass switching preserves your tone when the effect is disabled\nRuggedly built and handwired",
+    "hrid": "jhs-unicorn-v2"
+}

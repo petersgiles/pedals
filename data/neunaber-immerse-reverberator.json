@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12182",
+    "name": "Immerse Reverberator",
+    "image": "images/neunaber-immerse-reverberator.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 73,
+    "height": 140,
+    "details": "Reverb pedalThe Immerse Reverberator houses eight stellar stereo reverbs — Wet, hall, plate & spring reverbs, two shimmers, Wet+echo, and Wet+detune. Each effect has been painstakingly crafted: there are no fillers here.\nDelivering unrivaled sound quality and no-nonsense flexibility in a compact footprint, the Immerse can be used with instruments of all stripes.\nFive controls: Effect Select, Effect Level, Reverb Depth, Tone (or Echo Time), Effect Adjust (depends on effect)\nHigh-quality buffered bypass with external Trails switch\nExternal Kill Dry switch for parallel effect loops\nInputs/outputs can be used mono or stereo\nAnalog dry signal for low noise and zero latency\nSmall footprint\nRequires standard 9V or 12V pedal power supply (not included, but you may add one.)\nDesigned and manufactured in California USA",
+    "hrid": "neunaber-immerse-reverberator"
+}

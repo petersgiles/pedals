@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31702",
+    "name": "Bitmap V2",
+    "image": "images/red-panda-bitmap-v2.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo",
+        "Synth Voice",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 77,
+    "height": 121,
+    "details": "Bit crusherThe Bitmap™ is a bitcrusher with fractional bit reduction and sample rate modulation. The Bitmap 2 adds waveshaping, wavefolding, and a window comparator for extreme digital distortion. A drive control handles everything from single coil guitars to synthesizers, with +8 dBu maximum signal level and enough gain to sound like an overdriven mixer channel. Modulation and envelope control create dynamic, responsive distortion and digital artifacts.\nThe Bitmap 2 is tuned to provide maximum sustain without sputtering on staccato notes. Less extreme settings add layers of nonlinearities that interact in subtle ways, giving you the warmth and grit of 8- and 12-bit samplers. Sample rate reduction turns your guitar into 8-bit video game sounds or twists scales into inharmonic melodies. Sample rate modulation adds subtle motion or morphs your guitar into entirely new textures.\nThe Bitmap™ works with guitar, bass, synthesizers, drum machines, and other instruments or line level sources.\nFeatures\n    Fractional bit reduction from 24-bits down to 1-bit\n    Sampling rate reduction from 48 kHz down to 110 Hz\n    Sample-rate modulation with triangle, square, and random waveforms\n    Adjustable wavefolding and waveshaping functions\n    Mix control to maintain bass or add subtle crushing\n    Envelope control over sampling rate or mix\n    Drive control to accommodate single or dual coil pickups and line-level signals\n    4-pole lowpass filter\n    Stereo input/output (TRS)\n    Soft touch bypass (momentary or latching), user replaceable\n    Aux. footswitch assignable to tap tempo or preset selection\n    Assignable expression pedal, remote switch, remote tap, or MIDI port\n    Additional parameters via MIDI (USB or TRS)\n    MIDI clock synchronization\n    Presets (4 on front, 127 via MIDI)\n    Web-based editor for editing presets and accessing hidden parameter\nDesigned and assembled in USA.  Requires a 9V 250 mA center negative power supply (not included).\nhttp://www.redpandalab.com/products/bitmap",
+    "hrid": "red-panda-bitmap-v2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12084",
+    "name": "BMF TC-18",
+    "image": "images/eno-music-bmf-tc-18.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "Big Muff type Fuzz\nhttp://www.ex-amp.com/?p=797",
+    "hrid": "eno-music-bmf-tc-18"
+}

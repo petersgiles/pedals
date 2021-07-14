@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16462",
+    "name": "Geisha",
+    "image": "images/way-huge-geisha.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / 9 V / DC",
+    "cost": "$150 Price in €",
+    "width": 83,
+    "height": 127,
+    "details": "OverdriveLimited to just 500 units, the exclusive Way Huge Geisha Drive is a simple, yet versatile drive that is as interactive as it is powerful. Offering a full spectrum of drive from thick and buttery to warm and tube-y and all the way to thunderous rage, use the 3-knob control array to dial in the core of your tone, then further shape it with the volume of your guitar and the intensity of your attack. Don't let the artwork fool you. This pedal is not for the coy.",
+    "hrid": "way-huge-geisha"
+}

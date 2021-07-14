@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17761",
+    "name": "JF-06 Vintage Phase",
+    "image": "images/joyo-jf-06-vintage-phase.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "The Joyo Vintage Phase pedal beautifully re-creates the classic phaser sounds of the 70's - that wide spacey, phase effect used by Pink Floyd! Great for chunky rhythm guitar or as a solo boosting effect.  At low speeds the phase depth is dialed down appropriately. At higher speeds the phase gets more intense. \nEasy to use so you can dial up that in-and-out of phase tone in no time!\nhttps://www.cheaperpedals.com/products/joyo-vintage-phase-jf-06-pedal",
+    "hrid": "joyo-jf-06-vintage-phase"
+}

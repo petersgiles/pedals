@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12089",
+    "name": "PT-21 Guitar Tuner",
+    "image": "images/eno-music-pt-21-guitar-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "http://www.ex-amp.com/?p=227",
+    "hrid": "eno-music-pt-21-guitar-tuner"
+}

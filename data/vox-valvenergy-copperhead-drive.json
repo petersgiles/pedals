@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29986",
+    "name": "Valvenergy Copperhead Drive",
+    "image": "images/vox-valvenergy-copperhead-drive.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Distortion"
+    ],
+    "manufacturer": "Vox",
+    "current": "95 mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 72,
+    "height": 120,
+    "details": "British full stack preampIconic amp sounds for your pedalboard. The Copperhead Drive valve distortion pedal offers the powerful crunch of British full stack amps in a compact pedal format, powered by Nutube for warm and responsive amp-like tones.\nInspired by thick and punchy British amp tones, the Copperhead Drive goes beyond the amp-in-a-box category to offer a truly flexible valve distortion pedal. The all-analog signal path and Nutube allow for genuine overdrive and distortion tones with the feel of a real tube amp, while internally boosted voltage gives greater headroom and dynamics. Plus, the OLED display shows an oscilloscope while the pedal is active or bypassed, allowing you to understand exactly how your signal is affected.\nThree output modes allow you to use this as a standard pedal, a line-level preamp, and a direct amp-sim using the built-in analog cabinet simulator. Use STANDARD mode with your normal guitar rig to totally transform your amp, or use PREAMP or CAB-SIM mode while recording directly into your audio interface. In each mode, the all-analog design and active EQ allow you to perfectly dial in the sound you need in any situation.\nYou can chain two VALVENERGY pedals together with a standard 1/8” stereo cable through the LINK jack of each pedal. This allows you to turn one pedal on while bypassing the other, using the system as if you were switching between channels of a guitar amp. By using a split y-configuration 1/8” stereo cable, you can link three pedals.\nThese pedals are equipped with a high-contrast OLED display showing an oscilloscope, a visual indication of how the waveform is affected by the knob settings. This display allows shows which mode you are currently using.\nValve distortion pedal with all-analog signal path\nPowerful British crunch tones\nPowered by Nutube\nThree output modes for use as a pedal or preamp\nSelectable analog cabinet simulator\nOLED display with oscilloscope\nActive EQ to shape your signal\nhttps://voxamps.com/product/copperhead-drive/",
+    "hrid": "vox-valvenergy-copperhead-drive"
+}

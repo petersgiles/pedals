@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18603",
+    "name": "FL-3",
+    "image": "images/guyatone-fl-3.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 97,
+    "details": "",
+    "hrid": "guyatone-fl-3"
+}

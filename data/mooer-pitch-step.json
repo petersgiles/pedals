@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18950",
+    "name": "Pitch Step",
+    "image": "images/mooer-pitch-step.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 72,
+    "height": 154,
+    "details": "Polyphonic pitch shifterFast and accurate, polyphonic Pitch-Shifting\nOptional dry signal for harmonization\nCustomizable pitch adjustment for -OCT/+OCT,Adjustable shifting range and direction\nIncludes MOOER’s unique pressure sensing technology",
+    "hrid": "mooer-pitch-step"
+}

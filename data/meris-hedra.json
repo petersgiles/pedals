@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22363",
+    "name": "Hedra",
+    "image": "images/meris-hedra.jpg",
+    "function": [
+        "Delay",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Meris",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 108,
+    "height": 114,
+    "details": "3-Voice Rhythmic Pitch ShifterSelectable Pitch Correction Types to ReVoice your Melodies in RealTime\nIndividual Controls for Pitch and Time Offset for each Voice (3 Voices Total)\nMicro Tune control creates gentle chorus-like detuning, classic studio fattening, and extreme warping\nChromatic or Key Driven Harmony with Selectable Scale Types\n4 Delay Configurations with unique Feedback Routing (520 mS max delay time)\nUnique Keyboard Control putting a Live Quartet Under your Fingertips\nOur Original Glide Mode slides between pitches at the speed you choose\nChoice to sweep through Intervals smoothly or hard step for dramatic pitch effects\nSwitchable Half Speed and Auto Swell for advanced textures\nDigitally controlled Analog mix control\nStereo input and output\nSwitchable input / output headroom level for Guitar or Synth / Line level\nMulti-function EXP jack for optional expansion: MIDI, Preset Switch, Expression Pedal or Tap Switch with compatible hardware. \nExpression pedal control over all parameters simultaneously\nPresets available via external 4-Preset switch or MIDI\nMIDI in/out over TRS via the EXP jack with compatible MIDI to TRS conversion box \nExternal Tap Tempo over TRS\nMIDI beat clock synchronization\nPremium analog signal path and 24-bit AD/DA w/32 bit floating point DSP\nhttps://www.meris.us/product/hedra-pedal/",
+    "hrid": "meris-hedra"
+}

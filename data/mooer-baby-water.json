@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11454",
+    "name": "Baby Water",
+    "image": "images/mooer-baby-water.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Mooer",
+    "current": "110 mA / 9 V / DC / Negative Center",
+    "cost": "$74 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Acoustic Delay and Chorus PedalBaby Water This is Mooer new product---Baby Water, specially designed for those who love acoustic guitar. With high quality digital effect platform, you can get pure chorus or delay effect by gear rotary switch, can also get the effect interconnected with chorus and delay. Baby Water offers five tones. Chorus reappear the classic chorus sound; TRI-CHI triple chorus makes the chorus effect more profound; ECHO mode offers you the warm sound like simulated delay effect; CH-DL gives you a chance to experience the effect interconnected with Chorus and Delay; DL-CH adds the Chorus sound based on the Delay effect. What’s more important, you could get similar reverb effect by adjusting the Time and Feedback Knob based on these two interconnected sounds. Tones and Operation Five tones: Chours、 TRI-CHI、ECHO、CH-DL、DL-CH Level Knob: control the volume of the effect RATE/TIME Knob: control the rate of effect in the Chorus mode, and control the time interval of Delay effect in other modes. DEPTH/FB Knob: control the depth of the Chorus effect in Chorus mode, while control the Fedeback of Delay effect in other modes. MOD Knob: choose five different effect types. True Bypass: ensure to keep the original sound with the True Bypass status. Elegant: follow the mini dimensions of Mooer Micro Series to save more room of your pedal board for more pedals. \nSpecification: Input: 1/4” monaural jack (impedance: 470k Ohms) Output: 1/4” monaural jack (impedance: 100 Ohms) Power Requirements: AC adapter 9V DC (center minus plug), MOOER MICRO POWER is recommended. \nCurrent Draw: 110mA Dimensions: 93.5mm (D) × 42mm (W) × 52mm (H) Weight: 145g\nhttp://www.mooeraudio.co.uk/p/mooer-baby-water",
+    "hrid": "mooer-baby-water"
+}

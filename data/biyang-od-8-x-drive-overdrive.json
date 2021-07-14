@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11986",
+    "name": "OD-8 X-Drive Overdrive",
+    "image": "images/biyang-od-8-x-drive-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Biyang",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 80,
+    "height": 160,
+    "details": "The Biyang OD-8 X-Drive pedal gives you a classic great sound of the JRC4558 chip first used by Maxon and then Ibanez in the TS808s. Smooth with character and there is a reason why this chip is used in legendary overdrives. Frankly without any bias, this may be the finest overdrive tone pedal I've ever heard. It has three tone modes Normal, Bright, Warm.\nIn addition Biyang has provided 2 addition overdrive chips that you can easily swap out in the pedal for different tonal possibilities! The KWK737 chip highlights the treble tones in the overdrive while the NE5532 chip has some serious growl and presence.\nThis pedal is a steal and will kill most boutique overdrive pedals in sound, and costs 1/3 of the price. Don't forget, you saw it here first.\nThree Modes: Normal, Bright, and Warm\nVolume, Tone, and Drive Controls\nTrue Bypass\nSuper solid metal casing\nUses 9V battery or standard Boss style adapter",
+    "hrid": "biyang-od-8-x-drive-overdrive"
+}

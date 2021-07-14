@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15950",
+    "name": "Pork Loin",
+    "image": "images/way-huge-pork-loin.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "Overdrive PedalThe Way Huge Pork Loin overdrive pedal lets you dial in a combination of great-sounding overdrive and sparkling clean tones — from articulated grit to thick, sustaining crunch. The versatile Pork Loin Pedal features an Overdrive knob, a passive Tone circuit, a Curve corner-frequency control, and a Volume knob. Use the Clean knob to bring British-voiced clean tones to the mix, and you've got a ton of possibilities from this box. Want even more? Adjustable mini-controls are accessible inside the Pork Loin, for truly customized tones.",
+    "hrid": "way-huge-pork-loin"
+}

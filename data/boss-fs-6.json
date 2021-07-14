@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11899",
+    "name": "FS-6",
+    "image": "images/boss-fs-6.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 188,
+    "height": 43,
+    "details": "Dual Foot Switch\nEach footswitch can be assigned latch- or momentary-type\nStereo input jack for single stereo cable connection\nCan be connected to other footswitches (FS-5L/FS-5U/FS-6/AB-2) for extension\nConnect to a wide variety of instruments, rhythm machines, guitar amps, and electronic devices that have control input jacks compatible with FS-5L/FS-5U\n\nhttps://www.boss.info/us/products/fs-6/",
+    "hrid": "boss-fs-6"
+}

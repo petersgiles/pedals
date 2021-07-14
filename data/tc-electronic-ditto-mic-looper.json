@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13516",
+    "name": "Ditto Mic Looper",
+    "image": "images/tc-electronic-ditto-mic-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$138 Price in €",
+    "width": 90,
+    "height": 140,
+    "details": "Looper with microphone level input/outputTC-Helicon's Ditto Mic Looper is a straightforward looper pedal for your vocal mic or any other instrument you mic up. Vocalists - use the stop/erase and loop buttons for unlimited overdubbing, undo, and redo features to add a deeper level of musical interest to your songs with just your voice by looping your own harmonies and vocal percussion tracks. Drummers and percussionists, use the Ditto Mic to keep the beat while adding flourish to your solos. And now guitar players who want the expressiveness only a pedal offers can harness the power of looping using their vintage acoustic guitars, banjos, and other instruments that aren't equipped with electronic outputs.\nhttp://www.tc-helicon.com/en/products/ditto-mic-looper/",
+    "hrid": "tc-electronic-ditto-mic-looper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28381",
+    "name": "DIMEBAG CRY BABY® WAH",
+    "image": "images/dunlop-dimebag-cry-baby®-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "2 mA / 9 V / DC / Negative Center",
+    "cost": "$232 Price in €",
+    "width": 102,
+    "height": 254,
+    "details": "DIMEBAG CRY BABY® WAHThis might just be the most flexible, powerful wah pedal ever. Designed in conjunction with legendary guitarist Dimebag Darrell, the Dimebag Cry Baby From Hell Wah features an extended sweep range with a fine tune knob, 6-way range selector, kick-in volume boost and LED indicators (Wah on/off, Boost on/off) at the back of the pedal. This hot-rodded pedal gives you everything you need to do serious wah damage.\nhttps://www.jimdunlop.com/dimebag-cry-baby-from-hell-wah/",
+    "hrid": "dunlop-dimebag-cry-baby®-wah"
+}

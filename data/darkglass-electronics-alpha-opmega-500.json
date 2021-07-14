@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31742",
+    "name": "alpha opmega 500",
+    "image": "images/darkglass-electronics-alpha-opmega-500.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 23,
+    "height": 18,
+    "details": "AO500",
+    "hrid": "darkglass-electronics-alpha-opmega-500"
+}

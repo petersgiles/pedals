@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24716",
+    "name": "Vintage Deluxe (V1)",
+    "image": "images/darkglass-electronics-vintage-deluxe-(v1).jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 132,
+    "details": "Bass Overdrive",
+    "hrid": "darkglass-electronics-vintage-deluxe-(v1)"
+}

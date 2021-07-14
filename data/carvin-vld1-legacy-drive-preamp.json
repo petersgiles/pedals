@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13566",
+    "name": "VLD1 Legacy Drive Preamp",
+    "image": "images/carvin-vld1-legacy-drive-preamp.jpg",
+    "function": [
+        "PreAmp",
+        "Tube"
+    ],
+    "manufacturer": "Carvin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$449 Price in €",
+    "width": 225,
+    "height": 213,
+    "details": "2-Channel 12AX7 Tube Preamp with OverdriveThe Legacy Drive is designed to feed nearly any power amp to drive guitar speaker cabinets with the Legacy sound. If you already have a favorite guitar amp and want to add a new sound, the Legacy Drive also works as a pedal into the front of your amp with a true hardwire bypass. Even if you are playing without an amp, Carvin’s third generation Cabinet Voicing circuit emulates the frequency response of a guitar speaker cabinet so you can send Legacy tones direct to headphones, effects, recording inputs or live PA without having to mic a speaker.\nSteve Vai began his journey with Carvin amplifiers very early in his career, with Frank Zappa’s recommendation to use the X-100B. In 1999, Carvin worked very closely with Vai to develop the Legacy series amplifiers which he has been using ever since. \nhttps://carvinaudio.com/products/vld1",
+    "hrid": "carvin-vld1-legacy-drive-preamp"
+}

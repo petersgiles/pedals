@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19762",
+    "name": "DD-2",
+    "image": "images/boss-dd-2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$125 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Digital DelayThe DD-2 was the first digital pedal that Boss made and the worlds first stompbox Digital Delay. It is based around the chip made for the Roland SDE-3000 rack mounted digital delay. By luck, the chip just fits across the width of the compact pedal and for months the design time worked to sqeeze the rest of the components on to the printed circuit board. The design is utilizing a 12 bit AD converter producing a flat frequency response between 40Hz and 7kHz. The DD-2 did officially go out of sale 1986 but it was relaunched without changes as the DD-3 and has continued its life through till today.\nThe DD-2s circuit didn’t change throughout its lifetime but there are a couple of minor differences to note. The black control plate had cream coloured text early on. The text colour was changed to silver somewhere around serial number 480000 late 1984. The first blue label used did not have the FCC compliance text usually found on all digital pedals. This was changed very quickly so this blue label is rare.\nSpecifications\nControls: E.Level, F.Back, D.Time, 4-way Mode switch\nConnectors: Input, Output, Direct Out, AC Adaptor\nCurrent Draw: 55 mA (DC 9V, D.Time control at center)\nWeight: 450 g (0.99 lb.)\nA/D Conversion: 12-bit logarithmic compression\nD/A Conversion: 12-bit logarithmic compression\nInput Impedance: 1Mohm (FET Input)\nResidual Noise Level: -95dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nDelay Time: 12.5 to 800ms\nRecommended AC Adaptor: PSA Series\nhttp://www.bossarea.com/boss-dd-2-digital-delay/",
+    "hrid": "boss-dd-2"
+}

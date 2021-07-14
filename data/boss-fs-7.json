@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14793",
+    "name": "FS-7",
+    "image": "images/boss-fs-7.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / ? V / AC",
+    "cost": "$65 Price in €",
+    "width": 62,
+    "height": 131,
+    "details": "Compact dual footswitchDual footswitch in a small footprint\nLatch/momentary switching function (common to A and B)\nDurable steel chassis\nBattery-free operation ideal for pedal boards\nPower via 9v adapter (power splitter included)\nOperates as momentary switch with no power*\n*LEDs will not illuminate without AC power.\nhttps://www.boss.info/global/products/fs-7/",
+    "hrid": "boss-fs-7"
+}

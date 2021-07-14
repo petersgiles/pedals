@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15984",
+    "name": "RC-20XL",
+    "image": "images/boss-rc-20xl.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Boss",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 173,
+    "height": 158,
+    "details": "Loop StationSuper long recording time: up to 16 minutes!\nSave up to 11 loops at a time\nUndo function makes it easy to create perfect loops\nBuilt-in auto quantize for simple and accurate loop timing\nChange loop tempo without changing pitch\nFootswitchable loop select (with optional FS-5U/FS-6)\nhttps://www.boss.info/us/products/rc-20xl/",
+    "hrid": "boss-rc-20xl"
+}

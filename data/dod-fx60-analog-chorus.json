@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31813",
+    "name": "FX60 Analog Chorus",
+    "image": "images/dod-fx60-analog-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "DOD",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 77,
+    "height": 126,
+    "details": "Vintage analog chorus",
+    "hrid": "dod-fx60-analog-chorus"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13424",
+    "name": "SL-20 Slicer",
+    "image": "images/boss-sl-20-slicer.jpg",
+    "function": [
+        "Digital",
+        "MIDI",
+        "Noise Gate",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "110 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 178,
+    "height": 57,
+    "details": "Audio Pattern ProcessorInstant groove and percussive-melody generator 50 Slice patterns onboard, with adjustable attack and duration, including Harmonic Slice Tap Tempo via onboard pedal switch; internal and MIDI sync Sound characteristics such as attack, duration, effect level, and direct level are controllable via external Expression pedal (sold separately) Variety of output modes, including the unique 3D Panning for spacious sliced FX.\nThe SL-20 transforms your music into percussive “chopped” grooves. Fifty rhythmic patterns are onboard, with adjustable note attack and duration, plus amazing Harmonic Slice effects. Create high-energy patterns onstage in real-time, or use the SL-20 as a songwriting and recording tool. Play the sliced sounds in realtime while capturing them with Loop Record.\nhttps://www.boss.info/us/products/sl-20/",
+    "hrid": "boss-sl-20-slicer"
+}

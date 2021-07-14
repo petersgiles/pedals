@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13661",
+    "name": "Strakal Brulu {Taol Evezh}",
+    "image": "images/touellskouarn-strakal-brulu-{taol-evezh}.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "TouellSkouarn",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 118,
+    "height": 93,
+    "details": "PNP Germanium Fuzz + Overdrive + FeedbackTouellSkouarn Strakal Brulu is a fuzz pedal with CV-input. Very characteristic for the pedal's sound is that the fuzz amount is coupled to the feedback. The feedback setting is unusual. It allows to act on the self-oscillation of the fuzz. Beyond half, we quickly get an oscillation sound if we push a little too much gain ! It goes in all directions... The more fuzz, the more feedback - the Strakal Brulu can get pretty nasty and it screams a lot at high fuzz settings and low input level. The fuzz amount can be voltage controlled, with an inverse attenuator. Input and output levels can be set separately and especially the input level affects the Strakal Brulu´s behavior a lot.\nFeatures :\n• Germanium transistor\n• Etched and paint Enclosure\n• True Bypass\n• CV Input : 0v-5v\n• Designed in Plougastel,France & Japan / Made in China\n• Stupid Breton name\nhttp://www.touellskouarn.fr/strakal-brulu-taol-evezh/",
+    "hrid": "touellskouarn-strakal-brulu-{taol-evezh}"
+}

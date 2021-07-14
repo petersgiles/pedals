@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14511",
+    "name": "Gonkulator",
+    "image": "images/dod-gonkulator.jpg",
+    "function": [
+        "Ring Modulator",
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Ring modThe Gonkulator offers independent gain, distortion, output, frequency, and ring controls. It features true bypass circuitry, an updated PSU jack, and a vintage-style aluminum chassis. True bypass allows your tone to remain pristine even when the Gonkulator is off. The 9 VDC power supply input makes the pedal more pedalboard friendly.\nBased on the cult favorite DOD Gonkulator circuit design with updated components\nAdjustable Carrier Signal\nTrue bypass\n9V alkaline dry battery or optional power supply\nCrisp blue status LED\nLighter aluminum chassis\nSpecifications\nDimensions: 4.68” x 2.63”x 2.25”\nWeight: 0.62 lb. (0.281 kg.)",
+    "hrid": "dod-gonkulator"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13059",
+    "name": "Helicon Voicelive 3",
+    "image": "images/tc-electronic-helicon-voicelive-3.jpg",
+    "function": [
+        "Multieffect",
+        "Looper"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$699 Price in €",
+    "width": 350,
+    "height": 216,
+    "details": "Vocal Effects / Looper / Guitar EffectsTC-Helicon’s most comprehensive Vocal FX suite\nhttp://www.tc-helicon.com/en/products/voicelive-3/",
+    "hrid": "tc-electronic-helicon-voicelive-3"
+}

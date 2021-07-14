@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12470",
+    "name": "Transmisser",
+    "image": "images/earthquaker-devices-transmisser.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 66,
+    "height": 133,
+    "details": "Resonant ReverberationsThe Transmisser is a modulated reverb with extra-long decay fed to a highly resonant filter. It is the sonic recreation of blowing your signal to bits, shooting it through a black hole then beaming it back down on a cloud of cosmic dust. It is a Blazar for musical instruments.\nIf you can’t already tell, the Transmisser is not your every-day reverberation device. It does not do subtle. It does not do spring. It does not do a wood paneled rumpus room with 1” thick carpet. It will not recreate the classic sounds of the 60’s, 70’s and 80’s. The Transmisser will create an ultimate soundscape-y backdrop to your all-night guitar freak-out. It’ll quickly turn you into a one note per minute knob twiddler. It’ll make you want to break out that dusty old expression pedal to do slow riding filter sweeps for days. It’ll get you out of that stupid ergonomic chair, close that flaptop computer and force you to enjoy playing music again and that’s the most important thing, am I right? \nYou're gonna love what it does with your space.\nhttps://www.earthquakerdevices.com/transmisser",
+    "hrid": "earthquaker-devices-transmisser"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26247",
+    "name": "Bass RC Booster V2",
+    "image": "images/xotic-bass-rc-booster-v2.jpg",
+    "function": [
+        "Bass",
+        "PreAmp"
+    ],
+    "manufacturer": "Xotic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 63,
+    "height": 98,
+    "details": "Bass Boost w/ switchable gain stages Super transparent 20db+ clean boost\nAdjustable +-15db two band active EQ\nRun it at 18v for even more headroom!\nhttps://xotic.us/effects/brcv2/",
+    "hrid": "xotic-bass-rc-booster-v2"
+}

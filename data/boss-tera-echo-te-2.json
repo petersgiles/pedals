@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12243",
+    "name": "Tera Echo TE-2",
+    "image": "images/boss-tera-echo-te-2.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$156 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Stereo ambience effectThanks to MDP, the TE-2 delivers an amazing new ambience effect that satisfies and inspires. Complex internal processing produces an incredibly deep and spacious sound, dramatically enhancing the straight guitar tone without overwhelming it. Through the TE-2’s simple, familiar stompbox controls and incredible sensitivity to your playing dynamics, an extremely wide range of sounds can be achieved. And with the expressive Freeze function, you can hold the current effect sound to create rich soundscapes for lead playing and sonic exploration.\nhttps://www.boss.info/us/products/te-2/",
+    "hrid": "boss-tera-echo-te-2"
+}

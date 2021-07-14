@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12190",
+    "name": "Bipolar Bear",
+    "image": "images/david-rolo-bipolar-bear.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 80,
+    "height": 110,
+    "details": "Dual Overdrive\nhttp://www.davidrolo.com/product/bipolar-bear-dual-overdrive/",
+    "hrid": "david-rolo-bipolar-bear"
+}

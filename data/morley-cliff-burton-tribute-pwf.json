@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16783",
+    "name": "Cliff Burton Tribute PWF",
+    "image": "images/morley-cliff-burton-tribute-pwf.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Wah"
+    ],
+    "manufacturer": "Morley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 149,
+    "height": 232,
+    "details": "Fuzz Wah The Morley PFW pedal blends two essential effects in one unit. These effects are wah and fuzz. You can either run both effects in tandem to achieve a tone that is aggressive or run them independently. The pedal also features a Vintage/Modern toggle. This toggle is useful if you are experimenting with new styles of music because it provides you with extra tonal options.\nhttp://www.morleypedals.com/cliff-burton-tribute-series-power-fuzz-wah/",
+    "hrid": "morley-cliff-burton-tribute-pwf"
+}

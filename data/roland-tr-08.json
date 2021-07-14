@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17973",
+    "name": "TR-08",
+    "image": "images/roland-tr-08.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$361 Price in €",
+    "width": 308,
+    "height": 130,
+    "details": "Rhythm ComposerThe TR-08 is an obsessively detailed and faithful replica of the legendary TR-808—easily the most famous and influential drum machine ever made. After creating a monumental shift in the sound of music, the “808” has continued to shape and define entire genres. Beloved by musicians and producers the world over, it’s one of the most revered and sought-after electronic musical instruments of all time. The TR-08 brings the look, sound, and feel of the original 808—with stunning accuracy—to the Roland Boutique format. It blends attention to detail and respect for legacy with modern convenience and reliability.\nhttps://www.roland.com/global/products/tr-08/",
+    "hrid": "roland-tr-08"
+}

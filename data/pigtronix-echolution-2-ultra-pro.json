@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14791",
+    "name": "Echolution 2 Ultra Pro",
+    "image": "images/pigtronix-echolution-2-ultra-pro.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$450 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "Digital delay with filtering and modulationPigtronix Echolution 2 combines state-of-the-art analog and digital processing designed to deliver the ultimate delay pedal experience. Echolution 2 achieves the ambient richness of the finest studio delay processors by using 100% analog Class-A, discrete transistor limiters as well as non-linear tape emulator stages and filters to massage the audio coming through the delay line. \nFully capable of handling instrument and line level sound sources, the Echolution 2 delivers low-noise, high-headroom delay processing with any rig. Echolution 2 features stereo inputs and outputs, sporting an all analog dry signal path along with extensive analog tone shaping and filtering before and after delay line. Rather than try to mimic the sound of analog delays, the Echolution 2 uses real analog filters and non-linear saturation stages to achieve its signature warmth and dynamic range.\nEcholution 2 uses a 24-bit, variable clock, multi-tap delay line that is coded to behave like a futuristic tape machine. Changing the delay time results in the smooth pitch bending of an analog delay system but with a Pigtronix twist that allows drastic delay time changes to create discreet musical intervals. The resulting echoes are then processed through an array of filters and special effects which can be manipulated via assignable expression pedal routing as well as envelope control for each knob.\nAccessing and navigating the vast palette of sounds available within the Echolution 2 is easy. Since the pedal is completely programmable, any sound that has been designed using the Echolution 2 pedal can be saved to the unit itself and exported for sharing with friends and other musicians. A dedicated PC/MAC application handles preset management and provides E2 users with even deeper customization.\nThe multi-tap capabilities of the Echolution 2 allow for the use of one or two discreet delays which can be assigned to musical subdivisions of the master delay time. Multi-tap selections include 1, 3/4, 2/3, 1/2, and PHI (the golden ratio). One or any combination of two taps can be selected, allowing for instant access to all of the most crucial musical echo patterns as well as a wide range of unconventional polyrhythms.\nhttps://pigtronix.com/product/echolution-2/",
+    "hrid": "pigtronix-echolution-2-ultra-pro"
+}

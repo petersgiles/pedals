@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32154",
+    "name": "Bassline DB-01",
+    "image": "images/erica-synths-bassline-db-01.jpg",
+    "function": [
+        "Bass",
+        "Synth Voice"
+    ],
+    "manufacturer": "Erica Synths",
+    "current": "? mA / 12 V / DC",
+    "cost": "$497 Price in €",
+    "width": 230,
+    "height": 160,
+    "details": "Analog synthesizerFrom basslines and rave sounds to massive drones and drums - the Erica Synths Bassline DB-01 synthesizer lets you explore new territories of sound and performance techniques and go from a melody to noise and back in no time. The DB-01 packs analogue Erica Synths signature sound engine with an advanced sequencer on top of it. \nFeatures:\n- Aggressive LP/BP filter design from the Acidbox\n- One knob overdrive for even more destructive sound\n- Transistor based sub-oscillator\n- Independent amplitude, filter cutoff and pitch envelopes\n- BBD based detune for massive swarm sound\n- Syncable LFO with multiple waveforms for FM and VCF modulation\n- Noise source\n- Intuitive, easy to use sequencer for up to 64 step patterns\n- Sequence transposing\n- Pattern randomization\n- Arpeggiator\n- Modulation track with VCF cutoff automation\n- Built in and user defined scales with micro tonal possibilities \n- Analog clock in and out\n- CV/Gate output/input\n- MIDI IN and THRU – play it with a keyboard!\n- 4 banks of 16 patterns memory\n- Compact, durable aluminium enclosure\nhttps://www.ericasynths.lv/news/bassline-db-01/",
+    "hrid": "erica-synths-bassline-db-01"
+}

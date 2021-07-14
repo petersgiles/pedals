@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25134",
+    "name": "Synesthesia",
+    "image": "images/gfi-system-synesthesia.jpg",
+    "function": [
+        "Chorus",
+        "Filter",
+        "Flanger",
+        "Multieffect",
+        "Phase Shifter",
+        "Ring Modulator",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "GFI System",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 120,
+    "height": 120,
+    "details": "Synesthesia is an advanced, yet user friendly dual-channel multi-modulation engines, capable of running two modulation algorithms simultaneously. Packed with 22 classic and modern algorithms (expandable to 30 with future updates) and 3 different DSP routing schemes Synesthesia offers limitless sonic possibilities.\nSynesthesia is not just another modulation pedal. By marrying a powerful dual-engine architecture with rich and deep algorithms we provide players with immersive and 'colorful' modulation effects experience, hence the name : Synesthesia.",
+    "hrid": "gfi-system-synesthesia"
+}

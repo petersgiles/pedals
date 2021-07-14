@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23278",
+    "name": "Ron Fucking Swanson Super Fuzz",
+    "image": "images/idiotbox-effects-ron-fucking-swanson-super-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 118,
+    "details": "Shin Ei Superfuzz clone with Tone knobA recreation of the classic Shin Ei Super Fuzz.  The tone switch has been turned into a tone knob so that a much wider variance can be achieved.\nhttp://www.idiotboxeffects.com/product/ron-fucking-swanson-super-fuzz",
+    "hrid": "idiotbox-effects-ron-fucking-swanson-super-fuzz"
+}

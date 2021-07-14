@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24370",
+    "name": "Iridium",
+    "image": "images/strymon-iridium.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 102,
+    "height": 116,
+    "details": "Amp & cab modelerThree amplifier models crafted using Matrix Modeling™, capturing the subtleties and unique tonal qualities of each amp\nRound Amp – based on* a Fender® Deluxe Reverb®\nChime Amp – based on* the Brilliant channel of a Vox® AC30\nPunch Amp – based on* a Marshall® Plexi (Super Lead model number 1959)\nNine Impulse Response speaker cabinets, 24bit / 96kHz 500ms\nStereo (three per amp type), pre-loaded with a curated set of IRs:\nDeluxe Reverb 1×12″ by OwnHammer\nBlues Junior® 1×12″ by CabIR\nVibrolux® 2×10″ by CabIR\nAC30 2×12″AlNiCo by OwnHammer\n1×12″ AlNiCo by Celestion®\nMesa® 4×12″ by Valhallir\nGNR 4×12″ by OwnHammer\n2×12″ Vintage 30 by Celestion\nMarshall® 8×12″AlNiCo by CabIR\nLoad your own impulse responses using Strymon Impulse Manager software\nHybrid IR/algorithmic Room control with selectable small, medium, and\nlarge rooms\nSimple, responsive amp-style controls for Drive, Level, Bass, Middle,\nand Treble\nPremium stereo high impedance discrete JFET analog front end with\nup to 22dB of pure analog gain\nStereo Input (requires TRS adapter cable)\nStereo Output\nOperates at instrument and Line Level input sources\nDiscrete transistor headphone amplifier\nExpression pedal input provides seamless morphing between knob positions (Expression mode), or smooth pre/post volume control with logarithmic taper (Volume mode)\nUSB jack for connecting to Strymon Impulse Manager software\nto add and edit your own speaker cabinet IRs\nCompatible with Strymon MultiSwitch Plus for remote selection of up to 4 presets\nFull featured MIDI control accessible via EXP Jack for remote parameter control and access to 300 preset locations (requires Strymon MIDI EXP cable or MIDI to TRS interface)\nUltra-low noise, high performance 24-bit 96kHz A/D and D/A\nconverters provide uncompromising audio quality\nSuper high performance SHARC and ARM co-processors\n32-bit floating point processing\nhttps://www.strymon.net/products/iridium/",
+    "hrid": "strymon-iridium"
+}

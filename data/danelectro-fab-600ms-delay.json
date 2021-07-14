@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19853",
+    "name": "FAB 600ms Delay",
+    "image": "images/danelectro-fab-600ms-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 119,
+    "details": "The Danelectro FAB Delay can provide up to 600ms of delay and can be adjusted using simple Delay, Time, and Repeat controls.",
+    "hrid": "danelectro-fab-600ms-delay"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27552",
+    "name": "Theta",
+    "image": "images/isp-technologies-theta.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "ISP Technologies",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 178,
+    "height": 127,
+    "details": "Preamp and Distortion\nhttps://www.sweetwater.com/store/detail/ThetaPreamp--isp-technologies-theta-preamp-distortion-pedal-with-decimator-noise-reduction",
+    "hrid": "isp-technologies-theta"
+}

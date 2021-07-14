@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11561",
+    "name": "Big Muff Pi with Tone Wicker",
+    "image": "images/electro-harmonix-big-muff-pi-with-tone-wicker.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "The Big Muff Pi with Tone Wicker taps into the sonic power of the legendary Big Muff Pi, but creates new tonal possibilities at the flick of a switch -- or two. Use the Wicker switch to open up three high-frequency filters for raspy, sustaining distortion with top-end bite, or flick on the Tone switch to bypass the tone control for unabated tonal slam. Want the original Big Muff sound? Just switch off the Wicker and turn on the Tone. The ability to create your own personal Big Muff sound is what truly makes this the Wicked Wicker.\nhttp://www.ehx.com/products/big-muff-pi-with-tone-wicker",
+    "hrid": "electro-harmonix-big-muff-pi-with-tone-wicker"
+}

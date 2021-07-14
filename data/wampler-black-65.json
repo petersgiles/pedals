@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30646",
+    "name": "Black 65",
+    "image": "images/wampler-black-65.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Preamp/OverdriveThe Black '65 OD isn't named after any particular amp precisely because the range of sounds available would make calling it the \"BF Dee\nLucks\" or the \"BF Bass Gentleman\" or the \"BF To-Win\" too boxed in. Engineered from the ground up for diversity, the three-band EQ and Gain Switch will allow you to dial in a sound very much like any of the classic amps of the era – and even get into tweed-covered territory (you know what I mean!). And as if that functionality weren't enough, it can act as a \"tone shaper;\" that is, a pedal that you place at or near the very end of your chain but before the amp, with the gain set very low but the EQ adjusted to give everything the amp-like, great flavor you want from the pedal.\nhttps://reverb.com/p/wampler-black-65-overdrive",
+    "hrid": "wampler-black-65"
+}

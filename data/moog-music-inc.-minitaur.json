@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24372",
+    "name": "Minitaur",
+    "image": "images/moog-music-inc.-minitaur.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$448 Price in €",
+    "width": 222,
+    "height": 130,
+    "details": "Analog Bass SynthesizerThe Minitaur® is an inconspicuously compact, subharmonic bass machine designed to effortlessly integrate into any performance and computer-based music solution. Just as its progenitors, the Minitaur effortlessly does one thing above all others… wall splitting analog BASS.\nhttps://www.moogmusic.com/products/minitaur",
+    "hrid": "moog-music-inc.-minitaur"
+}

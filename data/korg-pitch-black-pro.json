@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18562",
+    "name": "Pitch Black Pro",
+    "image": "images/korg-pitch-black-pro.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 482,
+    "height": 44,
+    "details": "19\" Rack TunerA chromatic Tuner with an input on the front and back as well as a cable tester.\nIt has bright leds with a 3d effect which changes as you move\nIt has 3 display modes\n1. Regular Meter mode\nAs when using a needle-type meter tuner, tune the string so that the LED in the center of the meter is lit up. The illuminated LED will move to the right if the string is sharp, or toward the left if the string is flat. This process is intuitively easy to grasp.\n2. Strobe Meter mode\nTune the string so that the LED meter illumination stops flowing. The meter illumination will flow from left to right if the string is sharp or from right to left if the string is flat.\n3. Half Strobe Meter mode\nTune the string so that the LED meter illumination stops flowing and only the center LED is lit up. The right side of the LED meter strobes if the string is sharp; the left side strobes if the string is flat. When the pitch is correct, only the center LED will be lit up.\nThe polarity on the power cable is reversed so while it is 9v you cannot power it with a standard pedal board power supply.\nhttps://www.korg.com/us/products/tuners/pitchblack_pro/",
+    "hrid": "korg-pitch-black-pro"
+}

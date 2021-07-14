@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11966",
+    "name": "Golden Cello",
+    "image": "images/mad-professor-golden-cello.jpg",
+    "function": [
+        "Delay",
+        "Distortion"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$205 Price in €",
+    "width": 61,
+    "height": 113,
+    "details": "Controls\nVOLUME: adjusts the final output level of the effect.\nTONE: controls mainly the treble, sound can be set from soft to sharp.\nDISTORTION: sets the sustain and distortion level, from light to saturated.\nDELAY: sets the level of build in delay.\nInside the pedal there are trimmers for delay repeat and delay length (two trimmers, that have to be in balance), and trimmer for the volume into the delay part of the pedal.\nElectrical Specifications:\nCurrent draw @9VD:V 43mA\nInput impedance: 70K Ohms\nOutput impedance: 50K 0hms\nSupply voltage: 9-12VDC\nhttps://www.mpamp.com/factory-pedals/golden-cello-factory-pedal/",
+    "hrid": "mad-professor-golden-cello"
+}

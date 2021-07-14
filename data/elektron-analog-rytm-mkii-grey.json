@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29261",
+    "name": "Analog Rytm MKII Grey",
+    "image": "images/elektron-analog-rytm-mkii-grey.jpg",
+    "function": [
+        "Drum",
+        "Synth Voice",
+        "Dynamics",
+        "Distortion",
+        "Sampling"
+    ],
+    "manufacturer": "Elektron",
+    "current": "2000 mA / 12 V / DC / Positive Center",
+    "cost": "$1,512 Price in €",
+    "width": 385,
+    "height": 225,
+    "details": "8 Voice Drum MachineDrum voice features (×8)\n\nFully analog signal path\n1 × specialized analog percussion sound generator\n1 × sample playback engine\n1 × analog overdrive circuit\n1 × 2-pole analog multi-mode filter\n1 × panning VCA pair\n1 × filter envelope\n1 × amp envelope\n2 × individual effect sends\n1 × assignable LFO\n1 × dedicated LFO fade envelope\n\nStorage\n\n128 Projects (+Drive)\n128 Kits per Project\n128 Patterns per Project\n16 Songs per Project\n4096 Sounds (+Drive Sound Library)\n128 Sounds per Project\n127 samples per Project\n1 GB +Drive sample storage\n\nSequencer\n\n12 drum tracks\n1 FX track\nSequencer MIDI Out\nUp to 64 steps per pattern\nIndividual length per track\nIndividual scale per track\nParameter locks\nStep Recording mode\nTrig preview\nTrig probability\nInstant Pattern, Kit and Sound reload\nLive friendly Performance mode\nTrig mute, swing, slide, accent functions\nTrack transpose\nTrig conditions\nMicro timing\nChromatic mode\nScene mode\nSample-per-step change\nSound-per-step change\nAssignable Retrig\nFull real-time control\n\nSend effects\n\nSaturator Delay\nSupervoid Reverb\n\nMaster effects\n\nAnalog stereo distortion\nAnalog stereo compressor\n\nHardware\n\n12 large, velocity, pressure sensitive, and backlit pads\n128 × 64 pixel OLED screen\nMIDI In/Out/Thru with DIN Sync out\n2 × 1/4” impedance balanced audio out jacks\n1 × 1/4” stereo headphone jack\n8 × 1/4” impedance balanced individual track output jacks\n2 × 1/4” balanced audio in jacks\n2 × 1/4” ext in jacks\n2 × 1/4” CV/Expression inputs\n48 kHz, 24-bit D/A, and A/D converters\nFlash-EEPROM upgradable OS\nElectrically isolated USB 2.0 Hi-Speed port\n\nBalanced audio outputs\n\nHeadphones out level: +15 dBu (55 Ω)\nMain outputs level: +15 dBu\nIndividual outputs level: +15 dBu\nOutput impedance: 440 Ω unbalanced\n\nUnbalanced external inputs\n\nInput level: +15 dBu maximum\nAudio input impedance: 9 kΩ\n\nBalanced audio inputs\n\nInput level: +15 dBu maximum\nAudio input impedance: 19 kΩ\nDigital S/N ratio: 110 dB (20–20,000 Hz)\n\nCV/Expression inputs\n\nInput voltage on tip: -5 V–+5 V. Supplies +5 V on ring\nAccepts CV, Expression pedals\n\nElectrical specifications\n\nUnit power consumption: 14 W typical, 20 W maximum.\nRecommended power supply: 12 V DC, 2A\n\nPhysical specifications\n\nAluminum enclosure\nDimensions: W385 × D225 × H82 mm (15.2 × 8.85 × 3.3″) including knobs, jacks and feet\nWeight: approximately 2.4 kg (5.3 lbs)\n\nMiscellaneous\n\nOverbridge enabled\nClass compliant USB audio",
+    "hrid": "elektron-analog-rytm-mkii-grey"
+}

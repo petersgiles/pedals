@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11535",
+    "name": "Dharma Drive",
+    "image": "images/wychelm-effects-dharma-drive.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "WychElm Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$119 Price in €",
+    "width": 140,
+    "height": 114,
+    "details": "Transparent overdrive & boostInspired by a Timmy but expanded on with a boost and a clean blend\nhttp://wychelmeffects.bigcartel.com",
+    "hrid": "wychelm-effects-dharma-drive"
+}

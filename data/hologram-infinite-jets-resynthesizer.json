@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11859",
+    "name": "Infinite Jets Resynthesizer",
+    "image": "images/hologram-infinite-jets-resynthesizer.jpg",
+    "function": [
+        "Sampling",
+        "Synth Voice",
+        "Filter",
+        "Multieffect",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Hologram",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$425 Price in €",
+    "width": 203,
+    "height": 121,
+    "details": "SynthA SUITE OF EXPRESSIVE EFFECTS TO TRANSFORM YOUR INSTRUMENT IN NEW AND EXCITING WAYS.\nInfinite Jets tracks the dynamics of your playing, samples individual notes and chords, and then reinterprets them as new sounds using two independent channels of infinite sustain. It offers 4 separate sampling effects in one: Blur, Synth, Glitch, and Swell.\nhttps://hologramelectronics.com/infinite-jets/",
+    "hrid": "hologram-infinite-jets-resynthesizer"
+}

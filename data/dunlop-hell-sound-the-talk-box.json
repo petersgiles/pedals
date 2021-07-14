@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12092",
+    "name": "Hell Sound The Talk Box",
+    "image": "images/dunlop-hell-sound-the-talk-box.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 170,
+    "height": 203,
+    "details": "https://www.jimdunlop.com/product/ht-1-7-10137-00643-0.do",
+    "hrid": "dunlop-hell-sound-the-talk-box"
+}

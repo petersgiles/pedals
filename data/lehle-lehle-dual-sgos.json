@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20070",
+    "name": "LEHLE DUAL SGOS",
+    "image": "images/lehle-lehle-dual-sgos.jpg",
+    "function": [
+        "MIDI",
+        "Switch",
+        "Utility",
+        "Dual/Stereo",
+        "Volume"
+    ],
+    "manufacturer": "Lehle",
+    "current": "100 mA / ? V / DC",
+    "cost": "$349 Price in €",
+    "width": 155,
+    "height": 102,
+    "details": "ABY SWITCHERThe Lehle Dual SGoS is the second evolutionary stage of the highly successful programmable switcher for two amps plus tuner. This unit makes it possible to play through two amplifiers individually or simultaneously, either as a stand-alone unit or in a network with other Lehle SGoS switchers. A particularly popular combination is the Lehle Dual SGoS with the Lehle D.Loop SGoS. Programming is as easy and intuitive as you would expect from a Lehle product, and can also be done remotely, using MIDI program change commands.\nHum loops are completely excluded, thanks to electrical isolation of outputs A and B by the Lehle LTHZ high-end transformer. Gold-plated-contact relays, ground switches and phase inverters assure the full, loss-free guitar sound. The potentiometers are in the signal path when output A and B are active simultaneously, and the volume of the two amps can be balanced - producing a third sound you've never heard before! Output T, basically intended for instrument tuners, can also be used for a third amp or for a second channel for amp B, opening up even more potentials.\nThe gold-plated-contact relays feature active pop-and-click suppression, outputs A and B can be muted for undisturbed instrument tuning. Welcome to the new Duality!\n9 -20 V DC, max. 100mA,  polarity: positive or negative center\nhttps://lehle.com/EN/Lehle-Dual-SGoS",
+    "hrid": "lehle-lehle-dual-sgos"
+}

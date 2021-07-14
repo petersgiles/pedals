@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27800",
+    "name": "1 Way Mini Guitar Junction Box",
+    "image": "images/american-loopers-1-way-mini-guitar-junction-box.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 50,
+    "height": 50,
+    "details": "The smallest guitar junction box you'll find for your pedalboard, quality made with genuine Neutrick jacks and Hammond enclosures.\n*Please note that the current build time for this looper is approximately 1-2 business days.\nDimensions:\n2 x 2 x 1.2 (inch)\n50 x 50 x 31 (mm)\nhttps://www.americanloopers.com/collections/5-junction-boxes-patch-bays-signal-split",
+    "hrid": "american-loopers-1-way-mini-guitar-junction-box"
+}

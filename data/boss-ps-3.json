@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12517",
+    "name": "PS-3",
+    "image": "images/boss-ps-3.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Digital Pitch Shifter / DelayThe PS-3 contains both a pitch-shifter and a delay. There is seven pitch shift modes, and three delay modes as well as an expression mode. The pitch shift level is selectable in 26 steps – 24 chromatic steps over a +/- 1 octave range plus 2-octave up-down capability. The delay is up to a maximum of 2000 ms just like the DD-5.\nModes\nDelay, 32ms – 125ms\nDelay, 125ms – 500ms\nDelay, 500ms – 2000ms\nDetune, adds a slightly pitch-shifted sound to the input sound to create a detune effect\nFast Pitch Shift, very little delay in pitch shifted sound. Good for slightly shifted sounds.\nSlow Pitch Shift, more delay in pitch shifted sound but very accurate. Good for greatly shifted sounds.\nInverse Pitch Shift, a mode where the pitch shifted sounds are reversed\nDetune & Detune, adds two slightly pitch shifted sounds to the input signal to create a fat detuned effect.\nDetune & Pitch Shift, detune output from Output A and Pitch Shifted sound from Output B\nPitch Shift & Pitch Shift, Pitch shifted sounds from both output. Pitch A controls Output A and Pitch B controls Output B\nExpression, A connected expression pedal will set the pitch shift between Pitch A and Pitch B\nSpecifications\nControls: Balance, Feedback, Pitch, 11-way Mode switch\nConnectors: Input, Expression Pedal, Output A, Output B, AC Adaptor\nCurrent Draw: 70 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nThe PS-3 was sold from March 1994 to January 1999.\nhttps://bossarea.com/boss-ps-3-digital-pitch-shifter-delay/",
+    "hrid": "boss-ps-3"
+}

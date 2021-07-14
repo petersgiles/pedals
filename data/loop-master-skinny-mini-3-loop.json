@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18162",
+    "name": "Skinny Mini 3 Loop",
+    "image": "images/loop-master-skinny-mini-3-loop.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Loop-Master",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$85 Price in €",
+    "width": 152,
+    "height": 38,
+    "details": "3 Loop Switcher\nhttps://www.loop-master.com/skinny-mini-loop-p-416.html",
+    "hrid": "loop-master-skinny-mini-3-loop"
+}

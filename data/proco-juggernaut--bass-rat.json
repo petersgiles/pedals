@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28277",
+    "name": "Juggernaut / Bass Rat",
+    "image": "images/proco-juggernaut--bass-rat.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 180,
+    "height": 110,
+    "details": "Bass distortion, FX send-return, wet-dry blend, impedance bufferProCo's \"bass Rat\" Juggernaut, distortion and utility pedal. Signature ProCo steel casing (same dimensions as Rat Deucetone).\nPowered by 9V - 3.5mm jack or E / 9-volt battery.",
+    "hrid": "proco-juggernaut--bass-rat"
+}

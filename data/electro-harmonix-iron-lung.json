@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12242",
+    "name": "Iron lung",
+    "image": "images/electro-harmonix-iron-lung.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$135 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Vocoder\nhttps://www.sweetwater.com/store/detail/IronLung",
+    "hrid": "electro-harmonix-iron-lung"
+}

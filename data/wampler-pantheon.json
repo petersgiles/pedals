@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18938",
+    "name": "Pantheon",
+    "image": "images/wampler-pantheon.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 64,
+    "height": 110,
+    "details": "OverdriveOverdrive",
+    "hrid": "wampler-pantheon"
+}

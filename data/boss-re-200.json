@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22817",
+    "name": "RE-200",
+    "image": "images/boss-re-200.jpg",
+    "function": [],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 101,
+    "height": 138,
+    "details": "Space Echo Emulator (mock-up)THIS IS NOT A REAL PEDAL. IT IS A MOCKUP SOMEONE MADE ON REDDIT.\nNot sure why someone added it here as it will likely never exist and certainly doesn't now, but it is what it is.\nhttps://imgur.com/gallery/NYJUK98",
+    "hrid": "boss-re-200"
+}

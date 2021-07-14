@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27425",
+    "name": "AD-10 Time Machine",
+    "image": "images/biyang-ad-10-time-machine.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Biyang",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "Analog DelayBiyang \"Babyboom\" is a totally brand new effect pedal series with a standard size cast aluminium enclosure. New on the AD-10 IS THE GROUPING OF TWO SEPARATE CHIP SETS. This has improved the delay fidelity and realistic trailing effects. Analog circuitry design is used for delay time realism for a pure sound that colors and creates great space in the sound.\nMax delay time is 1100ms (1.1seconds), and features a two mode toggle switch: 20-600ms, 20-1100ms. 600ms allows for a little faster repeats and delay times while the 1100ms is capable of longer slower delays. A nice feature depending on what you need a delay to do.\nhttp://www.biyang.nl/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=1913&virtuemart_category_id=189",
+    "hrid": "biyang-ad-10-time-machine"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12323",
+    "name": "Compact Looper",
+    "image": "images/saturnworks-compact-looper.jpg",
+    "function": [
+        "Utility",
+        "Switch"
+    ],
+    "manufacturer": "Saturnworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 39,
+    "height": 93,
+    "details": "True Bypass LoopSaturnworks true bypass loopers can make any pedal true bypass or turn multiple pedals on/off at the same time. With options such as feedback, active blenders, clean boosters, multi-loops, and buffers, Saturnworks has your looper.\nhttp://saturnworkspedals.com/product/true-bypass-looper/",
+    "hrid": "saturnworks-compact-looper"
+}

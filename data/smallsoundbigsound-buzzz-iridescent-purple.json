@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22743",
+    "name": "Buzzz Iridescent Purple",
+    "image": "images/smallsoundbigsound-buzzz-iridescent-purple.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 93,
+    "height": 116,
+    "details": "",
+    "hrid": "smallsoundbigsound-buzzz-iridescent-purple"
+}

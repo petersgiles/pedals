@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17176",
+    "name": "FS-10 ID Series Foot Controller",
+    "image": "images/blackstar-fs-10-id-series-foot-controller.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation",
+        "Switch"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$56 Price in €",
+    "width": 351,
+    "height": 90,
+    "details": "Foot switcher for Amplifier\nhttps://www.gak.co.uk/en/blackstar-fs-10-id-series-foot-controller/100519?gclid=CjwKCAjwlcXXBRBhEiwApfHGTcOCc3E3XNzRQDEDGtzFErf54VmLyQmgu7cBMumsjfaUl8kO0j78cBoCZwMQAvD_BwE",
+    "hrid": "blackstar-fs-10-id-series-foot-controller"
+}

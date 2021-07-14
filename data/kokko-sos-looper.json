@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31475",
+    "name": "SOS Looper",
+    "image": "images/kokko-sos-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Kokko",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "Mini looper pedal",
+    "hrid": "kokko-sos-looper"
+}

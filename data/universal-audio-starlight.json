@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31673",
+    "name": "Starlight",
+    "image": "images/universal-audio-starlight.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Universal Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 92,
+    "height": 118,
+    "details": "Echo Station Delay2 legendary echo unit emulations and a cutting digital delay powered by UAD DSP\nTape EP-III recreates the vibey, idiosyncratic character of celebrated tape echo\n    Analog DMM is a faithful reproduction of the standard bearer for bucket-brigade delay\n    Precision offers crystal-clear digital delay with modulation derived from UAD’s plug-in library\nPreset mode for switching between 2 different effects with a spill-over option for preserving echo tails\n    Free bonus effect upon registration: Cooper Time Cube\n    Operates in mono, dual-mono, and stereo modes with automatic mono/stereo detection\n    Rugged enclosure with top-notch components\n    True bypass and optional buffered bypass modes",
+    "hrid": "universal-audio-starlight"
+}

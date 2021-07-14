@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21185",
+    "name": "Super Sweet",
+    "image": "images/xotic-super-sweet.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Xotic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "High Performance BoosterThe Super Sweet Boost (SSB) offers a dynamic and transparent +20dB clean boost perfectly tuned for transferring the articulation of your guitar playing. The SSB is incorporated with a high performance Class A preamp built around the famous JRC4558 chip. The boost frequency can be selected by an external DIP switch offers a very versatile tone shaping capabilities.\nhttps://xotic.us/effects/sssc",
+    "hrid": "xotic-super-sweet"
+}

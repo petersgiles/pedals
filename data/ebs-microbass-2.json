@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20430",
+    "name": "MicroBass 2",
+    "image": "images/ebs-microbass-2.jpg",
+    "function": [
+        "Bass",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$335 Price in €",
+    "width": 153,
+    "height": 110,
+    "details": "Preamp/DI-boxTwo Channels and A Useful Loop. The MicroBass II can be used as an active direct box, a one or two channel preamp, instrument switcher or blender. \nThe two channels provide sound shaping from high end solid-state types to distorted timbres, using the awarded tube emulation circuitry found in the EBS range of professional bass heads. \nAn incorporated effects loop gives the user added flexibility for connecting to other effect pedals, or for mixing in an external audio source such as a CD player for rehearsal purposes. \nUnmatched Flexibility. The balanced output with speaker simulator option provides unmatched flexibility in live and studio situations. Footswitches control mute and channel operation/switching. Other features include headphone output, low battery indicator, link and master outputs, bass, ‘sweepable’ midrange, treble, bright and edge filters, drive and effects mix controls. \nhttps://ebssweden.com/content2/effects/ebs-microbass-ii-preampdi-box/",
+    "hrid": "ebs-microbass-2"
+}

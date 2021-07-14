@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33382",
+    "name": "UNO Synth Pro Desktop",
+    "image": "images/ik-multimedia-uno-synth-pro-desktop.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "IK Multimedia",
+    "current": "1500 mA / 5 V / DC / Positive Center",
+    "cost": "$400 Price in €",
+    "width": 333,
+    "height": 150,
+    "details": "Three Oscillator Paraphonic Tabletop SynthUNO Synth Pro Desktop offers next-generation analog for everyone, with a dual-filter, 3-oscillator paraphonic design, 256 presets, a new 64-step sequencer, and expanded CV/Gate and audio connections, all packed into a compact desktop unit. A wealth of sounds: Create nearly any analog synth sound with three analog oscillators that offer continuously variable waveshape, including pulse-width modulation. They can be hard-synced for more harmonically-complex tones and oscillator FM\nhttps://www.ikmultimedia.com/products/unosynthpro/index.php",
+    "hrid": "ik-multimedia-uno-synth-pro-desktop"
+}

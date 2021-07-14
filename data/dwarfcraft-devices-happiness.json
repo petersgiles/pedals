@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12028",
+    "name": "Happiness",
+    "image": "images/dwarfcraft-devices-happiness.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$279 Price in €",
+    "width": 105,
+    "height": 130,
+    "details": "Multi-mode filterDwarfcraft Devices is ready to spread some Happiness, in the form of a multi-mode filter pedal, packed to the gills with features. Happiness opens a new world of synth inspired tones and textures with low pass, band pass, and high pass filtering. The filter is modulated with an internal triangle based LFO or external CV patched in, and a “scramble” feature, akin to a sample and hold.\nExpression jacks for filter cutoff and LFO speed are along the top panel, and CV in and out are on the sides. Happiness internally converts the industry standard 9v power supply to +/-12V for seamless integration with Eurorack modular synth systems, and Dwarfcraft’s other CV capable devices. All these features are packed into the same tall enclosure used by the Twin Stags, to maximize controls while minimizing footprint. \nAs usual, this newest Dwarfcraft Device works very well with a bass guitar, but it’s equally at home wringing new sounds out of guitars, drum machines, synths, and electric mandolin. (protip: turn the low pass filter all the way down so no mandolin can come out.)\nVIDEO - Guitar \nBass \nMaking a song \nNOTE: The Happiness pedal is designed to function best with a +/-12V standard. Most other effects pedals are going to send/receive 0-5v, which means that some of them will work, but in a limited capacity. Our pedals were designed to work with other Dwarfcraft gear and eurorack systems primarily.\nPower Requirements= 110mA\nhttp://www.dwarfcraft.com/happiness.html",
+    "hrid": "dwarfcraft-devices-happiness"
+}

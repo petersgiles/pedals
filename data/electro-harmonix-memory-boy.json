@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12933",
+    "name": "Memory Boy",
+    "image": "images/electro-harmonix-memory-boy.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Analog modulation delay (MONO)All analog Delay with Chorus/Vibrato and feedback..\nUp to 550 ms delay time.\nSelectable Chorus or Vibrato modulations rates (triangle or square modulation)\nExpression pedal control of delay time or modulation rate (expression pedal extends the range of modulation rate)\nTrue Bypass\nhttps://www.ehx.com/products/memory-boy1",
+    "hrid": "electro-harmonix-memory-boy"
+}

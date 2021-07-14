@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13286",
+    "name": "FC-50 MIDI Foot Controller",
+    "image": "images/boss-fc-50-midi-foot-controller.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 423,
+    "height": 135,
+    "details": "Midi foot controllerBoss FC-50 MIDI Foot Controller",
+    "hrid": "boss-fc-50-midi-foot-controller"
+}

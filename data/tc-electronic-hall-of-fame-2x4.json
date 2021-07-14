@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30424",
+    "name": "Hall of Fame 2x4",
+    "image": "images/tc-electronic-hall-of-fame-2x4.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$298 Price in €",
+    "width": 235,
+    "height": 145,
+    "details": "Reverb with 4 MASH Switches, Shimmer and 8 PresetsTonePrint-enabled reverb pedal with updated reverb algorithms\n4 MASH footswitches for toggling 4 individual reverb presets\nMASH footswitches are pressure sensitive and can be used like an expression pedal to manipulate reverb parameters\nShimmer reverb algorithm based on the acclaimed Sub 'N' Up Octaver effect\nInputs for expression pedal and MIDI for external control over parameters and preset changes\n6 TonePrint slots allow you to preload your pedal with custom reverb presets\nUse the TonePrint editor app for Mac/PC/iPad/Android to tweak and customize your own reverb presets\nAnalog-dry-through design leaves your core guitar tone unprocessed\nhttps://www.tcelectronic.com/product.html?modelCode=P0DHT",
+    "hrid": "tc-electronic-hall-of-fame-2x4"
+}

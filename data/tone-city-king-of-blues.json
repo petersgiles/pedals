@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18918",
+    "name": "King of Blues",
+    "image": "images/tone-city-king-of-blues.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 120,
+    "height": 92,
+    "details": "KOT Style Dual OverdriveThe King of Blues from Tone City is a dual channel overdrive pedal that is dynamic and has excellent clean up for each channel.  On Channel A, get plump middle frequency with outstanding edge, and on Channel B, get fat and smooth tone.",
+    "hrid": "tone-city-king-of-blues"
+}

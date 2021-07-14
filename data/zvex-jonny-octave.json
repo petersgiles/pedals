@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12844",
+    "name": "Jonny Octave",
+    "image": "images/zvex-jonny-octave.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$359 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "This “clean” analog octave-up pedal will raise your single-note solos one or two octaves up when you play through your neck pickup at the 12th fret. Jonny’s “engine” contains four germanium diodes and a transformer in each channel, with four internal gain trimmers allowing adjustment for your playing style.",
+    "hrid": "zvex-jonny-octave"
+}

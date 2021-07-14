@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18252",
+    "name": "Super Space Drum",
+    "image": "images/electro-harmonix-super-space-drum.jpg",
+    "function": [
+        "Drum",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$117 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Analog Drum Synth\nAnalog drum synthesizer dripping with vintage sound and vibe\nCreates an awesome array of percussive sounds ranging from really deep kicks to high toms to sci-fi drums\nTriggers via the on-board pushbutton, an external (non-MIDI) drum pad and most clock generators\nProcess external sounds thru its Aux In\nRugged die-cast chassis, includes EHX9.6DC-200mA PSU, also accepts a 9V battery\nWorks great with the EHX Clockworks Rhythm Generator/Synthesizer, 8 Step Program Ananlog Expression/CV Sequencer and other similar devices\n\nhttps://www.ehx.com/products/super-space-drum",
+    "hrid": "electro-harmonix-super-space-drum"
+}

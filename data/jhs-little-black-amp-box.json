@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12610",
+    "name": "Little Black Amp Box",
+    "image": "images/jhs-little-black-amp-box.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 91,
+    "height": 38,
+    "details": "Passive volume attenuatorTaming a screaming-loud tube amp doesn’t always require bulky and expensive load boxes and attenuators. If your amp has a series effects loop, the JHS Pedals Little Black Amp Box takes care of the job while being able to fit into the palm of your hand. Simply run it through your amp’s effects loop and control the amount of signal you send to your amplifier’s power section. You’ll love the way the Little Black Amp Box lets you really push the front end of your amp for the natural feel and tone that you can’t get any other way. And your bandmates, sound engineer, parents, neighbors, significant other, and pets will love the way it can keep your volume down to bedroom levels.\n*********WARNING********\nAttempting to place the Little Black Amp Box between the power section of your amplifier and your speakers will result in damage to your gear. Place it in a series effects loop only.\nCranked amp tone at whisper volume\nIf your amp has a series effects loop, you should stop reading this and go buy a JHS Pedals Little Black Amp Box. All the roaring amp tones you need come with none of the ear-bleeding levels.\n\nRun it in your effects loop to turn down a turned-up amp\nRetain the response and tone of your amp’s sweet spot at lower levels\nHigh-grade components keep your tone clear and pure\nPassive design doesn’t require any power\n\nConvenient low-profile design \nA device such as the Little Black Amp Box is content to be a workhorse piece of gear that quietly does its job in the background. That’s why we designed this little guy to be compact, sturdy, and simple to integrate into your rig. \n\nSmall size is ideal for saving pedalboard space or even setting on top of your amp\nCan easily be mounted underneath your board\nBuilt rugged\nBlack powder coating keeps the buffer hidden in the background\n\nThis pedal does not require power and it measures 3.6\"x1.5\"x1\"\nhttps://www.jhspedals.info/little-black-amp-box",
+    "hrid": "jhs-little-black-amp-box"
+}

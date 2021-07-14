@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15177",
+    "name": "EQ-20 Advanced EQ",
+    "image": "images/boss-eq-20-advanced-eq.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer",
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 173,
+    "height": 158,
+    "details": "Programmable Graphic EqualizerWorld’s first programmable 10-band graphic digital equalizer pedal for guitarists, bassists and other live performers\n9 internal memories for storing user-created EQ settings\nLevel switch for connection before amp or in effects loop (+4dB)\nProfessional sound quality using superb A/D-D/A converters\nSingle-purpose design; simple user interface\nhttps://www.boss.info/us/products/eq-20/",
+    "hrid": "boss-eq-20-advanced-eq"
+}

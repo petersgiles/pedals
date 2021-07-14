@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12232",
+    "name": "Hummingbird",
+    "image": "images/earthquaker-devices-hummingbird.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "TremoloThe Hummingbird is a choppy, sawtooth tremolo modeled on the vintage “repeat percussion” unit and similar to those found in old Valco and Vox amplifiers. It is capable of producing everything from classic “50’s style” shimmering tremolo to a synthy, delay-like chop that turns your signal into a burst of short pings and on through to near ring modulation speeds. Simply choosing between modes 1 (slow), 2 (mid-tempo) or 3 (fast) and adjusting the rate and depth controls will unlock a whole new world of amplitude modulation at your feet. The Rate is also expression pedal accessible to allow instant changes on the fly. \nUsing an expression pedal opens up the possibility of true random amplitude modulation! In addition to the modulation, the Hummingbird has plenty of clean gain on-tap allowing you to either boost or cut the signal using the level control. If the Depth is turned to zero, the Hummingbird will become a JFET clean boost!\nhttps://www.earthquakerdevices.com/hummingbird",
+    "hrid": "earthquaker-devices-hummingbird"
+}

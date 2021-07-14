@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16413",
+    "name": "UZ400",
+    "image": "images/behringer-uz400.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Ultra FuzzKnockoff of the Boss FZ-3 Fuzz\nTwist the dedicated Fuzz, Tone and Level dials to create a sound that's every bit as dirty as you want it to be. The blue LED tells you when it's activated and the on/off switch maintains outstanding signal integrity in bypass mode. You can power this box o' dirt with a 9 V battery or our PSU-SB DC power supply (not included).\nhttps://www.behringer.com/product.html?modelCode=P0526",
+    "hrid": "behringer-uz400"
+}

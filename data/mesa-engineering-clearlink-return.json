@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17983",
+    "name": "Clearlink Return",
+    "image": "images/mesa-engineering-clearlink-return.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 63,
+    "height": 98,
+    "details": "One-channel Signal Boost, Sending Direct BoxThe Mesa/Boogie Clearlink (Send) line driver is an effective way to send a strong guitar signal to your amp when it's placed far away. The Clearlink (Send) features a balanced XLR output that, when run in conjunction with Mesa's Clearlink (Receive), can deliver the perfect level signal up to 330 feet away, right to your amp's input. The 1/4\" unbalanced output works with the onboard output control to handle the same task over long cable runs direct to your amp. And Sweetwater players love how the Clearlink (Send)'s 9-volt DC thru feature will power the other Mesa buffer products on your board.",
+    "hrid": "mesa-engineering-clearlink-return"
+}

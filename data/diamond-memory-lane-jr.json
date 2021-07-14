@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11737",
+    "name": "Memory Lane Jr",
+    "image": "images/diamond-memory-lane-jr.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 125,
+    "height": 95,
+    "details": "DelayThe Memory Lane Junior is a digital evolution of our original Memory Lane concept, the world’s first analog delay with tap tempo.\nBy utilizing the same variable sample rate concept used in analog bucket brigade modulation, and adding custom analog anti-aliasing and reconstruction filters and companding, we’ve captured the ethereal essence of the Memory Lane… in a much smaller footprint, with over twice the delay time, an extended frequency response, and standard 9V powering.\nThe the MLJr digital sampling engine’s sole function is to copy, delay and reproduce the delay path signal with no mathematical manipulation at all – and unlike standard digital designs, there are no digital anti-aliasing and reconstruction filters. All signal paths around the sampling engine (direct path, feedback path and everything before and after the digital sampler) are analog paths carefully designed to provide a unique sonic signature that is unmistakably the Memory Lane Jr.\nhttp://www.diamondpedals.com/products/memory-lane-jr/",
+    "hrid": "diamond-memory-lane-jr"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23634",
+    "name": "Dirt Transmitter",
+    "image": "images/earthquaker-devices-dirt-transmitter.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 71,
+    "height": 112,
+    "details": "Fuzz DriverFuzz: Clockwise for heavier tones, counterclockwise for lighter tones.\nTone: Clockwise for a brighter, more cutting tone, counterclockwise to roll off top end for more mellow tones.\nBias: This is the heart of the Dirt Transmitter, where all of its voices can be found. It affects the voltage to the transistors which will create more gated velcro fuzz tones counter clockwise and thicker, natural fuzz tones clockwise. It is “properly biased” around 2 O’clock.\nLevel: Clockwise for more, counterclockwise for less.\nhttps://www.earthquakerdevices.com/dirt-transmitter",
+    "hrid": "earthquaker-devices-dirt-transmitter"
+}

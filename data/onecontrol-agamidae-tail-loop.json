@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14978",
+    "name": "Agamidae Tail Loop",
+    "image": "images/onecontrol-agamidae-tail-loop.jpg",
+    "function": [
+        "Looper",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 370,
+    "height": 48,
+    "details": "Programmable loop switcher\nhttp://www.one-control.com/agamidae-tail-loop.html",
+    "hrid": "onecontrol-agamidae-tail-loop"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17868",
+    "name": "M13",
+    "image": "images/line6-m13.jpg",
+    "function": [
+        "Digital",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 381,
+    "height": 292,
+    "details": "TOTAL STOMPBOX EXPERIENCE           \nM13 Stompbox Modeler is the essential all-in-one pedal board experience. It features a comprehensive collection of stompbox effects, a full-featured looper and inspiring flexibility. Free of complicated menus or setup, M13 Stompbox Modeler channels the soul and ease of a classic stompbox.\nBoasting over 100 distinctive distortions, velvety reverbs, juicy delays and more, M13 Stompbox Modeler gives you total tone control. Use up to four different effects - or four of the same - simultaneously. Stompbox-style knobs deliver on-the-fly tweaking.\nOrder the effects any way you want. Create different pedal board effect arrangements, or \"scenes,\" to instantly recall an entire song's stompboxes. Save a scene for your metal band, one for your Top 40 gig…you get the picture. No more tearing up Velcro® just to change one or two pedals! Save up to 48 scenes and back them up to your computer using the MIDI in/out.\nThe 28-second looper is always at the ready with dedicated footswitches for Play/Stop, Half Speed, Reverse, Undo/Redo and more. Each metal footswitch can withstand constant stomping and rock and roll-style abuse.\nEasy to use, built like a tank and sporting an on-board chromatic tuner, M13 Stompbox Modeler can maximize your pedal board (or even replace it) like no other pedal can.\nhttps://line6.com/m13",
+    "hrid": "line6-m13"
+}

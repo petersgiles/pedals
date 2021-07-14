@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27696",
+    "name": "RC-20",
+    "image": "images/boss-rc-20.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Boss",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 173,
+    "height": 57,
+    "details": "Loop StationThe RC-20 Loop Station is the first compact phrase recording and sampling pedal that's actually easy to use. A long sampling time of up to 5 1/2 minutes, helpful Guide Click and Loop Quantize functions, Realtime Tempo Change and hands-free control make the RC-20 a \"must-own\" pedal for musicians looking to create and play back loops \"on the fly.\"\nWorld's most powerful phrase recording/sampling pedal\nGuide Click and Loop Quantize functions for quick, easy creation of perfect loops using footpedals\nRealtime Tempo Change function allows for changing recorded samples' tempo without changing pitch\nOverdub function allows for creation of \"sound-on-sound\" loops\nStores up to 10 looped phrases and 1 \"one-shot\" phrase, even after power-off\n5 1/2 minutes total sampling time\nMic input, Instrument input and Auxiliary input for sampling vocals or pre-recorded audio–even simultaneously\nAuto Start begins sampling automatically with incoming audio\nReverse sample playback on the fly\n\nhttps://www.boss.info/us/products/rc-20/",
+    "hrid": "boss-rc-20"
+}

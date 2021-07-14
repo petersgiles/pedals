@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23280",
+    "name": "Angel Wing Chorus",
+    "image": "images/tone-city-angel-wing-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Tone City",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Analog Chorus (correct size)An analog chorus pedal.  Size corrected. 42mm side and 93mm long\nhttp://www.tonecityaudio.com/PRODUCTS",
+    "hrid": "tone-city-angel-wing-chorus"
+}

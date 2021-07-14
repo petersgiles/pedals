@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32586",
+    "name": "Constellator",
+    "image": "images/pigtronix-constellator.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 40,
+    "height": 95,
+    "details": "Modulated analog delayConstellator is an all-analog delay pedal capable of producing up to 600ms of lush echo with adjustable modulation and a comprehensive sound palette. From percussive slapback and doubler sounds to chorused-out, long delays with endless repeats, the Constellator’s MN3005 bucket brigade chips provide superior overall headroom and tape-like saturation when pushed to the limit. The Feel toggle switch adjusts several parameters simultaneously for an additional coloring of LFO modulation. With the Feedback control maxed out, the Constellator is capable of self-oscillation which can be pitched up or down by turning the Time knob.\nhttps://www.pigtronix.com/pedals/constellator/",
+    "hrid": "pigtronix-constellator"
+}

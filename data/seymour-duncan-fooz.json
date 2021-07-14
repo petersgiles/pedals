@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18593",
+    "name": "Fooz",
+    "image": "images/seymour-duncan-fooz.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice",
+        "Tremolo",
+        "Wah"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 143,
+    "height": 127,
+    "details": "",
+    "hrid": "seymour-duncan-fooz"
+}

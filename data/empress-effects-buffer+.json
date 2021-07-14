@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11876",
+    "name": "Buffer+",
+    "image": "images/empress-effects-buffer+.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "BufferThe Empress buffer was designed to be the complete I/O interface for the pedal board, while maintaining the highest fidelity to your guitar's signal.\nSignal loss due to long, un-buffered cable runs is an issue that has plagued guitar players for decades. The primary goal of the buffer is to eliminate this signal loss, ensuring that your tone is unchanged by your cables.\nAdditionally, all the connectivity of your pedal board is consolidated to make set up quick and easy.",
+    "hrid": "empress-effects-buffer+"
+}

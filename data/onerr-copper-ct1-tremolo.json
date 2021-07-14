@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12872",
+    "name": "Copper CT1 Tremolo",
+    "image": "images/onerr-copper-ct1-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Onerr",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 74,
+    "height": 130,
+    "details": "Tremolo",
+    "hrid": "onerr-copper-ct1-tremolo"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12170",
+    "name": "Violet World",
+    "image": "images/wren-and-cuff-violet-world.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Violet Big Muff clone",
+    "hrid": "wren-and-cuff-violet-world"
+}

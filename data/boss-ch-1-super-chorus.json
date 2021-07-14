@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11668",
+    "name": "CH-1 Super Chorus",
+    "image": "images/boss-ch-1-super-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "STEREO CHORUSClassic BOSS chorus pedal with clean, brilliant sound for guitar and keyboards\nEffect Level, EQ, Rate and Depth knobs allow for precise shaping of sound\nFeatures Mono input and Stereo outputs for connection to dual amps\nBOSS five-year warranty\nhttps://www.boss.info/us/products/ch-1/features/",
+    "hrid": "boss-ch-1-super-chorus"
+}

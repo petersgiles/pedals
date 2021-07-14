@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24602",
+    "name": "OD808",
+    "image": "images/maxon-od808.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "OverdriveThe quintessential Maxon overdrive pedal – often imitated but never matched. Identical to the original circuit and featuring the JRC4558 IC chip, the Maxon OD808 reissue offers the smooth, natural overdrive of a full-up tube amplifier in a compact pedal. Incredibly dynamic, the Maxon OD808 pedal responds precisely to playing nuances and allows your instrument’s natural tone to shine through.\nhttps://maxonfx.com/products/reissue-series-guitar-effects-pedals-maxon-overdrive-od808",
+    "hrid": "maxon-od808"
+}

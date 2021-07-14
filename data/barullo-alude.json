@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24079",
+    "name": "Alude",
+    "image": "images/barullo-alude.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Barullo",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$202 Price in €",
+    "width": 66,
+    "height": 125,
+    "details": "Russian Muff style fuzzAfter some batches of prototyping and tone tuning, here is the pedal where it all begins, yes, is another fuzz!! yes is also based in the russian mig buff, but this one will not destroy your mids and low end, and with 3 clipping options and the small footprint with top mount jacks is your best bet for  sludge tones in your pedalboard.\nCONTROLS\nGain: Controls the gain of the fuzz circuit, from a light overdrive at its lowest setting to a heavy clipped fuzz signal.\nTone:  Specialy dialed filter from bass sludge to the left to screaming highs to the right.\nVoice: This selector switch allows for different clipping diodes. Silicon for raspier fuzz with faster transients, no clipping in the middle position for less clipping and more volume and Germanium for a warmer sound.\nVolume: Controls the overall output level.\nhttps://barullofx.com/2018/09/29/barullo/",
+    "hrid": "barullo-alude"
+}

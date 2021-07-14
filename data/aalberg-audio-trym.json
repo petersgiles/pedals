@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13509",
+    "name": "TRYM",
+    "image": "images/aalberg-audio-trym.jpg",
+    "function": [
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Aalberg Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 89,
+    "height": 141,
+    "details": "TremoloThe Aalberg TRYM Tremolo Pedal delivers everything from a hard-hitting square wave to a gentler sine wave shaped tremolo effect, with endless possibilities in between. With the Tap-tempo foot-switch you can change the tremolo speed, and by using stereo mode you can alternate the tremolo effect from left to right providing a spacious and mesmerizing tremolo effect.\nhttp://aalbergaudio.com/products/trym/",
+    "hrid": "aalberg-audio-trym"
+}

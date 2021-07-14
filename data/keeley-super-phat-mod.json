@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21866",
+    "name": "Super Phat Mod",
+    "image": "images/keeley-super-phat-mod.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$197 Price in €",
+    "width": 68,
+    "height": 112,
+    "details": "Blues driver clone with fat mode\nhttps://robertkeeley.com/Super+Phat+Mod",
+    "hrid": "keeley-super-phat-mod"
+}

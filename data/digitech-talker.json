@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13243",
+    "name": "Talker",
+    "image": "images/digitech-talker.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 184,
+    "height": 203,
+    "details": "Advanced vocal synthesis",
+    "hrid": "digitech-talker"
+}

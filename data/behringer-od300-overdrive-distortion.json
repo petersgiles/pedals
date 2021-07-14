@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12736",
+    "name": "OD300 Overdrive Distortion",
+    "image": "images/behringer-od300-overdrive-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$30 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "2-Mode Overdrive/DistortionSome songs call for an edgy modern-crunch; others call for the classic sound of hot and bothered tubes – still others need a little of both. The OVERDRIVE/DISTORTION OD300 has all your bases covered, allowing you to expertly sculpt your tone with the Level, Tone, Drive and Mode controls.\nhttps://www.behringer.com/product.html?modelCode=P0608",
+    "hrid": "behringer-od300-overdrive-distortion"
+}

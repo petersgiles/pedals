@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13334",
+    "name": "MixingLink",
+    "image": "images/eventide-mixinglink.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Eventide",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 91,
+    "height": 115,
+    "details": "High quality mic pre with FX loop in a compact form factorFX loop send and return supports balanced and unbalanced signals - interfaces with consoles or guitar pedals easily\nLatching or momentary footswitch control of FX loop for performance effects\nWorks with a wide range of microphones including condenser and ribbon mics with up to 65dB of clean gain\nAux I/O connection supporting stereo input and send\nGuitar amp output and headphone monitor output with separate master volume control\nNote: size of this pedal is WRONG in the manual. What's here is closer.\nhttps://www.eventideaudio.com/products/accessory/mic-pre-fx-loop/mixinglink",
+    "hrid": "eventide-mixinglink"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12731",
+    "name": "SP400 Super Phase Shifter",
+    "image": "images/behringer-sp400-super-phase-shifter.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-sp400-super-phase-shifter"
+}

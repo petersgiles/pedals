@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12257",
+    "name": "Hardwire CM-2",
+    "image": "images/digitech-hardwire-cm-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 89,
+    "height": 140,
+    "details": "Tube Overdrive\nhttp://digitech.com/en/products/cm-2",
+    "hrid": "digitech-hardwire-cm-2"
+}

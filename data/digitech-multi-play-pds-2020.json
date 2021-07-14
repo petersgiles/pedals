@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12333",
+    "name": "Multi Play PDS 20/20",
+    "image": "images/digitech-multi-play-pds-2020.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Flanger",
+        "Sampling"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 157,
+    "height": 122,
+    "details": "Delay Chorus and Flanger with hold function",
+    "hrid": "digitech-multi-play-pds-2020"
+}

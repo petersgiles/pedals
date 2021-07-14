@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13459",
+    "name": "The Unpleasant Surprise",
+    "image": "images/fairfield-circuitry-the-unpleasant-surprise.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 112,
+    "height": 64,
+    "details": "Experimental Fuzz/GateReminisce about the time you got your shoulder caught in the reciprocating saw while this unit destroys your slick jazz lines. \nThe fruit of an oddball circuit, hanging there awkwardly by some parasitic effect. Tweaked, bended and shoe-horned to optimize it's stench, it's unpleasance. Time has come to turn all dynamics to shit. Strangely, it feels very natural.\nhttps://fairfieldcircuitry.com/collections/effect-pedals/products/the-unpleasant-surprise",
+    "hrid": "fairfield-circuitry-the-unpleasant-surprise"
+}

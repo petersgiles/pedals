@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20022",
+    "name": "VE-500 Vocal Performer",
+    "image": "images/boss-ve-500-vocal-performer.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Reverb",
+        "Synth Voice",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "310 mA / ? V / AC",
+    "cost": "$392 Price in €",
+    "width": 170,
+    "height": 138,
+    "details": "Vocal performer multi-effectAdvanced vocal multi-effects stompbox for singing guitarists\nAutomatic vocal harmony/pitch correction powered by newly enhanced BOSS algorithms for natural sound with smooth tracking\nClass-leading sound quality and high-powered BOSS DSP engine for processing vocals with up to nine effects at once\nExtensive selection of effects specially tuned for vocals; Enhance section for shaping core tone, plus reverb, delay, modulation, distortion, EQ, filter, and many other types for further processing\nVersatile and creative vocoder effect for generating electronic voice and talk box sounds based on guitar input\nFlexible effect routing options for processing live and harmonized vocals together or separately\nDedicated looper\nXLR mic input with adjustable sensitivity and available phantom power\nGuitar input for harmony, pitch, and vocoder processing; Thru output for sending unprocessed signal to guitar pedals\nStereo XLR outputs for sending vocal sounds to a PA mixer or recorder\nThree assignable footswitches for real-time performance control, plus support for up to two external footswitches or an expression pedal\n99 user memories for storing patch setups\nThree assignable knobs for quick access to essential parameters while performing\nMIDI input and USB-MIDI for guiding harmony/pitch engine from an external MIDI keyboard or DAW backing tracks\nEditor/librarian software (Mac/Windows) for sound editing and patch management via USB\n310 mA (with phantom power)\n210 mA (without phantom power)\nhttps://www.boss.info/us/products/ve-500/",
+    "hrid": "boss-ve-500-vocal-performer"
+}

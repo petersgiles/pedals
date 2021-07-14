@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15805",
+    "name": "Little Tweedy Drive",
+    "image": "images/mad-professor-little-tweedy-drive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$284 Price in €",
+    "width": 61,
+    "height": 110,
+    "details": "The Little Tweedy Drive is voiced after the famous small Tweed amp toneThe Little Tweedy Drive is voiced after the famous small Tweed amp tone, like the tone on Tweed Deluxe. The Little Tweedy Drive provides a vintage tone that is used on many recordings: big, fat & punchy midrange with a sweet growl reminiscent of the late 50´s amplifiers. The Little Tweedy Drive has a tone that almost purrs!\nWith the Little Tweedy Drive, you don´t just have the Tweed tone, but also the hard to get dynamics and touch sensitivity that are the qualities that have made the Tweed amps classic and raved about among the players.\nThis unique pedal it is the most amp-like feeling pedal you have ever experienced.\nAdjusting the amount of gain by picking attack or guitar volume and using the tone controls on your instrument, makes the Little Tweedy Drive pedal fit into a surprisingly broad range of genres: from jazz & blues to country and rock´n´roll!\nAnother great feature is that its gain stacks very well too. You can get more saturated and higher gain tones by placing a booster or another overdrive pedal in front of the Little Tweedy Drive.\nThe Little Tweedy Drive works equally well in front of a clean amp or an already distorted amp.\nThanks to the nicely balanced internal compression, the Little Tweedy Drive cleans up very well from the guitar´s volume control. Also, just like on the vintage Tweed amp, the output volume will not drop too much.\nhttps://www.mpamp.com/eu/factory-pedals/little-tweedy-drive",
+    "hrid": "mad-professor-little-tweedy-drive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19505",
+    "name": "Hooligan",
+    "image": "images/j.-rockett-audio-designs-hooligan.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$202 Price in €",
+    "width": 58,
+    "height": 102,
+    "details": "Fuzz",
+    "hrid": "j.-rockett-audio-designs-hooligan"
+}

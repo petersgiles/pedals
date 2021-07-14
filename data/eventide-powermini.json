@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31513",
+    "name": "PowerMINI",
+    "image": "images/eventide-powermini.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Eventide",
+    "current": "? mA / 24 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 74,
+    "height": 89,
+    "details": "Powerful & Compact Pedalboard Power SolutionPowerMini is a super compact, isolated power supply for smaller pedalboards that ensures your pedals will achieve maximum fidelity. PowerMini provides four outputs at 600 mA (with 2 outputs switchable to 9, 12, 15 or 18V). Also available is the PowerMini EXP, which is the perfect companion to PowerMax. Simply connect PowerMini EXP to your PowerMax via the courtesy 24V outlet and you are good to go. Each PowerMini comes with 7 flex cables compatible with most pedal brands. \nPowerMini Standalone\n24V DC / 36W power adapter with Low-profile inline C7 6’ AC power cord\nMounting hardware (2 screws and a hex-key)\nProduct sheet (drill guide)\nFlex & DC Link cable guide\n24V power adapter mounting bracket (needed only if used with wah wah, or inductor-type pedals) \n7 Flex Cables:\n2 x 1030 - black, 30cm, center negative, type 1 (Eventide Rose, MixingLink & BOSS type)\n2 x 1050 - black, 50cm, center negative, type 1 (Eventide Rose, MixingLink & BOSS type)\n2 x 4050 - green, 50cm, center positive, type 4 (Eventide all H9s, TimeFactor, ModFactor, PitchFactor & Space)\n1 x 1533 - 3-way daisy chain, black, 50-30-30cm, center negative, type 1 (BOSS type)\nPowerMini EXP (PowerMax Expansion) \nComes with 24V DC Link cable, black, 50cm (EIAJ to red 5.5/2.1mm center positive DC plug)\nMounting hardware (2 screws and a hex-key)\nProduct sheet (drill guide)\nFlex & DC Link cable guide\n7 Flex Cables:\n2 x 1030 - black, 30cm, center negative, type 1 (Eventide Rose, MixingLink & BOSS type)\n2 x 1050 - black, 50cm, center negative, type 1 (Eventide Rose, MixingLink & BOSS type)\n2 x 4050 - green, 50cm, center positive, type 4 (Eventide all H9s, TimeFactor, ModFactor, PitchFactor & Space)\n1 x 1533 - 3-way daisy chain, black, 50-30-30cm, center negative, type 1 (BOSS type)\nhttps://www.eventideaudio.com/products/accessories/power-solution/powermini",
+    "hrid": "eventide-powermini"
+}

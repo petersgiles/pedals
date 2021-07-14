@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27099",
+    "name": "Rat 2 Red Ikebe Exclusive",
+    "image": "images/proco-rat-2-red-ikebe-exclusive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "ProCo",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 89,
+    "height": 104,
+    "details": "DistortionIkebe Japan Exclusive Red version of the ProCo Rat 2\nThe RAT2 will be your go-to distortion pedal for every gig, whether it’s rock, blues, punk, or jazz.  This is the standard that all other distortion devices are measured against.  Heard on thousands of recordings, it has helped define the sound of the past three decade’s most influential bands.\nwww.ratdistortion.com",
+    "hrid": "proco-rat-2-red-ikebe-exclusive"
+}

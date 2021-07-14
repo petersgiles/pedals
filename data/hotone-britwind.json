@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21994",
+    "name": "Britwind",
+    "image": "images/hotone-britwind.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation",
+        "Reverb"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$256 Price in €",
+    "width": 190,
+    "height": 119,
+    "details": "2-channel floor amp\nhttps://www.hotoneaudio.com/products/Nano_Legacy_Floor/Nano_Legacy_Floor/2018/0112/256.html",
+    "hrid": "hotone-britwind"
+}

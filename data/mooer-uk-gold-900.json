@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24270",
+    "name": "UK Gold 900",
+    "image": "images/mooer-uk-gold-900.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "JCM 900 modeling pedal\nhttps://images.app.goo.gl/EsAFNdY1hKZiTZ7u9",
+    "hrid": "mooer-uk-gold-900"
+}

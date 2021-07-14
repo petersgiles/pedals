@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16903",
+    "name": "VE-8 Acoustic Singer",
+    "image": "images/boss-ve-8-acoustic-singer.jpg",
+    "function": [
+        "Chorus",
+        "Pitch Shifter",
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "360 mA / ? V / AC",
+    "cost": "$299 Price in €",
+    "width": 217,
+    "height": 161,
+    "details": "Vocal HarmoniserCompact, all-in-one preamp and effects solution for singers who play acoustic guitar\nDial in rich, sophisticated BOSS sound processing with simple, intuitive controls\nStudio-quality vocal processing includes four types of ambience effects plus Enhance, chromatic pitch correction for live vocal tuning, and more\nCreate natural vocal harmonies in real time based on guitar input or manual key settings\nAlso includes a vocal doubling effect, plus more dramatic processing like hard-tuned electronic voices, distortion, and a radio voice effect\nDedicated guitar channel includes Acoustic Resonance, reverb, chorus, tuner, and various effects, plus phase invert and notch filter for feedback control\nLooper function with 80 seconds of recording time and the ability to loop guitar and vocals independently\nMemory mode for storing and recalling 50 favorite settings\nFlexible connections for integrating with a main PA and stage monitors, plus USB for computer recording\nRuns on six AA batteries or included AC adapter\nhttps://www.boss.info/global/products/ve-8/",
+    "hrid": "boss-ve-8-acoustic-singer"
+}

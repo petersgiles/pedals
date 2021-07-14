@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15038",
+    "name": "DUPLICATE-PLEASE DELETE Turbo-Tuner ST-300 Mini",
+    "image": "images/sonic-research-duplicate-please-delete-turbo-tuner-st-300-mini.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Sonic Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 47,
+    "height": 95,
+    "details": "Strobe Tuner\nhttps://www.turbo-tuner.com/index.htm",
+    "hrid": "sonic-research-duplicate-please-delete-turbo-tuner-st-300-mini"
+}

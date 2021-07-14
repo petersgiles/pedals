@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14430",
+    "name": "Vintage Deluxe (V2)",
+    "image": "images/darkglass-electronics-vintage-deluxe-(v2).jpg",
+    "function": [
+        "Bass",
+        "Equalizer",
+        "Utility"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$329 Price in €",
+    "width": 107,
+    "height": 120,
+    "details": "Bass OverdriveThe Vintage Deluxe features the warm, tube-like tones of the Microtubes Vintage and adds a 4-band active EQ, parallel output and balanced line driver. It delivers the natural dynamic response and organic compression of classic tube amps and tape machines, fitting four decades of legendary tones into a package that will fit in your gig bag.\nhttps://www.darkglass.com/creations/vintage-deluxe-dynamic-preamp/",
+    "hrid": "darkglass-electronics-vintage-deluxe-(v2)"
+}

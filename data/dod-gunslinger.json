@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18170",
+    "name": "Gunslinger",
+    "image": "images/dod-gunslinger.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Mosfet DistortionFrom explosive chord work to high velocity leads, the new DOD Gunslinger Mosfet Distortion has the touch sensitivity, string-separation and saturation to do all your dirty work. The Gunslinger packs features like separate Low and High tone controls, a wide range of gain, tons of output and your choice of 9 or 12V operation to keep you on target and in control. The Gunslinger’s brushed-metal housing looks as tough as it sounds and its true bypass circuitry keeps your tone pristine.\nThe DOD Gunslinger’s Mosfet circuit clips at a gradual, steady rate when overdriven, offering clipping properties and harmonics similar to those from preamp tubes in a guitar amp. The Gunslinger is designed to react to the dynamics of your playing. The distortion will “clean up” when you play softly and become more aggressive when you dig in and attack your strings.\nThe DOD Gunslinger offers independent Gain, Level, Low (Tone) and High (Tone) controls. Its true bypass circuitry allows your guitar tone to remain pristine even when the DOD Gunslinger is off and its modern 9V DC power supply input and compact size make it pedalboard friendly.\nhttps://dod.com/en-US/products/gunslinger",
+    "hrid": "dod-gunslinger"
+}

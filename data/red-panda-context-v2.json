@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25819",
+    "name": "Context V2",
+    "image": "images/red-panda-context-v2.jpg",
+    "function": [
+        "Digital Glitch",
+        "MIDI",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 77,
+    "height": 121,
+    "details": "Reverb with added granularness The Context is a reverb pedal inspired by 1980’s rack mount reverbs.  It has 8 algorithms, including room, hall, cathedral, gated reverb, reverse reverb, plate, spring, and a granular reverb.  Version 2 adds stereo input/output, USB MIDI, fully assignable expression pedal, 3 new modes, delay plus reverb in all modes, separate high and low frequency damping controls, modulation, dynamic reverb, and infinite hold.\nAlgorithms\nROOM - fast buildup, good for thickening sounds\nHALL - slower buildup with longer initial delay\nCATH(edral) - emulates a large, reflective space\nGATE(d) - gated reverb with non-linear decay\nREV(erse) - reverse reverb\nPLATE - bright, dense studio plate reverb\nSPRING - spring reverb\nGRAIN - granular reverb\nControls\nBLEND - wet/dry blend (to 100% wet)\nPRE - pre-delay\nDECAY - reverb decay\nHI - high-frequency damping\nLO - low-frequency damping\nMOD - modulation amount and character\nControls (shift)\nBAL - reverb/delay balance\nDELAY - delay time\nFDBK - delay feedback\nv-o-^ - dynamics ducking/off/expander and recovery time\n/-- - dynamics threshold\nRATE - modulation rate\nhttp://www.redpandalab.com/products/context",
+    "hrid": "red-panda-context-v2"
+}

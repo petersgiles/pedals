@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11601",
+    "name": "Polytune",
+    "image": "images/tc-electronic-polytune.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 120,
+    "details": "TC Electronic Polytune",
+    "hrid": "tc-electronic-polytune"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17444",
+    "name": "Flat Light",
+    "image": "images/old-blood-noise-flat-light.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "TEXTURAL FLANGE SHIFTERBuilding effects around a foundation of flanging, the Flat Light is the latest in the Old Blood Noise Endeavors pedal line. From pitch shifting flanger to highly resonant metallic sounds to reverb-like delays and recognizable swooshes, the Flat Light will induce motion to your sound no matter where it sits in your signal path.\nThe Flat Light features:\nThree modes of flanger: Detune (shimmering pitch shift), Resonate (highly resonant multiflange), and Echo (reverb-like delay)\nFour controls to shape the sound: Rate to set rate, Depth to set depth, Shift to affect the something extra, and Mix to go from 100% dry to 100% wet\nA Tilt footswitch to momentarily maximize Rate or Shift controls\nExpression jack for external control of Rate or Shift parameters\nInternal trimpot to control output level\nRelay bypass switching and standard 9VDC center negative power",
+    "hrid": "old-blood-noise-flat-light"
+}

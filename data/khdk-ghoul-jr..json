@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26713",
+    "name": "Ghoul Jr.",
+    "image": "images/khdk-ghoul-jr..jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "KHDK",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 52,
+    "height": 100,
+    "details": "TS-style Overdrive GHOUL JR is a hyper powerful overdrive circuit coiled inside a micro-sized box. It's the evil little brother of our Ghoul Screamer, featuring its most used settings in half the size and twice the gain. Yes, it goes past 11.\nThis workhorse delivers massive overdrive with a wide range of colors from fuzzy vintage treble boost to creamy, liquid tone.\nThe haunting ghoulish face on the enclosure was hand-drawn by San Fran's tattoo wizard Tim Lehi.\nNew 'Balls to the Wall' Mode\nWe’ve added a brand new full-on mode for even more powerful cut-through sound. Look for it with the Style switch in ‘down’ setting. As put it: \"Flick the Style switch down and wreak havoc!\"\nThis ghoulie is powerful enough to be your main overdrive and also works great for boosting an already overdriven amp or to bring out the best of its neighbors on a pedalboard.\nhttps://www.khdkelectronics.com/products/detail/ghoul-jr/",
+    "hrid": "khdk-ghoul-jr."
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22779",
+    "name": "Bass V-Amp",
+    "image": "images/behringer-bass-v-amp.jpg",
+    "function": [
+        "Bass",
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 236,
+    "height": 180,
+    "details": "Virtual Bass AmplifierFrom the manual:\nBASS V-AMP/BASS V-AMP PRO\nThe Ultimate Tone Toolbox for Bass, Acoustic/Electric Guitar and Keyboard Amp Modeling\n\n32 unsurpassed authentic amp models: \n16 classic bass amps, \n8 of the best V-AMP amp models, \n4 typicalkeyboard amps and 4 acoustic models\n23 renowned cabinet simulations: from traditional to contemporary sounds with original character — from1 x 8\" to 8 x 10\", all the way to 18\" speakers\n16 absolutely first-class effects, e.g. Ultrabass, 3-Voice Synth, Delay/Loop Sampler, Chorus, Flanger, Rotary Speaker, Voice Box, Wah Wah as well as various combinations—may be used without amp simulations well!\n4 renowned distortion and overdrive stomp boxes with adjustable DRIVE, TONE, BOOST and SPLIT functions\n125 outstanding presets in 25 banks, easily editable and storable\nIndependent compressor and efficient denoiser\nIntegrated, auto-chromatic tuner (can be calibrated) for easy tuning of bass guitars and other electronic instruments\nExtensive MIDI implementation for control/automation of all MIDI functions\nBASS V-AMP: Adjustable stereo aux input for mixing line-level signals (e.g. CD player, sound card etc.)\nBASS V-AMP: Gig bag and footswitch (for switching presets and activating the tuner) included\nBASS V-AMP PRO: AES/EBU and S/PDIF outputs and adjustable wordclock input for synchronization with 24-bit and 32 - 96 kHz\nBASS V-AMP PRO: Balanced stereo XLR DI output with ground/lift switch and ULTRA-G speaker simulation\nBASS V-AMP PRO: Pre DSP and post DSP effects loops for connecting external effects processors\nExtremely rugged construction guarantees outstanding dependability, even under harsh conditions\nConceived and designed by BEHRINGER Germany",
+    "hrid": "behringer-bass-v-amp"
+}

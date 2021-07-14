@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12458",
+    "name": "Voodoo Lab Ground Control Pro",
+    "image": "images/voodoo-lab-voodoo-lab-ground-control-pro.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 432,
+    "height": 279,
+    "details": "Midi Foot ControllerSimultaneous control of up to 8 MIDI devices8 assignable instant access switchesControls up to 4 GCX Guitar Audio SwitchersBright, stage-friendly alphanumeric displayName each presetUse volume/expression pedals for real-time control of your sound via MIDI continuous controller messages\nhttps://www.amazon.com/gp/product/B001G7FBXM/ref=as_li_tl?ie=UTF8&tag=protootut-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001G7FBXM&linkId=f53e7cd5842f468a5b0ed0c109b23ec4",
+    "hrid": "voodoo-lab-voodoo-lab-ground-control-pro"
+}

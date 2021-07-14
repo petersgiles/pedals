@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11745",
+    "name": "The Driving Notion",
+    "image": "images/infanem-the-driving-notion.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Infanem",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 60,
+    "height": 104,
+    "details": "Overdrive / Distortion / BoosterThe Driving Notion is voiced to bring unique texture, attack, and clarity to even the most complex chords. Gain and tone are controlled via High and Low, each controlling the frequency response and drive of their respective parallel circuits.\nHigh boosts treble, favors high notes, and lends a sharp attack and grit to your signal. Low goes from a dark boost to a low-flying fuzzy cloud of bass and low-mids. Both circuits respond to volume and tone adjustments on your instrument. Like any self-respecting Infanem device, The Driving Notion can get strange at extreme settings; cranking Low leads to semi-controllable bassfuzz swells and cranking High gets you to (and frequently over) the edge of oscillation.\nRun it into a clean amp for its distinct drive character, into a driven amp for extra gain and definition, and after fuzz to find the sounds you've always hoped for.\nhttp://www.infanem.com/the-driving-notion/",
+    "hrid": "infanem-the-driving-notion"
+}

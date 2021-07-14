@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12058",
+    "name": "Side Car Controller",
+    "image": "images/boomerang-musical-products-side-car-controller.jpg",
+    "function": [
+        "Looper",
+        "Sampling"
+    ],
+    "manufacturer": "Boomerang Musical Products",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 229,
+    "height": 152,
+    "details": "Companion pedal for the Boomerang III Phrase Sampler*Features *\n Top of Page \n•  3 dedicated foot buttons: Stack, Play-Stop All & Erase/Erase All.\n•  2 more programmable Bonus buttons.\n•  Stack button can operate in \"latching\" or \"momentary\" modes.\n•  Allows foot button control of Thru Mute, Play Style select and the Panic function.\n•  MIDI cable included.\n•  Power splitter cable included - allows the Side Car™ controller to share the III's 1000mA power supply.\n•  Rugged 9\" x 6\" x 2\" steel chassis.",
+    "hrid": "boomerang-musical-products-side-car-controller"
+}

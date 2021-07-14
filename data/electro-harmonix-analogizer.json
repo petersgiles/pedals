@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11852",
+    "name": "Analogizer",
+    "image": "images/electro-harmonix-analogizer.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$71 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Preamp pedal\nhttp://www.ehx.com/products/analogizer",
+    "hrid": "electro-harmonix-analogizer"
+}

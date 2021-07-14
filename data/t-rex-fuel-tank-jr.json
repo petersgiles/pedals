@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12011",
+    "name": "Fuel Tank Jr",
+    "image": "images/t-rex-fuel-tank-jr.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$122 Price in €",
+    "width": 105,
+    "height": 78,
+    "details": "Power Supply with 5 Isolated Out'sFuel Tank Junior is a lean, mean power supply that will handle virtually any 9-Volt effects pedal – and then some. It features 5 isolated outputs that deliver clean, quiet power to your pedals. And it’s switchable between 115 and 230V, so you can use it worldwide. Don’t let the compact size of this unit fool you – Fuel Tank Junior is a real powerhouse! [t-rex-effects.com]\nhttp://www.t-rex-effects.com/fueltank-junior/",
+    "hrid": "t-rex-fuel-tank-jr"
+}

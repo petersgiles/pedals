@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31318",
+    "name": "Doom 2",
+    "image": "images/3leaf-audio-doom-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$302 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Octave Fuzz PedalDOOM 2 is an original fuzz circuit that turns your input signal into something resembling the sawtooth wave of a vintage synthesizer. Unlike most fuzz-style circuits, DOOM 2 responds to your playing technique and retains note dynamics.\nNew for version 2 is the you’re / your switch. You’re is the classic DOOM sound - strong upper harmonics, a mid-focused sound, and octavia / ring modulator effects as you play up the neck. Your is a new mode that has a stronger fundamental, more low end and fewer harmonics. This mode sounds more like a traditional fuzz.\nAlso new is the bass control. This is actually a clean volume control or a bass control depending on the position of the bass / clean switch. In clean mode, the bass control passes your full range clean signal through to the output. In bass mode, an active crossover passes only your clean low frequencies to mix with the fuzz circuit. The result is a fat, cohesive sound.\nTo top things off, the shape switch from the original has been replaced with a variable mid control. Now you can fine tune your presence and sit anywhere in the mix.\nhttps://www.3leafaudio.com/shop/doom",
+    "hrid": "3leaf-audio-doom-2"
+}

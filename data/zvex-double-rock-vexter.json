@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19205",
+    "name": "Double Rock Vexter",
+    "image": "images/zvex-double-rock-vexter.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "two Box of Rock pedals in oneThis pedal was originally designed for J.Mascis. He requested two Box of Rock™ pedals in one box with two stomp switches. He uses it regularly now, but we did one (or two) better with the one we’re releasing to the public... we made it so you can adjust the sub frequencies (like the Distortron), and you can convert either channel to a Super Hard-On™. In this way, you can configure the pedal to be two Distortrons cascaded, two Super Hard-Ons cascaded (like a Super Duper 2-in-1), or a Box of Rock with boost, or a Super Hard-On going into a Box of Rock. Distortion/boost heaven!\nhttps://www.zvex.com/products/double-rock-vexter-guitar-effects-pedal",
+    "hrid": "zvex-double-rock-vexter"
+}

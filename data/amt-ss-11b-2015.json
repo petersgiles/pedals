@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25948",
+    "name": "SS-11B 2015",
+    "image": "images/amt-ss-11b-2015.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "AMT",
+    "current": "600 mA / 12 V / DC / Negative Center",
+    "cost": "$389 Price in €",
+    "width": 103,
+    "height": 119,
+    "details": "3-channel Tube Guitar PreampFeatures overview\n«Bright» switch for Crunch channel\nSingle 2-color LED instead of 2\nUpdated Clean channel EQ for better sound quality of standard and drop tunings\nMore saturated sound of the Lead channel due to added even harmonics\nNew CabSim (improved articulation)\nWhile creating SS-11 we were guided by the motto – minimum size with maximum functionality for full tube overdrive with the highest quality components. The SS-11 is brother to the SS-20, but designed to be different. While the SS-20 is the more aggressive “METAL” pedal, the SS-11 was intended and manufactured for that famous CLASSIC tube driven over saturated guitar tone that eveyone loves and craves.\nThe SS-11B Modern version is designed to cover the sounds of today’s high gain tube amplifiers. Offering more distortion than the SS-11A, the SS-11B is a rock-metal monster! The tone of the SS-11B (Modern) works perfectly for heavy riffing, drop tuned guitars, 7 strings, and screaming lead work.\nhttps://amtelectronics.com/new/amt-ss-11b/",
+    "hrid": "amt-ss-11b-2015"
+}

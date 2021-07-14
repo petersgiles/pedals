@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16097",
+    "name": "Boss EH-2 Enhancer",
+    "image": "16097.b.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Boss",
+    "current": "24 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "The ads used to say that the EH-2 adds brilliance, dynamics and presence to your sound. When you first plug in this pedal most people won’t hear any difference in the sound. Keep playing for a while and then turn it off. You will then realize the effect that this pedal has. What it does is to dynamically modify the high-frequency harmonics. This restores the clarity and delicate harmonic structures lost through signal processing with multiple effect units. It is well suited to studio work where it can have a huge impact on the clarity of the recorded sound.\nThe MIX control can be adjusted from INV (Inverse) to NOR (Normal). Thos control will cut or boost the signal. The FREQ (Frequency) knob controls what frequencies are affected by adjusting the cut-off frequency in a filter. The setting of the SENS (Sensitivity) knob will determine how much of the chosen frequency band that will be affected.\nSpecifications\nControls: Mix, Freq, Sens\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 24 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe EH-2 was sold from April 1990 to December 1997.\nhttp://www.bossarea.com/boss-eh-2-enhancer/",
+    "hrid": "boss-boss-eh-2-enhancer"
+}

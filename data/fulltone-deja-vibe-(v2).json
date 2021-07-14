@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14809",
+    "name": "Deja Vibe (v2)",
+    "image": "images/fulltone-deja-vibe-(v2).jpg",
+    "function": [
+        "Phase Shifter",
+        "Rotary"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$450 Price in €",
+    "width": 203,
+    "height": 133,
+    "details": "Univibe cloneThis is the large case, 115v A/C powered version from ~2000. This has the old Cadmium photoresistors.\nFulltone was the first to put out an exact copy of the legendary Vintage'60's Univibe on a large scale, starting in 1994. Ours has that dripping Phase-Chorused tone that made Jimi's \"Machine Gun\" so epic!\nThere are 4 photo-resistors in every real Univibe clone. If they’re not there, it’s nothing but a glorified MXR-type phase pedal with altered cap values. I spent a lot of time and money a few years ago working with John Greene (Electronic Engineer) to blueprint the resistance characteristics as well as the rise/fall times of the original ShinEi Univibe photocell... to pin point the mojo of the old Univibe cells!\nhttps://www.fulltone.com/products/custom-shop-mini-dejavibe",
+    "hrid": "fulltone-deja-vibe-(v2)"
+}

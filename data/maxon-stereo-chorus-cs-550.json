@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29508",
+    "name": "Stereo Chorus CS-550",
+    "image": "images/maxon-stereo-chorus-cs-550.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Maxon",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 117,
+    "height": 150,
+    "details": "Stereo Chorus\nhttps://maxonfx.com/collections/vintage-series/products/stereo-chorus-cs550",
+    "hrid": "maxon-stereo-chorus-cs-550"
+}

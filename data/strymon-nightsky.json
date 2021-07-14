@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29668",
+    "name": "NightSky",
+    "image": "images/strymon-nightsky.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Reverb",
+        "Synth Voice",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$429 Price in €",
+    "width": 178,
+    "height": 114,
+    "details": "Time-Warped ReverberatorNightSky is a reverberant synthesis workstation, and a powerful, hands-on experimental sound design platform. NightSky gives you real-time continuous control of reverb pitch/processing rate/core size, harmonics, and even a synth-like resonant filter with multiple modulation waveshapes, plus a step sequencer with variable glide. You haven’t heard a pedal like this before.\nhttps://www.strymon.net/products/nightsky/",
+    "hrid": "strymon-nightsky"
+}

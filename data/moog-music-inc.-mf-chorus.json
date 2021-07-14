@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11847",
+    "name": "MF Chorus",
+    "image": "images/moog-music-inc.-mf-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 83,
+    "height": 144,
+    "details": "The MF Chorus a 100% analog BBD based time modulation pedal capable of spawning a boundless array of sonic shifting in mono or stereo output modes. Use it as an all analog Vibrato pedal or drop the Mix switch to shift into ultra-thick, swirling analog chorus. Crank the Time and Feedback controls to transform your sound into a multi-octave modulate-able slap delay with near-infinite echo trails.\nTIME – Minimum position is perfect for vibrato and bright chorus, while mid position shifts the tone to a deep choral motion. At maximum position, beautiful modulated slap delay is achieved. \nFEEDBACK - At low settings this control adds a slight resonance to the motion of a sound. At mid position, a more focused peak is created, and at maximum position with Time set to maximum - slap delay with beautiful echoes is achieved. \nMIX – In the down position the chorus sound is open and natural. At middle position the sound becomes thick and warmth is increased. In the up position (Vibrato ) position, only the wet signal is heard. \nDEPTH – Determines the amount of modulation applied to the delay time. As this control is increased, the motion transforms from subtle vibrato to chorus, and then into multi-octave time modulation. \nRATE - Specifies the rate at which the LFO (Low Frequency Oscillator) modulates the analog delay time. Slower settings area ideal for large classic sweeps, while faster settings create spinning, rotary and film projector effects. \nEXPRESSION PEDAL INPUT- This input is assigned to the Rate control. Use it to sweep from slow shifts to chopping musical extremes. With Rate set to maximum, audio rate modulation is possible.\nMONO/STEREO SWITCH- To access both outputs (in bypass), you will need to remove the bottom of the MF Chorus and set this switch to Stereo. Then use a ¼” TRS to TS insert cable or TRS to TS splitter.\nhttps://www.moogmusic.com/products/minifoogers/mf-chorus",
+    "hrid": "moog-music-inc.-mf-chorus"
+}

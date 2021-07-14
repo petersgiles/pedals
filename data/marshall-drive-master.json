@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20237",
+    "name": "Drive Master",
+    "image": "images/marshall-drive-master.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 110,
+    "height": 125,
+    "details": "Guitar DistortionJCM 800 in a box\n- 9V$",
+    "hrid": "marshall-drive-master"
+}

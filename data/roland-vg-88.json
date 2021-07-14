@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12145",
+    "name": "VG-88",
+    "image": "images/roland-vg-88.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 504,
+    "height": 303,
+    "details": "Guitar and Amp ModellerSelf-contained guitar processing/modeling system which recreates a wide variety of guitar, pickup, amp, speaker cabinet and microphone sounds using a standard electric guitar equipped with GK-2A or compatible pickup (sold separately)\n GK-Ready 13-pin input plus 1/4\" guitar input for direct access to amp/speaker modeling sections\n Hollow-body and acoustic guitar models including new nylon string guitar\n Extremely natural tube amp models and overdriven sounds\n HRM (Harmonic Restructure Modeling) creates synth-type sounds—including new brass sounds—with natural playing nuances and without delay\n Combination guitar output/GK pickup output for completely new types of sounds\n Polyphonic Intelligent Pitch Shifter for instant open tunings, 12-string guitars, bass guitar, string-assignable octave, slow gear, and more\n Effects include reverb, chorus, hexa-pan, delay, flanger and parametric EQ\n Extremely intuitive operation w/ helpful operational graphics and icons\n Onboard expression pedal for realtime parameter control\n Output Select switch for connection to conventional guitar amps or power amps\n Offers 200 Preset and 100 User Patches, including newly-developed factory Patches\nAD Conversion24 bit AF Method (NORMAL INPUT)\n20 bit (GK INPUT)\nD/A Conversion20 bit 128 times Oversampling ΔΣModulationSampling Frequency44.1 kHzProgram Memories260 (Preset: 160 + User: 100)Nominal Input LevelINPUT: -10 dBuInput ImpedanceINPUT: 1 M ohmsNominal Output LevelOUTPUT: +4 dBu\nGUITAR OUT: -10 dBuOutput ImpedanceOUTPUT: 2 k ohms\nGUITAR OUT: 2 k ohms\nDynamic Range100 dB or greater (IHF-A)Display160 x 64 dots backlit LCD\n8-segment 2-character LED\nControlsOutput Level knob, Value dial, Cursor buttons, Output Select button, Function buttons 1-6, Page button, Exit button, Write button, COSM Guitar button, COSM Amp button, Effects button, Level/BPM/Key button, Pedal/Assign button, Name/Chain button, EZ Edit button, Tuner button, Number pedals 1-4, CTL pedal, Bank Up pedal, Bank Down pedal, Expression pedal, Power switchConnectorsGK IN, GUITAR INPUT, GUITAR OUTPUT, OUTPUT L (MONO), OUTPUT R, PHONES, SUB EXP PEDAL/SUB CTL1, 2, MIDI IN, MIDI OUTPower SupplyAC 117 V, 230 V, 240 VPower Consumption24 WAccessoriesPower Cord\nOwner’s Manual\nGK Connecting Cable: C13-A (5 m)\nOptionsDivided Pickup: GK-3\nUnit Selector: US-20\nGK Connecting Cable: C-13B (10 m)\nExpression Pedal: EV-5, FV-300L + PCS-33 (Roland)\nFoot Switch: FS-5U, FS-5LSIZE AND WEIGHTWidth504 mm19-7/8 inchesDepth303 mm11-15/16 inchesHeight101 mm4 inchesWeight4.9 kg10 lbs. 13 oz.\nhttps://www.roland.com/us/products/vg-88/",
+    "hrid": "roland-vg-88"
+}

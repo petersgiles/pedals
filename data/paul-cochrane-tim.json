@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15563",
+    "name": "Tim",
+    "image": "images/paul-cochrane-tim.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Paul Cochrane",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 94,
+    "details": "",
+    "hrid": "paul-cochrane-tim"
+}

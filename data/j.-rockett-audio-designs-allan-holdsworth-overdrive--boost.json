@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13682",
+    "name": "ALLAN HOLDSWORTH OVERDRIVE / BOOST",
+    "image": "images/j.-rockett-audio-designs-allan-holdsworth-overdrive--boost.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 121,
+    "height": 76,
+    "details": "OVERDRIVE / BOOST with EQThe Allan Holdsworth Signature OD/Boost was designed with Allan’s input to create a very versatile tool. This pedal gives you a very mild OD and a very “tweakable” boost section that allows for different EQ emphasis. By hitting the OD with the boost you can get some pretty scorching gain! \nhttps://rockettpedals.com/product/allan-holdsworth-signature-overdrive-boost/",
+    "hrid": "j.-rockett-audio-designs-allan-holdsworth-overdrive--boost"
+}

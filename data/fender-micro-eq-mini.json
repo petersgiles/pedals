@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25269",
+    "name": "Micro EQ Mini",
+    "image": "images/fender-micro-eq-mini.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Fender",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "5-band graphic EQ with +/-18dB of gainWhether you're connected to a full range of pedals or simply want to fine-tune your tone, the Fender Micro EQ pedal offers master level control of individual frequencies with complete precision. Designed specifically for guitar players, this five-band graphic EQ features an ±18dB adjustable gain range per band, letting players shape their sound over five specific frequencies while preventing feedback caused by additional distortion effects.\nFEATURES\nCompact footprint to fit on a crowded pedal board\nLevel knob for flexible volume adjustment\nProtective metal housing to withstand the rigors of the road\nTrue hardwire bypass wiring for quiet uninterrupted signal flow\n12 mA current draw minimal power supply usage\nPower Requirements: AC adapter 9V DC center negative (not included)\nFrequency Centers: 100 Hz, 250 Hz, 630 Hz, 1.6 kHz, 4 kHz\nInput: 1/4 Mono Jack (Impedance: 470 k Ohms)\nOutput: 1/4 Mono Jack (Impedance: 1 k Ohms)\nDimensions (DxWxH): 93.5 mm — 42 mm — 52 mm\nWeight: 160 g",
+    "hrid": "fender-micro-eq-mini"
+}

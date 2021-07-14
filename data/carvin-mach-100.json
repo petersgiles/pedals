@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30140",
+    "name": "Mach 100",
+    "image": "images/carvin-mach-100.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Carvin",
+    "current": "5000 mA / 24 V / DC / Positive Center",
+    "cost": "$179 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "100W (50W/50W) Stereo Pedal AmplifierThe MACH100 100W (50W/50W) Stereo Pedal Amplifier is designed for the modern guitarist who wants a compact high output amplifier that fits right on the pedal board. Use the stereo 2 channel amplifier to drive two guitar cabinets with 16, 8 or 4 ohm impedance. The LINE IN jack allows you to insert a backing track into your performance. Using the PHONES output, you can monitor the amplifier output using a 3.5mm stereo cable. The LEVEL control allows the user to adjust master volume of the amplifier. The MUTE switch lets you instantly control the output of the amplifiers with the press of the switch. Step up to the next level of compact amplification today.\nhttps://carvinaudio.com/products/mach100-100w-pedal-amplifier",
+    "hrid": "carvin-mach-100"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11539",
+    "name": "Eterna Gold Modified",
+    "image": "images/mr.-black-eterna-gold-modified.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Shimmering Reverberator Built on the foundation of the Eterna, the Eterna Gold features a modified reverb algorithm including:\n* Expanded decay: over a 60 second tail!!\n* Shimmer-swell coupled with standard shimmer\n* Multiple early reflections\n* Augmented reverb voicing",
+    "hrid": "mr.-black-eterna-gold-modified"
+}

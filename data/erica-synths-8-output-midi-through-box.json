@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31519",
+    "name": "8 Output MIDI Through Box",
+    "image": "images/erica-synths-8-output-midi-through-box.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Erica Synths",
+    "current": "100 mA / 12 V / DC",
+    "cost": "$169 Price in €",
+    "width": 184,
+    "height": 140,
+    "details": "MIDI Through BoxErica Synths midi thru box is professional quality, no latency, one midi In to 8 midi Through splitter in rigid aluminum case. It allows to connect up to 8 instruments to your sequencer or master keyboard and control them simultaneously without undesired delays and interference.",
+    "hrid": "erica-synths-8-output-midi-through-box"
+}

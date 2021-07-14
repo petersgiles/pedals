@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26566",
+    "name": "Plethora x5",
+    "image": "images/tc-electronic-plethora-x5.jpg",
+    "function": [
+        "MIDI",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "600 mA / 9 V / DC / Negative Center",
+    "cost": "$447 Price in €",
+    "width": 299,
+    "height": 116,
+    "details": "TonePrint pedal boardHighly-flexible TonePrint pedal board with simple, intuitive controls\nCreate and customize up to 127 custom boards with any combination of TonePrint pedals\nPopulate each BOARD with up to 5 pedals including all TonePrint FX\nStore up to 75 TonePrints per FX for fast and easy recall\nFX include Hall Of Fame 2 Reverb, Flashback 2 Delay, Sub n Up Octaver, Brainwaves Pitch Shifter, Corona Chorus, Hypergravity Compressor, Mimiq Doubler, Vortex Flanger, Pipeline Tap Tremolo, Quintessence Harmony, Sentry Noise Gate, Shaker Vibrato\nCustomizable FX signal chain on each board\nMASH technology turns all 5 footswitches into expression controllers with customizable mapping\nAdded MASH functionality to all legacy Toneprint Pedals\nFX loop insert with customizable routing to integrate external pedals or connect to your amp using 4-cable method\nIncludes built-in UniTune chromatic tuner\nGlobal speaker cab-sim for direct play with audio interface and PA systems\nBluetooth connection to the free TonePrint App to import tones from our vast library of TonePrints\nUse the free TonePrint App editor to access hundreds of effects parameters and design custom TonePrints\nOrganize boards quickly using the free TonePrint App\nEXP input – assign an external expression pedal to control FX parameters or use as a volume pedal anywhere in the signal chain\nOptional Tap Tempo for tim1X\nSimple 3 knob control over each pedal for fast FX tweaking\n‘Quick Swap’ feature to instantly reorganize your signal chain\nAutomatically saves your settings as you go\nMIDI IN for selecting boards from external devices\nFull stereo I/O with low noise and high levels of headroom\nRegular firmware updates to include new boards, new pedals, new TonePrints and some top secret exclusive stuff\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Effects-Processors/PLETHORA-X5/p/P0D9M",
+    "hrid": "tc-electronic-plethora-x5"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21586",
+    "name": "Nano Battalion",
+    "image": "images/electro-harmonix-nano-battalion.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Bass Preamp & OverdriveThe all-analog circuitry of the Nano Battalion provides an amazing array of bass tones in a sturdy, compact package. A versatile MOSFET drive circuit that can deliver everything from subtle, light overdrive to fully saturated distortion forms the pedal’s core.\nThe Nano Battalion features a three-band EQ with three EQ position modes for maximum flexibility and sound shaping control. The three-band EQ includes Treble (boost/cut above 1kHz) and Bass (boost/cut below 200Hz) controls, plus a Mid switch which provides a 9dB boost or cut at 500Hz. Three signal path options determine where the EQ is applied. In Distortion Mode the EQ comes after the distorted signal and has a powerful effect on its timbre while the clean signal is not affected. In Input Mode the EQ comes first in the signal path affecting both the clean and distorted signals. Boosting frequencies in this mode can drive the distortion to a more saturated state. In Dry Mode, the EQ affects the clean signal, but not the distorted signal.\nThe Nano Battalion includes a ¼\" input jack and ¼\" output jack. When a normal TS cable is connected to the output jack it delivers an unbalanced signal. When a TRS cable is plugged into this jack, it outputs a balanced signal that can go directly into a mixing console or recording interface.\nThe Nano Battalion is a powerful, versatile tool for bass players.\nQuick Specs\n\nAll analog circuit with MOSFET drive for great tone and variation\nThree-band EQ and three EQ position modes for maximum sound shaping control and flexibility\nGreat for active or passive, pickup-equipped basses\n¼ inch output provides an unbalanced output with a TS cable or a balanced signal with a TRS cable to right into a mixing console or recording interface\nEHX 9.6VDC-200mA power supply included\nCurrent Draw: 45mA @ 9VDC\nDimensions in inches: 2.75(w) x 4.5(l) x 2(h)\nDimensions in mm: 70(w) x 115(l) x 51(h)",
+    "hrid": "electro-harmonix-nano-battalion"
+}

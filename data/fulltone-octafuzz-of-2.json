@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12628",
+    "name": "Octafuzz OF-2",
+    "image": "images/fulltone-octafuzz-of-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 76,
+    "height": 114,
+    "details": "Classic Fuzz w/Octave overtonesOctafuzz... the only exact circuit copy of the legendary Tycobrahe Octavia. Cool Octave-Up sounds a la Hendrix \"Band of Gypsies\" and SRV's many live shows! Housed in a 14ga. steel enclosure with a beautiful ranar-blue gloss powdercoat finish and antique-white logo, this pedal is the reincarnation of the Tycobrahe.\nhttps://www.fulltone.com/products/octafuzz-2",
+    "hrid": "fulltone-octafuzz-of-2"
+}

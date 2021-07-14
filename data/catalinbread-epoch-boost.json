@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29694",
+    "name": "Epoch Boost",
+    "image": "images/catalinbread-epoch-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "2 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 70,
+    "height": 127,
+    "details": "EP-3 PreampYou’ve heard the rumors: Some of rock ‘n’ roll’s greatest tones were achieved without pedals. Not so fast! While that’s technically true, some of the most venerable guitar gods relied on an old tape echo unit to help achieve their legendary tones. This unit is the Maestro Echoplex EP-3. While some guitarists made great use of its echo effect, others dragged one to every gig just for its magical preamp. This preamp circuit was wired always-on, and so even those using it as an echo effect received significant tonal enhancements from the preamp circuit as well. Everyone from Eddie Van Halen to East Bay Ray of the Dead Kennedys relied on the EP-3 preamp to take their sound to previously unreachable heights. And now you can also, with our Epoch Boost.\nAround the shop, we refer to the Epoch Boost as a “mastering pedal,” because it sounds like your base tone, but sculpted to perfection by a mastering engineer. This is accomplished  by employing the same internal circuitry as a real EP-3, from the NOS Orange Drop capacitors to the output mixer stage that acts as a rudimentary frequency selector---it’s all there. We’ve taken the liberty of kicking the internal voltage all the way up to 22 volts, just like the original unit, giving you unparalleled headroom and clarity. Inside, we’ve included a switchable hi-Z input buffer if you’d like to use the Epoch Boost as your only pedal (don’t worry, we won’t judge). The Boost control gives you just the EP-3 tone when rolled off, but adds up to 20dB of crystal-clear boost as you crank it. And trust us, you’re gonna want to.\nhttps://catalinbread.com/products/epoch-boost",
+    "hrid": "catalinbread-epoch-boost"
+}

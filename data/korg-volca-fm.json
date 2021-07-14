@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17699",
+    "name": "Volca FM",
+    "image": "images/korg-volca-fm.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Digital FM SynthesizerThe volca series has shed new light on classic technologies by linking classic sound engines such as the groove machines and early samplers of the past with the dance music of today. Now it's time for the series to gain an FM sound engine.\nThe volca fm is a three-voice digital FM synthesizer that completely reproduces the sound engine of a classic FM synthesizer, and provides compatibility with it as well. The unique volca interface makes it easy to manipulate distinctive FM sounds even if you're not familiar with the complexities of FM synthesis. The 16-step sequencer that's one of volca's features provides new functions such as WARP ACTIVE STEP and PATTERN CHAIN that let you make even more powerful rhythm patterns.\nhttps://www.korg.com/us/products/dj/volca_fm/",
+    "hrid": "korg-volca-fm"
+}

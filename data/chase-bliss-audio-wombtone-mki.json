@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11919",
+    "name": "Wombtone MkI",
+    "image": "images/chase-bliss-audio-wombtone-mki.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 70,
+    "height": 121,
+    "details": "",
+    "hrid": "chase-bliss-audio-wombtone-mki"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22852",
+    "name": "Multi Switch Plus",
+    "image": "images/strymon-multi-switch-plus.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Strymon",
+    "current": "Pedal is passive",
+    "cost": "$129 Price in €",
+    "width": 168,
+    "height": 48,
+    "details": "3-Button FootswitchTake full control of your Strymon effects pedals, with the Strymon Multi Switch Plus controller. With control for up to three pedals, the Multi Switch Plus offers comprehensive control over your pedalboard. No external power supply is needed — simply connect to your Strymon pedals with 1/4\" TRS cables (sold separately) and you're ready to control tap tempo, recall presets, engage boosts, and much more. No matter what Strymon pedals you use, Sweetwater can highly recommend the Strymon Multi Switch Plus.\nhttps://www.sweetwater.com/store/detail/MultiSwitchP--strymon-multi-switch-plus-extended-control-for-sunset-riverside-volante-and-more",
+    "hrid": "strymon-multi-switch-plus"
+}

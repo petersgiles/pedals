@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19099",
+    "name": "Gauss Tape Echo",
+    "image": "images/tc-electronic-gauss-tape-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Super-Saturated Tape EchoI don't have much experience of tape delays but I like this quite a bit. The only downside is that it does have a small volume drop when engaged. It's not a problem if you use a preamp pedal though to boost the volume a little. Also the \"Mod\" switch is not for modulation, it acts like an Echoplex preamp or thereabouts.\nResponsive pedal faithfully reproduces every saturated nuance of a tape echo machine\n3-knob interface allows intuitive control of delay time, sustain and volume\nMod switch lets you convert your signal to warm tape echo sounds\nTrue bypass for ultimate signal integrity\n\"Built-like-a-tank\" metal chassis\nRuns on 9 V battery or PSU-SB DC power supply (not included)\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/GAUSS-TAPE-ECHO/p/P0CQ6#googtrans(en|en)",
+    "hrid": "tc-electronic-gauss-tape-echo"
+}

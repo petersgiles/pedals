@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17438",
+    "name": "Phaser Core",
+    "image": "images/nux-phaser-core.jpg",
+    "function": [
+        "Phase Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$36 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "The NUX Phaser Core Guitar Effects Pedal features two types of phaser effects including 4 stage and tape 8-Stage, in one compact pedal. These different stages can be tweaked with the additional control knobs to achieve a unique sound that will add a great sweeping effect to your tone. Also includes a tone lock function to temporarily freeze your settings during live performances. Its tonal versatility makes the Phaser Core an ideal addition to any pedalboard.",
+    "hrid": "nux-phaser-core"
+}

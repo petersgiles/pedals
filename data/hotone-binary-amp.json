@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21060",
+    "name": "Binary Amp",
+    "image": "images/hotone-binary-amp.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 121,
+    "height": 72,
+    "details": "Amplifier Simulator Effects Pedal\nhttp://www.hotoneaudio.com/products/Binary/Binary/2018/0223/261.html",
+    "hrid": "hotone-binary-amp"
+}

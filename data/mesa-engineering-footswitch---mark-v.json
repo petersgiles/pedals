@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22052",
+    "name": "Footswitch - Mark V",
+    "image": "images/mesa-engineering-footswitch---mark-v.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 321,
+    "height": 143,
+    "details": "Mesa Boogie Footswitch8-button footswitch for controlling the Mesa Boogie Mark V amp. Individual switches for three channels, a switchable boost, EQ section, reverb and FX buttons, and finally, a killswitch.\nhttps://store.mesaboogie.com/products/footswitch-mark-v.html",
+    "hrid": "mesa-engineering-footswitch---mark-v"
+}

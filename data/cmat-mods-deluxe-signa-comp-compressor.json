@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11595",
+    "name": "Deluxe Signa Comp Compressor",
+    "image": "images/cmat-mods-deluxe-signa-comp-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "CMAT Mods",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "has controls for Sustain, and LevelFootprint of a Boss or Ibanez pedal and has a bright blue LED and True Bypass. his can do Rock, Jazz, Country, Nashville, well you get the idea, not your standard Ross clone!quiet as far as compressors go with hardly any noise. The Signa Comp is also available in a 4 Knob version that adds Tone control and Attack control, to give you even more control over your tone",
+    "hrid": "cmat-mods-deluxe-signa-comp-compressor"
+}

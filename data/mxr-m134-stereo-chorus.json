@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11714",
+    "name": "M134 Stereo Chorus",
+    "image": "images/mxr-m134-stereo-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$256 Price in €",
+    "width": 127,
+    "height": 95,
+    "details": "",
+    "hrid": "mxr-m134-stereo-chorus"
+}

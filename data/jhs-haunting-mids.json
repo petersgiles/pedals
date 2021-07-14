@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19778",
+    "name": "Haunting Mids",
+    "image": "images/jhs-haunting-mids.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "JHS",
+    "current": "13 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "preamp / eqAre you on the search for scary good tone? Does your spine tingle at the thought of a tone that can cut through any mix like a butcher’s knife? Do you have nightmares about muddy guitars that lack clarity and create phantom lead lines that no one can hear? Well, don’t stand there frozen by fear, we here at JHS Pedals have a pedal that gives you the tone that has long eluded your white knuckled grasp: the Haunting Mids. The Haunting Mids is a frightfully effective Sweepable-Mids EQ Preamp that can turn any amp or pedal into a ghastly monster.  With it’s ability to sweep mids and then boost or scoop them, you can find the tone that haunts your imagination.\ncontrols & features\nThe controls on the Haunting Mids are Volume, Mids, Sweep, and a Lo/Hi toggle. The Volume acts as a standard volume control to be able to set at unison or boost the signal. The Mids and Sweep controls work very closely together so you can find the perfect frequencies to boost or scoop mid frequencies. When the Mids knob is at 12 o'clock, no frequencies are boosted or scooped.  Turning the Mids knob to the left of 12 o'clock will begin to scoop out midrange frequencies, while turning the Mids knob to the right of 12 o'clock will begin to boost midrange frequencies. The Sweep knob controls the what frequencies will be affected.  Sweep knob to the left will cause low-mids to be affected, while Sweep knob to the right will cause hi-mids to be affected.  The Lo/Hi toggle is like a \"Q\" function and controls how sharp the frequency peak is that you’re affecting with the Mids knob.  \"Lo\" is a softer and wider peak for slightly subtler affect as you tweak the Mids/Sweep knobs.  \"Hi\" is a sharper and steeper peak giving you a very pointed and defined effect as you tweak the Mids/Sweep knobs.\nThis pedal is fantastic on an almost-breaking-up amp to send it into midrange tube driven heaven, or with an overly scooped distortion to give you the bite you need to cut through with every \"djent,\" blues lick, rock riff, or lead line. It's also excellent for taming an overly mid-heavy amp or pedal rig.  The Haunting Mids is not an overdrive pedal, it’s a Mids pedal that when paired with an overdrive, will make you scream for more of this friendly ghost.\n– Simple yet effective tool to boost/cut the perfect amount of midrange frequencies.\n – Sweepable midrange frequency to find the perfect EQ to slice through any mix.\n – Turn any amp or pedal into a totally different ghastly monster.\n – Don’t forget the Volume BOOOOOOst.\nSo go and wake the undead with the ghostly sounds of the Haunting Mids!\nSPECS\n\nWill boost +10dB with EQ flat\n\n\nTotal Harmonic Distortion 0.007%\nSignal to noise ration 83dB\n+/- 15dB boost or cut\nSweepable center frequency from 400Hz to 7.5kHz\nSwitchable Q (LO-gentle broad, HI-peaking tight)\n\n\nThis pedal requires standard 9V DC Negative power, consumes 13mA, and measures 2.6\"x4.8\"x1.6\"",
+    "hrid": "jhs-haunting-mids"
+}

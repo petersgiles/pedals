@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21529",
+    "name": "Stretch Weaver",
+    "image": "images/david-rolo-stretch-weaver.jpg",
+    "function": [
+        "Digital",
+        "Digital Glitch",
+        "Dual/Stereo",
+        "Multieffect",
+        "Utility"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$292 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "Weaver pedalThe Stretch Weaver has 2 separate channels that can interact with each other in various ways, mostly through side-chaining where a channel can trigger an action that will be applied to the other channel.\nThe idea for this pedal was sparked when Scott Amendola (drummer extraordinaire with the Nels Cline Singers among numerous other projects) sent me a CD of his recent duo project with Nels, called Stretch Woven. While I was listening to it in my bed one night and hearing both improvise off each other I thought that it would be really cool if there was a device that allowed both their sounds to actually interact with each other.\nSo this pedal was conceived with both these awesome musicians in mind but you don’t have to necessarily use awesome drums and guitar with it. Pretty much any sound source will do something.\nObviously, the name is an homage to their project. The picture of the rug used in the artwork is an old family rug that was woven by a great grandmother out of old rags, as they used to do. I thought that was fitting the concept\nhttps://www.davidrolo.com/product/stretch-weaver/",
+    "hrid": "david-rolo-stretch-weaver"
+}

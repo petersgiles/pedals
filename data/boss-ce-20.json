@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12363",
+    "name": "CE-20",
+    "image": "images/boss-ce-20.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 173,
+    "height": 158,
+    "details": "Chorus Ensemble\nhttps://www.boss.info/us/products/ce-20/",
+    "hrid": "boss-ce-20"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15579",
+    "name": "Don't Shred On Me",
+    "image": "images/abominable-electronics-don't-shred-on-me.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 94,
+    "height": 117,
+    "details": "RAT Clone\nhttps://www.abominableelectronics.com/shop/dont-shred-on-me",
+    "hrid": "abominable-electronics-don't-shred-on-me"
+}

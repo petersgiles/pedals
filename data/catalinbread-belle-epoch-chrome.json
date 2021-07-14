@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19711",
+    "name": "Belle Epoch Chrome",
+    "image": "images/catalinbread-belle-epoch-chrome.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$210 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Faithful sonic recreation of the EP-3 tape echoThe Catalinbread Belle Epoch Tape Echo, has tape echo sounds so authentic you’d swear there was tape inside the pedal! Inspired by the Maestro Echoplex, EP-3 model, perhaps the most famous tape delay ever, the Belle Epoch features everything we love about the EP-3 in a small, maintenance free pedal format. We felt that a “tape echo” pedal was much more than just a standard digital delay with some “filtering” on the repeats. There are a lot of subtle and not-so-subtle traits of the Echoplex that needed to be implemented in order to be authentic. The preamp, the self-oscillation character, the ability to control the “record level” of the signal hitting “tape”, the wow and flutter, the way the repeats decay, the way the circuit interfaces with the amp and other pedals – all these things were important to get right. The original unit was used as a musical instrument unto itself and this is what we captured with the Belle Epoch.\nhttps://www.catalinbread.com/index.php?category=all&product=belle-epoch",
+    "hrid": "catalinbread-belle-epoch-chrome"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12113",
+    "name": "OktoNøjs",
+    "image": "images/emma-electronic-oktonøjs.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Emma Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "Analog Octaver and Fuzz \nhttp://www.emmaelectronic.com/okto-nojs/",
+    "hrid": "emma-electronic-oktonøjs"
+}

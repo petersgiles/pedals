@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11565",
+    "name": "Phase 90",
+    "image": "images/mxr-phase-90.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 9 V / DC",
+    "cost": "$80 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "The MXR M-101 Phase 90 Pedal gives you classic phasing with variable speed control. Add shimmer to lead passages or jet-plane resonance to muted strumming. Not just for guitars; it works well with bass, keyboards, and even vocals. Vary the speed from a subtle, long cycle to a fast, watery warble with endless vintage vibrations in between. The MXR M-101 is powered by single 9V battery or Dunlop ECB-003 AC Adapter\nhttps://www.jimdunlop.com/mxr-phase-90/",
+    "hrid": "mxr-phase-90"
+}

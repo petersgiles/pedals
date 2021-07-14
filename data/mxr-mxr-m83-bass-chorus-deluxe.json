@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17318",
+    "name": "MXR M83 Bass Chorus Deluxe",
+    "image": "images/mxr-mxr-m83-bass-chorus-deluxe.jpg",
+    "function": [
+        "Bass",
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "Bass Chorus/FlangerThe Bass Chorus Deluxe delivers analog lush modulated tones with Bass and Treble controls, a Flanger switch, and a X-Over switch for tonal flexibility.\nhttps://www.jimdunlop.com/product/m83-7-10137-06403-4.do?sortby=ourPicksAscend&page=6&refType=&from=fn",
+    "hrid": "mxr-mxr-m83-bass-chorus-deluxe"
+}

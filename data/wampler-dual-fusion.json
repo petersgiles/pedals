@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15818",
+    "name": "Dual Fusion",
+    "image": "images/wampler-dual-fusion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$260 Price in €",
+    "width": 114,
+    "height": 88,
+    "details": "Tom Quayle Signature Dual Overdrive",
+    "hrid": "wampler-dual-fusion"
+}

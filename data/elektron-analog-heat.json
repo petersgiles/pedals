@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14728",
+    "name": "Analog Heat",
+    "image": "images/elektron-analog-heat.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$750 Price in €",
+    "width": 215,
+    "height": 176,
+    "details": "Stereo distortion & multi-mode filterhttps://www.elektron.se/products/analog-heat/\nhttps://www.elektron.se/products/analog-heat/",
+    "hrid": "elektron-analog-heat"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12723",
+    "name": "BF-2 Flanger",
+    "image": "images/boss-bf-2-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Analog Flanger",
+    "hrid": "boss-bf-2-flanger"
+}

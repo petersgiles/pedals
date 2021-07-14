@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13306",
+    "name": "VM1 Vintage Time Machine",
+    "image": "images/behringer-vm1-vintage-time-machine.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Tremolo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 221,
+    "height": 170,
+    "details": "Vintage Analog Delay / Echo / Chorus / VibratoThe VINTAGE TIME MACHINE VM1 effects pedal got its name with good reason – it features an awesome combination of classic analog effects that have stood the test of time. Dial in the sounds of the 1970s with this fantastic piece of gear and let your sounds travel comfortably back in time!\nYou Can Have it All\nThe VINTAGE TIME MACHINE boasts not one, not two, but three amazing effects: a beautiful, shimmering Chorus; a mind-bending Vibrato; and an extremely-sweet delay. With up to 550 ms of organic analog echo, the VM1 can fatten up your sound and generate a bevy of FX that make musical time travel seem more than possible – more like inevitable!\nFirst-Class Switch\nA brilliant status LED tells you when the VM1 is activated, and the top-quality on/off switch ensures true mechanical bypass when the effect is not in use, so your tone stays completely intact.\nhttps://www.behringer.com/product.html?modelCode=P0520",
+    "hrid": "behringer-vm1-vintage-time-machine"
+}

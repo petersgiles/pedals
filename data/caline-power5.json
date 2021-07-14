@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17343",
+    "name": "Power5",
+    "image": "images/caline-power5.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 150,
+    "height": 52,
+    "details": "Power",
+    "hrid": "caline-power5"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11771",
+    "name": "Tonal Recall",
+    "image": "images/chase-bliss-audio-tonal-recall.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Forget everything you know about analog delay, this one’s different.Built around a pair of re-issued versions of the legendary MN3005 bucket-brigade delay chips, the unmistakable analog character of this delay is front and center along with its velvety tape-like modulation. Tonal Recall expands upon the classic vintage sounds associated with analog delays of yesteryear while bringing modern amenities such as tap tempo, optional bypass with trails, expression control over any parameter, and the ability to save presets. Every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog the entire time and never gets digitally processed. Since the control of the effect is digital, it opens up unprecedented effects and features that have never been heard or offered in analog stompboxes.\nhttp://chaseblissaudio.com/tonal-recall/",
+    "hrid": "chase-bliss-audio-tonal-recall"
+}

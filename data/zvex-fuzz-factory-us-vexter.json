@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33792",
+    "name": "Fuzz Factory US Vexter",
+    "image": "images/zvex-fuzz-factory-us-vexter.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 124,
+    "height": 70,
+    "details": "",
+    "hrid": "zvex-fuzz-factory-us-vexter"
+}

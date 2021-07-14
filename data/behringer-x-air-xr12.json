@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14915",
+    "name": "X Air XR12",
+    "image": "images/behringer-x-air-xr12.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$281 Price in €",
+    "width": 483,
+    "height": 127,
+    "details": "Digital Mixer12-Input Digital Mixer for iPad/Android Tablets with 4 Programmable Midas Preamps, 8 Line Inputs, Integrated Wifi Module and USB Stereo Recorder\nhttps://www.behringer.com/product.html?modelCode=P0BI6",
+    "hrid": "behringer-x-air-xr12"
+}

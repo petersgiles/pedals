@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12044",
+    "name": "Barbershop Millenium",
+    "image": "images/fairfield-circuitry-barbershop-millenium.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 68,
+    "height": 121,
+    "details": "OverdriveRepresent the new millenia with this brand new take on our coveted Barbershop.\nHave you ever sat in a barber's chair wishing your tone was as slick as your freshly shaved upper lip? With the Barbershop Overdrive on your pedalboard, you could keep your moustache and sound good doing it.\nLess is more with this simple, original design. Handmade from JFETs matched to specs, this versatile pedal will treat your pickups with the respect they deserve. In return, they’ll thank you with some of them sweet tones.\nhttps://fairfieldcircuitry.com/products/the-barbershop",
+    "hrid": "fairfield-circuitry-barbershop-millenium"
+}

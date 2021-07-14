@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19546",
+    "name": "RC-30",
+    "image": "images/boss-rc-30.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "195 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 173,
+    "height": 158,
+    "details": "Loop StationTwin Pedal multitrack looper with true stereo I/O\nTwo synchronized stereo tracks with dedicated volume faders and track-select buttons\nMassive internal memory with up to three hours of stereo recording time\n99 onboard memory phrases for storing loops\nBuilt-in effects for processing loops\nMultiple inputs: 1/4\" A and B input jacks, stereo 1/8\" mini AUX input jack, XLR input jack with phantom power\nUSB 2.0 port allows you to connect to a PC and import/export WAV audio\nRhythm guide with real drums\nRuns on batteries or optional AC power supply\nhttps://www.boss.info/us/products/rc-30/",
+    "hrid": "boss-rc-30"
+}

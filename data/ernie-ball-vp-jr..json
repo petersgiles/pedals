@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11545",
+    "name": "VP JR.",
+    "image": "images/ernie-ball-vp-jr..jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "Passive Volume Pedal\nhttps://www.ernieball.com/guitar-accessories/pedals/volume-pedals#P06166",
+    "hrid": "ernie-ball-vp-jr."
+}

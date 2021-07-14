@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22435",
+    "name": "Zeus",
+    "image": "images/red-witch-zeus.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Multieffect",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Red Witch",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 118,
+    "height": 94,
+    "details": "Silicon Fuzz, Octave Down\nhttp://www.redwitchpedals.com/zeus_pedal",
+    "hrid": "red-witch-zeus"
+}

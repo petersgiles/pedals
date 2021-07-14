@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15330",
+    "name": "JHS Modded Electro-Harmonix Op-Amp Big Muff Pumpkin Patch Mod",
+    "image": "images/jhs-jhs-modded-electro-harmonix-op-amp-big-muff-pumpkin-patch-mod.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 121,
+    "details": "Modded Op-Amp Fuzz",
+    "hrid": "jhs-jhs-modded-electro-harmonix-op-amp-big-muff-pumpkin-patch-mod"
+}

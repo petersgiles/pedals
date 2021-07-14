@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22385",
+    "name": "Analog Heat MKII",
+    "image": "images/elektron-analog-heat-mkii.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo",
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$799 Price in €",
+    "width": 216,
+    "height": 183,
+    "details": "MKII versionAll-analog 8-mode Distortion Effect with 7-mode Filtering, Envelope, LFO, MIDI, CV Expression Control, and Overbridge Plug-in-style DAW Integration",
+    "hrid": "elektron-analog-heat-mkii"
+}

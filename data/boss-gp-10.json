@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12485",
+    "name": "GP-10",
+    "image": "images/boss-gp-10.jpg",
+    "function": [
+        "MIDI",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Synth Voice",
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "350 mA / ? V / AC",
+    "cost": "$400 Price in €",
+    "width": 251,
+    "height": 207,
+    "details": "Guitar ProcessorThe new GP-10 puts a universe of amazing tones and tunings at your command, all in one compact processor that’s affordable and easy to use. With a Roland GK-compatible pickup on your guitar, the GP-10 lets you transform your sound into numerous classic electric and acoustic guitar types, basses, and even analog-modeled synths, including the legendary Roland GR-300. Not stopping there, you have access to instant altered tunings, including popular open tunings, 12-string tones, and “down” tunings that are essential for today’s ultra-heavy rock styles. The versatile GP-10 also functions as a full-featured multi-effects processor for both GK and normal pickups, giving you a huge selection of COSM amps and effects for live playing and studio recording. In addition, USB connectivity lets you capture GP-10 tones directly into your DAW, and you can even play computer-based soft synths from your axe with the GP-10’s guitar-to-MIDI convertor!\nhttps://www.boss.info/us/products/gp-10/",
+    "hrid": "boss-gp-10"
+}

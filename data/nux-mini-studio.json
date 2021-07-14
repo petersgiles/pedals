@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24729",
+    "name": "Mini Studio",
+    "image": "images/nux-mini-studio.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC",
+    "cost": "$99 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "Mini IR loaderNUX Mini Studio brings 8 speaker cabinets into pocket size now. Each impulse response (IR) file captured from it’s own original source, processed with the state-in-art audio technology. At the end of the signal chain, Mini Studio amazingly produces a musical sound and tastefully enhances the audio signal.",
+    "hrid": "nux-mini-studio"
+}

@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24797",
+    "name": "Terraform",
+    "image": "images/wampler-terraform.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "MIDI",
+        "Modeling/Simulation",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Wampler",
+    "current": "107 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 120,
+    "height": 101,
+    "details": "DSP-based digital multi-modulation pedalWith 11 vibrant modulation effects, a true stereo signal path, and even MIDI control, the Wampler Terraform is one of the most comprehensive modulation multi-effects pedals you'll find. Terraform puts your most-needed parameters like rate, depth, and blend right at your fingertips, and you'll be able to save your most-used settings to eight different preset locations. A tap tempo switch is ready to tempo-sync the effects to your music. And best of all, the Wampler Terraform's advanced routing options allow you to place your effects either in front of your amp, or within its effects loop, without re-patching your pedalboard.\nhttps://www.wamplerpedals.com/products/modulation/terraform/",
+    "hrid": "wampler-terraform"
+}

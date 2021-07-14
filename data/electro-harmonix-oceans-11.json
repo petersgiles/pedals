@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17481",
+    "name": "Oceans 11",
+    "image": "images/electro-harmonix-oceans-11.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "150 mA / 9 V / DC",
+    "cost": "$149 Price in €",
+    "width": 72,
+    "height": 120,
+    "details": "The Oceans 11’s reverbs are:\n1. HALL – the rich reverberant sound of a grand concert hall\n2. SPRING – pays homage to the classic Fender® 6G15 tube spring reverb \n3. PLATE – the lush, warm reverb that got its name because a large metal plate was originally used to create it\n4. REVRS – emulates the quirky reverse reverb effect where a note’s reverb fades-in backwards. (Jimmy Page claims to have invented it.)\n5. ECHO –sends a recirculating echo thru the Plate reverb. The crisp clear delays get tastefully smudged by the airy plate reverb \n6. TREM – reverb plus tremolo that’s applied to both the wet and dry mix of a Hall reverb, your choice of three different tremolo shapes\n7. MOD – modulated reverb, three modes. Chorus laced onto the reverb tails creates a luscious atmospheric effect. Flanger wraps around the reverb tails and weaves a hypnotic tapestry. Chorus and flanger combined.\n8. DYNA – Swell, gate and duck. Swell silences your notes’ attacks before blooming the tails back into the soundscape. Gate passes the reverb tail thru a noise gate that opens when it detects playing. (Phil Collins popularized the technique by applying it to drums.) Duck compresses the reverb tail while you’re playing and fades it back in when you’re resting.\n9. AUTO-INF – Auto-infinite reverb that triggers a reverb wash for each note or chord. When a new one is struck, the previously resounding reverb crossfades to the new one\n10. SHIM – Shimmer generates a rich octave-shifted reverb wash that modulates and blossoms behind your signal\n11. POLY – Polyphonic reverb, two configurable bi-directional pitch shifts operating on your pre-reverb signal. Combine dissonant intervals with near infinite decays to create disorienting soundtracks, or choose perfect/major intervals to generate creative harmonies when jumping around a key signature\nThe Oceans 11 features powerful, yet intuitive “hidden” parameters accessible thru its Secondary Knob Mode that let the player take greater control of its effects.\nAn internal Tails switch also provides a choice of whether the reverb effect fades out naturally or stops immediately when the pedal is switched to bypass. In most settings the pedal is also capable of producing infinite reverb which can be played over with a fresh reverb effect complete with adjustable parameters!\nhttps://www.ehx.com/products/oceans-11",
+    "hrid": "electro-harmonix-oceans-11"
+}

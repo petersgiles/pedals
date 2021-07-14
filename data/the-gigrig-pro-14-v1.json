@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19748",
+    "name": "Pro 14 v1",
+    "image": "images/the-gigrig-pro-14-v1.jpg",
+    "function": [
+        "Controller",
+        "Looper",
+        "MIDI",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$599 Price in €",
+    "width": 610,
+    "height": 203,
+    "details": "Advanced bypass looper/controllerThe Gigrig Pro14\nTheGigRig Pro-14 is the ultimate floor based switching system designed to give you a level of control over your effects and amps that you've only ever dreamed about.\nThe Pro-14's 10 True Bypass effects loops guarantee the best tone possible from your effects.\nThe 14 programmable pre-sets mean 1 step selection over any effects pedal combination you like.\nAn inbuilt optically controlled programmable class A amplifier takes care of volume mismatches from vintage style pedals and gives you easy solo boosts.\n Choose any combination of 2 amplifier outputs without earth loops or phase problems.\nEasy intuitive programming designed for tone lovers who use pedals, not computers.\n Programmable pre-boost/buffer gives you the option of having a completely true bypass system, or pre-effects loops buffered system as part of each pre-set. It is perfect for all effects, even germanium transistor overdrives.\nMode settings give you the ability to mix preset 'on the fly' for even greater flexibility.\nI believe that the signal that comes out of your guitar is precious. At TheGigRig we compromise on nothing to bring you some of the best gear on the planet, but don't take our word for it. Read the reviews and watch the demo. See what TheGigRig users have to say, and then show us what you can do. The Possibilities are endless!",
+    "hrid": "the-gigrig-pro-14-v1"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13214",
+    "name": "Precision Drive",
+    "image": "images/horizon-devices-precision-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Horizon Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 57,
+    "height": 108,
+    "details": "Overdrive with Noise Gate\nhttp://horizondevices.com/product/precision-drive/",
+    "hrid": "horizon-devices-precision-drive"
+}

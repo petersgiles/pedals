@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12748",
+    "name": "SF10 Swell Flanger",
+    "image": "images/ibanez-sf10-swell-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "",
+    "hrid": "ibanez-sf10-swell-flanger"
+}

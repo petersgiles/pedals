@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23614",
+    "name": "ROD881",
+    "image": "images/maxon-rod881.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "180 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 110,
+    "height": 160,
+    "details": "Real Overdrive/DistortionThe Maxon ROD881 Real Tube Overdrive/Distortion is an upgrade to the ROD880, offering more options for tonal shaping than its predecessor. Each pedal is powered by a hand-selected 12AX7WXT preamp tube, and overdrive is shapeable using Gain, Master, Bass, Middle, and Treble knobs. Up to +10dB of gain is available with the ROD881 and you can use the Mode switch to change between OD and Distortion.",
+    "hrid": "maxon-rod881"
+}

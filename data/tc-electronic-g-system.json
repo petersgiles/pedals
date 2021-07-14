@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13372",
+    "name": "G-System",
+    "image": "images/tc-electronic-g-system.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$1,499 Price in €",
+    "width": 513,
+    "height": 267,
+    "details": "Multi FXMulti-effects processor floor pedal.\nUp to 9 simultaneous effects.\nUltimate flexibility as the board can be separated with loops etc. in a 19\" rack while leaving the control board on the floor.\nMIDI control of additional external MIDI units.\nConnections for 2/4 Expression pedals.\nFast and smooth preset changes featureing delay spill-overs.\nFour switchable mono sends for your favorite effects pedals.\nOne additional loop/insert point dedicated for preamp.\n4 x 9V DC outlets for powering your effects pedals.\nUSB Connection for software updates.\nRock Solid User Interface.\nChromatic Tuner.\nAnalog Pedal Loops.\nAmp Switching.\nDelay.\nReverb.\nPre Effects; compresson, and filters.\nPost Effects; noise gate, modulation, and pitch\nhttp://www.tcelectronic.com/g-system/",
+    "hrid": "tc-electronic-g-system"
+}

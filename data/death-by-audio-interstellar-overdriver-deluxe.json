@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18074",
+    "name": "Interstellar Overdriver Deluxe",
+    "image": "images/death-by-audio-interstellar-overdriver-deluxe.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Dual/Stereo",
+        "Tremolo"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$320 Price in €",
+    "width": 142,
+    "height": 124,
+    "details": "WHAT WE THINK AN AMP CRANKED UP SHOULD SOUNDS LIKEThe Interstellar Overdriver Deluxe is two amazing, all analog, Interstellar Overdriver pedals with extra options! Not only can one channel slam into the other for unearthly overdrive sounds -- there's 5 additional sounds on the 2nd channel for a huge range of overdrive / fuzz tones. A pleasant boost, a squealing lead, chopped out glitch, jet rocket lift-off; this is the pedal to blast your sound into the future!\nCONTROLS \nMaster: Controls the volume of the circuit of the side the knob is on - left MASTER controls the left side volume and right MASTER controls the right.\nDrive: Sets the amount of drive for the circuit the knob is on the side of. \nRotary Selector: \n1: Thin Drive\n2: Normal Interstellar Overdriver\n3: Bass Overdriver\n4: Super Oscillating Fuzz\n5: Octave Fuzz\n6: Envelope Controlled Tremolo\n\nNOTE: Channel 1 is the right side footswitch and controls, and is always an Interstellar Overdriver circuit. Channel 2 (the left side) can be changed with the rotary to become something completely new. However, both sets of controls will interact to produce new and insane tones depending on which rotary position is selected - everything from piercing overdrive to oscillations and insane choppy trem.",
+    "hrid": "death-by-audio-interstellar-overdriver-deluxe"
+}

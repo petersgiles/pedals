@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16224",
+    "name": "Hellbabe Wah",
+    "image": "images/behringer-hellbabe-wah.jpg",
+    "function": [
+        "Bass",
+        "Wah"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 113,
+    "height": 254,
+    "details": "Get everything from old-school wah to the most up-to-date sounds, all in one mesmerizing effects pedal.\nThe Behringer Hell-Babe HB01 is unlike any wah you've ever stepped on, offering a tremendous array of tone-sculpting options. This demon's heel-down Range control provides low frequency adjustment that can be swept from 440 Hz down to 250 Hz, making the HB01 the ideal companion for either guitar or bass. For custom-tailoring the toe-down frequency range, the Hell-Babe features a Fine control, allowing you to adjust the frequency sweep as high as 2.2 kHz.\nYou can even dial in a powerful volume Boost (up to +15 dB), so that when you step on the HB01, your guitar will rise to the top of the mix. A highly versatile Q control is provided for precise filter shaping and for achieving vocal-like effects.\nThe Hell-Babe uses no mechanical pots or switches, which significantly reduces on wear and tear. It also features a spring-back pedal mechanism with resistance adjustment. And thanks to the ultra-bright LED indicators you'll always know when it's on and when the volume boost is activated. You can power this bad boy with a 9V battery or the optional PSU-SB DC power supply.",
+    "hrid": "behringer-hellbabe-wah"
+}

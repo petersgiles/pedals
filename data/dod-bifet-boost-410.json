@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12230",
+    "name": "Bifet Boost 410",
+    "image": "images/dod-bifet-boost-410.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Bifet Boost with selectable Buffer\nhttp://digitech.com/en/products/bifet-boost-410-2014",
+    "hrid": "dod-bifet-boost-410"
+}

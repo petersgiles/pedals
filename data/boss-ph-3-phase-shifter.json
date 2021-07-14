@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11724",
+    "name": "PH-3 Phase Shifter",
+    "image": "images/boss-ph-3-phase-shifter.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$144 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "PhaserCompact pedal with versatile vintage and modern BOSS phasing\nNew \"Rise\" and \"Fall\" modes create unidirectional phasing\nIncludes classic multi-stage phasers with selectable stages\nRealtime control of Rate via optional expression pedal\nTap tempo sync of phasing effects\nBOSS five-year warranty\nhttps://www.boss.info/us/products/ph-3/",
+    "hrid": "boss-ph-3-phase-shifter"
+}

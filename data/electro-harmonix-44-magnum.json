@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11851",
+    "name": "44 Magnum",
+    "image": "images/electro-harmonix-44-magnum.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$152 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "44 watt power amp\nhttp://www.ehx.com/products/44-magnum",
+    "hrid": "electro-harmonix-44-magnum"
+}

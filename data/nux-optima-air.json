@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30741",
+    "name": "Optima Air",
+    "image": "images/nux-optima-air.jpg",
+    "function": [
+        "Equalizer",
+        "Modeling/Simulation",
+        "Reverb"
+    ],
+    "manufacturer": "Nux",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$193 Price in €",
+    "width": 105,
+    "height": 115,
+    "details": "Acoustic Simulator & IR LoaderThe Optima Air pedal is a programmable digital modelling acoustic guitar simulator for electric players. Plug in your electric guitar and morph it into any of 15 internal acoustic guitar models at will. An Impulse Response (IR) loader enables you to capture the tone profile of your favourite acoustic guitar and store it as a model that can be played from your electric guitar. To enhance the acoustic tone, the Optima Air is furnished with a foot-switchable studio quality preamp with 3-band EQ and a digital reverb section to generate ambience. The Optima Air also has an audio streaming USB interface providing, which can be used as a recording device and the USB can be used for remote editing via software which is downloadable for PC or Mac computer. Inputs and outputs include standard jack in and out, a D.I. XLR output, send / return effects loop, headphone output and aux line input for a myriad of connection possibilities. Optima Air is the acoustic guitar in a pedal for electric players either on stage or in the studio.\nPower supply: 9Vdc, 500mA, negative centre (not supplied)\nSampling format: 24-bit, 48-kHz\nInternal programmes: 15 models, 9 preset patches\nDI output: XLR\nUSB computer interface: Micro USB port\nhttps://www.nuxefx.com/442308.html",
+    "hrid": "nux-optima-air"
+}

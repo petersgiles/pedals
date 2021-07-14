@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16679",
+    "name": "Eye See '78",
+    "image": "images/wren-and-cuff-eye-see-'78.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Op-Amp Big muffTalking shop about Muff-style fuzz with any guitar player that knows his or her stuff is a relatively straightforward conversation. Aside from the myriad of variants, the talk usually evolves into transistors and who used which variant.\nThere was a curious time in Muff history, when the circuit designed changed drastically. That time was 1978, when the transistors inside were scrapped in favor of operational amplifiers, otherwise known as op-amps, which are integrated circuits, or ICs. This particular variant was only manufactured for around two years, and as such, only a few thousand ever made it out of NYC alive.\nFast forward to 2014, and the Muff masters at Wren and Cuff have crafted the definitive version of the non-transistorized fuzzbox. They call it the Eye See Pi.\nApart from the lack of transistors, the Eye See Pi features a drastically different clipping section for a monstrously woolly sound, such as the one popularized by Billy Corgan of Smashing Pumpkins on Siamese Dream. As expected, the sound of the Eye See Pi is different from a standard Muff circuit. While most vintage muffs are a little “sweeter” sounding, the Eye See Pi is certainly crunchier and more ballsy than a standard Muff.\nIn 1978, a switch was added to the back of the original, and the Eye See Pi includes this switch as well. The control is labeled as “Tone Bypass” on both old and new pedals. Essentially, it removes the passive tone stack from the circuit for a volume boost and a significantly more raw and open sound. Of course, this switch renders the tone control useless, but we’re guessing that in this mode, you won’t miss it—this switch is just too cool. \nIf you’re looking for a largely-untamed IC-based fuzz and distortion machine, with the ability to adapt to most genres of music under the sun, look no further than the Eye See Pi.\nWren and Cuff Eye See Pi Features:\nAuthentic recreation of the 1978 IC Big Muff from the masters of the circuit, Wren and Cuff\nTone Bypass switch for a different flavor of Muff\nSmaller Footprint than the original\nTrue bypass switching\nStandard 9v center-negative operation",
+    "hrid": "wren-and-cuff-eye-see-'78"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12555",
+    "name": "ModVerb",
+    "image": "images/mooer-modverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$81 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Modulated reverb with Freeze effectModverb\nMODVERB brings together 3 of our most popular modulation effects with a brand new reverb algorithm. Ambient tones are easily obtained as you combine Flanger, Vibrato or Phaser with a high quality pristine digital reverb. The intuitive and versatile controls make it simple to dial in the MODVERB. The  modulation speed can be swiftly adjusted using the tap tempo button and prepare to be frozen in time when you hold down the footswitch to activate eternal feedback [Mooer.com].\nhttp://www.mooeraudio.com/?product/201612073837.html",
+    "hrid": "mooer-modverb"
+}

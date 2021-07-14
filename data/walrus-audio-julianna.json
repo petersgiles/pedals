@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29710",
+    "name": "Julianna",
+    "image": "images/walrus-audio-julianna.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 74,
+    "height": 121,
+    "details": "Stereo Analog Chorus/Vibrato",
+    "hrid": "walrus-audio-julianna"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17246",
+    "name": "Dagger",
+    "image": "images/electronic-audio-experiments-dagger.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 119,
+    "details": "The Dagger is a simplified and miniaturized take on the Longsword. As each new version of the Longsword became more complex, we realized a stripped-down option would be a great alternative. We consolidated the circuit down to just the gain stages and James tone stack, for the ideal match of simplicity and flexibility. The Dagger is perfect for players who have small pedalboards or don't want as many controls as the full-sized Longsword. \nControls:\nVolume - self explanatory\nDrive - distortion level, from clean boost to heavy overdrive\nHigh/Low - shelving filters\nThis pedal comes in a powder-coated 125B sized enclosure.  \nAdditional features include true bypass switching, a standard center-negative power supply (accepts 9V DC), and top-mounted jacks. \nAll Daggers come with the standard limited warranty.",
+    "hrid": "electronic-audio-experiments-dagger"
+}

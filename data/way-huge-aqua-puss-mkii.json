@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13494",
+    "name": "Aqua Puss MKII",
+    "image": "images/way-huge-aqua-puss-mkii.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "Analog Delay \nhttps://www.jimdunlop.com/product/whe701-7-10137-04616-0.do",
+    "hrid": "way-huge-aqua-puss-mkii"
+}

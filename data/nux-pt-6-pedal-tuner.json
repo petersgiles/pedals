@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32099",
+    "name": "PT-6 Pedal Tuner",
+    "image": "images/nux-pt-6-pedal-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 75,
+    "height": 122,
+    "details": "Chromatic tuner w/ true bypass\nhttps://www.nuxefx.com/pt-6.html",
+    "hrid": "nux-pt-6-pedal-tuner"
+}

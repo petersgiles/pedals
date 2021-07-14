@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24042",
+    "name": "Donner DT-1 Chromatic Guitar",
+    "image": "images/donner-donner-dt-1-chromatic-guitar.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / DC",
+    "cost": "$17 Price in €",
+    "width": 46,
+    "height": 95,
+    "details": "Chromatic Tuner",
+    "hrid": "donner-donner-dt-1-chromatic-guitar"
+}

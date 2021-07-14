@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18273",
+    "name": "Bass Envelope Phaser",
+    "image": "images/pigtronix-bass-envelope-phaser.jpg",
+    "function": [
+        "Bass",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 112,
+    "details": "Envelope PhaserSINCE THE INCEPTION OF PIGTRONIX IN 2004, OUR ENVELOPE PHASER PEDAL HAS BEEN CELEBRATED BY BASS PLAYERS AS ONE OF THE MOST EXPRESSIVE, CORPULENT AND DOWNRIGHT FUNKY PEDALS OF ALL TIME.\nWith the introduction of the Bass Envelope Phaser, Pigtronix has responded to customer feedback by creating a small size, dedicated envelope pedal that is tuned especially for bassists. This no nonsense, straight ahead design is guaranteed to blow the doors off any other envelope pedal on the planet with its earth shaking low end and unique, vowel like articulation in the mid and high frequency ranges.\nIncluded in this design is the Pigtronix staccato envelope circuit, which auto closes the envelope between notes, for un-matched articulation of high speed finger techniques and slap bass. Running on a stout, 18-volt power supply, the Bass Envelope Phaser has all the headroom you need to deal with active bass pickups and onboard preamps. A simple control layout of SENSITIVITY and RESONANCE knobs gets you to a wide array of perfect sounds within seconds and the UP / DOWN direction switch provides two distinct modes for laying into the various flavors of funk.\nFeatures:\n* Envelope Controlled Phasing\n* Fine Tuned for Bass Guitar\n* Up / Down direction switch\n* High Speed Staccato Envelope\n* 18VDC 300mA supply included\n* Chassis Size: 2.4 x 4.4 x 1\n* Circuit Design by Howard Davis\n* Sound Design by David Koltai\n* True Bypass\nhttps://pigtronix.com/legacy/",
+    "hrid": "pigtronix-bass-envelope-phaser"
+}

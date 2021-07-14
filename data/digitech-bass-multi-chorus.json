@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12775",
+    "name": "Bass Multi Chorus",
+    "image": "images/digitech-bass-multi-chorus.jpg",
+    "function": [
+        "Bass",
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "",
+    "hrid": "digitech-bass-multi-chorus"
+}

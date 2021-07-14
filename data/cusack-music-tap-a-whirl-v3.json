@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13132",
+    "name": "Tap-A-Whirl V3",
+    "image": "images/cusack-music-tap-a-whirl-v3.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Cusack Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Tap Tempo Analog Tremolo \nhttps://cusackmusic.com/products/tap-a-whirl",
+    "hrid": "cusack-music-tap-a-whirl-v3"
+}

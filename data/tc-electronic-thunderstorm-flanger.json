@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11710",
+    "name": "Thunderstorm Flanger",
+    "image": "images/tc-electronic-thunderstorm-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Vintage-Style Flanger Pedal with All-Analog Bucket-Brigade CircuitTHUNDERSTORM FLANGER perfectly captures the classic analog flanger tones of yesteryear from subtle, tape-like sweeps and lush chorusing – to a no-holds barred flanger frenzy! Designed by guitarists around an all-analog, Bucket-Brigade Device (BBD), THUNDERSTORM FLANGER delivers the goods in an extremely affordable package – one that will elevate both your mood, and your music.\nhttps://www.tcelectronic.com/product.html?modelCode=P0CB0",
+    "hrid": "tc-electronic-thunderstorm-flanger"
+}

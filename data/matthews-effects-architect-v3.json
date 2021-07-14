@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22120",
+    "name": "Architect v3",
+    "image": "images/matthews-effects-architect-v3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 114,
+    "details": "Klone",
+    "hrid": "matthews-effects-architect-v3"
+}

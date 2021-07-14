@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33331",
+    "name": "Expression Ramper",
+    "image": "images/old-blood-noise-expression-ramper.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$59 Price in €",
+    "width": 40,
+    "height": 90,
+    "details": "Expression automation / LFOExpression Ramper allows you to pick two expression settings and move between them, either in one motion or as a continuous LFO activated by a footswitch. The mini enclosure size takes up minimal space while creating new sounds out of any pedal with an expression input.\nExpression Ramper features:\nTriangle, square, and one-shot shapes for movement between A and B expression settings\nRate control to set the speed of movement\nFootswitch activated motion to create modulated effects on the fly or ramp between two presets\nConfigurable output for TRS, TRS reverse polarity, or TS expression inputs\nLED to indicate which setting is currently active\nRequires 9VDC center negative power\nNOTE: Expression Ramper is initially configured for TRS active at Tip for compatibility with Old Blood devices, but can be configured for TRS active at Tip, TRS active at Ring, and TS using the internal jumpers. By default, it ships with a 50K digital potentiometer. This potentiometer is socketed and can be replaced with 10K and 100K values if needed (part code MCP41010-I/P and part code MCP41100-I/P respectively).\nhttps://www.oldbloodnoise.com/pedals/expression-ramper",
+    "hrid": "old-blood-noise-expression-ramper"
+}

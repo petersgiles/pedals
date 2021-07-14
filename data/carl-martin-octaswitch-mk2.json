@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17830",
+    "name": "Octaswitch MK2",
+    "image": "images/carl-martin-octaswitch-mk2.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 513,
+    "height": 134,
+    "details": "True bypass looper with 8 loop",
+    "hrid": "carl-martin-octaswitch-mk2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29909",
+    "name": "3 Series Overdrive",
+    "image": "images/jhs-3-series-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "The JHS Pedals 3 Series Overdrive offers a wide range of overdrive sounds within straightforward design aesthetics. You can achieve anything from boost, transparent low gain, to huge amp-like medium overdrive sounds. The simple knob functions give you control over the Volume, Body (or EQ), and Drive. The Gain toggle gives you a choice between more saturated and compressed or more open and crunchy dynamics. This switch plays a big part in how the pedal responds to your playing and touch as a player. \nThe JHS Pedals 3 Series Overdrive runs on 9V DC Negative Center power and consumes 12mA.\nhttps://www.jhspedals.info/3-series-overdrive",
+    "hrid": "jhs-3-series-overdrive"
+}

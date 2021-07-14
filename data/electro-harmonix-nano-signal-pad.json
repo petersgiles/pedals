@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12690",
+    "name": "Nano Signal Pad",
+    "image": "images/electro-harmonix-nano-signal-pad.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Volume and Signal Level Control The Signal Pad is a passive attenuator that allows you to instantly switch to a different preset volume. It's like your guitar's volume knob, with a fully-passive and color-free circuit. Leave your amp's volume set high for overdrive, and use the Signal Pad to lower your level for a clean sound -- then switch it off to kick in your amp's natural overdrive. You can also experiment with the Signal Pad anywhere in your effects chain -- you'll bring out new tonal combinations from your favorite old pedals.\nhttp://www.ehx.com/products/signal-pad",
+    "hrid": "electro-harmonix-nano-signal-pad"
+}

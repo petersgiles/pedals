@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22533",
+    "name": "Morley ABY 2-Button ABY Signal Switcher",
+    "image": "images/morley-morley-aby-2-button-aby-signal-switcher.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Morley",
+    "current": "? mA / 9 V / DC",
+    "cost": "$62 Price in €",
+    "width": 133,
+    "height": 83,
+    "details": "ABY Signal SwitcherThe Morley ABY selector/combiner footswitch can be employed in a variety of situations; the choice between two inputs/one output, or one input/two outputs gives the user many options. You can, for instance, run a signal to a pair of amps for true stereo effect; switch between two amps for dirty/clean tones (perfect for that old tube amp with separate channels); bypass that noisy boutique stomp box or your entire pedal setup altogether; simultaneously run a keyboard and guitar through your effects chain, and more. Basically, you can route one signal to two outputs or two inputs to one output - then select between them or combine them.",
+    "hrid": "morley-morley-aby-2-button-aby-signal-switcher"
+}

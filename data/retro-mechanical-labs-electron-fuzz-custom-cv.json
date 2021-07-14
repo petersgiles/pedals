@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25567",
+    "name": "Electron Fuzz Custom CV",
+    "image": "images/retro-mechanical-labs-electron-fuzz-custom-cv.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Retro Mechanical Labs",
+    "current": "? mA / 9 V / DC",
+    "cost": "$386 Price in €",
+    "width": 127,
+    "height": 133,
+    "details": "CV Controlled FuzzAt its core, the Electron Fuzz Custom CV is a classic distortion. Depending on the input level and the position of the unlabelled volume attenuator, signals are more or less alienated. The cut toggle switch reduces the low-frequency signal component at the audio input on request. The fuzz can be quickly removed from the signal path using a true bypass footswitch. There is also a dry / wet potentiometer, here called bleed out. A final volume control is hidden behind the Distortion Out control.\nAn important special feature of the EFCCV are the tone controls Hurt (high pass) and Pain (low pass). They are connected to dedicated amplifier stages, so they influence not only the frequency spectrum, but also the degree of distortion and thus the sound character. - Turning these potentiometers can sometimes have chaotic consequences.\nThere is a feedback section for further sound coloring. High settings of the associated potentiometer lead the EFCCV to self-oscillation. Among them there are sound changes reminiscent of bitcrusher or modulation effects, for example.\nTwo additional amplification levels can be activated via the X1000 footswitch. - To call the results brute is almost an understatement.\nAudio input and output have been tailored to operate at line or modular levels. The parameters Hurt, Pain, Feedback and Distortion Out are voltage controllable. All CV inputs accept signals in the range from 0 V to +5 V.\nhttp://www.rmlfx.com/",
+    "hrid": "retro-mechanical-labs-electron-fuzz-custom-cv"
+}

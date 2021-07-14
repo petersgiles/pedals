@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17478",
+    "name": "AT+",
+    "image": "images/jhs-at+.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "JHS",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "Andy Timmons Signature, Dual-Channel OverdriveAndy Timmons Signature Overdrive\nYou can safely run “The AT“ at 18 or 9 volts\nThis pedal requires standard 9V DC Negative power, consumes 15 mA, and measures 2.2\"x4.8\"x1.6\".\nIn 2016 we brought you the AT, Andy Timmons artist signature pedal and we're really proud to bring you the next iteration of this phenomenal stomp box, The AT+. \nThe JHS Pedals AT is Andy Timmons signature overdrive pedal that gives Andy his unmistakable lead and rhythm tone. Upon purchasing a JHS Angry Charlie in 2013, Andy began using it as his primary tone and soon after got in touch with Josh Scott about modifying it for his needs. Through going back and forth and tailoring it to Andy’s tastes, the “@“ was born and eventually released into production in 2016. This pedal gives you all the soaring overdrive and distortion that you hear from Andy with plenty of options to craft your tone with your rig.  So pay ATtention and we’ll see what makes the AT rock.\nDoes the AT+ sound the same as the original AT? \nYes!  The drive channel of the AT+ is identical to our original AT pedal.  No changes were made whatsoever and the controls remain the same.   They include Volume, EQ, Drive, Air, and a three-way toggle for 25-watt, 50-watt, or 100-watt modes. The Volume gives you plenty of headroom to play with, while the Drive control has a wide range from high gain blues to thunderous distortion. The tone controls work together to give you the ability to shape your tone and sit perfectly in a mix. The EQ works as a standard bright/dark tone control, while the Air control rolls in top end like a presence control so you can have just the right amount of brightness for articulation and clarity. The three-way toggle gives you the feel of different wattage amplifiers. The up position is the 25-watt setting with the most compression and saturation with the least amount of volume. The down position is the 50-watt setting for a good balance of compression and openness. The middle position is the 100-watt position for tons of volume and open crunch while being less focused.\nTwo channels are better than one!   \nNew to the AT+ is an independent foot-switchable Boost...essentially creating a second channel and gain stage for the pedal.  The boost side of the AT+ is a slightly dirty and overdriven pre-boost that allows you to hit the front end of the AT drive channel and achieve more saturation and definition for applications where you need more.  Since the Boost is independent, it can be used alone to drive your amp or other drive pedals in conjunction with the AT+ drive channel.\nhttps://www.jhspedals.info/at-plus",
+    "hrid": "jhs-at+"
+}

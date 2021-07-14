@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21436",
+    "name": "Katana",
+    "image": "images/keeley-katana.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 76,
+    "height": 111,
+    "details": "Boost\nhttps://robertkeeley.com/shop/katana-boost",
+    "hrid": "keeley-katana"
+}

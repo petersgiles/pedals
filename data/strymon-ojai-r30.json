@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13642",
+    "name": "Ojai R30",
+    "image": "images/strymon-ojai-r30.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 130,
+    "height": 58,
+    "details": "Isolated Power Supply with voltage selectionPower your pedals with Ojai R30—the highest horsepower, most technologically advanced effects pedal power supply of its size. You get clean, rock-steady power for your 9V, 12V and 18V effects pedals in a low profile, expandable package, giving you room to grow.\nOjai R30’s dual-stage topology, pre-regulated outputs, optically isolated feedback, and advanced multistage filtering allow your pedals to achieve their highest possible dynamic range.\nOjai R30 weight: 6 oz. (171g)\nIncluded Strymon PS-124 power brick:\nModel: YJS036A-2401000U\nInput: 100-240v AC 50-60Hz 0.8A max\nOutput: 24v DC 1000mA\nDimensions: 4.2″ x 2.15″ x 1.25” (107mm x 55mm x 32mm)\nWeight: 4.7 oz. (133g)\nhttp://www.strymon.net/products/ojai-r30/",
+    "hrid": "strymon-ojai-r30"
+}

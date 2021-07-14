@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13259",
+    "name": "SE200 Spectrum Enhancer",
+    "image": "images/behringer-se200-spectrum-enhancer.jpg",
+    "function": [
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-se200-spectrum-enhancer"
+}

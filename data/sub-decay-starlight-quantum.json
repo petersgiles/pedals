@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16724",
+    "name": "Starlight Quantum",
+    "image": "images/sub-decay-starlight-quantum.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 58,
+    "height": 112,
+    "details": "FlangerFrom huge jet plane sweeps to swirly pitch vibrato the Starlight does everything a flanger should and more. This all analog bucket brigade based (MN3209) flanger adds the flexibility of digital control. There’s classic triangle shape modulation and wobbling sine wave for a super deep throb. We’ve also gone beyond the norm and included some of our favorite LFO’s from the Quasar DLX. Triangle/Square mix, Random Sample/hold and Step Triangle. There’s also a manual setting allowing you to use the speed knob to manually control the flanger.\nFrom lush dreamy chorus to a cold metallic clang.\nControl Matrix\nThe shape knob: This control selects six different ways to modulate the flanger.\nSine: Sounds best at higher speeds, but we left the option to run it slow as well. The flanger spends more times at the extremes of the sweep than in the middle.\nTriangle: The classic flanger sound. Smoothly sweeps through the flanger range with sharp turn arounds.\nTriangle/Square mix: This one mixes the smooth modulation of the triangle wave with a bit of square “steppy-ness” as well.\nRandom Sample/Hold: Totally random step modulation. Much more common in filter effects, but works great with a flanger too.\nStep-Triangle: A triangle wave with pronounced steps. A bit like the Random setting without the randomness.\nManual: Static/fixed flanger effect. The speed knob is used to manually control the flanger sweep. Useful for hollow sounding filter effects or sitar like metallic sounds.\nWe crammed a lot of features in to a small package with simple user friendly controls, but also took great care in the audio path design. A flanger is essentially a very short modulated delay. We chose the MN3209 because it offers very short delay times allowing for a higher sweep than a typical MN3207 based unit. The starlight incorporates minimal filtering allowing your fuzz and overdrive pedals really shine through the effect.\nNotes about The Starlight:\nPowered by a regulated 9VDC to 18VDC adapter with a negative center\n2.1mm barrel style plug.\nPower supply is not included.\nIf using a “daisy chain” power supply, all other pedals MUST be negative ground.\nCurrent draw is less than 40mA.\nLength 4.4″ X Width 2.3″ X Height 1.0″\nInput impedance- 1M.\nOutput impedance- ~1.5K.\nThe Starlight is hand made in Oregon.\nDie-cast metal enclosures for durability.\n3PDT switches for true bypass switching.\nRed LED indicator.\nThree-year limited warranty.",
+    "hrid": "sub-decay-starlight-quantum"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13591",
+    "name": "Jimi Hendrix Fuzz Face Mini Distortion FFM3",
+    "image": "images/dunlop-jimi-hendrix-fuzz-face-mini-distortion-ffm3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 88,
+    "height": 91,
+    "details": "The FFM3 Jimi Hendrix Fuzz Face Mini Distortion has the same circuit as the JHF1 in smaller housing, delivering the thick, smooth Fuzz Face tone that Jimi Hendrix made famous in a pedalboard-friendly size. \nhttps://www.jimdunlop.com/product/ffm3-7-10137-06653-3.do",
+    "hrid": "dunlop-jimi-hendrix-fuzz-face-mini-distortion-ffm3"
+}

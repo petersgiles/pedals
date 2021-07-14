@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13495",
+    "name": "Silver Spring Reverb",
+    "image": "images/mad-professor-silver-spring-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$196 Price in €",
+    "width": 61,
+    "height": 113,
+    "details": "Reverb\nhttp://www.mpamp.com/factory-pedals/silver-spring-reverb/",
+    "hrid": "mad-professor-silver-spring-reverb"
+}

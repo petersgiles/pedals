@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32591",
+    "name": "Compressor - 12AU7 Tube Pedal",
+    "image": "images/hagerman-compressor---12au7-tube-pedal.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Hagerman",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 102,
+    "height": 127,
+    "details": "12AU7 Tube Compressor PedalThe COMPRESSOR is a boutique all-analog vacuum tube pedal designed to offer the most transparent compression available, combining great sustain and low noise operation. Its feed-forward side-chain and custom opto-resistive attenuation produces a soft knee, as opposed to hard limiting, providing a very natural presentation without pumping effects. This will be your always on pedal, and with tons of clean headroom, you can use it on vocals too.\nHand built in USA.\nhttps://www.hagamps.com/collections/pedals/products/compressor",
+    "hrid": "hagerman-compressor---12au7-tube-pedal"
+}

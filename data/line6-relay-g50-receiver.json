@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23409",
+    "name": "Relay G50 Receiver",
+    "image": "images/line6-relay-g50-receiver.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Line6",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$323 Price in €",
+    "width": 88,
+    "height": 120,
+    "details": "Guitar and Bass wireless system\nhttps://line6.com/relay-wireless/g30-g50-g55-g90",
+    "hrid": "line6-relay-g50-receiver"
+}

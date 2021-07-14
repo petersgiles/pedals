@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25936",
+    "name": "Ram's Head Big Muff Pi",
+    "image": "images/electro-harmonix-ram's-head-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "2 mA / 9 V / DC",
+    "cost": "$99 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Fuzz Pedal ReissueA faithful reproduction of the highly coveted 1973 Violet Ram’s Head Big Muff heard on countless classic recordings and famous guitar solos. It delivers the unmistakable articulate string separation and exceptional sustain that’s made the V2 Big Muff so sought after. Now with a few choice updates for convenience including true bypass switching, an LED to indicate effect status and the option of being powered by a 9-volt AC adapter.\nhttps://www.ehx.com/products/rams-head-big-muff-pi",
+    "hrid": "electro-harmonix-ram's-head-big-muff-pi"
+}

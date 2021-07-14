@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20058",
+    "name": "Proverb XS",
+    "image": "images/mantic-effects-proverb-xs.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 60,
+    "height": 120,
+    "details": "smaller Proverb",
+    "hrid": "mantic-effects-proverb-xs"
+}

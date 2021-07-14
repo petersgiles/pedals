@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12757",
+    "name": "PH10 Bi-Mode Phaser",
+    "image": "images/ibanez-ph10-bi-mode-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "22 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "10-Stage Phaser The Ibanez PH10 Phase Shifter is the phase shifter of the '80s. It features a mode selector that allows you to go from a six stage phase shift to a ten stage phase shift. This is a considerable advantage when you realize that most phase shifters only use a four stage phase shift. The PH10 also features speed, width and feedback controls allowing you to get just the sound that you want. The PH10 is truly the phase shifter of today.\nA standard sweeping phaser effect can be achieved with the following settings: Feedback = \"0\", Stage = \"6\", Speed = \"3\", Width = \"4\". Increase the stage to 10 and add width for deeper more resonant phasing. Used in conjunction with distortion and delay devices, incredible stereo \"jet\" effects are possible.\n﻿Produced: 1986-1993\nhttps://www.tonehome.de/ibanez/power-series-10/ph10-bi-mode-phase/",
+    "hrid": "ibanez-ph10-bi-mode-phaser"
+}

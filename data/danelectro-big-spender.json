@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24147",
+    "name": "Big Spender",
+    "image": "images/danelectro-big-spender.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$79 Price in €",
+    "width": 75,
+    "height": 134,
+    "details": "Rotating Speaker\nhttps://www.danguitars.com/accessories/pedals/billionaire/big-spender",
+    "hrid": "danelectro-big-spender"
+}

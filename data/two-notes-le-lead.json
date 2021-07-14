@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15132",
+    "name": "Le lead",
+    "image": "images/two-notes-le-lead.jpg",
+    "function": [
+        "Tube"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$335 Price in €",
+    "width": 124,
+    "height": 189,
+    "details": "",
+    "hrid": "two-notes-le-lead"
+}

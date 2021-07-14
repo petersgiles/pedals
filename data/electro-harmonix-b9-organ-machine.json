@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12196",
+    "name": "B9 organ machine",
+    "image": "images/electro-harmonix-b9-organ-machine.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$221 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Organ emulator\nhttps://www.sweetwater.com/store/detail/B9Organ",
+    "hrid": "electro-harmonix-b9-organ-machine"
+}

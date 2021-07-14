@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30805",
+    "name": "Lucky Cat",
+    "image": "images/jhs-lucky-cat.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "JHS",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "Digital Tape DelayTL;DR:\nDigital delay pedal for electric guitar\nTurn on Tape mode to conjure the saturated, compressed sound of vintage tape delay\nDark control ranges from completely transparent delays to gritty, lo-fi delays\nSwitchable modulation with 2 modes — subtle and shimmery or deep and warbly\nTap tempo and Ratio controls\n\nPreface\nIn 2007, we released our very first delay pedal, the P!nk P@nther. That pedal was instantly recognizable with it’s bright pink case and shiny silver knobs...but not every cat has 9 lives and we only produced about 100 units before a chip set was no longer available, forcing the pedal out of production.  It was also quirky and unreliable, as many early designs can be when you’re getting your feet off the ground.  So, we decided to revisit this now beloved delay and rebuild it from the ground up. We now present a simple digital delay/echo that has everything you need and nothing you don’t.  This may be your lucky day!\nFeatures & Controls\nThe Lucky Cat delay has basic controls consisting of Time, Mix, Ratio, Repeats, Darken (EQ), and a Modulation toggle. Time is a manual control for the length of the repeats up to 1000ms. Mix controls the volume of the repeats, from fully clean signal to fully wet. Ratio controls the subdivision of the tap tempo with options of quarter note, dotted eighth note, eighth note, and triplets. Repeats controls the amount of repeats you will hear, from one repeat to infinite. The Lucky Cat will not do analog delay oscillation, but will do a musical digital oscillation when the repeats are maxed out and you play with the Time control. The Darken control works as an EQ for the repeats only. When fully clockwise the tone of the delay is the fully digital, unaffected sound. As you turn counter-clockwise the delay will darken in tone giving you an array of delay tones at your fingertips. The Modulation toggle has two modulation settings, Mod 1 and Mod 2, with the center setting disengaging the modulation. Mod 1 is a subtle modulation that gives the delay just the right amount of movement without being overwhelming. Mod 2 is a deeper modulation that gives you a seasick sound for those parts you want drenched in modulation.\nClean Digital VS Tape Delay \nOn the left side of the Lucky Cat, you’ll find a dip switch for Vintage Tape/Digital Clean tones. In Vintage Tape mode, you’ll find a more compressed slightly driven echo like vintage tape delays. In Digital Clean mode the echo is crisp and clean for those pristine and chirpy delay sounds. On the right side of the pedal, you’ll also find an external tap jack so you can control the tempo of your delay with an external tap pedal.\nSPECS\n\n1000ms of classic digital delay.\nOn board tap-tempo with ratio subdivision control.\nTwo modulation settings.\nEQ control for the repeats.\nTape/Digital modes.\nExternal tap jack.\nDiamond eyes.\n\nhttps://www.jhspedals.info/lucky-cat",
+    "hrid": "jhs-lucky-cat"
+}

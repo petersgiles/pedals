@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24423",
+    "name": "Purple Moon",
+    "image": "images/carl-martin-purple-moon.jpg",
+    "function": [
+        "Distortion",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$148 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "Fuzz and UnivibeTrue Bypass, all analog, dual speed Vibe with Fuzz\nhttps://carlmartin.com/purple-moon-2/",
+    "hrid": "carl-martin-purple-moon"
+}

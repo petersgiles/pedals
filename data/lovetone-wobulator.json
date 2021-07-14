@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27364",
+    "name": "Wobulator",
+    "image": "images/lovetone-wobulator.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Lovetone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 200,
+    "height": 185,
+    "details": "TremoloThe Wobulator is Lovetone's tremolo unit. It's a mono in/stereo out stompbox with separate enable switches for left and right.There are four selectable modes - Tremulant, Panner, Vibrato and Dual Trem.The first 3 use one LFO while Dual Trem brings in the second LFO, both LFO's have rate knobs. The modulator is split up into low and high frequencies (L and R) each with their own depth knob. A four way switch sets either triangle or square waveform for the two LFO's so in Dual Trem mode there are 4 combinations. Connecting a pulse into the trigger input allows synchronisation with a track.\nhttp://www.lovetone.com/wobulator.html",
+    "hrid": "lovetone-wobulator"
+}

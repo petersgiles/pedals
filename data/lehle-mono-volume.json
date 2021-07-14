@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13275",
+    "name": "MONO VOLUME",
+    "image": "images/lehle-mono-volume.jpg",
+    "function": [
+        "Volume",
+        "Utility"
+    ],
+    "manufacturer": "Lehle",
+    "current": "50 mA / ? V / AC/DC",
+    "cost": "",
+    "width": 100,
+    "height": 260,
+    "details": "Active Volume PedalThe Lehle Mono Volume is a volume pedal equipped with a precise magnetic sensor enabling it to operate almost wear-free. This sensor uses the Hall effect, named after Edwin Hall, to measure the strength of magnetic fields. In the Lehle Mono Volume the Hall sensor, which is made in Germany, is accurately calibrated to the built-in magnet and the control range of the pedal. The pedal moves only the magnet, the distance is measured by the Hall sensor which controls a VCA.\nA premium Blackmer® VCA (= Voltage Controlled Amplifier) from the United States replaces here in this case the mechanical potentiometer. The principle of the voltage-controlled amplifier is based on the fact that gain can be varied by the control voltage coming from the Hall sensor. This technique allows to operate more precisely than conventional mechanical potentiometers or optical sensors used by the standard volume pedals. In addition the potentiometer-typical noise and the complicated adjustment are eliminated.\nOver the entire control range the Lehle Mono Volume transmits the full sound spectrum of the connected instrument. The input and output impedance always stay the same, ensuring that there will be no damping of higher frequencies as with potentiometers.\nInternally, the input voltage coming from the power supply socket of the pedal is rectified, then filtered, stabilized and doubled to 18V, thus achieving a total dynamic range of 110 dB.\nThe volume control of the Lehle Mono Volume ranges from -92 dB to 0 dB - so from a virtually muted level to the same volume. With a potentiometer a gain up to +10 dB boost can be additionally adjusted.\nThe Lehle Mono Volume runs mechanically extremely smooth and steady, as it is equipped with low-friction bearings of a high-performance polymer, and there is no mechanical transmission of the pedal to other components. By means of an adjusting screw the mobility of the pedal can be modified very precisely.\nFurthermore, the Lehle Mono Volume has a buffered direct out which can supply a tuner, DAW or a second amp without affecting the sound.\nPolarity: positive or negative center.\n9 - 15 V DC or 7 - 12 V AC\nhttp://lehle.com/EN/Lehle-Mono-Volume/",
+    "hrid": "lehle-mono-volume"
+}

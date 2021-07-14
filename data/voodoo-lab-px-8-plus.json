@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12393",
+    "name": "PX-8 Plus",
+    "image": "images/voodoo-lab-px-8-plus.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 546,
+    "height": 64,
+    "details": "Voodoo Lab PX-8 PLUS is a true bypass programmable pedal switcher that transforms any pedalboard into a powerful yet easy to use tool for organizing and optimizing the performance of your effects and MIDI devices.ORGANIZE AND CONTROL YOUR EFFECTS\nEquipped with 8 audio loops and 8 premium quality silent-operation footswitches, the PX-8 PLUS allows independent switching for effect pedals and other audio devices without touching your pedals. The PX-8 PLUS features 36 user-created preset audio loop combinations that can be accessed at the touch of a button, converting your pedalboard into a virtual multi-effects system. For basic pedal switching functions, Stand Alone Instant Access mode allows each button to simply turn on and off each corresponding loop directly. PX-8 PLUS includes an additional audio loop insert point between loops 6 and 7, which is ideal for introducing a volume pedal or other audio device into the signal path.\nPRESERVE YOUR TONE\nEach of the 8 audio loops of PX-8 PLUS are true bypass and completely isolate each pedal, keeping disengaged effects, along with any unwanted noise they might add, completely out of the signal path for the purest tone possible. Voodoo Lab Quiet Switching™ technology and nitrogen-sealed gold-contact relays provide the most silent operation possible while selecting individual effects or switching between presets. The audiophile-quality output buffer of the PX-8 PLUS ensures your tone will be preserved even with long cable runs to your amplifier. \nPERFORM WITH CONFIDENCE\nHand-built in the USA and housed in a rugged aluminum chassis using the highest quality components possible, the PX-8 PLUS pedal switcher is built to meet the demands of professional musicians who depend upon trouble-free operation night in and night out under the most rigorous touring conditions. This legendary reputation for quality and reliability is why countless world-class musicians around the globe trust Voodoo Lab to power their performance.",
+    "hrid": "voodoo-lab-px-8-plus"
+}

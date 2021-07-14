@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24338",
+    "name": "Generation Loss",
+    "image": "images/chase-bliss-audio-generation-loss.jpg",
+    "function": [
+        "Chorus",
+        "Digital",
+        "Digital Glitch",
+        "Filter"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Old VHS tape degradation simulatorThis is a limited-edition pedal (total of 1000 units) that we only plan to offer one time.  It is only available here, exclusively on Reverb.com.  \nThis is the sound of nostalgia. \nChase Bliss Audio & Cooper FX are teaming up once again to take everything you love about the original Generation Loss while making some tweaks based on customer feedback and adding the additional control Chase Bliss is known for. \nGeneration Loss™ brings together all aspects of tape degradation and uses a combination of effects to hone in on that sound we’re all familiar with. \nGeneration Loss refers to the decrease in sound quality and introduction of noise and sound artifacts each time a copy is made on magnetic media such as tape. Random pitch fluctuations, filters to cut down on the signal’s bandwidth, sample rate reduction, and noise are all brought together in this pedal to mimic that sound without the need for a broken VHS player.\nPDF Manuals can be downloaded at the links below.\nMain: https://tinyurl.com/y48w7paf\nMIDI: https://tinyurl.com/yxw8skkp\nhttps://chaseblissaudio.com/shop-pedals/generation-loss",
+    "hrid": "chase-bliss-audio-generation-loss"
+}

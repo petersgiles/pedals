@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26188",
+    "name": "SLO limited edition",
+    "image": "images/walrus-audio-slo-limited-edition.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 63,
+    "height": 117,
+    "details": "",
+    "hrid": "walrus-audio-slo-limited-edition"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16393",
+    "name": "Pickle vibe",
+    "image": "images/lovepedal-pickle-vibe.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$146 Price in €",
+    "width": 38,
+    "height": 92,
+    "details": "",
+    "hrid": "lovepedal-pickle-vibe"
+}

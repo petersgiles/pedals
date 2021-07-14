@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18607",
+    "name": "Lyra-8",
+    "image": "images/soma-laboratory-lyra-8.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "SOMA Laboratory",
+    "current": "200 mA / 12 V / DC / Positive Center",
+    "cost": "$756 Price in €",
+    "width": 266,
+    "height": 266,
+    "details": "organismic synthesizerThe Lyra-8 is a performance-oriented, fully analog drone synthesizer with very organic sound. The instrument features eight oscillators, which can be used separately or stacked to FM voices. For further sound design, there are the Hyper LFO, a superbly sounding Mod Delay, and a beefy distortion circuit. Thanks to touch surfaces, the Lyra-8 can be played expressively. – A unique, very inspiring musical instrument. -(schneidersladen.de)\nhttps://somasynths.com/lyra-organismic-synthesizer/",
+    "hrid": "soma-laboratory-lyra-8"
+}

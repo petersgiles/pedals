@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28051",
+    "name": "Fault V2",
+    "image": "images/old-blood-noise-fault-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "31 mA / 9 V / DC / Negative Center",
+    "cost": "$209 Price in €",
+    "width": 119,
+    "height": 98,
+    "details": "Overdrive/Distortion/BoostTweaking the platform of our Fault overdrive/distortion, we’ve carved out room for greater gain range, voice control, and clipping options in the Fault Version 2. The Fault remains a great overdrive with footswitchable second gain stage and three band EQ, and now excels as a clean boost and tweakable high gain distortion as well.\nFault V2 features:\n- Master Volume, Gain, and Voice controls\n- Footswitchable second gain stage set by the Gain 2 knob\n- Sliders for Low, Mid, and High frequencies\n- Boost toggle to set range of Gain 1 knob from clean to mean\n- Crush toggle to add an additional post-EQ clipping stage\n- Relay bypass switching and standard 9VDC center negative power\nhttps://www.oldbloodnoise.com/pedals/fault-v2",
+    "hrid": "old-blood-noise-fault-v2"
+}

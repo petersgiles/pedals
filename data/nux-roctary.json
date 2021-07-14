@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17466",
+    "name": "Roctary",
+    "image": "images/nux-roctary.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Nux",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 108,
+    "height": 125,
+    "details": "Leslie Simulator & Polyphonic OctavePolyphonic Octave and Rotary effect with rotary speaker simulator\nThere are many great guitar players remembered with their guitar sound as their guitar skills. And most of them have incorporated the rotary speaker into their rigs.\nThe Roctary is a tribute for that legends and their sounds.\nIt offers adjustable speed, brake, horn and bass, overdrive and all the features about rotary effects with a polyphonic octave effects. It is not only about a classic rotary, the Roctary can be used to create unique organ sounds when combined the rotary effect with polyphonic octave and warm overdrive and it has a cabinet simulator that offers legendary “Leslie-Speaker” sound. It also compatible for keyboards, you can combine any sound you like and make the sound like a big organ!\nhttp://www.nuxefx.com/show-7-209-1.html",
+    "hrid": "nux-roctary"
+}

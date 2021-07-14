@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22055",
+    "name": "Lester G",
+    "image": "images/electro-harmonix-lester-g.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "Deluxe Rotary SpeakerThe ultimate rotary speaker emulator packed with goodies like a specially designed compression circuit to supercharge the rotating speaker effect on guitar. Lester G’s comprehensive controls include fully adjustable tube-style overdrive, Fast and Slow modes and an Acceleration control to dial in the rate at which the effect transitions between speeds. The sound of that giant wood cabinet will now fit on a pedalboard!\nQuick Specs\n\nUltimate rotary speaker emulator\nFully featured compressor built-in\nMono In/Mono or Stereo Out\nTube emulated overdrive\nAdjustable Fast and Slow modes\nAcceleration control\nHigh quality buffered bypass\nEHX 9.6VDC-200mA power supply included\nCurrent Draw: 100mA @ 9VDC\nDimensions in inches: 4.75(w) x 5.75(l) x 2.5(h)\nDimensions in mm: 121(w) x 146(l) x 64(h)\n\nhttps://www.ehx.com/products/lester-g",
+    "hrid": "electro-harmonix-lester-g"
+}

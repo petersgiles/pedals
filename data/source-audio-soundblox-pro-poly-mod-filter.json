@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24340",
+    "name": "Soundblox Pro Poly-Mod Filter",
+    "image": "images/source-audio-soundblox-pro-poly-mod-filter.jpg",
+    "function": [
+        "Filter",
+        "Phase Shifter",
+        "Wah"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 152,
+    "height": 178,
+    "details": "Wah, envelope, flanging and phasingThe Soundblox Pro Poly-Mod Filter features all the power and functionality of our award winning Soundblox Pro Bass Envelope Filter with specifically voiced effects, perfectly suited to guitar and keyboard. This meticulously engineered \"stompbox supreme\" provides exceptional flexibility, control, and sonic diversity, fulfilling all your envelope filter, wah-wah, and dubstep needs.\nThe Poly-Mod Filter's 23 filter effects include multiple variations on 2 and 4 Pole Low Pass, Single Peak, Triple Peak, Peak & Notch, and Phaser. Each filter is controllable via envelope follower (i.e. auto-wah), variable wave shape LFO (Low Frequency Oscillation), expression pedal, or our own Hot Hand effect controllers. It includes a variety of adjustable parameters including positive/negative filter sweeps, sweep range, attack and decay speed, frequency range, LFO rate (with tap tempo), and Q. Three footswitches and two preset banks hold six easily accessed user presets.\nhttps://www.sourceaudio.net/product_sbp_polymod_filter.html",
+    "hrid": "source-audio-soundblox-pro-poly-mod-filter"
+}

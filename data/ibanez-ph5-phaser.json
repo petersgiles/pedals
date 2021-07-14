@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33462",
+    "name": "PH5 Phaser",
+    "image": "images/ibanez-ph5-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$81 Price in €",
+    "width": 70,
+    "height": 120,
+    "details": "",
+    "hrid": "ibanez-ph5-phaser"
+}

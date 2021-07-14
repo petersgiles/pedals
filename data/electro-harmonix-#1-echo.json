@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11850",
+    "name": "#1 Echo",
+    "image": "images/electro-harmonix-#1-echo.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 121,
+    "details": "Digital DelayElectro-Harmonix has a reputation for quality delays and the #1 Echo is a prime example. The tone is ultra high quality up to two seconds of maximum warm analog-sounding delay. The feedback control sets the number of repeats and how fast they fade. The blend control lets you adjust the balance of echo volume with straight through signal, putting your sound exactly in the pocket you want.\nQuick Specs\n\nTrue bypass\nTough and compact die-cast chassis\n96DC-200BI power supply included\nCurrent Draw: 185mA\n\nhttp://www.ehx.com/products/number-1-echo",
+    "hrid": "electro-harmonix-#1-echo"
+}

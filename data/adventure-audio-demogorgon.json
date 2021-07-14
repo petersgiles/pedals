@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25081",
+    "name": "Demogorgon",
+    "image": "images/adventure-audio-demogorgon.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Reverb",
+        "Tremolo"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Filtered fuzz with a tremolo and reverb. AND NOW HERE IS HOW THIS THING WORKS:\nThe Tremolo and Reverb operate as one block and the Fuzz as another.\nWhen Bypass switch is engaged, the Fuzz is always on. The Gain controls the amount of fuzz, and the filter controls the frequency sweep.\nThe Deep and Rate knobs control the depth and speed of the tremolo. Both of which are capable of being expression controlled. The \"X\" switch let's you choose which one.\nOn the Reverb/Tremolo side, the Decay sets the overall reverb time and comes after the tremolo. The Order switch let's you choose if the fuzz is first or the Reverb/Tremolo.\nThe Upside Down Switch turns the tremolo/reverb section on and off and just lets you use the Fuzz.\nAt the bottom of the pyramid, we also included a volume control that goes to at least 11. Yeah. 11. Like in Spinal Tap.\nThis gnarly, inter-dimensional creature is handmade in Rochester, NY out of the highest quality components, with the utmost care. It also comes in a very special, handmade wood box that you'd be proud to keep your memories from the upside down locked up tight in.\nhttps://www.adventurepedals.com/pedals/demogorgon-v3",
+    "hrid": "adventure-audio-demogorgon"
+}

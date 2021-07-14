@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33368",
+    "name": "Fnord",
+    "image": "images/black-arts-toneworks-fnord.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$143 Price in €",
+    "width": 64,
+    "height": 120,
+    "details": "Octave fuzz / distortionThe Fnord is a octaver / fuzz type circuit with some twists. It blends a scrambler / octaver type fuzz with a more traditional fuzz / distortion. From zipper/Velcro tones to a full throated distortion, or a combination of the two. Add a sizzle to your leads, make a rhythm sound that harkens back to the days of screwdriver modified speakers, or a tight lightly gated distortion. If you can’t read between the lines, Fnord!\nhttps://www.blackartstoneworks.com/pedal/fnord/",
+    "hrid": "black-arts-toneworks-fnord"
+}

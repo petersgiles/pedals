@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26084",
+    "name": "Custom Line Acoustic Preamp",
+    "image": "images/harley-benton-custom-line-acoustic-preamp.jpg",
+    "function": [
+        "Chorus",
+        "Equalizer",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Reverb"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "110 mA / 9 V / DC / Negative Center",
+    "cost": "$88 Price in €",
+    "width": 128,
+    "height": 93,
+    "details": "Acoustic Preamp\nhttps://www.thomann.de/intl/bg/harley_benton_custom_line_acoustic_preamp.htm",
+    "hrid": "harley-benton-custom-line-acoustic-preamp"
+}

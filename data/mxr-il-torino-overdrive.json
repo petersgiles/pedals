@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11764",
+    "name": "il Torino Overdrive",
+    "image": "images/mxr-il-torino-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$137 Price in €",
+    "width": 57,
+    "height": 108,
+    "details": "Boost/Overdrive from the MXR Custom Shop\nhttps://www.jimdunlop.com/product/csp033-7-10137-07970-0.do",
+    "hrid": "mxr-il-torino-overdrive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12119",
+    "name": "FZ-2 Hyper Fuzz",
+    "image": "images/boss-fz-2-hyper-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$112 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "FuzzThe FZ-2 is a distortion pedal with three modes: Fuzz 1, Fuzz 2 and Gain Boost. Fuzz 1 is used for a “booming” sound, Fuzz 2 for treble sound and Gain boost when the FZ-2 is used together with amp distortion. The FZ-2 attempts to create a fuzz sound reminiscent of the 60’s and 70’s but it also has the possibility to create a sound that is more in the grunge direction. The FZ-2 can also be used purely as a gain booster with no added distortion.\nAbout 35 000 FZ-2 pedals was produced. There are no known production changes.\nhttp://www.bossarea.com/boss-fz-2-hyper-fuzz/",
+    "hrid": "boss-fz-2-hyper-fuzz"
+}

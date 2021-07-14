@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12109",
+    "name": "Vitriol",
+    "image": "images/mantic-effects-vitriol.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 90,
+    "height": 115,
+    "details": "variable high-gain distortionvariable high-gain distortion with low and high pass filters capable of gyration based frequency boost.\nFeatures:\n-Heavy duty mechanical footswitch\n-True Bypass\n-Only premium quality components, precision soldered and wired with passion\n-\"Dry\" signal output jack\n-9V DC center-negative barrel jack\n-13mA current draw\nhttp://www.manticeffects.com/products/vitriol",
+    "hrid": "mantic-effects-vitriol"
+}

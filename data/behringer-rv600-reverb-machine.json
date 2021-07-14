@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12732",
+    "name": "RV600 Reverb Machine",
+    "image": "images/behringer-rv600-reverb-machine.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Reverb Modeling Effects PedalFrom sopping-wet spring reverb to state-of-the-art echo, the complete evolution of this timeless, haunting effect awaits you in the REVERB MACHINE RV600. Dedicated Mix, Decay, Time, Type, Tone and Trails controls ensure your tone won’t just fade away – it will be etched in your audience's memory!\nhttps://www.behringer.com/product.html?modelCode=P0541",
+    "hrid": "behringer-rv600-reverb-machine"
+}

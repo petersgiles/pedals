@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11819",
+    "name": "Turbo Tuner ST-300 Mini",
+    "image": "images/sonic-research-turbo-tuner-st-300-mini.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Sonic Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 49,
+    "height": 94,
+    "details": "Tuner",
+    "hrid": "sonic-research-turbo-tuner-st-300-mini"
+}

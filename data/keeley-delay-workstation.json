@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12366",
+    "name": "Delay Workstation",
+    "image": "images/keeley-delay-workstation.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 119,
+    "height": 99,
+    "details": "2-in-1 Reverb and delay workstation pedalThe Keeley Delay Workstation is a powerful, dual DSP processor delay and reverb machine.  Combining Keeley’s unique delay and reverb patches in an incredibly small package, the Delay Workstation is an extremely creative tool.\nWith the Delay Workstation you can combine vintage slapback and multi-head tape echoes with Spring or plate reverbs to create some instantly classic sound spaces.  You can set the Delay Workstation for warm sounding analog delays and then use the chamber or hall reverbs to create a huge warm and endless space.  Need rhythmic delays with some shimmer?  It’s here.  Always wanted to have the perfect ducking delay?  One that backs out of the way until your done with your notes, then the echoes fill in. “Ducking” is a very intelligent way for clearing the clutter in a sound that would normally be overrun with delays and echoes.   Wanna get twisted?  Try the Pitch delay into our Flanged Reverb.\nThe Reverb side of the Delay Workstation contains all of the most common reverbs and some delays. The Morph control allows users to put creative twists on the reverb patches like spring tension, shimmer, and random flanging.  There are two delays included in the reverb bank.  You can use these to setup very cool ping-pong delays and many other creative rhythmic patterns.\nhttps://robertkeeley.com/product/delay-workstation/",
+    "hrid": "keeley-delay-workstation"
+}

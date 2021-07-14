@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15761",
+    "name": "Mosquite Blender Expressio",
+    "image": "images/onecontrol-mosquite-blender-expressio.jpg",
+    "function": [
+        "Expression",
+        "Switch",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$152 Price in €",
+    "width": 110,
+    "height": 60,
+    "details": "Expression Pedal Compatible BlenderWith the original \"Mosquite Blender\", there was only a knob available to control the amount of saturation. With the Expressio, you can connect an expression pedal to have full hands free control of your desired saturation.  Evidently, this blender still works without an expression pedal.\nThe Mosquite Blender Expressio was a direct result of customer feedback. People wanted to be able blend in effects gradually or just be able to have different amounts of saturation throughout a live performance. An expression pedal input was the best solution.\nAdditionally, a selectable BJF Buffer was installed to add even more versatility to this pedal.\nWith an amp's Effects Loop \nJust like the standard Mosquite Blender, the Expressio version can be used with an effects loop on most amplifiers. Since you have the ability to control the amount of saturation, this is a great tool for fine-tuning your amp's tone during soundcheck or recording sessions. \n●9VDC INPUT：As with most pedals, the Expressio takes a standard center negative power supply. \n●BLEND KNOB : Use this knob to control the amount of saturation you'd like on your effect. \n●INPUT JACK : Connect your cable into this input from instrument or other sound source. \n●OUTPUT JACK：After using the Expressio, run a cable out of this jack to go to your next desired amp or effect. \n●OUT TO LOOP(SEND)：This output will run to desired effect you wish to use with the Expressio. \n●IN FROM LOOP(RETURN)：The output of the effect will run back into this input. \n●POLARITY SWITCH：In case of phase cancelation, use this switch to reverse polarity\n●BJF BUFFERSWITCH：Use the switch to control whether or not you'd like the BJF buffer circuit used. \n●EXPRESSION PEDAL INPUT：When an expression pedal is connected into this input the knob control is bypassed and saturation control is only controlled by the connected expression pedal. \n●FOOT SWITCH：turn on or off the Expressio. \nhttp://www.one-control.com/mosquite-blender-expressio.html",
+    "hrid": "onecontrol-mosquite-blender-expressio"
+}

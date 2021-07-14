@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12973",
+    "name": "Outward",
+    "image": "images/cooper-fx-outward.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Multieffect",
+        "Sampling"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 94,
+    "height": 102,
+    "details": "Outward is a unique delay and time stretching samplerOutward is a unique delay and time stretching sampler. There are two modes, timestretch and delay. Each of these modes has three further sub-modes\nTime Stretch\n1 second of audio is recorded into the buffer. Playback is triggered by stepping on the footswitch. \nMode 1 - forward stretch \nMode 2 - ping pong stretch (plays forward then reverse) \nMode 3 - reverse stretch\nDelays\nThe first two delay modes sample your audio and hold the sample for a duration set by the speed knob. For these two modes the footswitch allows the user to freeze the audio in the delay memory. \nIn envelope mode, audio is recorded when the input signal goes above a certain threshold and plays back indefinitely or until the envelope is triggered again. The footswitch in envelope mode turns the sensitivity all the way down so no incoming audio can overwrite the audio in the delay memory.\nMode 1 - Smooth \nMode 2 - Choppy \nMode 3 - Envelope\nhttps://www.cooper-fx.com/product-page/outward",
+    "hrid": "cooper-fx-outward"
+}

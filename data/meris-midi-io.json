@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19117",
+    "name": "MIDI I/O",
+    "image": "images/meris-midi-io.jpg",
+    "function": [
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "Meris",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 94,
+    "height": 66,
+    "details": "",
+    "hrid": "meris-midi-io"
+}

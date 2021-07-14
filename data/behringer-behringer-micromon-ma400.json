@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17034",
+    "name": "Behringer Micromon MA400",
+    "image": "images/behringer-behringer-micromon-ma400.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "150 mA / 12 V / AC",
+    "cost": "$25 Price in €",
+    "width": 102,
+    "height": 64,
+    "details": "Ultra-Compact Monitor Headphone AmplifierUltra-compact monitor headphone amplifier for studio and stage applications\n    Personal ''more me'' mixer - mix a mic plus a monitor signal and hear them via headphones\n    Flexible Mic In and Mic Through connectors plus Ground Lift switch\n    Stereo Monitor input with dedicated Monitor Level control and Mono/Stereo switch\n    High-power headphone output on 1/4'' and 1/8'' jack connectors\n    DC 12 Vadapter included\n    High-quality components and exceptionally rugged construction ensure long life\n    Conceived and designed by BEHRINGER Germany\nThe ultra-compact MICROMON MA400 is the ideal personal monitor mixer for the performer who always asks for \"more me.\"\nConnections\nThe MA400 features XLR THRU jacks and provides superb noise-free operation. Just connect your mic to the MIC INPUT and send a line from the MIC THRU to your main mixer. You can even use studio-grade condenser mics, as the MA400 will pass +48 V phantom power, if your mixer is so equipped. The PHONES jacks accept both 1/4\" and 1/8\" headphone and earbud connections, making the MA400 ideal for hardwired IEM (in-ear-monitor) applications, such as singing drummers and keyboardists. The MA400 comes with a 12 V DC power supply and an LED to indicate when it is powered up.\nMasterful Monitor Mixing\nCapable of stereo or mono operation, the MA400 is a powerful little mixer that allows you to control two independent sources, a microphone and the monitor feed from your main mixer. Simply adjust the MON LEVEL control to a comfortable setting and then dial in all the \"me\" you want with the MIC LEVEL control.\nSmall and Superb\nThe MA400 is an ideal solution for the \"more me\" syndrome. Small enough to fit in your pocket - with a price tag to match - check out the MICROMON MA400 at your BEHRINGER dealer today.\nhttps://www.behringer.com/product.html;jsessionid=7174AE166C204A4AE6E0ECA6D94DDB8E?modelCode=P0491",
+    "hrid": "behringer-behringer-micromon-ma400"
+}

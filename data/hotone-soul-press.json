@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12012",
+    "name": "Soul Press",
+    "image": "images/hotone-soul-press.jpg",
+    "function": [
+        "Utility",
+        "Controller",
+        "Expression",
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 63,
+    "height": 138,
+    "details": "Volume, Wah & Expression PedalThe Hotone Soul Press is a 3-in-1 pedal in a smart compact size. The unit features Wah, Volume,\nand Expression modes. [Hotoneaudio.com]\nhttp://www.hotoneaudio.com/products/press/Vol_Exp_Wah_Pedal/2016/1114/195.html",
+    "hrid": "hotone-soul-press"
+}

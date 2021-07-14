@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16551",
+    "name": "BigShot PB1",
+    "image": "images/radial-bigshot-pb1.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 97,
+    "height": 91,
+    "details": "Buffer / BoosterThe Radial BigShot PB1 is a combination signal buffer and power booster designed to provide exceptional sonic performance in a compact yet easy to use pedal.\nUnlike most buffers that employ integrated circuit chips (ICs) that color the tone and give buffers a bad name, the BigShot PB1 employs the same 100% discrete class-A circuitry that is used in the award winning Radial JD7 Injector and employed by many of the world's most discerning guitarists including Carlos Santana, John Petrucci, Steve Vai, Neil Schon and John Mayer. The JD7's discrete class-A circuit is preferred over off-the-shelf class-B chips due to reduced zero-cross distortion, improved phase response and the resulting smooth Bessel curve that delivers beautifully cascading even-order harmonics and natural warmth. This is augmented with Drag™ Control load correction that lets you adjust the impedance on your pickups and dial-in the tone and feel as if connected directly to your amp.\nhttp://www.tonebone.com/bigshotpb1.php",
+    "hrid": "radial-bigshot-pb1"
+}

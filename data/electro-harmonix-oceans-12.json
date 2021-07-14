@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29139",
+    "name": "Oceans 12",
+    "image": "images/electro-harmonix-oceans-12.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$238 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "Dual Stereo ReverbThe Oceans 11’s big brother with even more reverbs and functionality. It features two simultaneous, independent, stereo reverb engines, series and parallel control for the dual reverbs, 24 presets and advanced I/O allowing for stereo in/out or mono send/return with pre and post reverb options. The pedal also includes a new Tide Control for stereo image alteration, a Lo-fi Control, an infinite attenuation control and an input jack for external expression and 3-button footswitch control.\nA Tails switch provides a choice of whether the reverb effect fades out naturally or stops immediately when the pedal is switched to bypass. In most settings the pedal is also capable of producing infinite reverb which can be played over with a different reverb effect. Comes equipped with a standard EHX 9.6DC 200mA power supply.\nThe Oceans 12’s reverbs are:\n• ROOM – two modes: reverb algorithms modeled after a lively room and a spacious performance hall\n• SPRING – two modes: vintage 1962 Fender® 6G15 tube reverb emulation and the spring algorithm from the EHX Holy Grail\n• PLATE – two modes: two emulations of the smooth, metal plate reverb often used in high-end recording studios during the 1960s and ‘70s\n• REVERSE – two modes: a reverse reverb effect as well as true reversed echoes\n• ECHO – three modes: a digital delay with various echo rhythms feeding into a plate reverb\n• TREM – three modes: a classic, periodic volume envelope with various shapes applied to both the wet and dry mix of a hall reverb\n• MOD – three modes: combinations of chorus and flange reverbs that create rich reverb tails\n• DYNA – three dynamic, experimental reverb algorithms: swell, gate and duck\n• AUTO-INF – three modes: auto-infinite reverb (w/optional chorus or flange) that “listens” to your playing and crossfades to a new reverb wash upon detection of newly struck notes.\n• SHIMMER – two modes: two configurations of a rich octave-shifted reverb wash\n• POLYPHONIC – two modes: two configurable bi-directional pitch shifts that add dimensionality to the reverb tail\n• RESONANT – two modes: reverb excited by tunable resonators and configurable self-oscillating filters on the reverb tail\nhttps://www.ehx.com/products/oceans-12",
+    "hrid": "electro-harmonix-oceans-12"
+}

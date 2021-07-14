@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19542",
+    "name": "MultiDrive",
+    "image": "images/ebs-multidrive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Universal Bass Overdrive PedalThe EBS MultiDrive is a ”Class A” overdrive pedal, capable of producing sustain, overdrive and many other useful ”tube amp” distortion sounds.",
+    "hrid": "ebs-multidrive"
+}

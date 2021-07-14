@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12085",
+    "name": "AD-6 Analog Delay TC-31",
+    "image": "images/eno-music-ad-6-analog-delay-tc-31.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "http://www.ex-amp.com/?p=149",
+    "hrid": "eno-music-ad-6-analog-delay-tc-31"
+}

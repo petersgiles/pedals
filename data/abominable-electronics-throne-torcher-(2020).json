@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33349",
+    "name": "Throne Torcher (2020)",
+    "image": "images/abominable-electronics-throne-torcher-(2020).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Chainsaw distortion\nNew for 2020 - we've updated the clipping footswitch to a relay based soft-touch to completely eliminate mechanical switches and improve the lifetime of the pedal. *\n\nHM2 but better. Now with a clean blend & Clickless bypass switch + top mounted jacks. \nControls include: Clean Blend, Low, Mid, High, Volume, & Distortion. 2nd footswitch engages diode clipping which adds not only a volume boost but also thickens up that normally thin chainsaw tone, this is great for leads & heavier parts in songs. \nhttps://www.abominablepedals.com/collections/pedals/products/throne-torcher",
+    "hrid": "abominable-electronics-throne-torcher-(2020)"
+}

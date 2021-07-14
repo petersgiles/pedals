@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17482",
+    "name": "Recino",
+    "image": "images/keeley-recino.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Latin for echo, the RECINO Digital Delay is a super clean digital delay with up to one full second in delay time. It's an FV-1 Spin Semi-conductor-based design, so you know it has fantastic audio quality and response. Keeley has taken the design and given it ultra low noise, real-world usable tones and effects that are uber-dependable. This means you get no unwanted distortion from the DSP processor and that the audio is treated in a way that doesn't sound glassy or sterile. As with all Keeley Engineered products, this stomp box is easy to set and forget.",
+    "hrid": "keeley-recino"
+}

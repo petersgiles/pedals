@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19508",
+    "name": "Super Intelligent Footswitch",
+    "image": "images/darkglass-electronics-super-intelligent-footswitch.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 220,
+    "height": 45,
+    "details": "Footswitch for the Darkglass bass ampsAllows easy toggling between the Clean channel, Vintage Microtubes and Microtubes B3K overdrives and even has a handy Mute button without having to go to the amp.\nhttps://www.darkglass.com/creations/super-intelligent-footswitch/",
+    "hrid": "darkglass-electronics-super-intelligent-footswitch"
+}

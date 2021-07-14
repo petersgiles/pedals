@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13507",
+    "name": "Sound Destruction Device v3",
+    "image": "images/recovery-effects-and-devices-sound-destruction-device-v3.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 90,
+    "height": 116,
+    "details": "Distortion and notch filtersSOUND DESTRUCTION DEVICE V3 (Standard Version, pearl)\nTotal Sonic Destruction, Filter, and Oscillation\nTotal sonic destruction tool for guitar, or anything with a 1/4″ jack you want to plug into it. It distorts, filters, oscillates, glitches, clips, and does things to your instrument that naturally should not happen. From super thick fuzz, to starved splatty sounds, to wild oscillation that can be controlled with an expression pedal, the Sound Destruction Device sounds like nothing you’ve ever heard. \nhttp://www.graigmarkelmusic.com/Graig_Markel_Music/Sound_Destruction_Device.html",
+    "hrid": "recovery-effects-and-devices-sound-destruction-device-v3"
+}

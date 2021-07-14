@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26673",
+    "name": "Ironfinger",
+    "image": "images/axel-ritt-ironfinger.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Axel Ritt",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 92,
+    "height": 118,
+    "details": "Distortion pedal with a full parametric mid equalizerThe IRONFINGER Distortion Pedal is based on the exact specifications of GRAVE DIGGER guitarist Axel Ritt. After 2 years of development together with Roland Schmidt of Pushking Pedals, a second to none distortion pedal with a full parametric mid equalizer has been created. The pedal is the only pedal in the world that has a fully parametric mid-tone control and thus enables an unprecedented sound variety.\nhttp://www.ironfinger.de/",
+    "hrid": "axel-ritt-ironfinger"
+}

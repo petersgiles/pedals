@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15559",
+    "name": "FOD 3 overdrive",
+    "image": "images/kokko-fod-3-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Kokko",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$28 Price in €",
+    "width": 53,
+    "height": 94,
+    "details": "overdrive screamer pedal",
+    "hrid": "kokko-fod-3-overdrive"
+}

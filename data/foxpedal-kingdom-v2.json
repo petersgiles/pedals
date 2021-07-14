@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17523",
+    "name": "Kingdom V2",
+    "image": "images/foxpedal-kingdom-v2.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Transparent OverdriveNew in V2: Top-Mount Jacks and Soft-Touch Relay Bypass Switching\nThe Kingdom is a transparent overdrive that adds unicorns and fairy dust to your signal. Joking aside, it really brings to life your guitar and your tube amplifier in ways you've never experienced. \nThe Kingdom isn't quite a Klone in the strictest sense. The circuit design is very similar to the original Klon Centaur and retains many of its characteristics while including some enhancements. Unlike the Klon, the entire audio chain is run on a higher voltage spread allowing for more headroom. A clipping switch has been added to allow for different hard clipping options. An overdrive switch allows you to add soft clipping to the feedback path of the IC, allowing for earlier and smoother breakup. Finally, the true-bypass footswitch allows you to keep your signal chain completely clean when its not engaged.\nFeatures:\nOverdrive and clipping options\nHandwired Construction \nQuality hand-wired open frame jacks\nPower: Standard 9 volt DC/ negative center, NO internal battery option.\nSoft-touch Relay Bypass Footswitch\n\nCurrent Draw: ~40mA\nhttps://foxpedal.com/products/kingdom-v2",
+    "hrid": "foxpedal-kingdom-v2"
+}

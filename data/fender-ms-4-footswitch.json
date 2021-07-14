@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16537",
+    "name": "MS-4 Footswitch",
+    "image": "images/fender-ms-4-footswitch.jpg",
+    "function": [
+        "Utility",
+        "Controller"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 280,
+    "height": 90,
+    "details": "4-Button Footswitch for Mustang amps\nhttps://shop.fender.com/en-US/parts/amp-parts/footswitches/4-button-footswitch-mustang-series-amplifiers/0080996000.html",
+    "hrid": "fender-ms-4-footswitch"
+}

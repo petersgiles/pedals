@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25573",
+    "name": "Ampero One",
+    "image": "images/hotone-ampero-one.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Hotone",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 273,
+    "height": 143,
+    "details": "Amp Modeler/Effects Processor/USB Audio Interfacempero One represents the uncompromised, widely praised Ampero sound in a smaller case. Powered by the new-gen CDCM HD (Comprehensive Dynamic Circuit Modeling High Definition) and F.I.R.E. (Field Impulse Response Enhancement) system, Ampero One offers you all the real sounds of rock past and present. The 4-inch hi-def color touch screen and optimized UI provides you smoother, smarter experience.\nCOMING SOON\nhttps://www.hotoneaudio.com/products/multi-effects/ampero-one",
+    "hrid": "hotone-ampero-one"
+}

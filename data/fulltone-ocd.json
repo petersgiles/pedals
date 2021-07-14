@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11782",
+    "name": "OCD",
+    "image": "images/fulltone-ocd.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 68,
+    "height": 118,
+    "details": "Overdrive/DistortionFulltone OCD Obsessive Compulsive Drive Pedal Features:\nGreat overdrive tones for electric guitar\nHuge palette of available sounds\nSwitchable hi- and lo-peak gain settings\nRedesigned output buffer that resists loading caused by pedals further in your chain\nUpdated Class A-configured JFET input section with higher input impedance for better dynamic response\nSwitchable Enhanced Bypass or True Bypass switching modes, with no pops or clicks in either mode\nhttps://www.fulltone.com/products/ocd-v2",
+    "hrid": "fulltone-ocd"
+}

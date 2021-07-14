@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26292",
+    "name": "Microcosm",
+    "image": "images/hologram-microcosm.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Dual/Stereo",
+        "Looper",
+        "MIDI",
+        "Multieffect",
+        "Reverb",
+        "Sampling"
+    ],
+    "manufacturer": "Hologram",
+    "current": "400 mA / 9 V / DC",
+    "cost": "$449 Price in €",
+    "width": 190,
+    "height": 127,
+    "details": "Micro-Looping Granular DelayMicrocosm rearranges and reinterprets your sound in new and exciting ways using a variety of granular sampling, delay, and looping techniques. Cascading microloops can be locked into tight tap-tempo synced rhythms, diffused into glacial ambient textures, woven into hypnotic drones, and much more.\nFEATURE OVERVIEW\n    11 unique granular and looping effects with 44 preset variations\n    Stereo Input/Output\n    Expression Input, mappable to many controls\n    MIDI In/Out/Thru, clock synchronization\n    60 sec. Phrase Looper with many configuration options\n    16 User Preset slots for saving loops and settings\n    Stereo Reverb (with 4 reverb styles) \n    “Hold” sampler function to freeze effects and patterns\n    Adjustable Pitch Modulation\n    Resonant Lowpass Filter\n    Choose between True Bypass Switching / Buffered Bypass with trails\n    Tap Tempo\nA limited number of Microcosms are available for pre-order now, shipping in April 2020. \nhttps://www.hologramelectronics.com/microcosm",
+    "hrid": "hologram-microcosm"
+}

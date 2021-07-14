@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21089",
+    "name": "The Ripple",
+    "image": "images/jam-pedals-the-ripple.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 68,
+    "height": 118,
+    "details": "PhaserPhaser",
+    "hrid": "jam-pedals-the-ripple"
+}

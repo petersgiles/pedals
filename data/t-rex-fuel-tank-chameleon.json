@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16496",
+    "name": "Fuel Tank Chameleon",
+    "image": "images/t-rex-fuel-tank-chameleon.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 160,
+    "height": 80,
+    "details": "Power Supply5 outputs each with 300 mA (= 1500 mA)\nOutput 5/6 choice of either 9/12v DC or 12v AC\nChoice of 9V DC, 12V DC, 12V AC or 18VDC -150mA\nNoise-cancelling galvanic isolated outputs\nTraditional EI Transformer\nSeveral different voltage types served\nCurrent doubler = the possibility of as much as 600 mA\nSwitchable 115V or 230V\nCompact, rugged, road-ready design",
+    "hrid": "t-rex-fuel-tank-chameleon"
+}

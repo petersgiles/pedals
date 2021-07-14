@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11888",
+    "name": "MS-3",
+    "image": "images/boss-ms-3.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Multieffect",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 275,
+    "height": 97,
+    "details": "Multi Effects SwitcherThe MS-3 Multi Effects Switcher is a new-concept pedalboard solution that maximizes your creative options by combining a world-class multi-effects engine and multi-pedal switcher in one small, dedicated unit. Now, anyone can put together a professional effects system that’s incredibly compact, extremely light, and versatile enough to achieve nearly any sound imaginable. The MS-3 is a sonic powerhouse capable of running six internal pedal effects at once while seamlessly integrating three of your favorite external pedals. It also offers deep rig control capabilities, allowing you to switch amp channels, adjust effects in real time, work with MIDI devices, and more. With the MS-3, it’s easy to create a portable board or fly rig without the compromises associated with traditional loop switchers and all-in-one multi-effects units.\nhttps://www.boss.info/us/products/ms-3/specifications/",
+    "hrid": "boss-ms-3"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33238",
+    "name": "Rattler Bass",
+    "image": "images/jam-pedals-rattler-bass.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "18 mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 75,
+    "height": 120,
+    "details": "Rat-Inspired Distortion\nhttps://www.jampedals.com/rattler-bass/",
+    "hrid": "jam-pedals-rattler-bass"
+}

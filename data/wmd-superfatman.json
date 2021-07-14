@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29081",
+    "name": "SuperFatman",
+    "image": "images/wmd-superfatman.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "WMD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 89,
+    "height": 114,
+    "details": "Filter; Envelope Follower, BassWMD Super Fat Man stompbox\nResonant, LP/BP/HP Filter, with Envelope Follower and Expression Pedal / CV input.\nhttps://wmdevices.com/products/protostar",
+    "hrid": "wmd-superfatman"
+}

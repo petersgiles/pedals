@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13751",
+    "name": "Panther Cub Delay V1.5",
+    "image": "images/jhs-panther-cub-delay-v1.5.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$436 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Analog Delay",
+    "hrid": "jhs-panther-cub-delay-v1.5"
+}

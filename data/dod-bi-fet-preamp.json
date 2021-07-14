@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22301",
+    "name": "Bi-FET Preamp",
+    "image": "images/dod-bi-fet-preamp.jpg",
+    "function": [
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 127,
+    "details": "DOD FX10 Bi-FET PreampThe FX10 Bi-FET Preamp was derived from DOD's 210 FET Preamp and 410 Studio Bifet Preamp. Designed as a preamp for acoustic instruments (such as piezo-equipped acoustic-electric guitars), the FX10 can also serve as a \"clean boost\" pedal for electric guitar. Its Tone control allows either bass or treble boost, with the center position providing a flat response. The FX10 was one of the original ten DOD FX-series pedals that debuted in 1982, and remained in production through at least 1995.\nNotable IC chip: one TLO62CP dual op-amp, with half used for the Level control (and functioning as a buffer) and the other half used for the Tone control; each control used its own J113 (or equivalent) field-effect transistor (FET)\nhttp://www.americaspedal.net/fx10/",
+    "hrid": "dod-bi-fet-preamp"
+}

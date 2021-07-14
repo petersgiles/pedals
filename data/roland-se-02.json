@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28908",
+    "name": "SE-02",
+    "image": "images/roland-se-02.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "2000 mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 300,
+    "height": 129,
+    "details": "Collaborative effort by Roland and Studio ElectronicThe SE-02 represents a collaborative effort by Roland and Studio Electronic\nhttps://www.studioelectronics.com/products/synths/se-02/",
+    "hrid": "roland-se-02"
+}

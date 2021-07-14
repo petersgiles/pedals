@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14342",
+    "name": "Dual Expression pedal",
+    "image": "images/electro-harmonix-dual-expression-pedal.jpg",
+    "function": [
+        "Controller",
+        "Expression"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "Pedal is passive",
+    "cost": "$73 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "Dual-output Expression pedalDual-output design gives hands-free control of two functions or two separate devices from a single source.\n\nDual-output design\nBoth EXP outputs have independent range and reverse. These are important features competitors leave out and definitely affect the pedal's usability.\nBoth EXP outputs feature a polarity switch for maximum compatibility with the widest range of gear. This is an essential feature and competitors only provide a single polarity switch for one of their pedal's outputs.\nVery affordable, rugged and reliable\nTwo TRS cables included\n\nhttps://www.ehx.com/products/dual-expression-pedal",
+    "hrid": "electro-harmonix-dual-expression-pedal"
+}

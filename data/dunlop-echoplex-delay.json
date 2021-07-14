@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11448",
+    "name": "Echoplex Delay",
+    "image": "images/dunlop-echoplex-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$289 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Tape-style echoThe Echoplex Delay delivers the legendary tones of the EP-3 tape echo unit with a hi-fi all-analog dry path and a simple control interface, including an Age control to \"age\" your repeats. No tape cartridges required!\nThis pedal can be powered by the included Dunlop ECB003 9-volt adapter, or the DC Brick™, Iso-Brick™, and Mini Iso-Brick™ power supplies.\nhttps://www.jimdunlop.com/product/ep103-7-10137-08166-6.do",
+    "hrid": "dunlop-echoplex-delay"
+}

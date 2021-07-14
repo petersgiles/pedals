@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24357",
+    "name": "EB-10",
+    "image": "images/walrus-audio-eb-10.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "EQ/Boost/Preamp",
+    "hrid": "walrus-audio-eb-10"
+}

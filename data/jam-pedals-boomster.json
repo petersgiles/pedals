@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21046",
+    "name": "Boomster",
+    "image": "images/jam-pedals-boomster.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$133 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "The Boomster will cleanly boost your signal and grant you massive tone !\"As someone who likes a simple pedal that does one thing great instead of a dozen things poorly, I love the Boomster. One knob and one knob only! This pedal works great to beef up my signal with a very clean and full-sounding boost. Lately I’m finding it especially effective with my acoustic guitars, but it’s equally great when I’m rocking electric and want more gain without adding a layer of fuzz. Boomster makes my sound loud and clear ! \" Lee Ranaldo\nhttps://www.jampedals.com/mini-boomster/",
+    "hrid": "jam-pedals-boomster"
+}

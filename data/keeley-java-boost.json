@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24296",
+    "name": "Java Boost",
+    "image": "images/keeley-java-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 68,
+    "height": 112,
+    "details": "Treble booster / Rangemaster clone\nhttps://robertkeeley.com/shop/product/java-boost/",
+    "hrid": "keeley-java-boost"
+}

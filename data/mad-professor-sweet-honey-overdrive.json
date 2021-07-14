@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11732",
+    "name": "Sweet Honey Overdrive",
+    "image": "images/mad-professor-sweet-honey-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 61,
+    "height": 110,
+    "details": "OverdriveMad Professor Sweet Honey Overdrive (SHOD) is a touch sensitive low gain overdrive pedal hand made in Finland.\nIt is designed to overdrive distorted amplifiers and give dynamically controlled light overdrive on clean sounds.\nDistortion level can be controlled by pick attack and pickup strength. Harder picking for overdrive and softer for cleaner tone.\nWith the unique Focus control you can adjust the feel and dynamics of the pedal as well as overal EQ.\nTurning Focus CCW you need to play harder to get distortion and the tone is softer, great for jazz and blue.\nFocus turned CW gives a slight treble boost and earlier distortion.\nThis type of overdrive has previously only been found in the BJF Honey Bee but is now presented in Mad Professor version. The Mad Professor SHOD has a tighter sound and is more versatile as it was designed to work with all kinds of guitars and amplifiers.\nLike all Mad Professor pedals, SHOD is hand made in Finland using only premium components, to give years of trouble free operation with superb musical tone.\nControls\nVOLUME: sets the output volume\nDRIVE: controls the amount of overdrive.\nFOCUS: Controls how easily the circuit distorts as well as adjusting overall EQ. Turning CCW gives less distortion and a mellow effect, turning CW gives a slight treble boost and earlier distortion. Good starting point is 11 o’clock.\nElectrical specifications\nSupply voltage range: 7,5 to 18VDC\nCurrent consumption at 9VDC: 5 mA\nInput inpedance: 260K\nOutput impedance: 25K Ohm’s\nComplete bypass (true bypass)\nhttp://www.mpamp.com/factory-pedals/sweet-honey-overdrive-factory-pedal/",
+    "hrid": "mad-professor-sweet-honey-overdrive"
+}

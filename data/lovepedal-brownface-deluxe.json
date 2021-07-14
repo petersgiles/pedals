@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19583",
+    "name": "Brownface Deluxe",
+    "image": "images/lovepedal-brownface-deluxe.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 62,
+    "height": 112,
+    "details": "",
+    "hrid": "lovepedal-brownface-deluxe"
+}

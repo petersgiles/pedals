@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24721",
+    "name": "B7K Microtubes (V2)",
+    "image": "images/darkglass-electronics-b7k-microtubes-(v2).jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 223,
+    "height": 253,
+    "details": "Bass Overdrive",
+    "hrid": "darkglass-electronics-b7k-microtubes-(v2)"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16986",
+    "name": "WIIO",
+    "image": "images/catalinbread-wiio.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "Hiwatt emulationSheer raw power. Dynamics that feel like a roundhouse kick to the chest. Incredibly responsive clean up with the flick of the wrist. This is the WIIO.\nThe WIIO is an overdrive inspired by the powerfully unforgiving British amps from the ‘70s. Its all right there at your fingertips - your picking attack determines how much gain is delivered to the speakers. There is none of the typical compression found in most other overdrives to hide behind or to soften the blow - this is brass knuckle to the jaw type sonic impact we‘re talking here - you literally feel as though you plugged straight into the power section.\nLike the amps, the WIIO has a wide freq spread so if your amp can deliver you’ll be rewarded with crisp clear highs and a very full tight low end. Lower gain settings are very clean and linear - you can hear every pick stroke and fingerprint, and the headroom allows for some very rich sounds when using modulation pedals. As you crank up the Gain the breakup is aggressive, powerful, punchy, and immediate then it decays quickly to a full clean sound. The midrange bark particular to the amps on which we based the WIIO is right there too as you crank it up. This pedal cuts like a broadsword so no need to fear being lost in the fray. It respects the integrity of your pickups, and loves being slammed with other overdrives or your favorite fuzz too.\nThe EQ controls on the WIIO are interactive with the Gain knob - increasing the Treble will not only give you more highs but also more grit to the gain. Likewise, increasing the Bass control will not only deliver more lows but will also alter the feel and attack. Plenty of output to smack your amp into submission as well.",
+    "hrid": "catalinbread-wiio"
+}

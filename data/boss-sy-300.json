@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12003",
+    "name": "SY-300",
+    "image": "images/boss-sy-300.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect",
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "400 mA / ? V / AC",
+    "cost": "$699 Price in €",
+    "width": 255,
+    "height": 191,
+    "details": "SY-300 Guitar SynthesizerGrab your favorite axe and dive into an extraordinary world of sound creation with the SY-300 Guitar Synthesizer. The SY-300 can be used with all your guitars right away, with no special pickup required—just plug into the standard 1/4-inch jack and play! Thanks to revolutionary new BOSS technology, you’re able to explore fat, analog-style polyphonic synth sounds with zero latency, seamlessly extending the natural expressiveness and familiar feel of your own instrument. In addition, you can shape your normal guitar with the synth’s filters, amps, and LFOs to create all sorts of cool sounds never heard before. From unique lead textures to rich, evocative soundscapes, the SY-300 brings untapped dimensions of inspiration and creativity to your music.\nhttps://www.boss.info/us/products/sy-300/",
+    "hrid": "boss-sy-300"
+}

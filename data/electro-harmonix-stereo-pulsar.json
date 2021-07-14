@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15379",
+    "name": "Stereo Pulsar",
+    "image": "images/electro-harmonix-stereo-pulsar.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Variable Shape Analog TremoloThe Stereo Pulsar generates vintage tremolo and panning that will fill any venue with rhythmic stereo energy. Its Wave Form switch allows you to change the modulation from triangle to square form. The Wave Shape control allows you to control transitions from negative to positive saw tooth or adjust pulse width. This all means you can create any type of stereo tremolo from pure vintage to ones never heard before.\nhttps://www.ehx.com/products/stereo-pulsar",
+    "hrid": "electro-harmonix-stereo-pulsar"
+}

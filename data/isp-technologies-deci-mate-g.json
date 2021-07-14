@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33654",
+    "name": "DECI-MATE G",
+    "image": "images/isp-technologies-deci-mate-g.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "ISP Technologies",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$210 Price in €",
+    "width": 38,
+    "height": 33,
+    "details": "Micro Noise Reduction Pedal\nhttps://www.isptechnologies.com/portfolio/deci-mate-g-micro-decimator-pedal/",
+    "hrid": "isp-technologies-deci-mate-g"
+}

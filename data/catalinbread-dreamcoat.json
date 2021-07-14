@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33777",
+    "name": "Dreamcoat",
+    "image": "images/catalinbread-dreamcoat.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "44 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 110,
+    "details": "Recreation of the Aiwa TP-1011 reel-to-reel preamp circuitWhat began as an exploration of Ritchie Blackmore’s tone evolved into a multidimensional gain machine capable of anything between unruly sputtery fuzz and classic rock chime. This is not meant to make you sound like Blackmore, it is meant to inspire you from using the tools that he did, that would otherwise be inaccessible in pedal form. The heart and soul of the Dreamcoat is a near-exact recreation of the preamp circuit from the Aiwa TP-1011 reel-to-reel deck that Blackmore used on many of his recordings. \nAll of the functionality of that unit is present, from sparkling cleans to powerful crunch and glassy leads, but the “Sat” control gives you an extra layer of grunt, allowing the Dreamcoat to range between near-dry tonal indifference to complete “melting-amp” Neil Young-esque tweed sounds. Blackmore’s sound wasn’t just a tape deck, though. His guitar tech, Dawk \u0003Stillwell, installed a passive inductor-based frequency “booster” into Ritchie’s Strat that cut both sides of the spectrum around the resonant frequency of his guitar, giving the appearance of frequency boost. To that end, we’ve added a frequency booster circuit that doesn’t cut anything, giving you a richer tone with a little oomph where it counts. \nTo top it all off, we’ve included a clean blend circuit that begins after the frequency boost and ends \u0003after the tape preamp, so you can EQ the sum of your clean tone and dirt, all while preserving your pick attack and presence. The whole shebang runs at 20V, just a hair higher than the original Aiwa, expanding its capabilities and delivering tons of headroom.\nhttps://catalinbread.com/products/dreamcoat-skewer-special-edition-box",
+    "hrid": "catalinbread-dreamcoat"
+}

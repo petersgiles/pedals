@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20053",
+    "name": "ABY mix",
+    "image": "images/morley-aby-mix.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Morley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$115 Price in €",
+    "width": 168,
+    "height": 111,
+    "details": "ABY MIX MIXER / COMBINER\nhttp://www.morleypedals.com/aby-mix-mixer-combiner/",
+    "hrid": "morley-aby-mix"
+}

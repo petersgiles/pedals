@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11939",
+    "name": "Ditto X2 Looper",
+    "image": "images/tc-electronic-ditto-x2-looper.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 113,
+    "height": 135,
+    "details": "Highly Intuitive Looper Pedal with Dedicated Stop Button and Loop Effects Highly intuitive looper pedal built by guitarists, for guitarists, offers you a dedicated stop button and loop effects\n    Straightforward interface has a dedicated stop footswitch, making it easy to stop loops exactly when you want\n    Reverse and half-speed loop effects give you awe-inspiring powers to fuel your creativity\n    Export loops to PC or Mac* to work with in your DAW, and import complex backing tracks into the looper to impress on stage\n    Access a wealth of StarJam loops by famous guitarists plus a free package of expertly recorded JamTrack backing tracks\n    5 minutes of looping time with unlimited overdubs and undo/redo for total creative freedom\n    Stereo inputs and outputs for major setup flexibility – you can even plug in 2 instruments\n24-bit uncompressed audio for ultimate sound quality\n    True bypass allows for optimum clarity and zero high-end loss when the pedal is off,\n    Optional buffered bypass mode prevents high frequency loss from long cable runs\n    Analog-Dry-Through maintains total integrity of analog dry signal path even when looper is engaged\n    Sturdy die-cast metal case designed for life on the road\n    3-Year Warranty Program*\n    Designed and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/DITTO-X2-LOOPER/p/P0DE8#googtrans(en|en)",
+    "hrid": "tc-electronic-ditto-x2-looper"
+}

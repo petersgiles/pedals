@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12819",
+    "name": "Spectrum Analyzer",
+    "image": "images/dr-scientist-spectrum-analyzer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 93,
+    "height": 39,
+    "details": "In 2219, Dr. Scientist’s sister, Professor Scientist, patented a method for turning information into food, revolutionizing humanoid societies: without the need for nourishment, information became the world’s most important commodity. It was traded in markets, in bazaars and on the Futurenet. Dr. Scientist took advantage by developing the Spectrum Analyzer, a device which reads audio information and displays it in seven frequency bands, from 63Hz to 16kHz, represented by LEDs. It reads information from any source that can be plugged into it—a computer, a guitar, a synth, a cellphone—or it can read the sound around it through a built-in microphone. Musicians hungry for information can see their music in realtime, represented by light.",
+    "hrid": "dr-scientist-spectrum-analyzer"
+}

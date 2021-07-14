@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13069",
+    "name": "Context",
+    "image": "images/red-panda-context.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$225 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "ReverbContext combines world-class reverb algorithms with a clean signal path. All of the algorithms are adjustable so that you can get the right combination of pre-delay, reverb time, and tone. Reverb time is adjustable from very tight to nearly endless. The cathedral algorithm adds slight modulation to the trails, for vast ambient washes of sound. The plate algorithm gives you control over low- and high-frequency response for crisp, defined reverb even with bass instruments. Gated reverb gives you big booming drums from the 1980's, but is also great for adding power to guitar while maintaining transparency and space between notes. Finally, there is delay plus reverb for that versatile combination in one pedal.\nContext adds depth to your sound without unwanted coloration. The dry signal passes through Burr-Brown op amps and WIMA poly film caps in a 100% analog signal path. An internal switch selects between true bypass and trails. True bypass completely removes the Context from your signal path when not needed. Trails allows the reverb to decay naturally, and also works as a high-quality buffer. With trails on, the blend control is active in bypass to maintain a consistent volume.\nMade in USA.  Requires a 9V 100 mA center negative power supply (does not take batteries).\nControls\nblend adjusts wet/dry blend, up to 100% wet.\ndelay sets pre-delay, to simulate natural spaces or increase presence.\ndecay adjusts reverb time, from very tight to over 40 seconds.\ndamping adjusts high-frequency response, to keep the reverb from taking over other instruments' space or create dark ambience.\nModes\nRoom - fast buildup.\nHall - slow buildup with moderate diffusion.\nCathedral - bright reverb with extended response.\nGated - adjustable gate time with nonlinear decay.\nPlate - bright and dense reverb with adjustable reverb time, low- and high-frequency response.\nDelay - adjustable delay time, repeats, and reverb amount.\nhttp://www.redpandalab.com/products/context",
+    "hrid": "red-panda-context"
+}

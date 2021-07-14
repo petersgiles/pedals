@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16258",
+    "name": "Marine Layer Reverb",
+    "image": "images/fender-marine-layer-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Fender",
+    "current": "71 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 89,
+    "height": 178,
+    "details": "Multiple reverb pedalReverb is an essential element in nearly any rig. Whether you’re adding dimension to your sound or drenching your signal in sparkling reflections, our Marine Layer Reverb can do it all. Multiple reverb types, including classics like Hall and Room along with modern marvels like Shimmer, make this an indispensable pedal in your signal chain. The reverb tails continue when the effect is muted, ensuring a smooth and natural decay.\nHall, Room and Shimmer reverb types\n    Reverb tails continue when effect is muted\n    LED backlit knobs\n    Fender Amp Jewel LED\n    Magnetically latched hinged 9V battery door\n    Lightweight durable anodized aluminum construction\nhttps://shop.fender.com/en-US/effects-pedals/marine-layer-reverb-pedal/0234532000.html",
+    "hrid": "fender-marine-layer-reverb"
+}

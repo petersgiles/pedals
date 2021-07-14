@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31544",
+    "name": "Bloom V2 BK",
+    "image": "images/jackson-audio-bloom-v2-bk.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Equalizer"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$360 Price in €",
+    "width": 68,
+    "height": 123,
+    "details": "The BLOOM from Jackson Audio is a comprehensive dynamic engine that is designed to give guitarists maximum dynamic tonal control in ways never before possible. The BLOOM v2 – MIDI takes everything people love about our original BLOOM and updates it with MIDI!\nThe BLOOM v2 – MIDI now offers MIDI control over all 6 compression settings, circuit ON/OFF (COMP, EQ, BLOOM) and bloom level; the bloom level can also be expressed via MIDI!\nA three-fold device, the Bloom manipulates the dynamics of the instrument by way of precisely tuned optical compression, equalization, boost and sustain circuits which can be activated separately or in tandem with each other.\nKeep reading below to learn how the BLOOM has become a modern classic on countless pedalboards!\nhttps://jackson.audio/products/bloom",
+    "hrid": "jackson-audio-bloom-v2-bk"
+}

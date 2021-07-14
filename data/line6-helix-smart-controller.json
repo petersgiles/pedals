@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30071",
+    "name": "Helix Smart Controller",
+    "image": "images/line6-helix-smart-controller.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$383 Price in €",
+    "width": 430,
+    "height": 230,
+    "details": "Controller Pedal for Helix RackSMART CONTROLLER FOR HELIX RACK\nAccess the full power of Helix Rack.\nAdding the Helix Control pedal to the Helix Rack processor accesses its full functionality. Features include twelve capacitive-touch footswitches with colored LED Rings and customizable scribble strips, three expression pedal inputs, and hands-free editing when in Pedal Edit mode. No other foot controller offers these features or merges so effectively with the Helix Rack processor.\nWith tour-ready build quality, 12 touch sensitive footswitches for more control and a small LCD strip screens for each switch so you know exactly what you are changing this is the perfect add on to your helix setup.\nRevolutionary Footswitches\nWe all know one of the biggest pains with digital amp systems is that they take so long to set up and changing things on the fly is not easy. Line 6 went above and beyond to make sure that wasn't the case with the Helix.\nThat is why Line 6 fitted a set of 12 touch sensitive footswitches that let you adjust pretty much any parameter on the fly. Got too much reverb? Want to change out an effect? no problem the footswitches are the answer.\nReinvented UI\nMost of you have probably looked at gear guides where someone has a switching system filled with strips of tape that say what each footswitch does. Say goodbye to that with the Helix as each footswitch not only has a multi colour LED indicator underneath but also a fully backlit LCD display.\nThe customizable LCD strips can be changed say anything that helps you control your system. No matter if that is an internal effect in the unit, changing patches or even turning on one of your own separate pedals using the built in effects loop.\nTour Ready\nWith all this tech isn't it more likely for something to go wrong? Not at all, Line 6 have spent a long time finding all of the strongest possible parts so that you can take this on the road without failure.\nBuilt with a solid-aluminum construction and with switches that can take thousands of presses before they even think about failing the Helix has been made with touring guitarists in mind so you can rest assured that this will survive anything you can throw at it.\nSpecifications\nCapacitive touch-sensitive switches for parameter recall\nLCD Display\nAssignable RGB LED color rings\nCustomizable LCD scribble strips\nPreset or stompbox modes\nSolid-aluminum construction\nTour-grade footswitches\nExtruded metal design\n4 expression pedal outputs\nUSB output\n\nhttps://uk.line6.com/helix/helix-floor-rack.html#smart-control",
+    "hrid": "line6-helix-smart-controller"
+}

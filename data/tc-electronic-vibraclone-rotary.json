@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17339",
+    "name": "Vibraclone Rotary",
+    "image": "images/tc-electronic-vibraclone-rotary.jpg",
+    "function": [
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$49 Price in €",
+    "width": 72,
+    "height": 132,
+    "details": "Rotating Speaker Emulator Dynamic emulation of the classic Vibratone* Rotating Speaker\nEasy to use 2-knob interface controlling intensity of speed and drive\nToggle switch lets you choose between vintage-sounding Chorale or Tremolo setting\nTrue bypass for ultimate signal integrity\n“Built-like-a-tank” metal chassis",
+    "hrid": "tc-electronic-vibraclone-rotary"
+}

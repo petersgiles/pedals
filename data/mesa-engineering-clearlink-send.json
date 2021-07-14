@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17982",
+    "name": "Clearlink Send",
+    "image": "images/mesa-engineering-clearlink-send.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 63,
+    "height": 98,
+    "details": "LINE DRIVERThe CLEARLINK™ (SEND) LINE DRIVER is designed to compensate for losses in Tone due to increased capacitance in long cable runs. With a high quality buffer and +12dB of available output gain, it has the ability to drive cable runs of up to 330 Ft./100M before noticeable degradation, when added in-line on the feed from Pedal Board to Amplifier. When combined with a STOWAWAY™ INPUT BUFFER on the Instrument, the CLEARLINK SEND forms an “Effects Loop” for the Instrument-Pedal Board-Amp signal chain that will reclaim the integrity of your sound through boosted levels and buffering or impedance matching. Whether used by itself, or with the STOWAWAY as a comprehensive “Front End” solution, it will provide the needed “stable impedance source” to ensure the pieces in your rig “communicate” well. It can be used for balanced signals via two different output jacks; standard 3-pin XLR or ¼” TRS. It also supports unbalanced signals via the standard ¼” mono jack. If you’re going to send your signal on a marathon, make sure you have a clear link to communicate… because you don’t want your Tone lost in translation.\nhttps://www.mesaboogie.com/tone-tools/buffers-line-drivers-line-balancing/clearlink-output-buffer-balanced-line-driver.html",
+    "hrid": "mesa-engineering-clearlink-send"
+}

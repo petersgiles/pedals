@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16774",
+    "name": "Tape Core Deluxe",
+    "image": "images/nux-tape-core-deluxe.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Nux",
+    "current": "103 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Roland RE-201 style Tape EchoDigital recreation of a tape echo - specifically the Roland RE-201. This pedal has software to modulate and create your own presets.\nSimulates analog tape machines in a small package\nYou can save one preset and choose to have trails or not.\n    7 modes that combine 3 virtual tape heads giving you different rhythms.\n    8th mode on the Tape Core which is Sound on sound.\n    Hold down the foot switch on the Tape Core and you enter tap tempo mode.\n    USB port allows to update the effects.\nhttps://www.nuxefx.com/tape-core-deluxe.html",
+    "hrid": "nux-tape-core-deluxe"
+}

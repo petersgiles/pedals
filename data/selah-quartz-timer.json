@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13083",
+    "name": "Quartz Timer",
+    "image": "images/selah-quartz-timer.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Selah",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 122,
+    "details": "MIDI Controller\nhttp://www.selaheffects.com/product/quartz-timer-v2/",
+    "hrid": "selah-quartz-timer"
+}

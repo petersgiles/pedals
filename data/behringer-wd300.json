@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16414",
+    "name": "WD300",
+    "image": "images/behringer-wd300.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Warp DistortionKnockoff of the Hughes & Kettner Warp Factor Distortion",
+    "hrid": "behringer-wd300"
+}

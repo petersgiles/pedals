@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33220",
+    "name": "SSL Six",
+    "image": "images/solid-state-logic-ssl-six.jpg",
+    "function": [
+        "Dynamics",
+        "Dual/Stereo",
+        "Equalizer",
+        "Volume"
+    ],
+    "manufacturer": "Solid State Logic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,296 Price in €",
+    "width": 270,
+    "height": 310,
+    "details": "Solid State Logic SSL Six Mixer6-Channel analog studio mixer\nIdeal for smaller professional recording setups, podcasts and post-production\n2 Recording channels with 2 SuperAnalogueTM Mic preamps (66 dB Gain)\n75Hz High-pass filter\nSeparate line-level input, which can also be used as instrument input\nOne knob compressor - based on the classic SSL channel\nCompressor\n2-Band EQ - Shelf or Bell curve switchable\nALT input, insert and 2 stereo cue ways\n2 Stereo channels with two stereo cue paths each\n100 mm Fader\nUp to 12 channels can be used for summation\nG Series Bus Compressor with fixed attack, release and ratio\nProfessional monitoring section",
+    "hrid": "solid-state-logic-ssl-six"
+}

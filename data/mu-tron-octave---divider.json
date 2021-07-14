@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13768",
+    "name": "Octave - Divider",
+    "image": "images/mu-tron-octave---divider.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Mu-Tron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 229,
+    "details": "Ring Mod based octave pedal",
+    "hrid": "mu-tron-octave---divider"
+}

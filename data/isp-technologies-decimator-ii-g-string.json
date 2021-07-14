@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29362",
+    "name": "Decimator II G-String",
+    "image": "images/isp-technologies-decimator-ii-g-string.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "ISP Technologies",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Noise suppressor",
+    "hrid": "isp-technologies-decimator-ii-g-string"
+}

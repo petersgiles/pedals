@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26964",
+    "name": "A0900 Switch",
+    "image": "images/darkglass-electronics-a0900-switch.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 73,
+    "height": 68,
+    "details": "Amp footswitchThe Intelligent Footswitch is an intuitive yet versatile accessory for our amplifiers. One tap will engage and disengage the Microtubes Engine, while holding for 3 seconds will Mute the amplifier. It is connected to the head via a standard 1/4\" cable and it's powered by a microcontroller that sends commands to the head using a proprietary communication protocol. \nThe Super Intelligent Footswitch will only work with our amplifiers (Microtubes 500 and Microtubes 900).\nhttps://www.darkglass.com/creations/intelligent-footswitch/",
+    "hrid": "darkglass-electronics-a0900-switch"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33803",
+    "name": "Gearbox",
+    "image": "images/wampler-gearbox.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 127,
+    "height": 114,
+    "details": "Dual OverdriveAndy Wood is recognized as one of this generation’s most influential guitarists: he spent most of his childhood playing and competing in festivals and touring the bluegrass circuit with his cousin and grandfather; by the age of 22 he demonstrated his outstanding electric guitar skills being crowned champion of Guitar Center’s “Guitarmageddon” competition. Andy has toured professionally with a wide range of acts including Rascal Flatts, Gary Allan, Locash, Scott Stapp, and Sebastian Bach. Andy Wood has totally blurred the lines of preconceived genres with his most recent album, “Junktown”, a masterpiece of different guitar styles and progressive southern inspired fusion. Junktown was recorded with a prototype of what is now the Wampler Gearbox Andy Wood Signature Overdrive.\nChannel 1 (based on the legendary Tumnus) is a perfect addition to any board setup and any playing style. Its versatility allows you to stack it with another pedal to help push or shape the total amount of gain, use it as a stand-alone overdrive, or as a slightly dirty boost to push the front end of your amp over the edge. Channel 2 (Based on the Pinnacle, one of Brian’s most popular distortion pedals) delivers that legendary “Brown Sound”. The three band EQ lets you dial in your soaring lead tone while the unique noise gate keeps the clarity on point. Stack both channels together for tonal bliss - warm, yet brutal grunt; delicate and controllable harmonic overtones; beautifully defined distortion that cuts through the mix.\nThe Order switch lets you select which pedal comes first in the signal chain. For ultimate control, connect both sets of inputs and outputs to an external switcher to mix or match in parallel or series. Andy named this pedal the Gearbox as it was designed to be the driving force behind your sound.\nhttps://www.wamplerpedals.com/products/distortion-overdrive/andy-wood-gearbox/",
+    "hrid": "wampler-gearbox"
+}

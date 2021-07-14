@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21350",
+    "name": "Omni Reverb",
+    "image": "images/keeley-omni-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 70,
+    "height": 122,
+    "details": "Simple and Powerful ReverbThe Keeley Omni Reverb is loaded with three great-sounding reverbs that will fill the space around your notes with breathtaking depth and dimension. Room Reverb provides everything from an intimate club vibe to garage-rock trashiness. Spring Reverb yields a vintage splashiness that's guaranteed to inspire. Plate Reverb lends a classic studio shimmer to your playing. And after you select the flavor that suits your mood, you can dial it to perfection with the Omni Reverb's Dwell and Level controls. Define your guitar's acoustic space — stomp on the Keeley Omni Reverb.\nhttps://robertkeeley.com/Omni+Reverb",
+    "hrid": "keeley-omni-reverb"
+}

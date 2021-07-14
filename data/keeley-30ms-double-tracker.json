@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11706",
+    "name": "30ms Double Tracker",
+    "image": "images/keeley-30ms-double-tracker.jpg",
+    "function": [
+        "Chorus",
+        "Modeling/Simulation",
+        "Pitch Shifter",
+        "Reverb"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$268 Price in €",
+    "width": 62,
+    "height": 114,
+    "details": "",
+    "hrid": "keeley-30ms-double-tracker"
+}

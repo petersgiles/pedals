@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12236",
+    "name": "Flanger hoax",
+    "image": "images/electro-harmonix-flanger-hoax.jpg",
+    "function": [
+        "Flanger",
+        "Phase Shifter",
+        "Chorus"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "500 mA / 18 V / DC / Negative Center",
+    "cost": "$210 Price in €",
+    "width": 239,
+    "height": 159,
+    "details": "Flanging phaser modulatorDescription\nElectro Harmonix Flanger Hoax is made up of 2 separate phaser sections-the Fixed Phaser and Swept Phaser-and their associated delay lines. The Fixed Phaser is similar to a traditional phaser, modulated by a low-frequency sine wave called the Modulator. Each phaser circuit is followed by its own analog delay line, each of which can also be independently swept by the Modulator. Each phaser section can be bypassed to access the delay lines without any phase shift. Feedback control allows you to send the wet output of the pedal or the output of the Swept Phaser back into the phaser circuits. 18V power supply included.\n\nPedal flanger/phaser\nFor guitar, bass or keyboard\n5 modulation and delay modes\nTrue bypass\nControls:\nBlend\nFeedback pot, wet/swpt/off feedback switch\nSwept phaser controls: log/linear, amount, modulation mode\nModulator: Rate, delay mode\nFixed phaser: Delay amount, invert switch, bypass switch\nSwept phaser: Delay, Bypass\nSwitch: Effect on/off\nLEDs: Status, power\nJacks: Input, direct output, blend output, effect output\n\nhttps://www.ehx.com/products/flanger-hoax",
+    "hrid": "electro-harmonix-flanger-hoax"
+}

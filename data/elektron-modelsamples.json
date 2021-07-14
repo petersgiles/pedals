@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26295",
+    "name": "Model:Samples",
+    "image": "images/elektron-modelsamples.jpg",
+    "function": [
+        "MIDI",
+        "Sampling"
+    ],
+    "manufacturer": "Elektron",
+    "current": "1000 mA / 5 V / DC / Positive Center",
+    "cost": "$335 Price in €",
+    "width": 270,
+    "height": 180,
+    "details": "Six track sample-based grooveboxPacked with great sounds\nThe sound engine uses high-quality digital samples. There are 300 preset sounds supplied by Splice, ranging from the familiar kicks, snares, and hi-hats to exotic, never-before-heard ones. With a few tweaks, you can easily personalize any sample until it sounds just the way you want it. Transfer your own samples into it, or use any of the expertly crafted custom sound packs.\nDedicated knobs\nAs an Elektron first, this machine offers a complete set of tactile controls, with one function per knob. They’re all right there on the front panel; just grab a knob and twist it. Unleash your music spontaneously using the six tough, velocity-sensitive pads. Record your every move live, or punch in your creation one step at a time using the superb Elektron sequencer.\nReady to go\nAt under one kilogram, you’re getting the benefits of a light and convenient machine that will surprise you with its snarling sonic power.\nKey Features\nControl All lets you twist your sounds to oblivion. Then use Reload to take you back to where you started\nUse Parameter Locks to automate parameters. Each step can have a totally different sound\nWith sample locking you can really flex that sequencer muscle. Assign different samples to individual steps of a pattern, allowing you even more creative space\nLoad six samples at once – just like a kit. Great when you have made a Pattern with Parameter Locks, LFOs etc… Load six new samples to instantly experiment and come up with unique and unexpected results\nWrite basslines and melodies using Chromatic Mode\nNew Chance parameter. Chance determines the possibility whether the sequencer steps on a track are triggered or not. Combining Chance with the Control All functionality can lead to many interesting results and happy accidents\nRecord sequences with or without quantization. Steps can be micro-timed with individual Swing control per track\nIndividual Step Length per track\nIndividual Tempo Multiplier per track\nClass compliant USB audio 2.0\nhttps://www.elektron.se/products/modelsamples/",
+    "hrid": "elektron-modelsamples"
+}

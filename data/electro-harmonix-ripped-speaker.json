@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32300",
+    "name": "Ripped Speaker",
+    "image": "images/electro-harmonix-ripped-speaker.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Versatile fuzzVersatile pedal delivers fuzz that goes from old school to modern\nBias control\nActive tone control\nTrue bypass switching\nPedalboard-friendly size\n9V battery included\nhttps://www.ehx.com/products/ripped-speaker/",
+    "hrid": "electro-harmonix-ripped-speaker"
+}

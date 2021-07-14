@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16036",
+    "name": "SPD-1K",
+    "image": "images/roland-spd-1k.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 140,
+    "height": 160,
+    "details": "Electric Kick Drum",
+    "hrid": "roland-spd-1k"
+}

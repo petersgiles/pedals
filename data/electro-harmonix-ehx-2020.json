@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30999",
+    "name": "EHX-2020",
+    "image": "images/electro-harmonix-ehx-2020.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$48 Price in €",
+    "width": 46,
+    "height": 94,
+    "details": "Mini TunerThe EHX-2020 is super compact and takes up minimal space on your crowded pedalboard. With a +/- 1cent tuning range and high visibility display it provides an accurate, convenient solution to your tuning needs.\nIt’s true bypass to ensure signal path integrity and when the tuner is engaged your output is muted. The EHX-2020 can be calibrated to a reference standard of 436 to 445Hz in 1 Hz steps so being able to tune to and play together with instruments that might not be at 440Hz is not a problem. It has a wide tuning range of B0-B7, plus three flat tuning modes so you can tune down ½ step, a whole step or a minor third.\nThe compact, affordable EHX-2020 Chromatic Tuner Pedal comes with its own 9V DC Adapter.\n\nChromatic pedal tuner with a tuning range of B0 to B7\nTrue bypass allows your input sound to be output with no change or coloration\nThe pedal’s output is muted when the tuner is engaged which makes it ideal for live performance\nAccuracy: +/- 1cent\nCalibration: 436-445Hz (1 Hz steps)\nThree flat tuning modes\n9V power supply included\n\nhttps://www.ehx.com/products/ehx-2020-tuner-pedal",
+    "hrid": "electro-harmonix-ehx-2020"
+}

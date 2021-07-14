@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16406",
+    "name": "FD300",
+    "image": "images/behringer-fd300.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Ultra Feedback/Distortion",
+    "hrid": "behringer-fd300"
+}

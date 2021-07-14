@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15137",
+    "name": "Tri Loop",
+    "image": "images/onecontrol-tri-loop.jpg",
+    "function": [
+        "Looper",
+        "Utility",
+        "Switch"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$84 Price in €",
+    "width": 118,
+    "height": 64,
+    "details": "Effect LooperTwo effect loops in one compact pedal. At One Control, we produced a loop box with two simple operations under the theme of “compact, simple, and easy to use,” and it has been very well received. The Black Loop and White Loop have been made even simpler, and are the new incarnation of the Minimal Series.  One Control has secured even more functionality, and developed a 2-loop box that exists on a whole new level of effect tools.\nIn addition to the Black Loop and White Loop function, a BJF Buffer was installed. We also gave it the ability to control various devices and act as a sort of control tower. So there is the Black, White, and control tower functions. These three elements are expressed in the name, Tri Loop, and are proof of this monumental achievement of a 2 loop box.\nhttp://www.one-control.com/tri-loop.html",
+    "hrid": "onecontrol-tri-loop"
+}

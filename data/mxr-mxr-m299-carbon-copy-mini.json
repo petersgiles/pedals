@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21928",
+    "name": "MXR M299 Carbon Copy Mini",
+    "image": "images/mxr-mxr-m299-carbon-copy-mini.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Mini Carbon copy analogue delay\nhttps://www.jimdunlop.com/product/m299-7-10137-11059-5.do",
+    "hrid": "mxr-mxr-m299-carbon-copy-mini"
+}

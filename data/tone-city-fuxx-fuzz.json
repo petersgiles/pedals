@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16072",
+    "name": "Fuxx Fuzz",
+    "image": "images/tone-city-fuxx-fuzz.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 52,
+    "height": 93,
+    "details": "Octave fuzz",
+    "hrid": "tone-city-fuxx-fuzz"
+}

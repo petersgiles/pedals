@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28478",
+    "name": "Chorus",
+    "image": "images/akai-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Akai",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "Akai Professional Analog Custom Shop Chorus Guitar Effects PedalTrue-bypass switching combined with adjustable Tone, Speed and Spread knobs.\nThe Analog Custom Shop Analog Chorus Guitar Effects Pedal, from the Akai Professional, is your secret weapon in creating a thick, lush customized sound. Chorus is housed in heavy-duty polished stainless-steel. True-bypass switching combined with adjustable Tone, Speed and Spread knobs provide a wide range of precision control. \nChorus can be set to achieve a variety of effects ranging from a multiple guitar sound to fast-repeat staccato attacks. Dialing in the desired effect is accomplished by adjusting three onboard knobs. Tone controls the frequency from low to high, Speed changes the rate at which the repetition occurs and Spread sets the spatial dynamics of the effects sound. The Rate Switch provides an extra level of control adding fast and slow repetition control. \nAkai Professional's Analog Custom Shop Chorus adds natural sounding, clear adjustable accompaniment for a unique sound.",
+    "hrid": "akai-chorus"
+}

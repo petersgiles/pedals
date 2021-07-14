@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12273",
+    "name": "Arpanoid",
+    "image": "images/earthquaker-devices-arpanoid.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Polyphonic ArpeggiatorYou did it! The Arpanoid is the first dedicated compact polyphonic pitch arpeggiator effects pedal for the electric guitar! Great job.\n“Uh, that’s great, but what does it do?”\nThe Arpanoid takes whatever notes you play and calculates an adjustable ascending or descending scale based on the root note.\n“Sure, I guess. Does it track chords?”\nYes! The Arpanoid works on complex chords as well as single notes in any key. Its eight modes feature major and minor patterns so your next jazz odyssey will remain on time and in tune.  The patterns go from one octave below the input to one octave above, so there’s plenty of harmonic range, and the Arpanoid’s “random” patterns are sure to be a hit at your next psychedelic freakout.\n“Okay . . . is that it?”\nNo way! The Arpanoid has a variable “Step” control to choose the number of notes in the sequence, which determines the rhythm and meter of the pattern, along with the overall feel of the effect. Experimenting with this control will open your third eye to odd time signatures, polyrhythms, and a unique quantized hard-sync vibrato effect! Furthermore, the independent “Wet” and “Dry” controls allow you to blend the all-analog input signal with the all-digital affected signal, making the Arpanoid useful for anything from subtle ambient tone clusters to a bombastic polyphonic flourish, and the ability to use the Arpanoid fully wet makes it great for use in the studio! Patch it on inserts! Try it on vocals! Synths! Drum machines! Use it on sends! Go nuts, (lady)dude.\nWe suggest treating the Arpanoid like a new instrument and taking some time to get to know and love it. Once you understand how the Arpanoid will work for you, you and your device will live a long, fulfilling, happy life of mutual musical enjoyment.  \nThe Arpanoid is true-bypass, and built one-at-a-time by a bunch of glowing orbs in the parallel universe of Akron, Ohio, USA.\nhttps://www.earthquakerdevices.com/arpanoid/",
+    "hrid": "earthquaker-devices-arpanoid"
+}

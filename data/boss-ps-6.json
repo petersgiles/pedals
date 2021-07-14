@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11676",
+    "name": "PS-6",
+    "image": "images/boss-ps-6.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$178 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Pitch shifter and harmonizerMeet the new BOSS Harmonist, with four intelligent pitch-shift effects and three-voice harmony in one convenient unit. Among the effect modes are Harmony, Pitch Shifter, and Detune, plus the all-new Super Bend for authentic pedal-bending effects and wild three- and four-octave pitch sweeps. You can even control pitch with an optional expression pedal. The harmony function is fast and simple to use, and supports a variety of interval patterns. It’s easy to create rich, three-voice harmony: choose a major or minor key, and set SHIFT to 3-VOICE—that’s it! The PS-6 Harmonist is an unbeatable combination of superior sound quality, ease of use, and powerful pitch effects, all under one hood.\nhttps://www.boss.info/us/products/ps-6/",
+    "hrid": "boss-ps-6"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12380",
+    "name": "Hex Switcher",
+    "image": "images/voodoo-lab-hex-switcher.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 241,
+    "height": 73,
+    "details": "HEX™ is a true bypass audio switcher in a new compact format. A single unit can easily be placed on a rack shelf with pedals, mounted under most Pedaltrain pedalboards, or 2 units can be combined giving you 12 audio loops in a single 19\" rack space. Built with the finest gold relays sealed in nitrogen, your tone will stay pure and dynamic no matter what kind or how many effects you use.\nHEX includes 6 true bypass loops, with loop number 1 being completely independent to allow for various tasks like A/B switching, amp channel switching, and more. And, HEX features our Quiet Switching™ output buffer that kills pops and clicks, while making your final output tone better and more consistent regardless of length and type of cable.\nHEX True Bypass Audio Loop Switcher features:\n 6 true bypass audio loops using the finest gold contact relays\n Instantly recall preset combinations of effects\n Isolated loop for A/B, amp channel select and remote tap tempo\n Compact size easily fits on rack shelves and pedalboards\n Rackmount 2 units into a single space with optional bracket\n Compatible with our Ground Control Pro or any MIDI controller\n Output buffer preserves tone even with long cable run to amp\n Advanced Quiet Switching technology for lowest possible noise\n Conveniently power from any Pedal Power 9VDC output\n Legendary Voodoo Lab quality and reliability!\n Hand Made in the U.S.A\n 5 Year Warranty*",
+    "hrid": "voodoo-lab-hex-switcher"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13441",
+    "name": "Beatbuddy Mini",
+    "image": "images/singular-sound-beatbuddy-mini.jpg",
+    "function": [
+        "Sampling"
+    ],
+    "manufacturer": "Singular Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$134 Price in €",
+    "width": 58,
+    "height": 111,
+    "details": "With the BeatBuddy MINI 2 Drummer Pedal, use your foot to take full control over your drummer including transitions, fills, intros, and more.\nThe ergonomic button makes this drummer pedal perfect for playing or jamming out when wearing socks (or barefoot)!\nOver 200 styles and samples of professional drummers result in a versatile and organic feeling drum machine.\nhttps://singularsound.com/product/beatbuddy-mini/",
+    "hrid": "singular-sound-beatbuddy-mini"
+}

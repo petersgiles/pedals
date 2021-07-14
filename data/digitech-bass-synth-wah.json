@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11767",
+    "name": "Bass Synth Wah",
+    "image": "images/digitech-bass-synth-wah.jpg",
+    "function": [
+        "Filter",
+        "Bass",
+        "Wah"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 79,
+    "height": 125,
+    "details": "WahIt's time to bring the funk. Whether you're playing ska, reggae, or funk, the Bass Synth Wah™ is simply the most versatile bass envelope filter pedal on the market, with seven different bass envelope filter types to choose from. Don't just show up to the gig, make the crowds gyrate.\nhttp://digitech.com/en/products/bass-synth-wah",
+    "hrid": "digitech-bass-synth-wah"
+}

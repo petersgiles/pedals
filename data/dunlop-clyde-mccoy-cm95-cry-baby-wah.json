@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26117",
+    "name": "Clyde McCoy CM95 Cry Baby Wah",
+    "image": "images/dunlop-clyde-mccoy-cm95-cry-baby-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 99,
+    "height": 254,
+    "details": "Clyde McCoy Cry Baby WahThis Cry Baby Wah captures the throaty, expressive sound of the original wah pedal, featuring a Halo™ Inductor and thru-hole components with a premium pot, switch, and jacks.\nTHE LONG STORY\nThe Clyde McCoy Cry Baby Wah is a tribute to the first production wah wah ever made. This modernized classic captures the throaty voice and expressive sweep of the original while offering gigging players the consistency and convenience they need on the road.\nAs heirs to the wah lineage and guardians of its legacy, Dunlop drew from decades of wah design and building experience to ensure that the CM95 faithfully represents the tone and spirit of the very first model. Years ago, we inherited the original tooling and machinery used to design and manufacture the first Clyde McCoy pedals from the Thomas Organ Company and Jen Electronica. Combining these resources with our own 30+ years of experience developing and manufacturing wah pedals allowed us to create the most fitting tribute to the original Clyde McCoy Wah.\nThe most important element of any wah wah pedal is its voice. The Thomas Organ Company and Jen Electronica used a special component called a Halo Inductor to give the original Clyde McCoy pedals their highly-coveted smooth vocal quality. Because of the way those original Halo inductors were built, however, they often added undesirable microphonic noise. Our engineers created the Dunlop HI01 Halo Inductor to solve this problem, updating the original design with a stabilized cup core to preserve the unique Clyde McCoy sound while minimizing unpleasant microphonics.\nThe rest of the CM95’s circuitry is just as faithful to its forebear, featuring thru-hole components built into a classic housing with a premium pot, switch, and jacks. Now, you can take the classic Clyde McCoy sound out on the road and leave your vintage wah safely at home.\nhttps://www.jimdunlop.com/clyde-mccoy-cry-baby-wah/",
+    "hrid": "dunlop-clyde-mccoy-cm95-cry-baby-wah"
+}

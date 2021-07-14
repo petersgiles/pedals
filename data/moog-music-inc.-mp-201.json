@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13498",
+    "name": "MP-201",
+    "image": "images/moog-music-inc.-mp-201.jpg",
+    "function": [
+        "Controller",
+        "Multieffect"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$650 Price in €",
+    "width": 273,
+    "height": 260,
+    "details": "MP-201 CV and MIDI Control Multi-PedalThe MP-201 Multi-Pedal is a programmable four channel CV/MIDI foot pedal controller. It has four analog control outputs, MIDI In & Out and USB connectivity (MIDI over USB). It can transmit controller information on up to 4 MIDI channels and CV outputs simultaneously.\nEach CV output can be programmed individually. Signals can be foot pedal controlled analog control voltages with +/-5V limits, LFO waveforms or GATE voltages (0V=Off,+5V=ON). In addition, each channel can output MIDI CC's over specified MIDI channels simultaneously with the analog CV outputs.\nFeatures\nOutput Signals:\nLFO of user programmed RATE, AMOUNT and WAVEFORM (triangle, square, sawtooth, ramp and sample & hold)\nA random NOISE CV\nThe footpedal voltage with user selected heel and toe voltages (including reverse action)\nPreset Voltage levels\nLFO signals are scalable and can be synced to MIDI clock, tap tempo, each other, or free-running.\nModes of operation:\nSingle Channel Mode uses the footswitches to select programs, channels, turn on/off channels, select tap tempo function, enter tap tempo.\nQuad Channel Mode turns channels 1-4 on/off with footswitches 1-4 and uses the footpedal as an expression pedal for channels 1 to 4 simultaneously.\nPreset Mode defines the user programmable presets. A collection of 4 programmed channels is a preset and there are 100 editable presets.\nEdit Mode programs the preset mode.\nUtilities Mode accesses the utilities menu for non-preset related functions (SysEx Dump, Upgrade firmware, Factory Restore, Footpedal Calibration, etc¦)\nMultipedal Control Elements:\nOptical \"Gas Pedal\" style foot controller\n4 footswitches (momentary)\n4 LEDs, 1 for each footswitch.16x2 character LCD (Gray Background, transflective, white LED backlight)\nRotary Encoder with push switch (VALUE, CURSOR)\n2 Momentary switches near LCD / Encoder (EDIT, STORE)\nRear Panel Connections:\n1- USB Port (MIDI over USB)\n1 - MIDI In (DIN connector)\n1 - MIDI Out (DIN connectors)\n4 - CV (Control Voltage) Out 1„4\" connectors (selectable between -5V to 5V or 0V to 5V)\nPower in (wall mount power supply included)",
+    "hrid": "moog-music-inc.-mp-201"
+}

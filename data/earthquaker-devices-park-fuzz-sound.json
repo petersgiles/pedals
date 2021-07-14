@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19939",
+    "name": "Park Fuzz Sound",
+    "image": "images/earthquaker-devices-park-fuzz-sound.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Classic Germanium Fuzz Based on Jim Marshall's 1968 Tonebender Park Fuzz SoundPark Amplifiers and EarthQuaker Devices have teamed up to bring you a faithful recreation of the original Park Fuzz Sound! While it retains the original sounds, there are several modern upgrades to improve performance, reduce extraneous background noise and add versatility: \nMetal film resistors and caps for quieter performance\nNOS matched germanium transistors for consistent, reliable tones\nWider fuzz range, more than twice the original\nSmaller footprint, true bypass switching with LED indication and power supply compatible\nhttps://www.earthquakerdevices.com/park-fuzz-sound",
+    "hrid": "earthquaker-devices-park-fuzz-sound"
+}

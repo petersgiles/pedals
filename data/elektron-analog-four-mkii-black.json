@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31647",
+    "name": "Analog Four MKII Black",
+    "image": "images/elektron-analog-four-mkii-black.jpg",
+    "function": [
+        "Bass",
+        "Delay",
+        "Dual/Stereo",
+        "MIDI",
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC / Positive Center",
+    "cost": "$1,619 Price in €",
+    "width": 385,
+    "height": 225,
+    "details": "Four Voice SynthSynth voice features (×4)\n\nFully analog signal path\n2 × analog oscillators\nVariable waveshape on all waveforms\nOscillator AM and Sync modes\n2 × sub-oscillators\n1 × noise generator\n1 × 4-pole analog lowpass ladder filter\n1 × 2-pole analog multi-mode filter\n1 × analog overdrive circuit\nFilter feedback\n2 × assignable LFOs\n1 × dedicated vibrato LFO\n2 × dedicated waveshape LFOs\n1 × amp envelope\n2 × assignable envelopes\n2 × dedicated LFO fade envelopes\n1 × dedicated noise fade envelope\n1 × dedicated vibrato envelope\n1 × dedicated autobend envelope\n3 × individual effect sends\n\nPolyphony\n\nUp to 4 notes of polyphony\nUp to 4 part multitimbrality\nUp to 4 note unison playback\n\nStorage\n\n128 Projects\n4096 Sounds (+Drive Sound Library)\n128 Sounds per Project (Project Sound Pool)\n128 Kits per Project\n128 Patterns per Project\n16 Songs per Project\n\nSequencer\n\n4 synth tracks\n1 FX track\n1 CV/Gate track\nSequencer MIDI Out\nUp to 64 steps per pattern\nIndividual length per track\nIndividual scale per track\n6 × arpeggiators\nParameter locks\nStep Recording mode\nTrig preview\nTrig probability\nInstant Pattern, Kit and Sound reload\nLive friendly Performance mode\nSwing, slide, accent\nTrack transpose\nMicro timing\nSound-per-step change\nFull real-time control\n\nSend effects\n\nWideshift Chorus\nSaturator Delay\nSupervoid Reverb\n\nHardware\n\n128 × 64 pixel OLED screen\nMIDI In/Out/Thru with DIN Sync out\n2 × 1/4” impedance balanced main audio out jacks\n4 × 1/4” separate stereo voice output jacks\n2 × 1/4” audio in jacks\n1 × 1/4” stereo headphone jack\n4 × 1/4” CV/Gate outputs\n2 × 1/4” CV/Expression inputs\n48 kHz, 24-bit D/A and A/D converters\nFlash-EEPROM upgradable OS\nElectrically isolated USB 2.0 Hi-Speed port\n\nBalanced audio outputs\n\nHeadphones out level: +19 dBu (55 Ω)\nMain outputs level: +19 dBu\nOutput impedance: 440 Ω unbalanced\n\nUnbalanced audio inputs\n\nInput level: +19 dBu maximum\nAudio input impedance: 9 kΩ\n\nCV/Expression inputs\n\nInput voltage on tip: -5 V–+5 V. Supplies +5 V on ring\nAccepts CV, Expression pedals\n\nCV outputs\n\nVoltage range: -10 V–+10 V.\nDigital S/N ratio: 102 dBFS (20–20.000 Hz)\n\nElectrical specifications\n\nUnit power consumption: 15 W typical, 20 W maximum.\nRecommended power supply: 12 V DC, 2 A\n\nPhysical specifications\n\nAluminum enclosure\nDimensions: W385 × D225 × H82 mm (15.2 × 8.85 ×  3.3″) including knobs, jacks and feet\nWeight: approximately 2.4 kg (5.3 lbs)\n\nMiscellaneous\n\nOverbridge enabled\nClass Compliant USB Audio",
+    "hrid": "elektron-analog-four-mkii-black"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12843",
+    "name": "Henretta Engineering - Orange Whip Compressor",
+    "image": "images/hikari-instruments-henretta-engineering---orange-whip-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Hikari Instruments",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 51,
+    "height": 51,
+    "details": "The Orange Whip is a simple, small box compressor pedal based on the popular Dan Armstrong Orange Squeezer circuit.  The 2” x 2” box can squeeze its way onto any pedal board.  Internal trimmers control the bias (mild adjustments to amount of compression) and output volume.  This circuit is known for its subtle and musical compression.\nhttp://www.henrettaengineering.com/Henretta_Engineering/Products.html",
+    "hrid": "hikari-instruments-henretta-engineering---orange-whip-compressor"
+}

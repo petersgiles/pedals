@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13502",
+    "name": "Organelle",
+    "image": "images/critter-and-guitari-organelle.jpg",
+    "function": [
+        "Controller",
+        "Digital",
+        "MIDI",
+        "Multieffect",
+        "Synth Voice",
+        "Utility"
+    ],
+    "manufacturer": "Critter and Guitari",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$495 Price in €",
+    "width": 267,
+    "height": 83,
+    "details": "Sound computerThe Organelle makes it easy to explore new sounds and experiment with new ways of making music. It combines playful and intuitive controls with a powerful and flexible sound engine. The result is an instrument that is limitless in musical possibility and a joy to play.\nAt the heart of the Organelle's sound engine is a robust computer that runs patches. A patch allows the instrument to take on different forms. Onboard hardware for sound input and output and mappable knobs, keys and buttons enable patches to synthesize, sample, effect, and anything in between!\nThe Organelle ships with a set of common default patches, and new patches may be loaded from a USB drive. Simply select patches from a continually-growing list, transfer them to a USB drive, reinsert it in the Organelle, and play!\nHear sound examples of the patches.\nDon't see the exact patch you need? You can create it yourself! Patches may be created and/or edited directly on the device as well as on a personal computer. Plug in a keyboard, mouse and monitor and begin customizing. The Organelle runs patches created in the powerful computer music programming environment Pure Data.\nAs you create patches or tweak existing ones you can share them with others! The Organelle is built with community interaction in mind. The entire system runs open source software and may be customized at every level.\nAudio Specifications:\n• Sampling Rate: 44.1kHz; 16-bit (In & Out)\n• 2x ¼\" Mono Sound Output Jacks (L & R channels)\n• ¼\" Stereo Sound Input Jack\n• ⅛\" Stereo Headphone output Jack\n• ¼\" Footswitch Jack\nInterface:\n• High-Contrast OLED Display Screen\n• Four Parameter Knobs\n• Rotary Selection knob with Push Button Select\n• Volume Knob\n• 25x Maple Key\n• RGB LED\nProcessor Specifications:\n• 1GHz ARM Cortex A9 with 512 MB RAM\n• Linux Operating System\n• Boot time: ~12 seconds\nStorage:\n• 4GB USB Drive included; Patches and any required files (audio samples, etc.) stored here\nAdditional Connections:\n• 2x USB Port (2.0 standard-A type connector). USB Host for: MIDI over USB & Serial over USB\n• HDMI output port\nPower Requirement:\n• 9VDC, 1.0 Amp, Center-positive plug.\n• Power Supply included. (Input: 100-240 Volts AC at 50/60 Hz.)\nPhysical Characteristics:\n• Size: 10.5\" x 3.25\" x 2.125\"\n• Enclosure: Anodized Aluminum top, ABS Plastic bottom, rubber foot pads\nhttps://www.critterandguitari.com/products/organelle",
+    "hrid": "critter-and-guitari-organelle"
+}

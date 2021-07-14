@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11562",
+    "name": "Sick As Overdrive",
+    "image": "images/bondi-effects-sick-as-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Bondi Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 122,
+    "height": 105,
+    "details": "OverdriveThe formula for overdrive pedals has been a fairly uniform one over the years. Most follow the basic structure of the classic Ibanez Tubescreamer®, and while this is not a bad way to go, it’s certainly not the only way. \nThe Sick As Overdrive is a diversion from this well-worn path, taking its basic structure from the Klon Centaur® but with some major improvements for the modern player. The gain control serves a dual purpose— as the gain is increased, the ratio of gain-to-clean tone increases as well. This ensures that when the gain is rolled off, the tone never becomes muddy and unpleasant. You can control the amount of headroom and the character of the drive with the toggle switch. Choose from a more compressed, mid-range focused tone or an open, transparent, rhythm tone.  The tone circuit is a powerful, two-band active EQ circuit capable of boosting or cutting the bass and treble frequencies up to 15dB for maximum versatility. The voltage is also boosted internally to 18V for increased clarity and headroom.\nClean Boost, Overdrive or a blend of the two.\nDynamic and natural, responsive to your pick attack or volume knob.\nInternally boosted to 18 volts for maximum headroom and clarity.\nToggle switch controls the amount of headroom and character of the drive.\nPowerful active tonestack, capable of 15dB of boost or cut\nSoft touch buffered bypass switching\nCurrent Consumption 60mA\nhttps://www.bondieffects.com/products/sick-as-overdrive-mkii",
+    "hrid": "bondi-effects-sick-as-overdrive"
+}

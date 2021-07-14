@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15070",
+    "name": "Grand Augur",
+    "image": "images/tc-electronic-grand-augur.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$52 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Analog distortionOverflowing with organic amp-like distortion tones, natural tube compression and a tight but rich tonal character, Grand Augur Distortion IS the sound of Rock N Roll.  Now put all of that in a compact metal enclosure with true bypass, and served to you at a price that'll make your endorphin-levels shoot through the roof, and you got a shiny one-way ticket to rock heaven!\nNatural tube-like distortion\nWide gain range - with a rich and tight tonal character\nTrue Bypass and Top-mounted jacks\nhttp://www.tcelectronic.com/grand-augur-distortion/",
+    "hrid": "tc-electronic-grand-augur"
+}

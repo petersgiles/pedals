@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29170",
+    "name": "A7 Ambiance",
+    "image": "images/mooer-a7-ambiance.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mooer",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$97 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "Reverb PedalMOOER’s reverb effects have been substantially upgraded in the first reverb pedal from The New Micro Series. This sparkling gem features seven different reverb effects catering to the far-out guitar astronauts and the psychedelic space cadets. Go to infinity and beyond with the “Infinite Trail” fade out or keep things brief with the traditional “Trail On” feature. The shimmering blue finish also adds a bit of sparkly flare to any pedal setup.\n*7 different reverb effects from classic to psychedelic.\n*INFINITE trail function.\n*Trail On function allows effects to fade out naturally.\n*Supports buffer bypass or true bypass.\n*Storable preset for each effect.\n*Firmware updatable via USB. \nhttp://www.mooeraudio.com/product/A7-234.html",
+    "hrid": "mooer-a7-ambiance"
+}

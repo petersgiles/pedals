@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12377",
+    "name": "Faves",
+    "image": "images/chase-bliss-audio-faves.jpg",
+    "function": [
+        "MIDI",
+        "Switch"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$79 Price in €",
+    "width": 36,
+    "height": 110,
+    "details": "Faves™ is a dead simple MIDI controller that allows the user to access six presets as well as “live” mode on-the-fly for any of the Chase Bliss pedals.\nhttp://chaseblissaudio.com/faves/",
+    "hrid": "chase-bliss-audio-faves"
+}

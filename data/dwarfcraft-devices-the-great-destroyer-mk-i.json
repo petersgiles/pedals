@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32007",
+    "name": "The Great Destroyer MK I",
+    "image": "images/dwarfcraft-devices-the-great-destroyer-mk-i.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "28 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 125,
+    "height": 95,
+    "details": "Rhythmic oscillation and industrial fuzz in a true bypass packageThe Dwarfcraft Devices The Great Destroyer is a thundering fuzz effects pedal with stuttering Tremolo sounds and screaming oscillation. Despite the classic controller layout for Gain, Tone, and Volume, Gain and Tone differ fundamentally in their function compared to conventional Fuzz pedals. These interact with the Starve knob, which simulates a dying battery and generates everything from pop stuttering effects to screaming feedback that the noise-loving musician's heart desires. But beware: the Great Destroyer is as loud as it is unpredictable, especially for experimental self-oscillation, for which we recommend that you check the volume control beforehand.",
+    "hrid": "dwarfcraft-devices-the-great-destroyer-mk-i"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18597",
+    "name": "Full-Drive 2 V2",
+    "image": "images/fulltone-full-drive-2-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 113,
+    "height": 102,
+    "details": "Overdrive/Boost2-channel Overdrive Guitar Effects Pedal",
+    "hrid": "fulltone-full-drive-2-v2"
+}

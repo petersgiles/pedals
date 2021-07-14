@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12199",
+    "name": "Bass metaphors",
+    "image": "images/electro-harmonix-bass-metaphors.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 121,
+    "height": 146,
+    "details": "Bass preamp\nhttps://www.sweetwater.com/store/detail/BassMeta",
+    "hrid": "electro-harmonix-bass-metaphors"
+}

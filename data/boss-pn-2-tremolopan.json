@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12881",
+    "name": "PN-2 Tremolo/Pan",
+    "image": "images/boss-pn-2-tremolopan.jpg",
+    "function": [
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The tremolo effect is achieved by varying the volume of the original sound cyclically to create a pulsating speaker effect. The PN-2 has a Rate and Depth control in addition to a 4-way Mode switch giving you the options of Pan-sawtooth, Pan-square, Tremolo-sawtooth or Tremolo-square wave. There is an LED light that blinks along with the tempo of the oscillator, so it is easier to dial in rhythmic tremolo in a low light situation.\nThe pedal was replaced 1996 by the TR-2. The replacement doesn’t have the stereo outputs or the panning effect so the PN-2 is still a popular effect. The PN-2 was officially sold until 1995 but the production span appears to have been much shorter. Most likely, it ranged only 10 months between March and December 1990 with around 16 000 units made.\nSpecifications\nControls: Rate, Depth, 4-way Mode switch\nConnectors: Input A, Input B, Output A, Output B, AC Adaptor\nCurrent Draw: 20 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe PN-2 was sold from May 1990 to March 1995.\nhttp://www.bossarea.com/boss-pn-2-tremolo-pan/",
+    "hrid": "boss-pn-2-tremolopan"
+}

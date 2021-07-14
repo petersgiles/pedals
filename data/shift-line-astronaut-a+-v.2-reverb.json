@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19947",
+    "name": "Astronaut A+ V.2 Reverb",
+    "image": "images/shift-line-astronaut-a+-v.2-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Multiverb Space UnitMeet our updated multiverb unit for cosmic sounds! Astronaut 2 is more than just a reverb, it combines a set of different effects for ambient, spacey sounds with many variations and features.\nChanges (compared to the previous version of the Astronaut multiverb unit):\nImproved tones and new sounds, 11 in total.\nAbility to keep tails in bypass.\nDecay knob added to adjust effect parameters .\nProgram selector with fixed positions.\n\nControls:\nLevel — output level boost. Unity at full ccw, up to +10 dBu at full cw. \nMix — dry/wet mix that can go fully wet (kill dry) .\nDecay — controls the length of the reverb, can change behavior depending on the algorithm selected  .\nProgram — algorithm selector.\nFootswitch — activates and deactivates the effect .\nTails — preserves tails in bypass\n\nhttp://shift-line.com/card.php?device=10079",
+    "hrid": "shift-line-astronaut-a+-v.2-reverb"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27028",
+    "name": "Nitrofuzz v2",
+    "image": "images/elta-music-nitrofuzz-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Elta Music",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 60,
+    "height": 120,
+    "details": "Nitrofuzz is a powerful fuzz pedal which provides different sounds and timbres. Suitable for guitar, bass and synthesizers.\nSound from high-gain and oscillative to 8bit-ish, torn and compressed.\nThe fuzz has three transistors in its circuit, one of them being a Soviet germanium military type transistor from 60’s-80’s. \nVoltage/Compression Joystick\nMoving the Voltage/Compression joystick horizontally to the right will decrease voltage, vertically regulates compression of the signal. Moving the joystick upwards equals less compression.\nFuzz/Gate Joystick\nMoving the Fuzz/Gate joystick horizontally to the right will increase signal distortion / fuzz, vertically regulates the Gate / Threshold of the self oscillation in some settings. Moving the joystick downwards will increase the threshold of oscillation.\nTone Switch\nIf the SUB toggle is in the UP (Lo Freq) position, then the output is more bass heavy. If it is in the DOWN (High Freq) position, the drive is more high end focused. \n• Power requirements: 9-15v stabilised DC\n• Ground in center\n• Standard Boss-style power supply connection\nhttps://www.eltamusic.com/nitrofuzz",
+    "hrid": "elta-music-nitrofuzz-v2"
+}

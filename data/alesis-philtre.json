@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28472",
+    "name": "Philtre",
+    "image": "images/alesis-philtre.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Alesis",
+    "current": "830 mA / 9 V / AC",
+    "cost": "",
+    "width": 148,
+    "height": 98,
+    "details": "Modulated multimode filterFour different filter types, with steep slope switch and adjustable regeneration.\nFive different modulation sources, including Trigger and Envelope for note-by-note filter sweeping.\nTempo synchronization keeps filter effect in time with the music.\nTap Tempo makes it easy to set the speed of modulation by tapping a beat on the top panel.\nUniform, friendly, uncomplicated user interface-no fiddling with complicated menus or \"hidden\" knobs.\nReset Mod lets you reset the phase of any modulation shape from its beginning.\nStereo processing via four 1/4\" unbalanced connectors.\nModLink port, a cable-free connection that transfers digital audio and word clock to other boxes in the ModFX family.\nFootswitch connection to control the bypass function.\nAbility to mount 3 ModFX boxes in the optional ModFX rack adapter.\nInput trim control to adjust input level.\nInternal 28-bit digital processing.\n24-bit D/A and A/D conversion at 48kHz sampling rate for quiet, distortion-free effects.\nExternal 9VAC power supply included.",
+    "hrid": "alesis-philtre"
+}

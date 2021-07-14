@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11556",
+    "name": "DOD Boneshaker",
+    "image": "images/dod-dod-boneshaker.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Distortion Pedal with 3-Band Semi-Parametric EQ\nhttp://digitech.com/en-US/products/boneshaker",
+    "hrid": "dod-dod-boneshaker"
+}

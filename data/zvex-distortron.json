@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15052",
+    "name": "Distortron",
+    "image": "images/zvex-distortron.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 110,
+    "height": 60,
+    "details": "Distortion",
+    "hrid": "zvex-distortron"
+}

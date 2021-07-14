@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18761",
+    "name": "NMP 2",
+    "image": "images/nux-nmp-2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 100,
+    "height": 30,
+    "details": "",
+    "hrid": "nux-nmp-2"
+}

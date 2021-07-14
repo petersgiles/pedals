@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28264",
+    "name": "FX56 American Metal",
+    "image": "images/dod-fx56-american-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 127,
+    "details": "High Gain DistortionDOD's FX56 American Metal is a high gain distortion pedal produced from the late-1980s through mid-1990s. At the time of release, it was the highest gain and highest output pedal in DOD's line, and was designed and voiced to compete with the Boss HM-2 Heavy Metal distortion.\nhttps://reverb.com/p/dod-fx56-american-metal",
+    "hrid": "dod-fx56-american-metal"
+}

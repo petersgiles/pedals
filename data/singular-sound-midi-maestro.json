@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28586",
+    "name": "MIDI Maestro",
+    "image": "images/singular-sound-midi-maestro.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Singular Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 213,
+    "height": 146,
+    "details": "MIDI MaestroThe Only MIDI Foot Controller with Built in Screens and a Mobile App for on the Fly Customization\nThe MIDI Maestro puts the full power of MIDI into a package that’s easy for anyone to use. It’s the first MIDI Pedal controller that lets musicians skip on reading lengthy MIDI manuals and just jump right into playing. On top of being easy to use, it has great depth for those willing to explore its features.\nWith preset in app commands, easy customization, and presets for popular gear, the MIDI Maestro is the premier choice in MIDI Footswitches. Further, there’s no stress about pressing the wrong button thanks to the built in displays. In addition, with 10 active pages per preset, and the ability to send up to six MIDI commands in a single press, you won’t find yourself limited.\nA customizable high visibility screen for each button so you’ll never have to fuss with tape and marker again\nIncluded presets for your favorite Singular Sound gear like the BeatBuddy and Aeros and a custom preset for any MIDI Devices you can imagine\nMobile app makes it easier than ever to set up MIDI enabled devices with built in commands for popular gear\nDynamic page system that results in more power at your foot without increasing the pedal’s footprint.\nAbility to Daisy chain MIDI Maestro’s together for unlimited control\nhttps://singularsound.com/product/midi-maestro/",
+    "hrid": "singular-sound-midi-maestro"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15125",
+    "name": "Green Russian Big Muff",
+    "image": "images/electro-harmonix-green-russian-big-muff.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "reissue green russian muffBack by overwhelming demand... in a mini package! The cult classic Green Russian Big Muff first shook the ground in the mid-1990s. Since then it has been heralded by guitarists and bassists for its devastating low-end and unique sludge and sizzle. The Green Russian Big Muff creates a huge tone that is all its own, but is undeniably Big Muff. \n\nA faithful reissue of the legendary Green Russian Big Muff from the mid 1990s\nRevered by guitarists and bassists\nVintage-correct army green chassis\nControls for Tone, Sustain and Volume\nCompact and pedalboard friendly\nTrue Bypass for maximum signal path integrity in bypass mode.\n9-Volt battery included, also accepts optional EHX 9.6VDC-200mA power supply\nCurrent Draw: 2.2mA @ 9VDC\nDimensions in inches: 2.75(w) x 4.5(l) x 2(h)\nDimensions in mm: 70(w) x 115(l) x 51(h)",
+    "hrid": "electro-harmonix-green-russian-big-muff"
+}

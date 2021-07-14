@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23415",
+    "name": "PatchMate Loop 8 Floor",
+    "image": "images/rocktron-patchmate-loop-8-floor.jpg",
+    "function": [
+        "Controller",
+        "Looper",
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "3400 mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 483,
+    "height": 114,
+    "details": "Looper/SwitcherThe PatchMate Loop 8 Floor provides 8 discrete Loops all with True Bypass, buffered and non buffered signal paths, 128 programmable presets with Real time control using the 9 high quality metal foot switches.\nThe eight loops may be configured for multiple purposes including Channel switching, effects loops, guitar routing and more.  Add preset programmability along with pedal True Bypass to any standard pedal board with ease!\nThe PatchMate Loop 8 Floor is easy to set up and program with real time user controls.  Program the unit from the top panel using the switches.  Recall the first 8 user presets using the 8 onboard footswitches or access a total of 128 presets using external MIDI program changes.  External MIDI Continuous Controllers add the ability to trigger loops externally.\nhttp://www.rocktron.com/patchmate-loop-8-floor.html",
+    "hrid": "rocktron-patchmate-loop-8-floor"
+}

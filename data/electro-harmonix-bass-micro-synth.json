@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12200",
+    "name": "Bass micro synth",
+    "image": "images/electro-harmonix-bass-micro-synth.jpg",
+    "function": [
+        "Synth Voice",
+        "Bass"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "https://www.sweetwater.com/store/detail/BassMicroSyn",
+    "hrid": "electro-harmonix-bass-micro-synth"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12492",
+    "name": "Philosopher’s Tone",
+    "image": "images/pigtronix-philosopher’s-tone.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$185 Price in €",
+    "width": 112,
+    "height": 61,
+    "details": "Analog Compressor/SustainerThe Pigtronix Philosopher’s Tone is a state-of-the-art analog compressor / sustainer, providing endless clean sustain. With variable Sustain, Blend and Treble controls, the Philosopher’s Tone offers a huge range of compression sounds for the discerning musician. The Philosopher’s Tone also contains a harmonic distortion for clean or dirty compression sounds and any mixture of the two. While the Philosopher’s Tone rocks on its own, it is designed to play well with other dirt pedals in order to create your ultimate distortion tone that sustains forever.\nPigtronix Philosopher’s Tone is unlike the common compressor. This pedal has more sustain and less noise. The dynamic range, touch sensitivity, overall transparency and outright sustain of the Philosopher’s Tone is un-paralleled in the crowded world of compressor pedals.\nPractitioners of the mystical and ancient art of alchemy long sought an element called the Philosopher’s Stone, believing that, if found, it could turn lead into gold and bestow immortality upon the man who wielded it. For such a tiny pedal to create so much sustain, this device represents a musical equivalent to this mythical substance in the world of guitar pedals.\nhttps://pigtronix.com/products/philosophers-tone/",
+    "hrid": "pigtronix-philosopher’s-tone"
+}

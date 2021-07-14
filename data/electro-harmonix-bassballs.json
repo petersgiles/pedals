@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12124",
+    "name": "Bassballs",
+    "image": "images/electro-harmonix-bassballs.jpg",
+    "function": [
+        "Filter",
+        "Bass"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$77 Price in €",
+    "width": 65,
+    "height": 110,
+    "details": "Twin Dynamic Filter",
+    "hrid": "electro-harmonix-bassballs"
+}

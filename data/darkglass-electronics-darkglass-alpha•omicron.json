@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17315",
+    "name": "Darkglass Alpha•Omicron",
+    "image": "images/darkglass-electronics-darkglass-alpha•omicron.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 75,
+    "height": 113,
+    "details": "Bass OverdriveWith the double distortion engine (Alpha and Omega), the Alpha·Omicron delivers unparalleled versatility, harmonic rich and bone-crushing sound. Designed for bassists in need of a preamplifier to be distinctively heard in any musical context.\nhttps://www.darkglass.com/creations/alpha-omicron/",
+    "hrid": "darkglass-electronics-darkglass-alpha•omicron"
+}

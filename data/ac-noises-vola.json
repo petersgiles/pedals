@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12416",
+    "name": "VOLA",
+    "image": "images/ac-noises-vola.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "AC Noises",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "preamp/overdriveVola means \"fly\".\nThis effect pedal is a transparent and very dynamic overdrive that works perfectly even as a clean boost or preamp.\nIt offers a huge range of tones: from the lowest setting which allows to revive the signal adding brilliancy to each note you play, to the highest one which transforms the pedal in a dense and perfect overdrive for playing determined chords and clear solos.\nIt has three adjustable parameters: Volume, Tone and Gain.\nThe VOLA is created for that kind of guitar player who just wants to add his personal touch to the clean signal of his guitar and the character of his amp.\nBest electronic parts for the highest quality.\nDigital printed graphics for the longest lifetime.\nTop-mounted jack to save space on pedalboard.\nHand-built and designed in Italy.\nTrue bypass switching.\nStandard 9V DC negative power.\nhttp://www.acnoises.com/overdrive/10-combatti.html",
+    "hrid": "ac-noises-vola"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11606",
+    "name": "Golden Plexi",
+    "image": "images/tone-city-golden-plexi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 52,
+    "height": 93,
+    "details": "Tone City Golden Plexi",
+    "hrid": "tone-city-golden-plexi"
+}

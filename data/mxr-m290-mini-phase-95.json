@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11689",
+    "name": "M290 Mini Phase 95",
+    "image": "images/mxr-m290-mini-phase-95.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$151 Price in €",
+    "width": 43,
+    "height": 92,
+    "details": "",
+    "hrid": "mxr-m290-mini-phase-95"
+}

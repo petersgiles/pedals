@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28242",
+    "name": "Korg Pitchblack Mini Pedal Tuner (Limited Edition Purple)",
+    "image": "images/korg-korg-pitchblack-mini-pedal-tuner-(limited-edition-purple).jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 46,
+    "height": 94,
+    "details": "TunerStyled in a limited edition purple, the Pitchblack Mini from Korg is a professional pedal tuner for the gigging musician. Despite the pedal's mini size, the display features a large 7-segment color LED, a large note indicator, and a smooth-moving meter indicator to provide excellent visibility on the darkest stages. Additionally, the Pitchblack Mini includes stabilizers to prevent the pedal from overturning.\nThe pedal supports battery operation, which further expands its mobile application and flexibility. It can also be integrated into a pedalboard with 9 VDC power supplies designed for effect units. The true bypass allows the signal of your instrument to pass through without affecting the sound. The Pitchblack Mini ships with two CR2032 Lithium batteries.\nMini size for easy installation in your effect board\nLarge high-visibility display with easily readable note-name indication\nBattery operation is supported\nStabilizers prevent overturning\nThree meter display including Regular, Strobe, and Half-Strobe modes\nUltra-high tuning accuracy of +/- 0.1 cents\nAdjustable calibration\nTrue bypass has absolutely no effect on the sound\n\nhttps://www.korg.com/sg/products/tuners/pitchblack_mini_color/",
+    "hrid": "korg-korg-pitchblack-mini-pedal-tuner-(limited-edition-purple)"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32132",
+    "name": "Midi Box",
+    "image": "images/morningstar-midi-box.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Morningstar",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$79 Price in €",
+    "width": 117,
+    "height": 40,
+    "details": "8 - 3.5mm  trs isolated midi outputs\nhttps://www.morningstarfx.com/shop/MIDI-Box-p277261712",
+    "hrid": "morningstar-midi-box"
+}

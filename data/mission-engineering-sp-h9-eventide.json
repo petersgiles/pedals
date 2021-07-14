@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18425",
+    "name": "SP-H9 Eventide",
+    "image": "images/mission-engineering-sp-h9-eventide.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$168 Price in €",
+    "width": 99,
+    "height": 251,
+    "details": "Expression controller for Eventide H9Use the Mission Engineering SP-H9 switching expression pedal to get the most out of your Eventide H9 Harmonizer. The expression pedal calibrates perfectly with the H9 and provides glitch-free pitch and delay transitions.\nThe SP-H9 features an expression controller with an integrated switch that connects to the H9 via a single TRS cable. An external aux switch can also be connected via the input on the SP-H9. This offers the convenience and flexibility to chose between either the internal or external switch to control functions within the H9. An LED indicates that the expression pedal is connected correctly. The SP-H9 is powered from the H9 via the TRS cable. No battery or external power supply is required.\nhttps://missionengineering.com/shop-2/products/expression/specific-use-exp/sp-h9/?v=79cba1185463",
+    "hrid": "mission-engineering-sp-h9-eventide"
+}

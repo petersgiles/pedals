@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12728",
+    "name": "Digital Delay DD600",
+    "image": "images/behringer-digital-delay-dd600.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Digital Stereo Delay/EchoThe feature-packed DD600 is the ultimate digital effects pedal – for everything from short and subtle, to show-stopping 2-second delays (echo). Compare the DD600 to state-of-the-art, studio-grade processors costing 3 times as much – and you’ll find yourself coming to the DD600 pedal every time. Our amazing RSM technology and high-resolution 24-bit processing will keep you sounding your best, time after time, after time.\nhttps://www.behringer.com/es/product.html?modelCode=P0533",
+    "hrid": "behringer-digital-delay-dd600"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28290",
+    "name": "Tone Job v2",
+    "image": "images/earthquaker-devices-tone-job-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$159 Price in €",
+    "width": 64,
+    "height": 120,
+    "details": "EQ / boostThis compact Boost & EQ device is based around the tone-shaping options available in old audiophile-grade stereo preamps, making it a great addition to your pedalboard, no matter what instrument you play.\nSo what does that mean, exactly? It means that you'll hear full frequency response from your Tone Job everywhere you plug it in - guitar, bass, drum machine, synthesizers, steel drums, harpsichord, kazoo, car stereo, or wherever!\nThe Tone Job has active EQ controls for \"Bass,\" \"Mid,\" and \"Treble,\" with up to 20 dB of cut or boost, which is handy for pairing up with other pedals in your chain to breathe new life into old dirt. Unlike boring old graphic EQs, the Tone Job's EQ controls are interactive, so you can experiment with different settings to alter the response and overall feel of the Device, getting your tone out of the lunchroom and back on the clock.\nPlace the Tone Job at the beginning of your chain to alter the overall character of your guitar, or use it at the end to boost output at the end of a long cable run and fine-tune your tone. The \"Level\" control on the Tone Job can boost your signal up to 5x the original input level, so you*ll always be heard, and makes for a fantastic solo and/or clean boost!\nThe Tone Job is all analog, true-bypass, and built one-at-a-time by a bunch of standing waves and a few bass traps in acoustically challenged Akron, Ohio, USA.\nFeatures\n- Circuit design based on 70s audiophile stereo preamps for maximum frequency response\n- Active \"Treble,\" \"Mid,\" and \"Bass\" controls offer 20dB of cut or boost\n- Interactive EQ controls: \"Treble\" and \"Bass\" respond to \"Mid\" position\n- Level control can boost signals up to 5x the original input\n- True bypass\n- Silent relay-based switching \n- All-analog signal path\n- Built one-at-a-time by a bunch of standing waves and a few bass traps in acoustically challenged Akron, Ohio, USA \nhttps://www.earthquakerdevices.com/tone-job",
+    "hrid": "earthquaker-devices-tone-job-v2"
+}

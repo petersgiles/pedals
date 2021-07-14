@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13460",
+    "name": "Four Eyes",
+    "image": "images/fairfield-circuitry-four-eyes.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$240 Price in €",
+    "width": 97,
+    "height": 119,
+    "details": "Crossover FuzzThree parallel JFET fuzz circuits driven by a voltage controlled state variable filter with resonance control, mu-amp input stage and quite possibly, a wedgie. \nIn other words, this is one versatile fuzz box. The wide operating range of the frequency control, switchable resonance and the three drive pots allows this dweeb to go places you never thought possible. From extreme to relatively subtle; from super thin to ridiculously fat. \nThe Four Eyes Fuzz wasn't designed to sound like your favourite vintage fuzz. You might be able to tweak it to sound close, but it truly does its own thing. \nThe state variable filter is the special sauce that makes the \"Four Eyes\" what it is.\nThe filter has the particularity of having 3 simultaneous outputs all related to a center frequency (FREQ). The Low pass, High pass and Band pass filter Outputs each have a fuzz circuit fed by a drive pot (LO, MID, HI). This can be crudely compared to equalizing, or more appropriately, a badass EQ.",
+    "hrid": "fairfield-circuitry-four-eyes"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25212",
+    "name": "HOG (Harmonic Octave Generator)",
+    "image": "images/electro-harmonix-hog-(harmonic-octave-generator).jpg",
+    "function": [
+        "MIDI",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "500 mA / 9 V / DC",
+    "cost": "",
+    "width": 233,
+    "height": 150,
+    "details": "Guitar SynthesizerThe award winning HOG (Harmonic Octave Generator) is a totally polyphonic guitar synthesizer offering complete control of up to 10 interval pitches. NO glitches and NO special pickup needed. Generate extreme sub bass to powerful multi-octave chords. Convert your 6 string into a 12 string, create a realistic B3 organ. Amazing on guitar but works well with any instrument.\nFlawless polyphonic glitch-free tracking across the entire range!\nControllable harmonic intervals: -2 octaves, -1 octave, Original note, +5th, +1 octave, +1 octave +5th, +2 octaves, +2 octaves + 3rd, +3 octaves, +4 octaves.\nWorks directly from your instrument's output\nExpression pedal (optional) with 7 selectable expression modes: +/- 1 octave and 1 step pitch bend, freeze + gliss, volume, wah and filter frequency\nPitch Bend expression mode turns the HOG into a whammy pedal\nFreeze expression mode is a new guitar effect never heard before. Freeze allows the musician to freeze a note or chord so you can play over it or slide to new notes just like a keyboardist would do when using portamento\nDedicated resonant filtering with sweepable frequency control\nAmplitude envelope control allowing the musician to lengthen a note's attack, for swell effects, or to increase a note's decay speed\nSeparate lower and upper harmonic region amplitude envelopes\nMIDI in allows expression control using MIDI pitch bend\n9LDC-500 power supply included\nhttps://www.ehx.com/products/hog",
+    "hrid": "electro-harmonix-hog-(harmonic-octave-generator)"
+}

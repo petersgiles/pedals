@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27747",
+    "name": "MC-8",
+    "image": "images/morningstar-mc-8.jpg",
+    "function": [
+        "MIDI",
+        "Controller"
+    ],
+    "manufacturer": "Morningstar",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 224,
+    "height": 125,
+    "details": "Flagship MIDI ControllerMorningstar MC8 is a fully programmable midi controller, capable of sending up to 16 different MIDI messages per switch. Each of these messages can be triggered separately by performing different actions, giving you precise and customizable control with just one switch. With 30 dual-page banks and 8 switches in a compact low-profile chassis, the MC8 sits comfortably on any pedalboard, meeting the needs of even the most demanding musician.\nWith 4 brand new Omniports, you decide whether each 1/4 inch port acts as a MIDI output, Aux switch input or Expression pedal input. Also new is a very large, 4 row, 4- characters per row, LCD display to give you interactive, real-time visual feedback on important information such as current bank, active preset and expression pedal position.\nThe MC8 comes with an intuitive web and desktop-based editor for easy programming. The editor gives you the ability to view your preset settings on one screen, and make any edits easily before saving your settings back to your device.\nYou can name each bank and each switch. Connect up to 4 expression pedals for MIDI expression control, up to 4 aux switches per input, or 4 MIDI outs, to enable access to more presets and functions. Each preset can be programmed to send up to 16 messages. Each message can be programmed to send a MIDI message or activate a function.\nhttps://www.morningstarfx.com/mc8-midi-controller",
+    "hrid": "morningstar-mc-8"
+}

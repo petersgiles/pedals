@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12318",
+    "name": "MNR1 Noise Killer",
+    "image": "images/mooer-mnr1-noise-killer.jpg",
+    "function": [
+        "Utility",
+        "Noise Gate"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Noise Gate2 Working Modes: Hard/Soft. Hard: Provide hard effect of noise reduction. Soft: Provide soft effect of noise reduction. Full metal shell. Very small and exquisite. True bypass. DC 9V Adapter power supply.\nhttp://www.mooeraudio.com/?product/201410167017.html",
+    "hrid": "mooer-mnr1-noise-killer"
+}

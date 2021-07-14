@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12204",
+    "name": "Blurst",
+    "image": "images/electro-harmonix-blurst.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$137 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Modulated filter\nhttp://www.ehx.com/products/blurst",
+    "hrid": "electro-harmonix-blurst"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25564",
+    "name": "DACAPPO",
+    "image": "images/palmer-dacappo.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Palmer",
+    "current": "Pedal is passive",
+    "cost": "$74 Price in €",
+    "width": 125,
+    "height": 80,
+    "details": "Re-amping BoxA Reamping-Box is mainly used in studios. It allows you to play back a recorded guitar signal and send it to a guitar amp, where it can again be taken and recorded by the microphone. This allows the sound engineer to take time to experiment with the sound of the instrument using different amplifiers. The DACCAPO box ensures optimal impedance matching and eliminates ground loop hum through the use of a transformer. The signal level to the amplifier can be adjusted with a volume control.\nhttps://www.palmer-germany.com/en/products/di-boxes/5093/daccapo",
+    "hrid": "palmer-dacappo"
+}

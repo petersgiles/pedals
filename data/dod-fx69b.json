@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21056",
+    "name": "FX69B",
+    "image": "images/dod-fx69b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "GrungeThe Grunge FX69B is a super high-gain preamp that provides heavy, screaming distortion and can be shaped using four clear-cut controls: Loud, Low, High, and Grunge. It's intuitive, it's grungy, the DOD Grunge FX69B will give you hyper-distorted sounds.",
+    "hrid": "dod-fx69b"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11484",
+    "name": "Forcefield Compressor",
+    "image": "images/tc-electronic-forcefield-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$55 Price in €",
+    "width": 72,
+    "height": 132,
+    "details": "Effects Pedal For Electric Guitar",
+    "hrid": "tc-electronic-forcefield-compressor"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29908",
+    "name": "3 Series Chorus",
+    "image": "images/jhs-3-series-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "JHS",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Classic chorus and vibrato modulationThe JHS Pedals 3 Series Chorus offers classic chorus and vibrato modulation sounds, with straightforward controls and enough versatility for any style of music. The Rate and Depth knobs work together to deliver anything from subtle doubling to utterly seasick waves of modulation. The Vibe toggle removes the dry signal so that you will have a simple true pitch vibrato sound without the dry signal underneath. \nThe JHS Pedals 3 Series Chorus runs on 9V DC Negative Center power and consumes 70mA\nhttps://www.jhspedals.info/3-series-chorus",
+    "hrid": "jhs-3-series-chorus"
+}

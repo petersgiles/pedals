@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15469",
+    "name": "Soundblox 2 Orbital Modulator",
+    "image": "images/source-audio-soundblox-2-orbital-modulator.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "MIDI",
+        "Multieffect",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 114,
+    "height": 114,
+    "details": "",
+    "hrid": "source-audio-soundblox-2-orbital-modulator"
+}

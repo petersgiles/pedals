@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28749",
+    "name": "Black on Black Fuzz Factory",
+    "image": "images/zvex-black-on-black-fuzz-factory.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 67,
+    "height": 110,
+    "details": "An understated color variant for the classic Fuzz FactoryPacked with knobs that let you control everything from tight, radically fuzzy sounds that gate off instantly when you stop playing, to intermodulating oscillations that fight for control of your guitar as your notes decay, to shortwave radio sounds, ripping velcro and octave-like fuzz.\nhttps://www.zvex.com/guitar-pedals/fuzz-factory-black-guitar-effects-pedal",
+    "hrid": "zvex-black-on-black-fuzz-factory"
+}

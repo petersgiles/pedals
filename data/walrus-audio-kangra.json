@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23033",
+    "name": "Kangra",
+    "image": "images/walrus-audio-kangra.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Octave Fuzz / Filter Effects Guitar Pedal with Modern/Vintage Fuzz Modes and Lowpass Filter with EnvelopeWalrus Audio's Kangra Filter Fuzz is a true-bypass guitar pedal that serves up fat, sizzling octave fuzz along with '60s-style filter envelope effects. Saturday Night Live guitarist Jared Scharff is a certified fuzz fanatic, and he asked Walrus Audio to design a modern filtered fuzz pedal inspired by his go-to vintage fuzz, the Kay Fuzz Tone. The ensuing collaboration produced the Kangra, which delivered the grit and vintage vibe Scharff was looking for, in a roadworthy pedal with modern features and eye-popping Adam Forster artwork inspired by Jared's trip to the Kangra Valley near the Himalaya Mountains.\nhttps://www.sweetwater.com/store/detail/KangraFuzz--walrus-audio-kangra-filter-fuzz-pedal",
+    "hrid": "walrus-audio-kangra"
+}

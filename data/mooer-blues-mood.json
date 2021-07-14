@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14200",
+    "name": "Blues Mood",
+    "image": "images/mooer-blues-mood.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "14 mA / 9 V / DC / Negative Center",
+    "cost": "$65 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Blues Driver BD-2 CloneWide range frequency response blues style overdrive sound, also sounds good on bass\n2 Working Modes: Bright/Fat\nFull metal shell\nVery small and exquisite\nTrue bypass\nSpecifications\nInput: 1/4” monaural jack (impedance: 1M )\nOutput: 1/4” monaural jack (impedance: 1k Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: 14 mA\nDimensions: 93.5mm (D) × 42mm (W) × 52mm (H)\nWeight:160g\nhttp://www.mooeraudio.com/product/Blues-Mood--126.html",
+    "hrid": "mooer-blues-mood"
+}

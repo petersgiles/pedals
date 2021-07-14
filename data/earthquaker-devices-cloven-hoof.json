@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11590",
+    "name": "Cloven Hoof",
+    "image": "images/earthquaker-devices-cloven-hoof.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Fuzz PedalThe Cloven Hoof is the Hoof’s evil twin. It looks a lot like the Hoof, only more, um . . . Cloven.\nWe kept the tightness and clarity you loved about the Hoof, along with the wide range of fuzz sounds, and threw the rest away. NOS Germanium transistors? Nope! In their place, we installed a set of four specially selected Silicon transistors for cleaner cleans, higher gain, improved temperature stability, and a grittier, grindier, nastier fuzz tone with over 4x the gain of the original Hoof.  We also replaced key resistors with NOS Carbon Comp components to sprinkle a little bit of vintage flavor into the Cloven Hoof’s searing fuzz fury. It’s like they always say, “In with the old, out with the new.”\nThe “Tone” and “Shift” controls remain intact, only now they’re re-voiced for a smoother sweep, and more precise control over the Cloven Hoof’s beefy low-end. Speaking of low-end, have you heard this thing on bass? Wow. Try the Cloven Hoof on a bass guitar. Seriously. Trust us. You can still cut or boost the mids, and there’s still a metric ton of output on tap, just do us a favor, and for the love of all that’s Cloven, play this pedal with a bass guitar.\nThe Cloven Hoof is the perfect solution for those of you who wish the Hoof had more low-end, higher gain, and was just a little bit Hoofier.\nEach and every Cloven Hoof is one-hundred percent analog, true bypass, and built by qualified cowboys, cowgirls, and rodeo clowns in the organic, grass-fed, farm-to-table cattle ranch of Akron, Ohio, USA, y’all.\nhttps://www.earthquakerdevices.com/cloven-hoof/",
+    "hrid": "earthquaker-devices-cloven-hoof"
+}

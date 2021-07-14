@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13001",
+    "name": "CO-1 Cool Cat Drive",
+    "image": "images/danelectro-co-1-cool-cat-drive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 89,
+    "height": 95,
+    "details": "Transparent Overdrive",
+    "hrid": "danelectro-co-1-cool-cat-drive"
+}

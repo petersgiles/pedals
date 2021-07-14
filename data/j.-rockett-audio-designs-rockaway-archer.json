@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16758",
+    "name": "Rockaway Archer",
+    "image": "images/j.-rockett-audio-designs-rockaway-archer.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 102,
+    "details": "The Rockaway Archer is an overdrive EQ all in one. The Rockaway Archer was developed for legendary guitarist Steve Stevens as an all in one solution to Steve’s overdrive and EQ needs.\nRockaway Archer features:\nSix band graphic EQ\nVolume and gain knobs\nI/O jacks at the head of the pedal\n9V DC operation with standard – tip and + sleeve\nApproximately 4” x 2.50” in size\nThe settings include Up to 18dB of cut or boost at 6 different frequencies. Each frequency is increased by pushing its corresponding slider up on the pedal or decreased by pushing them down. This also adds or decreases volume. It is a great way to hit the front end of an amp harder than a stock Archer. The Rockaway Archer has an incredible variety of sounds due to the multitude of ways the EQ section can be used!\nhttps://rockettpedals.com/product/rockaway-archer/",
+    "hrid": "j.-rockett-audio-designs-rockaway-archer"
+}

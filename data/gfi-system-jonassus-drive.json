@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21072",
+    "name": "Jonassus Drive",
+    "image": "images/gfi-system-jonassus-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "GFI System",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 77,
+    "height": 120,
+    "details": "Dual Channel Multi DriveJonassus drive is a dual-channel overdrive pedal offering a sweet, warm, and articulate low-gain overdrive (“Low Channel”) plus a thick and ballsy medium-high gain overdrive (“High Channel”) . Each channel has its own Volume and Gain control, a shared Tone control, and an independent set of clipping mode options :\nDiode / Asymmetric  -  more compression and bites.\nDiode / Symmetric  -  less compression, smooth, balanced.\nLED / Symmetric  -  wide opened, warm.\n\nA multicolor LED identifies which clipping option is selected.\nLeft footswitch :  bypasses/engages the pedal\nRight footswitch :  selects which Volume/Gain/Clipping (V.G.C) control set is activated, the left-side or the right-side.\nThe left-side and right-side V.G.C controls are not permanently mapped to any channel. The DIP switch (at the back of the pedal) setting gives you three different ways of mapping the V.G.C control to the low-gain and the high-gain channel.\nhttps://www.gfisystem.com/jonassus-drive.html",
+    "hrid": "gfi-system-jonassus-drive"
+}

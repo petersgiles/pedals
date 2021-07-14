@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24144",
+    "name": "Little Black Buffer",
+    "image": "images/jhs-little-black-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 38,
+    "height": 91,
+    "details": "Buffer\nhttps://www.jhspedals.com/",
+    "hrid": "jhs-little-black-buffer"
+}

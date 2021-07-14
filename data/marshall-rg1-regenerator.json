@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20266",
+    "name": "RG1 Regenerator",
+    "image": "images/marshall-rg1-regenerator.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Modulation PedalSix adjustable modes - chorus, M chorus, flanger, phaser, step phaser and V vibe.\nSeparate speed and depth controls to tailor your sound.\nRobust, solid housing built for years of playing.\nRegeneration’ control to adjust the effect intensity.\n9v input with passive bypass.\nStereo output and expression input for live control. \nhttps://marshall.com/marshall-amps/products/pedals/rg-1-regenerator",
+    "hrid": "marshall-rg1-regenerator"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12330",
+    "name": "Headrush E2",
+    "image": "images/akai-headrush-e2.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Akai",
+    "current": "160 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 140,
+    "height": 184,
+    "details": "Delay, tape echo, and a looping recorder16-bit Digital Delay - Delay time from 0.5ms to an astonishing 23.8 seconds maximum\nReal-time delay control - sets delay time by tapping footswitch twice\nTape Echo mode with four individual outputs for each head\nLooping Recorder with overdub mode - Powerful tool for solo performances\nSelectable Fixed or Adjustable Loop Level.\nEffects pedal for guitar and bass players, DJs, vocalists, and other musicians\nDelay, tape echo, and looping recorder\nSelectable delay options: feedback, gain, and echo rate\nSimulates a four-head analog tape machine\nControl decay and spacing between virtual-tape heads\nCreates complex multiple delays and repeats\nSignal from each virtual head on individual output for multiple returns\nRecord and overdub layer after layer of sound with Looping Recorder\nOutstanding build quality\nModes\nNormal delay, tape echo, and looping\nResolution: 16bit\nSample Rate:\nNormal : 44.1kHz\nExtend: 29.4kHz\nMaximum Time:\nDelay: 23.8 seconds\nTape Echo: 5.9 Seconds\nLooping: 23.8 seconds, 11.9 seconds overdub (normal), 17.8 seconds overdub (extended)\nControls\nLevel, HF damp, feedback, time coarse/time, time fine/head gap, ratio\nSwitches\nMode select, loop level, loop time, footswitch x 2\nLEDs\nMode x 3, effect on/off x 1, tempo x 1\nConnections:\nInput: 1/4\" jack. Input impedance 500kOhms or more\nOutputs: Mix, effect/head 1, heads 2-4: 1/4\" jack x 5, output impedance 1kOhms or less\n9V DC in (160mA)\nDimensions:\n5.51\" x 7.22\" x 2.56\" (W x D x H)\n(140mm x 183.5mm x 65mm) (W x D x H)\nWeight: 2.54lbs (1.15kg)\nhttp://www.akaipro.com/product/e2headrush",
+    "hrid": "akai-headrush-e2"
+}

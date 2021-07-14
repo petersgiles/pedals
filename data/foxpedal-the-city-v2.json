@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17522",
+    "name": "The City V2",
+    "image": "images/foxpedal-the-city-v2.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "TS OverdriveNew in Version 2: The City V2 features an updated boost section (now using the powerful Ebenezer boost) and a much smaller form-factor, top-mount jacks and soft-touch relay switching.\nThe classic screamer brought to life in a flexible and dynamic package. The City is the dreamer’s screamer. With so much control over the shape of your tone, you’ll grow to love the classic drive circuit like it’s the late 70’s all over again. Without the bell-bottoms.\nFull control over your drive: \nLevel: You know… how loud the thing is.\nBody: Adjust the amount of bass content to your signal to give you some meat when you want to get down. Use in conjunction with the presence switch to bring it all to life.\nTone: The class TS tone control\nDrive: All the way from low transparent sizzle to tube-cracklin crunch.\n\nMore toneshifting switching: \nTwo clipping options, Red LED or for loud, aggressive nastiness or MOSFET for lovely textured smoothness\nPresence control adds some treble clipping to liven up single note playing\nFlat switch to lessen the mid focus\n\nIndependent boost\nWith the additional independent MOSFET clean boost (Same as our Ebenezer) the City is a player’s drive, giving you the flexibility to push the gain for solos or when you want some more dirt in your teeth.\nFeatures:\nOverdrive and clipping options\nHandwired Construction \nQuality hand-wired open frame jacks\nPower: Standard 9 volt DC/ negative center, NO internal battery option.\nRelay Bypass Soft-touch switching\n\nhttps://foxpedal.com/products/the-city-v2",
+    "hrid": "foxpedal-the-city-v2"
+}

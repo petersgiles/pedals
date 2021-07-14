@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12816",
+    "name": "AF-9",
+    "image": "images/maxon-af-9.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 74,
+    "height": 124,
+    "details": "Envelope Filter",
+    "hrid": "maxon-af-9"
+}

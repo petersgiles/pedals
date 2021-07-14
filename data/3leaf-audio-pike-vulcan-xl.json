@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27984",
+    "name": "Pike Vulcan XL",
+    "image": "images/3leaf-audio-pike-vulcan-xl.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 107,
+    "height": 120,
+    "details": "Pike Amplification Vulcan XL Bass Preamp  The Vulcan XL is a complete bass preamplifier that packs discrete parallel drive circuits, a four-band equalizer and a balanced XLR output into an integrated package. The signal path is split after the first gain stage and sent to each overdrive circuit where the sound is clipped and sculpted individually and selected via the color switch. After blending with the input signal through the mix control, the signal is routed through a versatile four-band EQ for total control over your tone. A fat switch toggles pre-clipping low frequency rolloff.\nA clean out jack is included for easy parallel processing, and the balanced XLR output with ground lift sends a powerful signal directly into the mixing console or front of house.\nThe Vulcan XL is housed in a compact enclosure and finished with a brushed anodized aluminum faceplate. It utilizes the proprietary Pike CMOS bypass switching system for reliable silent switching through a clickless stomp switch. It is designed to sound great at 9v DC, but can be powered with 18v for a cleaner sound with extra headroom.\nBass - 80 Hz\nLow Mid - 500 Hz\nHigh Mid - 1 kHz\nTreble - 5 kHz\n(darkglass rip-off)",
+    "hrid": "3leaf-audio-pike-vulcan-xl"
+}

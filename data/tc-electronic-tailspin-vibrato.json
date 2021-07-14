@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13851",
+    "name": "Tailspin Vibrato",
+    "image": "images/tc-electronic-tailspin-vibrato.jpg",
+    "function": [
+        "Chorus",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$65 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Classic true pitch vibratoTailSpin Vibrato delivers a wealth of stunning vintage vibrato tones all served in a package so affordable that it'll make your head spin. Its all-analog bucket brigade design brings everything from subtle organic wobbles to pitch-bendy warped vinyl tones and all the way to fast leslie-like sounds. These beautiful tones are housed in a compact and sturdy enclosure, ready to rock the road!\nAll-analog bucket-brigade circuit\nTrue bypass and top-mounted I/O\nhttp://www.tcelectronic.com/tailspin-vibrato/",
+    "hrid": "tc-electronic-tailspin-vibrato"
+}

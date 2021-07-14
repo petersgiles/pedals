@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13508",
+    "name": "EKKO",
+    "image": "images/aalberg-audio-ekko.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Aalberg Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 89,
+    "height": 141,
+    "details": "Digital delayThe EKKO Delay Pedal is a premium, warm sounding digital stereo delay with true bypass, placed inside a rugged, custom made aluminum housing. The blue LED-bars at the top of the pedal indicate the actual parameter settings and is visible from a distance.\nhttp://aalbergaudio.com/products/ekko/",
+    "hrid": "aalberg-audio-ekko"
+}

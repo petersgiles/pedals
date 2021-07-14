@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31680",
+    "name": "JP-08",
+    "image": "images/roland-jp-08.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$558 Price in €",
+    "width": 300,
+    "height": 128,
+    "details": "JUPITER-8 synthThe legendary JUPITER-8 synth is back as a limited-edition module no bigger than a book. Part of the Roland Boutique series, the JP-08 is all about hands-on control and that iconic JUPITER sound. With an array of 36 knobs and sliders from the original JUPITER-8 front panel, the 4-voice JP-08 is highly programmable and encourages sonic experimentation, especially with the built-in speaker and battery operation. Using Roland’s acclaimed Analog Circuit Behaviour (ACB) technology the JP-08 faithfully reproduces the original JUPITER-8 sounds and adds a few new twists in the form of extra LFOs and expanded VCO range. \nhttps://www.roland.com/global/products/jp-08/",
+    "hrid": "roland-jp-08"
+}

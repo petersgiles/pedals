@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24365",
+    "name": "JU-06A",
+    "image": "images/roland-ju-06a.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$335 Price in €",
+    "width": 300,
+    "height": 128,
+    "details": "Boutique version of the Roland Juno 106 and Juno 60\nhttps://www.roland.com/uk/products/ju-06a/",
+    "hrid": "roland-ju-06a"
+}

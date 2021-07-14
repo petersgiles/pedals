@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27367",
+    "name": "Sovereign",
+    "image": "images/wampler-sovereign.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 64,
+    "height": 115,
+    "details": "DistortionTwo gain stages, a mid contour, bright switch and tone control allow you to dial in virtually any sound from modern distortion all the way back to classic OD tones.\nhttps://www.wamplerpedals.com/products/distortion-overdrive/sovereign-distortion/",
+    "hrid": "wampler-sovereign"
+}

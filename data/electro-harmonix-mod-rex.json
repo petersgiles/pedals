@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18820",
+    "name": "Mod Rex",
+    "image": "images/electro-harmonix-mod-rex.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo",
+        "Filter",
+        "Flanger",
+        "MIDI",
+        "Multieffect",
+        "Tremolo",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "Polyrhythmic ModulatorThe MOD REX is a kinetic tour-de-force that lets you weave compelling, shifting, musical tapestries. Whether you are a guitarist, synthesist or electronic musician you will find it inspires your creativity and stretches your musical boundaries.\nFOUR INDEPENDENT MODULATION SECTIONS:\nThe heart of the pedal are its four, independent modulation sections synced in time, they are:\nMOD features great sounding EHX Vibrato, Flanger, Chorus or Phaser. The Depth knob lets you set the amount of the effect while Feedback controls the resonance of the Flanger and Phaser.\nTREM delivers tremolo, an effect that modulates the volume of your signal. The Depth control sets tremolo intensity.\nPAN modulates between left and right in stereo operation. In mono operation the PAN section acts as another tremolo section, but with the wave shapes all inverted!\nFILTER offers a choice of a modulated LPF, HPF or BPF. In LPF (low pass filter) frequencies above a modulated cutoff point are cut. In HPF (high pass filter) frequencies below a modulated cutoff point are cut, and in BPF (band pass filter) frequencies above and below a modulated center point are cut.\nEach section also features a choice of four LFO shape options: rising sawtooth, triangle, falling sawtooth or square wave. They affect the way the modulation transitions and provide advanced creative control over the specific section as well as the way they interact with each other.\nTEMPO CONTROL THAT’S FLEXIBLE AND POWERFUL\nThe MOD REX delivers virtually limitless polyrhythmic possibilities.\nIts TEMPO component gives you nine note-length choices for each of the four modulation sections. They are independently selectable in increments starting at a whole note and ranging thru subdivisions that go up to a 16th note. In addition, any of the sections can be bypassed.\nThe MOD REX’s tempo (displayed as beats per minute or BPM) is adjustable with the Tempo knob, Tap Tempo footswitch or by using an expression pedal into its EXP input. It can also be synced to an external device with MIDI Clock or an external pulse clock.\nMIDI AND THE MOD REX\nThe pedal’s robust MIDI implementation enables you to sync devices quickly and easily as well as automate functions and changes so they occur precisely when and where you want them whether you are working at home, in a studio or live.\nThe MOD REX accepts MIDI to enable it to tempo sync the modulation rate with an external device, to recall presets via MIDI Program Change messages and to control any parameter on the MOD REX via Control Change messages.\nEXTRAS\nThe MOD REX lets you save and recall up to 100 presets. It comes from the factory with 20 great programs.\nThe pedal features full stereo input and output.\nAn external foot controller input makes banking up and down thru presets quick and easy.\nQuick Specs\n\nUp to four simultaneous modulation sections synced in time.\nMOD section offers a choice of Vibrato, Flanger, Chorus or Phaser\nStandalone Tremolo, Modulated Panning and Modulated Filter sections.\n9 tempo subdivision options for each modulation section.\n4 LFO shape options for each modulation section\n100 storable presets\nFull stereo input and output\nTap Tempo and Tempo Sync to an external device with MIDI Clock or an external pulse clock\nFull MIDI control of all parameters and recalling of presets\nExternal expression pedal input\nExternal foot controller input to bank presets up and down\n9.6VDC-200mA power supply included\nCurrent Draw: 100mA @ 9VDC\nDimensions in inches: 4.75(w) x 5.75(l) x 2.5(h)\nDimensions in mm: 121(w) x 146(l) x 64(h)\n\nhttps://www.ehx.com/products/mod-rex",
+    "hrid": "electro-harmonix-mod-rex"
+}

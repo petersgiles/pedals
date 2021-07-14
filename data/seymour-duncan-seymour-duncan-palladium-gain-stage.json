@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12260",
+    "name": "Seymour Duncan Palladium Gain Stage",
+    "image": "images/seymour-duncan-seymour-duncan-palladium-gain-stage.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 142,
+    "height": 118,
+    "details": "Gain Stage Distortion\nhttp://www.seymourduncan.com/pedal/palladium",
+    "hrid": "seymour-duncan-seymour-duncan-palladium-gain-stage"
+}

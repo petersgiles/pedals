@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24715",
+    "name": "Mad Doctor Stutter",
+    "image": "images/idiotbox-effects-mad-doctor-stutter.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Controllable auto kill switch stutterThe Mad Doctor Stutter is NOT a square wave tremolo. It is an automatic kill switch machine that cuts the signal at controllable intervals.\nThe RATE knob controls the speed rate of the ON/OFF switching adjustable from really really slow to super super fast, while the RATIO control slews the amount of ON vs. OFF. With the RATIO knob maxed there is less on and more off and gets rad and blippy. Back the RATIO knob off and it results in more ON signal and less OFF. \nI have had lots of folks tell me this is the pedal they have been searching for for years. Oh and what's super awesome is that it has an expression pedal input so you can change the speed rate on the fly making for some very interesting and unique sounds!\nhttp://www.idiotboxeffects.com/product/mad-doctor-stutter",
+    "hrid": "idiotbox-effects-mad-doctor-stutter"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18960",
+    "name": "Bitmap",
+    "image": "images/red-panda-bitmap.jpg",
+    "function": [
+        "Digital Glitch",
+        "Distortion",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 84,
+    "height": 112,
+    "details": "Bitcrusher and sample rate modulationThe Bitmap™ is a bitcrusher with fractional bit reduction and sample rate modulation. Adds the warmth and grit of classic samplers, while reducing your signal from 24 bits down to 1 bit. Our bitcrushing algorithm delivers maximum sustain without sputtering on staccato notes. Fractional bit reduction provides smooth changes and a broader range of sounds. Input and output gain controls work with all input signals and give you saturated distortion or dying battery fuzz sounds.\nSample rate reduction creates inharmonic overtones and aliasing distortion. Subtle reduction adds sizzle to drums and high-end buzz to guitars. Use extreme settings for 8-bit video game sounds. Tune to the root or 5th to twist scales into inharmonic melodies. It can also do sample-and-hold sounds to cover \"analog bitcrusher\" territory.\nSample rate modulation adds subtle inharmonic motion or morphs your guitar into entirely new textures. Triangle, square, or random modulation are available.\nThe Bitmap™ works with guitar, bass, synthesizers, drum machines, and other instruments or line level sources.\nMade in USA. Requires a 9V 100 mA center negative power supply (does not take batteries).\nhttp://www.redpandalab.com/products/bitmap",
+    "hrid": "red-panda-bitmap"
+}

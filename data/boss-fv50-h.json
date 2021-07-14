@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13407",
+    "name": "FV50-H",
+    "image": "images/boss-fv50-h.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "Pedal is passive",
+    "cost": "$78 Price in €",
+    "width": 86,
+    "height": 200,
+    "details": "Volume pedalHigh-impedance FV-50H designed for connection before guitar effects units\nLow-impedance FV-50L enables direct control of stereo keyboards and stereo effects units\nMinimum Volume knob lets users set minimum volume as desired\nConvenient Tuner Out jack enables speedy tuning on stage\nhttps://www.boss.info/us/products/fv-50h_50l/",
+    "hrid": "boss-fv50-h"
+}

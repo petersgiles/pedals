@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15998",
+    "name": "Fuzz Factory Vertical",
+    "image": "images/zvex-fuzz-factory-vertical.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 60,
+    "height": 119,
+    "details": "FuzzPacked with knobs that let you control everything from tight, radically fuzzy sounds that gate off instantly when you stop playing, to intermodulating oscillations that fight for control of your guitar as your notes decay, to shortwave radio sounds, ripping velcro and octave-like fuzz.\nhttps://www.zvex.com/products/fuzz-factory-vertical",
+    "hrid": "zvex-fuzz-factory-vertical"
+}

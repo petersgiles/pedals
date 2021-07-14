@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13110",
+    "name": "M199 Tap Tempo",
+    "image": "images/mxr-m199-tap-tempo.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$68 Price in €",
+    "width": 38,
+    "height": 51,
+    "details": "Tap Tempo\nhttps://www.jimdunlop.com/product/tap-tempo-switch",
+    "hrid": "mxr-m199-tap-tempo"
+}

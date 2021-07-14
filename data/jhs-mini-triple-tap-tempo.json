@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24789",
+    "name": "Mini Triple Tap Tempo",
+    "image": "images/jhs-mini-triple-tap-tempo.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 38,
+    "height": 91,
+    "details": "Tap tempoPassive, three outputs, reverse polarity switch.",
+    "hrid": "jhs-mini-triple-tap-tempo"
+}

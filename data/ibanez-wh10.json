@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20137",
+    "name": "WH10",
+    "image": "images/ibanez-wh10.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 89,
+    "height": 200,
+    "details": "Wah pedal",
+    "hrid": "ibanez-wh10"
+}

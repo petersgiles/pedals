@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11870",
+    "name": "miniKP",
+    "image": "images/korg-minikp.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Multieffect"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 106,
+    "height": 29,
+    "details": "KAOSS Pad with 100 effects from the KP3Small, easy to carry, and still loaded with crucial KAOSS effects and features.\nThe intuitive touchpad interface and revolutionary effect programs of the KAOSS PAD series has made them enormously popular worldwide and now, the series is joined by its smallest member, the miniKP. While providing the same interface in which multiple parameters of the effect program are controlled by a single fingertip, the miniKP brings the advantages of battery operation and mobility, making it an ideal choice for DJ club performances, home studio applications, as well as outdoor live events or for use with a portable audio player. Wherever you are the mini-KP brings fresh sonic possibilities.\nUse the touchpad to control the effects in realtime\nThe KAOSS PAD series lets you control the effect entirely from the touchpad in real time. Different effect parameters are assigned to the X-axis and Y-axis of the touchpad and can be controlled simultaneously, meaning that you can vary the delay time and the feedback at the same time, or simultaneously change the cutoff and resonance of a filter. This means that complex effect operations that otherwise would require two hands on a conventional knob-based controller can be performed easily and intuitively with just one hand. It's also easy to apply complex effects by rubbing or tapping the pad with your fingertip as though you were playing a musical instrument.\nA small size allows use in a variety of situations\nThe mini-KP features the smallest body in the KAOSS PAD series”smaller than a standard CD case. It can be operated on batteries, and provides a strap attachment hole for easy portability. This means that you can now use the KAOSS PAD series' unique and intuitive one-finger operation with a wide range of instruments or sound sources, in an even greater variety of situations. \n100 effects covering a variety of musical styles\nThe mini-KP contains a total of 100 effects, many derived from the larger KP3, including filter, delay, and a looper, covering a wide range of musical styles. There's a low/high-band pass filter that lets you cut specific frequency ranges of sound to add variety to a song, a decimator that intentionally degrades the audio quality of the input to give unique impact to the sound, a much-requested delay & reverb combination effect. The looper and pitch shifter combination effect captures and repeats incoming audio and retunes it in realtime as the pad is manipulated, synth sounds derived from the KP3”and many more effects that can dramatically transform the sound.",
+    "hrid": "korg-minikp"
+}

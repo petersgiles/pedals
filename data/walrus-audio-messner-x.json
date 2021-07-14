@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26432",
+    "name": "Messner X",
+    "image": "images/walrus-audio-messner-x.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 74,
+    "height": 121,
+    "details": "Transparent OverdriveThe adventurous explorer that brought us true, transparent and clear overdrive has returned from his summit. This time, with clearer vision and more passion. With a hunger to share his findings from his lone treacherous climbs, he seems...different. Beaming with a new glow about him, he has brought us a truly unique, colorful and rare gift. \nWe've got a special limited to of our Messner X overdrive featuring updated artwork showing the snow-capped peaks that he's been busy traversing. For this batch only, our journeyman has returned in a rusty red and light green ink on a black enclosure. Grab one now because we won't run the Messner X again.  \nThe Messner X is a low to high gain-transparent overdrive boasting a wide range of overdrive possibilities. It is designed to preserve the natural voice of your guitar by not coloring your tone, but giving the user the ability to dial in and out the exact amount of breakup they desire. This design is inspired from Walrus’s Messner Overdrive but turbo charged. \nA toggle switch allows the user to bypass the clipping diodes from the circuit in the open position and employ them in the closed position, allowing a wide range of breakup from subtle to dramatic. Flip it to the open position and dial in a lower drive setting to add subtle aggression and punch to your tone. Run it in the closed position and turn the gain knob up for more compressed tones. The tone control works in all modes, giving you the ability to dial in brighter tones as you turn it up and darker tones when turned down. If you are looking for a low gain, dynamic overdrive that won’t hide your guitar’s natural characteristics, meet my friend, the Messner.",
+    "hrid": "walrus-audio-messner-x"
+}

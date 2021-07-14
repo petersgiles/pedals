@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26190",
+    "name": "Fathom limited edition",
+    "image": "images/walrus-audio-fathom-limited-edition.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 63,
+    "height": 117,
+    "details": "",
+    "hrid": "walrus-audio-fathom-limited-edition"
+}

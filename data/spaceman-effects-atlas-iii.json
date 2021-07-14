@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19757",
+    "name": "Atlas III",
+    "image": "images/spaceman-effects-atlas-iii.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 127,
+    "details": "Medium-gain preamp boosterAtlas III\nThe Atlas III is a medium-gain preamp booster. While staying relatively clean and transparent, the Atlas III adds subtle color and harmonic overtones, which become more apparent as you increase gain.\nSpecifically created for pushing the front end of tube amps, the Atlas III was designed to do so in a rich, warm way; while adding a touch of sparkle in the highs, and never muddying up the lows. The net result is a very natural sounding gain, without over-emphasizing any specific frequency range. The Atlas III obtains this tasteful organic coloration via its discrete preamp design.\nThe gain control is completely useable throughout its full rotation. It has plenty of gain to overdrive your amp’s tubes, without melting anything (probably).\nInside of the Atlas III you will find a mini switch which allows you to select the phase of the pedal’s output, in or out of phase with the input source signal. This is extremely helpful when using a multiple amp set up, and for studio situations where phase becomes an extremely important factor.\nThe Atlas III is completely hand-soldered and handmade in Portland Oregon to the highest degree of quality possible. These are truly artisan-crafted tone devices, sparing no detail within or without. The Atlas III utilizes true-bypass switching via the heaviest duty mechanical footswitch available, while your tone is transferred via quality open-frame Switchcraft jacks. Open one up and you’ll see an unparalleled display of craftsmanship; with immaculate hand-soldered PCB, detailed military-spec wiring, and custom Spaceman heavy-duty battery connector. On top of the USA-cast aluminum enclosure sits a durable, engraved vinyl faceplate and vintage dim-able indicator light. This pedal is truly built to last a lifetime.\n•   Current draw: 2.8mA(on); 0.9mA(off)\nhttps://spacemaneffects.com/products/atlas-iii/",
+    "hrid": "spaceman-effects-atlas-iii"
+}

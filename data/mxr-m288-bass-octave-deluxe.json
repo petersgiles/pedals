@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14923",
+    "name": "M288 Bass Octave Deluxe",
+    "image": "images/mxr-m288-bass-octave-deluxe.jpg",
+    "function": [
+        "Bass",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$168 Price in €",
+    "width": 62,
+    "height": 98,
+    "details": "Bass Octave pedal\nhttps://www.jimdunlop.com/product/m288-7-10137-04185-1.do",
+    "hrid": "mxr-m288-bass-octave-deluxe"
+}

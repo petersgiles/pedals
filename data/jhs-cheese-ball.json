@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24656",
+    "name": "Cheese Ball",
+    "image": "images/jhs-cheese-ball.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 69,
+    "height": 120,
+    "details": "Lovetone Big Cheese Clone",
+    "hrid": "jhs-cheese-ball"
+}

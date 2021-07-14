@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11869",
+    "name": "45000",
+    "image": "images/electro-harmonix-45000.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 237,
+    "height": 160,
+    "details": "Multi-Track Looping RecorderBuilding on EHX’s looper legacy, the 45000 combines the familiar controls of a multi-track digital recorder with state-of-the-art features making it possible to create complex multi-track loops quickly and easily.\nEach loop has four mono tracks and one stereo mixdown track. The 45000 records non-compressed, 44.1 kHz / 16-bit CD quality audio direct to a removable SDHC card (4 to 32GB). Each card holds up to 100 individual loops accessed with the optional 45000 Foot Controller (sold separately).\nLoop speed is adjustable over a two octave range, and reverse recording and playback are also possible. For extra convenience, a built-in metronome to a separate Monitor Out and a Headphone Out are also included.\n-Includes a 4GB card delivering up to 125 minutes of recording time\n-Import .Wav audio files from PC or Mac\n-Auxiliary Input mixes MP3 players with the loop output\n-Stereo mixdown track frees tracks for re-use\n-Overdub or punch in/out recording\n-Quantize or non-quantize (free running) modes\n-MIDI Clock Sync as master or slave\n-Most user parameters are MIDI controllable\n-USB port enables backup/restore with PC or MAC\n-Standard 9.6VDC 200mA power supply included",
+    "hrid": "electro-harmonix-45000"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28545",
+    "name": "Cntl Knob",
+    "image": "images/electro-harmonix-cntl-knob.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$39 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Expression PedalThe Cntl Knob is an affordable, compact, easy-to-use pedal that delivers static remote control for devices with expression control jacks. It lets you set two preset values that represent two positions of a traditional expression pedal and toggle between them with its footswitch.\nThe pedal’s EXP 1 Knob selects the first expression setting and the EXP 2 Knob the second. On both, fully CCW corresponds to the heel position while fully CW to the toe position. LEDs indicate which knob is active and can be powered by your pedalboard’s power supply or an optional EHX’s 9.6DC200mA PSU.\nQuick Specs\n• Delivers static remote control for EHX pedals and those of other makers that are equipped with expression control jacks\n• Compact, affordable, easy-to-use\n• Toggle instantly between two preset expression pedal values\n• TRS+/- Button for maximum compatibility with devices by all makers\n• Equipped with a 6-foot TRS cable\nhttps://www.ehx.com/products/cntl-knob",
+    "hrid": "electro-harmonix-cntl-knob"
+}

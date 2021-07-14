@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12221",
+    "name": "Compressor",
+    "image": "images/keeley-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Compressor\nhttps://robertkeeley.com/product/keeley-4-knob-compressor/",
+    "hrid": "keeley-compressor"
+}

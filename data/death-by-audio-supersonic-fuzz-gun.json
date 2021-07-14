@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13076",
+    "name": "Supersonic Fuzz Gun",
+    "image": "images/death-by-audio-supersonic-fuzz-gun.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$270 Price in €",
+    "width": 118,
+    "height": 53,
+    "details": "The Supersonic Fuzz Gun is a completely unique and different take on a fuzz pedal made with the extreme manipulator in mind.The Supersonic Fuzz Gun is a completely unique and different take on a fuzz pedal made with the extreme manipulator in mind. The controls interact with each other in an amazing and interesting way to create a huge array of gated and oscillating fuzz sounds. Control knobs are for Bias, Density, Fuzz, Filter, and Level. Switches are for true bypass and Oscillation / Gate modes.\nhttps://www.deathbyaudiostore.com/ProductDetails.asp?ProductCode=DBA005",
+    "hrid": "death-by-audio-supersonic-fuzz-gun"
+}

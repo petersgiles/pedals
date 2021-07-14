@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20721",
+    "name": "Resotron",
+    "image": "images/pigtronix-resotron.jpg",
+    "function": [
+        "Synth Voice",
+        "Filter"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 69,
+    "height": 146,
+    "details": "Synth Filter\nhttps://pigtronix.com/product/resotron/",
+    "hrid": "pigtronix-resotron"
+}

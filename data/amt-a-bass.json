@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31919",
+    "name": "A-Bass",
+    "image": "images/amt-a-bass.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Tube"
+    ],
+    "manufacturer": "AMT",
+    "current": "300 mA / 12 V / DC / Negative Center",
+    "cost": "",
+    "width": 55,
+    "height": 95,
+    "details": "",
+    "hrid": "amt-a-bass"
+}

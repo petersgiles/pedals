@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26281",
+    "name": "Substation 1 10-way Pedal Power Supply",
+    "image": "images/tone-city-substation-1-10-way-pedal-power-supply.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Tone City",
+    "current": "3000 mA / 24 V / DC",
+    "cost": "$90 Price in €",
+    "width": 165,
+    "height": 72,
+    "details": "10-way Pedal Power SupplyTone City have released their own power supply – and yes, it’s every bit as functional as it looks. With 10 outputs providing over 3000mA of juice, it’ll take care of just about any pedalboard – big or small!\nPower to the people\nAs with the rest of Tone City’s colourful range, the Substation 1 is ultra-affordable. Its simple design is subtle and easy to use, and will blend into any rig without taking up too much space.\nAs mentioned before, it has 10 outputs designed to take care of any pedal power requirements. The outputs are varied as follows:\n4 x 9V DC outputs with 200mA max output each\n4 x 9V DC outputs with 500mA max output each\n2 x 9V-18V SAG outputs with 200mA max output each\nSag outputs for thirsty pedals\nEach SAG output has a knob to adjust the voltage. If you’ve got thirsty pedals on your board, like large digital reverbs or multi-fx, you can adjust the Substation 1 to take care of them safely.\nEach output also has short-circuit protection for ultra-safe operation and minimal noise. In the box you’ll get 10 black DC cables and a 24V DC power adapter – everything you need to get up and running in no time.\nSpecifications\n10 outputs in total\n2 x SAG outputs with adjustable voltage (9V, 15V, 18V)\nDimensions: 165mm x 72mm x 33mm\nWeight: 500g (approx)\nIn the box: Substation 1 power brick, 24V DC adapter, manual, 10 x black DC cables, warranty card",
+    "hrid": "tone-city-substation-1-10-way-pedal-power-supply"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16533",
+    "name": "Loop Expander",
+    "image": "images/source-audio-loop-expander.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 161,
+    "height": 120,
+    "details": "The Decibel Eleven Loop Expander™ is a true bypass audio switcher that adds programmable effects loop switching to any MIDI controlled setup. Use it to add loop switching to any existing system with a simple MIDI controller, or utilize it to expand the number of true bypass loops with a DB-11 Pedal Palette™ or Switch Dr.™ For larger rigs, connect multiple Loop Expanders™ in a series to create additional loops. DB-11 Loop Expander™ works with MIDI Program Changes or MIDI Control Changes. The compact size mounts conveniently underneath pedals or on a rack shelf.\nhttps://www.decibel11.com/products_loop_expander.aspx",
+    "hrid": "source-audio-loop-expander"
+}

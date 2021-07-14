@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15146",
+    "name": "FX50B",
+    "image": "images/dod-fx50b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "Overdrive PlusDOD introduced the FX50B in early 1986; featuring a Tone control, it all but completely replaced the FX50 Overdrive Preamp in DOD's lineup. (With the introduction of the FX50B, the two-knob FX50 was no longer featured in advertisements or catalogs, although we have seen a legitimate example of a FX50 from late 1988.) Its circuit was very similar to the FX55B Supra Distortion, but with less distortion and gain. Although the FX50B was a descendent of DOD's highly-regarded Overdrive Preamp/250, sound-wise its competition (the JRC4558-loaded Boss SD-1 and Ibanez TS9) sound better to our ears. In about 1987, the FX50B's circuit was revised such that maxing out the Drive knob also provided a boost in the output signal. The FX50B was discontinued by 1998, with the then-new FX102 Mystic Blues Overdrive (and the December 1997 re-issue of the 250) apparently replacing it in DOD's lineup.",
+    "hrid": "dod-fx50b"
+}

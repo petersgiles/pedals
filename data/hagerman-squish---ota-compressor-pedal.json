@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31979",
+    "name": "Squish - OTA Compressor Pedal",
+    "image": "images/hagerman-squish---ota-compressor-pedal.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Hagerman",
+    "current": "12 mA / 9 V / DC / Positive Center",
+    "cost": "$129 Price in €",
+    "width": 61,
+    "height": 127,
+    "details": "Compressor PedalSQUISH is a gentle compressor with low distortion that doesn't affect tone. Using a feed-forward architecture, it responds to dynamic volume changes in a subtle fashion, unlike the industry-standard (Ross) feedback type. The OTA circuit provides fast response without compromising signal quality, maintaining dynamics, and providing a much more natural presentation. Optimally dialed in for humbuckers. Great on bass!\nSpecifications\nTrue bypass\n16dB gain\n180k ohm input impedance\n0.2% distortion\n20 to 8kHz bandwidth\n3V output capability\n9V to 12V @ 12mA power\nhttps://www.hagamps.com/collections/silicon/products/squish-ota-compressor-pedal",
+    "hrid": "hagerman-squish---ota-compressor-pedal"
+}

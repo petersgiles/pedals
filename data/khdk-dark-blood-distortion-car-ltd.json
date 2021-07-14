@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11505",
+    "name": "Dark Blood Distortion CAR LTD",
+    "image": "images/khdk-dark-blood-distortion-car-ltd.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KHDK",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "KHDK’s most evil pedal to date, Dark Blood delivers an angry, merciless amp-like distortion.\nThe tone of Dark Blood is tube-like and mid-heavy with added high gain. It’s unique power is its distinctly amp-like sound. \nRichly articulate and deep, Dark Blood can provide the main tone into your clean amp and is ideal as a fly rig and a backup to an amp or modeling rig. With its high gain and aggressive, uncompromising dynamics, this is the ultimate pedal for gain-freaks, designed both for palm muting riffs and searing high gain solos.\nTechnology\nDark Blood is built on KHDK’s original circuit combining solid state and mosfet technology. In classic metal fashion, a treble booster was added to the front end of the circuit to push your tone to the limit. Like all KHDK pedals, Dark Blood is proudly crafted and quality-tested in Kentucky, USA.\nhttps://www.khdkelectronics.com/products/detail/dark-blood/",
+    "hrid": "khdk-dark-blood-distortion-car-ltd"
+}

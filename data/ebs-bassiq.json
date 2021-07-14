@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23204",
+    "name": "BassIQ",
+    "image": "images/ebs-bassiq.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "EBS",
+    "current": "18 mA / 9 V / DC / Negative Center",
+    "cost": "$159 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Triple Envelope FilterAuto-Wah or Funkadelic Sounds.The pedal achieves sounds ranging from the classic auto-wah to your own unique space-bass or ”Funkadelic” sound. It features controls for threshold and attack, and runs in three different modes, Hi-Q, Up and Down. The BassIQ with the unique Down mode set can be used along with an EBS OctaBass to achieve a synth-bass sound.\nEvolution. The BassIQ was first introduced at the millenium shift. From the 2008 edition improvements added 3 dB higher headroom, higher sensitivity (makes it easier to dial-in) and new analog circuitry with higher dynamics and lower noise, as well as true bypass switching technique.\nMore than meets the eye. There are several trim pots inside the BassIQ. Such as High-pass filter mix-in, Gain trimmer and Dynamic high-pass filter mix-in.\nBassIQ - with guitar? The pedal is just as cool with guitar as with bass, and a favorite envelope filter with Prince/Justin Timberlake guitarist Mike Scott, among others.\nhttps://ebssweden.com/content2/effects/ebs-bassiq/",
+    "hrid": "ebs-bassiq"
+}

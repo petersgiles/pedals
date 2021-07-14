@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11603",
+    "name": "Cathedral",
+    "image": "images/electro-harmonix-cathedral.jpg",
+    "function": [
+        "Reverb",
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$221 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "ReverbEnter the Cathedral and surround your music with the aria of divine presence. True stereo reverbs reveal your inspirations while programmability recalls your spirit of creation. The Cathedral is the performer's mantra creating the perfect space for your instrument or voice while offering an elegance that takes your music to a higher ground.\nDescription\nThe Electro-Harmonix Cathedral Stereo Reverb pedal surrounds your tone with an aria of rich presence. It's loaded with 7 different types of reverb plus digital echo, all of which work in true stereo. Full programmability lets you recall previous settings instantly. The EHX Cathedral Stereo Reverb lets you create the perfect space for your instrument or voice while offering an elegance that takes your music to a higher ground.\nThe Cathedral offers two spring modes: Grail Spring, based on the Holy Grail's spring emulation, and Accu Spring, an Accutronics spring tank emulation. Top notch, professional Hall, Room, Plate, and Reverse reverb algorithms. Grail Flerb mode is the EHX Holy Grail Flerb with greater adjustability. Echo mode makes the Cathedral into a versatile 2-second digital delay. Up to 2 seconds of Pre-Delay, with Feedback allow for reverberant echoes. Tap tempo footswitch sets the pre-delay time with your foot. Instantaneous infinite reverb is yours by pressing and holding the Tap footswitch. Tone controls on the reverbs allow for further refinement of the sound. True stereo in and out.\nFeatures\n\n24-bit A/D/A converters\nTrue stereo inputs and outputs\n8 programmable reverb styles with the ability to load and save\nTap Tempo to set pre-delay section\nDamping/Tone control available for each reverb mode\nGrail Spring, Accu Spring, Hall, Room, Plate, Reverse, Grail Flerb, Echo\nHold tap tempo for infinite reverb\n\nhttp://www.ehx.com/products/cathedral",
+    "hrid": "electro-harmonix-cathedral"
+}

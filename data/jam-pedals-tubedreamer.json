@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28083",
+    "name": "TubeDreamer",
+    "image": "images/jam-pedals-tubedreamer.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 70,
+    "height": 111,
+    "details": "From Boost to OverdriveBack when we originally introduced the Tubedreamer58 there weren’t as many 808 style pedals out there. We claimed then as we claim now; this is probably the best 808 style overdrive you can get your hands on!\nWith a carefully tuned, added midrange frequency register, the Tubedreamer delivers warm and rich overdriven sound through any amp.\nA pivotal difference between the Tubedreamer and other Tubescreamers, is our choice to go with 3 diodes for asymmetrical clipping instead of symmetrical, enhancing the responsiveness of the pedal to fretting and picking nuances.\nMade with carbon comp resistors, the Tubedreamer employs the legendary JRC4558D chip to deliver its classic sound, just like in the original, sought-after 808’s, and also introduces a wider gain range accessible by the high-gain-stage toggle-switch.\nhttps://www.jampedals.com/tubedreamer-58/",
+    "hrid": "jam-pedals-tubedreamer"
+}

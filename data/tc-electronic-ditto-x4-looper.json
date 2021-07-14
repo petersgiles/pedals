@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11993",
+    "name": "Ditto X4 Looper",
+    "image": "images/tc-electronic-ditto-x4-looper.jpg",
+    "function": [
+        "Looper",
+        "MIDI"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$268 Price in €",
+    "width": 235,
+    "height": 145,
+    "details": "Two Channel LooperDITTO X4 LOOPER is the pedal that’ll let you turn a single moment in time into something truly spectacular. By perfectly merging ease of use with stellar creative features like dual loop tracks, 7 loop FX, loop decay and MIDI sync, DITTO X4 LOOPER will instantly become the canvas on which you paint your multi-layered sonic masterpieces. If you can dream it, you can loop it!",
+    "hrid": "tc-electronic-ditto-x4-looper"
+}

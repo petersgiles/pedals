@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20532",
+    "name": "FA-10",
+    "image": "images/maxon-fa-10.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 70,
+    "height": 113,
+    "details": "Fuzz Elements Air\"The FA10 Fuzz Elements Air accurately recreates the distinctive square wave clipping and octave harmonics of one of history’s most desirable dirt boxes, the Super Fuzz.\nThe original Super Fuzz was created by Shin-Ei, but saw later incarnations under brands such as Apollo, Shaftesbury, JAX, Tiesco, Memphis, and most famously, Univox.\nIt was used on countless recordings in the late 60’s & 70’s, most notably the Who classic “Live at Leeds.” Long out of production, the Super Fuzz saw resurgence in the 90’s during the Grunge & Alternative Rock era, appearing on the Beastie Boys’ “Gratitude”, Mudhoney’s “Big Muff Super Fuzz” album and Monster Magnet’s stoner-rock classic, “Superjudge.”\nThe Super Fuzz used dual germanium diodes and a unique full-wave rectification circuit to produce sizzling upper octave harmonics as well as subtle lower harmonics that filled out the guitar sound.\nThe FA10’s analog circuitry nails the Super Fuzz’s crushing, compressed tone with surgical precision, and includes the two position Tone switch to toggle between flat and scooped EQ curves. These settings produce wildly different sounds, offering stark contrast to one another and effectively making the FA10 two pedals in one.\nA unique aspect of the FA10 is its ability to reproduce rhythm or lead lines with equal clarity, yet without changing settings on the pedal.\nFeaturing authentic Vintage tones and modern features, the Fuzz Elements Air is the perfect vehicle to make your playing soar.\"\nhttps://www.maxonfx.com/fuzz-elements-series-effects-pedals/fa10-fuzz-elements-air",
+    "hrid": "maxon-fa-10"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19092",
+    "name": "x7",
+    "image": "images/darkglass-electronics-x7.jpg",
+    "function": [
+        "Bass",
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$336 Price in €",
+    "width": 107,
+    "height": 120,
+    "details": "crossover comp/distortion",
+    "hrid": "darkglass-electronics-x7"
+}

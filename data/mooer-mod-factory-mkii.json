@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18853",
+    "name": "Mod Factory MKII",
+    "image": "images/mooer-mod-factory-mkii.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 42,
+    "height": 52,
+    "details": "Multi Modulation PedalMOD FACTORY MKII contains 11 algorithms straight out of our award-winning MOD FACTORY PRO.  All the usual suspects are there such as Chorus, Flange, Trem and Phase but it also sports a cool new low-bit effect and ring modulator that have proven very popular with the PRO version. \nFollowing feedback from end users, the signal to noise ratio has been greatly improved over the original and your guitar tone will remain full and present when you turn the pedal on. \nTo enhance the experience even further, real-time tap tempo and acceleration functions have been added and can be accessed via the soft touch, momentary footswitch. \nMOD FACTORY MKII also has an option for SERIES/PARALLEL. The SERIES/PARALLEL switch toggles between serial and parallel internal signal chain routing. This effectively provides 2 very different sounds from each modulation type. \nFeatures \n*Digital Multi Modulation pedal with 11 different algorithms \n*SERIES/PARALLEL routing control \n*TAP TEMPO control \n*ACCELERATION feature \nhttp://www.mooeraudio.com/?product/201803298550.html",
+    "hrid": "mooer-mod-factory-mkii"
+}

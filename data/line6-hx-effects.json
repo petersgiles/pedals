@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15684",
+    "name": "HX Effects",
+    "image": "images/line6-hx-effects.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$600 Price in €",
+    "width": 274,
+    "height": 201,
+    "details": "",
+    "hrid": "line6-hx-effects"
+}

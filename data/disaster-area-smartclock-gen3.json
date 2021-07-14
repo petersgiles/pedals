@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14497",
+    "name": "SMARTClock Gen3",
+    "image": "images/disaster-area-smartclock-gen3.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Tap Tempo ControllerThe Disaster Area SMARTClock Gen3 is an intelligent tap tempo and clock source for your pedalboard.  Synchronize up to four separate tap-tempo pedals plus multiple MIDI-clock capable units.\nThe SMARTClock Gen3 is simple to use – just tap the footswitch and all your gear will synchronize to its internal clock.\nDon’t feel like tapping in the time?  Spin the illuminated knob to set the tempo in 1.0 or 0.5 BPM increments for more precise adjustments.\nTap the knob to view or change the subdivisions or output settings for each jack, then hold the knob to save the current settings to a preset.\nHold the footswitch down to advance to the next preset.  You can even set the number of accessible presets so that you only use what you need.\nEach tempo preset allows you to specify a tempo in BPM or milliseconds, as well as subdivisions or toggle settings for each of the 4 outputs.  You can also set the SMARTClock to send a MIDI Program Change to an external MIDI device.\nFeatures:\nBlue LED display shows tempo in Beats Per Minute or milliseconds.\nTwo (2) isolated optical relay powered Tempo Outputs or Function Switch Outputs.\nTwo (2) MultiJack connectors can function as Tempo Outputs, Function Switch Outputs, Footswitch Inputs, or MIDI Outputs.\nMIDI Clock output synchronizes all connected MIDI devices.\nMIDI input and output with full thru and merge functionality.\nMulti-Jack functions as tap tempo input, third Tempo Output, or additional MIDI output (requires adaptor cables.)\nInternal DIP switches to customize each output.\nTap Tempo mode with selectable tap subdivisions for each output.\nUp to 128 user-accessible presets with user-definable names.\nReceives external MIDI clock from a computer or other device, Tempo Outputs sync to incoming clock.\nSends tap signals and clock from 30-300 beats per minute.\nAvailable subdivisions include Quarter, Dotted Eighth, Quarter Triplet, and Eighth Notes",
+    "hrid": "disaster-area-smartclock-gen3"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19359",
+    "name": "JDI",
+    "image": "images/radial-jdi.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 84,
+    "height": 127,
+    "details": "Passive Direct BoxThe Radial JDI is a passive direct box designed to handle extreme signal levels without distortion of any kind. At the heart, the Radial JDI employs the world class Jensen JT-DB-EPC audio transformer delivering a smooth, warm sounding Bessel curve, reminiscent of the finest vintage gear. Ruler flat from 10Hz to 40kHz and with virtually zero phase deviation, the JDI delivers the natural, pure sound of the instrument without artifact. By its no-power passive design, the Radial JDI performs both high-to-low impedance conversion and signal balancing over a magnetic bridge that passes signal while rejecting stray DC voltage. This makes the JDI particularly adept at eliminating hum and buzz caused by ground loops. \nhttp://www.radialeng.com/product/jdi/",
+    "hrid": "radial-jdi"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24367",
+    "name": "Tender Octaver Pro",
+    "image": "images/mooer-tender-octaver-pro.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 106,
+    "height": 96,
+    "details": "Polyphonic Pitch ShifterThis thing is truly polyphonic. This means play entire chords like Emaj7flat5 and you're going to a full on pitch shifted version of this with no tracking issues! This is game changing.\nRich and full. You can dial in anything from whammy pedal type screeching like Jack White all the way to throbbing baritone guitar type chords, to full on playing bass with your guitar. Has controls to adjust volumes of the initial signal, Octave Up signal, Octave Down signal, Pitch Ranges for Up and Down, tone controls, Memory Presets, AND an expression pedal input for whammying. Phew!\nSub and Upper Octave controls with Volume and Tone for each\nDry control dials in original signal\nMemory Preset and Store for Instant Recall\nExpression Pedal Input\nTrue Bypass\nSolid Built Metal Casing\nUses Standard Boss Style DC 9V Adapter",
+    "hrid": "mooer-tender-octaver-pro"
+}

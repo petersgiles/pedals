@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15143",
+    "name": "Pharaoh",
+    "image": "images/black-arts-toneworks-pharaoh.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "FuzzFrom BAT's website:\nFor musicians who love their guitar and amp’s tone. The Pharaoh pedal, while its roots and DNA are classic fuzz, has a few twists. The Pharaoh has a wide range of clipping and tonal options. From a cleanish boost, to a light OD, all the way to saturated fuzz. It sounds clear and natural, strong and bold. Your guitar sound isn’t high jacked, and your amp’s tone is not destroyed. The Pharaoh utilizes a dual tone control. The tone circuit is designed to suffer little volume loss, and give a natural sound. Your guitar and amp still sound like your guitar and amp. No drastic cuts or boosts. The tone section allows your amp to do the heavy lifting.\nThe Pharaoh starts with a hi/lo input switch, not unlike that of your favorite tube amp. Lo for more headroom/less clipping. Hi for less headroom/more clipping. A standard fuzz knob. A full range tone control with the addition of a high end compensation knob to allow you to replenish the highs cut by the tone control when boosting lows. The diode selector switch allows for different modes of clipping. Silicon Diodes for a raspy distorted sound,Diodes out for more volume /headroom and less clipping. Asymmetrical Germanium clipping diodes give a warm, tubey old school sound.\nThe two switches can take the Pharaoh from a clean/ fat boost to light OD which cleans up well with your guitar’s volume knob, all the way to hairy open fuzz. The Pharaoh utilizes signal caps large enough to pass all frequencies through, uncut. Again, a natural sound. This is especially important for bass player; you’ll get huge fuzz with NO low-end loss, and without squishy flubby tones.\nhttps://www.blackartstoneworks.com/pedal/pharaoh/",
+    "hrid": "black-arts-toneworks-pharaoh"
+}

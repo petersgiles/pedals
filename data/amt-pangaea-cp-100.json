@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15880",
+    "name": "Pangaea cp-100",
+    "image": "images/amt-pangaea-cp-100.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 96,
+    "height": 43,
+    "details": "Cab sim",
+    "hrid": "amt-pangaea-cp-100"
+}

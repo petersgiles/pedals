@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20794",
+    "name": "ECCOS",
+    "image": "images/keeley-eccos.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 70,
+    "height": 121,
+    "details": "Neo-Vintage Tape Delay/Loop StationThe ECCOS features Keeley’s new Dream platform with its high-fidelity 24-bit DSP and codec.  True stereo in and out, presets, remote-switcher, and expression control surround the ECCOS with the features needed for professional pedal boards.  The ECCOS gives you everything from simple clean repeats to an all new sound created to put tape-flanged trails on your guitar. Flanged trails give you space and motion in your repeats, without the pitch modulation.  Delay lines are a linear extension of your guitar sound; the Keeley ECCOS gives you enhanced spatial dimension.\nECCOS Vintage Tape Flanged DelayECCOS Vintage Tape Flanged Delay\nNeo-Vintage Tape Delay\nTrue Stereo In/Out\n24 bit Hi-Fi DREAM DSP\n100% Analog dry audio signal\nTime/Blend/Depth/Rate Control\nPresets and Remote Control\nExpression Pedal Control\nBypass/Trails – Foot Switchable\n9VDC 130mA supply required\nDesigned and Made in the USA\n$249\nhttps://robertkeeley.com/product/eccos-stereo-neo-vintage-tape-delay/",
+    "hrid": "keeley-eccos"
+}

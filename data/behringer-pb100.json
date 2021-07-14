@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29136",
+    "name": "PB100",
+    "image": "images/behringer-pb100.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 123,
+    "details": "Preamplifier / Volume BoosterBoost the volume and shape the sound of any instrument\nSwitch to turbo-mode when playing solos\nBoost up piezo pickups to match regular amplifier inputs\nDedicated Gain, Bass and Treble controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for noise-free operation\nhttps://www.behringer.com/product.html?modelCode=P0429",
+    "hrid": "behringer-pb100"
+}

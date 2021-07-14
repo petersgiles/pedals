@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15945",
+    "name": "Soundblox 2 Dimension Reverb",
+    "image": "images/source-audio-soundblox-2-dimension-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "ReverbThe Soundblox 2 Dimension Reverb offers 12 distinct shades of reverb. Choose from six reflectively diverse room sounds, two plate and two spring reverbs, modulation reverb, and echo. The assignable \"Option\" knob makes it possible to adjust nine different parameters: wet/dry mix, time (i.e. resonance), bass, treble, pre-delay, diffusion, output level, modulation rate, and modulation depth.\nThe Soundblox 2 Dimension Reverb features a compact, durable cast aluminum housing, two user presets, and Multi-function in and out jacks compatible with Hot Hand, the Source Audio Dual Expression Pedal, or MIDI*. Use the Hot Hand Motion Sensor or the expression pedal for on-the-fly control over any of the nine adjustable parameters, or plug in a MIDI controller for external access to presets and parameters\nhttp://www.musiciansfriend.com/amplifiers-effects/source-audio-soundblox-2-dimension-reverb#productDetail",
+    "hrid": "source-audio-soundblox-2-dimension-reverb"
+}

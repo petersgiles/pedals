@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18013",
+    "name": "Alpha•Omicron",
+    "image": "images/darkglass-electronics-alpha•omicron.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 113,
+    "details": "",
+    "hrid": "darkglass-electronics-alpha•omicron"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12776",
+    "name": "Hyper Phase",
+    "image": "images/digitech-hyper-phase.jpg",
+    "function": [
+        "Phase Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "",
+    "hrid": "digitech-hyper-phase"
+}

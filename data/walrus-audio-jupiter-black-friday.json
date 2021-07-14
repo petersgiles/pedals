@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17417",
+    "name": "Jupiter Black Friday",
+    "image": "images/walrus-audio-jupiter-black-friday.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Fuzz",
+    "hrid": "walrus-audio-jupiter-black-friday"
+}

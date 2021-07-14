@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13421",
+    "name": "Analog Flanger",
+    "image": "images/hartman-analog-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Hartman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Hartman Analog FlangerThe Hartman Analog Flanger is a meticulous recreation of one of the early greats, the EH Electric Mistress (not the Deluxe, not the Stereo, the original).  The Hartman achieves vivid but transparent sounding flange and static-filter effects and combines them with heavy-duty true-bypass switching, LED indicator, and the ability to run off of a single 9V battery.",
+    "hrid": "hartman-analog-flanger"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21391",
+    "name": "Conquistador",
+    "image": "images/way-huge-conquistador.jpg",
+    "function": [
+        "Distortion",
+        "Noise Gate"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 82,
+    "height": 125,
+    "details": "Fuzzstortion Gated Fuzz\nhttps://www.jimdunlop.com/product/whe406-7-10137-09674-5.do",
+    "hrid": "way-huge-conquistador"
+}

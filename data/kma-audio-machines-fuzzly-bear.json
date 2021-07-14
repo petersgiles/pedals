@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22310",
+    "name": "Fuzzly Bear",
+    "image": "images/kma-audio-machines-fuzzly-bear.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "2 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Silicon fuzz monsterHoly Spirit of the forest, the Fuzzly Bear fuzz pedal is here, so kick the Switch to unleash the beast! The sound of this fuzz-pedal is influenced by an old rare and underrated fuzz box from the 1970s, the classic Jordan Boss Tone. The main reason though why this pedal did not conquer the world of effects back in the day, was due to its massive lack of bass. However, the fuzz could be heavenly and ranged from a snake’s hiss, to a kitten’s purr or it could just be downright nasty and trebly. When you found the sweet spot though, it had such a rich voice and all in a day when most fuzz boxes prided themselves on being overwhelmingly grainy or just downright harsh.\nWe refined the circuit to get the essence of that old-school sound, but with a modern twist. First of all, we brought back the low end and added a bias control to explore lots of new capabilities of this long forgotten pedal. The essential SKIN/MEAT knob controls the bias of the circuit. You can dial in a sharp skinny fuzzy drive tone or a thick and meaty wall of furry. The GAIN control delivers a whole range of different fuzz shapes. Back it off to get a dirty chunky overdriven tone, turn it up and your tone becomes thicker and thicker. Set the gain fully clockwise and magic will happen: The smooth decay turns into a starved and gated fuzz sound, perfect for classic tunes.\nhttp://kma-machines.com/m_fuzzly.html",
+    "hrid": "kma-audio-machines-fuzzly-bear"
+}

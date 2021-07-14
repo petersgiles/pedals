@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16086",
+    "name": "Diabolik",
+    "image": "images/malekko-heavy-industry-diabolik.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 122,
+    "height": 64,
+    "details": "JUSTIN MELDAL-JOHNSEN SIGNATURE ANALOG FUZZ PEDALThe Diabolik fuzz pedal is based on the B:Assmaster circuit and while working with Justin on refining it’s signature sound, we tuned it specifically to allow more low end to pass through both the Clean and Fuzz channels. The result is a pedal that ranges from a subtle harmonic fuzz to extreme, mangled low end squash that’s perfect for bass and guitar alike.\nhttps://malekkoheavyindustry.com/product/diabolik/",
+    "hrid": "malekko-heavy-industry-diabolik"
+}

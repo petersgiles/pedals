@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33634",
+    "name": "Fab Overdrive D-2",
+    "image": "images/danelectro-fab-overdrive-d-2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$20 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "OverdriveNadine Overdrive Clone\nFairly compressed overdrive tone\nGreat for boosting into other pedals\nhttps://www.tonebox.com/pedal/danelectro-d-2-fab-overdrive",
+    "hrid": "danelectro-fab-overdrive-d-2"
+}

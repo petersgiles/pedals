@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13620",
+    "name": "Super Spring Theory",
+    "image": "images/sub-decay-super-spring-theory.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 58,
+    "height": 112,
+    "details": "Spring Reverb (DSP)",
+    "hrid": "sub-decay-super-spring-theory"
+}

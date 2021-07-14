@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18639",
+    "name": "Class A Boost Micro",
+    "image": "images/pigtronix-class-a-boost-micro.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 40,
+    "height": 92,
+    "details": "Small Clean Boost The Pigtronix Class A Boost will fatten up and boost anything you feed it. This deceptively simple design uses discreet J-FET transistors in a single-ended “Class A” configuration to achieve the warmest possible tone. The Class A Boost can deliver up to 20db of clean boost and remains effective with both instrument and line level signals.\nhttps://pigtronix.com/product/class-a-boost-micro/",
+    "hrid": "pigtronix-class-a-boost-micro"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27117",
+    "name": "POLYTUNE 3 MINI",
+    "image": "images/tc-electronic-polytune-3-mini.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 49,
+    "height": 94,
+    "details": "Tiny Polyphonic Tuner with Multiple Tuning Modes and Built-In BONAFIDE BUFFER\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Tuners/POLYTUNE-3-MINI/p/P0DHQ",
+    "hrid": "tc-electronic-polytune-3-mini"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15953",
+    "name": "Dracarys",
+    "image": "images/wampler-dracarys.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "DistortionWhat do you get when Brian Wampler, a man who has built an empire on some of the most respected distortion and overdrive pedals on the market, chases the guitar tone of Ola Englund (The Haunted, Feared, Six Feet Under), one of the world’s most aggressive-sounding and identifiable metal guitarists? You get the Dracarys. That’s what. This vicious stompbox effortlessly embraces any sub-genre of metal, thanks to its finely tuned EQ and Tight/Open switch. But tap into its decidedly modern soul, and the Dracarys will instantly morph your clean amp into one of the most savage and modern high-gain powerhouses this side of Mr. Englund himself. As Ola puts it, no matter type of high-gain tones you’re looking for, “It can definitely deliver the chug.” - See more at: https://www.wamplerpedals.com/dracarys-distortion#sthash.4periWjQ.dpuf",
+    "hrid": "wampler-dracarys"
+}

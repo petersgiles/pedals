@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12112",
+    "name": "Density Hulk",
+    "image": "images/mantic-effects-density-hulk.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 93,
+    "height": 125,
+    "details": "Sub-harmonizer and Low Frequency booster\nhttp://www.manticeffects.com/products/density-hulk",
+    "hrid": "mantic-effects-density-hulk"
+}

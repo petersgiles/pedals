@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13003",
+    "name": "Phaser",
+    "image": "images/empress-effects-phaser.jpg",
+    "function": [
+        "Phase Shifter",
+        "Tremolo",
+        "Wah"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$364 Price in €",
+    "width": 123,
+    "height": 95,
+    "details": "Advanced Envelope PhaserRedefining the phaser effect from the ground up, Empress Effects has created a phaser pedal unlike anything else on the market. Employing a unique VCA based design, the Empress Phaser Pedal offers unparalleled signal-to-noise ratio. Choose between 2 stage, 4 stage or an Empress exclusive 3 stage mode; all controllable via tap tempo sweeping through an impressive set of 8 waveforms. \nThe Empress Phaser Pedal is the next generation in the evolution of digitally-controlled analog technology. It features an all-analog signal path but is controlled by a microprocessor, allowing it to maintain all its character and analog flavor while adding a ton of possibilities for control and adaptability. Sure, it does the classic jet sounds, super funky auto-wah and ring modulators, as well as having vibrato and Univibe sounds on tap. But what really sets the Empress Phaser Pedal apart are the auto modes: envelope following, audio-triggered sweeps, rhythms and direct control are just a few of the settings found on the Empress Phaser Pedal. \nIt also offers unsurpassed connectivity by featuring expression pedal control as well as accepting control voltage, external tap, external audio control and MIDI. All of this comes in a rock solid die cast aluminum enclosure with true bypass keeping things clean. \nhttps://empresseffects.com/products/phaser",
+    "hrid": "empress-effects-phaser"
+}

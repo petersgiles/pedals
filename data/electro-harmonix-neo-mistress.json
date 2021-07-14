@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11581",
+    "name": "Neo Mistress",
+    "image": "images/electro-harmonix-neo-mistress.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Mini FlangerThe new EHX NEO MISTRESS presents the lush flanging Electro-Harmonix is noted for. True to the classic Mistress, the Neo’s design adjusts the harmonic sweep to present the varied tonal density that flanging brings to musical performance. Manual filter matrix also included. Electro-Harmonix flanging takes advantage of the Feedback control to determine how much of the processed signal is fed back to the original. Always one of the sweetest modulations, the Neo Mistress presents professional flanging at a breakthrough cost.\nhttp://www.ehx.com/products/neo-mistress",
+    "hrid": "electro-harmonix-neo-mistress"
+}

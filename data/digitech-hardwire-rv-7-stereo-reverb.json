@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13385",
+    "name": "Hardwire RV-7 Stereo Reverb",
+    "image": "images/digitech-hardwire-rv-7-stereo-reverb.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$115 Price in €",
+    "width": 89,
+    "height": 140,
+    "details": "Multi-functional Stereo Reverb Features\nLexicon® Reverb Types\nRoom - Fast decaying reverb; great for a touch of ambience\nPlate - Renowned studio reverb heard on classic recordings\nReverse - Reverb in reverse; gradually crescendos to full volume\nModulated - Lush, modulating, reverb ideal for chords\nGated - Unique reverb with abrupt decay; good for percussive playing\nHall - Large, encompassing reverb with warm decay\nSpring - Classic \"surf\" reverb; great for Rockabilly too!\nTails On/Off Switch - When on, reverb tails are not cut off in bypass\nTrue Stereo I/O\nTrue Bypass circuitry preserves your tone in bypass\nConstant High-Voltage operation for uncompromised signal quality\nHardWire Pedals include the following stage accessories\nStomplock™ knob guard locks your tone in place and prevent tampering or accidental knob adjustments onstage\nPedal Switch Glow Sticker helps you locate the pedal in adverse stage lighting\nCustom-cut Hook and Loop Pedalboard Pad to attach and lock your pedals to your pedalboard",
+    "hrid": "digitech-hardwire-rv-7-stereo-reverb"
+}

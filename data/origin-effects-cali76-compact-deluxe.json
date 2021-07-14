@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11750",
+    "name": "Cali76 Compact Deluxe",
+    "image": "images/origin-effects-cali76-compact-deluxe.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 142,
+    "details": "CompressorThe Cali76 Compact Deluxe is an 1176-style studio-grade FET compressor\nFeaturing high-current, low-noise, discrete Class-A circuitry and a dedicated parallel compression control…\nall contained in one compact, stompbox-sized package!\nhttps://origineffects.com/product/cali76-compact-deluxe/",
+    "hrid": "origin-effects-cali76-compact-deluxe"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15760",
+    "name": "Bass Compactor",
+    "image": "images/tech-21-bass-compactor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 108,
+    "height": 146,
+    "details": "CompressionThe Bass Compactor is a very practical yet very cool combination of compression and active tone controls in a sensible pedal format. It is very economical ($125 MSRP), easy to operate, and portable -- fits right in your gig bag. For live performances and studio applications, the 100% analog design delivers Tech 21's legendary warm, natural tone. \nhttp://www.tech21nyc.com/archive/basscompactor.html",
+    "hrid": "tech-21-bass-compactor"
+}

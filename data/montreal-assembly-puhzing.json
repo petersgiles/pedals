@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12115",
+    "name": "PUHZING",
+    "image": "images/montreal-assembly-puhzing.jpg",
+    "function": [
+        "Distortion",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Montreal Assembly",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 63,
+    "height": 115,
+    "details": "Ring Mod\nhttp://mtlasm.blogspot.dk/p/puhzing.html",
+    "hrid": "montreal-assembly-puhzing"
+}

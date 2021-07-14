@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15777",
+    "name": "SE-2FS",
+    "image": "images/artec-se-2fs.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Artec",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 115,
+    "height": 75,
+    "details": "2ch. Foot Switch",
+    "hrid": "artec-se-2fs"
+}

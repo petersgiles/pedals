@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12322",
+    "name": "Echolution 2 Deluxe",
+    "image": "images/pigtronix-echolution-2-deluxe.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 145,
+    "height": 120,
+    "details": "Echolution 2 is the most powerful effects pedal that we've ever created. This massively flexible multi-tap stereo modulation delay features an entire array of customizable filter, LFO and pitch shifting options along with expression pedal and envelope control of every knob as well as complete MIDI control of every function. \nhttps://pigtronix.com/echolution/",
+    "hrid": "pigtronix-echolution-2-deluxe"
+}

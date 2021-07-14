@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32335",
+    "name": "SFT (2021)",
+    "image": "images/catalinbread-sft-(2021).jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "Amp in a box / \"Foundation\" overdriveSame insides but with new artwork!\nThe Catalinbread SFT is an AMPEG® inspired foundation overdrive that bridges the \"Get Yer Ya-Ya's Out (Stones) and the Desert Sound (Stoner) eras.\nWe’ve always been smitten by AMPEG®. Early on the company was a Jazz purist company, completely overlooking (possibly looking down on) more popular genres like Country & Western and Rock that FENDER® and MARSHALL® openly embraced. From a design standpoint they took more queues from the hifi world than they did from guitarists as evidenced by their tube complements, gain stages without cathode capacitors, and implementation of the Baxandall tone controls. And they we’re no slouches to innovation either, “Flip-top” combos is a great example. Not to mention there is at least one model of amplifier that had a torsion bar to adjust the tightness of the speaker baffle!",
+    "hrid": "catalinbread-sft-(2021)"
+}

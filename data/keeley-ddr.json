@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24289",
+    "name": "DDR",
+    "image": "images/keeley-ddr.jpg",
+    "function": [
+        "Delay",
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "",
+    "hrid": "keeley-ddr"
+}

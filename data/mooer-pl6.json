@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14618",
+    "name": "PL6",
+    "image": "images/mooer-pl6.jpg",
+    "function": [
+        "Switch",
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Mooer",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 370,
+    "height": 97,
+    "details": "Programmable Loopswitcher With the PCL6, controlling your pedals has never been so easy and convenient. The PCL6 is a programmable 6 channel loop controller.After connecting your pedals to the 6 true bypass loops, the PCL-6 provides a control hub right at the front of your pedalboard which can be operated in 2 different ways.\nIn preset mode, any combination of multiple loops can be instantaneously engaged or disengaged at the touch of a single footswitch, without the need to tap dance all over your pedalboard. In this mode the Loop Controller has 6 banks, with 6 presets in each bank, giving a total of 36 possible preset pedal combinations available.\nIn Live mode the PCL6 operates in a more traditional manor. Each loop has its own dedicated footswitch which simply engages and disengages it's respective loop. This is perfect for the more old school musicians who simply want their pedals footswitches conveniently relocated for easy access.\nEach loop has a backlit display panel which can be written on or can take the colored stickers provided and makes it easy to see at a glance which loops are engaged and disengaged.\nhttp://www.mooeraudio.com/?product/201607156018.html",
+    "hrid": "mooer-pl6"
+}

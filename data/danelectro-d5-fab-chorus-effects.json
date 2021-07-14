@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25540",
+    "name": "D5 Fab Chorus Effects",
+    "image": "images/danelectro-d5-fab-chorus-effects.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "27 mA / 9 V / DC / Negative Center",
+    "cost": "$16 Price in €",
+    "width": 117,
+    "height": 112,
+    "details": "ChorusMix, speed, and depth controls\nLarge button\n9V operation, battery (not included) or optional adapter",
+    "hrid": "danelectro-d5-fab-chorus-effects"
+}

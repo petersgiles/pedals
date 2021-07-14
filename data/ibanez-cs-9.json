@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12408",
+    "name": "CS-9",
+    "image": "images/ibanez-cs-9.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 76,
+    "height": 124,
+    "details": "Stereo Chorus",
+    "hrid": "ibanez-cs-9"
+}

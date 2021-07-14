@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11451",
+    "name": "Alter Ego V2 Vintage Echo",
+    "image": "images/tc-electronic-alter-ego-v2-vintage-echo.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 73,
+    "height": 122,
+    "details": "Vintage echo9 delay types\nEREC 2: Binson Echorec 2\nDMMC: Electro-Harmonix Deluxe MemoryMan Chorus\nT ORG: Tel Ray Organ Tone\n2290 M: TC Electronic 2290 Modulated\nREV M: Reverse Modulated\nBDM2: Boss DM-2\nCKAT: Watkins Copykat\nEP1: Maestro Echoplex 1*\nSP: Roland Space Echo\n* exclusive to V2\nAnd\nLP – Looper setting\nTP - TonePrint setting\nhttp://www.tcelectronic.com/alter-ego-2-vintage-echo/",
+    "hrid": "tc-electronic-alter-ego-v2-vintage-echo"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18628",
+    "name": "Mini Glitch",
+    "image": "images/the-king-of-gear-mini-glitch.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch"
+    ],
+    "manufacturer": "The King of Gear",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 59,
+    "height": 110,
+    "details": "Intuitive Glitch/Stutter Effect with Three Trigger Modes and Adjustable Randomization==Modes==\nIt has three modes, each of which uses a different mechanism to trigger glitches. The Random (RND) mode starts and stops glitching at random – this mode replicates the Max/MSP patch on which the pedal is based. The Switched mode (SW) starts glitching when the footswitch is depressed; it can be set for either momentary or latching functionality. The Threshold (TRSH) mode starts a new glitch each time it receives an input signal over a set threshold. All three modes offer the option to randomize the length of the glitching sample, or to set it to a fixed length (up to 1 second in RND and SW modes, and 500ms in TRSH mode).\n==Dry-Path==\nThe pedal also offers control over the analog dry path. With the dry gate set to “MUTE”, the dry signal will be silenced when glitching is active – mirroring the original Max/MSP patch and sounding similar to a broken CD-player. Alternatively, the gate can be set to pass regardless of glitch activity, which allows one to layer their dry signal with the effect.\n==Controls==\nThe “Sample Size” knob controls the length of the glitch in all three modes, but also offers a unique secondary function in each mode. In Random mode, it adjusts how frequently new random values are generated, thus determining how often glitching starts and stops (at very low settings, glitching will occur infrequently, but may persist long time when it does). In Switched mode, it adjusts the maximum sample length when the knob is set to the “rnd” position (the maximum random sample length is fixed in the other two modes). In Threshold mode, it adjusts the threshold level.\nThe volume of the effected signal is adjustable via an internal trim pot. The dry signal is kept at unity gain (except when it is muted, of course).\n==Jacks/Power==\nThe Mini Glitch features top-mount power and audio jacks. It requires +9V center-negative power (standard BOSS-style).\nhttp://thekingofgear.com/miniglitch",
+    "hrid": "the-king-of-gear-mini-glitch"
+}

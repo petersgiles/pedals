@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17419",
+    "name": "Supermoon",
+    "image": "images/mr.-black-supermoon.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 112,
+    "details": "Modulated Reverb",
+    "hrid": "mr.-black-supermoon"
+}

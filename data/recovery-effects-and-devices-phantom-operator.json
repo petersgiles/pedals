@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26988",
+    "name": "Phantom Operator",
+    "image": "images/recovery-effects-and-devices-phantom-operator.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Supernatural Random Flux FilterThis supernatural filter has a mind of its own. With its rhythmic paranormal activity, you may think there’s a ghost at the helm. The haunted randomization makes you feel like you’ve entered the Twilight Zone. Plug into this pedal for endless inspiration that challenges you to compete against an otherworldly spirit!\nThe Sample and Hold mode allows ability to add rhythmic patterns, achieve complex tremolo, cadenced filters, and hard, glitched-out sounds. The Voltage Controlled Filter mode is an incredibly smooth, classic low-pass, conducted by the dynamics of the input. Controls allow manipulation of filter frequency, as well as resolution, attack and decay. \nThe Phantom Operator includes mode-changing via foot switch, with status and speed indicators. It’s 100 percent analog, true bypass, and hand-wired with quality, through-hole components. Powered by a standard 9vdc negative-tip power supply. Made in Seattle, Washington.\nhttps://recoveryeffects.com/products/phantom-operator",
+    "hrid": "recovery-effects-and-devices-phantom-operator"
+}

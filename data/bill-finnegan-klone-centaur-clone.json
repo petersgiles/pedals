@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20892",
+    "name": "Klone Centaur clone",
+    "image": "images/bill-finnegan-klone-centaur-clone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Bill Finnegan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$56 Price in €",
+    "width": 142,
+    "height": 118,
+    "details": "Clone in 1590XX enclosureCopy of the famous Klon Centaur in a 1590XX enclosure.",
+    "hrid": "bill-finnegan-klone-centaur-clone"
+}

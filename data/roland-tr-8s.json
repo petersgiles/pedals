@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31597",
+    "name": "TR-8S",
+    "image": "images/roland-tr-8s.jpg",
+    "function": [
+        "Controller",
+        "Delay",
+        "Drum",
+        "MIDI",
+        "Multieffect",
+        "Sampling"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$699 Price in €",
+    "width": 406,
+    "height": 267,
+    "details": "Rhythm Performer",
+    "hrid": "roland-tr-8s"
+}

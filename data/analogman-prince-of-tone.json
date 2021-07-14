@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12043",
+    "name": "Prince of Tone",
+    "image": "images/analogman-prince-of-tone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$138 Price in €",
+    "width": 64,
+    "height": 120,
+    "details": "Boost/Overdrive/DistortionThe POT is the same as half of the King of Tone, with an external MODE switch standard. It is the same as the KOT with HIGHER GAIN option, so you can use the full range of the DRIVE knob and it has a little more drive at the top than a normal gain KOT. The DISTORTION mode is improved though, for a louder, stronger distortion sound. See http://www.kingoftone.com for more info.\nhttps://www.buyanalogman.com/Analog_Man_Prince_of_Tone_overdrive_pedal_p/ampot.htm",
+    "hrid": "analogman-prince-of-tone"
+}

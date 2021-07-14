@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14850",
+    "name": "Octabvre Mini",
+    "image": "images/3leaf-audio-octabvre-mini.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Octave DownThe Octabvre Mini is a modified and miniaturized version of the Octabvre that was designed for bass player and effects guru Tim Lefebvre. It starts with the popular Tim-tuning mod from the original and takes it further with a reworked tone knob that runs the gamut from classic OC-2-inspired thump to all-out sub fuzz.\nThe new tone knob blends together two independent tone circuits. With the tone knob fully counterclockwise, the Octabvre Mini is a functional equivalent of the classic Boss OC-2 Octaver. As the tone knob is turned up, a fuzzy square wave version of the octave down circuit is introduced.\nhttp://www.3leafaudio.com/phone/octabvre-mini.html",
+    "hrid": "3leaf-audio-octabvre-mini"
+}

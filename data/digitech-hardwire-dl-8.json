@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12871",
+    "name": "Hardwire DL-8",
+    "image": "images/digitech-hardwire-dl-8.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 104,
+    "height": 157,
+    "details": "Digital Delay",
+    "hrid": "digitech-hardwire-dl-8"
+}

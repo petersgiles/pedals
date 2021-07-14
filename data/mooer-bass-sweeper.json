@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30462",
+    "name": "Bass Sweeper",
+    "image": "images/mooer-bass-sweeper.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Bass Envelope Filter and Fuzz pedalThe Sweeper is a dynamic envelope filter pedal that works great with both bass and guitar. The Clean mode produces an excellent dynamic envelope filter effect with unique vocal-like sounds; the Fuzz mode adds some fuzz tone for a vintage sound. Overall unique funky style filter tone.",
+    "hrid": "mooer-bass-sweeper"
+}

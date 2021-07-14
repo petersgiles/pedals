@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12880",
+    "name": "ODB-3 Bass Overdrive",
+    "image": "images/boss-odb-3-bass-overdrive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "OverDrive pedal specifically designed for bass\nOnboard two-band equalizer\nBalance knob controls dry/overdriven sound\nAC adaptor or 9V battery operation\nBOSS five-year warranty\nhttps://www.boss.info/us/products/odb-3/",
+    "hrid": "boss-odb-3-bass-overdrive"
+}

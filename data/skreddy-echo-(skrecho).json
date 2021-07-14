@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13611",
+    "name": "Echo (Skrecho)",
+    "image": "images/skreddy-echo-(skrecho).jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Skreddy",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$279 Price in €",
+    "width": 94,
+    "height": 118,
+    "details": "Echo",
+    "hrid": "skreddy-echo-(skrecho)"
+}

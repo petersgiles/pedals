@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17141",
+    "name": "WireTap Riff Recorder",
+    "image": "images/tc-electronic-wiretap-riff-recorder.jpg",
+    "function": [
+        "Sampling",
+        "Utility"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 50,
+    "height": 92,
+    "details": "Ultra-Compact Riff Recorder with 8 Hours of Recording Time, Syncable with WireTap App for Songwriting \"On the Go\" \nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/WIRETAP-RIFF-RECORDER/p/P0CM1",
+    "hrid": "tc-electronic-wiretap-riff-recorder"
+}

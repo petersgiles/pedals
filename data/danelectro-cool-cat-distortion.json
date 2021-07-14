@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20268",
+    "name": "Cool Cat Distortion",
+    "image": "images/danelectro-cool-cat-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 90,
+    "height": 120,
+    "details": "distortion",
+    "hrid": "danelectro-cool-cat-distortion"
+}

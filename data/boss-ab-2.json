@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25732",
+    "name": "AB-2",
+    "image": "images/boss-ab-2.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Boss",
+    "current": "5 mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 96,
+    "height": 90,
+    "details": "2 Way SelectorThe BOSS AB-2 is a 2-way selector that makes changing inputs or outputs easy. One stomp is all it takes to instantly switch between two guitars or effects setups, change amplifiers or switch between an amp and tuner. Rock-solid BOSS construction ensures the AB-2 will stand the test of time.\nhttps://www.boss.info/us/products/ab-2",
+    "hrid": "boss-ab-2"
+}

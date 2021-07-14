@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19707",
+    "name": "Fat Rat",
+    "image": "images/proco-fat-rat.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 102,
+    "height": 127,
+    "details": "Modded RAT VariantVariant of the ProCo RAT with selectable MOSFET/standard clipping and bass boost switches, as well as a socketed op-amp for simplified chip switching.\nhttp://www.ratdistortion.com/product/107/fat-rat",
+    "hrid": "proco-fat-rat"
+}

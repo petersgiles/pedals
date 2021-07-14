@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15604",
+    "name": "PXL4",
+    "image": "images/joyo-pxl4.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 283,
+    "height": 67,
+    "details": "controller",
+    "hrid": "joyo-pxl4"
+}

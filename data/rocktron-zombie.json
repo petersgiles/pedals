@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19002",
+    "name": "Zombie",
+    "image": "images/rocktron-zombie.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$56 Price in €",
+    "width": 135,
+    "height": 145,
+    "details": "Rectified Distortionnice distortion\nhttp://www.rocktron.com/uploads/2/2/2/5/22258814/zombie.pdf",
+    "hrid": "rocktron-zombie"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13332",
+    "name": "Warp Drive",
+    "image": "images/stone-deaf-warp-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 117,
+    "height": 152,
+    "details": "The Warp Drive effectively turns your instrument into a supersonic sledgehammer! With its vast gain range, Warp Drive will give you everything from the smoothest crunch tones to the meanest and most manic metal tones you’ve ever heard and with its foot-swThe Warp Drive is a high-gain Paracentric-Distortion filter and when we say high-gain we mean really high-gain! With its ultra-saturated cascading gain stage circuit, you can craft those often hard to get saturated tones you love with ease. From Sabbath-era hard rock metal, Pantera early 1990’s metal or even more modern metal tones like Mastadon, Bullet for My Valentine and Trivium, it’s all here in spades. The built-in noise gate allows for very tight rhythm playing and holds extremely well if you want to gain stack even further into the pedal. \n​\nIt’s not all about gain though. Without the control Warp Drive allows, most high-gain pedals will leave just a mush of distortion that can be hard to tame. Like no other pedal before it and with the built-in Paracentric EQ, you can refine your tone to cut through the mix or do novel layering techniques when recording different frequencies from the pedal. All of this gives you that huge sounding guitar tone so prominent in metal and hard rock music. \n​\nAdd a Stone Deaf EP-1 active expression pedal to the expression input control and on top of the impressive regular tone shaping features, Warp Drive can also be used for high gain wah, phaser as well as the ability to control your tone on the fly with your foot. \n​\nhttp://www.stonedeaffx.com/warp-drive",
+    "hrid": "stone-deaf-warp-drive"
+}

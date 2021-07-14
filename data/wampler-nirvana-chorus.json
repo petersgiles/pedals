@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23610",
+    "name": "Nirvana Chorus",
+    "image": "images/wampler-nirvana-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Wampler",
+    "current": "13 mA / 9 V / DC / Negative Center",
+    "cost": "$168 Price in €",
+    "width": 102,
+    "height": 124,
+    "details": "An extremely flexible chorus pedal designed to take you to total nirvana - extreme lushness, nice and watery if you desire, or swirling speaker tones!The Nirvana Chorus was designed by Brian not to emulate the chorus sound\nheard on a particularly famous grunge band, but rather to bring you tonal\nnirvana.\nIt's built with \u001fexibility in mind, giving you a huge range of chorus and vibrato\nsounds. There have been a great deal of high-quality chorus units over the years,\nit's a classic e\u001eect in the guitarist repertoire without which no board is truly\ncomplete.\nHowever, all those classic chorus pedals and rack units have something in\ncommon: one characteristic sound. You'll hear guitarists talk about how they love\nhow dark and \"wet\" a particular chorus sounds, or jazz guitarists might really dig\nthe dry, subtle chorus of a di\u001eerent unit.\nThey also have the unfortunate characteristic of often causing a volume drop or\nvolume boost when engaged. Brian approached designing the Nirvana Chorus as\na way to get the best sounds, capable of tons of tones, adjustable in all the\nimportant ways, from shallow and light and fast and bright, to dark and murky,\nslow, and deep as the ocean.\nAs a crowning element, it won't raise or lower your volume, because you can\nadjust its level! It really is an ideal chorus, tunable for any use that you can think\nof.\nOh, and it also does all that for Vibrato. Cool, huh? Dig in!\nhttp://www.wamplerpedals.com/support/download/send/4-discontinued-products/22-nirvana-chorus",
+    "hrid": "wampler-nirvana-chorus"
+}

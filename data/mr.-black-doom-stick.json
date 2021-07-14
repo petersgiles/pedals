@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17491",
+    "name": "Doom Stick",
+    "image": "17491.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 97,
+    "height": 120,
+    "details": "Gated fuzzDoes it Fuzz?  Yeah.  It Fuzzes.\nBut does it DOOM!?  Oh yeah.  It DOOMS.\nOne knob to keep it simple.\nHit it and get heavy.\nPLEASE NOTE:  THIS PEDAL HAS A VERY HEAVY AND AGGRESSIVE FIXED NOISE-GATE BUILT INTO THE CIRCUIT\nhttps://www.mrblackpedals.com/products/doomstick-fuzz",
+    "hrid": "mr.-black-doom-stick"
+}

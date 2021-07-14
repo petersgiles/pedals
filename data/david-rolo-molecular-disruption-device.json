@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12191",
+    "name": "Molecular Disruption Device",
+    "image": "images/david-rolo-molecular-disruption-device.jpg",
+    "function": [
+        "Delay",
+        "Multieffect",
+        "Pitch Shifter",
+        "Sampling",
+        "Digital Glitch"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$291 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "DSP based multi-effectThe Molecular Disruptor is a DSP based multi-effect pedal that can be loaded with 16 effects of your choice from the molecular patches list, which is regularly being updated with new patches. These patches are loaded on swappable “Molecular Modules” that hold the 2 banks of 8 effects.\nEssentially, this “à la carte” system allows you to have a pedal that has up to 16 effects tailored to your needs. Plus, if you ever feel the need to have different effects, you can always order a new module.\nhttp://www.davidrolo.com/product/molecular-disruption-device/",
+    "hrid": "david-rolo-molecular-disruption-device"
+}

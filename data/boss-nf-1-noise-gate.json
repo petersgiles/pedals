@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12831",
+    "name": "NF-1 Noise Gate",
+    "image": "images/boss-nf-1-noise-gate.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Boss",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The NF-1 is a simple noise gate that just cut off all sound as soon as the level falls below the threshold set. Adjust the Sens knob to the threshold level where you want the pedal to cut off and adjust the Decay knob to how fast you want the sound to disappear. It’s not going to get much easier than that. The NF-1 should by normal conventions be called NG-1, but NG could be interpreted as No Good so NF-1 for Noise Filter was chosen instead.\nEarly NF-1s with 4 digit serial numbers had a silver thumb screw. Pedals with serial number earlier than 15xx00 are of the so called long dash type where the hyphen between NF and 1 are longer than normal.\nSpecifications\nControls: Sens, Decay\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 3.9 mA (DC 9V)\nWeight: 400 g (14 oz)\nInput Impedance: 470kOhm\nRecommended Load Impedance: 10kOhm or more\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe NF-1 was sold from February 1979 to May 1988.\nhttp://www.bossarea.com/boss-nf-1-noise-gate/",
+    "hrid": "boss-nf-1-noise-gate"
+}

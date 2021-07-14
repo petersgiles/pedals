@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23418",
+    "name": "Flashback 2 X4",
+    "image": "images/tc-electronic-flashback-2-x4.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "MIDI",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 235,
+    "height": 145,
+    "details": "MIDI-capable delay with 3 pressure-sensitive footswitchesFlagship Delay Pedal Expanded with 3 MASH Switches, New Crystal, Analog and Tape Delays and 6 Delay Presets.\n\nLegendary delay pedal with 3 pressure-sensitive footswitches, new algorithms and 6 presets\n3 footswitches with MASH let you toggle between delay sounds instantly\nNew pristine Crystal algorithm along with hyper-realistic Analog and Tape algorithms\nPreset bank switch lets you easily access up to 6 stored delay presets\n10 quality delay types plus 6 TonePrint slots that let you store effects and artist TonePrints\nDedicated tap tempo switch keeps your delay effects right on the beat\nMASH footswitches give you powerful effect-specific real-time parameter control\nSubdivision knob with 11 tempo settings for a wealth of rhythmic delay possibilities\nCraft delays and customize MASH functionality with free TonePrint App (PC, Mac*, iPhone*, Android* and iPad*)\nAnalog-Dry-Through maintains integrity of analog dry signal path when delay is on\nExpression pedal and MIDI inputs control parameters and preset changes remotely and lock delays to external MIDI tempo\n40 second looper with footswitches for Record, Play/Pause, Play Once and Undo/Redo for total creative freedom\n3-Year Warranty Program*\nDesigned and engineered in Denmark\n\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/FLASHBACK-2-X4-DELAY/p/P0DHS",
+    "hrid": "tc-electronic-flashback-2-x4"
+}

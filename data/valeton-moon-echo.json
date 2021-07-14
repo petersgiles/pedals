@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28667",
+    "name": "Moon Echo",
+    "image": "images/valeton-moon-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Valeton",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 47,
+    "height": 93,
+    "details": "Analog-voiced delay with digital IC chip",
+    "hrid": "valeton-moon-echo"
+}

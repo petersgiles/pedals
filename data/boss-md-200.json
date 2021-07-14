@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22671",
+    "name": "MD-200",
+    "image": "images/boss-md-200.jpg",
+    "function": [
+        "Chorus",
+        "Filter",
+        "Flanger",
+        "MIDI",
+        "Multieffect",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Boss",
+    "current": "225 mA / ? V / AC",
+    "cost": "$249 Price in €",
+    "width": 101,
+    "height": 138,
+    "details": "Twelve different modulation modesClass-leading sound quality with 32-bit AD/DA, 32-bit floating point processing, and 96 kHz sampling rate\nTwelve versatile modes provide a wide range of modulation types\nDedicated rate, depth, and level controls, plus three parameter knobs that change function with the selected mode\nInsert Loop function for positioning external pedals before or after mod effects\nReal-time panel setting and four memories for storing favorite sounds\nGlobal setting optimizes flanger, phaser, and auto wah effects for guitar or bass\nPanel Lock function disables controls to prevent unwanted changes\nCustomizable multi-function footswitches for tap tempo, memory selection, and more\nSupport for expanded control via external footswitches, an expression pedal, or MIDI\nFull MIDI I/O provided with mini TRS jacks (BMIDI-5-35 adaptor cable available separately)\nMicro USB jack for firmware updates\nRuns on PSA-series AC adaptor or three AA-size batteries\nhttps://www.boss.info/us/products/md-200/",
+    "hrid": "boss-md-200"
+}

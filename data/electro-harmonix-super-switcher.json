@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24306",
+    "name": "Super Switcher",
+    "image": "images/electro-harmonix-super-switcher.jpg",
+    "function": [
+        "PreAmp",
+        "Looper",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$442 Price in €",
+    "width": 483,
+    "height": 152,
+    "details": "Programmable Effects HubThe Super Switcher, as its name implies, offers a powerful solution for players who are tired of “tap dancing” around their pedalboard. In effect, it moves all of your pedals to your pedalboard’s front row while delivering control of them with one button push. The result is that it puts the player back in control of an unruly pedalboard!\nIt’s also perfect for any guitarist using the “four-cable method” because it makes it easy to properly route effects that should go in front of an amp and those that are best in the effects loop.\nWhen it comes to live performance, the Super Switcher can efficiently organize presets into banks that are easy to recall and match your show’s set list. If you’re playing to a click track and want to have the presets recalled via MIDI programmed to a song, the Super Switcher can handle that, too. It’s also a great way to sync time-based effects to the same master clock.\nhttps://www.ehx.com/products/super-switcher",
+    "hrid": "electro-harmonix-super-switcher"
+}

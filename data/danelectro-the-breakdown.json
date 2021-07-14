@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27603",
+    "name": "The Breakdown",
+    "image": "images/danelectro-the-breakdown.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 59,
+    "height": 111,
+    "details": "6-Way Overdrive BoostRewind to 1968. Famous guitar god uses this pedal to record his first album. Entire planet goes nuts. Inexplicably, the pedal then disappears. Until now. Danelectro® resurrects this awesome, incredibly organic sounding pedal. 6 position “Break Up” control takes your ­guitar signal and slams the front of your amp with increasing punch. Positions 1 through 3 are ear-friendly and have “leave on all the time” potential. Positions 4 through 6 grab you and knock you back against the nearest piece of ­concrete. But in the most ­pleasant way. Caution: Do not ­listen to this… unless you want it to be your life companion. \nhttps://danelectro.com/pedals/breakdown-eisenhower/",
+    "hrid": "danelectro-the-breakdown"
+}

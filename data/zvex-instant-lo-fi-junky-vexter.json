@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11701",
+    "name": "Instant Lo-Fi Junky Vexter",
+    "image": "images/zvex-instant-lo-fi-junky-vexter.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$301 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "",
+    "hrid": "zvex-instant-lo-fi-junky-vexter"
+}

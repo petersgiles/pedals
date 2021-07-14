@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32166",
+    "name": "HX STOMP XL",
+    "image": "images/line6-hx-stomp-xl.jpg",
+    "function": [
+        "Controller",
+        "Digital",
+        "Looper",
+        "MIDI",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "3000 mA / 9 V / DC / Negative Center",
+    "cost": "$750 Price in €",
+    "width": 320,
+    "height": 100,
+    "details": "HX Stomp, Expanded\nThe HX Stomp™ XL amp and effects processor delivers HX® modeling in a performance-ready pedal with eight capacitive-touch footswitches. The same SHARC® DSP chip found in Helix® enables it to run up to eight processing blocks simultaneously, and the footswitches let you access and control those blocks in powerful ways. \nFootswitches 1-6\nThese capacitive-touch footswitches feature color LED rings that convey footswitch assignments and status at-a-glance.\n128 inspiring presets\nNot only does the HX Stomp XL give you 128 presets for real-world gigging applications, but it also comes loaded with heaps of great tones for instant inspiration. Stock presets are organized by instrument (guitar, bass, keys, acoustic) and application (direct to PA, 4-cable amp routing, etc.), which makes it fast and intuitive to dive in and find tones.\n4-cable amp integration\nModern ampists rejoice! The HX Stomp XL has integrated support for 4-cable amp integration. This allows you to front load your FX loop-equipped guitar head with stomps traditionally reserved for the front end of an amp (drives, EQs, filters, wahs, and fuzzes), and back-end effects that tend to sound best after an amp's preamp section (delay, reverb, and modulation). Not only that, but several of the HX Stomp XL's presets are also preconfigured for the 4-cable method, which provides a pre-routed template from which to create custom patches.\nExhaustive I/O\nThe HX Stomp XL is much more than a multi-effects amp modeler. Though it can easily replace your current board into the front end of your amplifier, it also boasts enough I/O and control to take the lead in even the most complex guitar setups. Here's what you get:\nStereo TS ins and balanced TRS outs minimize noise into guitar and pro-level gear\nFX loop lets you incorporate your favorite stomps anywhere in your chain\nMIDI in/out for traditional MIDI switchers or advanced performance integration\nTRS expression pedal/footswitch jack lets you connect up to two external expression pedals (volume and wah, for example) or expand your switching options by two\nUSB connection for computer-based patch management and effortless firmware updating\n\nLine 6 HX Stomp Amp Modeler and Multi-effects \nProcessor Features:\nThe processing power of the Helix family in an intuitive 8-switch stomp\nThe ultimate standalone travel rig, or a balanced part of any pedalboard/amp setup\nExpansive MIDI capability turns the HX Stomp XL into a complex, MIDI-enabled rig’s command center\n300+ onboard amp, cab, and stomp models from the Helix family, M-series, and legacy Line 6 products\nWorld-class polyphonic pitch-shifting effects\n128 presets to cover real-world gigging applications\nChoose up to 8 blocks per preset\nSave 4 snapshots per preset and seamlessly switch between them\n24/96 HX audio engine delivers pristine quality and realistic modeling\nBrilliant 2.4-inch full-color display\nFX loop for front- or back-loading stomp effects\nPreconfigured 4-cable amp integration\nTrue stereo performance from input to output\nMIDI capability for traditional switchers and advanced performance integration\nDoubles as a USB audio interface with re-amp capabilities\nTrue bypass switching eliminates tone suck on your pedalboard\nConvenient computer-based patch management and firmware upgrades\nSupports third-party impulse responses (IRs)\n\nhttps://uk.line6.com/hx-stomp-xl/",
+    "hrid": "line6-hx-stomp-xl"
+}

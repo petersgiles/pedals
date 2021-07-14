@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30984",
+    "name": "Julia Limited Edition V2 Santa Fe",
+    "image": "images/walrus-audio-julia-limited-edition-v2-santa-fe.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Analog Chorus/Vibrato",
+    "hrid": "walrus-audio-julia-limited-edition-v2-santa-fe"
+}

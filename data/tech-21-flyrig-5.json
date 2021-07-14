@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22063",
+    "name": "FlyRig 5",
+    "image": "images/tech-21-flyrig-5.jpg",
+    "function": [
+        "PreAmp",
+        "Delay",
+        "Distortion",
+        "Modeling/Simulation",
+        "Reverb"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 292,
+    "height": 64,
+    "details": "Combination SansAmp with Plexi emulation and delay• SansAmp tube amplifier emulator, is pre-voiced for clean tones. It includes 3-band active EQ, Level, and Drive to adjust the overall amount of gain and overdrive.\n• Reverb, within the SansAmp section, is based upon the Boost RVB pedal. It emulates the rich ambiances of a vintage spring reverb without clattery pings, canyons of doom, or other annoying artifacts.\n• Plexi, based upon the Hot-Rod Plexi pedal, brings in the organic distortion of a stock ‘68 Plexi and includes Level, Tone and Drive controls.\n• Hot, within the Plexi section, kicks in up to 21dB of pre-amp gain. It can be used independently to boost the SansAmp and/or DLA functions, as well as on its own to boost the gain of your amp.\n• DLA is based upon the Boost DLA pedal. It is voiced to give you the sounds of a vintage tape echo and features Level, Time, Repeats, and Drift, which adds a random element to the modulation for authentic textures. A dedicated Tap Tempo switch makes it super simple to just tap in the delay tempo you want during your performance.\n• All analog signal path; reverb and delay are mixed in parallel.\n• Get 5 “must-have” gigging pedals for 1/3 the cost at 1/3 the size, without sacrificing pro quality tone.\n• All metal housing in gunmetal finish.\n• Metal footswitches and jacks.\n• 1/4-inch high-impedance input.\n• 1/4-inch low impedance output.\n• Silent-switching, custom footswitch actuators.\n• ﻿Utilizes included 12V DC power supply, 150mA, center negative. North America: Model #DC3-A / International: Model #DC3-D \nNote: International power supplies are “auto-switching,” self-adjusting 100V-240V. It can be used anywhere in the world with the proper plug/travel adapter for the host country.\nwww.tech21nyc.com/products/sansamp/flyrig.html",
+    "hrid": "tech-21-flyrig-5"
+}

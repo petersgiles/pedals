@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20103",
+    "name": "Hexacomp",
+    "image": "images/akai-hexacomp.jpg",
+    "function": [
+        "Dynamics",
+        "Equalizer"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / ? V / DC",
+    "cost": "",
+    "width": 134,
+    "height": 175,
+    "details": "Multiband compressorHEXACOMP is a new pedal suitable for both guitarists and bassists featuring six compressors in one rugged pedal. The input is split into 6 bands according to frequency and then fed to the individual compressors. Each compressor operates completely independently, with dedicated control of input gain and compression ratio for each band. The separate bands are then mixed and sent to the output gain control.\nhttp://www.effectsdatabase.com/model/akai/pedals/c2m",
+    "hrid": "akai-hexacomp"
+}

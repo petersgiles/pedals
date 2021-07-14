@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23992",
+    "name": "RevivalDrive Compact",
+    "image": "images/origin-effects-revivaldrive-compact.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$462 Price in €",
+    "width": 67,
+    "height": 144,
+    "details": "https://origineffects.com/product/revivaldrive-compact/",
+    "hrid": "origin-effects-revivaldrive-compact"
+}

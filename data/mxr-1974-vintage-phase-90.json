@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11693",
+    "name": "1974 Vintage Phase 90",
+    "image": "images/mxr-1974-vintage-phase-90.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "",
+    "hrid": "mxr-1974-vintage-phase-90"
+}

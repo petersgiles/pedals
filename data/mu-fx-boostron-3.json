@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19744",
+    "name": "Boostron 3",
+    "image": "images/mu-fx-boostron-3.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Distortion",
+        "Looper"
+    ],
+    "manufacturer": "Mu-FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 114,
+    "height": 152,
+    "details": "boost/compression/distortionBased upon a Trio of Classic Designs\nThe NEW Mu-FX Boostron 3 is three pedals in one… and three you might never want to turn off!\nStage 1: Based upon an Alembic Stratoblaster clean boost\nStage 2: Based upon a Musitronics/Dan Armstrong Orange Squeezer compressor\nStage 3: Based upon a Pro Co RAT distortion\nThe Alembic Stratoblaster is a FET preamp that provides a clean boost. The original product was a retrofit guitar input jack with the (battery powered) effect built in – controlled by an on/off switch and a small adjustable trim pot for the desired amount of gain. The Musitronics/Dan Armstrong Orange Squeezer is a very simple and distinctive sounding compressor. The original product was a small cube that plugged directly into your guitar (…unless you had a Strat!), powered by a 9V battery and was controlled by an on/off switch as well as an internal trim pot for setting the desired output level. The Pro Co RAT is an LM308 op-amp distortion that ranges from bluesy overdrive to full-out fuzzy distortion. The original product was a moderately sized effects pedal powered by a 9V battery.\nThe Mu-FX Boostron 3 provides added functionality to these classic effects all bundled in our “mini-mu” housing. Made in the USA, this new Mu-FX product combines visual and sonic cues from the past with a thoroughly modern, pedal board oriented approach.\nhttps://www.mu-tron.com/shop/pedals/mu-fx-boostron3/",
+    "hrid": "mu-fx-boostron-3"
+}

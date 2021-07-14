@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15359",
+    "name": "PLL-4046",
+    "image": "images/elta-music-pll-4046.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice"
+    ],
+    "manufacturer": "Elta Music",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$295 Price in €",
+    "width": 203,
+    "height": 121,
+    "details": "Analog Harmonic SynthesizerThe PLL, from Elta Music, is an analog harmonic synthesizer. It turns your input signal into a square wave, and then multiplies or divides the frequency of that square wave, providing overtones and undertones from the original pitch, with extreme timbral intensity. The signal can be multiplied and divided simultaneously, providing an effect like chords. The tracking of the pedal can be adjusted according to the loop track control. \nPLL-4046 Features\n    Phase Locked Loop pedal\n    Division and Multiplication of input frequency\n    Chord playing type mode\n    Footswitchable FUZZ, MULTIPLIER, DIVIDER all available simultaneously!\nhttps://www.eltamusic.com/pll",
+    "hrid": "elta-music-pll-4046"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11694",
+    "name": "Space Commander",
+    "image": "images/jhs-space-commander.jpg",
+    "function": [
+        "Chorus",
+        "PreAmp",
+        "Reverb"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 110,
+    "height": 120,
+    "details": "Boost, Chorus & Reverb.In the wake of sexual misconduct allegations against Ryan Adams, the singer-songwriter’s signature JHS VCR pedal has been rebranded by the company - and you can pay to have yours rehoused, too.\nThe Space Commander delivers the same combination of ’80s-inspired boost, chorus and reverb effects, with toggle-switches to take each one in or out of the circuit.\nWhile the new pedal will cost $229, JHS is also offering to rehouse existing VCR pedals with the new design for $35.\nIn February, gear companies including JHS Pedals, Walrus Audio, Benson Amps and Fender confirmed they would no longer be working with Ryan Adams on signature products following allegations in an in-depth article by the New York Times.",
+    "hrid": "jhs-space-commander"
+}

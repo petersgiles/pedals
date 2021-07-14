@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14401",
+    "name": "Deluxe Electric Mistress (Classic)",
+    "image": "images/electro-harmonix-deluxe-electric-mistress-(classic).jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 190,
+    "height": 165,
+    "details": "The classic analog FlangerAn array of critically notched and tuned filters gracefully sweep the sound spectrum, creating shimmering, ethereal passages that are truly out of this world. Exclusive Filter Matrix mode disengages the automatic sweep, allowing manual positioning of the filter bank to achieve chime-like metallic tones and other unique effects.\nhttps://www.ehx.com/products/deluxe-electric-mistress",
+    "hrid": "electro-harmonix-deluxe-electric-mistress-(classic)"
+}

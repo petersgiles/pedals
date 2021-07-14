@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13972",
+    "name": "Mini Switch For Vox VFS-2",
+    "image": "images/american-loopers-mini-switch-for-vox-vfs-2.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 93,
+    "height": 40,
+    "details": "Mini Aux Switch For Vox VFS-2 (2 button no led)This two button Aux switch will allow you operate your Vox VC30 AMP and any other amp that uses the standard tip to sleeve configuration.\nhttps://www.americanloopers.com/products/aux-switch-for-vox-vfs-2-2-button-no-led-ad15-30-50-100vt-ad100vth-v9168r",
+    "hrid": "american-loopers-mini-switch-for-vox-vfs-2"
+}

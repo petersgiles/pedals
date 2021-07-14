@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17486",
+    "name": "Apocalypse",
+    "image": "images/death-by-audio-apocalypse.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 119,
+    "height": 152,
+    "details": "FuzzA clear sustaining overdriver run into one of 5 selectable post amplifiers into a sweepable frequency equalizer circuit. What does this mean? It's basically a huge range of intense and usable overdrive, distortion, EQ, and fuzz effects in one. \nUse this pedal as a boost for solos, a great recording DI, your main guitar sound, a bass fuzz, or run any other sound you want through it to beef it up, blast it out, or energize it.\nhttps://deathbyaudio.com/products/apocalypse?variant=5293952008223",
+    "hrid": "death-by-audio-apocalypse"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12168",
+    "name": "Pickle Pie B",
+    "image": "images/wren-and-cuff-pickle-pie-b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Muff type Distortion w clean blendFor a long time now I’d been planning on making a fuzz pedal designed for the many distortion loving bass players out there. It all started when I began getting a large percentage of my Pickle Pie sales from bass players who knew The Pickle’s reputation as a “guitar” pedal that could handle the low frequencies of the bass, and give a nice spongy fuzz much better than most of the Muff family.\nEven though most were happy with this pedal, I had always wanted to take a stab at doing some tweaks to The Pickle to create a pedal with a much different voice, but one that still uses the same basic skeleton as the PP, and strives to resolve many of the common quandaries bassists come across in their search for a fuzz that really works for their instrument and their playing situation. Long story short, I spent much of my spare time for a few months trying many, many different ideas and experiments till I came up with something I was really happy with.\nOK, here’s the rundown on some of the changes made to the first PPie:\nA FET buffered active clean-boost.\nNo “drop out” when you kick on the fuzz when playing live. Helps give the feel of running two amps, one wet, one dry for those of us who can’t afford two SVT’s, and/or can’t lug two bass amps down to the local club.\nTotally changed FET-hybrid clip sections.\nAlong with great sounding fuzz, this specific clipping combo helps the fuzz to mesh with the clean signal in a natural way, instead of just sitting on top of the dry signal like some fuzzers with clean blends can do.\nAltered tone-stack range geared specifically for bass.\nA widened range of usable tones from the “shape” knob. The pedal overall has a much less pronounced mid-scoop which helps it to retain presence in a live playing situation.\nAltered saturation (fuzz) knob to make it highly usable at lower gain settings.\nRoll the fuzz back, and things still sound crisp, also tighter lows at high fuzz settings. I know everyone says this, but The PP “B” really can go from a dirty, gritty, slightly over-driven clean-blended bass sound, to fully saturated, watch out for feedback, drop-C meltdown, and everything in-between.\nVarious cap and resistor changes.\nSeveral core changes to the circuit to even better accommodate the bass guitar.\nAnd usual quality you expect from Wren and Cuff.\nGenuine Davies “Daka-ware” knobs. (like the old WH pedals, and many others), not the knock offs. I kind of have a thing for knobs (that sounds weird), and when you see these in person, compared to the cheapo knobs they are truly a thing of beauty. Industry standard Alpha pots, lock-washers on pots and jacks, 3PDT switch for “true” bypass, enclosed jacks, insulated 2.1mm 9V jack (Boss-style) with fiberboard mounted connections. Great looking sturdy enclosures, powder-coated, and hand-screened in the USA. Shipped with a new battery.\nhttp://www.wrenandcuff.com/site/the-stompboxes/pickle-pie-b",
+    "hrid": "wren-and-cuff-pickle-pie-b"
+}

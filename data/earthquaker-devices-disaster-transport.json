@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13313",
+    "name": "Disaster Transport",
+    "image": "images/earthquaker-devices-disaster-transport.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Analog voiced digital delay The Disaster Transport is an analog voiced digital delay with 625ms delay time, all analog dry signal path, true bypass and added modulation. It was designed as an anti-modern delay for those who appreciate a nice tape echo with all its peculiarities. Its unique tone control doubles as a noise filter on longer delay settings and really helps the delay shine with a dirty signal. The mix control allows you to boost the effected signal to nearly 4x the original signal level and the modulation can go from subtle pitch shifting warble to ultra fast tremolo speeds while the LED visually shows the rate.\nhttps://www.earthquakerdevices.com/disaster-transport/",
+    "hrid": "earthquaker-devices-disaster-transport"
+}

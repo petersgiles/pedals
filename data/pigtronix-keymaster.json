@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11749",
+    "name": "Keymaster",
+    "image": "images/pigtronix-keymaster.jpg",
+    "function": [
+        "Utility",
+        "Switch"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 145,
+    "height": 119,
+    "details": "Series / Parallel True Bypass Effects MixerPigtronix Keymaster is a dual, true bypass FX loop pair that can be run in series or parallel. This intuitive, impedance matching device will route any signal into pedals and then back out to any where else. The Keymaster opens up new worlds of tone from the effects pedals you already own.\nKeymaster lets a musician crossfade between different effects (or entire pedal boards) with a standard expression pedal. The Keymaster also allows you to add an expression pedal controlled Blend function to your favorite delay pedal or any other effect. A player can turn effects off gradually this way for smooth transitions between tones. Blend two crunch pedals together in parallel to achieve the ultimate thick wall of sound.\nIn the studio, Keymaster provides the ideal re-amp solution for engineers who wish to run a line level signal out of their console, into effects and then into an amplifier or back into the console; all from a single, easy to use interface sporting XLR as well as 1/4“ (balanced or un-balanced) inputs and outputs. Keymaster is also perfect for vocalists or horn players looking to manipulate effects on stage. Instantly blend a clean vocal into any effect by bypassing one of the channels.\nEvery once in a while a device comes along that simply and elegantly answers the unmet needs of musicians at every level. Pigtronix Keymaster will enable you to create new sounds with your favorite gear.\nhttps://pigtronix.com/products/keymaster/",
+    "hrid": "pigtronix-keymaster"
+}

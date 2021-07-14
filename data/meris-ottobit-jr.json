@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11768",
+    "name": "Ottobit Jr",
+    "image": "images/meris-ottobit-jr.jpg",
+    "function": [
+        "Filter",
+        "Digital Glitch",
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Meris",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 108,
+    "height": 114,
+    "details": "Bitcrusher/filterA Maniacal Little Machine, inspired by vintage gaming consoles.\nHandcrafted Algorithms\nVariable Sample Rate and Bit Crushing\nVintage Synth inspired Low-Pass Filter\nTriggered Stutter Effects\nSequencer module for Pitch, Filter or Decimation pattern sequencing\nTap Tempo for Sequencer and Stutter\nStereo input and output\nSwitchable input/output headroom level for Guitar, Synthesizer or Line levels\nMIDI in/out over TRS via the EXP jack with compatible MIDI to TRS conversion box (not included)\nMulti-function EXP jack for optional expansion: MIDI, Preset Switch, Expression Pedal or Tap Switch with compatible hardware.  \nExpression pedal control over all parameters simultaneously\nPresets available via external 4-Preset switch or MIDI\nRemote Tap Tempo Switch capable via the EXP jack\nhttps://www.meris.us/product/ottobit-jr/",
+    "hrid": "meris-ottobit-jr"
+}

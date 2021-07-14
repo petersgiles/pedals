@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26970",
+    "name": "Maximal Drone",
+    "image": "images/rucci-electronics-maximal-drone.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "31 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 145,
+    "height": 121,
+    "details": "Desktop Drone SynthThis is a maximal drone synthesizer capable of dense sounds and thick chords. Six oscillators modulate against each other. Each selectable as either full range, off, or low range. There is also a filter and volume. A CV input allows you to power the device with control voltages from 0-5V for interesting automated power sag results.\nThe die-cast aluminum enclosure is painted with a durable textured black finish. This was designed and hand-built in Oakland, California.\nAudio Out: 1/4″ mono\nCV Input: 1/8″ mono (0-5V)\nPower: 9V Battery or 9V DC Center-Negative\n\nhttps://handmadeelectronicinstruments.com/product/maximal-drone/",
+    "hrid": "rucci-electronics-maximal-drone"
+}

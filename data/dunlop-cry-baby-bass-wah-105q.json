@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13193",
+    "name": "Cry Baby Bass Wah 105Q",
+    "image": "images/dunlop-cry-baby-bass-wah-105q.jpg",
+    "function": [
+        "Bass",
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 102,
+    "height": 254,
+    "details": "Bass Wah PedalThe first wah pedal designed by bass players for bass players. The 105Q incorporates a proprietary potentiometer and custom EQ circuitry specifically optimized for bass frequencies. The Cry Baby Bass Wah applies the wah effect to the mids and highs only, leaving a strong fundamental to hold down the bottom so you can take solos or throw in fills without ever disturbing your low end.\nhttps://www.jimdunlop.com/product/105q-7-10137-01541-8.do",
+    "hrid": "dunlop-cry-baby-bass-wah-105q"
+}

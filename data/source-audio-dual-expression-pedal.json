@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23158",
+    "name": "Dual Expression Pedal",
+    "image": "images/source-audio-dual-expression-pedal.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "Pedal is passive",
+    "cost": "$127 Price in €",
+    "width": 102,
+    "height": 254,
+    "details": "The Source Audio Dual Expression Pedal delivers precision response and smooth action in a durable cast aluminum housing. Dual TRS expression outputs make it possible to control two effects units simultaneously. The pedal is compatible with the very common Boss/Roland style (“tip hot”) expression input. The Range Adjust Knob sets the bottom point of the expression range. Plus, a special Sensor Output connects directly to any Hot Hand®, Soundblox®, Soundblox 2, or Soundblox Pro pedal for real-time control over filter sweeps, effect modulation, LFO speeds, wet/dry mixes, drive levels and more.\nhttps://www.sourceaudio.net/dual-expression-pedal.html",
+    "hrid": "source-audio-dual-expression-pedal"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21934",
+    "name": "WL-50 Wireless",
+    "image": "images/boss-wl-50-wireless.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "350 mA / 9 V / AC",
+    "cost": "$199 Price in €",
+    "width": 72,
+    "height": 121,
+    "details": "Wireless Guitar Transmitter and ReceiverPlug-and-play wireless system in a stompbox-size format for pedalboards\nOptimum wireless connection set automatically, with no complicated setup required\nNewly developed BOSS technology delivers premium audio performance with rock-solid stability, ultra-low latency (2.3 ms), and 65-foot/20-meter range (line-of-sight propagation)*\nBuilt-in rechargeable battery in transmitter provides up to 12 hours of continuous playing time\nPlug the transmitter into the receiver’s docking port for charging and automatic wireless setup**\nSelectable cable tone simulation options: short, long, and bypass\nReceiver powered by optional PSA-S adaptor or two AA batteries\nWith PSA-S adaptor power, the receiver’s DC output can distribute power to one or more pedals using an optional PCS-20A daisy-chain cable\nSpare WL-T Transmitter available separately\n\nThe transmission range may vary due to local conditions.\n** To charge the transmitter, the receiver must be powered via a BOSS PSA-S adaptor. It’s also possible to directly charge the transmitter with a standard USB adaptor (5 V/500 mA or higher).\n\nhttps://www.boss.info/us/products/wl-50/",
+    "hrid": "boss-wl-50-wireless"
+}

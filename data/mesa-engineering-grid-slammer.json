@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23960",
+    "name": "Grid Slammer",
+    "image": "images/mesa-engineering-grid-slammer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$212 Price in €",
+    "width": 73,
+    "height": 122,
+    "details": "OverdriveThe GRID SLAMMER™ overdrive pedal produces a variable boost in gain over a wide range with a classic, guitar-centric midrange bump that enhances many different playing styles. It’s a true overdrive “specialist” that covers an amazing array of what many top players consider the most expressive and musical ranges of overdrive. From sweet, subtle breakup to a harmonically smoldering overdrive that can both sting and sing, the GRID SLAMMER sets a new bar in legendary overdrive!\nhttps://www.mesaboogie.com/pedals--related/electric-guitar-pedals/drive-pedals/grid-slammer.html",
+    "hrid": "mesa-engineering-grid-slammer"
+}

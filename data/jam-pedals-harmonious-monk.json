@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32634",
+    "name": "Harmonious Monk",
+    "image": "images/jam-pedals-harmonious-monk.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$269 Price in €",
+    "width": 70,
+    "height": 120,
+    "details": "Harmonic / amplitude tremoloThe Harmonious Monk uses all-analogue circuitry with two selectable LFOs providing varying levels of modulation intensity, available in both Harmonic and Amplitude modes: essentially four core sounds. We have included both depth and mix controls, so you can get it sat just right in your overall tone.\nSubtle (-) setting in Amplitude mode offers a plethora of vintage-inspired tremolo tones with all the same adjustability as Harmonic mode. Intense (+) setting brings the chop! Stuttering, staccato pulses that add drama and rhythm to your music right up to a fast warble that can sound truly otherwordly.\nWe also added a footswitch so you can access two tremolo speeds instantly in any mode; internal trimmers to shape the EQ to your liking, and the ability to either boost or cut the overall output level to suit your rig and other pedals.\nThe Harmonious Monk covers a huge amount of sonic ground and it will inspire you towards a whole new palette of sounds, textures and music.\nWe summoned the Harmonious Monk from the waves of JAM pedals' sonic ocean so that we can all bathe blissfully in its glorious undulating tones. Let there be wobble!\nhttps://www.jampedals.com/harmonious-monk/",
+    "hrid": "jam-pedals-harmonious-monk"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12219",
+    "name": "TR-7 Hardwire Tremolo/Rotary",
+    "image": "images/digitech-tr-7-hardwire-tremolorotary.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect",
+        "Tremolo",
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "Tremolo/Rotary\nhttp://digitech.com/en/products/tr-7",
+    "hrid": "digitech-tr-7-hardwire-tremolorotary"
+}

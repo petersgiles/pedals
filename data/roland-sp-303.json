@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26735",
+    "name": "SP-303",
+    "image": "images/roland-sp-303.jpg",
+    "function": [
+        "Multieffect",
+        "Sampling"
+    ],
+    "manufacturer": "Roland",
+    "current": "1000 mA / 9 V / DC / Positive Center",
+    "cost": "",
+    "width": 170,
+    "height": 240,
+    "details": "Dr. SampleThe BOSS SP-303 Dr. Sample offers DJs and musicians a compact, easy-to-use portable phrase sampler with CD-quality sound, 8-note polyphony, 26 onboard effects and a realtime pattern sequencer—all at a price unmatched by the competition. For sampling and effects processing anytime, any place, the SP-303 can't be beat.\nhttps://www.boss.info/it/products/sp-303/",
+    "hrid": "roland-sp-303"
+}

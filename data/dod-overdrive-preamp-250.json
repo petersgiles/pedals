@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17930",
+    "name": "Overdrive Preamp 250",
+    "image": "images/dod-overdrive-preamp-250.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Legendary analog overdrive preamp effect pedalThe legendary analog DOD Overdrive Preamp 250 is back, with over 40 years of history and experience behind it. The new 2013 version of the legendary DOD 250 captures all of the classic tone and wild heart of the original but in no way tames its performance. The 250 is better than ever before with true bypass, a crisp blue LED indicator, gobs of output, and modern 9V DC power supply input.  Redesigned with a lighter aluminum chassis, sleek yellow metallic flake and flat black matte bottom paint job, the 2013 DOD Overdrive Preamp 250 pedal is the perfect sonic foundation to carry on the legacy of DOD.\nThe DOD Overdrive Preamp 250 (2013) has Gain and Level controls, like its predecessors. Gain controls the amount of distortion, from just a touch of grit to all-out grind.  Level dials in some subtle body for “always on” performance or huge amounts of boost for boosting solos above a dense stage mix. With the Gain all the way down, crank up the Level to boost your sound and cut through during your solos. True bypass allows your guitar tone to remain pristine even when the new DOD 250 (2013) is off.  This is a big difference from the original which would color your bypassed tone. The modern 9V DC power supply input make the pedal more pedalboard friendly.\nFeatures\nLegenday analog overdrive tone\nTrue bypass\n9V DC power supply jack\nCrisp blue status LED\nLighter aluminum chassis",
+    "hrid": "dod-overdrive-preamp-250"
+}

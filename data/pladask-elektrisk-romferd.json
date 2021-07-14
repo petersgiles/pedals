@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13754",
+    "name": "ROMFERD",
+    "image": "images/pladask-elektrisk-romferd.jpg",
+    "function": [
+        "Chorus",
+        "Distortion",
+        "Reverb"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$241 Price in €",
+    "width": 120,
+    "height": 95,
+    "details": "Ambiance/Modulator",
+    "hrid": "pladask-elektrisk-romferd"
+}

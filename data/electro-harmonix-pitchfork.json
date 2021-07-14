@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11731",
+    "name": "Pitchfork",
+    "image": "images/electro-harmonix-pitchfork.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 114,
+    "details": "Polyphonic Pitch ShifterThe Pitch Fork transposes an instrument’s pitch over a +/- three octave range and features three modes which allow the pitch to be transposed up, down or both, simultaneously. The pitch shift amount can be set to a fixed interval or continuously varied by an expression pedal or control voltage. \nThe controls are straightforward and intuitive. An 11-position Shift switch selects the maximum transposition interval ranging from D (Detune), a shift of 17 cents, through Minor 2nd, Major 2nd, Major 3rd, Perfect 4th, Perfect 5th, Major 6th, Minor 7th, 1 Octave, 2 Octaves and 3 Octaves. A three position toggle switch controls whether the pitch is transposed up, down or both. In Dual mode, two pitch-shifted signals are output. One follows the shift knob as if in the Up position while the other creates a harmony. Dual Mode settings include M3 up + P5 up, P5 up + 1 Oct down, 1 Oct up + 1 Oct down and many others. A Blend knob controls the mix of the dry signal and the effected signal, and an EXP jack enables the player to control pitch and glissando with an expression pedal.\nThe Latch button selects Latch or Momentary mode which affects how the footswitch and EXP input behave. In Latch mode, the footswitch toggles between effect on and buffered bypass each time it’s pressed and the EXP input continuously varies pitch. In Momentary mode the effect is only on while the footswitch is depressed and when it is released the Pitch Fork goes into bypass. \nIn Latch mode the EXP input controls pitch shift amount, ranging from unity to the interval set by the Shift knob, and pitch varies continuously throughout the expression pedal’s range. In Momentary mode the EXP input controls glissando rate for the Pitch Fork’s footswitch. When the bypass footswitch is pressed, the Pitch Fork jumps from bypass to the interval set by the Shift knob. The amount of time it takes to reach that new note is the glissando rate. When the footswitch is released the pitch will return to unity at the same rate. That glissando time can vary between 4 milliseconds to two seconds depending on the heel/toe position of the expression pedal. The default glissando rate is 60 milliseconds when nothing is plugged into the EXP input.\nQuick Specs\n\nTransposes over a +/- three octave range\nThree shift modes: up, down or dual\n11-position Shift knob selects the transposition interval\nEXP input lets you control pitch shift or glissando via optional expression pedal\nLatch and Momentary modes affect how the footswitch and EXP input behave\nComes with EHX 9.6DC-200mA AC Adapter, can also run off a 9V battery\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\nDimensions in mm: 70 (w) x 115 (l) x 54 (h)\n\nhttp://www.ehx.com/products/pitch-fork",
+    "hrid": "electro-harmonix-pitchfork"
+}

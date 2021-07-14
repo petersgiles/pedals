@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15317",
+    "name": "JF-10 Dynamic Compressor",
+    "image": "images/joyo-jf-10-dynamic-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Dynamic CompressorA re-creation of the classic Ross compressor, with very low noise. Use the Sustain, Attack, and Level knobs to find your ideal tone. Tweek the Attack to boost your bottom end and level off high-output pickups.\nTrue bypass design minimizes tone loss.\nAluminum alloy casing with stoving varnish finish.\nhttp://joyoaudio.com/en/product/show_114.html",
+    "hrid": "joyo-jf-10-dynamic-compressor"
+}

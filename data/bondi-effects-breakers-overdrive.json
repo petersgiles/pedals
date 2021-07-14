@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16994",
+    "name": "Breakers Overdrive",
+    "image": "images/bondi-effects-breakers-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Bondi Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 67,
+    "height": 122,
+    "details": "https://www.bondieffects.com/products/breakers-overdrive",
+    "hrid": "bondi-effects-breakers-overdrive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14245",
+    "name": "Pitchblack Mini",
+    "image": "images/korg-pitchblack-mini.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 45,
+    "height": 93,
+    "details": "Mini Pedal TunerKorg's Pitchblack pedal tuners have earned the trust of guitarists and bassists worldwide for their quality, design and durability. The Pitchblack mini is the latest addition to the renowned tuner series, now available in a smaller, sleek size.\nThe Pitchblack mini appears smaller in size, yet embodies all of its superior tuner functionality. Featuring a large LED display with excellent visibility, it supports battery operation in spite of its compact size. The unit is also equipped with stabilizers to prevent it from overturning. Small but powerful, this is a high-quality pedal tuner that will meet the needs of any player.\nhttp://www.korg.com/us/products/tuners/pitchblack_mini/",
+    "hrid": "korg-pitchblack-mini"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33826",
+    "name": "Box of Metal US Vexter",
+    "image": "images/zvex-box-of-metal-us-vexter.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 124,
+    "height": 70,
+    "details": "The heaviest-sounding pedal in the ZVEX lineup, the BOM has a massive amount of distortion with great thump and excellent tone control, and includes a very effective noise-silencing gate feature which can be turned off and on with a footswitch. Gain adjusts from hard to harder.",
+    "hrid": "zvex-box-of-metal-us-vexter"
+}

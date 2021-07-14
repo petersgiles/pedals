@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12320",
+    "name": "Dream Crusher",
+    "image": "images/earthquaker-devices-dream-crusher.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 66,
+    "height": 128,
+    "details": "Germanium FuzzThe Dream Crusher is a germanium fuzz effect designed to make your guitar sound more awesome. There are two simple controls: Fuzz and Level. Fuzz Controls how sweet you want to sound and Level controls how much you want other people to hear how sweet you sound. Even though it has a simple interface, there are many tones and textures waiting to be unleashed. We recommend setting the Fuzz to taste then adjusting the Level to unity, roughly noon on the dial. Playing with a band? Bump up the Level a couple notches to make it extra rad. If being extra rad isn’t your thing, bring it all back down to zero and rip in silence. Your call chief. We also recommend placing it first in your signal chain and before any buffered pedals for optimal awesomeness.\nhttps://www.earthquakerdevices.com/dream-crusher/",
+    "hrid": "earthquaker-devices-dream-crusher"
+}

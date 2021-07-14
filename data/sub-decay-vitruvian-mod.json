@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13894",
+    "name": "Vitruvian Mod",
+    "image": "13894.b.jpg",
+    "function": [
+        "Ring Modulator"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Ring modulator",
+    "hrid": "sub-decay-vitruvian-mod"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12501",
+    "name": "The Worm",
+    "image": "images/electro-harmonix-the-worm.jpg",
+    "function": [
+        "Multieffect",
+        "Phase Shifter",
+        "Tremolo",
+        "Wah"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$105 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Analog Wah/Phaser/Vibrato/TremoloThis is for the smaller (XO) version of the pedal, produced from 2008-present.  It includes an expression input for manual control of the phase position of the various effects.  It uses a 24V DC power supply included with the pedal.\nhttp://www.ehx.com/products/worm",
+    "hrid": "electro-harmonix-the-worm"
+}

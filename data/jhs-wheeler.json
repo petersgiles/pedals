@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15126",
+    "name": "Wheeler",
+    "image": "images/jhs-wheeler.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 77,
+    "height": 144,
+    "details": "",
+    "hrid": "jhs-wheeler"
+}

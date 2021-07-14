@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21904",
+    "name": "Tremvelope",
+    "image": "images/pigtronix-tremvelope.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 145,
+    "height": 119,
+    "details": "Envelope Modulated Tremolo PedalTremvelope is a versatile, high fidelity optical tremolo with stereo panning outputs. The Tremvelope’s fat sounding audio path is modulated by SPEED, DEPTH and WAVEFORM controls. When the envelope is switched on, the tremolo effect is influenced by what you play. The SPEED and DEPTH knobs can each be assigned to increase or decrease in response to the strength of the signal coming from your instrument. These changes start from where the knobs are set and independently move in the assigned direction.\nThe ACCELERATION switch adjusts the response time of the tremolo to changes in your playing and the SENSITIVITY knob provides control over the amount of increase it takes to create changes in the tremolo settings. Expression pedal inputs for speed, and vol / pan add external foot control to this animated beast of a pedal. There is also a TRIGGER input for running the Tremvelope late in an effects chain but still allowing your clean signal (or even a different instrument entirely) to control the envelope directly.\nhttps://pigtronix.com/product/tremvelope/",
+    "hrid": "pigtronix-tremvelope"
+}

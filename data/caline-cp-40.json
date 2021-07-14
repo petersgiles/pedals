@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19166",
+    "name": "CP-40",
+    "image": "images/caline-cp-40.jpg",
+    "function": [
+        "Equalizer",
+        "Utility"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$44 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Acoustic Preamp DI Box and Anti Feedback PedalAcoustic Preamp DI Box and Anti Feedback PedalCP-40 DI Box for Acoustic Guitars\nCP-40 is a preamp and D.I. Box for acoustic guitars.\n1.When using this D.I. Box, you must use the INPUT knob of this D.I. Box in order to avoid overloading your acoustic guitar E.Q. If overload occurs, please reduce the volume.\n2.Turn on the ANTI FEEDBACK Foot switch, and adjust the ANTI FEEDBACK Knob to avoid volume feedback.\n3.Turn on TREBLE BOOST Foot switch, to increase the brightness of the tone.\nFeatures:\n1. True bypass\n2. Power Requirement: 9V DC center negative\n3. Current consumption: 30mA\n4. Product Dimensions: 11.9x9.4x3.8cm\n5. Weight:0.5kgs\nPackaging information:\n1. Dimensions of single box: 14.1x12.2x7.3cm\n2. QTY / CTN: 30pcs\n3. Dimensions of Carton:45x26x30cm\n4. Weight /CTN: 15.5kgs\nhttp://www.calinemusic.com/products/effectpedal/110.html",
+    "hrid": "caline-cp-40"
+}

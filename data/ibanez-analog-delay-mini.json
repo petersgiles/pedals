@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12750",
+    "name": "Analog Delay Mini",
+    "image": "images/ibanez-analog-delay-mini.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 48,
+    "height": 105,
+    "details": "",
+    "hrid": "ibanez-analog-delay-mini"
+}

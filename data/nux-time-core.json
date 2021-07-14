@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20452",
+    "name": "Time Core",
+    "image": "images/nux-time-core.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Multi Effect Digital Delay PedalBasically Nux’s take on the modern classic TC Electronic Flashback Delay.\n7 Delay Modes\nTape - Saturated repeats, a tape machine touch\nDigital - Crystal clear repeats, best if you use any other modulation effects\nAnalog - Simulates the BBD algorithm and every repeat of the sound reusing the previous repeat. It comes down to personal taste.\nPing Pong - Repeats will bounce on left and right. Stereo output connection recommended.\nPan - Repeats have a pan algorithm and it will bounce from left to middle and then to right. Stereo output connection recommended.\nReverse - Repeats will play backward. You can explore the dark side of the moon!\nHold - 40 seconds loop station\nhttps://www.nuxefx.com/time-core-deluxe.html",
+    "hrid": "nux-time-core"
+}

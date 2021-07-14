@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12895",
+    "name": "RV-2 Digital Reverb",
+    "image": "images/boss-rv-2-digital-reverb.jpg",
+    "function": [
+        "Digital",
+        "Reverb"
+    ],
+    "manufacturer": "Boss",
+    "current": "130 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The RV-2 was the first digital reverb pedal on the market. Digital reverbs had prior to the RV-2 only been available in rack mounted units. The RV-2 changed all that when it was launched 1987. The RV-2 have the highest current draw of any Boss compact pedal. As a result of this it was originally sold with a PSA Power adapter. The pedal and the power supply wouldn’t fit in a normal compact pedal box so the RV-2 was sold in a larger box similar to the one used for the PSM-5.\nThe RV-2 has 6 different modes: Room (8 meters depth), Hall 1 (15 meters depth), Hall 2 (30 meters depth), Plate, Gate and Panning Delay. The reverb time is adjustable from 0.2 to 10 seconds. In front of the reverb circuit there’s a pre-equalizer circuit. The production span of the RV-2 was likely very short and might have ended as early as mid 1988.\nSpecifications\nControls: E. Level, Pre Eq, Time, 6-way Mode switch\nConnectors: Input, Output A, Output B, AC Adaptor\nCurrent Draw: 130 mA (DC 9V)\nWeight: 420g/0.93 lbs.\nResidual Noise Level: -90dBm (IHF-A) or less\nSampling rate: 31.25 kHz\nFrequency Response: 10Hz-30kHz +/-1dB (Direct). 30Hz-10kHz +1dB/-3dB (Effect)\nRecommended AC Adaptor: PSA Series\nLabels\nDark Gray – Made In Japan\nThe RV-2 was sold from August 1987 to January 1990.\nhttp://www.bossarea.com/boss-rv-2-digital-reverb/",
+    "hrid": "boss-rv-2-digital-reverb"
+}

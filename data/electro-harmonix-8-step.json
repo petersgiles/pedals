@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12031",
+    "name": "8-Step",
+    "image": "images/electro-harmonix-8-step.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Utility",
+        "Expression"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$143 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "8-step sequencer that outputs CV or expression pedal voltage for controlling analog equipment\n8 programmable steps with independent value sliders control a single CV/Expression output\nMode knob gives you conrol over glide time, direction, sequencer length, and depth\nControl timing with tap tempo or MIDI clock sync\nStore and recall up to 10 user settings (100 with the optional 8-step Program Foot Controller)\nhttp://www.ehx.com/products/8-step-program",
+    "hrid": "electro-harmonix-8-step"
+}

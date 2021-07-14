@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12493",
+    "name": "FV-30L",
+    "image": "images/boss-fv-30l.jpg",
+    "function": [
+        "Expression",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 80,
+    "height": 192,
+    "details": "Compact Volume PedalA low-impedance pedal equipped with stereo input/output for stompboxes, keyboards, and other digital instruments.\nSpace-saving volume pedal with rugged aluminum die-cast body designs\nSilky feel with smooth pivot for maximum control\nStereo input and output\nFor low-impedance gear like synthesizers and stompboxes\nhttps://www.boss.info/us/products/fv-30h_30l/",
+    "hrid": "boss-fv-30l"
+}

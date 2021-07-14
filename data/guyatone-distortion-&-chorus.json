@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15876",
+    "name": "Distortion & Chorus",
+    "image": "images/guyatone-distortion-&-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Distortion"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Double EffectThe Guyatone PS-017 Distortion & Chorus was one of the Double Effect pedals released in the 1980's. The PS-017 features both a distortion and chorus circuit that can be used individually or merged together to create countless 80's inspired tones.",
+    "hrid": "guyatone-distortion-&-chorus"
+}

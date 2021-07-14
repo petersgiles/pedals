@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11704",
+    "name": "Emperor",
+    "image": "images/jhs-emperor.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$312 Price in €",
+    "width": 125,
+    "height": 110,
+    "details": "Chorus / Vibrato",
+    "hrid": "jhs-emperor"
+}

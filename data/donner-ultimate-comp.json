@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14669",
+    "name": "Ultimate Comp",
+    "image": "images/donner-ultimate-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Donner",
+    "current": "12 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$34 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "CompressorFeatures\n1.Level ,Comp,Tone knobs \n2.Aluminium-alloy case\n3.True bypass \n4.LED indicator\n5.DC 9V Adapter power supply.\nSpecifications\n1.Input: 1/4″Monaural Jack (Impedance: 470K Ohms).\n2.Output: 1/4″Monaural Jack (Impedance: 1K Ohms).\n3.Power Supply: DC 9V (Plug polarity is Positive on the barrel and negative in the center ).\n4.Working Current: 12mA.\nhttps://www.donnerdeal.com/collections/guitar-pedal/products/donner-compressor-pedal-ultimate-comp-guitar-effect-pedal",
+    "hrid": "donner-ultimate-comp"
+}

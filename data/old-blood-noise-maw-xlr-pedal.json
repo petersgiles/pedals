@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25953",
+    "name": "MAW XLR PEDAL",
+    "image": "images/old-blood-noise-maw-xlr-pedal.jpg",
+    "function": [
+        "Multieffect",
+        "Synth Voice"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$263 Price in €",
+    "width": 142,
+    "height": 113,
+    "details": "Multi-function pedalWhat began as a simple request for a vocal version of an Old Blood effect spiraled into a multi-function device with 10 new effects, versatile in/out and send/return sections oriented toward any instrument you want to throw at it, and ample control over all elements. It’s the new multi-tool for effects lovers on stage and in studio.\nXLR preamp for use with microphone level signals\nSwitchable saturation section with blend, volume, and tone controls\nTwo independently controlled effects sections with modulations, delays, reverbs and octaves, and controls over mix and two parameters of each\nA send/return to patch in external effects\nPost-saturation dry output for mixing versatility\nRelay bypass switching with momentary or latching functionality and effects trails\nStandard 9VDC center negative power\nhttps://www.oldbloodnoise.com/pedals/maw-xlr-pedal",
+    "hrid": "old-blood-noise-maw-xlr-pedal"
+}

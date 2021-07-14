@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19155",
+    "name": "MOSKY Clean Buffer",
+    "image": "images/modtone-mosky-clean-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "ModTone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 35,
+    "height": 90,
+    "details": "Tone saver\nhttps://www.amazon.co.uk/MOSKY-Clean-Buffer-Guitar-Effect/dp/B07GS9TQ6Y/ref=sr_1_1?ie=UTF8&qid=1539549300&sr=8-1&keywords=mosky+clean+buffer",
+    "hrid": "modtone-mosky-clean-buffer"
+}

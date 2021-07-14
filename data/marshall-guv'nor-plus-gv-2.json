@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23310",
+    "name": "Guv'nor plus GV-2",
+    "image": "images/marshall-guv'nor-plus-gv-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 65,
+    "height": 120,
+    "details": "An update of the acclaimed Guvnor pedal of the 80’s. The GV-2 is renowned for its heavy, distorted tones with the flexibility to move from transparent overdrives to heavily saturated lead tones and further into huge, distorted JCM grunt. The GV-2 is an essential for all guitarists who like it loud. \nhttps://marshall.com/marshall-amps/products/pedals/gv-2-guvnor-plus",
+    "hrid": "marshall-guv'nor-plus-gv-2"
+}

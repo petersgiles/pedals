@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28296",
+    "name": "Triple Foot Controller Remote Footswitch",
+    "image": "images/electro-harmonix-triple-foot-controller-remote-footswitch.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "Pedal is passive",
+    "cost": "$41 Price in €",
+    "width": 114,
+    "height": 70,
+    "details": "Remote / external footswitchThe Triple Foot Controller gives you remote control over functions in pedals that are equipped with an external foot control jack. Depending on the pedal it’s plugged into, the Triple Foot Controller can control tasks such as setting tap tempo, toggling through programs, mode selection and more. It works with Electro-Harmonix pedals as well as those made by other manufacturers. \nThe EHX pedals the Triple Foot Controller is compatible with are:\n• 720 Looper: list functions it controls\n• Grand Canyon Delay & Looper: lists functions it controls\n• Mod Rex Polyrhythmic Modulator: lists functions it controls\n• Superego+ Synth Engine: lists functions it controls\n• Super Pulsar: lists functions it control \nThe Triple Foot Controller’s compact footprint saves space while its cast construction provides durability. It’s easy-to-use and comes equipped with a TRS (Tip-Ring-Sleeve) cable. \nTake pedal control and performance to the next level with the affordable EHX Triple Foot Controller!\nhttps://www.ehx.com/products/triple-foot-controller",
+    "hrid": "electro-harmonix-triple-foot-controller-remote-footswitch"
+}

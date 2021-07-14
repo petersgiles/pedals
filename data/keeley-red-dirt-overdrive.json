@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18271",
+    "name": "Red Dirt Overdrive",
+    "image": "images/keeley-red-dirt-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 112,
+    "details": "",
+    "hrid": "keeley-red-dirt-overdrive"
+}

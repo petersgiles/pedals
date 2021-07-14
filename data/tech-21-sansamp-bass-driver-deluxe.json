@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19307",
+    "name": "Sansamp Bass Driver Deluxe",
+    "image": "images/tech-21-sansamp-bass-driver-deluxe.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 248,
+    "height": 136,
+    "details": "DI / Preamp / Cab Sim w FX send",
+    "hrid": "tech-21-sansamp-bass-driver-deluxe"
+}

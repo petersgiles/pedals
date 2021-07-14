@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29135",
+    "name": "Pitchblack+ PB02 Black",
+    "image": "images/korg-pitchblack+-pb02-black.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "",
+    "width": 128,
+    "height": 120,
+    "details": "Tuner",
+    "hrid": "korg-pitchblack+-pb02-black"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11420",
+    "name": "VD400",
+    "image": "images/behringer-vd400.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$28 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "From elastic delay to vintage slap-back echo, the VINTAGE DELAY VD400 harnesses the authentic sounds of classic 1960s studio wizardry. Enjoy up to 300 ms of true analog delay – plus the advantages of an superb noise reduction circuit!\nThough digital technology constantly evolves, nothing sounds quite like the “old-school” analog Bucket Brigade-style delay you get when you step on the VD400. With its dedicated Repeat Rate, Intensity and Echo dials, this amazing little stomp box evokes the spirits of some of rock and roll’s most legendary heroes, and provides up to 300 milliseconds of true analog delay. Every type of classic delay, from a deep-space whisper, to an interplanetary battle cry – is at your command.\nhttps://www.behringer.com/product.html?modelCode=P0508",
+    "hrid": "behringer-vd400"
+}

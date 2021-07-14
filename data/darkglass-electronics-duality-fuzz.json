@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17314",
+    "name": "Duality Fuzz",
+    "image": "images/darkglass-electronics-duality-fuzz.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 75,
+    "height": 111,
+    "details": "Bass FuzzThe Duality is a unique fuzz pedal that contains two discrete fuzz circuits—a gated saw-tooth wave and a raunchy high-gain sound—which can be mixed together to yield a vast selection of distinct sonic textures.\nhttps://www.darkglass.com/creations/duality-dual-fuzz-engine/",
+    "hrid": "darkglass-electronics-duality-fuzz"
+}

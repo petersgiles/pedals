@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33114",
+    "name": "Coven",
+    "image": "images/black-arts-toneworks-coven.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$340 Price in €",
+    "width": 150,
+    "height": 122,
+    "details": "Pharaoh + Black ForestThe Black Arts Coven takes two very useful circuits and combines them into one unit, saving space, cabling and powering. The Pharaoh and Black Forest are here in their entirety with the addition of a toggle to switch the order of the effects. Pharaoh into Black Forest or Black Forest into Pharaoh at the flick of a switch. A hugely useful tone shaping tool, the Coven is the joining of two forces to create a new unified path.\nhttps://www.blackartstoneworks.com/pedal/coven/",
+    "hrid": "black-arts-toneworks-coven"
+}

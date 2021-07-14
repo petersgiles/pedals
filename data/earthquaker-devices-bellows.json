@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12029",
+    "name": "Bellows",
+    "image": "images/earthquaker-devices-bellows.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$145 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Fuzz DriverControls\nLevel: Adjusts the output level by setting the bias voltage of the transistor. A small amount of noise while dialing this in is perfectly normal.\nDrive: Controls the input gain of the device for different levels of dirt. You’ll find that it is thinner and more clean counter clockwise and thicker with more growl clockwise.\nMeasures\n4.625″ x 2.5″ x 2.25″ with knobs\nPower\nPlease use a standard 9 volt DC power supply intended for musical instruments with a negative center 2.1mm barrel or a 9v Battery.\nCurrent draw is 8 mA.\nhttps://www.earthquakerdevices.com/bellows/",
+    "hrid": "earthquaker-devices-bellows"
+}

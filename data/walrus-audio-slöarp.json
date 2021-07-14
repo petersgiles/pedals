@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30034",
+    "name": "Slö/Arp",
+    "image": "images/walrus-audio-slöarp.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "130 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 127,
+    "height": 102,
+    "details": "Reverb & delay comboYour favorite multi-texture reverb and your favorite multi-function delay are now available together as one, exclusively from Chicago Music Exchange! Layer lush, ambient soundscapes in digital, analog, lo-fi and slap back repeats to craft a sound that is truly your own!\nARP-87\nThe ARP-87 is a compact, feature-rich delay, packed with a large pallet of inspirational delay tones. Featuring four main algorithms, digital, analog, lo-fi, and slap back, the ARP-87 can cover some serious ground in the world of echoes.\nThe Digital algorithm boasts pristine, crystal clear repeats great for rhythmic riffs. The Analog setting works well to add warmth and dimension to chords and lines without getting in the way. The Lo-Fi algorithm, with its adjustable frequency range on the repeats, goes from warm, warped, and murky, to strait AM radio. Finally, the Slap setting makes it easy to dial in a great slap back echo perfect for smoking chicken pickin’ runs. With other features like our smart bypass switching, and momentary knob ramp, the ARP-87 provides endless creative opportunities that are waiting to be explored.  \nThe X knob changes functions depending on which Algorithm you are using. It adjusts a specific parameter in each algorithm. In Digital, Analog, and Slap modes, the knob will control modulation depth. In Lo-fi mode, the knob will control Filter width. \nNote that when changing delay types this loads a whole new algorithm and the tempo must be tapped in again. Max delay time is 1000ms.\nSlö\nThe Slö Multi Texture Reverb allows players to create lush, modulated, sleepy and ambient soundscapes. Stocked with three different algorithms specifically designed to invoke textures for bringing dreams from your subconscious to reality.\nThe toggle switch allows three different reverb modes, Dark (Lower Octave), Rise (Ambient Swell) and Dream (Latching Pad), while secondary functions on the switch change between different wave shapes for the modulation on the reverb trail.\nCombine deep modulation with long washy trails and experience, the Slö.\nhttps://www.chicagomusicexchange.com/blogs/news/walrus-audio-slo-arp-87-combo-pedal",
+    "hrid": "walrus-audio-slöarp"
+}

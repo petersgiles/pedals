@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17494",
+    "name": "Drunken Monkey",
+    "image": "images/mr.-black-drunken-monkey.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Envelope vibrato",
+    "hrid": "mr.-black-drunken-monkey"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12335",
+    "name": "EF106 Strangulator",
+    "image": "images/electro-faustus-ef106-strangulator.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Electro-Faustus",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 75,
+    "height": 100,
+    "details": "Distorted Microphone The EF106 is a Piezo Disk powered microphone in its most primitive yet satisfying form.\n- OPERATING INSTRUCTIONS –\nConnect your ampli er to the OUTPUT jack on the bottom of the unit.\nThe ATTACK button on the right side of the unit is a momentary on/off switch. Pressing it will turn the unit on. Begin singing into the input holes. You should hear strange voices coming out of your amp (as opposed to the ones you generally hear in your head).\nThe CHOKE knob on the left side of the unit controls the oscillation amount added to the effect. Turning it fully counter-clockwise will provide the maximum amount of oscillation.\nTo avoid feedback, stand at least 10 feet from the amp. Why would you want to avoid feedback though?\nFeel free to experiment with any and all effects at your disposal. Adding reverb and delay will add a lot of depth to the sound.\n- HOW IT WORKS –\nThe Strangulator exploits a well-known phenomenon called “The Piezoelectric Effect”. This is where a crystal/ metallic disc is used to pick up mechanical vibrations. Those vibrations are then converted to electric signals which can be translated by your amp or computer. There is a built in distortion/oscillation effect that ampli es the incoming sound as well\n- POWER –\nThe Strangulator requires a 9V battery.",
+    "hrid": "electro-faustus-ef106-strangulator"
+}

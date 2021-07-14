@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24422",
+    "name": "Eyemaster",
+    "image": "images/tc-electronic-eyemaster.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "HM2-style distortionEYEMASTER was specifically designed to channel the Swedish death metal tone, endearingly nicknamed the \"Swedish buzzsaw\". As that term implies, EYEMASTER is not a subtle overdrive.\nIt is not transparent and it does not \"sit well in a mix\". Rather, it burns an unholy path straight through the mix.\n•    Aggressive death metal distortion\n•    All-analog circuitry\n•    True Bypass\n\nhttps://www.tcelectronic.com",
+    "hrid": "tc-electronic-eyemaster"
+}

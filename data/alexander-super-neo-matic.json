@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25634",
+    "name": "Super Neo-Matic",
+    "image": "images/alexander-super-neo-matic.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Flanger"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Chorus / Flanger  based on the fabled Pefftronics Super Rand-O-MaticThe Super Neo-Matic has two modulation types (Triangle and Random) as well as two sound modes (Vintage and Modern.)\nIn Triangle mode, the time delay is controlled by a wide-ranging triangle wave oscillator for traditional chorus, vibrato, and flanging textures.\nRandom mode controls the time delay matrix using a randomly-changing voltage, so that the signal shifts between various tones unpredictably.  It’s the cure for the common chorus.\nBoth modulation types are available in two sound variations:  Vintage uses the same 8-bit sampling as the original, while Modern runs a full 24-bit audio path.  The difference in bit rate is more apparent when playing quietly.  All sound modes also allow “parking” the modulation and using the pedal as an audio delay.  Sweep the delay with an expression pedal or the Ramp footswitch for dramatic time warps!\nOnce you’ve dialed in your favorite sound settings, you can save them to one of the Super Neo-Matic’s four preset slots.  Connect the pedal to a MIDI controller or your computer for access to the full complement of sixteen presets!\nSPECS\nTwo audio modes - vintage and modern\nFour presets, expandable to 16 with a MIDI controller\nMultiJack enables expression pedal, foot switch, or MIDI input\nNeo Morph allows controlling all knobs from expression or MIDI\nRamp footswitch triggers Neo Morph settings\nVintage and Modern modes for selectable audio quality\nUSB port for firmware updates and USB MIDI\nMono input\nDual output (mix signal on tip, dry signal on ring)\nInput Impedance:  1M ohms\nOutput Impedance:  560 ohms\nDC 9V only, 100mA or greater\nRequires isolated DC power supply\n4.7” x 2.6” x 1.5” H x W x D not including knobs",
+    "hrid": "alexander-super-neo-matic"
+}

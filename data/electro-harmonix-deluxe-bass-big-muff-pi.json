@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13384",
+    "name": "Deluxe Bass Big Muff Pi",
+    "image": "images/electro-harmonix-deluxe-bass-big-muff-pi.jpg",
+    "function": [
+        "Distortion",
+        "Bass"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Distortion/SustainerQuick Specs\nPad on the input that's switchable between 0dB and -10dB ensures the pedal is optimized for use with both passive and active pickups\nBlend allows a player to mix to taste the direct and distorted signals\nThree outputs: a 1/4â€³ effect out, 1/4â€³ direct (buffered dry) out and XLR DI out give complete control of your output signal and sound\nFoot-switchable crossover section with a variable low pass filter on the dry signal and a variable high pass filter on the distorted signal give bassists the ability to sculpt their sound\nCrossover circuit, in conjunction with the Blend control, lets you keep the low-end clear and focused and the high-end bright and cutting\nBuilt-in noise gate with an adjust threshold eliminates unwanted noise at any level\nTough and compact die-cast chassis\nhttps://www.ehx.com/products/deluxe-bass-big-muff-pi",
+    "hrid": "electro-harmonix-deluxe-bass-big-muff-pi"
+}

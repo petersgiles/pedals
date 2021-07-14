@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16705",
+    "name": "Transition Delay",
+    "image": "images/tc-electronic-transition-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "",
+    "hrid": "tc-electronic-transition-delay"
+}

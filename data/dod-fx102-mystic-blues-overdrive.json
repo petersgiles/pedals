@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23303",
+    "name": "FX102 Mystic Blues Overdrive",
+    "image": "images/dod-fx102-mystic-blues-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "VFX Made in China Mystic Blues OverdriveMarketing blurb:\nThe FX102 Mystic Blues pedal responds to the dynamics of your playing. If music is the expression of your soul, your expression should be lost in the electronic circuits of solid state distortion. With the FX102. The harder you play, the more distortion you'll get. Your fingers control it all, not by the electronics.\nhttps://dod.com/en/products/fx102",
+    "hrid": "dod-fx102-mystic-blues-overdrive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18283",
+    "name": "JOE BONAMASSA FUZZ FACE DISTORTION",
+    "image": "images/dunlop-joe-bonamassa-fuzz-face-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 178,
+    "height": 178,
+    "details": "Hand-wired using NOS Russian military germanium transistors, this pedal is voiced specifically for Joe's humbucker-driven tone, adding sustain and thickness for a rich, creamy fuzz. True bypass, with replicas of vintage top hat knobs, and a deep and rich gloss black finish.",
+    "hrid": "dunlop-joe-bonamassa-fuzz-face-distortion"
+}

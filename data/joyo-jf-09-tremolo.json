@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11568",
+    "name": "JF-09 Tremolo",
+    "image": "images/joyo-jf-09-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Basic, simple tremoloEasy to use, classic sort of sound, true bypass.",
+    "hrid": "joyo-jf-09-tremolo"
+}

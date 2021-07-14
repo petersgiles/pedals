@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11584",
+    "name": "Decimator",
+    "image": "images/isp-technologies-decimator.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "ISP Technologies",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 126,
+    "details": "ISP DecimatorISP Decimator noise reduction",
+    "hrid": "isp-technologies-decimator"
+}

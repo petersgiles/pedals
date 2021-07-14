@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27968",
+    "name": "Raw Heart OD",
+    "image": "images/black-arts-toneworks-raw-heart-od.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 121,
+    "height": 146,
+    "details": "Low-gain Witch Burner + Quantum MysticSometime ago, Black Arts worked with Mike Scheidt from YOB to design a distortion pedal which addressed the shortcomings of his favorite distortion at that time, the Ross Distortion. We used his pedal as a starting point and by adding a three band active EQ between gainstages among other tweaks we achieved the desired tonality, aggression and volume boosting capabilities need to push amps and address EQ needs of changing rooms on tour. The active EQ can control low/mid/treble but being between gain stages it can boost those frequencies into more or less distortion as needed. Low gain settings were of great importance to us and we were able to dial in clarity and articulation to make it a useful toneshaper in both live and studio applications. Mike road tested the design and it was released as the Quantum Mystic OD. It was used on the 2014 YOB album ” Clearing the Path to Ascend “.\nMike added a special LOW GAIN version of the Black Arts Toneworks  WITCH BURNER to his arsenal for recording and touring for the latest album ” Our Raw Hearts ” released 2018. With the low gain modification to the Witch Burner, you will find it easier to control, less of the hot feedback on the gain control, better dynamics and less compression. Its an excellent driver for focusing on upper mids.\nWith this, we decide it was time to release both as dual design.  Save pedalboard space, only require one power source for both circuits, and eliminate a patch cable. Featuring the art of Heavy Metal Talisman the vibe were were going for was realized.\nThe Raw Heart works equally well with a clean amp or driving a dirty amp. It can be a standalone distortion into clean platforms or used to boost an already saturated amp. Clarity, power, excellent eq shaping, fine tuning gain stages are all attributes of the Raw Heart OD.\nhttps://www.blackartstoneworks.com/pedal/raw-heart-od/",
+    "hrid": "black-arts-toneworks-raw-heart-od"
+}

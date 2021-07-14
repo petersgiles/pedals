@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12161",
+    "name": "Hot Hand 3",
+    "image": "images/source-audio-hot-hand-3.jpg",
+    "function": [
+        "Controller",
+        "Expression"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 76,
+    "height": 38,
+    "details": "Universal Wireless Effects Controller",
+    "hrid": "source-audio-hot-hand-3"
+}

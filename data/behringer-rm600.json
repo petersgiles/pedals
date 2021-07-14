@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16407",
+    "name": "RM600",
+    "image": "images/behringer-rm600.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Behringer",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Rotary Speaker Modeling Effects PedalThe ultimate Rotary Modeler that delivers the whole history of 3-dimensional rotary speaker effects at the touch of a footswitch\nReal Sound Modeling (RSM) combines state-of-the-art DSP technology with sophisticated algorithms to emulate real acoustic environments\nExperience the classic and swirling sounds of those famous signature rotary speakers all in one compact pedal\nDedicated Model, Blend, Drive, Slow, Fast and Ramp controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for highest signal integrity in bypass mode\nhttps://www.behringer.com/product.html?modelCode=P0529",
+    "hrid": "behringer-rm600"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12554",
+    "name": "Bad Comrade mk3 (standard version)",
+    "image": "images/recovery-effects-and-devices-bad-comrade-mk3-(standard-version).jpg",
+    "function": [
+        "Delay",
+        "Distortion",
+        "Flanger"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 117,
+    "height": 90,
+    "details": "Glitch, Pitch, Slice and Dice distortion pedalIs is a distortion pedal? Is it a ring modulator? Delay? Call it the Bad Comrade, the world’s first hand-wired glitch, pitch, slice and dice pedal. For the adventurous guitarist (or anyone wielding a 1/4” jack) that craves unthinkable tones, the Bad Comrade lets you distort, modulate, glitch and slice on the fly.\nThe Bad Comrade is hand wired in Seattle, Washington. True bypass, chrome plated LED. lead-free solder, and U.S.A. parts whenever possible. It operates on a standard Boss style 9vdc power supply (not included). It includes a full-lifetime warranty.\nhttp://www.graigmarkelmusic.com/Graig_Markel_Music/Bad_Comrade.html",
+    "hrid": "recovery-effects-and-devices-bad-comrade-mk3-(standard-version)"
+}

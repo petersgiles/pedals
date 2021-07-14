@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11478",
+    "name": "Basswitch Dual Band Compressor",
+    "image": "images/lehle-basswitch-dual-band-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 60,
+    "height": 145,
+    "details": "http://lehle.com/DE/RMI-Basswitch-Dual-Band-Compressor",
+    "hrid": "lehle-basswitch-dual-band-compressor"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21135",
+    "name": "FX96 Echo FX Analog Delay",
+    "image": "images/dod-fx96-echo-fx-analog-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$73 Price in €",
+    "width": 77,
+    "height": 130,
+    "details": "Analog delay and tape echo simulatorFrom the manual: \"The FX96 Echo FX is DOD's latest addition to its arsenal of great pedal effects. The FX96 is an Analog Delay pedal that offers tape delay simulation at your feet. No longer will you have to haul (and handle with care) the bulky Echo tape machines of the past to the gig. And if the \"worn out\" tape characteristics of the old Echo machines is the sound your [sic] looking for, the FX 96 gives a Tape Quality control for changing the tonal quality of the tape emulation.\"\nHistorical context: At the time it was introduced, the FX96 Echo FX analog delay was apparently one of the first 'new' analog delay pedal developed by any major musical instrument effects company in several years. [The Ibanex CD10 was part of the 10-series (1986-92) and their 'classic' AD99 may have been released about the same time as the FX96; Arion also produced two analog delays, but it is unclear when they were made.] The FX96's low-pass (high-cut) \"Tape Quality\" control pre-dated similar features in the digital Danelectro Dan-Echo by a year, and in the Boss DD-7 by 12 years. With MXR's recent Carbon Copy analog delay selling for $150 new, and the price of vintage Boss DM-2/DM-3 analog delays continuing to climb past $200 in the used market, the FX96 has become an economical alternative for those seeking the warmth of an analog delay.\nTechnical info:\nNotable IC chips: one MN3005 4096-stage BBD chip driven by a MN3101 clock generator/driver CMOS chip; one NE570N (rev. A) or SA571N (rev. B) compander; and three surface-mounted 4560 op-amps \nInternal trim pots: unlike the FX90, the first version of the FX96 does not have any internal trim pots; while the second version includes one trim pot, we do not recommend messing with trim pots\nhttp://www.americaspedal.net/fx96/\nhttps://dod.com/en/products/fx96",
+    "hrid": "dod-fx96-echo-fx-analog-delay"
+}

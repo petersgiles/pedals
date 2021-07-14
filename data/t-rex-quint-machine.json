@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13875",
+    "name": "Quint Machine",
+    "image": "images/t-rex-quint-machine.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$221 Price in €",
+    "width": 60,
+    "height": 117,
+    "details": "Octaver + Fifth\nhttp://www.t-rex-effects.com/quint-machine/",
+    "hrid": "t-rex-quint-machine"
+}

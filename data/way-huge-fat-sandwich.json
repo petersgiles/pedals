@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15538",
+    "name": "Fat Sandwich",
+    "image": "images/way-huge-fat-sandwich.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$168 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "Harmonic Saturator The Fat Sandwich Distortion represents a new era in pedal design for Way Huge. In addition to carrying on the Way Huge tradition of amazing tone, rugged construction and cool names, the Fat Sandwich Distortion delivers heaps of crunchy distortion goodness via its innovative multi-stage clipping circuit. Meticulously designed from the ground up, the passive tone stack was tuned to bring out the sweet spot with any guitar and amp combination. The Volume control produces tons of output, making it ideal for driving the headroom out of the most powerful tube amps. Additionally, the Fat Sandwich Distortion has two internal mini controls: the Curve knob lets the user fine-tune the corner frequency of the overdrive filtering and the Sustain control adjusts the gain of the final distortion stage. The Fat Sandwich Distortion is versatile and over the top-the consummate distortion pedal for any genre or playing style.\nhttps://www.jimdunlop.com/product/whe301-7-10137-01708-5.do",
+    "hrid": "way-huge-fat-sandwich"
+}

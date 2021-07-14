@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16519",
+    "name": "Quartermaster 6",
+    "image": "images/the-gigrig-quartermaster-6.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 410,
+    "height": 58,
+    "details": "",
+    "hrid": "the-gigrig-quartermaster-6"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14924",
+    "name": "GR2",
+    "image": "images/3leaf-audio-gr2.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 116,
+    "height": 93,
+    "details": "Groove Regulator 2",
+    "hrid": "3leaf-audio-gr2"
+}

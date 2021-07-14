@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15763",
+    "name": "Hookers Green Bass Machine",
+    "image": "images/onecontrol-hookers-green-bass-machine.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 39,
+    "height": 100,
+    "details": "OverdriveHooker's Green Bass Machine (HGB) is an all-purpose bass machine for any genre after the 1950s. The impression I get when I increase DRIVE to full is like the bass sound that Lemmy from Motorhead makes. I tested it with a guitar, both with transistor and tube amps. It worked well with any guitar amps and pickups. It could be a great trick to improve your sound. For example - try this into a Fender Hotrod, you won't be disappointed.\nhttp://www.one-control.com/hookers-green-bassmachine.html",
+    "hrid": "onecontrol-hookers-green-bass-machine"
+}

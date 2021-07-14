@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24272",
+    "name": "octatrack mki",
+    "image": "images/elektron-octatrack-mki.jpg",
+    "function": [
+        "Sampling"
+    ],
+    "manufacturer": "Elektron",
+    "current": "3000 mA / 9 V / DC / Positive Center",
+    "cost": "",
+    "width": 340,
+    "height": 180,
+    "details": "Octatrack Mk.Igroovebox/sampler",
+    "hrid": "elektron-octatrack-mki"
+}

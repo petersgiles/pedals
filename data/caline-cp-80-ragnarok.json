@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25284",
+    "name": "CP-80 Ragnarok",
+    "image": "images/caline-cp-80-ragnarok.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Caline",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 119,
+    "height": 94,
+    "details": "Reverb delayThe \"Ragnarok\" is based on CP-26 snake bite, CP-80 takes it up a notch combining the reverb and digital delay in one pedal with separate control switching. The new option gives great tonal effect while creating a variety of warm ambient sounds.\nThe Reverb is lush while The Delay side gives up to a 600ms delay time. There is plenty of scopes to combine both sides and create your own atmospheric sound.\nPRD -  Sets the delay time \nDecay - Sets the length of the reverb \nMix - Controls the amount of reverb \nLevel - sets the level of delay signal, which mixes with straight guitar tone. \nDelay - controls the delay time from 25ms to 600ms \nRepeat - controls the repeat of the delay signal.     \nFeatures:\n1. True Bypass design,with aluminium alloy casing\n2. Power Requirement: 9V DC center negative\n3. Current consumption: 150mA\n4. Product Dimensions: 11.9x9.4x3.8cm\n5. Weight: 0.35kg\nhttp://www.calinemusic.com/products/effectpedal/240.html",
+    "hrid": "caline-cp-80-ragnarok"
+}

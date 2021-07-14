@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16607",
+    "name": "Dude Incredible",
+    "image": "images/electronic-audio-experiments-dude-incredible.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$235 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Harmonic Percolator and IVP PreampThe Dude Incredible is designed to approximate the iconic guitar tone of Steve Albini, notable recording engineer and guitarist of Shellac, Big Black, and more. This is two pedals in one.\nOne side is a stripped-down Intersound Instrument Voice Preamp (IVP), which features an active, pre-distortion two band EQ and a unique \"Tube Voice\" distortion circuit. The IVP is an excellent distortion circuit, but with the treble cranked and a single coil guitar (bonus points for aluminum!) it gets distinctively clangy.\nThe other side is a modified Harmonic Percolator circuit, a fuzz circuit known for its rich tone and unusual clarity. It is best used for blasts of fuzz when stacked with the IVP, but is also an excellent sound in its own right.\nBoth channels are independently switchable, with the Percolator stacked into the IVP when both are on. \nControls:\n    Harmonics - Percolator gain\n    Balance - Percolator volume\n    Level - IVP volume\n    Gain - IVP gain\n    Bass - active pre-distortion low shelf\n    Treble - active pre-distortion high shelf\nhttp://www.electronicaudioexperiments.com/dude-incredible/",
+    "hrid": "electronic-audio-experiments-dude-incredible"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15592",
+    "name": "Bonsai",
+    "image": "images/jhs-bonsai.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 69,
+    "height": 123,
+    "details": "9 Tube Screamers in One Box",
+    "hrid": "jhs-bonsai"
+}

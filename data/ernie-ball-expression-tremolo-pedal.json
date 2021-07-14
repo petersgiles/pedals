@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20968",
+    "name": "Expression Tremolo Pedal",
+    "image": "images/ernie-ball-expression-tremolo-pedal.jpg",
+    "function": [
+        "Expression",
+        "Tremolo"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 89,
+    "height": 178,
+    "details": "Expression Tremolo PedalThe sleek, compact design of the Ernie Ball Expression Series Tremolo pedal maximizes playability while minimizing the footprint on your pedal board. Unlock a virtually limitless tonal palette that simply can't be matched by traditional \"on/off\" stompboxes. Sealed aircraft aluminum chassis offers a mechanically and electrically superior experience by protecting internal components from outside elements. Part number P06188.\nhttps://www.ernieball.com/guitar-accessories/pedals/expression-tremolo-pedal",
+    "hrid": "ernie-ball-expression-tremolo-pedal"
+}

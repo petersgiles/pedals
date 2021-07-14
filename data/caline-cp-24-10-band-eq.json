@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12679",
+    "name": "CP-24 10 Band EQ",
+    "image": "images/caline-cp-24-10-band-eq.jpg",
+    "function": [
+        "Equalizer",
+        "PreAmp"
+    ],
+    "manufacturer": "Caline",
+    "current": "300 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 120,
+    "height": 94,
+    "details": "10 Band Graphic Equalizer PedalYou can really fine tune your tone with the CP24 due to the massive range of channels - 31.25Hz, 62.5Hz, 125Hz, 250Hz, 500Hz, 1k Hz, 2k Hz, 4k Hz, 8k Hz and 16k Hz. There's also a gain channel on the left hand side. The CP24 is silent durable and easy to use. Like all Caline pedals it's true bypass so won't impact your tone when off (although it should be on most of the time). Also works with other instruments.\nFeatures:\n\nTrue bypass\nPower Requirement: 9V DC center negative\nCurrent consumption: 30mA [Caline litterature is likely wrong, as their similar \"CP-81\" is 300ma]\nProduct Dimensions: 11.9x9.4x3.8cm\nWeight:0.35kgs\n\nPackaging information:\n\nDimensions of single box: 14.1x12.2x7.3cm\nQTY / CTN: 30PCS\nDimensions of Carton:45x26x38cm\nWeight /CTN: 13.5kgs\n\nVideos:\n\n\nhttp://www.calinemusic.com/products/effectpedal/93.html",
+    "hrid": "caline-cp-24-10-band-eq"
+}

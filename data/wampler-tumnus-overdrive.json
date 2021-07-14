@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11498",
+    "name": "Tumnus Overdrive",
+    "image": "images/wampler-tumnus-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Effects pedal for electric guitar",
+    "hrid": "wampler-tumnus-overdrive"
+}

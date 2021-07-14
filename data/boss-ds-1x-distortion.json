@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12792",
+    "name": "DS-1X Distortion",
+    "image": "images/boss-ds-1x-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Special edition BOSS distortion pedal with next-generation sound, feel, and tonal response\nAll-new design provides a superior playing experience that’s unattainable with analog distortion pedals\nPowerful real-time processing adapts to your playing to provide ideal distortion tones in every register\nEnjoy perfect sounds over the entire fretboard, from tight, crisp tones on the low strings to fat, singing tones on the highest notes\nHigh-clarity distortion sound that’s never muddy or boomy, even when playing two or more notes at the same time\nUltra-responsive to volume changes and picking dynamics\nVery low noise, even with high-gain settings\nDrive, High, and Low knobs offer a wide range of sound shaping not found in typical stompbox pedals\nStriking appearance with exclusive chrome knobs and control plate, plus vintage silver knob for battery compartment access\nFeatures BOSS’ innovative Multi-Dimensional Processing (MDP), realized with proprietary technology and custom DSP\nBOSS five-year warranty\nhttps://www.boss.info/us/products/ds-1x/",
+    "hrid": "boss-ds-1x-distortion"
+}

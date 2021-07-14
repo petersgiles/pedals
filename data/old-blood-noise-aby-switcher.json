@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16461",
+    "name": "AB/Y Switcher",
+    "image": "images/old-blood-noise-aby-switcher.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 111,
+    "height": 450,
+    "details": "AB/Y Switch\nhttps://www.oldbloodnoise.com/pedals/obne-aby-switcher",
+    "hrid": "old-blood-noise-aby-switcher"
+}

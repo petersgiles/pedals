@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21163",
+    "name": "Moogerfooger MF-105M MIDI MuRF",
+    "image": "images/moog-music-inc.-moogerfooger-mf-105m-midi-murf.jpg",
+    "function": [
+        "Filter",
+        "MIDI"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / 9 V / AC/DC / Positive Center",
+    "cost": "",
+    "width": 152,
+    "height": 229,
+    "details": "",
+    "hrid": "moog-music-inc.-moogerfooger-mf-105m-midi-murf"
+}

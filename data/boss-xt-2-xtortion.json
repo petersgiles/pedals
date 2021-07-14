@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12883",
+    "name": "XT-2 Xtortion",
+    "image": "images/boss-xt-2-xtortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The XT-2 is a love or hate type of distortion pedal. It’s got a very hard edged distortion that sounds a bit different from other Boss distortion pedals. The tone controls are called Countour and Punch and is not just a renaming of bass and treble. Contour cuts highs or boosts highs and lows while Punch controls the distortion depth and adds a mid boost. Anyone tired of the convenional distortion sounds might like the XT-2.\nPedal production started July 1996 and was released together with the PW-2 soon afterwards. Production ended 11 months later with less than 20 000 pedals made.\nSpecifications\nControls: Level, Contour, Punch, Distortion\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 15 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe XT-2 was sold from August 1996 to December 1998.\nhttp://www.bossarea.com/boss-xt-2-xtortion/",
+    "hrid": "boss-xt-2-xtortion"
+}

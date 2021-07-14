@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16833",
+    "name": "Plasma Pedal",
+    "image": "images/gamechanger-audio-plasma-pedal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Gamechanger Audio",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 96,
+    "height": 148,
+    "details": "Plasma distortion pedalThe PLASMA PEDAL is a revolutionary approach within the realm of overdrive and distortion, as it is a new and previously unexplored method of achieving signal clipping. Instead of using LED circuits, transistors or vacuum tubes to produce overdrive, the PLASMA PEDAL transforms your instrument’s live signal into a series of continuous high-voltage discharges within a xenon-filled tube.\nIn essence – you are playing a bolt of electricity, and the electrical discharges produced by your instrument are instantly converted back into an analog audio signal, producing a quick, responsive, and extremely heavy distortion with TONS of unique character!\nhttps://www.gamechangeraudio.com/plasma/",
+    "hrid": "gamechanger-audio-plasma-pedal"
+}

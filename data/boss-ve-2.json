@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17441",
+    "name": "VE-2",
+    "image": "images/boss-ve-2.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 156,
+    "height": 64,
+    "details": "Vocal HarmonistCombining sophisticated sound with simple operation, the VE-2 Vocal Harmonist delivers a complete effects solution for all singers, particularly those that perform with guitar. This portable, battery-powered stompbox has everything you need to create polished, studio-quality sounds everywhere you sing, from concert stages and street performances to practicing and having fun at home. The VE-2 magically creates beautiful harmonized vocals that follow your singing, with pitch that automatically tracks the chords played on a connected guitar, a preset key, or a combination of the two. Using one of these three operation modes, it’s easy to create perfect real-time harmonies in any key, even if you have no experience with gear or music theory. In addition to harmony, the VE-2 provides essential effects to enhance your voice, such as high-quality reverb/delay and an enhancer with real-time pitch correction. Also included is a USB audio function that allows you to connect to your computer and easily capture impressive VE-2 vocal sounds for music recordings, social media videos, and more.\nhttps://www.boss.info/us/products/ve-2/",
+    "hrid": "boss-ve-2"
+}

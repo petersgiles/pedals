@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22834",
+    "name": "Life Pedal",
+    "image": "images/earthquaker-devices-life-pedal.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 191,
+    "height": 152,
+    "details": "Octave Distortion and BoostAn octave fuzz inspired by the Shin-Ei FY2 & FY6 units leads the circuit into a LM308 chipped and brutal rodent big box distortion, recreated with the best components, and including a three-way clipping switch (op Amp, Asymmetric & Symmetric). Second stage is a purely clean boost to further overdrive the preamp tubes of your vintage system into -scaped harmonics, and feedback overtone bliss.\nhttps://sunn.southernlord.com/life-pedal/",
+    "hrid": "earthquaker-devices-life-pedal"
+}

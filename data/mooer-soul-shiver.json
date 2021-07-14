@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30243",
+    "name": "Soul Shiver",
+    "image": "images/mooer-soul-shiver.jpg",
+    "function": [
+        "Chorus",
+        "Rotary"
+    ],
+    "manufacturer": "Mooer",
+    "current": "128 mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Rotary, vibe, vibrato, chorusChorus and vibrato pedal\nRetro Psychedelic Sound\nControls for Volume, Speed and Intense\nhttp://www.mooeraudio.com/product/Soul-Shiver--91.html",
+    "hrid": "mooer-soul-shiver"
+}

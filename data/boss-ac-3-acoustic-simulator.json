@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12797",
+    "name": "AC-3 Acoustic Simulator",
+    "image": "images/boss-ac-3-acoustic-simulator.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Boss",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$165 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "BOSS’s most advanced acoustic-guitar modeling in a compact pedal\nFour simulation modes: Standard, Jumbo, Enhanced, and Piezo-equipped\nTop and Body knobs for fine-tuning the virtual-body resonance\nBuilt-in reverb, optimized for acoustic-guitar simulation\nBOSS five-year warranty\nhttps://www.boss.info/us/products/ac-3/",
+    "hrid": "boss-ac-3-acoustic-simulator"
+}

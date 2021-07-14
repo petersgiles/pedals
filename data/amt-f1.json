@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18383",
+    "name": "F1",
+    "image": "images/amt-f1.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "10 mA / 12 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 74,
+    "height": 112,
+    "details": "Guitar Preamp PedalAMT Electronics Legend Amps Series pedals capture warm, rich and natural tones of the most sought-after classic and modern guitar tube amplifiers! The F1 emulates the sounds a Fender Twin tube guitar amp:  from crystal clean to slightly overdriven.\nAMT Electronics Legend Amps Series Pedals are designed to work seamlessly in studio or live. Each pedal can be operated as:\na single channel guitar preamp, being connected to an external guitar power amplifier or to a guitar head's/combo's internal power amplifier (via \"Power Amp In\", \"Line In\" or \"Return\" jacks)\nan amplifier and cabinet emulator – \"Amp in a Box\", being connected directly to an audio interface or a mixing console",
+    "hrid": "amt-f1"
+}

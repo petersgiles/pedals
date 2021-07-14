@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21712",
+    "name": "Kemper Profiler Remote",
+    "image": "images/kemper-kemper-profiler-remote.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Kemper",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$469 Price in €",
+    "width": 420,
+    "height": 180,
+    "details": "https://www.kemper-amps.com/remote",
+    "hrid": "kemper-kemper-profiler-remote"
+}

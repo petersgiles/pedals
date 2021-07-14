@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27781",
+    "name": "Juicer",
+    "image": "images/analogman-juicer.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Analogman",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Orange Squeezer type compressor\nhttps://www.buyanalogman.com/Analog_Man_Juicer_Compressor_p/am-juicer.htm",
+    "hrid": "analogman-juicer"
+}

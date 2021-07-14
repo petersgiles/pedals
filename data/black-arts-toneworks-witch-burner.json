@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12289",
+    "name": "Witch burner",
+    "image": "images/black-arts-toneworks-witch-burner.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Overdrive/Distortion\nhttps://www.blackartstoneworks.com/pedal/witch-burner/",
+    "hrid": "black-arts-toneworks-witch-burner"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12118",
+    "name": "10 Band EQ Silver",
+    "image": "images/mxr-10-band-eq-silver.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "48 mA / 18 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 127,
+    "height": 95,
+    "details": "Graphic EQ\nhttps://www.jimdunlop.com/mxr-ten-band-eq/",
+    "hrid": "mxr-10-band-eq-silver"
+}

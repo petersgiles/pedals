@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12217",
+    "name": "MF Drive",
+    "image": "images/moog-music-inc.-mf-drive.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$194 Price in €",
+    "width": 83,
+    "height": 144,
+    "details": "The MF Drive is a unique, filter-based overdrive pedal that employs a Moog Ladder Filter, boutique FET amplifiers, and classic OTAs in its drive section making it highly reactive to input gain and picking dynamics. The bi-polar tone control and sweep-able filter work with input gain to offer each player completely customizable sounds from creamy British overdrive to cranked American tube amplifier and even fuzz. When the filter Peak switch is engaged and an expression pedal is connected, the harmonic content is shifted to the filter’s cutoff position adding tonal and dirty wah performance possibilities not found elsewhere.\nCONTROLS\nGAIN- Sets the input level sent through the OTA before passing through the 4-pole Moog Ladder filter. At lower settings, the MF Drive is cleaner with a smooth breakup. As Gain increases, OTA and filter distortion increase causing the MF Drive to become more aggressive and reactive to picking dynamics\nDRIVE - In the down position the Gain knob range is from +6.8dB to +48dB. In the up position the gain range is from +16dB to +57dB. This allows for extended control over gain-staging the input of the MF Drive.\nFILTER- Interacts heavily with the Tone knob and filter Peak switch. With Peak off, the filter can be used to reduce top end and add heft to an amplifier. With Peak engaged, the filter can be used to add low, mid, or high frequency boost to your instrument. The MF-Drive by nature has a large bottom end, so this position is extremely useful for dialing in a more focused guitar tone.\nPEAK- When engaged, Peak creates a +15dB boost at the Filter cutoff. It is extremely useful for accentuating mid-range or high frequencies. When paired with an expression pedal, Peak unlocks a whole new range of performance sounds.\nTONE- A variable Lowpass/Mid-Scoop/Highpass voicing section sent through a boutique FET for color. At minimum, the sound is dark and full. Approaching the Mid position the sound varies from a slightly scooped American tube amp to a more British, mid-forward tone. At maximum position, the sound is present and articulate with a smooth, rolled of low-end.\nOUTPUT- The output level of the MF-DRIVE is extremely hot to offer a wide range of tones from clean to dirty. With proper gain-staging, the MF Drive can also be used as a boost or wah pedal.\nEXPRESSION PEDAL INPUT- This input is assigned to Filter cutoff. Use it for massive swells or engage filter Peak to create a tunable dirty wah. This setting sounds amazing on bass guitar.\n• True Bypass                     \n• Designed to sound and feel like a cranked tube amplifier without the noise\n• Extremely reactive to input volume and picking dynamics.\n• American and British amplifier versatility that when pushed approaches Fuzz\n• Works great as a dirty boost for high gain amplifiers\n• Expression pedal control of the filter creates a tunable, dirty wah\n• Designed to perform with any Guitar, Amp, or Bass guitar configuration\nhttps://www.moogmusic.com/products/minifoogers/mf-drive",
+    "hrid": "moog-music-inc.-mf-drive"
+}

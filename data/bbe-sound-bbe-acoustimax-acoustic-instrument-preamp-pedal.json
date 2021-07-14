@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20211",
+    "name": "BBE Acoustimax Acoustic Instrument Preamp Pedal",
+    "image": "images/bbe-sound-bbe-acoustimax-acoustic-instrument-preamp-pedal.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 216,
+    "height": 140,
+    "details": "",
+    "hrid": "bbe-sound-bbe-acoustimax-acoustic-instrument-preamp-pedal"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27917",
+    "name": "Xenyx 802",
+    "image": "images/behringer-xenyx-802.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 189,
+    "height": 220,
+    "details": "MixerPremium ultra low-noise, high headroom analog audio mixer\n2 state-of-the-art XENYX Mic Preamps comparable to standalone boutique preamps\nNeo-classic \"British\" 3-band EQs for warm and musical sound\n1 post fader FX send per channel for external FX devices\n1 stereo aux return for FX applications or as separate stereo input\nMain mix outputs plus separate control room, phones and stereo CD/tape outputs\nCD/tape inputs assignable to main mix or control room/phones outputs\nHigh-quality components and exceptionally rugged construction ensure long life",
+    "hrid": "behringer-xenyx-802"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23762",
+    "name": "Dark Sun",
+    "image": "images/seymour-duncan-dark-sun.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "150 mA / 9 V / DC",
+    "cost": "$369 Price in €",
+    "width": 142,
+    "height": 130,
+    "details": "Digital Delay & ReverbA Pedal with Mark Holcomb’s Favorite Delays and Reverbs\nSpearhead of the triple-threat guitar juggernaut that is Periphery, Mark Holcomb is infamous for his explosive riffing and soaring leads — but he’s no stranger to the ambient, atmospheric sonic potential of his instrument. The lush clean phrasings, accented by sparkling reverb and chiming delays, that provide relief from Periphery’s sensory assault are a key element of the alchemy that makes the band so special. All of which means the bar was set high when Seymour Duncan set out to design a pedal that meets Mark’s expectations. Enter Dark Sun.\nModulation a go-go\nBased on Holcomb’s pet sounds from the Andromeda Dynamic Delay and the Silver Lake Dynamic Reverb, Dark Sun combines a clean, warm-sounding digital delay algorithm with a posh hall reverb, and it gives you the ability to route the two in just about any configuration you can imagine. What’s more, you can shape the EQ of the effect, add saturation or lush choral modulation, or use the Dynamic Expression knob to control the mix of the effect.\nFlexibility on the fly\nMark requested the ability to change the order of the effects on the fly and to assign them to either the left or right channel — so Seymour Duncan designed a routing control for Dark Sun: a 4-position switch that can create dramatically different effects depending on how you set it. Running the delay first means that each repeat creates new reverberations; slotting reverb first creates a more dramatic and less natural reverb-trail repeat. Setting Delay and Reverb to the left and right channels lets you use Dark Sun’s two effects in stereo — or as two individual pedals in one.\nFilters, saturation, and modulation\nA complement of filters, gain, and modulation controls round out Dark Sun’s feature set. Applied only to the wet signal, they can completely reshape the character of the effect. Deploy the lowpass filter to soften and warm up the sound, or the highpass to thin out or eliminate fat low-end repeats, allowing you to use high parallel processing (Blend) settings without overpowering your playing. Saturation adds gain for pleasing low-fidelity effects such as tape-like saturation or gnarly shoegazer-type distorted repeats. For even more flexibility, the modulation section can be assigned to the delay, the reverb, or both.\nDynamic Expression\nDark Sun’s Dynamic Expression lets you control the mix of the effect automatically with your playing. Switch it on, dig in hard, and the mix control is automatically ducked, getting the reverb and delay out of your way. Play softer or let a note ring out, and the mix level rises again, swelling the ambient trails.\nTap control\nDark Sun has four tap divisions available: quarter notes, dotted eighths, eighths, and triplets. You can set the tempo via the tap footswitch, Time control, or MIDI. The time can be displayed in milliseconds or bpm (you can toggle this by holding the Trails switch while powering up the pedal). Dark Sun is also MIDI-capable and features a micro-USB port for firmware updates and preset management.\nAs are all Seymour Duncan pedals, Dark Sun is designed and built in the USA and features true-bypass switching. There are many Periphery fans here at Sweetwater, but guitarists of all stripes can benefit from the cool sounds delivered by the Seymour Duncan Dark Sun digital delay and reverb pedal.\nhttps://www.seymourduncan.com/pedal/dark-sun",
+    "hrid": "seymour-duncan-dark-sun"
+}

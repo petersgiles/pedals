@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12746",
+    "name": "UT300 Ultra Tremolo",
+    "image": "images/behringer-ut300-ultra-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Classic Tremolo\nhttps://www.behringer.com/behringer/product?modelCode=P0602",
+    "hrid": "behringer-ut300-ultra-tremolo"
+}

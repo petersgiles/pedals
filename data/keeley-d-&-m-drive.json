@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12575",
+    "name": "D & M drive",
+    "image": "images/keeley-d-&-m-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$298 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "Overdrive and boost",
+    "hrid": "keeley-d-&-m-drive"
+}

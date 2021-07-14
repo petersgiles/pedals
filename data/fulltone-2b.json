@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24892",
+    "name": "2B",
+    "image": "images/fulltone-2b.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 52,
+    "height": 114,
+    "details": "BoostThe Fulltone 2B is a tiny, transparent, and amazing boost pedal, born from the “Boost” channel in our FD3 pedal. Soon after the FD3 came out I started getting a steady flow of emails asking if I could “please make that into a single channel Boost pedal!” So I crammed the circuit into the smallest possible enclosure 4.5\" x 2.1\" x 2.3\" with battery tucked tightly inside and even engineered space-saving rear-mounted IN, OUT, and DC power jacks.\nhttps://www.fulltone.com/products/2b",
+    "hrid": "fulltone-2b"
+}

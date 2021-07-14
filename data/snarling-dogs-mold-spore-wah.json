@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12156",
+    "name": "Mold Spore Wah",
+    "image": "images/snarling-dogs-mold-spore-wah.jpg",
+    "function": [
+        "Filter",
+        "Ring Modulator",
+        "Wah"
+    ],
+    "manufacturer": "Snarling Dogs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 120,
+    "height": 265,
+    "details": "Psycho-scumatic WHINE-O-WAH AND RING MODULATOR",
+    "hrid": "snarling-dogs-mold-spore-wah"
+}

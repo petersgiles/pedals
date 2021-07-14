@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17803",
+    "name": "nanokontrol studio",
+    "image": "images/korg-nanokontrol-studio.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Korg",
+    "current": "500 mA / ? V / AC/DC",
+    "cost": "",
+    "width": 278,
+    "height": 160,
+    "details": "MIDI controllerThe nanoKONTROL Studio provides transport keys and a mixer section, giving you stress-free control of your DAW or DJ software. It is battery operated and can connect wirelessly with your iPhone/iPad or Mac/Windows. It’s a light-weight, compact mobile MIDI controller that lets you create music more intuitively than ever.\nhttps://www.korg.com/us/products/computergear/nanokontrol_studio/",
+    "hrid": "korg-nanokontrol-studio"
+}

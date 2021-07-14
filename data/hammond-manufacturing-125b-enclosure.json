@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16214",
+    "name": "125B Enclosure",
+    "image": "images/hammond-manufacturing-125b-enclosure.jpg",
+    "function": [],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$6 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "hammond-manufacturing-125b-enclosure"
+}

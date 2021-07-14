@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18648",
+    "name": "Pugilist",
+    "image": "18648.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fender",
+    "current": "88 mA / 9 V / DC / Negative Center",
+    "cost": "$101 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "Dual gain engine distortionFiery sounding and flexible, the Pugilist Distortion is ready to add some heavyweight gain to your rig. This original design features dual gain engines—with independent tone controls for each—letting you select multiple variations of distortion, ensuring this pedal will play well with any rig. Series/Blend switch lets you stack channels for thick, cascading distortion, while the Bass Boost switch fattens up your tone. The Blend control mixes the two channels to get the best of both worlds, crafting a sound just for you.\nhttps://shop.fender.com/en-FR/accessoriespedals-power-products/pugilist-distortion/0234534000.html",
+    "hrid": "fender-pugilist"
+}

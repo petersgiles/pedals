@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19360",
+    "name": "Iguana Tail Loop MKII",
+    "image": "images/onecontrol-iguana-tail-loop-mkii.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 365,
+    "height": 45,
+    "details": "5 loop switcher w/ tuner outThe Iguana Tail Loop MKII is a five-channel loop switcher equipped with six DC outputs. The loops are all true bypass and it also has a separate tuner output. Perfect for pedals or tuners that seem to be affecting your tone while not in use. Powered by a standard 9V power supply and can be used passively if so desired, however power outputs will not be active.\nThe Iguana is a great product for any guitarist who loves pedals. Like most passive loopers, the Iguana will insure that all of your pedals are true bypass. Also the Iguana has a tuner output/mute switch so that your tuner is also out of your signal chain.\nIn addition to having audio loops, the Iguana has 6 DC outputs so you can power up to 6 attached units. In terms of having a clean easy to use pedalboard, the DC out option is extremely useful.\nWith most vintage pedals the internal buffer isn't something you'd want your signal chain. By making every pedal true bypass, you can achieve a clearer signal.\nHaving various pedals with different shapes and sizes can make it a challenge to stomp pedals one by one in a live situation. With the Iguana all of your switches have the same size and are easily lined up with bright LEDs making it very easy to see whether you pedals are active or not.\nThe Iguana is a great product for the gigging guitarists who want to simplify his or her pedal board.\nhttp://www.one-control.com/iguana-tail-loop-mkii.html",
+    "hrid": "onecontrol-iguana-tail-loop-mkii"
+}

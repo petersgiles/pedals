@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12689",
+    "name": "Super Pulsar",
+    "image": "images/electro-harmonix-super-pulsar.jpg",
+    "function": [
+        "Tremolo",
+        "Ring Modulator",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$290 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "",
+    "hrid": "electro-harmonix-super-pulsar"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11963",
+    "name": "FZ7 Fuzz",
+    "image": "images/ibanez-fz7-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 125,
+    "details": "Fuzz",
+    "hrid": "ibanez-fz7-fuzz"
+}

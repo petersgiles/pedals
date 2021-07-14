@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12167",
+    "name": "Gold Comp",
+    "image": "images/wren-and-cuff-gold-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Germanium CompressorHand matched germanium transistors\nTrue hard-wire bypass\n9V battery or 2.1mm adapter\nMade in the USA\nLifetime warranty\nhttp://www.wrenandcuff.com/site/the-stompboxes/gold-comp/",
+    "hrid": "wren-and-cuff-gold-comp"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11803",
+    "name": "Yellow Comp",
+    "image": "images/mooer-yellow-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Optical CompressorClassic optical compressing sound with smooth attack and decay. \nFurthermore, it preserves the original signal transients perfectly.\nFull metal shell\nVery small and exquisite\nTrue bypass\nSpecifications\nInput: 1/4” monaural jack (impedance: 470k )\nOutput: 1/4” monaural jack (impedance: 1k Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: 10 mA\nDimensions: 93.5mm (D) × 42mm (W) × 52mm (H)\nWeight:160g\nhttp://www.mooeraudio.com/?product/201410169433.html",
+    "hrid": "mooer-yellow-comp"
+}

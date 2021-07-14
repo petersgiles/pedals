@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16009",
+    "name": "BS-1",
+    "image": "images/little-bear-bs-1.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Little Bear",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 163,
+    "height": 84,
+    "details": "Mammoth clone",
+    "hrid": "little-bear-bs-1"
+}

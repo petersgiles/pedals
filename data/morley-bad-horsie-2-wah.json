@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15004",
+    "name": "Bad Horsie 2 Wah",
+    "image": "images/morley-bad-horsie-2-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Morley",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$145 Price in €",
+    "width": 149,
+    "height": 232,
+    "details": "The Guitar God’s legendary, signature Wah with an added Contour mode. Morley spent years working with Vai taming this Bad Horsie and in 1996 released what would become one of the first artist signature pedals, and our best-selling Wah of all-time. The Bad Horsie 2’s Contour mode allows you to adjust the frequency and tone giving you a wide range of tonal options.\nMAIN FEATURES & SPECS\n    Classic Morley construction: 9.13″ x 5.88″ x 2.75″ ( L x W x H)\n    Switchless operation; Simply step on the treadle to engage the Wah and step off to bypass.\n    Our world famous Electro-Optical design. No pots to wear out!\n    Two modes; Bad Horsie Wah and Contour Wah.\n    1st Bad Horsie Wah mode is set to Steve’s preferred tone and sweep.\n    2nd Contour Wah mode allows you to alter the frequency and output of the Wah. Simply press the switch to active the Contour mode and  use the CONTOUR knob to adjust the frequency and use the LEVEL knob to control the output.\n    True Tone Bypass buffer circuit ensures pure guitar tone and output.\n    Powered by one 9-volt battery or optional Morley 9V adapter. Compatible with most 9V adapters.\n    Rugged cold-rolled steel housing, LED indication, quick clip battery door and one-year warranty.\n    Works with Guitar, Bass or Keys!\nhttps://www.morleyproducts.com/steve-vai-bad-horsie-2-contour-wah/",
+    "hrid": "morley-bad-horsie-2-wah"
+}

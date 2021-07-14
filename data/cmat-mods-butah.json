@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23304",
+    "name": "Butah",
+    "image": "images/cmat-mods-butah.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "CMAT Mods",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Low Gain Bluesbreaker style pedalThe Buttah effect is a low gain OD that sounds like an old tube amp being pushed to a slight amount of grit\nhttp://www.cmatmods.com/butah.html",
+    "hrid": "cmat-mods-butah"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13517",
+    "name": "VoiceTone Harmony-G XT",
+    "image": "images/tc-electronic-voicetone-harmony-g-xt.jpg",
+    "function": [
+        "Delay",
+        "Pitch Shifter",
+        "Reverb",
+        "Volume",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$230 Price in €",
+    "width": 127,
+    "height": 133,
+    "details": "Vocal and guitar effects processorRiveting Vocal Harmony & FX For Guitarists\n• Creates stunning, natural harmonies by automatically listening to your guitar and voice\n• Tone switch adapts to your voice to make you sound crisp, clean and full\n• 18 combinations of reverb & delay shared by vocal and guitar input\nSpecs:\nhttp://www.tc-helicon.com/en/products/voicetone-harmony-g-xt/specs/\nhttp://www.tc-helicon.com/en/products/voicetone-harmony-g-xt/",
+    "hrid": "tc-electronic-voicetone-harmony-g-xt"
+}

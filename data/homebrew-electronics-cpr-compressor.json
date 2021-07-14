@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30148",
+    "name": "CPR Compressor",
+    "image": "images/homebrew-electronics-cpr-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Homebrew Electronics",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 125,
+    "height": 95,
+    "details": "Nice hand built retro compressor\nhttp://web.archive.org/web/*/homebrewelectronics.com/pdfs/compressor_inst.pdf",
+    "hrid": "homebrew-electronics-cpr-compressor"
+}

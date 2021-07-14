@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11486",
+    "name": "Dyna Comp",
+    "image": "images/mxr-dyna-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 9 V / DC",
+    "cost": "$124 Price in €",
+    "width": 57,
+    "height": 108,
+    "details": "Compressor and SustainerThe Dyna Comp Compressor can tighten up your signal, add rich sustain, or create the percussive and clicky sound heard on numerous hit records. \nhttps://www.jimdunlop.com/mxr-dyna-comp-compressor/",
+    "hrid": "mxr-dyna-comp"
+}

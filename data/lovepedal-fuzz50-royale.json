@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19301",
+    "name": "Fuzz50 Royale",
+    "image": "images/lovepedal-fuzz50-royale.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "an old 1 knob “master volume” pre biased fuzz / distortion pedalThe best way to describe a Fuzz50? It is a blend of everything I like about the classic fuzzface and a great distortion pedal blended into 1 box.  The eq is even minded, not woofy like an original FF circuit but not thin or brash. The tone and feel is right in the middle so it cuts but is still warm with excellent vintage overtones.   People that have never liked the original fuzzface circuitry find my version a boon to play while die hard original fuzzface fans fall in love with the Fuzz50s tone and playability without the hassles of a vintage fuzzface unit.  The fuzz50 cleans up like an original germanium fuzzface at the volume knob on the guitar while retaining more aggression than a germanium based unit although not as hot as and noisy as the later “ Si fuzzface “ versions. \nhttp://www.lovepedal.com/",
+    "hrid": "lovepedal-fuzz50-royale"
+}

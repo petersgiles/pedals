@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19627",
+    "name": "Sick As High Shredroom",
+    "image": "images/bondi-effects-sick-as-high-shredroom.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Bondi Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$329 Price in €",
+    "width": 122,
+    "height": 105,
+    "details": "Overdrive Pedal\nhttps://www.bondieffects.com/products/sick-as-high-shredroom-edition",
+    "hrid": "bondi-effects-sick-as-high-shredroom"
+}

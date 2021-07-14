@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32819",
+    "name": "Omikron",
+    "image": "images/dreadbox-omikron.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 116,
+    "height": 147,
+    "details": "Sub octaver and FuzzAggressive Suboctaver\n    Monophonic Pulse Wave Fuzz\n    Oscillator tuned at 1V/oct\n    Oscillator can be synced to Audio\n    Ideal for guitar, bass, synthesizer\nhttps://www.dreadbox-fx.com/omikron-2/",
+    "hrid": "dreadbox-omikron"
+}

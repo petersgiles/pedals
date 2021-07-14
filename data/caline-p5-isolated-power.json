@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19559",
+    "name": "P5 ISOLATED POWER",
+    "image": "images/caline-p5-isolated-power.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 88,
+    "height": 135,
+    "details": "5 Outputs Switchable Isolated Power",
+    "hrid": "caline-p5-isolated-power"
+}

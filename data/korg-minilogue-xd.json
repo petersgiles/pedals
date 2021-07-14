@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32033",
+    "name": "Minilogue XD",
+    "image": "images/korg-minilogue-xd.jpg",
+    "function": [
+        "Filter",
+        "MIDI",
+        "Multieffect",
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / DC / Positive Center",
+    "cost": "$550 Price in €",
+    "width": 500,
+    "height": 179,
+    "details": "Synthesizerminilogue xd module is the new desktop module version of minilogue xd, the four-voice polyphonic analog synthesizer with a customizable digital multi-engine and built-in stereo digital effects.\nThe desktop module is equipped with the same controllers as the keyboard version, making it a great choice not only as an additional sound module for your keyboard or DAW but also providing excellent performability, giving you an easy way to include an analog polyphonic synth in your setup. It's also equipped with a poly-chain function that lets you connect it with another minilogue xd or minilogue xd module so that the two units can operate as a polysynth with a total of up to eight voices in your studio or on stage. \nhttps://www.korg.com/us/products/synthesizers/minilogue_xd_module/",
+    "hrid": "korg-minilogue-xd"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15158",
+    "name": "Wave Shaker",
+    "image": "images/valeton-wave-shaker.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$44 Price in €",
+    "width": 50,
+    "height": 93,
+    "details": "Vintage TremoloVintage Tremolo\nCoral series\n100% analog signal\nTrue Bypass\nControls: Volume, Speed, Depth, Bias\nOn / off switch with LED status display\nJack input and output\nPower thomann consumption: 10 mA\nPower supply via 9 V DC power supply (not included, e.g. Art. 409939)\nDimensions: 93 x 50 x 46.5 mm\nWeight: 175 g\nhttps://www.thomann.de/gb/valeton_wave_shaker_vintage_tremolo.htm",
+    "hrid": "valeton-wave-shaker"
+}

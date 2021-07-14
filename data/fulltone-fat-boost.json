@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16060",
+    "name": "Fat Boost",
+    "image": "images/fulltone-fat-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 115,
+    "details": "Boost",
+    "hrid": "fulltone-fat-boost"
+}

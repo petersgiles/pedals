@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11956",
+    "name": "Yellow Fall",
+    "image": "images/donner-yellow-fall.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 40,
+    "height": 89,
+    "details": "DelayFeature\nPure analog Whole circuit delay,clear,plump and smooth New Delay effect\nAluminium-alloy classic,stable and strong\nLED indicator shows the working state\nThe HQ pedal switch of nine circuit\nProvides:ECHO/F.BLACK/TIME\nTrue bypass provide transparent tone\nSpecifications\nBrand：Donner\nModle：Yellow Fall Delay\nTime of delay: 20ms~ 620ms\nInput impedance:1 M Ohms\nOutput impedance:490 Ohms\nWorking current:42 mA\nPower Supply:9V DC adapter\nDimensions:95mm(D)44mm(W)48mm(H)\nWeight:300g(with box)\nhttps://www.donnerdeal.com/products/donner-yellow-fall-delay-guitar-effect-pedal-true-bypass",
+    "hrid": "donner-yellow-fall"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12020",
+    "name": "Tremster",
+    "image": "images/t-rex-tremster.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 100,
+    "height": 120,
+    "details": "Classic TremoloThere aren’t many effects that have stood the test of time better than the tremolo. Born in the 1950s and first used in surf music, this dynamic amplitude-bender has spread to just about every style you’ll want to play. Tremster is a gorgeous-sounding, full-featured tremolo that delivers loads of classic T-Rex tone. You might not use it on every tune, but when you do kick it on, it will utterly transform your sound – adding that strange, swampy pulse that only a great tremolo can deliver.\nPERFECT CONTROL\nTremster is a masterpiece of effective simplicity. Its only controls are Depth, Speed, Volume and Mode. The pedal is precision-engineered to sound great at any setting – so you can experiment all you like and never get a sound you wouldn’t want to use. Like all T-Rex pedals, Tremster boasts an elegant, rugged design that’s built for a life on the road. It comes in cherry red.\nALWAYS INCREDIBLE TONE\nThe guitar-slinging master engineers at T-Rex have pulled out all the stops in making sure Tremster delivers the warm, vintage-sounding tone you’ve come to expect from T-Rex pedals. It will bring out the best in your natural tone, reproducing and highlighting all its richness without ever adding artificial colour. Try a Tremster today, and you’ll never want to use another tremolo.\nhttp://www.t-rex-effects.com/tremster/",
+    "hrid": "t-rex-tremster"
+}

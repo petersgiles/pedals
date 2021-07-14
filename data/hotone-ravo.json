@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11529",
+    "name": "Ravo",
+    "image": "images/hotone-ravo.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 210,
+    "height": 125,
+    "details": "Multi-Effects ProcessorHotone RAVO is a multi-effects processor and USB audio interface. This tiny, light-weight pedal has all the functions you need—130 effects in 8 useful modules, 100 amazing presets, a built-in drum machine with 100 patterns, 30 seconds of recordable looping, and a high quality USB audio interface. Plus, it comes with a free, user-friendly software—RAVO Tonebank—for editing and sharing your own tone. Ravo will be your best live performance and recording tool.\nhttp://www.hotoneaudio.com/products/Ravo/Multi_Effects/2015/1011/112.html",
+    "hrid": "hotone-ravo"
+}

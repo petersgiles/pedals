@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17742",
+    "name": "Baby Tuner",
+    "image": "images/mooer-baby-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Mooer",
+    "current": "90 mA / 9 V / DC / Negative Center",
+    "cost": "$52 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "TunerA high precision tuning micro pedals, can be accurate to 1 points\n    Works with most Electric or Electro-acoustic instruments including seven string guitar or five string bass\n    Display uses 108 high brightness LED's and is visible even in strong light\n    Very small and compact design\n    True bypass switch\nhttp://www.mooeraudio.com/product/Baby-Tuner--96.html",
+    "hrid": "mooer-baby-tuner"
+}

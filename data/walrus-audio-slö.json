@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22044",
+    "name": "Slö",
+    "image": "images/walrus-audio-slö.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Reverb Pedal\nhttps://www.walrusaudio.com/collections/delay-reverb/products/copy-of-slo-multi-texture-reverb",
+    "hrid": "walrus-audio-slö"
+}

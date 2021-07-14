@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31696",
+    "name": "Sonder",
+    "image": "images/wren-and-cuff-sonder.jpg",
+    "function": [
+        "Chorus",
+        "Tremolo"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$215 Price in €",
+    "width": 119,
+    "height": 97,
+    "details": "Analog Chorus + Tremolo",
+    "hrid": "wren-and-cuff-sonder"
+}

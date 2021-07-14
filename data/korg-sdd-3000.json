@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11900",
+    "name": "SDD-3000",
+    "image": "images/korg-sdd-3000.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 260,
+    "height": 170,
+    "details": "Programmable Digital Delay\nAll features of the legendary SDD-3000 digital delay, packed into a pedal unit\nEight distinct delay types including SDD-3000, Analog, Tape, Modern, Kosmic, Reverse, Pitch and Panning\nThe preamp that defined the sound of the SDD-3000 is faithfully reproduced\nSelectable filters that alter the sound of the delay repeats\nChoose from five types of modulation waveforms that modulate the delay time (You can also create waveforms that interpolate between two types, and make fine adjustments to the waveform",
+    "hrid": "korg-sdd-3000"
+}

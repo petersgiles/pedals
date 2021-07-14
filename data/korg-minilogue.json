@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18922",
+    "name": "Minilogue",
+    "image": "images/korg-minilogue.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 500,
+    "height": 300,
+    "details": "Synthesizer",
+    "hrid": "korg-minilogue"
+}

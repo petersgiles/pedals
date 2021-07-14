@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13349",
+    "name": "DD-5",
+    "image": "images/boss-dd-5.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$146 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Digital delayCompact stereo delay pedal with 1ms to 2000ms delay capabilities\nTap tempo capabilities in real time with optional FS-FU footswitch\nHold mode for sampling passages\nReverse mode for new and unique sounds\nAC adapter or 9V battery operation \nhttps://www.boss.info/us/products/dd-5/",
+    "hrid": "boss-dd-5"
+}

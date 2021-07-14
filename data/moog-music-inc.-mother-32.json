@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28978",
+    "name": "Mother-32",
+    "image": "images/moog-music-inc.-mother-32.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "230 mA / 12 V / DC / Positive Center",
+    "cost": "$649 Price in €",
+    "width": 319,
+    "height": 107,
+    "details": "Intuitive and expandable semi-modular synthesizerMother-32 is an intuitive and expandable semi-modular synthesizer that adds raw analog sound, powerful sequencing and extensive interconnectivity to any creative, electronic or modular ecosystem.\nhttps://www.moogmusic.com/products/mother-32",
+    "hrid": "moog-music-inc.-mother-32"
+}

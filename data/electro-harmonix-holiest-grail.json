@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15890",
+    "name": "Holiest Grail",
+    "image": "images/electro-harmonix-holiest-grail.jpg",
+    "function": [
+        "PreAmp",
+        "Delay",
+        "Digital Glitch",
+        "Distortion",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / DC",
+    "cost": "$336 Price in €",
+    "width": 200,
+    "height": 175,
+    "details": "Programmable Stereo ReverbSupreme bliss! The Holiest Grail lives up to its name by being the loftiest Grail product yet. Carve out your own private paradise by tailoring the length and sound of your reverb using a customizable pre-delay and decay time, then add feedback or adjust damping and diffusion. Recall up to eight custom presets that transport you to sonic extremes, or mix Spring and Hall reverbs together just because you can. Use the Holiest Grail as a MIDI controller with the option of adding external control for managing the sliders and loading presets. Heaven never sounded so good.\nThis product has been discontinued and replaced by the \"Cathedral\"\nhttps://www.ehx.com/products/holiest-grail",
+    "hrid": "electro-harmonix-holiest-grail"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15699",
+    "name": "Time Force",
+    "image": "images/nux-time-force.jpg",
+    "function": [
+        "Delay",
+        "Looper"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 100,
+    "height": 125,
+    "details": "Digital delay with 11 models, tap tempo, presets and a 45 sec looperCheap digital delay pedal with good sound and lots of options.\nPossibility of stereo in/out, 11 delay models, tap tempo with subdivisions, 9 presets to store settings, 45 second looper, buffered or true bypass, option to use delay trails to go after it's turned off, possibility of wet only signal.\nwww.nuxefx.com/show-7-227-1.html",
+    "hrid": "nux-time-force"
+}

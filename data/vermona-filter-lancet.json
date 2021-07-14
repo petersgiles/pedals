@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12603",
+    "name": "Filter Lancet",
+    "image": "images/vermona-filter-lancet.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Tremolo",
+        "Wah"
+    ],
+    "manufacturer": "Vermona",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$391 Price in €",
+    "width": 210,
+    "height": 145,
+    "details": "analog filter/overdriveMore than just a filter box\nFilter Lancet cannot deny its relation to Retroverb Lancet. No wonder that because both units share the same multimode filter with low-, high- and band-pass modes as well as an overdrive circuit and a discrete built VCA.\nThis smart combination allows you to create diverse effects using Filter Lancet, ranging from classic filter sweeps to wah- and tremolo-sounds and more.\nUsing an envelope with flexible triggering and its LFO, Filter Lancet’s effects can sync to your tracks. Chop up pad sounds rhythmically and alienate drum sounds completely.\nOpen to anything\nFilter Lancet is a great tool to expand any electronic sound source. However, one should not reduce it to this aspect. Filter Lancet is as valuable to creative guitarists and bass players, giving them incredible sonic options. And there is nothing to be said against, creating fancy sounds from a vocal source!\nWe do not promise Filter Lancet will make anything sound perfect or become a chart-breaker. However, we promise that Filter Lancet will be lot of fun and lead you to results, you never imagined before.\nhttp://www.vermona.com/en/products/effects/product/filter-lancet/",
+    "hrid": "vermona-filter-lancet"
+}

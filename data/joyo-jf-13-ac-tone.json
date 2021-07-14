@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23943",
+    "name": "JF-13 AC Tone",
+    "image": "images/joyo-jf-13-ac-tone.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 102,
+    "height": 120,
+    "details": "Amp Simulator of the Vox AC-30The Joyo AC Tone JF-13 pedal reproduces the sound of a Vox AC30 amplifier--that classic British rock sound all guitarists dream about. It has sparkly high end, like the Top Boost model, and works on Drive to about 7 for subtle forms of overdrive with harmonic overtones. Good for players who value a clean sound with a little warmth. It can also dirty up when drive is cranked hard to 9 or 10. Sounds really good direct.\nVox Style British Class A Amp Sim\nLevel, Voice, Drive controls\nVoice control shapes overdrive character\nSturdy aluminum alloy case\nUses 9V battery or standard Boss style adapter\nhttp://www.joyoaudio.com/en/product/show_111.html",
+    "hrid": "joyo-jf-13-ac-tone"
+}

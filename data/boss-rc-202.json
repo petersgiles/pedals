@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13004",
+    "name": "RC-202",
+    "image": "images/boss-rc-202.jpg",
+    "function": [
+        "Looper",
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "400 mA / ? V / DC",
+    "cost": "$335 Price in €",
+    "width": 239,
+    "height": 175,
+    "details": "2 Track Stereo Loop StationPerfect for club performers, electronic musicians, and beatboxers, the RC-202 packs powerful BOSS looping and multi-effects in an amazingly compact tabletop unit. Based on the popular RC-505 Loop Station, the two-track RC-202 offers the distinctive look and fingertip interface style of its big brother, plus a host of new features. Four Input FX and four Track FX are available at once, and loops can be saved to memories in real time for seamless creative expression while performing. Expanded foot control and MIDI capabilities are also included, ideal for looping musicians who have their hands occupied with guitar, keyboards, and other instruments.\nhttps://www.boss.info/global/products/rc-202/",
+    "hrid": "boss-rc-202"
+}

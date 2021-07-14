@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17196",
+    "name": "Avalanche Run V1 Black",
+    "image": "images/earthquaker-devices-avalanche-run-v1-black.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "",
+    "hrid": "earthquaker-devices-avalanche-run-v1-black"
+}

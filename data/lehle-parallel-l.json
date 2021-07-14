@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16572",
+    "name": "PARALLEL L",
+    "image": "images/lehle-parallel-l.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 122,
+    "height": 100,
+    "details": "Parallel loop/mixerThe Lehle Parallel is a compact and versatile line mixer to meet demanding tonal standards. The Lehle Parallel mixes the signals from effect units into the original signal, either before the amp or inserted into its effects loop. Send and return levels can be adjusted separately, and level relative to the original signal optimally selected using the mix controller. The send and return paths can, of course, be operated both balanced and unbalanced. The great dynamic range of the Lehle Parallel makes it possible to mix into the guitar signal a 19\" studio effect with its low-impedance line level, for example, or to insert effects pedals level-adjusted via the amp's effects loop. \nThanks to their JFET technology, the Lehle Parallel's inputs can handle both high-impedance signals from electric guitars and basses or acoustic instruments, and low-impedance signals from keyboards and active electric guitars and basses  with a broad output range extending from 20 to 100,000 Hz. To exploit the dynamics of tube amplifiers to the full, the input voltage is rectified from the power supply socket, then filtered, stabilized and doubled to 18V. \nThe Lehle Parallel is available in two versions, the Lehle Parallel L, featuring a True-Bypass switch with gold-plated contacts, and the Lehle Parallel M, a straight mixer. Both are fed from a 9V (PP3) battery and protected by an ultra-robust housing of 1.5 mm thick steel sheet.\nSuccessor: LEHLE PARALLEL SW II\nhttps://lehle.com/EN/Lehle-Parallel-SW-II\nhttp://lehle.com/EN/Lehle-Parallel-L",
+    "hrid": "lehle-parallel-l"
+}

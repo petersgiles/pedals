@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29019",
+    "name": "Dragon",
+    "image": "images/vfe-dragon.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "VFE",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$114 Price in €",
+    "width": 60,
+    "height": 117,
+    "details": "Dynamic OverdriveTubescreamer. Rat. Klon. OCD. Tim. KoT. What do all these beloved drive circuits have in common? They all cut bass before distortion, and cut treble after distortion. This basic recipe is the backbone of many of the dirt pedals you use. Enter the Dragon, a dynamic overdrive designed to give you ultimate power over the pre-gain bass cut (HPF) and post-gain treble cut (LPF). Precisely tighten or fatten up your low end, smooth out the top end or add sparkle. Go from a transparent tone to a focused mid boost to push through a dense band mix, or just use it to light your favorite drive on fire.\nTrue bypass with buffered bypass option via internal switch\nMassive amount of boost on tap to push any amp\nInternal trimpot to adjust the compression of the gain stage\nCut filters can be 6dB or 12dB for more extreme EQ cuts\nhttp://vfepedals.com/dragon.html",
+    "hrid": "vfe-dragon"
+}

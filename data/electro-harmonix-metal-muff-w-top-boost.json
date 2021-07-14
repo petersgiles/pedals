@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15800",
+    "name": "Metal Muff w/ Top Boost",
+    "image": "images/electro-harmonix-metal-muff-w-top-boost.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$91 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Distortion with Top BoostFrom: https://www.ehx.com/products/metal-muff\n\"The ultimate metal distortion pedal. Three powerful EQ bands sculpt the mids and 6 controls shape the sound precisely for your groove from slithering mercury to lead belly blast furnace dross. Its unique Top Boost adds serious bite with its own control knob and footswitch so you can kick it on for searing leads.\" \nFrom: https://www.ehx.com/assets/instructions/metal-muff.pdf\nThe  Metal Muff utilizes three powerful EQ bands, including a midrange control designed for  perfect  contouring  and  beautifully  sculpted mids.  The  Metal  Muff  offers commanding bass and defined high end—coupled with user-controlled distortion from pinched-edge to totally crushing—making it a heavy metal gold mine.  \n- CONTROLS - \nDISTORTION CONTROL\n – adjusts the amount of input gain. \nBASS CONTROL\n  –  provides  up  to  14dB  of  cut  and  boost  in  the  bass frequency range.   \nMID CONTROL\n  – provides  up  to  15dB  of  cut  and  boost  in  the  middle  frequency range. \nTREBLE CONTROL\n – provides up to 10dB of cut and boost in the treble frequency range. \nTOP BOOST CONTROL\n – provides an extra ‘bite’ by boosting a narrow band of high frequencies. When Top Boost is inactive, the Top Boost control has no effect. \nVOLUME CONTROL\n – sets the output level. \nTOP  BOOST  FOOTSWITCH\n  –  Engages  the  TOP  BOOST  feature  of  the  METAL MUFF. The corresponding LED is lit when TOP BOOST is engaged. \nBYPASS  FOOTSWITCH\n  –  Selects  whether  the  METAL  MUFF is engaged  or bypassed. the corresponding LED will be lit when the pedal is engaged, and dark when bypassed. \nINPUT Jack\n – This ¼” jack is the audio input to the METAL MUFF. \nOUTPUT Jack\n – This ¼” jack is the audio output from the METAL MUFF.  When the METAL MUFF is in Bypass mode, the OUTPUT jack is connected to the INPUT jack through a buffer.  \nhttps://www.ehx.com/products/metal-muff",
+    "hrid": "electro-harmonix-metal-muff-w-top-boost"
+}

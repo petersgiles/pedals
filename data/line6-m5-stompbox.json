@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11806",
+    "name": "M5 Stompbox",
+    "image": "images/line6-m5-stompbox.jpg",
+    "function": [
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 152,
+    "height": 165,
+    "details": "Ground Effect",
+    "hrid": "line6-m5-stompbox"
+}

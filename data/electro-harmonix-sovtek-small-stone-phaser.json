@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12525",
+    "name": "Sovtek Small Stone Phaser",
+    "image": "images/electro-harmonix-sovtek-small-stone-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 118,
+    "height": 165,
+    "details": "Russian Phase ShifterThe Electro-Harmonix Small Stone, originally released in the '70s, is a multi-stage phase shifter with an extra stage for feedback. Mix up your tone by flipping the Color switch, and change the speed at which your phaser modulates with the Rate knob. That's all there is to it - the controls have remained constant through the Small Stone's many iterations. This Russian-made version comes in black or green enclosures.",
+    "hrid": "electro-harmonix-sovtek-small-stone-phaser"
+}

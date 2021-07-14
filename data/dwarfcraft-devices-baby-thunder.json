@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13484",
+    "name": "Baby Thunder",
+    "image": "images/dwarfcraft-devices-baby-thunder.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "dwarfcraft-devices-baby-thunder"
+}

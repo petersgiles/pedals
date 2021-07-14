@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31637",
+    "name": "Blackstar Live Logic",
+    "image": "images/blackstar-blackstar-live-logic.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$146 Price in €",
+    "width": 396,
+    "height": 37,
+    "details": "Compact and versatile MIDI controllerThe Live Logic compact and versatile 6-button MIDI footcontroller gives you quick and easy performance control of any MIDI hardware or software platforms and plugins. MIDI over USB, assignable functions and two expression pedal inputs make it the perfect MIDI control solution and it can also be used as your USB MIDI interface. Power it anywhere via USB, 9V battery or power supply and unlock your performance.\nhttps://www.blackstaramps.com/es/ranges/live-logic/usb-midi-controller",
+    "hrid": "blackstar-blackstar-live-logic"
+}

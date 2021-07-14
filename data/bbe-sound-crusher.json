@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13276",
+    "name": "Crusher",
+    "image": "images/bbe-sound-crusher.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "",
+    "hrid": "bbe-sound-crusher"
+}

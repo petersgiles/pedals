@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11896",
+    "name": "Supa-Puss",
+    "image": "images/way-huge-supa-puss.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 110,
+    "height": 150,
+    "details": "Analog Delay\nhttps://www.jimdunlop.com/product/whe707-7-10137-05414-1.do",
+    "hrid": "way-huge-supa-puss"
+}

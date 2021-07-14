@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12439",
+    "name": "Platinum Pro EQ/DI Analog Preamp Pedal",
+    "image": "images/fishman-platinum-pro-eqdi-analog-preamp-pedal.jpg",
+    "function": [
+        "Equalizer",
+        "Tuner"
+    ],
+    "manufacturer": "Fishman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 142,
+    "height": 157,
+    "details": "Acoustic Guitar Preamp, EQ, and DI with Onboard Compression, Phase Control, Notch Filter, Balanced XLR out with Pre/Post EQ Switch, Tuner, FX Loop, and Footswitchable Boost with Level ControlCompletely redesigned from the ground up, the all-analog Platinum Pro EQ universal instrument preamp delivers incredibly accurate sonic detail for any acoustic instrument. A discrete, high-headroom Class-A preamp uses precision, high-speed circuitry for the highest fidelity and low distortion. Classic Fishman tone centers with sweepable mid is combined with a switchable guitar/bass EQ mode, making it more musical for bass instruments and more universal for recording and performing musicians.\nThe new Platinum Pro EQ integrates critical performance features like adjustable volume boost and a balanced XLR D.I. output housed in a beautiful, road-ready design.\nThe Platinum Pro EQ is built to be stomped on with durable foot switches that activate the adjustable volume boost or high-contrast chromatic tuner. It also includes a simple and effective analog soft-knee compressor, effects loop and precision sweepable notch filter.\nFishman Platinum Pro EQ Features at a Glance:\n* 17-Volt, high-headroom, discrete Class-A preamp\n* 5-band tone control with sweep-mid & low frequency filter\n* EQ mode tailors EQ for bass or most other instruments\n* Phase control and precision notch filter reduces feedback\n* One-knob adjustable compressor smooths playing dynamics\n* Integrated fully-chromatic digital tuner\n* Volume boost foot switch with level control\n* Balanced XLR D.I. with pre/post EQ setting and ground lift\nhttps://www.fishman.com/products/series/platinum/platinum-pro-eq-analog-preamp/",
+    "hrid": "fishman-platinum-pro-eqdi-analog-preamp-pedal"
+}

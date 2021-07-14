@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13388",
+    "name": "Phoenix",
+    "image": "images/walrus-audio-phoenix.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 248,
+    "height": 66,
+    "details": "power supply",
+    "hrid": "walrus-audio-phoenix"
+}

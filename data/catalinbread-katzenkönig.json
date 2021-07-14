@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15141",
+    "name": "Katzenkönig",
+    "image": "images/catalinbread-katzenkönig.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Tone Bender Fuzz + Rat Distortion The Katzenkönig combines the best elements of a Tone Bender MkII fuzz and a Rat distortion. \nThe circuit is all-discrete, using a trio of silicon transistors in a modified Tone Bender MkII arrangement with the output section of a Rat, including its clipping section, filter, and output buffer.\nThe result is a pedal tuned to offer a huge range of response - from a really beautiful singing tone, to tight, harmonically-rich crunch, all the way to fuzz mayhem. The Katzenkönig loves both single coils and humbuckers, and sounds great in front of a clean amp or an overdriven amp (or pedal).\nhttps://catalinbread.com/products/katzenkonig",
+    "hrid": "catalinbread-katzenkönig"
+}

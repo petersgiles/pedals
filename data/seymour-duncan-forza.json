@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32720",
+    "name": "Forza",
+    "image": "images/seymour-duncan-forza.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 67,
+    "height": 124,
+    "details": "advanced TS\nhttps://www.seymourduncan.com/single-product/forza",
+    "hrid": "seymour-duncan-forza"
+}

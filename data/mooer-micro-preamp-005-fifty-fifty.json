@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15247",
+    "name": "Micro Preamp 005 Fifty-Fifty",
+    "image": "images/mooer-micro-preamp-005-fifty-fifty.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "EVH 5150 Simulation",
+    "hrid": "mooer-micro-preamp-005-fifty-fifty"
+}

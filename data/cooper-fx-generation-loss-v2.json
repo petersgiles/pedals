@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32780",
+    "name": "Generation Loss v2",
+    "image": "images/cooper-fx-generation-loss-v2.jpg",
+    "function": [
+        "Chorus",
+        "Digital",
+        "Digital Glitch",
+        "Distortion"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 94,
+    "height": 117,
+    "details": "Vibrato / VHS degradation  ''This is the sound of nostalgia. The Generation Loss brings together all aspects of tape degradation and uses a combination of effects to hone in on that sound we’re all familiar with. Generation Loss refers to the decrease in sound quality and introduction of noise and sound artifacts each time a copy is made on magnetic media such as tape. Random pitch fluctuations, filters to cut down on the signal’s bandwidth, sample rate reduction, and noise are all brought together in this pedal to mimic that sound without the need for a broken VHS player.'' - Cooper Fx \nhttps://www.cooperfx.com/product-page/generation-loss-v2",
+    "hrid": "cooper-fx-generation-loss-v2"
+}

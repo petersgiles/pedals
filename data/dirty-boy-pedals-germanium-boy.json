@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11546",
+    "name": "Germanium Boy",
+    "image": "images/dirty-boy-pedals-germanium-boy.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Dirty Boy Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$374 Price in €",
+    "width": 90,
+    "height": 115,
+    "details": "Germanium Overdrive\nhttp://www.dirtyboypedals.com/",
+    "hrid": "dirty-boy-pedals-germanium-boy"
+}

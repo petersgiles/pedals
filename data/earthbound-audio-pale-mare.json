@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33480",
+    "name": "Pale Mare",
+    "image": "images/earthbound-audio-pale-mare.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Earthbound Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Buzz fuzzThe Pale Mare is a silicon fuzz based on the Japanese Roland Bee Baa. The sounds available go from scooped buzzy 60's psych fuzz to crunchy distortion to heavy sludge madness.\nControls are:\nLevel - Output volume\nFuzz - Intensity of fuzz and sustain. Gets very saturated by noon. Higher settings can bring glorious feedback for depraved fuzz freaks only.\nTone - A treble cut to fine tune the fuzz.\nFilter - A vintage scoop filter found in many classic Japanese fuzz designs activated by the F footswitch. Fully counter-clockwise yields the heavy mid-scooped buzz found in the original Bee Baa. Turning the control clockwise adds mids, volume and saturation leading to a brutal sludge tone.\nTR toggle - A 3 way switch to chose the preferred high end response. Middle position offers the most high end sizzle, right position is the mellowest response and left falls in between. This control is very useful when switching between different types of pickups.\nGate knob / toggle\nThe pedal is wired for true bypass and runs on an industry standard 2.1mm negative tip 9v power supply. No battery option.\nhttps://earthboundaudio.bigcartel.com/product/pale-mare-fuzz",
+    "hrid": "earthbound-audio-pale-mare"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16160",
+    "name": "Interstellar Overdriver",
+    "image": "images/death-by-audio-interstellar-overdriver.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 99,
+    "height": 121,
+    "details": "OverdriveThe Interstellar Overdriver is a true overdrive pedal, designed to blast your amp with your sound. Beautifully transparent and based around a discrete circuit, this is the natural, wonderful sound of turning up too loud (without necessarily having to actually turn up too loud). It's specifically constructed to work the same way as old tube amps - the more you turn it up, the better it sounds. The drive knob sweeps from a slight boost (counterclockwise) to a beautiful harmonically rich overdrive when maxed out. For more control, kick back the output volume with the MASTER knob while keeping the sweetness. There are a lot of pedals out there attempting to do this simple, beautiful thing. This one is the best. \nhttps://deathbyaudio.com/collections/overdrive/products/interstellar-ove",
+    "hrid": "death-by-audio-interstellar-overdriver"
+}

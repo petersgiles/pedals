@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13762",
+    "name": "CP 17 Delay",
+    "image": "images/caline-cp-17-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "Echo DelayThe Time Space is capable of making some great slapback tones as well as some longer delays by properly manipulating the time and repeat controls. You can also create some crazy oscillation type effects when really pushing the repeat knob.\nA digital pedal but still sounds very natural.\nDelay Time range: 25ms ~ 600ms. \nMix, Repeat, and Time settings. \nTrue Bypass design to minimize the tone loss. \nFull metal case, sturdy stomp switch. \nCan be operated with a 9-Volt Battery (NOT INCLUDED). \nCan be connected to a negative center 9-Volt power supply.  \nhttp://www.calinemusic.com/products/effectpedal/86.html",
+    "hrid": "caline-cp-17-delay"
+}

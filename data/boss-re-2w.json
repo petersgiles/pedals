@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21383",
+    "name": "RE-2w",
+    "image": "images/boss-re-2w.jpg",
+    "function": [],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Space Echo Tape Delay (mock-up)Fictional mock-up\nhttps://imgur.com/gallery/jdVGmM1/comment/1605705297",
+    "hrid": "boss-re-2w"
+}

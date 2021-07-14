@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13531",
+    "name": "Team Awesome Fuzz Machine",
+    "image": "images/smallsoundbigsound-team-awesome-fuzz-machine.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 95,
+    "height": 114,
+    "details": "Fuzz\nhttp://www.smallsoundbigsound.com/products/team-awesome-fuzz-machine/",
+    "hrid": "smallsoundbigsound-team-awesome-fuzz-machine"
+}

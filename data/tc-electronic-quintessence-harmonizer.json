@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14402",
+    "name": "Quintessence Harmonizer",
+    "image": "images/tc-electronic-quintessence-harmonizer.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Harmonizer",
+    "hrid": "tc-electronic-quintessence-harmonizer"
+}

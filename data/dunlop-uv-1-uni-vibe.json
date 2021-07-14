@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29429",
+    "name": "UV-1 Uni-Vibe",
+    "image": "images/dunlop-uv-1-uni-vibe.jpg",
+    "function": [
+        "Chorus",
+        "Rotary"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 18 V / DC / Negative Center",
+    "cost": "",
+    "width": 140,
+    "height": 127,
+    "details": "The Dunlop Uni-Vibe® incorporates the original Uni-Vibe® circuit design utilizing hand matched photoresistors, a long-life incandescent lamp, and custom engineered light housing to insure the sonic integrity of the unit. The durable brushed stainless steel housing is designed to protect the control knobs against accidental bumping during play. Features include silent switching with hi-reliability hardware, providing low noise and extended life, and high quality jacks to ensure solid connections. This adds up to classic sound and reliability.\nWith the Uni-Vibe's renowned chorus and vibrato modes you'll find yourself playing a lot of new things from sheer inspiration. The Chorus sound is thick, phasey, and a lot like a rotating speaker while the Vibrato sound bends the pitch up and down, giving a cool quivering texture to your sound. In either mode, the speed, volume, and intensity knobs let you twist and turn your sound into a new dimension.\nNote: The Uni-Vibe® functions without the optional UV-1FC controller pedal with its own built-in speed control.\nThe UV-1 comes complete with the Dunlop ECB-004 AC Adapter.\nUV-1 5\" x 5.5\" x 2.5\"\n2.38 lbs.\nStainless Steel \nInfo posted from http://www.effectsdatabase.com/model/dunlop/uv1",
+    "hrid": "dunlop-uv-1-uni-vibe"
+}

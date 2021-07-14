@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28471",
+    "name": "Oceanic Reverb",
+    "image": "images/nux-oceanic-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$69 Price in €",
+    "width": 42,
+    "height": 95,
+    "details": "Reverb PedalMini Reverb effect pedal and firmware can be updated via USB.\nEasy-One-Knob control for Level and Decay parameters.\nFeatured with selectable True Bypass and Buffered Tail\nHall, Plate and Spring Reverb effects are available.",
+    "hrid": "nux-oceanic-reverb"
+}

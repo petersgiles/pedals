@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12047",
+    "name": "Teaser Stallion",
+    "image": "images/catalinbread-teaser-stallion.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Subtle Overdrive to Blistering Gain that cleans nicely up with your volume knob... And that is just the conservative channel.\nEngage Channel Two and you step into the preliminary understandings of chaos... Imagine standing between two mirrors and pondering the infinite reflections of yourself. Um.. What the heck does this got to do with a dirtbox? Well to some it up Channel Two re-amplifies, re-distorts, then re-amplifies and re-distorts the signal from Channel One over and over again. The results are incredibly interactive and never-before-experienced sounds.\nThe pedal itself can be \"played\" in the vein of basic old school synth like the Paia Gnome.by simply squeezing the itp and ring of a cable plugged into it. It also can be controlled with our Semaphore Tremolo! Coupled with just your instrument you tap into an expressiveness as fresh as when the first nut who pushed their tube amp into overdrive to sliced up their speakers. You can play the pedal with your instrument's volume knob or use a volume pedal for wah type control.\nIn more extreme settings a number of things happen. Decaying plucked strings compete for attention with the pedal's oscillation pitch. As the pitch decays and competes noticeable patterns emerge like the sound of a sample/hold then breaking into oscillation. Some settings cause high string notes to sound out a couple octaves lower. Heads are gonna roll when you rip a low string riff. Oh yeah and your keyboard player will wanna quit the band.",
+    "hrid": "catalinbread-teaser-stallion"
+}

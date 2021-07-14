@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24282",
+    "name": "DD-3T",
+    "image": "images/boss-dd-3t.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Boss",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 88,
+    "height": 88,
+    "details": "Digital DelayBOSS’s iconic DD-3 Digital Delay has been a pedalboard staple since 1986, loved everywhere for its great sound and simple operation. With the DD-3T, we’ve updated the classic stomp with enhanced functionality while fully retaining the original’s sound and control layout. It’s now possible to tap in delay tempos using the onboard switch or an external one, with your choice of three beat subdivisions. And the direct output jack has been moved next to the main output, providing easier connectivity for wet/dry setups.\nhttps://www.boss.info/us/products/dd-3t/",
+    "hrid": "boss-dd-3t"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13643",
+    "name": "Superego+",
+    "image": "images/electro-harmonix-superego+.jpg",
+    "function": [
+        "Multieffect",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 147,
+    "height": 122,
+    "details": "Synth Engine / Multi EffectBuilding on the synthesis platform of the award-winning Superego, our new Superego+ raises the bar when it comes to creating synth effects, sound layers, glissandos, infinite sustain and more. Plus, we’ve added a complete effects section featuring 11 effects types, an EXP input for effect parameter control and an EXT jack for a 3-button controller.\nhttps://www.ehx.com/products/superego-plus",
+    "hrid": "electro-harmonix-superego+"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11923",
+    "name": "Synth Wah",
+    "image": "images/digitech-synth-wah.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice",
+        "Wah"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "http://digitech.com/en/products/synth-wah",
+    "hrid": "digitech-synth-wah"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22302",
+    "name": "MXR DYNA COMP BASS COMPRESSOR",
+    "image": "images/mxr-mxr-dyna-comp-bass-compressor.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 41,
+    "height": 92,
+    "details": "DYNA COMP BASS COMPRESSORThe Dyna Comp Bass Compressor delivers the most iconic compression sound in music history, tweaked and tuned just for bass players. Built around the classic CA3080 “metal can” integrated circuit for its quiet operation, superior transparency, and increased dynamic range, this pedal comes with all the controls you need to shape your compressed sound in no time at all.\nThe heroes of the Dyna Comp Bass Compressor’s interface are the Clean and Tone controls. The Clean control lets you add in your unaffected bass signal so that you can maintain low end integrity, while the Tone control adjusts the upper midrange to retain the tonal dynamics of your bass. Familiar Output and Sensitivity controls set volume level and the length of sustain, while the Attack switch toggles between a vintage style slow attack time and a modern style fast attack time.\nAnd you know what? It all comes in an MXR mini housing, so making room for it on your pedalboard will be a cinch.\nhttps://www.jimdunlop.com/product/m282-7-10137-11147-9.do?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=",
+    "hrid": "mxr-mxr-dyna-comp-bass-compressor"
+}

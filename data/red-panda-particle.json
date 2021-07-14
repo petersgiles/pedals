@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11469",
+    "name": "Particle",
+    "image": "images/red-panda-particle.jpg",
+    "function": [
+        "Delay",
+        "Pitch Shifter",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$275 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Digital delay / Pitch shifting pedalParticle is a granular delay / pitch shifting pedal. It chops your signal into small grains and then does various strange, trippy, robot things to it, using the techniques of granular synthesis in real time. Results range from radical pitch and delay modulation to shimmering repeats to stutter/glitch sounds.\nMade in USA. Requires a 9V 100 mA center negative power supply (does not take batteries).\nFeatures:\n3 pitch modes: detune, density, LFO\n5 delay modes: random, density, LFO, random pitch, reverse\nAdjustable grain size\nPitch shift +/- 1 octave, depending on mode\nDelay 0-900 ms, depending on mode\nFeedback\nAuto-freeze/stutter with adjustable threshold\nTrue bypass switching\nhttp://www.redpandalab.com/products/particle",
+    "hrid": "red-panda-particle"
+}

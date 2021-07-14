@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12927",
+    "name": "Helicon Talkbox Synth",
+    "image": "images/tc-electronic-helicon-talkbox-synth.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$350 Price in €",
+    "width": 90,
+    "height": 140,
+    "details": "Studio-Quality Stompbox for Guitar Talkbox Effects and Vocal Tone PolishingTALKBOX SYNTH offers classic and new sounds to the guitarist's arsenal. From instantly recognizable talkbox “hose-in-the-mouth” sounds to wonderfully electronic \"talking robot\" effects, imagine yourself commanding attention at jams and gigs. Even when the effect is off, TALKBOX SYNTH can vastly improve your core vocal sound with Adaptive Tone, studio-grade reverbs and pitch correction.\nhttps://www.tc-helicon.com/product.html?modelCode=P0CGU",
+    "hrid": "tc-electronic-helicon-talkbox-synth"
+}

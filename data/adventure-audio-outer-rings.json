@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15975",
+    "name": "OUTER RINGS",
+    "image": "images/adventure-audio-outer-rings.jpg",
+    "function": [
+        "Distortion",
+        "Ring Modulator",
+        "Tremolo"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 94,
+    "height": 102,
+    "details": "Ring Modulator / Distortion This is a brand new take on a ring mod. As far as we know, this topology has never been done before. I will attempt to sum up whats going on here in a very brief, brief, extra brief explanation.\nThe core function of the Outer Rings is to multiply the input signal by an internal square wave oscillator. This multiplication produces a square wave containing harmonic energy mathematically related to the harmonic content of your input signal and the oscillator. That can then be added together with your post-gain signal for some truly outer galaxy tones.\nBecause we like to adventure and take things further, we didn't stop at one oscillator... we included a modulating oscillator to sweep and wiggle the frequency of the multiplying oscillator hands free. (Look ma, we're modulating now!) You can use it as an LFO to change the pitch super slow (we're talking 10+ seconds for a full pitch sweep) or rev it up into the audio range and make the the multiplying oscillator do some math and make some sweet, sweet frequency modulation in the process. \nGain - Input Level\nFreq - Multiplier Frequency, offset for CV1, internal modulation and expression\nStrange - Symmetry and pitch of multiplying oscillator\nRate - Speed of modulation of the Multiplier Freq\nMod Depth - Depth of modulation of the Multiplier Freq\nTilt - Blend between post gain and ring modulation\nExp Toggle - Up (controls multiplier freq), Down (controls just the modulator)\nX - Expression Pedal Jack Input\nShape Toggle - Up (sends some of your output back around to modulate the multiplier)\nOuter Toggle - Speed range of modulating oscillator\nRings Toggle - Range of multiplier frequency\nCV1 - (0-9V compatible range) Multiplier Frequency Control Voltage\nCV2 - (0-9V compatible range) Modulation Oscillator Control Voltage\nTransport - Sucks the whole system into a feedblackhole \nOk... so what the heck is a multiplier?\nThe multiplier is a square wave that is multiplied with your input signal. The outcome is a square wave containing harmonic energy mathematically related to the harmonic content of your input signal and the oscillator.\n........mhm? ok so what do you mean \"modulate the multiplier\" ?\nModulating the multiplier means changing the pitch of the multiplier signal by using another oscillator. Its like having a really cool bud turn the knob for you while you keep playing.\nNice! Could I connect my old school iPod into one of the CV jacks to modulate the multiplier?\n... heck! why not?!\nIf you have any other questions we will most definitely add them to this list :)",
+    "hrid": "adventure-audio-outer-rings"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30465",
+    "name": "History Lesson V3 Delay Pedal",
+    "image": "images/alexander-history-lesson-v3-delay-pedal.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Alexander",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "neo-stylin' tape delay effectsDelay is an effect that has evolved greatly over the years; from vintage tape echo to crisp modern digital delays. The Alexander Pedals History Lesson V3 gives you all those sounds thanks to the six distinct delay modes that cover the range of delay types. The tape delay of the 60s, analogue delay of the 70s, 80s digital delay, and beyond with Lo-Fi, four-head multi-tap, and filter types. From the past to the present the History Lesson spans the evolution of delay.\nhttps://www.alexanderpedals.com/shop/historylesson3",
+    "hrid": "alexander-history-lesson-v3-delay-pedal"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22472",
+    "name": "Pod 60",
+    "image": "images/4ms-company-pod-60.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "4ms Company",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 309,
+    "height": 160,
+    "details": "60 HP case",
+    "hrid": "4ms-company-pod-60"
+}

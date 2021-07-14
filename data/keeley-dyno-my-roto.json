@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11705",
+    "name": "Dyno My Roto",
+    "image": "images/keeley-dyno-my-roto.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 68,
+    "height": 112,
+    "details": "",
+    "hrid": "keeley-dyno-my-roto"
+}

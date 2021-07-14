@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25538",
+    "name": "Harmonic Square",
+    "image": "images/donner-harmonic-square.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Donner",
+    "current": "110 mA / 9 V / DC",
+    "cost": "$45 Price in €",
+    "width": 43,
+    "height": 94,
+    "details": "Octave Shifter7 ranges and 3 way toggle switch select between Shift up, down and detune\nDigital circuit design, true bypass provide transparent tone.\nWhole Aluminium-alloy classic, stable and strong.\nLED indicator shows the working state.DC 9V Adapter power supply.\nhttps://www.donnerdeal.com/products/donner-digital-octave-guitar-effect-pedal-harmonic-square-7-modes-1",
+    "hrid": "donner-harmonic-square"
+}

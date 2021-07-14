@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12136",
+    "name": "Comp Box",
+    "image": "images/oceanefx-comp-box.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "OceanEFX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 61,
+    "height": 119,
+    "details": "Ross style Compressor",
+    "hrid": "oceanefx-comp-box"
+}

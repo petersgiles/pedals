@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27533",
+    "name": "Roebuck",
+    "image": "images/danelectro-roebuck.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / 9 V / DC",
+    "cost": "$199 Price in €",
+    "width": 60,
+    "height": 117,
+    "details": "MOSFET DistortionLook closely at the boards of top L.A. and Nashville players and you will see the 1990’s Ibanez® ­Mostortion™ again and again. Danelectro® brings back this awesome pedal, nailing the original tone and grit, but also adding 2 tasty ­clipping ­options. Better than ever!\nhttps://danelectro.com/pedals/back-talk-roebuck/",
+    "hrid": "danelectro-roebuck"
+}

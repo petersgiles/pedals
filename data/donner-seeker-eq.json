@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29939",
+    "name": "Seeker EQ",
+    "image": "images/donner-seeker-eq.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 132,
+    "height": 64,
+    "details": "EQ\nhttps://www.donnerdeal.com/products/donner-path-seeker-aby-switcher-1?_pos=4&_sid=080151600&_ss=r",
+    "hrid": "donner-seeker-eq"
+}

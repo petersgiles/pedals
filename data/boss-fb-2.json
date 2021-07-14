@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12491",
+    "name": "FB-2",
+    "image": "images/boss-fb-2.jpg",
+    "function": [
+        "PreAmp",
+        "Digital",
+        "Filter"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Feedbacker/BoosterThe unique FB-2 Feedbacker/Booster packs a world of expressive, versatile boost into a single stompbox. Seamlessly morph from flat, clean boost that doesn’t spoil the nuance of the original tone to an amazing mid boost for high-gain solos, or dial up a bright and clear treble boost to lighten the tone. And that’s only half of the picture…the FB-2 can generate smooth and natural amp feedback as well. The FB-2’s versatile tone, simple operation, and low noise are made possible through BOSS’ latest technology and decades of know how.\nWide tonal variety, from flat, clean boost to powerful mid-boost and bright, clear treble boost\nBoost characteristics can be changed continuously and smoothly from one knob\nResponds expressively and accurately to picking nuances, even at high-boost settings\nVersatile tone, simple operation, and low noise\nAdvanced Feedback function provides smooth and natural amp feedback\nhttps://www.boss.info/us/products/fb-2/",
+    "hrid": "boss-fb-2"
+}

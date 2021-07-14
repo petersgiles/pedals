@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12806",
+    "name": "TW-1 T Wah",
+    "image": "images/boss-tw-1-t-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Boss",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The T stands for “Touch” and the early TW-1’s actually had the text Touch Wah written on them instead of T Wah. The TW-1 was replaced by the AW-2 in 1991. Together with the CS-1, the TW-1 is the only pedal to have a toggle switch. With only 2 controls, the TW-1 is very easy to control. The later autowah pedals have the added versatility of modulation but for the basic wah sound the TW-1 does the job without forcing the user to read the manual.\nVersion Differences\nThe earliest TW-1s was labelled Touch Wah instead of T Wah\nThere were both silver screw and black screw versions made\nThe T in TW-1 was first placed under the W in T Wah but later moved under the a\nTW-1A\nSerial: 7300 – 9000\nMarking of PCB: 052-287A\nSwitch: Up to 8500 transparency, from 8600 black\nSilver screw\nOP-AMP: RC3403A\nMomentary LED\nTW-1B\nSerial 9100-0300\nMarking of PCB: 052-287B\nSwitch: Black\nSilver screw\nOP-AMP: RC3403A\nPermanent LED\nTW-1C\nSerial 0400-\nMarking of PCB: ET5206-510B\nSwitch: Black\nBlack screw\nOP-AMP: 2x uPC4558C or JRC4558D\nPermanent LED\nSpecifications\nControls: Sens, Peak, 2-way Drive switch\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 6 mA (DC 9V)\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe TW-1 was sold from July 1978 to May 1987.\nhttp://www.bossarea.com/boss-tw-1-t-wah/",
+    "hrid": "boss-tw-1-t-wah"
+}

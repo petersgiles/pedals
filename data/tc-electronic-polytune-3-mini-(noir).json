@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23963",
+    "name": "PolyTune 3 Mini (noir)",
+    "image": "images/tc-electronic-polytune-3-mini-(noir).jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$74 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "Tiny Polyphonic Tuner with Multiple ModesPOLYTUNE 3 NOIR is destined to become the favorite mini pedal tuner for those going for a darker, more monochromatic manner of expression. Sometimes you want to keep things understated, classical. The midnight black powder coating compliments the stylistically oriented pedalboard – while keeping your signal crisp and your tone in tune.\nUltra-compact polyphonic tuner gives you fast, accurate tuning and a high-quality tone tool in a single unit\nQuickly get in tune with polyphonic, chromatic and strobe tuning modes\nBuilt-in all-analog BONAFIDE BUFFER circuitry preserves your tone through long cable runs and convoluted pedal boards \nPolyphonic tuning lets you tune all your strings at once\nLightning-fast chromatic tuner offers 0.5 cent accuracy\nUltra-precise strobe tuner gives you ±0.02 cent accuracy for ultimate tuning performance\nExceptional buffer keeps your tone transparent and crisp with a 1 MΩ input, 100 Ω output and extremely high >112 dB signal to noise ratio\nSwitchable true bypass / buffer modes let you optimize signal integrity for any setup\n“Always on” tuning mode keeps tuner on and detecting even when not muted\nSuper-bright 109-LED display and an ambient light detector provide an instant clear readout in all viewing conditions\nAutomatically switches between polyphonic and monophonic tuning modes based on how many strings you play\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Tuners/POLYTUNE-3-NOIR",
+    "hrid": "tc-electronic-polytune-3-mini-(noir)"
+}

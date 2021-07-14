@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12354",
+    "name": "Magnifica V2",
+    "image": "images/foxpedal-magnifica-v2.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Spring Reverberator of Ansel Adams portrait magnitude\nhttps://foxpedal.com/products/magnifica-v2",
+    "hrid": "foxpedal-magnifica-v2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30838",
+    "name": "Red Muck",
+    "image": "images/jam-pedals-red-muck.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$96 Price in €",
+    "width": 68,
+    "height": 111,
+    "details": "https://www.jampedals.com/red-muck/",
+    "hrid": "jam-pedals-red-muck"
+}

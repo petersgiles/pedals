@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12969",
+    "name": "Whetstone",
+    "image": "images/blackout-effectors-whetstone.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 152,
+    "height": 121,
+    "details": "Analog Phaser",
+    "hrid": "blackout-effectors-whetstone"
+}

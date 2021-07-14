@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21354",
+    "name": "Moomindrone T",
+    "image": "images/ezhi-&-aka-moomindrone-t.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Ezhi & Aka",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 124,
+    "height": 104,
+    "details": "Lo-Fi Delay / Drone Box\nhttp://ezhiandaka.com/moomindrone-t/",
+    "hrid": "ezhi-&-aka-moomindrone-t"
+}

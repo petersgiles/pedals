@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29117",
+    "name": "CP-9",
+    "image": "images/ibanez-cp-9.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 74,
+    "height": 124,
+    "details": "Compressor/Sustainer",
+    "hrid": "ibanez-cp-9"
+}

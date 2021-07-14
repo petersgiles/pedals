@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17140",
+    "name": "Truetone CS6",
+    "image": "images/truetone-truetone-cs6.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 160,
+    "height": 88,
+    "details": "Power Supply\nhttp://www.truetone.com/cs6/",
+    "hrid": "truetone-truetone-cs6"
+}

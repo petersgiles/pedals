@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16033",
+    "name": "Trem",
+    "image": "images/malekko-heavy-industry-trem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 50,
+    "height": 100,
+    "details": "OMICRON SERIES ANALOG TREMOLO PEDAL“TREM” is a tiny little machine that packs a volumetric ton of oomph. With only two knobs, the user is able to manipulate a signal’s volume within a vast spectrum of possibility: from a slow and shallow push/pull, all the way through to a quick and choppy pulse.\nhttps://malekkoheavyindustry.com/product/trem/",
+    "hrid": "malekko-heavy-industry-trem"
+}

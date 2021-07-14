@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21160",
+    "name": "Soul POG",
+    "image": "images/electro-harmonix-soul-pog.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "Multi Effect: Nano POG + Soul FoodCombines two sweet pedals—-the Soul Food transparent overdrive and Nano POG polyphonic octave generator—-in one potent multi-effect. Use them alone or together, put either first in the chain, insert other pedals between them with the FX loop. Also includes a cool Mode switch for a choice of two different octave-up sounds. The versatile Soul POG delivers award-winning overdrive and flawless polyphonic octaves in any combination!\nQuick Specs\n\nMulti-effect pedal combines the Soul Food transparent OD and Nano POG polyphonic octave generator\nSoul Food delivers transparent overdrive with great touch, response and headroom\nNano POG features a polyphonic sub-octave and octave up with flawless tracking\nUse either effect alone or combine them in any order\nChoose between two different octave-up sounds\nBuilt-in FX loop\nEHX 9.6VDC-200mA power supply included\nCurrent Draw: 125mA @ 9VDC\nDimensions in inches: 4.75(w) x 5.75(l) x 2.5(h)\nDimensions in mm: 121(w) x 146(l) x 64(h)",
+    "hrid": "electro-harmonix-soul-pog"
+}

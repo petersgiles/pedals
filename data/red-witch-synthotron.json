@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17338",
+    "name": "Synthotron",
+    "image": "images/red-witch-synthotron.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Red Witch",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 118,
+    "height": 94,
+    "details": "Analog Synth, Samplehold, Envelope Filter PedalFeatures    \n·       Dual Analog Synthesizers\n·       1 Octave up, 2 Octave Up, 1 Octave Down\n·       Sample hold\n·       Envelope filter\n·       Analog Synth Mayhem\n·       Independent synth and filter – use separately or simultaneously\n·       True bypass switching\n·       DC 9volt wall wart (supplied)\nSpecs:\nCurrent draw: 115ma (wallwart only)\nWeight: 369 grams\nDimensions: 118mm x 38mm x 94mm\nhttp://www.redwitchpedals.com/synthotron",
+    "hrid": "red-witch-synthotron"
+}

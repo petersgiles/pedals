@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13448",
+    "name": "VH4'2",
+    "image": "images/diezel-vh4'2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Diezel",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$327 Price in €",
+    "width": 117,
+    "height": 152,
+    "details": "When musical architect Peter Diezel created the DIEZEL VH4 in 1994 he unknowingly sparked a revolution in tone, creating such a demand that he literally had no choice but to put his own personal creation into production.  James Hetfield (Metallica), Adam Jones (Tool), and Neal Schon (Journey) are just a few of the names that have found their signature tones within the fire-breathing tubes of a Diezel VH4 head’s legendary third channel. With the VH4-2 preamp/overdrive pedal, Peter Diezel went to great lengths to faithfully reproduce that exact same tone and feel, allowing you to place it snugly on your pedalboard. But he didn’t stop there. This pedal’s two foot-switchable channels - carefully voiced for rhythm and lead tones - as well as its ability to run in front of a clean amp or directly into a power amplifier effortlessly turn any clean amp tone into a massively versatile high-gain monster. The Diezel VH4-2 preamp/overdrive pedal unleashes one of the most important high-gain tones in history with the tap of your toe.\nA VH4 at your feet\nThe VH4-2 recreates VH4 amp channel’s magical blend of aggression, clarity, and full-throated punch with the authenticity that only Peter Diezel can offer. And like all Diezel Amplification products, inside you’ll find the same commitment to top-tier craftsmanship and the only the finest-quality components. Plug in a VH4-2 and turn your amp into a raging VH4 stack.\nPEDAL CONTROLS\nBass, Middle, Treble: Shapes the EQ and adjusts the overall gain.\nDeep: Increases the ultra low frequency content - simulating the DEEP control on the VH4 amplifier.\nPresence: Contours the high frequency content - simulating the PRESENCE control on the VH4 amplifier.\nMaster 1 & 2: Adjusts the overall volume of the pedal. Master 1 for channel 3 of the VH4, and Master 2 for channel 4.\nGain 1 & 2: Adjusts the amount of gain for the pedal. Gain 1 for channel 3 of the VH4, and Gain 2 for channel 4 of the VH4.\nGuitar input: Connect your guitar to this input.\nOut to guitar amp: Connect to the front end of your amplifier.\nOut to power amp: Connect to rack mount power amplifier or the return jack of your amp’s effects loop.\n12-18V Center Negative Included is a universal 12V power supply and 18V splitter cable. \nhttp://diezelusa.com/diezelpedals/diezel-vh4-pedal-2",
+    "hrid": "diezel-vh4'2"
+}

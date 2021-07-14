@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22898",
+    "name": "Six Band EQ Silver M109S",
+    "image": "images/mxr-six-band-eq-silver-m109s.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$122 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "6-Band Graphic EQThe MXR Six Band EQ covers all the essential guitar frequencies and has been upgraded with noise-reduction circuitry, true bypass switching, brighter LEDs for increased visibility, and a lightweight aluminum housing.\nhttps://www.jimdunlop.com/product/m109s-7-10137-09562-5.do?sortby=ourPicks&refType=1&ecList=1&ecCategory=",
+    "hrid": "mxr-six-band-eq-silver-m109s"
+}

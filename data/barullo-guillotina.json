@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24082",
+    "name": "Guillotina",
+    "image": "images/barullo-guillotina.jpg",
+    "function": [
+        "PreAmp",
+        "Tremolo"
+    ],
+    "manufacturer": "Barullo",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$202 Price in €",
+    "width": 66,
+    "height": 125,
+    "details": "Choppy tremolo by BarulloThe Guillotina pedal, is a tremolo effect based on an old circuit, the “repeat percussion”, that you could find as a small gadget, pedal or even embedded in some Valco and Vox guitars and amplifiers. It’s basically a sawtooth oscillator controlling a transistor amplifier that I have tweaked to provide with lower noise floor and better frequency response, so you can use it even with bass guitar. Depending on the controls on the pedal you could convert your guitar tone into a 50’s classic or a crazy noise from Spacemen 3. Try it with an expression pedal and fly to “Sound of Confussion”.\nCONTROLS\nRate: Adjusts the speed of the UJT oscillator controlling the tremolo effect.\nDepth: Controls how your signal is affected, from an unaffected signal to a completely chopped signal.\nSpeed: The central switch controls two different speed ranges on the oscillator: number 1 can cover from a really slow to a fast tremolo effect, and on number 2 the oscillator runs pretty fast, so you can achieve something close to a “ring modulator” effect.\nVolume: Controls the overall output level.\nExp. Input: this is an input to connect your expression pedal and so control the rate on your pedal, and really go mad. Take into account that expresion pedals with 100K potentiometers inside will have the same range as the pot, but other values could have deadspots or different ranges.\nhttps://barullofx.com/2018/09/29/guillotina/",
+    "hrid": "barullo-guillotina"
+}

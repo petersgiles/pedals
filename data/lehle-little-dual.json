@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15509",
+    "name": "Little Dual",
+    "image": "images/lehle-little-dual.jpg",
+    "function": [
+        "Switch",
+        "Utility",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$230 Price in €",
+    "width": 122,
+    "height": 99,
+    "details": "Amp SwitcherThe Lehle Little Dual is the Lehle Dual SGoS's little sister, a maximum signal-fidelity amp switcher for two amps. Both amps are activated simultaneously using the left footswitch, while the right is used to switch back and forth between them. High-intensity LEDs make it easy to read off switching state A or B, or A and B, even under high-power spots. \nThe centerpiece of the Lehle Little Dual is its high-end Lehle LTHZ transformer, which electrically isolates output A from output B, making history of hum loops - permanently! The Lehle Little Dual features a gold-plated-contact phase inverter and a gold-plated-contact ground switch. The two inputs can also be routed in stereo to outputs A and B, if you use the stereo signal of an effect unit as the input, for example. This also makes it possible to route instruments equipped with two pick-ups, including many acoustic and hybrid guitars, and also double basses, via two amplifier systems - with no complications. These systems can be operated either in alternation or in parallel - without hum, and without sound losses, needless to say! The Lehle Little Dual - small, but so utterly effective!\nSuccessor: LEHLE LITTLE DUAL II\nhttps://lehle.com/EN/Lehle-Little-Dual-II\nhttp://lehle.com/EN/Lehle-Little-Dual",
+    "hrid": "lehle-little-dual"
+}

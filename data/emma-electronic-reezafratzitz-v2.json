@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17096",
+    "name": "ReezaFRATzitz v2",
+    "image": "images/emma-electronic-reezafratzitz-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Emma Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "http://www.emmaelectronic.com/shop_reezafratzitz/",
+    "hrid": "emma-electronic-reezafratzitz-v2"
+}

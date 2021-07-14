@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23080",
+    "name": "Volume XL",
+    "image": "images/dunlop-volume-xl.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 114,
+    "height": 292,
+    "details": "Extra-large volume/expression pedal with dedicated tuner out",
+    "hrid": "dunlop-volume-xl"
+}

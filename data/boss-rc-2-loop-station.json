@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26967",
+    "name": "RC-2 Loop Station",
+    "image": "images/boss-rc-2-loop-station.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "LooperNo one creates Loop Stations like BOSS. Already in heavy demand around the world are the twinsize BOSS RC-20XL and the deluxe, extra-wide RC-50. Now comes an ultra-compact member of the RC family, the RC-2. Housed in a compact-pedal case, the RC-2 puts a surprising amount of features in a stompbox:\n• Up to 16 minutes of record time\n• Loop Quantize for perfect loop timing\n• Realistic Guide-Tone drum patterns built in\n• Easy, logical overdubbing and navigation\n• Undo/Redo function\n• 11 phrases can be stored and recalled\n• AUX input to capture phrases from external audio device\n• External pedal input (stop/tempo) \nhttps://www.boss.info/us/products/rc-2/",
+    "hrid": "boss-rc-2-loop-station"
+}

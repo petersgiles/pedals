@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33198",
+    "name": "Chaotic Evil Ned",
+    "image": "images/abominable-electronics-chaotic-evil-ned.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 63,
+    "height": 254,
+    "details": "transparent overdrive with parametric HM-2 tonestack“Chaotic Evil Ned” takes the much-loved “Evil Ned” mini pedal and flips it on it’s head.  Where Evil Ned is a tiny, simple, overdrive with a 1-knob, HM-EQ blend, its giant alter-ego, Chaotic Evil Ned gives you ALL THE KNOBS!  Now you have control of gain & frequency of all 3 HM-2 EQ bands!  We encourage you to explore, but if you want to come back “home,” you’ll find the classic HM-2 sound when low, mid, and high are cranked and the frequency controls are somewhere in the 11-1 o’clock range.  If you’ve been looking for the ultimate heavy metal chainsaw, look no further.",
+    "hrid": "abominable-electronics-chaotic-evil-ned"
+}

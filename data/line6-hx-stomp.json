@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19022",
+    "name": "HX Stomp",
+    "image": "images/line6-hx-stomp.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Line6",
+    "current": "3000 mA / 9 V / DC / Negative Center",
+    "cost": "$599 Price in €",
+    "width": 178,
+    "height": 126,
+    "details": "Multieffects, Amp and Cab Sim, IRHX Stomp™ is a professional-grade guitar processor that delivers the sound of Helix® amps, cabs, and effects in an ultra-compact pedal. Whether you prefer to play through a traditional amp-and-pedal setup, or go direct onstage or in the studio, HX Stomp seamlessly integrates into a variety of environments and applications. Utilizing the same DSP and HX Modeling technology as its bigger Helix brethren, the HX Stomp guitar pedal nonetheless fits easily onto your pedalboard, or even in the pocket of your gig bag. There are over 300 amps, cabs, and effects—including a looper. HX Stomp contains all the same HX models found in Helix family products, as well as the legacy effects library from Line 6® M-Series pedals, and stompbox modelers such as the DL4™. Use it as a \"super stompbox,\" a backup or fly rig, an add-on tone expander when combined with other modelers, an audio interface—or even a complete guitar or bass rig.\nhttps://line6.com/hx-stomp/",
+    "hrid": "line6-hx-stomp"
+}

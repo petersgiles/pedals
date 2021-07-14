@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21266",
+    "name": "Fly 3 Amp",
+    "image": "images/blackstar-fly-3-amp.jpg",
+    "function": [
+        "Distortion",
+        "Power",
+        "Volume"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 170,
+    "height": 126,
+    "details": "A portable 3-watt battery powered amp with built in delay and overdrive.\nhttps://www.sweetwater.com/store/detail/Fly3--blackstar-fly-3-3-watt-1x3-inch-combo-amp",
+    "hrid": "blackstar-fly-3-amp"
+}

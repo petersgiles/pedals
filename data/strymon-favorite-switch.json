@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17475",
+    "name": "Favorite Switch",
+    "image": "images/strymon-favorite-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 61,
+    "height": 114,
+    "details": "",
+    "hrid": "strymon-favorite-switch"
+}

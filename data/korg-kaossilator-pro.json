@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12195",
+    "name": "Kaossilator Pro",
+    "image": "images/korg-kaossilator-pro.jpg",
+    "function": [
+        "Looper",
+        "Multieffect",
+        "Sampling",
+        "Synth Voice",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 210,
+    "height": 226,
+    "details": "Dynamic Phrase Synthesizer / Loop RecorderA synthesizer that lets you perform and create multi-layered music in any style with just the touch of a finger.\nThe Kaossilator series was the forerunner of unique instruments that made it easy for anyone to play musical melodies and phrases. The KAOSSILATOR PRO, which appeared in 2010, was an updated model featuring a rich variety of sounds and loop recording functionality that made it not merely a live performance instrument, but also a track-making tool.\nhttps://www.korg.com/us/products/dj/kaossilator_pro_plus/",
+    "hrid": "korg-kaossilator-pro"
+}

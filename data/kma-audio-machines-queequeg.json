@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32672",
+    "name": "Queequeg",
+    "image": "images/kma-audio-machines-queequeg.jpg",
+    "function": [
+        "Bass",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$161 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Sub GeneratorGuided by an immortal spirit and encouraged by the old seer’s prophecy to plunge into the abyssal sea fulfilling his destiny. He is holding his weapon with ease willing to tame the tremendous beast and showing you the beauty of the deepest sounds. Queequeg – just one man to pave the way for your intense suboctave experience!\nQueequeq is KMA Audio Machine's take on a simple, yet massive analog monophonic suboctave generating device. Our aim was to provide a super easy to use and ultra-fast tracking suboctaver in a small footprint that works equally well on guitar, bass and synth, so these classic earth-shakingly awesome tones can find their way to any setup out there. With its one knob SUB control, you are able to dial in the right blend of the generated suboctave and your clean signal. Queequeq’s quick tracking benefits from the all-analog circuit design, giving you a very organic and smooth suboctave sound. Thickening up your tone slightly, blasting out faux bass-synth resonances or even filling in for a missing bass sound are just some of Queequeg’s specialties. The SUB control goes from completely clean on the left, to 100% suboctave action on the right side and with different sonic blends in between. Your search for an easy to set and great-sounding all analog sub octaver ends right here with the Queequeg.\nPowered by an optional standard 9V-18V DC PSU (negative center, 2.1mm, approx. 10mA current draw)\nEvery pedal is designed, assembled, silkscreened, tested and numbered by hand in our small workshop. We use doublesided PCBs which are designed, tested and assembled by ourselfs, to guarantee a high quality standard and keep the price of our pedals reasonable. The use of an indestructible powdercoated die-cast enclosure ensures our maximum durability.\nhttps://kma-machines.com/m_queequeg.html",
+    "hrid": "kma-audio-machines-queequeg"
+}

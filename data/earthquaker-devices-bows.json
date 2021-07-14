@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16564",
+    "name": "Bows",
+    "image": "images/earthquaker-devices-bows.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Germanium PreampGermanium Preamp\nThe Bows is a Germanium preamp designed around a rare NOS OC139 black glass transistor. For being a little one-knobber the Bows wears many hats. Right out of the box it's got several tone shaping abilities spread between two modes: Full and Treble. Full mode is warm with a lot of body and low end. Treble mode is a resonant, treble booster with a “cocked wah” tone that can drive any tube amp into harmonic rich distortion territory. Each mode has a little bit of grit to start with, but as you get passed 12 o'clock on either setting their subtleties are accented. The vowel-like sound out of the Treble side will be more prevalent as you bring the Level up. Doing the same on Full mode will get you a nice, full bodied crunch tone that retains clarity. Place any drive pedal before the Bows and it's another story. Full mode turns a dirt signal into a crumbling wall of sonic chaos, while Treble mode becomes an ultimate lead tone. Each and every Bows is built one at a time by real life human beans in the temperature controlled bubble of Akron, Ohio.\nThis device is true bypass and uses relay based “soft touch” switching. Audio will not pass without power.\nList Price: $149.00\nControls\nLevel: Adjusts the output level by setting the bias voltage of the transistor. A small amount of noise while dialing this in is perfectly normal.\nTone Toggle: “Treble” for a brighter, more resonant tone and “Full” for a warmer, bass-heavy push.\nMeasures\n4.75″ x 2.50″ x. 2.25″ with knob\nPower\nPlease use a standard 9 volt DC power supply intended for musical instruments with a negative center 2.1mm barrel or a 9v Battery.\nCurrent draw is 9 mA.",
+    "hrid": "earthquaker-devices-bows"
+}

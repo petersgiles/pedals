@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23135",
+    "name": "CP-08 Isolated Power Supply",
+    "image": "images/caline-cp-08-isolated-power-supply.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Caline",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 249,
+    "height": 71,
+    "details": "10-outlet isolated power supplyThis Isolated Power supply is our original design. To produce perfect tone and supply stable current, we use high quality loops of wire. Short-circuit protection design make the pedals more safe. The housing material is aluminium alloy, as a result, the host is very stable and \nlight(the host only 1.5kg). It's freely for player to carry it everywhere. Hoping this model would bring more fun in your life.\nIsolated outlets total:\n6x9v 100mA\n2X9V 300mA\n1X12V 300mA\n1X18V 300mA\nhttp://www.calinemusic.com/products/powersupply/122.html",
+    "hrid": "caline-cp-08-isolated-power-supply"
+}

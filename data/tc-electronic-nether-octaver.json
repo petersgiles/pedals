@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20176",
+    "name": "Nether Octaver",
+    "image": "images/tc-electronic-nether-octaver.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$33 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Classic All-Analog Octave Pedal with 1 or 2 Octaves Below OriginalAdd a heavy dose of thickness to your guitar’s tone with the vintage sounding NETHER OCTAVER, and unleash a gnarly pitch-o-rama that will devastate your would-be rivals. Use it to subtly fatten up your sound, or dial up extreme settings for a powerful barrage of all-out synth tones. And if the mood strikes you, pull out that purple satin suit hiding in the back of your closet, and play the\n“When Doves Cry” solo until your fingers bleed!\n•    Vintage style sub-octaver\n    •    All-analog circuitry\n    •    True Bypass\nhttps://www.tcelectronic.com/product.html?modelCode=P0CQB",
+    "hrid": "tc-electronic-nether-octaver"
+}

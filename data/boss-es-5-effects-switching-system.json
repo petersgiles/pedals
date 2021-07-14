@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12668",
+    "name": "ES-5 Effects Switching System",
+    "image": "images/boss-es-5-effects-switching-system.jpg",
+    "function": [
+        "Switch",
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "125 mA / 9 V / DC / Negative Center",
+    "cost": "$412 Price in €",
+    "width": 337,
+    "height": 97,
+    "details": "SwitcherBased on the same concept and features as the flagship ES-8, the ES-5 is pared down to offer more practical and essential use options for typical guitarists and bassists, and is drastically reduced in size to fit ready-made, standard-size boards. The innovation in creativity of pedalboard systems made possible by the ES-8 has become more available and affordable. Expand your board just by one size and incorporate the ES-5, then you are in for a whole new world of musical expression, not just another utility tool. From this day on, the use of stompboxes will never be the same.\nhttps://www.boss.info/us/products/es-5/",
+    "hrid": "boss-es-5-effects-switching-system"
+}

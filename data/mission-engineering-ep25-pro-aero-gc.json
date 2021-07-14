@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23145",
+    "name": "EP25-Pro Aero GC",
+    "image": "images/mission-engineering-ep25-pro-aero-gc.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 280,
+    "details": "Advanced expression/volume pedal",
+    "hrid": "mission-engineering-ep25-pro-aero-gc"
+}

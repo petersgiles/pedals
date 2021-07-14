@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21253",
+    "name": "Ojai Adapter",
+    "image": "images/strymon-ojai-adapter.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 107,
+    "height": 55,
+    "details": "Power AdapterReplacement\nhttps://store.strymon.net/ps-124-replacement-power-adapter-for-ojai-and-ojai-r30/",
+    "hrid": "strymon-ojai-adapter"
+}

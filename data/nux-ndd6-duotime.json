@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32039",
+    "name": "NDD6 Duotime",
+    "image": "images/nux-ndd6-duotime.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Nux",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 115,
+    "height": 105,
+    "details": "Dual delayDuotime is a real stereo delay pedal with independent time / sub-division & repeat knobs. In the 80's, all of the professional musicians used rack-mount effects to run stereo delay. It was the golden era of legendary engineering like Lexicon Delta, TC 2290, Eventide H3000, and more. When we talked to \"working musicians\" we found that they were looking for a great stereo delay with a compact size and ultra-simple controls. So we discussed the absolutely essential requirements and developed the duotime Dual Delay Engine. It's ultra-musical, and easy to operate. So, let's dive-in and experience the most versatile delay pedal ever:\nDuotime offers analog delay, tape echo, digital delay, modulation delay, and verb delay.\nAnalog Delay (40ms~402ms)\nTape Echo (55ms~552ms)\nDigi Delay (80ms~1000ms)\nMOD Delay (20ms~1499ms)\nVERB Delay (80ms~1000ms)\nhttps://www.nuxefx.com/duotime.html",
+    "hrid": "nux-ndd6-duotime"
+}

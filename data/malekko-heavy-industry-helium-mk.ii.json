@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24737",
+    "name": "HELIUM Mk.II",
+    "image": "images/malekko-heavy-industry-helium-mk.ii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 83,
+    "height": 140,
+    "details": "ANALOG OCTAVE DISTORTION PEDALThe HELIUM MKII is an Octavia style distortion pedal coupled with an intense octave up effect, this updated version of the legendary HELIUM features a second WOLF setting to augment the original pedal’s two position octave sonic palette. The Mark II features a smaller footprint to fit into your pedalboard. \nhttps://malekkoheavyindustry.com/product/helium-mkii/",
+    "hrid": "malekko-heavy-industry-helium-mk.ii"
+}

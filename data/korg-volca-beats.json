@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27188",
+    "name": "Volca Beats",
+    "image": "images/korg-volca-beats.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / DC / Positive Center",
+    "cost": "$151 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Analogue Rhythm MachineThe volca Beats delivers unforgettably classic sounds with six analogue and four PCM-based drum parts. Instant editing via the intuitive user interface allows users to cut/mix/slice loops on the fly to deliver a devastating analogue rhythm experience.\nThe six editable analogue parts offer one knob per function for easy editing, while the four PCM parts provide speed control for drastic changes in pitch. Volca Beats is equipped with a 16-step sequencer with eight memory patches and the Sync In and Out functions allow clock sync of multiple instruments from the volca Series as well as Korg's Monotribe.\nhttps://www.korg.com/us/products/dj/volca_beats/",
+    "hrid": "korg-volca-beats"
+}

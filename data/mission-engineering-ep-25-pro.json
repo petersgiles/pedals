@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11860",
+    "name": "EP-25 PRO",
+    "image": "images/mission-engineering-ep-25-pro.jpg",
+    "function": [
+        "Controller",
+        "Expression"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 102,
+    "height": 254,
+    "details": "Expression Pedal",
+    "hrid": "mission-engineering-ep-25-pro"
+}

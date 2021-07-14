@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13179",
+    "name": "Iconoclast Speaker Emulator",
+    "image": "images/neunaber-iconoclast-speaker-emulator.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$245 Price in €",
+    "width": 116,
+    "height": 68,
+    "details": "Iconoclast dynamically shapes your tone as a speaker cabinet wouldIconoclast dynamically shapes your tone as a speaker cabinet would yet outputs directly to headphones, powered speakers, a mixer or recording interface. When paired with the drive pedal or preamp of your choice, Iconoclast delivers consistent amp tone at any volume—and in virtually any setting—often without needing to bring anything more than your pedal board.\nIntuitive controls make it easy to dial in a wide range of tones on-the-fly, whether or not you know anything about how different speaker cabs sound. The Low, Mid and High controls work pretty much like they appear. It doesn't need to get any more complicated than this.\nFor you tone nerds, however, there's a lot more going on under the hood:\nLow adjusts the virtual cabinet type and size\nMid captures the speaker’s dynamic interaction with the amplifier\nHigh shifts the frequency cut off, reproducing a wide range of speaker types\nIconoclast advances the state of the art in guitar cabinet emulation. Eschewing IRs (impulse responses)—which are static and cannot be adjusted in real time—Iconoclast uses proprietary filters that parameterize the speaker cabinet response, allowing you to easily and intuitively dial in the sound you’ve been looking for. In addition to capturing both the reactive and resonant components of the speaker load response, Iconoclast emulates the dynamic response of a heated, hard-driven speaker. And it's ultra-low latency (315 microseconds) preserves your rig’s feel.\nOn top of this, Iconoclast Software for Windows/Mac lets you dig deep into the inner workings, visualize how your tone is being shaped, and change the response to your heart's content. The software also adds a mono-compatible stereo enhancer for your listening pleasure.\nIconoclast was designed to be the only thing you need after your pedal board or preamp, so we also added a studio-quality noise gate to clean up your dirty signal chain. Flexible ins & outs may be used mono or stereo, and the outputs can be used balanced or unbalanced. Or just plug in your headphones—with its built-in headphone amp, Iconoclast can handle that too.\nhttps://neunaber.net/products/iconoclast",
+    "hrid": "neunaber-iconoclast-speaker-emulator"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33050",
+    "name": "Noise Reaper",
+    "image": "images/stone-deaf-noise-reaper.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$215 Price in €",
+    "width": 74,
+    "height": 122,
+    "details": "Studio-quality noise gateWe all love distortion, but not when unwanted fizz, hum, and other noise make your signal unwieldy and difficult to control. Enter, the Noise Reaper. A single-knob noise gate pedal that clamps down on unwanted sound to give you a crisp, clean tone.\nBased on the same cutting-edge noise gate technology that you’ll find in other Stone Deaf distortion pedals like the Fig Fumb and Warp Drive, the Noise Reaper is an evolution of a deceptively simple circuit that’s designed specifically to give you the purest signal possible. We’ve taken that concept and refined it over hundreds of painstaking hours of experimentation, and the result is a pretty unique pedal that we’re very proud of.\nThe Noise Reaper works by comparing the unaffected signal from your guitar with noisier signals (like those from distortion pedals), to give you responsive noise gating that doesn’t kill your sustain. The best noise gates (the ones you’ll find in professional studios) work this way, and the Noise Reaper puts the same technology in a compact pedal.\nYou can use the Noise Reaper to tame pedals or noisy amps. And if you want a completely ‘de-noised’ signal, you can even use two pedals together. Be careful though, once you’ve tried it, you’ll never go back.\nIt’s intuitive too, with just one knob to get to grips with. Like the simplest and best guitar pedals, there’s no fiddling with different settings to find the sweet spot. Just one simple ‘threshold’ control to select how much noise the pedal allows through before slamming shut to protect your signal.\nhttps://www.stonedeaffx.com/shop/noise-reaper/",
+    "hrid": "stone-deaf-noise-reaper"
+}

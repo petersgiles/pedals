@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17660",
+    "name": "BB-2 Bluesbreaker",
+    "image": "images/marshall-bb-2-bluesbreaker.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "A redesign of the famous originalThe BB-2 Bluesbreaker pedal captures all the characteristics of the classic Bluesbreaker drive pedal. It introduces an additional boost function, allowing you to push your tone to the forefront. From subtle, transparent drive to screaming lead tones, you’re able to shape that iconic breaking up sound to your specific needs. \nhttps://marshall.com/marshall-amps/products/pedals/bb-2-bluesbreaker",
+    "hrid": "marshall-bb-2-bluesbreaker"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13730",
+    "name": "Shoe Gazer",
+    "image": "images/devi-ever-shoe-gazer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Devi Ever",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Double Fuzzthe shoe gazer offers you fuzz that is more along the lines of jack white meets frank black with a bit of machina from the smashing pumpkins and noise chaos that hisses and sputters to beautiful fuzz that roars and sings with clarity. second footswitch engages second layer of fuzz. second layer fuzz controls creates endless texture combinations. scrambled, octavia, blended, disharmonic, noise, muff-like, low fi, dying battery, huge, weak, fat sustain, quick decay. specializing in distinctive fuzz sounds hardly found anywhere else.\nhttp://www.fuzzgoddess.com/shoegazer/",
+    "hrid": "devi-ever-shoe-gazer"
+}

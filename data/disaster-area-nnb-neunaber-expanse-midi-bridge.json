@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12821",
+    "name": "NNB Neunaber Expanse MIDI Bridge",
+    "image": "images/disaster-area-nnb-neunaber-expanse-midi-bridge.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 38,
+    "height": 91,
+    "details": "The Disaster Area NNB Expanse Bridge unit is a compact interface unit that allows control of a Neunaber Expanse Series pedal by a MIDI controller.\nThe NNB is designed to connect to the ExP port on the rear of the Expanse Series (also known as V2 Stereo) pedals.  The NNB is powered by the Expanse series, just connect the two with the provided Cat-5 cable.\nOnce connected, the NNB offers all of the functions of the official EXP controller including effect selection and preset morphing.  The NNB will even work with the Expanse software so that you can select and customize your effects.\nTap the NNB footswitch to toggle between the two “preset” sounds for each effect selection, or hold the footswitch to cycle through the available effects.  If you’d rather have easy access to the effects, you can reverse this setting.  You can even connect a standard expression pedal to seamlessly “morph” between presets.\nhttp://www.disasterareaamps.com/shop/nnb",
+    "hrid": "disaster-area-nnb-neunaber-expanse-midi-bridge"
+}

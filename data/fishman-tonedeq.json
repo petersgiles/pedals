@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21547",
+    "name": "ToneDEQ",
+    "image": "images/fishman-tonedeq.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer",
+        "Multieffect"
+    ],
+    "manufacturer": "Fishman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 241,
+    "height": 136,
+    "details": "Fishman ToneDEQ AFXThe ToneDEQ Preamp EQ is a complete performance solution for the acoustic musician. With a high-quality preamp, dual effects section, tone controls, a compressor, level booster and a balanced D.I. — it’s got everything you need in one box.\nhttps://www.fishman.com/products/series/fx/tonedeq-preamp-eq/",
+    "hrid": "fishman-tonedeq"
+}

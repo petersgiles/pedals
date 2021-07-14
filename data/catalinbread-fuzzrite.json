@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15724",
+    "name": "Fuzzrite",
+    "image": "15724.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 61,
+    "height": 127,
+    "details": "FuzzClassic gnarly garage fuzz. From The Ventures' \"2,000 Pound Bee\" and Iron Butterfly's \"In-A-Gadda-Da-Vida\" to the Black Keys, the Fuzzrite has a rich history of taking guitar tones to new levels. We've brought the classic silicon circuit back, and added a 9v power supply.\nhttps://catalinbread.com/products/fuzzrite-blems",
+    "hrid": "catalinbread-fuzzrite"
+}

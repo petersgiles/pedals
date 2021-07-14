@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22522",
+    "name": "Wetter Box",
+    "image": "images/the-gigrig-wetter-box.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$256 Price in €",
+    "width": 75,
+    "height": 135,
+    "details": "Parallel Effects MixerMixing your pedals in parallel is a powerful way to unlock a world of potential. The Wetter Box ensures it's done right.\nWould you like to be able to coax sounds from your effects pedals that you didn't even know were in there? How about mixing your favourite Fuzz and an Overdrive? Or a chorus and a phaser? What about mixing a short analog and a long digital delay? In 2006 our original Wet Box gave us a glimpse into the power and infinite possibilities of parallel mixing, but the goal has always been to take this to an entirely new level. The Wetter Box is the realisation of this goal. \nPlug in any 2 effects and blend them in parallel\nBlend in an effect in parallel with your direct signal\nDo this in real time with an expression pedal\nIndependent gain controls on each loop\nThe ability to flip the phase on the return of LOOP B to be able to deal with any phase issues\nTrue stereo signal path using TRS cables\n2 separate modes of operation, BLEND (crossfade from loop A to loop B) or MIX (add loop B to Loop A)\nInternal voltage doubling compatible with guitar level or amp fx loop level\nInternally isolated power \nTrue Bypass or Buffered Spillover bypass\nControl the bypass state remotely with any latching switch\n100% analog signal path\nTheGigRig OptoKick footswitch\nhttps://shop.thegigrig.com/wetter-box/",
+    "hrid": "the-gigrig-wetter-box"
+}

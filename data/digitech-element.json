@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14428",
+    "name": "Element",
+    "image": "images/digitech-element.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$88 Price in €",
+    "width": 115,
+    "height": 159,
+    "details": "",
+    "hrid": "digitech-element"
+}

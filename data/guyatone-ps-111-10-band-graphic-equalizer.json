@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18604",
+    "name": "PS-111 10 Band Graphic Equalizer",
+    "image": "images/guyatone-ps-111-10-band-graphic-equalizer.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 130,
+    "height": 118,
+    "details": "",
+    "hrid": "guyatone-ps-111-10-band-graphic-equalizer"
+}

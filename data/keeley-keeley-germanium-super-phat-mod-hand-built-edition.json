@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18903",
+    "name": "Keeley Germanium Super Phat Mod Hand Built Edition",
+    "image": "images/keeley-keeley-germanium-super-phat-mod-hand-built-edition.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$168 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "Germanium Super Phat Mod\nhttps://robertkeeley.com/Germanium-Super-Phat-Mod-Silver",
+    "hrid": "keeley-keeley-germanium-super-phat-mod-hand-built-edition"
+}

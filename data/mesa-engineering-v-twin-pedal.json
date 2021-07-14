@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15967",
+    "name": "V-Twin Pedal",
+    "image": "images/mesa-engineering-v-twin-pedal.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 205,
+    "height": 185,
+    "details": "Preamp guitar pedalThis is no one-trick stomp box. With three modes, four stages of all-tube preamp circuitry and dedicated outputs for host amps, power amps and recording consoles, this fortress of a pedal is a fully evolved footswitching preamp.\nThough its layout is simple, V-Twin™ is supremely capable of producing pristine clean sounds and delivering purring blues tones and truly outrageous high-gain rock or metal sounds. Two out of three of these dedicated modes are footswitchable, leaving us room to include the Bypass for use with host amps. It even has headphone capability that will embarrass the effects-laden digital wanna be's. Or can be plugged into any power amp - including the PA.\nIn the studio, either V-Twin is a child prodigy. Engineers and producers alike are shocked when they push up the faders and hear how well it goes direct-to-tape.\nCarry V-Twin with you at all times, as backup insurance or for sit-in situations and always get your tone.\nhttp://www.mesaboogie.com/support/out-of-production/v-twin-preamp.html",
+    "hrid": "mesa-engineering-v-twin-pedal"
+}

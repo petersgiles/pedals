@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22265",
+    "name": "Expression Slider",
+    "image": "images/old-blood-noise-expression-slider.jpg",
+    "function": [
+        "Expression",
+        "Utility"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 39,
+    "height": 93,
+    "details": "Slider Controlled Expression Pedal",
+    "hrid": "old-blood-noise-expression-slider"
+}

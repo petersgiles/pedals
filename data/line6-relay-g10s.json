@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21191",
+    "name": "Relay G10S",
+    "image": "images/line6-relay-g10s.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 86,
+    "height": 124,
+    "details": "Wireless\nhttps://line6.com/relay-wireless/g10-g10s",
+    "hrid": "line6-relay-g10s"
+}

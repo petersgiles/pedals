@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17239",
+    "name": "Mooer L6 Pedal Controller",
+    "image": "images/mooer-mooer-l6-pedal-controller.jpg",
+    "function": [
+        "Switch",
+        "Tuner"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 370,
+    "height": 97,
+    "details": "Programmable 6-Fold Loop SwitcheWith the PCL6, controlling your pedals has never been so easy and convenient. The PCL6 is a programmable 6 channel loop controller.After connecting your pedals to the 6 true bypass loops, the PCL-6 provides a control hub right at the front of your pedalboard which can be operated in 2 different ways.\nIn preset mode, any combination of multiple loops can be instantaneously engaged or disengaged at the touch of a single footswitch, without the need to tap dance all over your pedalboard. In this mode the Loop Controller has 6 banks, with 6 presets in each bank, giving a total of 36 possible preset pedal combinations available.\nIn Live mode the PCL6 operates in a more traditional manor. Each loop has its own dedicated footswitch which simply engages and disengages it's respective loop. This is perfect for the more old school musicians who simply want their pedals footswitches conveniently relocated for easy access.\nEach loop has a backlit display panel which can be written on or can take the colored stickers provided and makes it easy to see at a glance which loops are engaged and disengaged.\nThe PCL6 has a precise built in tuner based on our very popular 'Baby tuner' and a 'tuner out' should you prefer to use your favorite dedicated tuner pedal.\nComplete with 2 different buffers (pre and post) you don't need to worry about tone loss due to long cables.\nSpecification：\nInput：1/4\"monaural jack（impedance：2M Ohms）\nOutput：1/4\"monaural jack（impedance：100M Ohms）\nPower Requirments：AC adapter 9V DC(center minus plug).MOOER Power Supply is recommended\nCurrent Draw：350mA\nDimensions：370mm(D)x97mm(W)x33mm(H)\nWeights：1.05KG\nhttp://www.mooeraudio.com/?product/201607156018.html",
+    "hrid": "mooer-mooer-l6-pedal-controller"
+}

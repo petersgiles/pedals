@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11845",
+    "name": "Mini Volume Pedal",
+    "image": "images/dod-mini-volume-pedal.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$115 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "Compact volume pedal for guitar and bass\nhttp://digitech.com/en/products/dod-mini-volume",
+    "hrid": "dod-mini-volume-pedal"
+}

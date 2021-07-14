@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16006",
+    "name": "MXR Wylde Overdrive",
+    "image": "images/mxr-mxr-wylde-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 69,
+    "height": 150,
+    "details": "Zakk Wylde overdrive",
+    "hrid": "mxr-mxr-wylde-overdrive"
+}

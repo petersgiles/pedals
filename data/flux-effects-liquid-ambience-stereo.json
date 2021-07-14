@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11831",
+    "name": "Liquid Ambience Stereo",
+    "image": "images/flux-effects-liquid-ambience-stereo.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Flux Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 120,
+    "height": 95,
+    "details": "Atmospheric Reverb with polyphonic Voicing\nhttp://www.fluxeffects.com/liquidambience",
+    "hrid": "flux-effects-liquid-ambience-stereo"
+}

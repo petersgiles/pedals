@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12237",
+    "name": "Frequency analyzer",
+    "image": "images/electro-harmonix-frequency-analyzer.jpg",
+    "function": [
+        "Ring Modulator"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Ring modulator\nhttp://www.ehx.com/products/frequency-analyzer",
+    "hrid": "electro-harmonix-frequency-analyzer"
+}

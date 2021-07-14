@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12879",
+    "name": "AW-3 Dynamic Wah",
+    "image": "images/boss-aw-3-dynamic-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Boss",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Compact pedal creates a variety of classic \"wah\" effects\nDynamic wah sounds provide variable effect based on picking strength\n\"Humanizer\" effect creates human voice-type vowel sounds\nDedicated Bass input for processing bass guitar\nEXP Pedal mode allows wah control via optional expression pedal\nTempo can be set for pedal control or at fixed rate via Manual mode\nBOSS five-year warranty\nhttps://www.boss.info/us/products/aw-3/",
+    "hrid": "boss-aw-3-dynamic-wah"
+}

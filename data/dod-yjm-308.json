@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17068",
+    "name": "YJM 308",
+    "image": "images/dod-yjm-308.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 50,
+    "height": 115,
+    "details": "DOD YJM308 Yngwie Malmsteen OverdriveDOD announces the introduction of their new YJM308 overdrive pedal, which was developed to meet the exacting sound requirements of artist Yngwie Malmsteen. Yngwie, a long-time user of the DOD250 overdrive pedal, worked with the DOD engineering team to help create the tone and overdrive qualities of the new YJM308. The process required rigorous electronic testing and real-time analysis of various overdrive and equalization combinations before they finally were able to match Yngwie's signature sound. The YJM308, which uses Yngwie's initials in its name, features Gain and Level controls and a bypass footswitch.\n\"When I was a kid in Sweden back in 1978, I bought my first DOD 250 pedal. This preamp overdrive pushing the front end of my tube amps has been a key element to my tone ever since. Like most handwired vintage equipment of the era, there is some variety in the sound between my different old gray pedals. DOD took my favorite pedal and used that as the reference to create the YJM308. Now I can always get my trademark tone and keep my original vintage gear safe at home. More than that, this new pedal sounds so good it is what I am using these days. I have not hooked up my old 250s at all recently. I am using the YJM308 for everything, including my new album. Not to mention it looks cool\" - Yngwie Malmsteen \nhttp://www.analogman.com/dodmod.htm",
+    "hrid": "dod-yjm-308"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14139",
+    "name": "Specular Reverb V2",
+    "image": "images/gfi-system-specular-reverb-v2.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "GFI System",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 119,
+    "height": 64,
+    "details": "Specular Reverb v.2 offers one normal reverb mode plus six atmospheric reverb modes.Each one of the six atmospheric modes (Modulated, Shimmer, Echo, Tremble, Voices, and Infinity) has the same basic character as the normal reverb mode, whilst adding its own unique twist. This is the core concept of the pedal : one great sounding reverb and the ability to add unique atmospheres on the fly. \nPresets :  you can save up to 8 presets, no more knobs tweaking during live performance.\nStereo I/O : a reverb effect processor sounds much much better in stereo, period.\nTrail Persistence : as the pedal is bypassed, the reverb tail is not abruptly cut off, instead it decays out naturally. The same is true when changing presets (as long as you stay in the same reverb mode).\nAuto Intensity Sweep : when you engage this feature, the parameter controlled by the Intensity knob is slowly swept to the maximum value, hold it there, and then swept back to the original setting. Used judiciously, this feature can introduce dynamic elements to the soundscape - watch the demo videos to see it in action.\nAnalog Dry-thru : dry signal is routed through a pure analog path.\nSmall form factor : the pedal measures 12 x 6.5 (cm) or 4.7 x 2.5 (inch), pretty small for what it has to offer\nhttps://www.gfisystem.com/specular-reverb-v2.html",
+    "hrid": "gfi-system-specular-reverb-v2"
+}

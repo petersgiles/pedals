@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28695",
+    "name": "Delay Llama Plus Analog Delay",
+    "image": "images/jam-pedals-delay-llama-plus-analog-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 145,
+    "height": 120,
+    "details": "Analog Delay Pedal",
+    "hrid": "jam-pedals-delay-llama-plus-analog-delay"
+}

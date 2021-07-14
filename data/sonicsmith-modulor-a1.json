@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16962",
+    "name": "Modulor A1",
+    "image": "images/sonicsmith-modulor-a1.jpg",
+    "function": [
+        "Synth Voice",
+        "Tremolo"
+    ],
+    "manufacturer": "Sonicsmith",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$255 Price in €",
+    "width": 100,
+    "height": 90,
+    "details": "Semi-Modular Analog SynthesizerOur newest synth is not audio controlled but can come as a perfect accompaniment to them.\nIn fact The Modulor A1 will enhance any existing analog synth rig, allowing them to enrich their sound beyond belief. The Modulor A1 contains a VCO, LFO (each sync-able), two VCAs (one dedicated to the VCO and the other to the LFO), and numerous patching options. Both VCO and LFO can be square or triangle waves and a switch sends LFO to modulate VCO frequency for some vibrato (at lower LFO rates) or FM (at LFO rates up to 200Hz) effects.\nThe Modulor A1 is here to dive deep into modular synthesis in the 9V pedal environment. This Voltage Controlled Synthesizer has two audio outputs. One at regular line level (+4dBu) via big jack, and the other is a mini jack on the top panel (9V). This can be fed into a modular synthesizer environments if one wants to use the VCO voice through his Eurorack inputs for example. Another use for this mini jack oscillator is a ring modulation source on the Squaver P1 or any other CV input for that matter. You will get surprised of the results every time you patch it to a different CV destination. As a stand-alone synth the Modulor A1 has quite a bit of power as well. Allowing you to make all kinds of effects and melodies without even a single patch cable. Of course when you consider a few mini-jack to mini-jacks cables the possibilities are more exiting and you'r doomed to fall into an endless pool of tweaking. Either as a companion to our Audio Controlled Synths or along with your own modular synths, this handy 9 X 10 cm synth is a tiny version of a modular synth. The VCO pitch input is 1V/octave and has a 9V minijack output on the front. The other VCO output is a big jack on the back at line level unbalanced+4 dBu. VCO sync input will reset the wave's position to zero every time a threshold of 0V is crossed. The LFO sync input threshold is 3.0v for compatibility with most gate signals. Two knobs for pitch offset 20Hz-20kHz and the other knob is -4-+4 semitones.\nhttps://sonicsmith.com/products/modulor-a1/",
+    "hrid": "sonicsmith-modulor-a1"
+}

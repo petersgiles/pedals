@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12395",
+    "name": "Pedal Switcher",
+    "image": "images/voodoo-lab-pedal-switcher.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 300,
+    "height": 76,
+    "details": "Get the effects you want without trashing your tone!On a traditional pedalboard, even when the effects are off, your signal still goes through numerous tone-trashing buffers, solid-state switches and patch cables. Pedal Switcher™ uses 4 true bypass loops to send your signal only to the pedals you’re using. Built with the finest gold relays sealed in nitrogen, your tone will stay pure and dynamic no matter what kind or how many pedals you use.\nWith Pedal Switcher™, you can use all those great classic and modern stompboxes without destroying that pure “straight to amp” sound. Now you have the freedom to use any pedals you want, and never have to worry that the buffer in your overdrive is killing your vintage fuzz!\nPedal Switcher™ features 4 instant access switches, buffered and non-buffered inputs, and a TRS insert for putting devices like a volume pedal between effects. Loops can also be used as a mute for silent tuning onstage, and A/B amp switching. Add a Commander and you can control an unlimited number of Pedal Switcher units allowing you to store combinations of pedals.",
+    "hrid": "voodoo-lab-pedal-switcher"
+}

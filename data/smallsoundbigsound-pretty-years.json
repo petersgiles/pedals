@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13205",
+    "name": "Pretty Years",
+    "image": "images/smallsoundbigsound-pretty-years.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion",
+        "Equalizer",
+        "Filter",
+        "Phase Shifter",
+        "Wah",
+        "Tube"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$700 Price in €",
+    "width": 125,
+    "height": 150,
+    "details": "Advanced Versatile Filtered Fuzz/DistortionPretty Years is a high-gain subminiature tube based distortion/fuzz with an interstage resonant lowpass filter to not only filter frequencies, but also shape the texture of the distortion. Combining switchable pentode/triode mode, low-voltage biasing, switchable feedback and active bass/treble controls – most drive textures from subtle to complete destruction are available. Voltage control over the filter frequency allows for dramatic filter sweeps with expression pedals and total weirdness with modular setups, making Pretty Years a perfect fit for not only guitars, but all other instruments as well.\nhttp://www.smallsoundbigsound.com/products/pretty-years/",
+    "hrid": "smallsoundbigsound-pretty-years"
+}

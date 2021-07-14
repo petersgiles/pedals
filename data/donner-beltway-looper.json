@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31253",
+    "name": "Beltway Looper",
+    "image": "images/donner-beltway-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Donner",
+    "current": "123 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 64,
+    "height": 132,
+    "details": "Guitar Looper Effect Pedal10 Minutes Looping Unlimited Overdubs with USB Cable\n【 3 playback modes 】Compact, intuitive looper with 3 playback modes\n【24-bit Recording And Playback】The Beltway looper offers you 24-bit high quality recording/playback and 32- bit signal processing that give you a pure lossless sound.\n【USB Jack】Use a USB cable to connect your Beltway looper to your computer to import/export loop phrases.\n【Undo/Redo And Overdubs 】The Beltway looper supports unlimited overdubs. You can undo/redo your last recording by holding the footswitch after overdubbing. Max. recording time: 10 minutes\n【Carefully Selected Components 】The Beltway looper is designed and built with carefully selected components to ensure best sound quality and road performance. The solid Aluminum-alloy chassis ensures touring reliability. DC 9V Adapter power supply. (plug polarity is positive on the barrel and negative in the center).\nhttps://www.donnerdeal.com/products/pre-sale-new-donner-beltway-looper-guitar-effect-pedal",
+    "hrid": "donner-beltway-looper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22445",
+    "name": "G2",
+    "image": "images/zoom-g2.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 156,
+    "height": 162,
+    "details": "",
+    "hrid": "zoom-g2"
+}

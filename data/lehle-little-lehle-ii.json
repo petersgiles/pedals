@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16707",
+    "name": "LITTLE LEHLE II",
+    "image": "images/lehle-little-lehle-ii.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 90,
+    "height": 92,
+    "details": "The Little Lehle II - the universal Lehle switching and looping tool. \nThe Little Lehle II removes effect pedals from the signal path at the press of its button. A signal can be picked off at any point in the signal chain, to switch to an instrument tuner, for example.\nThe Little Lehle II can also be used to switch between two instruments on one amp or, vice versa, between two amps with one instrument. Extremely diverse sound sources are possible - signals from pick-ups, microphones and keyboard line-out sockets are routed loss-free to the target amplifier or recorders, and all jack sockets are stereo. Switches with gold-plated contacts assure True Bypass. As on this unit's \"big brother\", the Lehle D.Loop SGoS, not only the stereo signal, but also the signal ground, is switched - so it's goodbye to hum when switching between two amps, and selecting effect loops - it just can't happen any more! \nThe easy-action mushroom-shaped button characteristic of Lehle products is mounted in the cover, so that your foot pressure is transmitted indirectly, via only a spring, to the slide switch with its gold-plated contacts. The electronics board is thus not exposed to mechanical loads, making the Little Lehle II virtually indestructible and guaranteeing years of trouble-free switching.\nSuccessor: LITTLE LEHLE III\nhttps://lehle.com/EN/Little-Lehle-III\nhttps://lehle.com/EN/Little-Lehle-II",
+    "hrid": "lehle-little-lehle-ii"
+}

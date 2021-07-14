@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16319",
+    "name": "CAE MC-401",
+    "image": "images/mxr-cae-mc-401.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Boost Line DriverThe Boost/Line Driver is simple in design but superbly effective in solving a variety of mismatched line level and signal conditioning problems that can occur when combining effects. The MC401's circuit design has been used for years by CAE in the world's best guitarist's rigs to remedy these problems and rejuvenate the sparkle, punch and brilliance that can be lost. It can also be used as an ultra-clean boost (up to +20dB) for solos or to drive effects for more dynamics and sensitivity.\nhttps://www.jimdunlop.com/product/mc401-7-10137-03194-4.do",
+    "hrid": "mxr-cae-mc-401"
+}

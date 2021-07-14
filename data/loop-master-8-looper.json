@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12178",
+    "name": "8 Looper",
+    "image": "images/loop-master-8-looper.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Loop-Master",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$185 Price in €",
+    "width": 508,
+    "height": 56,
+    "details": "8 channel bypass looper\nhttp://www.loop-master.com/looper-p-48.html",
+    "hrid": "loop-master-8-looper"
+}

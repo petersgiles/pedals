@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14217",
+    "name": "Mic Mechanic 2",
+    "image": "images/tc-electronic-mic-mechanic-2.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$178 Price in €",
+    "width": 89,
+    "height": 137,
+    "details": "Vocal effects8 studio-grade Reverb and Echo presets\nIndependent Reverb (Room, Studio, and Hall) and Delay (Tap and Slap); may be combined\nMatch repeats to song tempo by tapping footswitch\nTone button activation of Adaptive EQ, Compression, De-essing, and Gating\nAutomatic Chromatic Pitch Correction\nConnects easily between standard mic and your mixer\nAlways-available phantom power\nLow-noise mic preamp\nAutomatic input gain eliminates tedious manual gain setting\nSeparate style select and mix controls for Reverb and Echo\nRoad-tough all-metal construction\n9-volt operation accommodates typical pedalboard power supplies\nMic Control gives you remote on/off switching with the TC-Helicon MP-75 mic\nUSB port connects to VoiceSupport app for updates, product news, and more",
+    "hrid": "tc-electronic-mic-mechanic-2"
+}

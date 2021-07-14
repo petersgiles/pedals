@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16014",
+    "name": "Disnortion Micro",
+    "image": "images/pigtronix-disnortion-micro.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 44,
+    "height": 95,
+    "details": "",
+    "hrid": "pigtronix-disnortion-micro"
+}

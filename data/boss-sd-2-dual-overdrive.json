@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12882",
+    "name": "SD-2 Dual Overdrive",
+    "image": "images/boss-sd-2-dual-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "21 mA / 9 V / DC / Negative Center",
+    "cost": "$105 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The SD-2 contains two independent overdrive circuits providing two different modes of operation. The LEAD mode produces a thick, smooth sound while the CRUNCH mode produces a fat, crunchy sound. There’s also a LEAD/CRUNCH mode where you can alternate between the two modes each time you step on the pedal. The pedal uses concentric potentiometers for Level, Tone and Drive so it’s possible to keep completely separate settings each mode. When in CRUNCH mode, a latching foot switch can be connected to the remote input. This foot switch will then switch between LEAD and CRUNCH mode while the main pedal switch will turn the effect on or off.\nFeatures\nIndependent over drive circuits for LEAD and CRUNCH\nBoth overdrive circuits in the SD-2 are using LEDs as clipping diodes.\nTwo colour LED (Red for LEAD, green for CRUNCH) indicates operation mode\nConnection for optional footswitch like the FS-5L\nSpecifications\nControls: Level, Tone, Drive, 3-way Mode switch\nConnectors: Input, Remote, Output, AC Adaptor\nCurrent Draw: 21 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe SD-2 was sold from April 1993 to December 1998.\nhttp://bossarea.com/boss-sd-2-dual-overdrive/",
+    "hrid": "boss-sd-2-dual-overdrive"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13176",
+    "name": "Sentry Noise Gate",
+    "image": "images/tc-electronic-sentry-noise-gate.jpg",
+    "function": [
+        "Noise Gate",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Sentry Noise Gate is your gateway to a noise-free and fully dynamic performance. Sentry Noise Gate is your gateway to a noise-free and fully dynamic performance. Its cutting-edge multiband technology is set to cater to all of your hum and buzz-killing needs and with its highly intuitive design, you'll be dialing out that unwanted noise faster than an Yngwie Malmsteen arpeggio lick. Take control and enjoy the silence!\nhttp://www.tcelectronic.com/sentry-noise-gate/",
+    "hrid": "tc-electronic-sentry-noise-gate"
+}

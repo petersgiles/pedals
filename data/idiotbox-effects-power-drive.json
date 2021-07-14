@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29167",
+    "name": "Power Drive",
+    "image": "images/idiotbox-effects-power-drive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Boost / overdriveThe Power Drive is my new and improved take on my PowerBoost which was based around the old Colorsound Power Boost. Its a boost, its an overdrive, it is dirty, it is raw, it is loud and it is all POWER! I've added a charge pump to get it pretty close to the original 18v with a 9v supply and modified the EQs so you can get it nice and crispy with really solid low undertones without the typical compressed sound of other similar effects. This newer version also has a voltage control so you can run it anywhere from the full 17v for high head room full throttle overdrive or all the way down to 3v for that killer sputtery gated old school sound!!!\nIf you are looking for any cliche adjectives like \"transparent\" or \"clean\" this is not for you. If you want to sound like 10 dirty, raw amps on 11 then check this mother out and start playing with POWER!!!\nhttps://www.idiotboxeffects.com/product/power-drive",
+    "hrid": "idiotbox-effects-power-drive"
+}

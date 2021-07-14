@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12739",
+    "name": "TO800 Vintage Tube Overdrive",
+    "image": "images/behringer-to800-vintage-tube-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Overdrive with 4558 Op-Amps and MA150 DiodesGet vintage overdrive, smooth sustain and screaming fat tone\n    Perfect for guitar; great for bass and keyboards, too\n    Uses original 4558 IC plus MA150 distortion diodes for authentic vintage sound\n    Captures every nuance of your playing from smooth overdrive to screaming tube sounds\n    Dedicated Drive, Tone and Level controls for awesome sound shaping\n    Status LED for effect on/off and battery check\n    Runs on 9V battery or the BEHRINGER PSU-SB DC power supply (not included)\n    Rugged electronic On/Off switch for noise-free operation",
+    "hrid": "behringer-to800-vintage-tube-overdrive"
+}

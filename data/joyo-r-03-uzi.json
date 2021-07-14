@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27544",
+    "name": "R-03 UZI",
+    "image": "images/joyo-r-03-uzi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$49 Price in €",
+    "width": 67,
+    "height": 109,
+    "details": "Distortion PedalR-03 Uzi Distortion – Taking it to the next level, The UZI is versatile machine introducing some classic British overdriven amp tones. Why do we call it the UZI, it can unleash a powerful distortion that is enough to shatter a bus shelter. A killer drive distortion pedal !\nThe distortion effect pedal takes your guitar tone from a smooth overdriven break up to that intense edge of a sustained classic metal distortion. From subtle crunch to fat and saturated lead sound, the Uzi is a distortion pedal with great sonic flexibility and will represent a classic overdriven amp through to a very responsive aggressive grungey distortion with ease. The ability to adjust the EQ on the pedal arms you with a small but powerful sonic weapon. Similar to the sounds of a JCM800 and 900 this pedal sounds hot ! Don't stand too close, when you hear this pedal shoot into action, your ears will get totally, fried man..\nAt your fingertips you can control Volume and Gain whilst tweaking the EQ with Low, Mid, High & Bias.\nThe R Series, or Revolution series from JOYO are the 4th generation of guitar effects and all feature some very cool ambient LED lighting. The lights can be toggled from a switch on the rear of the pedal..3 modes of lighting are available to adjust when they come on.\n'Sync' to the footswitch - The LED ambient lighting on the front and rear of the pedal with shine bright when the footswitch is pressed, also illuminating the LED effect indicator on the top of the pedal.\n'Always' - The lights are always on, but the pedal is only activated when you press the footswitch and the LED effect indicator comes on.\n'Off' - Okay, so Tron may not be your favourite and you want to stick to something a little less futuristic. The lights are off, the LED effect indicator comes on when you stomp on it and activate the pedal..\nThe pedal features controls for Volume / Gain, Low, Mid, High & Bias\nLED Effect indicator - On when the footswitch & pedal are active\nFootswitch\nDC input on the rear.\nDimensions : 109mm x 67mm x 48mm\nWeight : 248g\nInput Impedance :1M\nOutput Impedance : 200\nRated current : 20mA\nVoltage : 9v Centre Negative power supply\nhttps://www.joyoaudio.co.uk/joyo-uzi-diztortion-guitar-effect-pedal-revolution-r-series",
+    "hrid": "joyo-r-03-uzi"
+}

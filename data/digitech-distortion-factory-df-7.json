@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23644",
+    "name": "Distortion Factory DF-7",
+    "image": "images/digitech-distortion-factory-df-7.jpg",
+    "function": [
+        "Digital",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$67 Price in €",
+    "width": 76,
+    "height": 102,
+    "details": "Distotion ModellerThe DF-7 is a digital emulation of the z Pedals: Ibanez® TS-9 Tube Screamer®, EH® Big Muff™ pi,  Pro Co Rat™, Boss Metal Zone®, Boss DS-1, Digitech Metal Master and DOD® Overdrive/Preamp 250.\nhttps://digitech.com/en/products/df-7-distortion-factory",
+    "hrid": "digitech-distortion-factory-df-7"
+}

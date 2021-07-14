@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25565",
+    "name": "X7 Ultra",
+    "image": "images/darkglass-electronics-x7-ultra.jpg",
+    "function": [
+        "Bass",
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 130,
+    "height": 101,
+    "details": "Multiband bass distortionThe Microtubes X series brings the studio method producers have been using the years to cover the whole bass distortion spectrum: from articulate high gain to punchy mild overdrive, raw and gnarly fuzz and everything in between. You now have absolute control in constructing your vision of what the perfect bass distortion texture, definition, and size should have.\nhttps://www.darkglass.com/creations/microtubes-x7/",
+    "hrid": "darkglass-electronics-x7-ultra"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18980",
+    "name": "Pressure Tank Compressor",
+    "image": "images/caline-pressure-tank-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 63,
+    "height": 113,
+    "details": "Caline's Pressure Tank is a natural sounding compressor, that will do it all from chickin' pickin' squish to power chord and solo boosting and leveling. Compressors are the hidden gems of effects, a useful tool to clarify single note attack and even out chord stomps.\nLevel, EQ, Comp Controls\nTrue Bypass\nSuper Solid Metal Casing\nUses 9V Battery or Standard Boss Style Adapter (not included)\n\nhttps://www.amazon.com/Caline-Compressor-CP-47-Pressure-Aluminum/dp/B07DD7YF74",
+    "hrid": "caline-pressure-tank-compressor"
+}

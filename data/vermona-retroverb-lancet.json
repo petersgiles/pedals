@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21157",
+    "name": "Retroverb Lancet",
+    "image": "images/vermona-retroverb-lancet.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Vermona",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$548 Price in €",
+    "width": 260,
+    "height": 145,
+    "details": "The Vermona Retroverb Lancet is a compact, analog multi-effects processor including a varied range of high-quality effects. The Retroverb Lancet includes analog multimode filtering, distortion and VCA, all which can be modulated by the ultra-fast LFO. Als",
+    "hrid": "vermona-retroverb-lancet"
+}

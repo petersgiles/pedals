@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17979",
+    "name": "Vox V860 Volume Pedal",
+    "image": "images/vox-vox-v860-volume-pedal.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 90,
+    "height": 268,
+    "details": "V860 Volume PedalThe V860 represents a new standard in guitar volume pedals. It's a reimaging of the classic VOX pedal design exemplified by its well-known wah pedals. The stylish aluminum body features a blasted and anodized finish that is both tough and classy. The pedal mechanism uses gears with a high tooth count, ensuring durability and smooth operation. The components are completely hand-wired, minimizing any change in the tonal character.\nhttp://www.voxamps.com/V860",
+    "hrid": "vox-vox-v860-volume-pedal"
+}

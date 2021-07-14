@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22474",
+    "name": "Sovtek Deluxe Big Muff Pi",
+    "image": "images/electro-harmonix-sovtek-deluxe-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Basically Deluxe Big Muff but based more on the sovtek unitsThe new Sovtek Deluxe Big Muff Pi combines the Civil War and Green Russian Big Muff signature tones with the enhanced sound shaping control of the Deluxe Big Muff in a single, integrated pedal.\nEHX Founder, Mike Matthews, stated: “The Sovtek Deluxe Big Muff delivers the devastating low end, crisp highs and non-scooped mids players love in the Civil War and Tall Font Green Russian with the powerful sound shaping control of our Deluxe Big Muff.”\nThe Sovtek Deluxe Big Muff Pi provides:\n1. MIDS EQ – Parametric MIDS EQ section with a selectable center frequency ranging from 310Hz to 5.0kHz, a level control with up to 10dB of boost or cut and a high/low Q switch that sets the resonance/bandwidth of the EQ\n2. FOOTSWITCH for MIDS EQ – Dedicated on/off footswitch with status LED for the MIDS EQ circuit\n3. GATE – Noise gate to remove unwanted hiss and hum\n4. BLEND – Mix control for the dry and distorted signals. Enables bass players to retain their signal’s low end; also useful when layering in other distortion pedals\n5. WICKER– With the switch up, high frequency bandwidth is opened up for a more pronounced attack. Switch down yields the traditional Green Russian sound.\n6. EXPRESSION PEDAL INPUT – sweeps the frequency of the MIDS EQ to create wah wah and cocked wah effects\n7. TRUE BYPASS – maintains signal path integrity in bypass mode\nhttps://www.ehx.com/products/sovtek-deluxe-big-muff-pi",
+    "hrid": "electro-harmonix-sovtek-deluxe-big-muff-pi"
+}

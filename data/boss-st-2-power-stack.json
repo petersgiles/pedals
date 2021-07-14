@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12799",
+    "name": "ST-2 Power Stack",
+    "image": "images/boss-st-2-power-stack.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Boss",
+    "current": "41 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Original distortion sound reminiscent of tube-based stack amplifiers\nProvides a wide range of tones, from vintage crunch to ultra high-gain modern distortion\nFaithful and accurate response to picking nuances and volume changes\nSOUND knob controls both gain level and sound character\nTwo-band EQ with dedicated BASS and TREBLE knobs\nRoad-tough BOSS construction\nBOSS five-year warranty\nhttps://www.boss.info/us/products/st-2/",
+    "hrid": "boss-st-2-power-stack"
+}

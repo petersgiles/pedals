@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19289",
+    "name": "LD-3",
+    "image": "images/pete-cornish-ld-3.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Pete Cornish",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Buffer / Mute",
+    "hrid": "pete-cornish-ld-3"
+}

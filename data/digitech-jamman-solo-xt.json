@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11921",
+    "name": "JamMan Solo XT",
+    "image": "images/digitech-jamman-solo-xt.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo",
+        "Drum"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 70,
+    "height": 127,
+    "details": "Stereo Looping with JamSyncAfter inventing looping nearly three decades ago, DigiTech’s JamMan Solo XT brings you the definitive stereo looping experience. Build up the energy in your performance and find new inspiration with virtually limitless loops. Seamless transitions between looped phrases make the JamMan Solo XT an invaluable tool for composing and performing. Get the stereo looping experience you need from straight-forward backing loops to intricate loop layers by yourself or with your band. Perfect your performance with Auto-Record, Auto-Quantize, adjustable BPMs, and three different Stop modes. Use the powerful JamSync to link JamMan Solo XTs and create the ultimate multi-looping system. The JamMan Solo XT gives your musical performance a rich, full sound while staying true to the sound you compose. Get your JamMan Solo XT today and tear down your musical limitations.\nhttp://digitech.com/en/products/jamman-solo-xt",
+    "hrid": "digitech-jamman-solo-xt"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22841",
+    "name": "Reptile 2",
+    "image": "images/t-rex-reptile-2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 100,
+    "height": 120,
+    "details": "Delay\nhttps://www.t-rex-effects.com/reptile2",
+    "hrid": "t-rex-reptile-2"
+}

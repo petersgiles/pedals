@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12996",
+    "name": "Remote",
+    "image": "images/kemper-remote.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Kemper",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$465 Price in €",
+    "width": 420,
+    "height": 180,
+    "details": "RemoteRemote",
+    "hrid": "kemper-remote"
+}

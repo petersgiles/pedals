@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32102",
+    "name": "Type One",
+    "image": "images/horrothia-type-one.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Horrothia",
+    "current": "85 mA / 12 V / DC / Negative Center",
+    "cost": "$289 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "The 1980s shimmering cool, now.The Type One is a stereo analogue chorus ensemble effect.  It is loosely modelled around the DNA of the true sultan of chorus, the Boss CE-1 from the mid-1970s.  Both use a very unique LFO waveform unlike any other chorus or vibrato pedal.  Like the CE-1, the sound quality is ethereal and encompassing, especially when listened to in stereo.  It also does that John Frusciante thing.\nThe Type One has been finely tuned to give maximum clean headroom, so even a strummed bass, a synth, or a humbuckered guitar won't hit the stops.  Likewise, if you are a low frequency warrior, the Type One won’t rob you of Lo Hz.  The Type One features a very low quiescent noise floor, so it is as equally at home in a studio as in front of a cranked amp on a festival stage. \nThe stereo output sockets can be used to drive two amplifiers (dry and wet) to get true \"mid-air\" chorusing, or just Mono can be used for a single amp.  In addition, the high quality military grade footswitch can be set to be either latching or momentary.\nhttps://www.horrothia.com/type-one",
+    "hrid": "horrothia-type-one"
+}

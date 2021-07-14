@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12431",
+    "name": "Tentacle",
+    "image": "images/earthquaker-devices-tentacle.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Octave UpThe Tentacle is a classic analog octave up effect. It is the very same octave from our beloved Hoof Reaper pedal. We got so many requests to make this a stand-alone unit that we just had to make it a reality. You can now add an excellent, swelling octave up to anything your heart desires! Pair it with your favorite fuzz, strap on a headband and unleash your inner Jammy Hendrix. Put it in front of another octave up and blow your amps mind. Throw it in the effects loop of a delay and marvel at what happens (then tell us, we’d like to know too). What’s better? It has no controls! Nothing to worry about at all here, just hit the switch and go for it. The Tentacle is an analog octave up, the effect will become much more pronounced when using your neck pickup and playing above the 12th fret.\nhttps://www.earthquakerdevices.com/tentacle",
+    "hrid": "earthquaker-devices-tentacle"
+}

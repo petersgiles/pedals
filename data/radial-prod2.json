@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14316",
+    "name": "ProD2",
+    "image": "images/radial-prod2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 84,
+    "height": 127,
+    "details": "ProD2 Stereo Direct Box\nStereo direct box designed for keyboards\nSmooth, warm sound rounds out digital edge\nAble to handle huge transients without choking\nMay be rack mounted for touring rigs\n\nThe Radial ProD2 is a compact stereo direct box developed specifically to address the needs and challenges of interfacing a stereo keyboard to a professional audio system. This passive DI features two independent channels with separate inputs and thru-puts for the artist's stage amp and two fully isolated outputs for the PA system.\nAt the heart of the design are two high performance Eclipse ET-DB2 transformers. These deliver 20Hz to 20kHz performance with less than 1.5dB deviation above 18kHz and are able to withstand tremendous signal levels without distortion. Unlike active circuits that overload when the signal exceeds the rail voltage, transformers saturate. This creates a pleasing effect that naturally rounds out the tone, acting like a subtle limiter which is particularly advantageous when interfacing the ProD2 with digital pianos, samplers and drum machines that can produce excessive dynamics. Transformers are particularly adept at eliminating hum and buzz caused by ground loops.\nAs with all Radial products, the ProD2 is built tough to handle the rigors of professional touring. A 14-gauge steel ultra rigid i-beam skeleton frame eliminates opportunity from outside stress to flex the sensitive PC board and cause premature solder joint failure. The innovative book-end design creates a protective zone around the connectors and switches further increasing lifespan. And a full bottom no-slip pad adds mechanical isolation and electrical insulation to further reduce opportunity for noise.\nThe Radial ProD2's warm sound, legendary build quality and compact design have made it the most popular stereo direct box made today.\nhttp://www.radialeng.com/prod2.php",
+    "hrid": "radial-prod2"
+}

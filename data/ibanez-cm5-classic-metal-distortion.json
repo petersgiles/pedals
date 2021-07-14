@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30334",
+    "name": "CM5 Classic Metal Distortion",
+    "image": "images/ibanez-cm5-classic-metal-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$59 Price in €",
+    "width": 76,
+    "height": 128,
+    "details": "Classic Distortion Sound from the Ibanez Soundtank SeriesIbanez Distortion Pedal that is to drive a Clean Channel of an Amp from slight overtdrive to heavy saturation. Originally produced from 1989-1990. Image is from the Plastic Case reiussue (1991-1998)",
+    "hrid": "ibanez-cm5-classic-metal-distortion"
+}

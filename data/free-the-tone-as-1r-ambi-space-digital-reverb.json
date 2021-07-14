@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13206",
+    "name": "AS-1R Ambi Space Digital Reverb",
+    "image": "images/free-the-tone-as-1r-ambi-space-digital-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$380 Price in €",
+    "width": 120,
+    "height": 102,
+    "details": "Digital ReverbDigital Reverb pedal\nhttp://www.freethetone.com/en/products/effects/as1r.html",
+    "hrid": "free-the-tone-as-1r-ambi-space-digital-reverb"
+}

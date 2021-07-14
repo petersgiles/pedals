@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12271",
+    "name": "Bogner Burnley",
+    "image": "images/rupert-neve-designs-bogner-burnley.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rupert Neve Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "DistortionThe Burnley is a distortion pedal with a 100% analog circuit which delivers hot crunch to high-gain annihilation - with added tonal magnitude - thanks to a custom transformer designed by legendary audio pioneer Mr Rupert Neve. Flip the Fat/Tight switch, twist the gain, tone and level controls and transform your mortal guitar tone into fire-breathing pandemonium.\nFeatures:\nTrue bypass\nControls: level, gain and tone\nF/T Switch: selects between tight and aggressive or fat and mellow tones\nInteractive Jewel light reacts to your playing dynamics\nRupert Neve Designs audio transformer\nJacks: input, output\n9VDC power-connector, 50mA or more\nOptional Studio Series:\nBubinga exotic hardwood top panel\nHand formed, - sanded, - layered and - finished\nLook and feel of the vintage mixing consoles from the 60's",
+    "hrid": "rupert-neve-designs-bogner-burnley"
+}

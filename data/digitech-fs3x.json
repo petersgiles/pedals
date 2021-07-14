@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11829",
+    "name": "FS3X",
+    "image": "images/digitech-fs3x.jpg",
+    "function": [
+        "Switch",
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 152,
+    "height": 76,
+    "details": "3-Button Footswitch\nhttp://digitech.com/en-US/products/fs3x-3-button-footswitch",
+    "hrid": "digitech-fs3x"
+}

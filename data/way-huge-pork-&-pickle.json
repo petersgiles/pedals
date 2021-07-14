@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19723",
+    "name": "Pork & Pickle",
+    "image": "images/way-huge-pork-&-pickle.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 81,
+    "height": 121,
+    "details": "Bass Fuzz/OverdriveCombination of the Russian Pickle fuzz and Pork Loin overdrive, voiced specifically for bass.\nhttp://wayhuge.com/",
+    "hrid": "way-huge-pork-&-pickle"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12390",
+    "name": "Pure Boost",
+    "image": "images/mooer-pure-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Mooer",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$52 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "The Mooer Pure Boost performs it's task with flying colors offering up 20dB+ of clean boost with ±15dB 2 band EQ. It even makes your tone not only louder but fuller and a bit more well rounded. Its full metal casing makes it durable and road ready, and like most great effects pedals it has true bypass.\n20dB+ clean boost with ±15dB 2 band EQ\nNice embellishing of original tone\nFull metal shell\nPedalboard friendly\nTrue bypass\n\nInput: 1/4\" monaural jack (impedance: 1M Ohms)\nOutput: 1/4\" monaural jack (impedance: 10k Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: 6 mA\nDimensions: 1.6535\" (W) x 2.0472\" (H) x 3.6811\" (D)\nWeight: 0.36lb",
+    "hrid": "mooer-pure-boost"
+}

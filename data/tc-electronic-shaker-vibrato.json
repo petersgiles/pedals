@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18258",
+    "name": "Shaker Vibrato",
+    "image": "images/tc-electronic-shaker-vibrato.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "VibratoOutstanding vibrato pedal offers you exceptionally musical tone enhancement with 2 types of vibrato\nAdd classic true pitch vibrato to your tone or use the press-and-hold latch mode to easily apply vibrato precisely where you need it\nSimple 4-knob controls, including a rise-time dial, let you quickly dial-in a wide range of precise effects to expand your creativity\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized vibrato effects from scratch with free TonePrint Editor for PC, Mac* and iPad*\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nOptional buffered bypass mode prevents high frequency loss from long cable runs\nKill-Dry feature removes the dry signal path for use with parallel effects loops\nEasy one-screw battery compartment access\nCompact format fits on any pedal board\nHigh-quality components to give you musical, tone-defining richness in a pedal format\nSturdy die-cast metal case designed for life on the road\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/SHAKER-VIBRATO/p/P0CL4",
+    "hrid": "tc-electronic-shaker-vibrato"
+}

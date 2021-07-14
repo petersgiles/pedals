@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11681",
+    "name": "Helix Phaser",
+    "image": "images/tc-electronic-helix-phaser.jpg",
+    "function": [
+        "Phase Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$144 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Versatile Phaser Pedal with Built-In TonePrint Technology•    Amazing range of high-quality phaser tones\n    •    TonePrint enabled\n    •    True Bypass\nhttps://www.tcelectronic.com/product.html?modelCode=P0DDF",
+    "hrid": "tc-electronic-helix-phaser"
+}

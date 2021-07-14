@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19231",
+    "name": "Toneworks G4",
+    "image": "images/korg-toneworks-g4.jpg",
+    "function": [
+        "Distortion",
+        "Rotary"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 276,
+    "height": 207,
+    "details": "Rotary Speaker Simulator",
+    "hrid": "korg-toneworks-g4"
+}

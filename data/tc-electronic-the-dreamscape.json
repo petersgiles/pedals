@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11674",
+    "name": "The Dreamscape",
+    "image": "images/tc-electronic-the-dreamscape.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$184 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "John Petrucci Signature Modulation Pedal with Multiple Modulation Types, Voicing Switch and Built-In TonePrintsJohn was one of the first rock stars to join our TonePrint program and his sounds proved so popular we decided to cooperate intensely and capture his interpretations of classic TC effects. We joined forces, and the result is what happens when you set John free on the effects that inspire him.\n•    Six Signature Tones Designed by John Petrucci\n    •    Chorus, flanger and vibrato in one pedal\n    •    Custom voicing switch perfectly tuned to John’s custom ‘dark’ chorus sounds\nhttps://www.tcelectronic.com/product.html?modelCode=P0DDR",
+    "hrid": "tc-electronic-the-dreamscape"
+}

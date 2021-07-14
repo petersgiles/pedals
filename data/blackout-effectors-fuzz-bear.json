@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18819",
+    "name": "FUZZ BEAR",
+    "image": "images/blackout-effectors-fuzz-bear.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Blackout Effectors' take on a Tone Bender MkII.Limited edition, ProGuitarShop.com exclusive.\nPrecursor to Blackout Effectors' FUBÄR (FUzzBeÄR) FUZZ.\n\nBlackout Effectors\nFUZZ BEAR\nQuick Start Guide\nA brand fuzzin'new ProGuitarShop.com exclusive for the 2014 holiday season. \nFrom Tonebender to mindsplitter, the Blackout Effectors FUZZ BEAR was purposefully bred to eat your guitar, run off into the night and then live out a long life evading capture or description. Instead of trying to extrapolate on its origins, its ambitions, desires, peculiarities, we'll just lay out the facts as we know them:\nRANGE | Top left. The RANGE control is a tonal filter, pre-gain setter, oscillation tuner, plus more. Fully left allows a full, loud, fat range of signal to pass through the fuzz circuit. This will also tend to be the louder, fuzzier end of the spectrum as more signal is slamming into the fuzz transistor array. The 10-2 o'clock area of the RANGE will provide mellower, more traditional fuzz with lots of tonal variety. Fully right will be thin, bright and plain nasty. For noisemaker/synth settings the RANGE knob will also be one way of tuning the oscillation to pitch or sweeping through pitches quickly for effect.\nBIAS | Top middle. The BIAS control is a fine-tune voltage adjustment for the fuzz transistor array only. In traditional fuzz settings use it to adjust the grain/fuzz/decay tones to taste. In more severe settings the BIAS will also be your gate control to set the point of oscillation or to back off from that point.\nSAG | Top right. The SAG controls the total amount of voltage that hits the circuit. Fully left is 9v (un-sagged). As you roll the control up you begin to drop the voltage in small increments, which causes further fuzz saturation; then quickly into oscillation, octave effects and other weird stuff. Highly interactive with the BIAS and RANGE controls. The SAG helps turn the FUZZ BEAR into a standalone noisemaker/synthy oscillator - even without a guitar plugged in!\nFUZZ | Bottom left. While mostly self-explanatory, the FUZZ control's variability will depend greatly on the setting you're utilizing on the FUZZ BEAR, plus your guitar/pickups and whether you have your guitar volume rolled off at all. The circuit is sensitive to input load levels and the amount of fuzz you're getting will vary with those levels. We recommend experimenting with this.\nLEVEL | Bottom right. The FUZZ BEAR is loud! When first starting out we recommend keeping the LEVEL set fairly low while experimenting with new settings and possibilities. When you feel more confident, crank it! \nOTHER TECHNICAL DETAILS | See below:\nPower: 9v DC power supply (50mA or more of current); not included.\nInput (right) / Output (left): Standard 1/4 \" mono (guitar) cable.\nhttps://tonereport.com/reviews/blackout-effectors-fuzz-bear",
+    "hrid": "blackout-effectors-fuzz-bear"
+}

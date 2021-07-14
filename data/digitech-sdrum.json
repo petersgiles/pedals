@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14852",
+    "name": "SDrum",
+    "image": "images/digitech-sdrum.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 76,
+    "height": 133,
+    "details": "Strummable DrumsSDRUM is the world’s first intelligent drum machine for guitarists and bassists. By simply scratching across your guitar strings, you teach the SDRUM a kick and snare pattern that forms the foundation of the beat you want to hear. Based on this pattern, the SDRUM supplies a professional sounding drum beat with different embellishments and variations to perfectly complement your beat. Gone are the days of having your creative flow disrupted by searching through lists in a frustrating attempt to find the beat you want.\nThe SDRUM stores up to 36 different songs. Beats are played from a choice of 5 different kits covering a wide range of genres. The pedal also supports three different parts (e.g. verse/chorus/bridge) for each song that can be switched on the fly for enhancing live performances and exploring song ideas.\nSDRUM is the fastest way to go from a beat idea to a working drum track.\nBeatScratch™ Technology creates drum patterns by strumming your strings\n5 kits and studio quality samples for professional sounding drums\n36 song memories\nVerse/Chorus/Bridge parts\n12 different hats/rides styles\nAlternate instruments/voicings\nDedicated Amp and stereo Mixer outputs\nKick/Snare pads for tapping in a beat\nExternal FS3X support\nJamSync™ connectivity for interfacing with JamMan loopers\n\nhttps://digitech.com/en/products/sdrum",
+    "hrid": "digitech-sdrum"
+}

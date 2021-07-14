@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13044",
+    "name": "PLUS Pedal",
+    "image": "images/gamechanger-audio-plus-pedal.jpg",
+    "function": [
+        "Sampling"
+    ],
+    "manufacturer": "Gamechanger Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 90,
+    "height": 195,
+    "details": "SustainPLUS Pedal is a music effects unit that generates sustain for notes, chords and other sounds played on the instrument.\nThe PLUS works based on a new method of digital sound processing we call Real Time Audio Sampling and looping (patent pending). Instead of creating tones using an oscillator and filter based synth engine, RTS (Real Time Sampling) works by creating a smooth, circular loop out of a source signal that is recorded as you go. Think of it as a Smart Looper that only catches the last half of a chord or note and then uses that short audio snippet to create a continuous tone.\nDespite being a Digital product, based on a software engine, The PLUS Pedal is easy to operate and is\nready to play right out of the box with no technical setup or installation necessary.\nhttps://www.pluspedal.com/",
+    "hrid": "gamechanger-audio-plus-pedal"
+}

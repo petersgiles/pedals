@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11823",
+    "name": "LM-7",
+    "image": "images/ibanez-lm-7.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 124,
+    "details": "LA Metal\nhttp://www.effectsdatabase.com/model/ibanez/10/lm7",
+    "hrid": "ibanez-lm-7"
+}

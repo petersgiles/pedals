@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12945",
+    "name": "Pitchgrinder",
+    "image": "images/dwarfcraft-devices-pitchgrinder.jpg",
+    "function": [
+        "Digital Glitch",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "",
+    "width": 187,
+    "height": 119,
+    "details": "",
+    "hrid": "dwarfcraft-devices-pitchgrinder"
+}

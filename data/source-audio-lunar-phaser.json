@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19674",
+    "name": "Lunar Phaser",
+    "image": "images/source-audio-lunar-phaser.jpg",
+    "function": [
+        "Phase Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "3 Flavors of Phase Modulation3 Presets — use Preset Mode to save a different preset to each of the three toggle switch positions. When the pedal is engaged, all of the parameters instantly jump to their saved value, regardless of the knob positions.\nStereo Input and Output Jacks - Create deep and wide stereo modulation or engage one of the Lunar’s many Signal Routing options (see Neuro App Features for details).\nUniversal Bypass — Select either analog buffered or relay based true bypass.\nExpression Control — Compatible with Source Audio expression pedals and the Hot Hand 3 Universal Wireless Effects Controller.\nTap Tempo — Sync your phase modulation rate to the rest of the band with Source Audio’s External Tap Tempo switch. Set beat divisions (quarter, eighth, triplet, and 16th) with the Speed knob.",
+    "hrid": "source-audio-lunar-phaser"
+}

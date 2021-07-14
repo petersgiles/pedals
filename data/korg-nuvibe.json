@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20872",
+    "name": "nuvibe",
+    "image": "images/korg-nuvibe.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Phase Shifter",
+        "Tremolo",
+        "Wah"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$549 Price in €",
+    "width": 260,
+    "height": 170,
+    "details": "Vibrato ChorusAs on the original model, it provides a switch for selecting either vibrato or chorus, and INTENSITY and SPEED knobs for producing that distinctive effect. The buffer circuit that has such an important impact on the sonic character has been also been newly redesigned by the original designer for the 21st century. And a great bonus: a dedicated expression pedal is also included.\nhttps://www.korg.com/us/products/effects/nuvibe/",
+    "hrid": "korg-nuvibe"
+}

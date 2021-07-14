@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17670",
+    "name": "Quantum leap",
+    "image": "images/diamond-quantum-leap.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 94,
+    "details": "",
+    "hrid": "diamond-quantum-leap"
+}

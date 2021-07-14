@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29638",
+    "name": "Calhoun v2",
+    "image": "images/jhs-calhoun-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Calhoun Mike Campbell Signature Overdrive/Fuzz V2100% discrete components sound and react just like your favorite old tube amp\n    Cleans up beautifully with a lighter touch and lower volumes from your guitar\n    Can be engaged independent of the pedal’s fuzz circuit\n    Tone-Bender-like fuzz recalls the best sounds of the British Invasion\n    Bias control goes from smooth fuzz to lo-fi, spitting tones that will cut through any mix\n    Adopts a thick and focused lead tone when stacked with the overdrive circuit\nhttps://www.google.com/search?q=Calhoun+v2&oq=Calhoun+v2&aqs=chrome..69i57j0l5.1739j0j1&sourceid=chrome&ie=UTF-8",
+    "hrid": "jhs-calhoun-v2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22453",
+    "name": "Terminal",
+    "image": "images/boredbrain-music-terminal.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Boredbrain Music",
+    "current": "Pedal is passive",
+    "cost": "$95 Price in €",
+    "width": 73,
+    "height": 112,
+    "details": "Half-Normal Patch BayThe Terminal adds routing flexibility to signal chains of guitar pedal effects, electronic instruments and other audio devices.\nEasily insert effects into primary signal paths\nCopy signals using half-normalled patch points\nRe-route signals to alternate destinations\nBalanced/stereo TRS connections",
+    "hrid": "boredbrain-music-terminal"
+}

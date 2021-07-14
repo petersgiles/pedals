@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11703",
+    "name": "Small Clone",
+    "image": "images/electro-harmonix-small-clone.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "12 mA / 9 V / DC",
+    "cost": "$106 Price in €",
+    "width": 86,
+    "height": 139,
+    "details": "Analog chorusThe classic chorus! Analog chorus pedal popularized by Kurt Cobain. The finest analog chorus sounds: from clear, rich and dimensional to warm pulsating warbles, can be intensified with the Depth Control. Simple tweaks generate exciting doubling effects. Chiming 12-string tone, or Leslie-like warbles.\nhttps://www.ehx.com/products/small-clone",
+    "hrid": "electro-harmonix-small-clone"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23313",
+    "name": "Lime Aid",
+    "image": "images/jhs-lime-aid.jpg",
+    "function": [
+        "Bass",
+        "Dynamics"
+    ],
+    "manufacturer": "JHS",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 66,
+    "height": 119,
+    "details": "Bass CompressorThe JHS Lime Aid Bass Compressor answers the call for a bass-centric compression pedal with features like a three-knob interface of volume, comp, and blend, compact design, and easy to read LED indicator. Based off of the immensely popular Pulp n' Peel circuit, this modified rendition's punchy low-end response and ability to run the clean signal independently of the compressed one make it a fan favorite among the four-string crowd. Great for song sections that need a little more hutzpah in the bass, the Lime Aid is also one of those pedals you may just never turn off.",
+    "hrid": "jhs-lime-aid"
+}

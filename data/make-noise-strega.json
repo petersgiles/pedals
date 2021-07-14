@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32218",
+    "name": "Strega",
+    "image": "images/make-noise-strega.jpg",
+    "function": [],
+    "manufacturer": "Make Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 229,
+    "height": 127,
+    "details": "",
+    "hrid": "make-noise-strega"
+}

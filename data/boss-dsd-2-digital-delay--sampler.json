@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12783",
+    "name": "DSD-2 Digital Delay / Sampler",
+    "image": "images/boss-dsd-2-digital-delay--sampler.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The DSD-2 is a combined Digital Delay and Sampler pedal. The Delay has two modes, S and L. In S mode it is variable between 50ms and 200ms. In L mode it is variable between 200ms and 800ms. The technology is similar to the DD-2 and they are in fact sharing the same internal chip. When used as a sampler, two modes are available: Play and Rec/Play. In the play mode, a recorded sample sound can be recalled whenever the pedal is depressed or when an external trigger is fed to the DSD-2. In the Rec/Play mode, a new sound can be recorded while a previously recorded sound is being replayed. Recording and replay is archived simultaneously while the pedal is depressed. The sampling time is limited to a maximum of 0.8 seconds.\nControls: E.Level, F.Back, Delay Time, 4-way Mode switch\nConnectors: Input, Trig. In, Output, AC Adaptor\nCurrent Draw: 55 mA (DC 9V)\nDelay Time: 50 to 200ms in S Mode, 200 to 800ms in L mode\nPCM System: 12-bit plus analog logarithm compression\nSampling mode:\nFrequency Response: Sample/Delay 40Hz to 7kHz (+1/-3 dB), Direct 10Hz to 60kHz (+1/-3 dB)\nRecommended AC Adaptor: PSA Series\nLabels\nBlue – Made In Japan\nThe DSD-2 was sold from April 1985 to August 1986.\nhttp://www.bossarea.com/boss-dsd-2-digital-sampler-delay/",
+    "hrid": "boss-dsd-2-digital-delay--sampler"
+}

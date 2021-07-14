@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25711",
+    "name": "Muff Overdrive",
+    "image": "images/electro-harmonix-muff-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "7 mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Nano Muff OverdriveReissue of the original 1969 Muff Fuzz.\nhttps://www.ehx.com/products/muff-overdrive",
+    "hrid": "electro-harmonix-muff-overdrive"
+}

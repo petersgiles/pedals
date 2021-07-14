@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25843",
+    "name": "Manx Loaghtan",
+    "image": "images/catalinbread-manx-loaghtan.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$133 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Sustaining fuzzbox with heavy low end and a ripping high endThe Catalinbread Manx Loagtan is a boutique take on the venerable Big Muff, taking the classic singing sustain and responsive saturation to new heights with more flexible tone controls. The biggest upgrade is the introduction of the legendary Baxandall tone circuit in place of the typical Big Muff tone control. With a few tweaks of the Bass or Treble knobs you can boost the highs, cut the bass, scoop the mids or anything in between. Combining classic Big Muff fuzz tone with increased tonal flexibility, the Manx Loagtan is a perfect pick for classic rock, metal or psychedelic tones. \nhttps://www.catalinbread.com/manuals/manx.pdf",
+    "hrid": "catalinbread-manx-loaghtan"
+}

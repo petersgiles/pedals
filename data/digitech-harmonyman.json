@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22300",
+    "name": "HarmonyMan",
+    "image": "images/digitech-harmonyman.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 170,
+    "height": 142,
+    "details": "Multi-Part Guitar Harmony with musIQHarmonyMan™ is the world's first guitar pedal that generates harmonies based on your chord progression. It features four different types of pitch shifting depending on which of the undefined different voices are selected. Combine up to two distinct voices in any combination to accompany the input signal: a 3rd or 5th above or below, an octave up, two octaves below, 24 semitones and 4 detune variations. Simply play the songs you know and love, and when the spotlight cues your solo, hit the harmony footswitch to get amazing multi-part guitar harmonies!\nFollowing up on the success and rave reviews of our newly released Vocalist® products, we decided to make a pedal with the same cool features but specifically designed for the guitarist. With our exclusive musIQ™ technology we were able to combine the lightning-fast natural sounding harmony generation made famous by the Vocalist pedals, and fuse it with the demands of professional guitarists everywhere.\nhttps://digitech.com/en/products/harmonyman",
+    "hrid": "digitech-harmonyman"
+}

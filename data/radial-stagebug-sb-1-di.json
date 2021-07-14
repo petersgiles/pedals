@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13506",
+    "name": "StageBug SB-1 DI",
+    "image": "images/radial-stagebug-sb-1-di.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 47,
+    "height": 114,
+    "details": "Active DI\nhttp://www.radialeng.com/stagebug.php",
+    "hrid": "radial-stagebug-sb-1-di"
+}

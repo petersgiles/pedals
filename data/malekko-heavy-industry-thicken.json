@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24738",
+    "name": "THICKEN",
+    "image": "images/malekko-heavy-industry-thicken.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 57,
+    "height": 140,
+    "details": "MULTI-TAP DELAY / CHORUSTHICKEN has 2 selectable multi-tap delay modes and separate chorus, for three delay lines total. Spread determines the delay times, and increasing the spread exponentially widens the delay times. The addition of Preamp control results in mind-blowing, thicker sound that any serious player needs.\nhttps://malekkoheavyindustry.com/product/thicken/",
+    "hrid": "malekko-heavy-industry-thicken"
+}

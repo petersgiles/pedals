@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19367",
+    "name": "High-Wire Dual Buffer",
+    "image": "images/mesa-engineering-high-wire-dual-buffer.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Dual Buffer",
+    "hrid": "mesa-engineering-high-wire-dual-buffer"
+}

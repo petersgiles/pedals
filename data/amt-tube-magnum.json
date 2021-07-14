@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13787",
+    "name": "Tube Magnum",
+    "image": "images/amt-tube-magnum.jpg",
+    "function": [
+        "Distortion",
+        "Tube",
+        "PreAmp"
+    ],
+    "manufacturer": "AMT",
+    "current": "420 mA / 9 V / AC / Negative Center",
+    "cost": "",
+    "width": 90,
+    "height": 112,
+    "details": "DistortionTechnical Information:\nSize: 112mm (4.4\") x 72mm (2.8\") x90mm (3.5\")\nWeight: 420g (14.8 oz)\nMin. level: -40dB\nNominal: -26dB\nMax. level: +17dB\nResistance: 1 kOm\nMax. level: +12dB\nCurrent of the consumption: 420 mA with 9V\nLEVEL: loudness of distortion.\nLOW: regulates the level of low-frequency components.\nHIGH: regulates the level of high-frequency components.\nDRIVE: regulates the level of tube overloading.\nPower: DC 9V PSA (-) center Adapter Included\nhttp://amtelectronicsusa.com/productpagetubeplatinum.html",
+    "hrid": "amt-tube-magnum"
+}

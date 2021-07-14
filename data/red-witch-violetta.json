@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27208",
+    "name": "Violetta",
+    "image": "images/red-witch-violetta.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Red Witch",
+    "current": "110 mA / 9 V / DC / Negative Center",
+    "cost": "$110 Price in €",
+    "width": 30,
+    "height": 91,
+    "details": "Teeny Tiny DelayOur Violetta Delay offers a myriad of stunning features: 1,000millisecond of delay time – from the hip shaking slap back rockabilly passion of Scotty Moore to the breath taking delay drenched sonic landscapes of Floydian post rock ambience.\nDial in a single repeat or select infinite repeats and disappear into a wonderland of self-oscillation runaway.\nUtilize the expression pedal output to control the repeats with your foot (use the Moog EP-3 exp pedal).\nDial in every extreme of modulation – from the shimmering beauty of a gentle lilting mod through to the pitch shifting echoplexian wow and flutter of an old tape echo.\nThe Violetta Delay has been voiced in the same manner as the great tape echos – the repeats roll the top end off as they decay. Increasing the delay length will add some analog fur to the sound (like the original BBD analog delays).\nUtilising the same innovative power technology as our Seven Sisters range, the Violetta Delay can operate from either a 9volt wall wart supply like any other DC power pedal – or she can operate from the internal lithium Ion battery – she’ll charge anytime she’s connected to your standard wall wart supply. Finished in our classic original chrome.\nRevel in the Glory!\nhttp://www.redwitchpedals.com/violetta",
+    "hrid": "red-witch-violetta"
+}

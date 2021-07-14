@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13197",
+    "name": "Vortex Mini Flanger",
+    "image": "images/tc-electronic-vortex-mini-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 80,
+    "height": 130,
+    "details": "FlangerIf we didn't know any better Vortex Mini Flanger could just as well be a time machine with all the diverse sounds it holds. You want a nice vintage vibed tape flange? It's there! You want a roaring 747 Jet-Flange, or maybe a nice modern hi-fi swirl? Yes, you guessed it, it's there! Due to our proprietary TonePrint technology, the sonic potential of this tiny beast is basically endless. So let your imagination run wild and go create flange awesomeness. \nUltra-compact flanger pedal with built-in TonePrint technology gives you massive flange sound diversity\nClassic tape mode effect offers the authentic psychedelic flange sound of the sixties\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized flange effects from scratch with free TonePrint Editor for PC, Mac* and iPad*\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when flange effect is engaged\nWorks flawlessly with guitar and FX loop signals\nExtra-small enclosure easily fits on any pedal board\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttp://www.tcelectronic.com/vortex-mini-flanger/",
+    "hrid": "tc-electronic-vortex-mini-flanger"
+}

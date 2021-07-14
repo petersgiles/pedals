@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12215",
+    "name": "HardWire CR-7",
+    "image": "images/digitech-hardwire-cr-7.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 89,
+    "height": 140,
+    "details": "Stereo Chorus\nhttp://digitech.com/en/products/cr-7",
+    "hrid": "digitech-hardwire-cr-7"
+}

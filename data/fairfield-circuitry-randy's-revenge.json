@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11739",
+    "name": "Randy's Revenge",
+    "image": "images/fairfield-circuitry-randy's-revenge.jpg",
+    "function": [
+        "Tremolo",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Fairfield Circuitry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 97,
+    "details": "Ring ModulatorAt its finest, in a considerably small package, powered by your typical 9V power supply, all analogue, hand stamped, pure sine wave oscillator, low-pass filtered with a touch of class and apparently musical. These are the requirements of warp speed space travel; a regular occurrence when dealing with Randy's hardware. \nThe lower oscillator frequencies create rich trem/vibe effects, excruciatingly slow or chopped up rhythmic flavours. As the frequency goes up, thick bells, tuned intervals, low-fidelity synth-like effects are only the beginning. Experimenting with the low-pass filter cutoff frequency and the dry/wet mix will yield tones as strange or subtle as desired. \nFeaturing expanded control voltage (CV) capabilities that allow for interactions beyond the simple stacking of effects, Randy can be used to control and be controlled by other CV capable devices. The stereo CV is switch-programmable for use with an expression pedal or as a 2-channel CV port. Both the oscillator and low-pass filter frequency are voltage-controllable. The internal oscillator is also available as an output, turning Randy into a stand-alone voltage-controlled oscillator (VCO). \nhttps://fairfieldcircuitry.com/collections/effect-pedals/products/randys-revenge",
+    "hrid": "fairfield-circuitry-randy's-revenge"
+}

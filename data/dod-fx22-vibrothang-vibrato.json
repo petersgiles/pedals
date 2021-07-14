@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12285",
+    "name": "FX22 Vibrothang Vibrato",
+    "image": "images/dod-fx22-vibrothang-vibrato.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$78 Price in €",
+    "width": 77,
+    "height": 131,
+    "details": "",
+    "hrid": "dod-fx22-vibrothang-vibrato"
+}

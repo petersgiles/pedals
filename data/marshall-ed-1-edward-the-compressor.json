@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11639",
+    "name": "ED-1 Edward the Compressor",
+    "image": "images/marshall-ed-1-edward-the-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Compressor and Limiter\nhttp://www.marshallamps.de/produkte/ed-1-edward-the-compressor.html",
+    "hrid": "marshall-ed-1-edward-the-compressor"
+}

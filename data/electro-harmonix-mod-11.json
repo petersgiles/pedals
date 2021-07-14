@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23573",
+    "name": "Mod 11",
+    "image": "images/electro-harmonix-mod-11.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Multieffect",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$151 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Modulation Multi-EffectThe Mod 11 is packed with 11 different modulation effects that range from classic to exotic plus advanced functionality all in a compact pedal. It gives you access to powerful yet intuitive “hidden” parameters accessible through its Secondary Knob Mode which let you take even greater control over its effects.\nThe Mod 11’s modulation effects are:\n1. TREM: Tremolo modulates your signal’s volume. Selectable modes allow your playing envelope to control modulation rate or depth.\n2. HARM: Harmonic tremolo. The signal is split into high and low frequency bands and modulated between the two. Selectable modes allow your playing envelope to control modulation rate or depth.\n3. VIBR: Vibrato modulates your instrument’s pitch. Selectable modes allow your playing envelope to control modulation rate or depth.\n4. UNI: pays homage to the classic Univibe®. Includes “Chorus” and “Vibrato” modes plus added overdrive\n5. CHORUS: Warbling, doubling, chorus effect like the EHX Small Clone. Extra modes include tri-chorus and bass chorus effects\n6. ROTARY: Rotary speaker cabinet simulation. Extra functionality includes overdrive plus envelope control over rotation speed \n7. FLANGE: Flanging with modes for both additive and subtractive flanger. Multiple LFO shapes, including envelope follower\n8. TZF: Through Zero Flanger. A flanger effect that crosses through the “zero point” of the sweep where the modulated delayed signal meets back with the dry signal. Modes for both additive and subtractive flanger, plus barber-pole flanger\n9. PHASE: Choose from 4, 6, or 8 stage phaser. Multiple LFO shapes including envelope follower\n10. PITCH: Modulated pitch shifter. Select your main pitch shift and modulate around it. Extra functionality includes a dry blend and stepped pitch modes\n11. FILT: Modulated filter effects like those on classic analog synths. Low Pass, High Pass and Band Pass. Multiple LFO shapes available including a Q-Tron style envelope follower\nhttps://www.ehx.com/products/mod-11",
+    "hrid": "electro-harmonix-mod-11"
+}

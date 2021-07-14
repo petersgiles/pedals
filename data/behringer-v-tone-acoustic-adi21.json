@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12056",
+    "name": "V-Tone Acoustic ADI21",
+    "image": "images/behringer-v-tone-acoustic-adi21.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$31 Price in €",
+    "width": 100,
+    "height": 127,
+    "details": "Analog Modeling Preamp & DI BoxThe Behringer V-Tone ADI21 acoustic amp modeler is essential for your piezo-equipped acoustic-electric guitar. Replacing your artificial, lifeless sound with one that is rich, loud, and electrifying, the ADI21 combines the features of an active DI box with proprietary microphone/tube emulation circuitry. The result is a warm, natural-sounding acoustic guitar tone that will leave you satisfied. Make no mistake, the ADI21 will embue your amplified acoustic guitar with enormous tonal versatility with its 3-band EQ and flexible blend control. The Behringer V-Tone ADI21 acoustic amp modeler also functions as a capable active DI box.\nhttp://www.music-group.com/Categories/Behringer/Guitar/Guitar-Stompboxes/ADI21/p/P0293",
+    "hrid": "behringer-v-tone-acoustic-adi21"
+}

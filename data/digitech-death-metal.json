@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12024",
+    "name": "Death Metal",
+    "image": "images/digitech-death-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "Features\nLevel boosts the output level of your guitar signal.\nLow adjusts boost and cut of bass frequencies.\nHigh adjusts boost and cut of upper harmonics.\nMid adjusts boost and cut of midrange frequencies\nHigh adjusts boost and cut of high frequencies.\nDual Outputs. The Amp output is for connecting directly to a guitar amplifier. The Mixer output features Cabinet Emulation circuitry for connecting directly to a mixing board or recording device.\nSpecifications\nPower Supply    9V Alkaline Dry Battery\nPower Consumption   4.8Watts (w/optional PS200R power supply)\nBattery Life    Approximately 18 hours (with continuous usage)\nDimensions  4 15/16\"(L) x 3 1/8\"(W) x 2 1/8\"(H)\nweight 1.38 lbs.\nhttp://digitech.com/en/products/death-metal",
+    "hrid": "digitech-death-metal"
+}

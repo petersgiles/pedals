@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12313",
+    "name": "Triangle Buff",
+    "image": "images/mooer-triangle-buff.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 42,
+    "height": 94,
+    "details": "Mooer's Triangle Buff features an emulation of the legendary rich, creamy, violin-like sound achieved by triode mode tube guitar amps. It features a full metal shell, low profile design and true bypass.",
+    "hrid": "mooer-triangle-buff"
+}

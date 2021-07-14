@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29173",
+    "name": "Steak and Eggs",
+    "image": "images/jhs-steak-and-eggs.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Compressor and DriveThe left side of the Steak & Eggs is JHS Pedals’ classic Morning Glory circuit with an available high-gain setting.\nThe right side is a new 3 knob version of Keeley Electronics’ classic compressor. The Steak and Eggs Compressor features a blend control which allows players to blend back in their original signal for very punchy tones.\nIn the center you will find a toggle to select the order of the effects. When the toggle is to the right, the compressor is first. When the toggle is to the left, the Morning Glory is first.",
+    "hrid": "jhs-steak-and-eggs"
+}

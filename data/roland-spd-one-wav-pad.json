@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18456",
+    "name": "SPD ONE WAV PAD",
+    "image": "images/roland-spd-one-wav-pad.jpg",
+    "function": [
+        "Drum",
+        "Sampling"
+    ],
+    "manufacturer": "Roland",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$269 Price in €",
+    "width": 160,
+    "height": 140,
+    "details": "Percussion sample padThe Roland SPD::ONE WAV PAD is a new type of digital percussion pad, one that allows any musician to perform with their own sounds and samples. Importing audio files is as simple as connecting the SPD::ONE WAV PAD to a PC or Mac and dragging your WAV files into the drive that appears. Whether you need full-length backing tracks or one-shot samples, your sounds can be loaded and played in seconds. Once you’re ready to go, the unit’s robust-yet-sensitive pad can be played with sticks, hands, or feet, and trigger threshold settings are easily adjusted with intuitive controls.\nPowered by batteries or AC, the portable SPD::ONE WAV PAD can be used on the floor or a tabletop, or mounted to any rig or drum setup with the included adapter. Operation is simple, even for those musicians who are not technical; just by using four knobs on the control panel, you can change the sound, volume, balance, and more. Whether you’re a drummer, percussion player, guitarist, DJ, or vocalist, the SPD::ONE WAV PAD is a simple and flexible way to expand your sound palette and invigorate your performances.\nhttps://www.roland.com/global/products/spd_one_wav_pad/",
+    "hrid": "roland-spd-one-wav-pad"
+}

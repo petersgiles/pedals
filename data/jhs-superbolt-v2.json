@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17875",
+    "name": "SuperBolt V2",
+    "image": "images/jhs-superbolt-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 119,
+    "details": "When we released the Superbolt in 2012, we never dreamed that it would become one of the most recognized and distinguished pedals in our history. Turns out there are guitarists all over the world that are loving the ‘60s-era Supro amp-in-a-box tones that this pedal churns out. In designing the pedal, we paid very close attention to the feel and sound that made the original amps the go-to combos for players like Jimmy Page, Brian Setzer, and Switchfoot’s Drew Shirley. And with the SuperBolt Version 2, we’ve upped the ante by giving you access to our versatile Gain boost circuit via the front-mounted toggle or our own JHS Red Remote footswitch (sold separately).\nVintage amp tones with a tap of your toe\nIf you want to know what our SuperBolt V2 is capable of, just listen to the opening chord stabs of Led Zeppelin’s debut album. A more iconic rock tone there isn’t. And though the cranked ‘60s Supro amp tones Jimmy Page deployed will go down as legend, those sounds are only the beginning of what the SuperBolt V2 is capable of.\n\nTones based on the clear and gritty tones of ‘60s Supro tube amps\nDrive knob acts in a similar fashion to the volume controls on the old amplifiers.\nTube rectifier-like sag is increased as the Drive control is turned up\nWe made sure the tone control is usable throughout the whole range\n\nMore versatile than meets the eye\nYes, when you step on the SuperBolt V2, your tone will be transformed into the glorious tones of classic rock’s heyday. But there’s much more under the hood than Jimmy’s Tele-driven rock. Back off on the Drive and Tone controls, and you’ll immediately find yourself digging into your best smokey Chicago blues licks. Or keep that drive low but crank the Volume, and you’re able to boost any amp into harmonically rich submission.\n\nTone control takes you from warm and mellow to cutting and aggressive, without ever losing its musicality\nInternally converts 9V to 18V for a huge amount of headroom and punchy output\nGain knob sweeps between darn-near-clean and amp in full-meltdown mode\n\nTwo footswitchable gain levels\nBy pairing your SuperBolt V2 with the JHS Red Remote (sold separately), you’re able to access the front toggle’s gritty higher-gain settings on the fly. It’s like having two SuperBolts in one pedalboard-friendly package.\n\nSwitch to a more powerful sound with enhanced low end and grit\nPlug in your JHS Red Remote for switching between the two voices with the tap of your toe\nHandy LED changes from blue to red, indicating the status of the boost circuit\n\nThis pedal requires standard 9V DC Negative power, consumes less than 100mA, and measures 2.2\"x4.8\"x1.6\".\nIf you love the SuperBolt, you will also love the Ruby Red 2-in-1 Overdrive/Boost pedal...check it out HERE!!!\nVERSION HISTORY:\nV1 = 3 controls, Hi/Lo toggle, some early stamped units had \"3 stage lighting bolt,\" most have a 4 stage bolt\nV2 = replaced Hi/Lo toggle with a Gain Toggle, added Red Remote system",
+    "hrid": "jhs-superbolt-v2"
+}

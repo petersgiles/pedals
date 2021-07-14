@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12362",
+    "name": "Multi Overtone MO-2",
+    "image": "images/boss-multi-overtone-mo-2.jpg",
+    "function": [
+        "Chorus",
+        "Filter",
+        "Ring Modulator",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Multi overtone pedal\nhttps://www.boss.info/us/products/mo-2/",
+    "hrid": "boss-multi-overtone-mo-2"
+}

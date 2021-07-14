@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27469",
+    "name": "Gomorrah",
+    "image": "images/lastgasp-art-laboratories-gomorrah.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 133,
+    "details": "Subharmonic fuzzThe LastGasp Art Laboratories Gomorrah is a subharmonic fuzz pedal of biblical proportions. The pedal emits an ersatz lower octave signal, where the pitch is entirely dependent on the characteristics of the input signal. If the signal is strong, the pitch is emitted as played; if the intensity falls to the middle range, the pitch moves an octave down; if the intensity is lackadaisical, the pitch shifts two octaves down. \nLevel Control\nTone Control\nSensitivity Control\nMode Switch\nBypass Footswitch",
+    "hrid": "lastgasp-art-laboratories-gomorrah"
+}

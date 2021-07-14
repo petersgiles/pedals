@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11574",
+    "name": "Pedal Power ISO-5",
+    "image": "images/voodoo-lab-pedal-power-iso-5.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 124,
+    "height": 86,
+    "details": "Isolated Power Supply\nhttp://www.voodoolab.com/pedalpower_iso-5.htm",
+    "hrid": "voodoo-lab-pedal-power-iso-5"
+}

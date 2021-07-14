@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11480",
+    "name": "HyperGravity Compressor",
+    "image": "images/tc-electronic-hypergravity-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$156 Price in €",
+    "width": 71,
+    "height": 127,
+    "details": "CompressionCompact compressor pedal offers exceptional multiband compression plus a sweet vintage compressor mode\nAdvanced MD3 multiband dynamics algorithm applies perfectly tailored compression to highs, mids and lows for an ultra-musical result\nWarm vintage mode lets you play with a classic stompbox compressor tone\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized compression effects from scratch with free TonePrint Editor for PC, Mac*, and iPad*\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nOptional buffered bypass mode prevents high frequency loss from long cable runs\nSturdy die-cast metal case designed for life on the road\nwww.tcelectronic.com",
+    "hrid": "tc-electronic-hypergravity-compressor"
+}

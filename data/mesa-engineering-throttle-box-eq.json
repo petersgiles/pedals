@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23660",
+    "name": "Throttle Box EQ",
+    "image": "images/mesa-engineering-throttle-box-eq.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$319 Price in €",
+    "width": 147,
+    "height": 121,
+    "details": "High-gain distortion with five-band graphic equalizerThe THROTTLE BOX EQ™ combines the enhanced tone shaping power of our popular Boogie® Five-Band Graphic Equalizer with footswitchable HI/LO performance Modes and easy “Top Panel” access to the previously internal BOOST feature of the original THROTTLE BOX™.\nWith the worldwide success of the THROTTLE BOX™ overdrive, we saw potential for an even more powerful version that included our classic Five-Band Graphic Equalizer. With the added shaping power the on-board Five Band EQ creates the THROTTLE BOX EQ can go anywhere you want to take it stylistically. The middle range of the GAIN control delivers tight, stinging overdrive that–depending on whether you choose LO or HI GAIN Modes–can cover everything from Blues to Modern Metal with plenty of attitude and an urgent percussive nature. Cranking things up into the upper one-third of the GAIN control in HI unleashes a hot-rod that’s blistering with searing top-end harmonics.\nFor Hard Rock and Metal our Graphic EQ set to the popular mid-scooped “V-Curve” has over a four decade track record of creating the heaviest sounds around. With limitless curve possibilities, the Graphic expands the potential for sonic diversity across all styles as well as being able to unleash Mayhem.\nLike the original, this expanded THROTTLE BOX includes two Modes but here they are controlled by a HI/LO footswitch that enables you to have two gain regions to choose from during live performance. There are also dedicated HI LEVEL and LO LEVEL Output controls, allowing you to set the desired volume level for each Gain Mode individually. The EQ can be assigned to either or both of these Gain Mode choices so that it becomes active with the desired Gain Mode selection. In addition, we’ve fitted a MID CUT control that allows global scooping of the mids in addition to whatever you might do with the Graphic sliders. And finally, the internally selectable BOOST switch hidden under the Bottom Plate on the original THROTTLE BOX appears on this EQ version as an easily accessible Top Panel BOOST switch for extra girth and a bit of gain enhancement. We’re confident this pedal will exceed your expectations and provide an inspiring tool for expression.\nhttps://www.mesaboogie.com/pedals--related/electric-guitar-pedals/drive-pedals/throttle-box-eq.html",
+    "hrid": "mesa-engineering-throttle-box-eq"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12155",
+    "name": "Tap Tempo Switch",
+    "image": "images/saturnworks-tap-tempo-switch.jpg",
+    "function": [
+        "Controller",
+        "Switch"
+    ],
+    "manufacturer": "Saturnworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$20 Price in €",
+    "width": 51,
+    "height": 51,
+    "details": "",
+    "hrid": "saturnworks-tap-tempo-switch"
+}

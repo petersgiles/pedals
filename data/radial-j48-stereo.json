@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23119",
+    "name": "J48 Stereo",
+    "image": "images/radial-j48-stereo.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / 48 V / DC",
+    "cost": "$300 Price in €",
+    "width": 89,
+    "height": 140,
+    "details": "Stereo active direct box",
+    "hrid": "radial-j48-stereo"
+}

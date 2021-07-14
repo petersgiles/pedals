@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28668",
+    "name": "Coral Looper",
+    "image": "images/valeton-coral-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Valeton",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$56 Price in €",
+    "width": 47,
+    "height": 93,
+    "details": "Easy-to-use looperThis is a simple, easy-to-use looper pedal, below are some features\nUnlimited overdubs\nUndo/redo function\nHigh quality recording and playback\nAluminum-alloy die cast casing to withstand wear and tear\nHeavy duty metal footswitch and status LED\nLow noise level\nThe function of the LEVEL knob is Controls the loop volume\nSpecifications\nMax. Recording Time is 10 minutes \nMax. Number of Overdubs is Limitless \nPower Requirement is 9V DC center negative \nCurrent Consumption is 100mA \nDimensions is 93mm (D) x 50mm (W) x 46.5mm (H) \nWeight is 175gram",
+    "hrid": "valeton-coral-looper"
+}

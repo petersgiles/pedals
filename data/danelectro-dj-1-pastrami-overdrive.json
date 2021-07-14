@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29990",
+    "name": "DJ-1 Pastrami Overdrive",
+    "image": "images/danelectro-dj-1-pastrami-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 67,
+    "height": 105,
+    "details": "Simple overdriveOne of the first mini pedals by Danelectro, the Pastrami Overdrive is a simple to use, two knob overdrive pedal. Having no tone knob, the Pastrami definitely has a signature sound, often thought of as an ever so slightly higher gain Maxon 808. Powered by a 9 volt battery or 9 volt power supply.",
+    "hrid": "danelectro-dj-1-pastrami-overdrive"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18274",
+    "name": "Bass FAT Drive",
+    "image": "images/pigtronix-bass-fat-drive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 71,
+    "height": 112,
+    "details": "Bass OverdriveBuilding on the breakout success of the Pigtronix FAT Drive, we are proud to introduce the Bass FAT Drive. Fine-tuned for low end muscle and grind, the Bass FAT Drive slams your amp with all analog, tube emulated overdrive that ranges from soft and warm to ripping high gain apocalyptic thunder. Used in front of a DI or solid state amp, the Bass FAT Drive adds a round, organic depth to your bass tone.\nThe Bass Fat Drive leverages Pigtronix CMOS clipping concept to sculpt a larger than life sound that breaks up based on how hard you hit the strings. Turning the tone control all the way clockwise takes our bass specific low pass filter completely out of the circuit for total transparency and robust low end. Rolling the tone control back attenuates only the top end, leaving midrange and bottom end punch intact.\nA Hi / Lo toggle switch brings additional versatility to the Bass FAT Drive's wide-ranging palette of overdrive tones, altering the gain structure for deep saturation. The Bass FAT Drive features true bypass switching and runs fine on standard 9-volt power but ships with an 18-volt adapter for superior headroom, clarity and overall output.\nPigtronix Bass Fat Drive Pedal Features at a Glance:\n* Incorporates Pigtronix CMOS clipping\n* Breaks up based on how hard you attack your strings\n* Bass-specific lowpass filter gives you exceptional transparency and potent bottom end\n* Handmade on Long Island, USA\nhttps://pigtronix.com/legacy/",
+    "hrid": "pigtronix-bass-fat-drive"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31787",
+    "name": "Hydra Stereo Reverb & Tremolo Effects Pedal",
+    "image": "images/keeley-hydra-stereo-reverb-&-tremolo-effects-pedal.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo"
+    ],
+    "manufacturer": "Keeley",
+    "current": "115 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 64,
+    "height": 56,
+    "details": "Stereo Reverb & TremoloAdds another dimension to your guitar, bass, or keyboard.\nThe HYDRA combines high-fidelity Reverb and Tremolo to add space and dimension to your guitar, bass, or keyboard signal. After the team at Keeley completed the ECCOS, they wanted to craft the perfect companion pedal, and they did just that with the feature-rich blue box. Bathe your sound in Spring, Plate or Room Reverb, then add tap-tempo enabled Harmonic, Vibrato, or Sine Wave Tremolo with the press of a button. \nYou can easily change the order of effects or the character of the Tremolo or Reverb with the HYDRA’s smart Alt Controls. You can even create an Infinite Hold Reverb Trail! Save up to three presets with ease using the intuitive save feature. Engage Reverb Trails on the fly, no more internal dip switches. \nThe Hydra can be used with pro remote switching systems and offers both TRS Expression Pedal and External Tap Tempo inputs. The HYDRA is a complete end-of-pedalboard solution that fits perfectly in any musician’s rig, regardless of genre. Experience next-level processing power in this pedalboard-friendly enclosure. The sky, or more appropriately, the ocean floor, is the limit with the Keeley Electronics HYDRA.\nFeatures\nStereo high-fidelity Reverb and Tremolo effect pedal\nDreamy and accurate sounding Spring, Plate, and Room reverbs\nVintage-voiced Harmonic, Vibrato, and Sine Tremolo\nOnboard or Remote Tap-Tempo\n3 Foot Switchable Presets\nSmart Alt Controls for Shimmer, Spring Age, Room/Hall size\nInfinite hold for reverb trails\nExpression pedal can be assigned to any knob\nEffect Order, Reverb or Tremolo first, switchable on the fly\nTrue-Bypass or Trails switchable on the fly\n9 Volt DC, 115mA ultra low-current design\nMade in the USA\nhttps://robertkeeley.com/product/hydra-stereo-reverb-tremolo/",
+    "hrid": "keeley-hydra-stereo-reverb-&-tremolo-effects-pedal"
+}

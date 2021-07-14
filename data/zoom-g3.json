@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12008",
+    "name": "G3",
+    "image": "images/zoom-g3.jpg",
+    "function": [
+        "Looper",
+        "Modeling/Simulation",
+        "Multieffect",
+        "PreAmp",
+        "Sampling",
+        "Utility"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / DC",
+    "cost": "$190 Price in €",
+    "width": 234,
+    "height": 170,
+    "details": "Zoom G3 Multi EffectThe Zoom G3 guitar pedal opens the door to a new level of creativity. It offers 94 effects, along with 22 amp and cabinet models, and allows you to chain up to six of them together for full multi-effect complexity. Three stompbox-style displays—each with its own dedicated foot switch and control knobs—make it easy to edit effects and bring them in and out as needed. Advanced features like an onboard chromatic tuner, balanced line-level output, USB port, and integrated rhythm patterns and looper complete the picture. Both onstage and in the studio, you can count on your G3 to deliver the great sound you need from a guitar pedal.\nhttps://www.zoom-na.com/products/guitar-bass-effects/guitar/zoom-g3-guitar-effects-amp-simulator-pedal",
+    "hrid": "zoom-g3"
+}

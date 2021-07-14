@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11549",
+    "name": "DD-20 Giga Delay",
+    "image": "images/boss-dd-20-giga-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 173,
+    "height": 57,
+    "details": "Digital DelayThe BOSS DD-20 Digital Delay offers more User memory and long delay time up to 23 seconds. Delay time can be quickly set using the push-button knob or via tap tempo. And with a choice of 11 modes—including new “Smooth” and “Twist” delays and sound-on-sound recording—this Twin Pedal raises the bar for delay effects.\nhttps://www.boss.info/us/products/dd-20/",
+    "hrid": "boss-dd-20-giga-delay"
+}

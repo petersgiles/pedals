@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22334",
+    "name": "PT-909 Phase Tone",
+    "image": "images/ibanez-pt-909-phase-tone.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$102 Price in €",
+    "width": 74,
+    "height": 125,
+    "details": "4-Stage Phase Shifter",
+    "hrid": "ibanez-pt-909-phase-tone"
+}

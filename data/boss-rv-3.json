@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12518",
+    "name": "RV-3",
+    "image": "images/boss-rv-3.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 80,
+    "height": 110,
+    "details": "Digital Reverb / DelayThe RV-3 was launched in the mid-1990s after four years without a reverb pedal in the Boss lineup. The RV-3 is a combination reverb and delay pedal with four different reverb modes plus three delay modes with delay times up to 2000ms. There are an additional four modes that combines delay and room, hall or plate reverb types.\nThe bottom label was changed from pink to dark gray in January 1999.\nModes\nMode 1: Delay 32ms-125ms\nMode 2: Delay 125ms-500ms\nMode 3: Delay 500ms-2s\nMode 4: Delay + Reverb: Room 1\nMode 5: Delay + Reverb: Room 2\nMode 6: Delay + Reverb: Hall\nMode 7: Delay + Reverb: Plate\nMode 8: Reverb: Room 1 (small)\nMode 9: Reverb: Room 2 (large)\nMode 10: Reverb: Hall\nMode 11: Reverb: Plate\nFeatures\nNew DSP (Digital Signal Processor) developed for the RV-3\nReverb effect gradually fading away when effect is turned off\nStereo outputs for 3D reverb sounds\nSpecifications\nControls: Balance, Tone, Reverb Time, 11-way mode switch\nConnectors: Input, Outputs (A/MONO, B), AC Adaptor\nCurrent Draw: 70 mA (DC 9V)\nWeight: 420 g (15 oz.)\nA/D Conversion: 16 bit linear, 128 bit oversampling\nD/A Conversion: 16 bit\nSampling Frequency: 32kHz\nRecommended AC Adaptor: PSA Series\nLabels\nPink – Made In Taiwan\nDark Gray – Made In Taiwan\nThe RV-3 was sold from March 1994 to August 2002.\nhttps://www.boss.info/us/products/rv-3/",
+    "hrid": "boss-rv-3"
+}

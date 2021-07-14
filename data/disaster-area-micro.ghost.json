@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30895",
+    "name": "micro.ghost",
+    "image": "images/disaster-area-micro.ghost.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 100,
+    "height": 50,
+    "details": "USB MIDI Host Interface\nhttps://www.disasterareaamps.com/shop/micro-ghost",
+    "hrid": "disaster-area-micro.ghost"
+}

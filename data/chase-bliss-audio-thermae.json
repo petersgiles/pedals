@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15512",
+    "name": "Thermae",
+    "image": "images/chase-bliss-audio-thermae.jpg",
+    "function": [
+        "Delay",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$499 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Analog Pitch-Shifting Harmonizing DelayThermae™ represents a radically new approach to analog delay and harmonization. The pedal digitally manipulates the analog signal path created by 4 re-issued versions of the legendary MN3005 bucket-brigade delay chips. This creates the ability to change delay time in musically interesting intervals which allows for innumerable options for harmonizing and other sonic madness. These intervals can be sequenced through automatically or triggered manually for ultimate usability in a musical context. Thermae™ can also be used as a more standard analog delay with unprecedented analog modulation options. Every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog and never gets digitally processed.\nhttps://chaseblissaudio.com/product/thermae/",
+    "hrid": "chase-bliss-audio-thermae"
+}

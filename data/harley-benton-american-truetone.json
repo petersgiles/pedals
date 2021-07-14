@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11466",
+    "name": "American TrueTone",
+    "image": "images/harley-benton-american-truetone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$34 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "Effect pedal for electric guitar",
+    "hrid": "harley-benton-american-truetone"
+}

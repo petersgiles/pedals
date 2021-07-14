@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18297",
+    "name": "Small Foot Box of War",
+    "image": "images/wren-and-cuff-small-foot-box-of-war.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "wren-and-cuff-small-foot-box-of-war"
+}

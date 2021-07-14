@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12104",
+    "name": "Monterey",
+    "image": "images/keeley-monterey.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Multieffect",
+        "Rotary",
+        "Wah"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Rotary Fuzz Vibe Wah Jimi Hendrix in a boxThe Axis For A Bold New Tone\nWith the Keeley Monterey Workstation you take one step back in time and two steps forward.  The Monterey is a surrealistic envelope of neo-vintage effects.  It combines classic sounds with new interpretations to create a modern timbre and audio spectrum for guitarists.\nThe Keeley Monterey Rotary Fuzz Vibe has a vintage fuzz, rotary speaker, vibe, harmonic and auto wah, an octave up or octave down, as well an expression control to allow you to create a rich array of new and newer sounds.\nThere are two channels on the Monterey Rotary Fuzz Vibe, and these can be configured to give you five different sounds.\nThe Monterey is 4.7 inches wide, 3.72 deep and 2 inches tall with the knobs.\nThe unit does not take a battery. You will need a 9VD DC adapter, 100 mA negative tip supplies for effects are super common and that will work fine. Generally, any BOSS or Ibanez or Voodoo Lab supply will work.\nIn general most expression pedals will work just fine. I like the M-Audio and Moog because they are dependable and inexpensive.\nrk\nhttps://robertkeeley.com/product/monterey-fuzz-vibe-workstation/",
+    "hrid": "keeley-monterey"
+}

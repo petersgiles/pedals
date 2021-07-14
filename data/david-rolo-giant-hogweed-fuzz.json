@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22593",
+    "name": "Giant Hogweed Fuzz",
+    "image": "images/david-rolo-giant-hogweed-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "Octave up/down fuzzThe main dirt circuit uses a single op amp (usually a TL070, that is very similar to a LM308) in a topology similar to a RAT. The Texture control allows to mis-bias the chip and introduce gated sounds and texture. This imbalance of headroom also allows to clean up the dirt with the guitars volume control pretty good, even with buffered pedals before it.\nWhen engaging the Octave footswitch the octave up/down signal gets mixed to the clean signal and runs through the main dirt section. The individual volume controls for the octaves define how much (if any) of each gets mixed in.\nThe tone is a “BMP” style control with an internal trim pot to set the mids cut/boost.\nAs these are analog octaver circuits, they track single notes fine but get messy with chords. You may like that mess though.\nIt runs on standard (Boss style) 9V power supply (no battery) and uses a relay bypass with soft switches. The artwork is UV printed.\nhttps://www.davidrolo.com/product/giant-hogweed-octave-updown-fuzz/",
+    "hrid": "david-rolo-giant-hogweed-fuzz"
+}

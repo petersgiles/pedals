@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23482",
+    "name": "LiveMaster LM-7",
+    "image": "images/biyang-livemaster-lm-7.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Chorus",
+        "Dynamics",
+        "Delay",
+        "Distortion",
+        "Reverb",
+        "Switch"
+    ],
+    "manufacturer": "Biyang",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 322,
+    "height": 129,
+    "details": "Multieffect Modular Pedal",
+    "hrid": "biyang-livemaster-lm-7"
+}

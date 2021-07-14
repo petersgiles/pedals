@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19427",
+    "name": "AW7 autowah",
+    "image": "images/ibanez-aw7-autowah.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Multieffect"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$73 Price in €",
+    "width": 75,
+    "height": 125,
+    "details": "lowpass filter-autowah-distortion Sens\nAdjusts the response to changes in your picking dynamics. With a setting of 0 there will be no response and the AW7 will function as a fixed wah.\nManual\nThis has the same function as the pedal of a wah pedal. Turning the knob to the right is equivalent to advancing the pedal.\nDrive\nControls the saturation level. The saturation and sustain effects will increase when the knob is turned to the right.\nLevel\nControls the overall volume of the pedal. Volume is increased when turned to the right and decreased when turned to the left.\nType\n(LPF / Wah)\nSwitches between two types of wah sounds.\nLPF: A low-pass filter that cuts only the high range. The low range will not be lost.\nWah:A conventional wah, which is a band-pass filter that cuts the low and high range sounds.\nDistortion\n(Off / Dist+Wah / Wah/Dist)\nSelects how the internal distortion will be connected.\nOff: Distortion will not be applied.\nDist+wah: Connect in the order of distortion => Wah. This intensifies the effect of the wah.\nWah+Dist: Connect in the order of wah => distortion. This is the most commonly-used connection.",
+    "hrid": "ibanez-aw7-autowah"
+}

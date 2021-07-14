@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15994",
+    "name": "GA-FC Foot Controller",
+    "image": "images/roland-ga-fc-foot-controller.jpg",
+    "function": [
+        "MIDI",
+        "Multieffect"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 392,
+    "height": 81,
+    "details": "Foot controller for Boss KatanaIf you want to keep your hands on your axe at all times, the GA-FC foot controller lets you drive the GA-212 or GA-112 from the floor. It also allows expansion. Plug in up to two optional Expression pedals* for volume and drive control, and link to additional stacked amps with the Link In/Out port.\nhttp://www.musiciansfriend.com/amplifiers-effects/roland-ga-fc-guitar-combo-foot-controller-for-ga-112-ga-212-amps",
+    "hrid": "roland-ga-fc-foot-controller"
+}

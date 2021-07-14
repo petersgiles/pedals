@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13107",
+    "name": "Flashback 2",
+    "image": "images/tc-electronic-flashback-2.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$207 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Delay Pedal with MASH Footswitch, Crystal Delay Effect and Built-In TonePrint TechnologyOur groundbreaking MASH technology adds an expression pedal to a world-class delay stompbox that responds to your touch and saves precious pedalboard space – and blends the ethereal world of delay with the ultimate in personal expression. Add the brand-new Crystal delay algorithm and two additional TonePrint slots, and the soon-to-be legendary FLASHBACK 2 DELAY brings a wealth of new dimensionality to your quest for tonal perfection!\nhttps://www.tcelectronic.com/product.html?modelCode=P0CKR",
+    "hrid": "tc-electronic-flashback-2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17340",
+    "name": "Coral Verb",
+    "image": "images/valeton-coral-verb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 50,
+    "height": 93,
+    "details": "Reverb11 Modes\n - Room: Simulates the acoustics of a room.\n - Studio: Simulates the acoustics of a studio.\n - Hall: Simulates the acoustics of a hall.\n - Stage: Simulates the acoustics of a stage.\n - Church: Simulates the acoustics of a church.\n - Spring: Simulates a spring reverberator.\n - Plate: Simulates a plate reverberator.\n - Mod: Produces a reverb effect with lush, modulated sound.\n - Lofi: Produces a reverb effect sample-reduced sound.\n - Gate: Produces a reverb effect with abrupt decay.\n - Reverse: Produces a reverb effect with reversed decay. \nSpecifications:\n Current Consumption：135mA\n Dimensions：93mm (D) × 50mm (W) × 46.5mm (H)\n Weight：175g",
+    "hrid": "valeton-coral-verb"
+}

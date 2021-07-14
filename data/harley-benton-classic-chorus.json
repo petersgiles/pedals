@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11687",
+    "name": "Classic Chorus",
+    "image": "images/harley-benton-classic-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$32 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "",
+    "hrid": "harley-benton-classic-chorus"
+}

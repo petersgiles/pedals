@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25977",
+    "name": "LEF-333 Comp",
+    "image": "images/rowin-lef-333-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Rowin",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 42,
+    "height": 94,
+    "details": "Compressor",
+    "hrid": "rowin-lef-333-comp"
+}

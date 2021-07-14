@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23210",
+    "name": "GCS-6",
+    "image": "images/ada-gcs-6.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "ADA",
+    "current": "100 mA / 12 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 137,
+    "height": 107,
+    "details": "Guitar Stereo Cab Sim / DIFEATURES AND SPECS\nStereo In and Stereo Out\nStereo Aux Input with Level control\nStereo Cab Sim Level Control\nStereo Headphone Output with 3.5mm and ¼” jacks\nSeparate LED Level meters and Level controls for each Cabinet\nInput Select switch for each Cabinet\nON/OFF Power switch\nAmerican/British Speaker\nPower Amp Direct-Connect\nSelectable 10” or 12” Speaker Size\nSelectable VINTAGE (Alnico) or MODERN (Ceramic) Speaker Character\nSelectable OPEN BACK or SEALED Cabinet Type\nVariable MICROPHONE PLACEMENT Controls to “position” the mic for deep or bright frequency response.\n¼” phone jacks INPUT with a direct, un-buffered PASS THROUGH ¼” phone jacks.  This effectively splits the signal to feed both a guitar amplifier (the THRU) and a mixing console (one of the outputs, either ¼” phone single ended or XLR balanced)\n20db PADs \nGROUND LIFTS for Pin 1\nPure Analog Circuit Design using low-noise components\nRugged all-steel chassis with durable powder coat finish\nPowered by a single industry standard 12 volt AC Adapter, but runs internally at 18 volts for higher headroom and lower noise\nDimensions:\n5.4\" (w) x 4.2\" (l) x 1.8\" (h)\nShipping weight:  2 lbs.\nHand made in California\nhttps://www.adaamps.com/gcs-6",
+    "hrid": "ada-gcs-6"
+}

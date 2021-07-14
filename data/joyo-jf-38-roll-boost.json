@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16007",
+    "name": "JF-38 Roll Boost",
+    "image": "images/joyo-jf-38-roll-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "True Bypass Wiring\nAllows an \"over-the-top\" signal boost\nAdd third and fourth-order harmonics\nProvides incredible amount of gain\nTrue Bypass Wiring",
+    "hrid": "joyo-jf-38-roll-boost"
+}

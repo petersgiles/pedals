@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16167",
+    "name": "FV-500H",
+    "image": "images/boss-fv-500h.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 110,
+    "height": 289,
+    "details": "Volume pedalFor 14 years, the famous BOSS FV-300 served as an industry-standard volume pedal. The tradition continued with the FV-50 series, but today the bar has been raised with BOSS’s FV-500H (mono, high-impedance, inst. level) and FV-500L (stereo, low-impedance) pedals. These tank-tough diecast pedals are designed to meet the needs of the most demanding customers. The pedals offer a new stylish design, a road-tough build, and a comfortable, smooth action. Both models also provide an Expression output for use with expression-compatible amps, effects, and even synthesizers.\nhttps://www.boss.info/us/products/fv-500h_500l/",
+    "hrid": "boss-fv-500h"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29114",
+    "name": "Uni-Vibe UV1SC",
+    "image": "images/dunlop-uni-vibe-uv1sc.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 110,
+    "height": 150,
+    "details": "Uni-Vibe",
+    "hrid": "dunlop-uni-vibe-uv1sc"
+}

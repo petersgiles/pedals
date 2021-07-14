@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26486",
+    "name": "Silent Switch Mixer",
+    "image": "images/wounded-paw-silent-switch-mixer.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Wounded Paw",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$216 Price in €",
+    "width": 188,
+    "height": 119,
+    "details": "Silent Switch MixerA 4 channel analog mixer with silent switches. This uses AMZ microcontrollers and audio relays to turn the individual inputs on or off with perfect audio fidelity and no click. The mixer also features bipolar power rails internally for much more headroom than a standard pedal and a very low noise floor.\nHeavy duty 7.4\" x 4.7\" x 1.3\" Hammond aluminum enclosure",
+    "hrid": "wounded-paw-silent-switch-mixer"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19761",
+    "name": "DC7",
+    "image": "images/cioks-dc7.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Cioks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 88,
+    "details": "",
+    "hrid": "cioks-dc7"
+}

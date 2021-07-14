@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12434",
+    "name": "Snow White",
+    "image": "images/mad-professor-snow-white.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$195 Price in €",
+    "width": 65,
+    "height": 110,
+    "details": "BJF design guitar and bass Auto Wah/ Voltage Control Filter pedalHand-made in Finland premium quality auto wah pedal.\nThe SNOW WHITE AUTOWAH (SWAW) circuit is based on a 1991 BJF rack mount remote wah circuit and is tuned like a real wah.\nThe circuit was redesigned with envelope controls and built into small size pedal.\nIt has very fast tracking and accuracy rarely found on auto wahs/ envelope filters. With the four knobs you can have total control of the effect.\nSWAW works both with guitar and bass and you can fine-tune the pedal to suit your instru-ment, your playing style and your taste of tone.\nThe pedal has a unique decay control for the filter frequency fall speed. You can set it to be fast for wah effects on every note, or slower for a more traditional auto wah sound.\nLike all Mad Professor pedals SWAW is hand made in Finland using only premium compo-nents, to give years of trouble free operation with superb musical tone.\nControls:\n* SENSITIVITY: Sets the filter trigger level, tune this carefully to fit your guitar/bass output and your playing touch. You can further change the sensitivity from your guitar volume knob while playing.\n* BIAS: Controls the filter resonance frequency. When Sensitivity is turned fully off the Bias can be used as a sweepable filter.\n* RESONANCE: Controls the sharpness or Q-factor of the filter.\n* DECAY: Controls how fast the filter frequency falls back to resting point (that is set with the Bias control). This can be set fast (CW) so you get the wah effect on every note or slow for a more traditional auto wah sound.\n* PLAYING: Please take time to get used to the controls and as this is a voltage control filter it will react to your playing touch. The envelope control circuit is carefully designed to follow the dynamics of guitar/bass and it might take some time to master the Auto Wah playing technics. Try also adjusting guitar volume between 8 and 10 to further expand use.\nElectrical specifications:\n* Supply voltage: 9VDC\n* Current consumption at 9VDC: 15mA\n* Input inpedance: 500K\n* Output impedance: 1K\n* Max input -20dBV\n* Complete bypass (true bypass\nhttp://www.mpamp.com/factory-pedals/snow-white-autowah-factory-pedal/",
+    "hrid": "mad-professor-snow-white"
+}

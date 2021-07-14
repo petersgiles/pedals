@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13260",
+    "name": "SM200 Slow Motion",
+    "image": "images/behringer-sm200-slow-motion.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-sm200-slow-motion"
+}

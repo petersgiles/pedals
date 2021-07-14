@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32621",
+    "name": "PowerBoost",
+    "image": "images/idiotbox-effects-powerboost.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Boost / overdriveIts a boost, its an overdrive, it is dirty, it is raw, it is loud and it is all POWER! I've added a charge pump to get it pretty close to the original 18v with a 9v supply and modified the EQs so you can get it nice and crispy with really solid low undertones without the typical compressed sound of other similar effects.\nIf you are looking for any cliche adjectives like \"transparent\" or \"clean\" this is not for you. If you want to sound like 10 dirty, raw amps on 11 then check this mother out!!!\nhttps://www.idiotboxeffects.com/product/retired-designs",
+    "hrid": "idiotbox-effects-powerboost"
+}

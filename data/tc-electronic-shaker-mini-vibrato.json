@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12577",
+    "name": "Shaker Mini Vibrato",
+    "image": "images/tc-electronic-shaker-mini-vibrato.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$124 Price in €",
+    "width": 48,
+    "height": 94,
+    "details": "VibratoUltra-compact vibrato pedal with built-in TonePrint technology gives you an exceptional breadth of vibrato sounds in a tiny package\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized vibrato effects from scratch with free TonePrint Editor for PC, Mac* and iPad*\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when effect is engaged\nWorks flawlessly with guitar and FX loop signals\nExtra-small enclosure easily fits on any pedal board\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/SHAKER-MINI-VIBRATO/p/P0DD9#googtrans(en|en)",
+    "hrid": "tc-electronic-shaker-mini-vibrato"
+}

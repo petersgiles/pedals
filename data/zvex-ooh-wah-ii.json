@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30110",
+    "name": "ooh wah II",
+    "image": "images/zvex-ooh-wah-ii.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Zvex",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "a combination of a tremolo and a wah wah pedalIt may be confusing, but just relax and let the ooh-wah guide your tempo. When you turn it on, it will probably be playing a pattern already. If the lights are all going in a row, that's seek mode... step on the random switch to put it in random mode. Put the leftmost knob in about the middle, and turn a couple of the other eight knobs to the left. There's a little notch in each knob so you can tell it's position, and an LED by each wah control that shows which is active and by it's brightness, the wah setting. Put the tiny switch in the MIDDLE position. That sets it to 8 steps. Strum a chord and let it hang, and listen to the tempo of the unit. Bob your head to the tempo, and strum again... If you want it to be a little faster turn the leftmost knob (speed) to the LEFT, and if you want it to be a little slower turn it to the RIGHT. Yes, all the knobs are backwards...\nIf you find that the band is slipping out of time after you have the speed set just right, turn the unit off and on again at the beginning of a measure, and it will start up in time again! This feature is only available on the Ooh-Wah II.\nBasically, the ooh-wah is sort of a combination of a tremolo and a wah wah pedal. If you're familiar with seventies synths, it's exactly like an analog sequencer/random sample-and-hold controlling a mellow bandpass filter. You have a choice between 4, 6, or 8 steps/channels for your wah. The 6 step positions works well with 6/8 or 3/4 time songs when in seek-mode, and you can control the total number of possible \"channels\" of wah with that switch in random mode. In seek-mode, the ooh-wah steps through from one wah setting to another and starts over after it gets to the end of the sequence. There's a total of 9 knobs, the leftmost being a speed control, and the other being wah settings, which get brighter when you turn them to the left. You can set up patterns which accentuate notes in arpeggiated chords at particular spots.   Or, you can set the thing to do a sort of tremolo echo in seek-mode, with the knobs set like this: 7:00, 5:00, 8:00, 5:00, 11:00, 5:00, 2:00, 5:00 (these are o'clock positions, not spinal tap 1-11). Then set the speed control for a happy tempo. Another fun setting is to put each knob at a different position and put the pedal in random mode with the random switch. Also, try putting all the knobs in a very narrow range in the middle of the wah sound (about 1 or 2:00) and set the speed pretty fast in random mode... fun burbling sound.\n\"Give me enough knobs, and I can control the world.\" -Z. Vex\nhttps://www.zvex.com/custom-store/ooh-wah",
+    "hrid": "zvex-ooh-wah-ii"
+}

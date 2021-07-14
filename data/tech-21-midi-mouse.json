@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15260",
+    "name": "Midi Mouse",
+    "image": "images/tech-21-midi-mouse.jpg",
+    "function": [
+        "MIDI",
+        "Utility"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 121,
+    "height": 95,
+    "details": "Midi Controller SwitchThe MIDI Mouse is designed to take the frustration and confusion out of MIDI and offer an exceptionally user-friendly footcontroller.\nEasily access 128 patches on any of the 16 selectable MIDI channels by using the Up and Down footswitches to locate your program, with no banks to select.\nA third footswitch toggles between Search mode to locate programs and Active mode to send the program number to the MIDI output.\nhttp://www.tech21nyc.com/products/effects/midimouse.html",
+    "hrid": "tech-21-midi-mouse"
+}

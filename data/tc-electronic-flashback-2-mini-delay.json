@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25221",
+    "name": "Flashback 2 Mini Delay",
+    "image": "images/tc-electronic-flashback-2-mini-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$101 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Mini Delay PedalTiny legendary delay pedal returns with innovative pressure-sensitive footswitch and a fresh batch of TonePrints.\nSecondary footswitch functions: MASH and Tap Tempo give you powerful real-time parameter control.\nNext-generation delay algorithms give you ultra-realistic analog and tape delay tones with warble and flutter effects.\nAll new mesmerizing Crystal delay utilizes polyphonic octaver engine from SUB 'N' UP OCTAVER for otherworldly tones.\nCraft your own delays and customize MASH functionality with free TonePrint Editor (PC, Mac*, iPhone*, Android* and iPad*).\nTonePrint-enabled to let you beam the new FLASHBACK 2 presets into your pedal with the free TonePrint App.\nExtra-small enclosure easily fits on any pedal board.\nSimple, easy-to-use controls let you focus on playing.\nWorks flawlessly with guitar and FX loop signals.\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nAnalog-Dry-Through maintains integrity of analog dry signal path when the effect is on.\n3-Year Warranty program.\nDesigned and engineered in Denmark.",
+    "hrid": "tc-electronic-flashback-2-mini-delay"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30346",
+    "name": "Compressor MKII",
+    "image": "images/empress-effects-compressor-mkii.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "CompressorWhen we released our original Compressor back in 2011, it quickly became a favourite among guitar and bass players alike who were searching for something more than the typical oversimplified controls found on most compressor pedals. Now, based on our users’ valuable feedback, we’ve taken everything great about our original Compressor and made it even better. \nOn top of the full range of features and controls normally only seen in high end studio equipment, such as input and gain reduction metering, independent attack and release controls, a mix knob for parallel compression, and an external sidechain insert, we’ve now added a ‘tilt’ tone eq control, and a selectable sidechain high pass filter built into the Compressor’s detection circuit. Oh, and the whole package is now half the size and available in two snazzy colours! \nAll Analog Signal Path - no digitals in here!\nExtremely Transparent - Add dynamic control without altering the original tone of your instrument\n3 Compression Ratios - 2:1, 4:1 and 10:1 ratios offer lots of flexibility\nAttack and Release Control - allows for ultimate control over the compression characteristics\nMix - Blend uncompressed signal in with the compressed signal for parallel compression, New York Style!\nMetering - Meter both gain reduction and input levels on separate meters.\nTone - New tone knob, a \"tilt\" sytle tone knob centered at 500Hz to nail that perfect tone.\nSidechain Send/Return- 3.5mm TRS jack send and return for sidechain compresson.  \nSidechain High Pass Filter - No need to add a high pass filter to the sidechain, now there is one built in that can be toggled off or set to 120 or 240Hz. \nTrue Display LEDs - Bright multi-color LEDs always let you know what the compressor is doing.\nPower On Bypassed or Engaged - For musicians that never want to turn their compressor off. \nTrue Bypass - The Empress Compressor employs true bypass, so you can be sure that it's not affecting the signal when disengaged.\nSmall Size - New enclosure approximately half the size of the original compressor, which is delightfully small when considering all the features packed into this unit.\nBeautiful Case - It has a sparkle you can't deny, in blue or silver!\nhttps://empresseffects.com/products/compressor-mkii",
+    "hrid": "empress-effects-compressor-mkii"
+}

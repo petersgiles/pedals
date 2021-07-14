@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11541",
+    "name": "720 Looper",
+    "image": "images/electro-harmonix-720-looper.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 105,
+    "height": 121,
+    "details": "Stereo looper With 720 seconds (12 minutes) of stereo recording time on 10 independent loops and unlimited overdubbing, the compact 720 Stereo Looper provides guitarists with an intuitive tool that’s perfect for practice and live performance.\nQuick Specs\n- Extra-long 12 minutes of stereo recording time\n- 10 independent loops\n- Undo-Redo, Reverse and ½ Speed Effects at the touch of a button\n- High-quality, uncompressed audio, 24-bit A/D/A converters plus 44.1kHz sample rate\n- Stereo in/out for enhanced usability… record two instruments at once\n- Foot controller input provides a way to use popular 3-button foot controllers to change a bank up or down, and gives access to instant Undo-Redo\n- Silent footswitches\n- Loop fadeout (trails) mode\n- Includes EHX9.6DC power supply\n- Works on 9V battery and provides extended battery life\n- Dimensions in inches: 4.0 (w) x 4.75 (l) x 2.25 (h)\n- Dimensions in mm: 102 (w) x 121 (l) x 89 (h)\nhttp://www.ehx.com/products/720-stereo-looper",
+    "hrid": "electro-harmonix-720-looper"
+}

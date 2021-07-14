@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11911",
+    "name": "Ax8",
+    "image": "images/fractal-audio-systems-ax8.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Fractal Audio Systems",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,299 Price in €",
+    "width": 415,
+    "height": 232,
+    "details": "Amp ModelerThe AX8 is a new all-in-one floor unit featuring the legendary Quantum Amp Modeling made famous in our flagship Axe-Fx II line of preamp/guitar processors. It also features our patented UltraRes™ speaker simulation technology and a stunning collection of Fractal Audio effects, including many of the greatest stompboxes and studio effect processors of all time, plus the tremendous capability to imagine and create totally new sounds. No other all-in-one unit offers the same level of realism, flexibility, and control. A truly musical experience, playing the AX8 unlocks creativity and inspires great performances.\nhttp://www.fractalaudio.com/ax8-amp-modeler-multi-effects.php",
+    "hrid": "fractal-audio-systems-ax8"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16767",
+    "name": "Amplifire 6",
+    "image": "images/atomic-amplifire-6.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Atomic",
+    "current": "1000 mA / 9 V / AC/DC",
+    "cost": "$540 Price in €",
+    "width": 216,
+    "height": 165,
+    "details": "http://atomicamps.com/amplifire-6/",
+    "hrid": "atomic-amplifire-6"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25396",
+    "name": "NBP-5",
+    "image": "images/nux-nbp-5.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 115,
+    "height": 105,
+    "details": "Melvin Lee Davis Bass Preamp + DI Designed by Bassist for Bass Lovers\nWe collaborated with American bass player Melvin Lee Davis to create MLD Bass Preamp & DI. \n\"Melvin Lee Davis is an American bass player, vocalist, keyboard player, producer, TV composer and engineer based in Orange County, California. He is the music director for Grammy-award winning artist Chaka Khan and has recorded with The Pointer Sisters, Lee Ritenour, Bryan Ferry, Patti Austin and Gladys Knight & the Pips.\"\nMLD Bass Preamp + DI has tons of functions based on Melvin Lee Davis' musical experience. And offers the best sound-shaping controls such as: 3-band EQ with middle-frequency selection, drive with blend control, speaker cabinet simulation (Impulse Response loader) and built-in noise reduction with Decay and Threshold controls.\nhttp://www.nuxefx.com/index.php?m=content&c=index&a=show&catid=7&id=308",
+    "hrid": "nux-nbp-5"
+}

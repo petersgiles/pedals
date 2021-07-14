@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11719",
+    "name": "VP1 Vintage Phaser",
+    "image": "images/behringer-vp1-vintage-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$37 Price in €",
+    "width": 86,
+    "height": 138,
+    "details": "Dial in authentic and classic 3-dimensional phase shifting effects\n    Dedicated Rate control offers a range from rapid rotary speaker to impressive jet plane effects\n    Tone switch provides negative and positive feedback modes for more or less detuned sounds\n    Runs on standard 9V battery or optional power supply for full pedalboard integration\n    True-bypass switching preserves your tone when the effect is off",
+    "hrid": "behringer-vp1-vintage-phaser"
+}

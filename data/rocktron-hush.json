@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17642",
+    "name": "Hush",
+    "image": "images/rocktron-hush.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 110,
+    "height": 140,
+    "details": "Noise reductor pedal",
+    "hrid": "rocktron-hush"
+}

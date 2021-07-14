@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16603",
+    "name": "Whammy 20th Anniversary",
+    "image": "images/digitech-whammy-20th-anniversary.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 237,
+    "details": "",
+    "hrid": "digitech-whammy-20th-anniversary"
+}

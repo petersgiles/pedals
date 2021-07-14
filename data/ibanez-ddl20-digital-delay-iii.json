@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33730",
+    "name": "DDL20 Digital Delay III",
+    "image": "images/ibanez-ddl20-digital-delay-iii.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "58 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Digital DelayThe DDL20 is a straightforward digital delay that offers all of the basic features that make this such a popular effector. With its superior bandwidth of 16kHz and a wide range of delay times from 8ms to 1024ms, the DDL20 will provide you with all of the delay effects necessary for modern guitar work, including everything from doubling to long delay. Needless to say, the delay sound is what you would expect from a high-quality digital effector, superbly ambient and clear.\nhttp://www.effectsdatabase.com/model/ibanez/10/ddl20",
+    "hrid": "ibanez-ddl20-digital-delay-iii"
+}

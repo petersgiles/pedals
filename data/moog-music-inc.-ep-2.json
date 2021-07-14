@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12135",
+    "name": "EP-2",
+    "image": "images/moog-music-inc.-ep-2.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 89,
+    "height": 318,
+    "details": "Expression Pedal",
+    "hrid": "moog-music-inc.-ep-2"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17740",
+    "name": "Route 66 Compressor Overdrive",
+    "image": "images/truetone-route-66-compressor-overdrive.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 130,
+    "height": 52,
+    "details": "The V3 revised version of the legendary Visual Sound Route 66 has everything which made this pedal so popular and now additionally the possibility to mix the raw sound to it. Classic compression combined with Classic OverdriveThe V3 revised version of the legendary Visual Sound Route 66 has everything which made this pedal so popular and now additionally the possibility to mix the raw sound to it. Classic compression combined with Classic Overdrive\nhttp://truetone.com/route-66/",
+    "hrid": "truetone-route-66-compressor-overdrive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11670",
+    "name": "E-Lady",
+    "image": "images/mooer-e-lady.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Mooer",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$88 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Flanger",
+    "hrid": "mooer-e-lady"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11587",
+    "name": "Firefly",
+    "image": "images/jhs-firefly.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Fuzz PedalIn 1965 a new fuzz circuit called the Sola Sound* Tone Bender MKI arrived on the booming London music scene. By 1969 several versions and variations of the Tonebender existed. It was the British engineered answer to the popular American made Gibson* Maestro Fuzz-Tone, and it delivered a lot of fuel for the British Invasion that swept over the American airwaves in the 60’s. From its inception, the Tonebender soon became a staple in the tones of some of the greatest guitarist of the era which caused many versions and copies by other companies like Vox*, Jennings*, Coloursound* and JMI* to be produced. The Firefly Fuzz is our take on delivering this classic three transistor Germanium fuzz circuit, in JHS Pedals fashion, including major improvements while caring for the details that preserve its legendary tone.\nAt first glance you will see four controls, Volume, EQ, Fuzz and Bias. The Volume is your standard master volume; the Firefly has an enormous amount of headroom that allows it to be used as a boost that can hit extremely hard if needed. The EQ operates as a cut, as you rotate to the right you will remove highs and fatten the tone. The Fuzz control simply adds more distortion/fuzz making the signal dirtier. One of the major additions to this classic circuit is our Bias control knob. This allows you to fine-tune just the right amount of power to the perfectly hand-matched germanium AC128 transistors inside. The results are loud and powerful tones when rolling the Bias knob to the left and more dirty/saturated tones when rolling it to the right. This control also helps you tweak the pedal to perfection and overcome the issue of the transistors sounding different in various temperatures and environments that all Germanium Fuzz pedals are subject to. Another huge improvement over vintage Tonebender units are that we internally adjust voltage and polarity so that you can power this classic circuit on a normal 9v power supply!\nThe Firefly is our tribute to the Tonebender MKIII model of the late 60’s. If you are a fan of classic fuzz and the unique touch sensitivity, response and rich tone that a true Germanium fuzz offers, the Firefly is a perfect fit. This fuzz is truly a powerful and versatile piece of gear that can reach from blues to rock to heavy grinding distortion.\nhttps://www.jhspedals.com/products/discontinued-rare/fireflyfuzz/",
+    "hrid": "jhs-firefly"
+}

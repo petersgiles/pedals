@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18572",
+    "name": "Kodiak",
+    "image": "images/jhs-kodiak.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 121,
+    "details": "Analog tremolo with tap tempoTremolo Pedal for Electric Guitar, with 4 Wave Shapes, and Tap Tempo",
+    "hrid": "jhs-kodiak"
+}

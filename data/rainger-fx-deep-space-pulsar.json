@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16229",
+    "name": "Deep Space Pulsar",
+    "image": "images/rainger-fx-deep-space-pulsar.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$213 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Sidechainer Pedal",
+    "hrid": "rainger-fx-deep-space-pulsar"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24142",
+    "name": "Slammi Plus",
+    "image": "images/electro-harmonix-slammi-plus.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "24 mA / 9 V / AC / Negative Center",
+    "cost": "$168 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "Pitch Shifter\nhttps://www.ehx.com/products/slammi-plus",
+    "hrid": "electro-harmonix-slammi-plus"
+}

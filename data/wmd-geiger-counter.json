@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12166",
+    "name": "Geiger Counter",
+    "image": "images/wmd-geiger-counter.jpg",
+    "function": [
+        "Distortion",
+        "Digital Glitch"
+    ],
+    "manufacturer": "WMD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "Bit Crusher and Sample Rate Reducer w Wave Table ModulationThe WMD Geiger Counter is hundreds of entirely new face melting sounds. A high gain modern preamp drives an 8 bit computer, creating sounds which range from nice (tubey overdrive, lofi aliasing, hot gated leads) to total madness (impossible amounts of gain, multiple octave foldover, harsh digital data errors, and piercing sculpted noise).\nFeatures:\nHigh Gain Modern Preamp\nDramatic Tone Control with Disable\nSample Rate from 260Hz to 58kHz\n1 to 8 Bit Depth with Mask mode\n252 Wave Table Modulator\nCV In for Expressive Control\nAlways saves settings\nHand Wired True Bypass\nTop Quality Components\nSuper Hard Epoxy Powder Finish\nStandard 9V Power Jack\n4.5\" x 3.5\" Small Footprint\nhttps://www.wmdevices.com/products/geiger-counter",
+    "hrid": "wmd-geiger-counter"
+}

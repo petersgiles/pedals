@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30988",
+    "name": "SABBRA CADABRA",
+    "image": "images/catalinbread-sabbra-cadabra.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 62,
+    "height": 114,
+    "details": "Tony Iommi + Treble Booster + Laney Supergroup\"Transform any guitar rig into a rig of doom with the Sabbra Cadabra.\"\n Tony Iommi arguably had the most influential tone in the history of electric guitar. Really, when you think Black Sabbath you immediately think “Electric Guitar”. His early signature sound was the result of an always on treble-booster plugged into cranked Laney Supergroup amps. This approach to guitar is extremely rewarding and fun, but lost in this day and age because honestly who can really get away with the stage volume anymore? Far and few between! We designed the Sabbra Cadabra to give players that sonic experience, re-contextualized for today’s approach where players tend to use amps solely within their clean range at more mortal volume levels.\nhttps://catalinbread.com/products/sabbra-cadabra",
+    "hrid": "catalinbread-sabbra-cadabra"
+}

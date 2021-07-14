@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17353",
+    "name": "Little Dipper",
+    "image": "images/twa-little-dipper.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "TWA",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Formant Envelope FilterThe Little Dipper’s dual filters will bend and morph your guitar tone into a blabbering, gurgling fury, creating frequency peaks and notches that simulate the vowels and diphthongs of human speech.\nThe Little Dipper can emulate talkboxes, filters, phasers, or flangers, or spit out the most vocal-sounding wah-wah this side of the Milky Way.  Stack it with an octave pedal for the fattest, throatiest synth sounds.\nhttp://www.godlyke.com/totally-wycked-audio-effects-pedals/hand-built/little-dipper-02-envelop-controlled-vocal-formant-filter",
+    "hrid": "twa-little-dipper"
+}

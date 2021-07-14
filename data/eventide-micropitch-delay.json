@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32334",
+    "name": "MicroPitch Delay",
+    "image": "images/eventide-micropitch-delay.jpg",
+    "function": [
+        "Delay",
+        "Pitch Shifter",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Eventide",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$279 Price in €",
+    "width": 102,
+    "height": 108,
+    "details": "Dual pitch-shifters with fine-resolution de-tuning, delay and modulationThe MicroPitch Delay algorithm has been a mainstay of audio production and musical performance since it was first introduced within the legendary H910 and H949 effects processors. Its subsequent appearance in the H3000 Harmonizer® further popularized the effect and cemented its place in musical history as a quintessential studio tool. Now players can harness the power of this iconic Eventide effect with the MicroPitch Delay pedal, which offers a unique combination of dual pitch-shifters with fine-resolution de-tuning, delay and modulation – including new positive envelope and negative envelope modulation sources. Its distinctive architecture yields a wide breadth of sonic applications ranging from subtle tone thickening to creating a rich stereo spread to a host of creative sound design special effects. The rugged, gig-ready red MicroPitch Delay pedal is not just for guitars – the pedal brings unparalleled dimension to any source from vocals to keyboards to drums, strings, brass and winds. \nUsers can choose from dozens of Eventide presets to load via MIDI, which are also accessible in the preset list on the Eventide Device Manager (EDM – a Windows or Mac OS X application for software updates, system settings and creating/saving presets).\nThe pedal can store up to 127 presets in memory, with five presets loaded at a player’s feet for access from a latching/momentary dual-action Active Footswitch with a Catch-up mode to help players dial in their sound when toggling between presets/parameters. A single Aux switch can be deployed to Tap Tempo, or a triple Aux switch can be used for easy preset changing (up/down/load). The MicroPitch Delay Pedal offers multiple Bypass options: Buffered, Relay, DSP+FX or Kill dry. MIDI capability is available over TRS (for use with a MIDI to TRS cable or converter box) or USB. The rear-panel Guitar/Line Level switch allows level-matching with guitars, synths, FX loops or DAW interfaces. Any combination of MicroPitch Delay parameters can be mapped to an Expression pedal. \nhttps://www.eventideaudio.com/",
+    "hrid": "eventide-micropitch-delay"
+}

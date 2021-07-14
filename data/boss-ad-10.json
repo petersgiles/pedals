@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14881",
+    "name": "AD-10",
+    "image": "images/boss-ad-10.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect",
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "300 mA / ? V / AC",
+    "cost": "$392 Price in €",
+    "width": 217,
+    "height": 161,
+    "details": "Acoustic Guitar Preamp Processor PedalProfessional preamp/DI for performing and recording with acoustic-electric guitar\nAcoustic Resonance restores the warm and rich resonance lost with most pickup systems\nFour-band EQ and variable low-cut filter tuned to deliver optimized tone shaping for acoustic guitar\nMulti-band compressor with MDP technology provides transparent dynamics control\nNewly developed anti-feedback functions control feedback while maintaining balanced tone\nTwo channels with independent EQ for connecting two instruments or blending multiple pickup sources\nOnboard ambience, delay, and chorus effects with multiple sound types and adjustable parameters\nBoost function with adjustable tone setting\nMemory function for storing 10 sound setups\nOnboard looper with 80 seconds of recording time\nXLR and ¼-inch connectivity for interfacing with PA systems, stage monitors, amps, and external effects\nUSB audio interface functionality for computer recording and playback\nFast and accurate built-in tuner\nCompact and portable design; runs on AC adapter or six AA-size batteries\nhttps://www.boss.info/us/products/ad-10/",
+    "hrid": "boss-ad-10"
+}

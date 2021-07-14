@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19602",
+    "name": "G-Packer Optical Compressor",
+    "image": "images/amt-g-packer-optical-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 55,
+    "height": 100,
+    "details": "Optical Compressor\nhttps://amtelectronics.com/new/amt-g-packer/",
+    "hrid": "amt-g-packer-optical-compressor"
+}

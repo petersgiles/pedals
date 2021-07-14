@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33333",
+    "name": "Z-TONE Buffer Boost",
+    "image": "images/ik-multimedia-z-tone-buffer-boost.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "IK Multimedia",
+    "current": "7 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 108,
+    "height": 120,
+    "details": "Preamp/DI pedal with advanced tone shapingGuitar & bass pedalboards are all about exploring new tones & textures, creating a wide range of sound for your instrument. Z-TONE® Buffer Boost takes your live rig to a new level, letting you shape the sound of your instrument with the input circuits from our award-winning\nAXE I/O interface.\nChange the tone & feel of your guitar or bass, buffer your tone to survive even the biggest pedalboard, kick in the boost and supercharge all your existing gear with a powerful new front-end.\nUltra low noise, high bandwidth and ultra low distortion preamp, buffer and direct box, with boost control and variable gain and input impedance. Transformer-based galvanically isolated balanced output and electronically buffered low impedance unbalanced output. PURE and JFET input stages for total transparency or added harmonics.\nAudio specs\nI/O Gain: Unitary, from 1/4” input JACK to both 1/4” and XLR outputs when GAIN is at 0dB and Z-TONE at the SHARP position.\nGain Range: From -8dB to +8dB\nBoost range: From 0dB to +10dB\nInput impedance - Z-TONE set on PASSIVE mode: Variable from 1MΩ down to 2.2kΩ\nInput impedance - Z-TONE set on ACTIVE mode: Approx 20kΩ\nOutput impedance, unbalanced out: 56Ω\nOutput impedance, balanced out: 600Ω\nMax input level before clipping: +13dBm when powered by 48V phantom,+9dBm when powered by 9V battery\nDynamic Range: better than 114dB(A) for both outputs, input gain at 0dB\nTotal Harmonic Distortion, balanced output, 1kHz, +4dBm input: 0.0033% (PURE), 0.2% (JFET)\nTotal Harmonic Distortion, unbalanced output, 1kHz, +4dBm input: 0.00055% (PURE), 0.2% (JFET)\nFrequency response: from 5Hz to 30kHz -1dB\nPhase deviation: 0° +/-10° from 20Hz to 20kHz\nPower\nPhantom power: +48V phantom on Balanced output.\nBattery power: 9V\nExternal DC power: 9VDC, positive outside - not included\nCurrent consumption from P48 phantom power source: 6.5mA\nDimensions\nSize: 10.8cm/4.25\" x 12cm/4.72\" x 5.8cm/2.28\"\nWeight: 600g/21.2oz\nhttps://www.ikmultimedia.com/products/ztonebufferboost/index.php?p=info",
+    "hrid": "ik-multimedia-z-tone-buffer-boost"
+}

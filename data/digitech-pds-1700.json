@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24593",
+    "name": "PDS 1700",
+    "image": "images/digitech-pds-1700.jpg",
+    "function": [
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 152,
+    "height": 127,
+    "details": "",
+    "hrid": "digitech-pds-1700"
+}

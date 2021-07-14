@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12154",
+    "name": "2x1 Switcher",
+    "image": "images/saturnworks-2x1-switcher.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Saturnworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 38,
+    "height": 89,
+    "details": "Saturnworks 2 in 1 out instrument switcher A/B  pedal",
+    "hrid": "saturnworks-2x1-switcher"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24129",
+    "name": "Steve Harris flyrig",
+    "image": "images/tech-21-steve-harris-flyrig.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation",
+        "Tuner"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 197,
+    "height": 64,
+    "details": "",
+    "hrid": "tech-21-steve-harris-flyrig"
+}

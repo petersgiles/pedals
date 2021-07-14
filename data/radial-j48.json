@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23118",
+    "name": "J48",
+    "image": "images/radial-j48.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / 48 V / DC",
+    "cost": "$200 Price in €",
+    "width": 89,
+    "height": 140,
+    "details": "Active direct box",
+    "hrid": "radial-j48"
+}

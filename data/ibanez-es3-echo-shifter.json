@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28240",
+    "name": "ES3 Echo Shifter",
+    "image": "images/ibanez-es3-echo-shifter.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$204 Price in €",
+    "width": 116,
+    "height": 153,
+    "details": "Digital delay with an analogue mindThe ES3 Echo Shifter is equipped with both analog and digital delay modes. The analog setting provides a warm, natural tone with delay times between 40ms and 600ms, and unlike other digital pedals which simply simulate analog delay, the ES3 is actually equipped with analog circuitry. The digital mode offers longer delay times all the way up to 1500ms. The pedal also includes a new modulation speed control which offers increased options to tailor the effect to the player's unique preferences. \nUnlike the ES2, where the Oscillation function needed to be engaged by hand using a mini toggle switch, this same function can be engaged simply by stepping on and holding the right footswitch. This allows for quickly changing the quality and texture of the delay mid-performance. The pedal carries over the fader delay time control, delay tap switch, as well as oscillation and modulation modes from the ES2. The combined result of these upgrades is a more usable pedal with greater tonal versatility and enhanced musical potential.\n•Controls: Mix, Feedback, Depth, Speed, Delay Time\n•Switches: Effect on/off, Tap/Oscillation on (press and hold), Analog/Digital, Modulation On/Off, Inst/Line\n•I/O's: Input, Output Input is on the right side. Output is on the left side.\n•Delay time: Analog 40ms - 600ms, Digital 40ms - 1500ms\nhttps://www.ibanez.com/usa/products/detail/es3_01.html",
+    "hrid": "ibanez-es3-echo-shifter"
+}

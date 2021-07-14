@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27350",
+    "name": "TD-X Tube Echo",
+    "image": "images/guyatone-td-x-tube-echo.jpg",
+    "function": [
+        "Delay",
+        "Tube"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "200 mA / 12 V / DC / Negative Center",
+    "cost": "",
+    "width": 89,
+    "height": 130,
+    "details": "Flip series tube delay\nhttp://www.effectsdatabase.com/model/guyatone/flip/tdx#specs",
+    "hrid": "guyatone-td-x-tube-echo"
+}

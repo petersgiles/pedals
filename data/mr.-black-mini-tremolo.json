@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25481",
+    "name": "Mini Tremolo",
+    "image": "images/mr.-black-mini-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 47,
+    "height": 94,
+    "details": "Mini Format TremoloRise and shine with the pulsing throb of vintage bias-modulating tremolo! Blend in as much harmonic-vibrato as desired to coax the delicate textures only found in a handful of the most rare and sought after amplifiers from a time that will never be forgotten.\nThe Mini Tremolo's three simple, powerful, and intuitive controls let you quickly sculpt your signature tremolo tone, while its ultra-compact footprint and daisy-chain friendly \"industry standard\" 9VDC power input allow you to sneak the Mini Tremolo into even the tightest of pedal-boards, without requiring a specialized power-supply!\nAlways handmade, and built to last by real live human beans, right here in Portland, Oregon using exclusively premium parts which deliver superior tone and years of dependable service.\nControls:\nIntensity (tremolo depth/strength)\nHarmonics (harmonic vibrato mix)\nSpeed (tremolo speed/rate)\nTech Specs:\nTrue-Bypass\nInput Impedance: ~500KΩ\nOutput Impedance: ~2KΩ\nhttps://www.mrblackpedals.com/collections/pedals/products/mini-tremolo",
+    "hrid": "mr.-black-mini-tremolo"
+}

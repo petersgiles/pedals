@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16553",
+    "name": "Super Crunch Box v2",
+    "image": "images/mi-audio-super-crunch-box-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mi Audio",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$172 Price in €",
+    "width": 56,
+    "height": 109,
+    "details": "Distortion with loads of optionsThe MI Effects Crunch Box has become a modern-day classic that has garnered a loyal army of fans. We have re-designed the original and added new features to take this British stack-in-a-box to the next level!\nFor starters, the new Super Crunch Box features all the gain you could ever need. The 3 COMP settings give you 3 levels of clipping, from open classic crunch, sizzling ‘traditional’ Crunch Box to hot-rodded ‘Jose’ clipping. Paired with the new 3 position MODE switch opens up a world of tonal bliss, from the original high gain tones, the more detailed mid gain, and the brand new low gain mode, which is tailored for detailed single-coil duty, with a lightning fast, top end, and a remarkable touch sensitivity.\nhttp://miaudio.com/effects/super-crunch-box-distortion-v-2/",
+    "hrid": "mi-audio-super-crunch-box-v2"
+}

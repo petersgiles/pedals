@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33478",
+    "name": "Voodoo-vibe",
+    "image": "images/roger-mayer-voodoo-vibe.jpg",
+    "function": [
+        "Chorus",
+        "Tremolo"
+    ],
+    "manufacturer": "Roger Mayer",
+    "current": "50 mA / 9 V / DC",
+    "cost": "",
+    "width": 220,
+    "height": 150,
+    "details": "Tremolo-Vibrato-ChorusA versatile 3-in-one effect",
+    "hrid": "roger-mayer-voodoo-vibe"
+}

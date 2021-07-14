@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12625",
+    "name": "500k",
+    "image": "images/ernie-ball-500k.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$210 Price in €",
+    "width": 102,
+    "height": 279,
+    "details": "Stereo Volume / Pan The Ernie Ball 500k Stereo Volume Pedal features a 500k potentiometer suitable for the audio path of passive or active instruments. Attached to the footplate is a switch that provides the user two distinct operating modes (volume or pan). The stereo 500k pedal is extremely versatile and can be used in stereo or mono applications. Utilizing TRS stereo cables, use the B input and B output. For use as a typical pan pedal, switch the toe tap switch to the pan position and use only the A input. The pedal will pan the signal between the A and B outputs.\nhttps://www.ernieball.com/guitar-accessories/pedals/volume-pedals#P06165",
+    "hrid": "ernie-ball-500k"
+}

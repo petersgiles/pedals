@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27913",
+    "name": "Deja Vibe MDV-2",
+    "image": "images/fulltone-deja-vibe-mdv-2.jpg",
+    "function": [
+        "Chorus",
+        "Expression",
+        "Filter",
+        "Flanger"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 95,
+    "height": 266,
+    "details": "Univibe expression pedalThe Vintage Solution... with a True Bypass Twist: One of the cool things about a Vintage Univibe was that you turned it on simply by pushing forward on the treadle, which activated a momentary switch located in the heel of the foot controller... pretty nice because we usually use the slower speeds so there were no odd transition noises like you would get if you switched it on like a wah wah. Wah wah's (as you know) turn on with a toe-activated switch, which would sound odd on a Univibe clone because that position is the fastest speed. The problem was (on an old Univibe) all it did was turn on or off the light bulb on the PCB... it wasn't true Bypass and did not have a very transparent sound.\nOur Proprietary Heel-Activated system works perfectly, sounds fabulous, operates smoothly, and \"defaults\" to bypassed should your power supply fail or be disconnected... all ground covered ;)\nLastly, some have expressed concern about not having super-slow speeds being that \"true bypass\" is activated when the treadle is in full heel position. NOT TO WORRY, I found a way around the problem by increasing the \"value\" of the dual speed pot from 100K to 150K and now there are slower speeds available than any other Univibe clone as well as the super fast speeds!\nhttps://www.fulltone.com/node/15",
+    "hrid": "fulltone-deja-vibe-mdv-2"
+}

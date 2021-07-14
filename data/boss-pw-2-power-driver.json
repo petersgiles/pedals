@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12893",
+    "name": "PW-2 Power Driver",
+    "image": "images/boss-pw-2-power-driver.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The PW-2 was launched 1996 but was never a big seller. Maybe it was a mistake to label the tone controls FAT and MUSCLE instead of BASS and MIDDLE. The PW-2 has a mid range boost with a heavy low end sound designed to create the sound of a 4×12 speaker cabinet. Boss officially claims that production only lasted 9 months but investigations shows that the production lasted at least 11 months (July ’96 – May ’97) and that around 19000 PW-2s were made. Since sales were really slow, you could still find brand new PW-2s for sale almost 10 years after end of production.\nSpecifications\nControls: Level, Fat, Muscle, Drive\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 15 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe PW-2 was sold from August 1996 to October 2000.\nhttp://www.bossarea.com/boss-pw-2-power-driver/",
+    "hrid": "boss-pw-2-power-driver"
+}

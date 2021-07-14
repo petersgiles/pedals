@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12069",
+    "name": "Tape Delay",
+    "image": "images/empress-effects-tape-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$335 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "Digital Tape Delay\nTap Tempo with Ratios - Use tap tempo to set the Tape Delays speed; the ratio selection makes fast tempos and triplet based phase times easy.\nTrue Bypass and Trails. - The Empress Tape Delay Pedal employs true bypass, or you can choose to use buffered bypass with trails.\nAnalog Dry - The dry signal path is all analog.\nBlips - Activate blips to get crazy sounds when you move the tape head around while playing\nPresets - Advanced configuration allow you to run with 0, 2 or 3 presets\nRelay Bypass - Using a relay for bypass means quieter switching and, if the pedal loses power, your signal will still pass unharmed.\nFilter - Hi pass or low pass the delayed signal.\nModulation - Add a little or a lot of modulation, or none at all!\nSpecifications\nPower Input Voltage: 9 - 18 V DC (Negative tip)\nPower Input Connector: 2.1mm barrel connector (Negative tip)\nPower Consumption: ~280mA\nInput Impedance: 1Meg\nOutput Impedance: 1K\nFrequency Response (-3dB): 8Hz - 18.5kHz\nInput Headroom: +10.8dBu\nOutput Headroom: +10.2dBu\nDistortion: 0.40%\nSignal to Noise: 102.7dB\nDelay Time: 5ms - 2.8s\nhttps://empresseffects.com/products/tape-delay",
+    "hrid": "empress-effects-tape-delay"
+}

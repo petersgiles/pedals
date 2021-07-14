@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15873",
+    "name": "Clari(not) without fuzz",
+    "image": "images/mid-fi-clari(not)-without-fuzz.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Mid-Fi",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "Broken Tape DelayThe Clari(not) is an Envelope controlled Vibrato/chorus/wow and flutter simulator, with the ability to modulate over an octave. \nhttp://www.midfielectronics.com/clarinot",
+    "hrid": "mid-fi-clari(not)-without-fuzz"
+}

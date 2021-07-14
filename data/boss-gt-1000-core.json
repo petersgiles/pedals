@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29901",
+    "name": "GT-1000 CORE",
+    "image": "images/boss-gt-1000-core.jpg",
+    "function": [
+        "MIDI",
+        "Multieffect",
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "670 mA / 9 V / AC",
+    "cost": "$700 Price in €",
+    "width": 170,
+    "height": 138,
+    "details": "Guitar Effects ProcessorAmazingly powerful and ultra-versatile, GT-1000CORE delivers the most complete guitar and bass processing experience available in a single stompbox. The full DSP muscle of the flagship GT-1000 lives inside this mini juggernaut, driving class-leading sound quality, advanced AIRD technology, 24 simultaneous effects blocks, and over 140 unique amp/effect types for unlimited creative expression. GT-1000CORE fits into any pedalboard setup and works equally well as a standalone processor for playing live and in the studio. And with flexible I/O and vast control support, it’s right at home as the core of any rig.\nThe complete internal tone processing of the GT-1000 in a compact and portable stompbox\nUnlimited sound creation with 24 simultaneous effects blocks—including two different amps—and numerous series/parallel routing options\nUnmatched sound quality with 32-bit AD/DA, 32-bit floating-point processing, and 96 kHz sampling rate\nAIRD (Augmented Impulse Response Dynamics) technology delivers natural feel and optimized integration with all types of external devices\nIncludes classic BOSS effects, vintage stomps, MDP effects, and algorithms directly ported from the DD-500, MD-500, and RV-500 pedals\nUltra-fast patch switching and delay carryover\nInnovative Stompbox feature simplifies using common effects settings in many different patches\nLooper for practicing, developing ideas, and enhancing live performances\nHigh-resolution tuner with mono and polyphonic displays\nTwo send/return loops for external effects, four-cable method, or separate direct outputs\n16 slots for onboard user IRs\nSupports external control via footswitches, expression pedals, USB, and TRS MIDI\nControl out function for switching amp channels\nUSB audio/MIDI interface for computer-based recording and editing\nDedicated mode for bass guitar applications\nhttps://www.boss.info/global/products/gt-1000core/",
+    "hrid": "boss-gt-1000-core"
+}

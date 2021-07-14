@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19308",
+    "name": "Leeds",
+    "image": "images/tech-21-leeds.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 97,
+    "height": 119,
+    "details": "",
+    "hrid": "tech-21-leeds"
+}

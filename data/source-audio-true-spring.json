@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19244",
+    "name": "True spring",
+    "image": "images/source-audio-true-spring.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$258 Price in €",
+    "width": 69,
+    "height": 114,
+    "details": "spring reverb w/ tremolo",
+    "hrid": "source-audio-true-spring"
+}

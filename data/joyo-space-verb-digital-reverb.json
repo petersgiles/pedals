@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16618",
+    "name": "Space Verb Digital Reverb",
+    "image": "images/joyo-space-verb-digital-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Joyo",
+    "current": "22 mA / 9 V / DC / Negative Center",
+    "cost": "$60 Price in €",
+    "width": 43,
+    "height": 74,
+    "details": "The Space Verb gives you success to four classic reverb sounds: ROOM / HALL / CHURCH / PLATE. Each of the modes has been crafted to give you the truest representation of that space. JOYO took special care in making sure that the reverb does not supplant your guitar sound and get in the way. The Space Verb is 100% loyal to your original tone and simply adds another dimension and give your guitar sound more depth and inspired playability. \nhttps://www.amazon.com/JF-317-Digital-Reverb-Electric-Guitar/dp/B00RCHA040",
+    "hrid": "joyo-space-verb-digital-reverb"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12274",
+    "name": "Rainbow Machine",
+    "image": "images/earthquaker-devices-rainbow-machine.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$252 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Polyphonic Pitch Shifting ModulatorWelcome to the Rainbow Machine, in all its synthetic glory! This one is for experimenters, adventurists and noisemakers. Totally not for purists and/or tone hounds, there are no “natural sounds” that will come from this box. It takes modern DSP and uses it as a tool of future past to create real time pitch shifting using digital oscillators. The sound is much different than most modern day pitch shifting devices. It was imagineered to be wild and out of control and slightly imperfect while still tracking up and down the guitar neck without glitching out. A cold digital beast made to pretend it has feelings. It will do basic polyphonic harmonies from a 4th down through a 3rd up and every atonal pitch in between. You may add in an accompanying octave of the harmony by bringing up the Secondary function control. You can take it way beyond and open up your third eye by bringing in the Magic. The Magic is the heart of the Rainbow Machine. In conjunction with the Tracking control, the Magic creates wild pitch take offs and descents, chaos chorusing, shrieks, pixie trails and wealth of other general mayhem inducing noises. The pitch can be controlled by an external expression pedal for extra fun! The Rainbow Machine can be used on bass, keys, vocals or anything else you can dream up! This device has become a main stay of so many studios and touring musicians that we have lost count!\nAll digital wet signal with an all analog dry signal, true bypass switching and handmade one at a time by warm blooded human beans in the swamps of Akron, Ohio.\nhttps://www.earthquakerdevices.com/rainbow-machine/",
+    "hrid": "earthquaker-devices-rainbow-machine"
+}

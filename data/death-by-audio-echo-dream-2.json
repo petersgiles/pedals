@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13606",
+    "name": "Echo Dream 2",
+    "image": "images/death-by-audio-echo-dream-2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$280 Price in €",
+    "width": 117,
+    "height": 150,
+    "details": "DelayA powerful, ethereal delay pedal with otherworldly controls. Push the feedback for vast worlds of colorful sound. Introduce a bit of warble with the modulator for ghastly chorus tones, or a ton of it to absolutely warp the delayed signal. Once your delay is thoroughly warbled, turn up the fuzz and pulverize it into delayed, shattered pieces. This is the preferred echo for recording engineers and touring pros around the world because, simply put, it just sounds that good.\nhttps://deathbyaudio.com/products/echo-dream-2",
+    "hrid": "death-by-audio-echo-dream-2"
+}

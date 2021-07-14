@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19023",
+    "name": "ML5",
+    "image": "images/morningstar-ml5.jpg",
+    "function": [
+        "MIDI",
+        "Switch",
+        "Controller"
+    ],
+    "manufacturer": "Morningstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 165,
+    "height": 60,
+    "details": "Midi controlled loop switcher",
+    "hrid": "morningstar-ml5"
+}

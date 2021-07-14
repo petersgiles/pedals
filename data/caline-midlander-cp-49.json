@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33026",
+    "name": "Midlander CP-49",
+    "image": "images/caline-midlander-cp-49.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / DC",
+    "cost": "$35 Price in €",
+    "width": 76,
+    "height": 121,
+    "details": "Tube Screamer-style Overdrive",
+    "hrid": "caline-midlander-cp-49"
+}

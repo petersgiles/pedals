@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17779",
+    "name": "White Loop (version 1)",
+    "image": "images/onecontrol-white-loop-(version-1).jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$77 Price in €",
+    "width": 120,
+    "height": 65,
+    "details": "2 Loop SwitcherThe White Loop is a two loop true bypass looper. What separates the White Loop from many other similar products is the flash loop function.  The White Loop has a green and red loop. One switch toggles between these two loops. The second switch bypasses both loops. \n​Summary\n2-Channel Loop Flash Switcher\nAllows guitarists to quickly toggle between two loops or bypass both.\nDifference between the White Loop and Black Loop:\nFlash Loop Function:\nLeft footswitch toggles between the two (Red & Green) loops. \nRight footswitch bypasses whole pedalboard\nDifferent Uses:\nAB Switch\nAmp Channel Switcher\nTuner Output/Mute Switch\n2x DC outputs to add extra power to your pedalboard\nThe White Loop can be used without DC power, however the LEDs will not function.",
+    "hrid": "onecontrol-white-loop-(version-1)"
+}

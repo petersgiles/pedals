@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13464",
+    "name": "Bit Mixer",
+    "image": "images/red-panda-bit-mixer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 102,
+    "height": 51,
+    "details": "3 channel mixerThe Bit Mixer is a small, high-quality mixer designed for pedalboards. It features ultra-low distortion, low noise op amps. High-impedance inputs are designed for guitar, but work with line level signals as well. Each input has a volume knob that goes from off to unity gain.\nThe Bit Mixer is always on when power is connected. An internal LED is visible below the power jack.\nUsage\nConnect multiple instruments to one amp\nCombine parallel effects chains\nClean blend or analog dry path\nSpecs\nSize: 4.4\" x 2.6\" x 1.5\"\nInput impedance: 1 MΩ\nOutput impedance: < 1 kΩ\nFrequency response (± 3 dB): 20 Hz - 40 kHz\nSignal-to-noise ratio: 90 dB\nPower: 9-18 VDC\nCurrent: 60 mA\nhttp://www.redpandalab.com/products/mixer.html",
+    "hrid": "red-panda-bit-mixer"
+}

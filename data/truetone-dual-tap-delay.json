@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17611",
+    "name": "Dual Tap Delay",
+    "image": "images/truetone-dual-tap-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 231,
+    "height": 130,
+    "details": "Dual Tap DelayDual Tap Delay\nOne of Guitar World’s Top 10 Pedals!\nThe Truetone Dual Tap Delay gives you two separate channels which can be used independently or together, synchronized with a single tap-tempo switch. The two channels are identical, but with the second channel also having a Modulation control to add a Chorus effect to the repeats. Max delay time is one second for each channel.\nEach channel can be used in either Manual or Tap modes, with controls for Manual Delay Time (in Manual mode), Repeats, Effect Level, and Tone, as well as Time Divisions for Tap mode.\nThere are also two internal switches. One switch controls whether Output 2 is effected or dry, while the other switch sets repeats to be either trailing or non-trailing for Channel 2 after the effect is turned off.\nThe Dual Tap Delay is designed to be used without the need to read a manual… a refreshing change from most modern delay pedals. The sounds from the pedal are immediately gratifying, even on first use. Although it’s common to just let DSP do all the tone shaping in a delay, Truetone uses a lot of analog circuitry to create the warm feel of the Dual Tap Delay. Most companies don’t do that because it costs more and is more complicated, but we thought you would appreciate the better sound that this method produces.\nhttp://truetone.com/v3-dual-tap-delay/",
+    "hrid": "truetone-dual-tap-delay"
+}

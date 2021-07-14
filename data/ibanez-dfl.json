@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12100",
+    "name": "DFL",
+    "image": "images/ibanez-dfl.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Digital Flanger JapanThe Ibanez DFL was the first flanger to use digital processing, the IDPC (Ibanez Digital Processing Conversion) system which permits wideband, brighter flanging effects that were previously available only with rackmount digital processors. The DFL also features an extra wide 8:1 sweep ratio for deeper, wide-ranging flanging effects. This flanger can be heard throughout Rage Against The Machine‘s music catalog, and can go from “plane takeoff” to “underwater” and unlimited other flanging tones, with an extremely powerful and wide-ranging set of controls.\nWidth, Speed, Regen, and D-Time full sweep knobs, as well as D-Mode 3 position switch knob that has S (0.5-4 ms), M (1-8 ms), and L (2-16 ms) settings.\nMade In Japan\nThe DFL was sold from 1985-1986.\nUsers: Tom Morello",
+    "hrid": "ibanez-dfl"
+}

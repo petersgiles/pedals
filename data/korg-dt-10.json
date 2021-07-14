@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17124",
+    "name": "DT-10",
+    "image": "images/korg-dt-10.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 104,
+    "height": 119,
+    "details": "Digital Tuner",
+    "hrid": "korg-dt-10"
+}

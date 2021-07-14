@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24955",
+    "name": "Gjengangar V2",
+    "image": "images/pladask-elektrisk-gjengangar-v2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 120,
+    "height": 94,
+    "details": "Gate Delay\nhttps://pladaskelektrisk.com/wp-content/uploads/2016/05/Manual_Gjengangar2_ENG.pdf",
+    "hrid": "pladask-elektrisk-gjengangar-v2"
+}

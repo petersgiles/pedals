@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16530",
+    "name": "Vintage Ultra",
+    "image": "images/darkglass-electronics-vintage-ultra.jpg",
+    "function": [
+        "Bass",
+        "PreAmp"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$390 Price in €",
+    "width": 125,
+    "height": 96,
+    "details": "PreampThe Vintage Ultra is the result of the finest engineering process we have ever accomplished. 40 years ago it was necessary to carry a massive amp to have a rich, tight and articulate sound for bass players. Today, all you need is a super portable preamp which enables on one side a massive clean sound, and from the other side, a tasty saturated sound. This is a true elixir for low end lovers. \nhttps://www.darkglass.com/creations/vintage-ultra/",
+    "hrid": "darkglass-electronics-vintage-ultra"
+}

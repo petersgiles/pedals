@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11979",
+    "name": "MF-102 Ring Modulator",
+    "image": "images/moog-music-inc.-mf-102-ring-modulator.jpg",
+    "function": [
+        "Tremolo",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / 9 V / AC/DC / Positive Center",
+    "cost": "$299 Price in €",
+    "width": 152,
+    "height": 229,
+    "details": "Moogerfooger MF-102 Ring Mod Tremolo Overdrive\nhttps://www.moogmusic.com/products/moogerfoogers/mf-102-ring-modulator",
+    "hrid": "moog-music-inc.-mf-102-ring-modulator"
+}

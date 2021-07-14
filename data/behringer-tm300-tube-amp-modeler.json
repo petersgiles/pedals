@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12744",
+    "name": "TM300 Tube Amp Modeler",
+    "image": "images/behringer-tm300-tube-amp-modeler.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$30 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Tube Amp ModelingThe TM300 features authentic modeling technology for 3 classic guitar amps, 3 gain modes and 3 mic placements for a total of 27 configurations that let you easily achieve the most sought-after tube amp sounds – from clean to crunch to super-fat distortion.\nhttps://www.behringer.com/behringer/product?modelCode=P0518",
+    "hrid": "behringer-tm300-tube-amp-modeler"
+}

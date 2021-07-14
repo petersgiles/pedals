@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29128",
+    "name": "MicroAMP HA400",
+    "image": "images/behringer-microamp-ha400.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 12 V / DC",
+    "cost": "$24 Price in €",
+    "width": 102,
+    "height": 64,
+    "details": "4-channel Headphone Amplifier4 stereo headphone outputs with volume control \nhttps://www.behringer.com/product.html?modelCode=P0386",
+    "hrid": "behringer-microamp-ha400"
+}

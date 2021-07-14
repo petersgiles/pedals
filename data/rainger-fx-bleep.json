@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30508",
+    "name": "Bleep",
+    "image": "images/rainger-fx-bleep.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "63 mA / 9 V / DC / Negative Center",
+    "cost": "$205 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Fuzz with built-in modulation and noise gateThe Bleep is the most fun, most out-there pedal in the Rainger FX line! It’s a compilation of various sounds from the range of Dwarf pedals recently discontinued, but in a more usable format. Using the same full-on fuzz circuit from the Dr Freakenstein Fuzz pedal, it has more low-end, the LFO speed is adjustable on-the-fly, and the chip-destablising ‘bleep’ facility is now accessible via a front panel knob.\nThe ‘overtone’ is controlled by knob, LFO, or Igor controller. With Igor plugged in, the Bleep is highly controllable while you’re actually playing – no huge-and-heavy expression pedal needed. The dual-sensitivity pressure pad in effect adjusts the ‘Overtone’ knob, or the LFO speed. The built-in noise gate is always in operation, ensuring the pedal is totally silent when there’s no signal; that means zero background hiss – at whatever volume you’re playing at.\nThe green-on-green LED display changes with every new phrase you play – or every bleep, graphically showing what’s going on in a truly mesmerising fashion.\nThis pedal covers a wide palette of sounds, from hard chunks of uncompromising fuzz, to edgy lead tones that are guaranteed to cut through a mix. The sustain can morph into robot alarm sounds, the signal degrading into rhythmical proto-synthy pulses, their pitch actually playable in real time. With the LFO on, the ‘overtone’ is automatically modulated to produce a slowly scything tonal movement – like an extreme phaser, and with the ‘Bleep/Fuzz’ knob and Igor pressed the speed ramps up, moving into psychotic chirping like some fiendish arcade game…\nhttps://www.raingerfx.com/product/bleep-igor-controller/",
+    "hrid": "rainger-fx-bleep"
+}

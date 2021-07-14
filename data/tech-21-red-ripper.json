@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15691",
+    "name": "Red Ripper",
+    "image": "images/tech-21-red-ripper.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "Bass FuzzboxIf you think the Red Ripper is just another bass fuzzbox, you don’t know Jack. This all-analog distortion effect features aggressive tones and vintage filter-style effects, all completely under your control for truly custom sounds.\nMore than a simple distortion box, the Red Ripper responds to the dynamics of your individual touch. Play harder for more fuzz and higher harmonics, ease up for less fuzz and enhanced lower harmonics. The Red Ripper’s nasty little secret is the R.I.P. control, which powers your bass tone from vintage fuzz, to tectonic distortion and into the realms of Brassmaster-style octaver fuzz. Dime the R.I.P. and enjoy the violent stabs of a Moogie-style synth tone. While the Red Ripper can emulate the tones of an envelope filter, the signal is not actually being filtered, so your tone won’t thin out and drop off when the effect is engaged.\nUnlike vintage devices, all this gory fun comes with modern benefits. Active three-band EQ delivers studio-grade tone shaping in a compact pedal, while the Level and Drive controls let you find the sweet spot between dirt and volume. There’s a Low Pass Filter switch to compensate for full-range bass systems equipped with tweeters. Buffered bypass and a silent-switching, custom footswitch actuator completes the package.\nIt’s not what you’d expect from a distortion box, but it is what you’d expect from Tech 21 -- one killer pedal!\nhttp://www.tech21nyc.com/products/effects/redripper.html",
+    "hrid": "tech-21-red-ripper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12171",
+    "name": "Your Face Custom",
+    "image": "images/wren-and-cuff-your-face-custom.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$210 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Customized Fuzz Face Clone",
+    "hrid": "wren-and-cuff-your-face-custom"
+}

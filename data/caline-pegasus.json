@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21694",
+    "name": "Pegasus",
+    "image": "images/caline-pegasus.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 95,
+    "height": 120,
+    "details": "Klon overdrive clone\nhttps://www.amazon.com/Caline-CP-43-Pegasus-Overdrive-Simulation/dp/B07C183K1R",
+    "hrid": "caline-pegasus"
+}

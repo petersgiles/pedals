@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15221",
+    "name": "Mini Bi-Comp",
+    "image": "images/analogman-mini-bi-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$255 Price in €",
+    "width": 76,
+    "height": 114,
+    "details": "Mini Dual CompressorREV5 with MIX control cebame available in early 2016!\nMini Bicomp is exactly the same features as our BICOMP, just takes less real estate on your pedalboard. Same size as juicer or small comp. Works on battery or 9V DC adaptor. We make the cases in-house for a cost savings. They are not all perfectly machine-drilled and silk screen labelled like the BICOMP, but have a hand-made appearance. The switches are a little closer together, makes it easy to switch from one compressor to the other by pressing both switches at the same time. Use the side of your foot to easily switch just one side.\nFor battery use, it's best to get the large BICOMP as opening the mini bicomp pedal often, can stress the wires as it's packed very tightly.\nWe also offer the USA 12V power supply for a little more headroom, good if you run a hot signal into the comp.\nhttp://www.buyanalogman.com/mobile/Product.aspx?ProductCode=AM-Mini-Bi-Comp",
+    "hrid": "analogman-mini-bi-comp"
+}

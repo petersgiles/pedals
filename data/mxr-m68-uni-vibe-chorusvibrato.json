@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11683",
+    "name": "M68 Uni-Vibe Chorus/Vibrato",
+    "image": "images/mxr-m68-uni-vibe-chorusvibrato.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "MXR",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Chorus/VibratoReissue of the classic Uni-Vibe electric guitar effect made popular in the '60s-'70s\nWide range of effects between the chorus mode (dry signal and pitch-shifted signal) and vibe mode (pitch-shifted signal only)\nEasy to add to your pedalboard thanks to the compact design\nYour tone won't be affected while the pedal is off thanks to true bypass switching\nEasy to dial in with the simple three-knob interface\nhttps://www.jimdunlop.com/product/m68-7-10137-07227-5.do",
+    "hrid": "mxr-m68-uni-vibe-chorusvibrato"
+}

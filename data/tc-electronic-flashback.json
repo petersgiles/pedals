@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11408",
+    "name": "Flashback",
+    "image": "images/tc-electronic-flashback.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Delay and Looper\nhttp://www.tcelectronic.com/de/flashback-delay/",
+    "hrid": "tc-electronic-flashback"
+}

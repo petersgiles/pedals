@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16850",
+    "name": "Level Set Buffer",
+    "image": "images/fender-level-set-buffer.jpg",
+    "function": [
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "Fender",
+    "current": "14 mA / 9 V / DC / Negative Center",
+    "cost": "$112 Price in €",
+    "width": 70,
+    "height": 124,
+    "details": "Buffer From single-coil to humbucking pickups the output varies, potentially causing a nightmare when it comes to dialing in your tone with multiple guitars through the same rig. If you’re using one guitar through a complex pedalboard, your signal strength can also suffer due to cable capacitance. Enter the Level Set Buffer, a brilliant buffer pedal that lets you easily swap guitars without negatively affecting your tone. This original design features Level, Hi-Freq and Load controls to adjust the signal, along with a Main Mute footswitch for silent tuning. The tuner output lets your tuner be always on without interrupting your signal path.\nLevel and Hi-Freq trim controls\n    Main Mute footswitch for silent tuning\n    LED backlit knobs\n    Fender Amp Jewel LED\n    Magnetically latched hinged 9V battery door\n    Lightweight durable anodized aluminum construction\nhttps://shop.fender.com/en-NL/accessoriespedals-power-products/level-set-buffer-pedal/0234530000.html?rl=en_US",
+    "hrid": "fender-level-set-buffer"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12510",
+    "name": "Lo-Fi Loop Junky",
+    "image": "images/zvex-lo-fi-loop-junky.jpg",
+    "function": [
+        "Dynamics",
+        "Looper"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$389 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "20-second lo-fi looperA 20-second analog phrase-sampling looper with very low fidelity, frequency response that cuts off at 2.6 kHz, brick-wall compression, hiss, distortion, and a warped-record vibrato feature that makes your guitar sound like an ancient radio transmission, but your direct guitar sounds especially sparkly.\nhttps://www.zvex.com/guitar-pedals/lo-fi-loop-junky-guitar-effects-pedal",
+    "hrid": "zvex-lo-fi-loop-junky"
+}

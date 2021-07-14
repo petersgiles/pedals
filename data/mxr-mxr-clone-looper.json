@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24078",
+    "name": "MXR Clone Looper",
+    "image": "images/mxr-mxr-clone-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "MXR",
+    "current": "225 mA / 9 V / DC / Negative Center",
+    "cost": "$168 Price in €",
+    "width": 110,
+    "height": 60,
+    "details": "LooperWhether you’re practicing at home, captivating audiences with improv compositions onstage, or weaving intricate sonic tapestries in the studio, the Clone Looper Pedal has you covered. Just plug in, power up, and start recording an unlimited number of layers—up to 6 minutes long—that will be stored even when the pedal is off. A super convenient LED gives you a flashing 4 count to the beginning of the loop so you can keep your overdubs tight. Loops can be stopped and started in an instant, and your most recent layer can be undone just as fast. Run effects to your heart’s content—with storage sample rates up to 88.2kHz, so this little box will handle even high-gain distortion with ease. To keep your pre-loop signal intact, the MXR team also included an analog through-path. On top of that, the Clone Looper Pedal can be set for either buffered bypass or true bypass switching to accommodate your tone and signal needs.\nThe Clone Looper Pedal also comes packed with options for sonic explorers, from changing up the speed of your loop—to double-speed (3 minutes of recording time) or half-speed (12 minutes)—to reversing it entirely. Connecting an MXR Tap Tempo Switch to the CTR jack allows you to control all of these functions externally. The EXP jack provides further external control options when you connect a DVP volume pedal to adjust the loop’s output level or an MXR Tap Tempo Switch to engage Play Loop Once mode, which allows you to pull off smooth live performances and re-trigger your loop over and over again for DJ-style stutter effects. \nhttps://www.jimdunlop.com/mxr-clone-looper-pedal/",
+    "hrid": "mxr-mxr-clone-looper"
+}

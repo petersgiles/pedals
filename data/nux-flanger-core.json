@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17439",
+    "name": "Flanger Core",
+    "image": "images/nux-flanger-core.jpg",
+    "function": [
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$39 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "The Flanger Core has two flanger effects to choose from including normal and tape. It has been especially designed to create a new generation of sounds for the modern guitarist. With four parameter knobs, the Flanger Core allows you to adjust the tones to find the ultimate effect. This compact unit also features stereo and mono inputs and outputs providing more opportunities to experiment with.",
+    "hrid": "nux-flanger-core"
+}

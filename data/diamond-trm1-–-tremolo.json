@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15949",
+    "name": "TRM1 – TREMOLO",
+    "image": "images/diamond-trm1-–-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$286 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "TremoloAt the heart of the new Diamond Tremolo is a 100% analog signal path utilizing an optoisolator like vintage tube amplifiers of the 60’s. The analog signal path is combined with a microprocessor controller to provide a host of cool features including:\n– tap tempo and footswitchable double speed mode\n– user selectable waveforms (sharkfin, sinewave, square wave and ‘chop’)\n– timing accents (3/4, 6/8, 2/4 and 4/4)\n– rhythmic trem mode\n– ‘Chaotic’ mode – random speeds with any waveform!\n– TapView (TM) feature allows the player to visually see the tempo and tap speed while tapping a new setting.\nIt’s important to note that at no point is your instrument signal converted to digital! Everything you hear is completely analog. Vintage sounds, modern flexibility\nhttp://www.diamondpedals.com/products/tremolo/",
+    "hrid": "diamond-trm1-–-tremolo"
+}

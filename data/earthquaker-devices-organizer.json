@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12403",
+    "name": "Organizer",
+    "image": "images/earthquaker-devices-organizer.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "81 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 66,
+    "height": 123,
+    "details": "Polyphonic Organ EmulatorThe Organizer is a polyphonic organ emulator designed to mimic the organ tones of yesteryear crossed with the highly unique “Guitorgan”. It has a warm and very analog feel with a hint of Leslie warble that is unlike other modern octave shifters. It is simple to dial in and tracks chords as well as single notes perfectly all over the neck on both guitar and bass. Not only can the Organizer be used on strings, it has been widely used on everything from vocals and synths to horns and drums. If it makes sound, the Organizer can handle it! The Organizer uses a mix of analog and DSP circuitry with true bypass switching and an all analog dry signal path.\nhttps://www.earthquakerdevices.com/organizer",
+    "hrid": "earthquaker-devices-organizer"
+}

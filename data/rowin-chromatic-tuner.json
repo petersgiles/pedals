@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13741",
+    "name": "Chromatic Tuner",
+    "image": "images/rowin-chromatic-tuner.jpg",
+    "function": [
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$20 Price in €",
+    "width": 40,
+    "height": 95,
+    "details": "Chromatic tuner pedal for electric, acoustic guitar and bass.Chromatic tuner pedal for electric, acoustic guitar and bass.\nTrue bypass circuitry allows the signal going straight from the IN to the OUT.\nBright LED display for reading the tuning information easily.\nMini size and metal case, very durable and easy to store.\nhttps://www.aliexpress.com/item/Mini-Chromatic-Guitar-Tuner-Pedal-Effect-LED-Display-True-Bypass-for-Guitar-Bass-High-Quality-Guitar/32683105830.html",
+    "hrid": "rowin-chromatic-tuner"
+}

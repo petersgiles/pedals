@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12132",
+    "name": "Super Crunch Box",
+    "image": "images/mi-audio-super-crunch-box.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mi Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Marshall in a box ( MIAB ) style pedalThe MI Effects Crunch Box has become a modern-day classic that has garnered a loyal army of fans. We have re-designed the original and added new features like external PRESENCE control, COMP switch and LO/HI gain modes that now makes the Super Crunch Box the authority on British amp distortion for any era!\nhttp://miaudio.com/effects/super-crunch-box/",
+    "hrid": "mi-audio-super-crunch-box"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31650",
+    "name": "Model:Cycles",
+    "image": "images/elektron-modelcycles.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Drum",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC / Positive Center",
+    "cost": "$377 Price in €",
+    "width": 270,
+    "height": 180,
+    "details": "6 Voice FM Drum MachineSynth voice features\n\n6 × FM based Machines\n1 × Assignable LFO per track\n1 × Assignable velocity modulation per track\nStorage space for up to 60,000 presets\n\nSequencer\n\n6 × Audio tracks (all of which may be used as MIDI tracks as well)\nElektron sequencer with up to 64 steps\nUnique length and scale settings per track\nParameter locks\nMicro timing\nTrig conditions\nAssignable retrig\nReal-time or grid recording of notes and parameters\n96 × Projects\n96 × Patterns per Project\n\nSend & master effects\n\nDelay and reverb send FX\n\nHardware\n\n6 × Velocity sensitive pads\n1  ×  1/4” stereo headphone jack\n2  ×  1/4” impedance balanced audio out jacks\n1 × Hi-Speed USB 2.0 Micro B port\n3.5 mm dual polarity TRS MIDI In, Out/Thru jacks\n128  ×  64 pixel LCD screen\n48 kHz, 24-bit D/A converters\n\nMiscellaneous\n\nClass compliant USB audio\n\nhttps://www.elektron.se/products/modelcycles/",
+    "hrid": "elektron-modelcycles"
+}

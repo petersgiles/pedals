@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13229",
+    "name": "Voodoo Octave",
+    "image": "images/joyo-voodoo-octave.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "Octave Fuzz pedalJoyo clone of Fulltone Ultimate Octave / FOXX Tone Machine.\nhttp://joyoaudio.com/en/product/show_112.html",
+    "hrid": "joyo-voodoo-octave"
+}

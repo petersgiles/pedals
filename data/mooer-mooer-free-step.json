@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19553",
+    "name": "Mooer Free Step",
+    "image": "images/mooer-mooer-free-step.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 155,
+    "details": "Volume and Wah Pedal\nhttp://www.mooeraudio.com/product/175.html",
+    "hrid": "mooer-mooer-free-step"
+}

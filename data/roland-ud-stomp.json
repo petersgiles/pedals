@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17934",
+    "name": "UD Stomp",
+    "image": "images/roland-ud-stomp.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 280,
+    "height": 70,
+    "details": "",
+    "hrid": "roland-ud-stomp"
+}

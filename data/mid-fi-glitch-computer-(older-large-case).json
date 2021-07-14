@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18799",
+    "name": "Glitch Computer (older large case)",
+    "image": "images/mid-fi-glitch-computer-(older-large-case).jpg",
+    "function": [
+        "Digital Glitch",
+        "Distortion"
+    ],
+    "manufacturer": "Mid-Fi",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 117,
+    "height": 108,
+    "details": "High gain fuzz with poorly tracking 2 octave down harmony, from slight glitches to full on random arpeggiation. Yeeeee-haw!!!\nYou want the sound of a thousand crickets escaping from a mental institution? Then the pedal is for you.  Hard to control, weird sub-octave tracking. Can sound like a Gameboy/Torture-Device. Other points of note: 1) It sustains really well. 2) It does things that are hard to do twice 3) Great for endless laughter\nHeight measurement includes knobs. 108mm\nJust the case is 90mm.\nhttps://www.midfielectronics.com/glitchcomputer",
+    "hrid": "mid-fi-glitch-computer-(older-large-case)"
+}

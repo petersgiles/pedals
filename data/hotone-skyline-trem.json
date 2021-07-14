@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24150",
+    "name": "Skyline Trem",
+    "image": "images/hotone-skyline-trem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Hotone",
+    "current": "17 mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 46,
+    "height": 76,
+    "details": "Opto TremoloThe Hotone Skyline Series TREM optical tremolo pedal will deliver pulsating guitar tone.\nWhether it is surf you are after or something a little scarier, TREM will give you the lush, liquid waves you’re looking for.\nThe classic tone of photoelectric tremolo, with wide range adjustability and smooth, well-proportioned pulsing character.\nInspired by the legendary Fender Twin Amp*, our special circuit design ensures the consistency of output volume at different speeds.\nAdditional EQ circuit offers more options for sound decoration. \nhttps://www.hotoneaudio.com/products/skyline/trem",
+    "hrid": "hotone-skyline-trem"
+}

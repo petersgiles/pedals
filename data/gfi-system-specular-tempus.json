@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14129",
+    "name": "Specular Tempus",
+    "image": "images/gfi-system-specular-tempus.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo",
+        "MIDI"
+    ],
+    "manufacturer": "GFI System",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$391 Price in €",
+    "width": 120,
+    "height": 90,
+    "details": "Specular Tempus is a powerful reverb and delay effect processor in a compact pedal.Featuring 32 hand-crafted algorithms, 32 presets. stereo in/out, tap-tempo, and extensive inter-connectivity. Using the SpecLab software (free download) users get access to an extended set of parameters for deep-editing of the algorithms.\nSee algorithms information here.\nPreset System :  the 32 presets are organized in 4 pages, where each page contains 4 banks, and each bank contains 2 patches : A and B. Page 2, 3, and 4 are accessible via MIDI.\nStereo I/O : a reverb and delay effect processor sounds much much better in stereo, period.\nInterconnectivity : Specular Tempus has been designed with the need to interconnect with the outside world in mind. It features no less than 4 interfaces that greatly expand the specular horizon :\nAux-In - accepts single, dual, or triple buttons switch boxes for versatile external control (tap-tempo, bank up/down, etc).\nAux-Out - provides a switch contact that you can use to control other gears  (e.g. switching an amp's channel).   \nEffects Loop - create your own unique delay or reverb sounds by inserting other effects into the delay or reverb feedback.\nMIDI In - nearly all functions of the pedal are opened to MIDI access, including tap-tempo and expression pedal control.\nTap-Tempo : you can tap in your tempo using an external tap pedal or on the pedal itself (using a special mode). Subdivisions can be specified uniquely for each preset.\nAuto knob swell : when you engage this feature, the parameter controlled by one of the knob is slowly swept to the maximum value, hold it there, and then swept back to the original setting. Used judiciously, this feature can introduce dynamic elements to the soundscape. \nAnalog Dry-thru : dry signals are routed through pure analog paths.\nSmall form-factor : the pedal measures 12 x 9 (cm) or 4.7 x 3.5 (inch).\nhttps://www.gfisystem.com/specular-tempus.html",
+    "hrid": "gfi-system-specular-tempus"
+}

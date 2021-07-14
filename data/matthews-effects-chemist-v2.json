@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21930",
+    "name": "Chemist V2",
+    "image": "images/matthews-effects-chemist-v2.jpg",
+    "function": [
+        "Chorus",
+        "Multieffect",
+        "Phase Shifter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 122,
+    "details": "Atomic Modulator Pedal",
+    "hrid": "matthews-effects-chemist-v2"
+}

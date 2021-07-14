@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18644",
+    "name": "Deucetone Rat",
+    "image": "images/proco-deucetone-rat.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 180,
+    "height": 104,
+    "details": "Boost Guitar Effects PedalOVERVIEW\nA Swiss army knife for the analog guitarist.\nConsisting of two independent Pro Co RAT units, each Deucetone channel can be used separately, in stereo, or cascaded together for insane distortion. \nEach channel on this distortion guitar effects pedal is switchable between three RAT settings. Channel A features the Vintage RAT, Turbo RAT, and Dirty RAT, while Channel B gives you the choice of Vintage RAT, Turbo RAT, or Clean RAT tones. The Clean RAT is a clean boost, a tone only available in the Deucetone RAT. That's like having six RAT pedals in one effects unit. Used separately or cascaded, you have fifteen RAT tones at your feet. \nThe Deucetone RAT pedal features the legendary RAT Filter control. Turn it to the right to roll off brittle high-end frequencies. Having trouble cutting through the mix? Turn the Filter down and allow the natural brightness of your instrument to shine through. The Distortion and Volume controls dial in the perfect amount of gain while keeping the level consistent with your clean tone. While there's no mistaking the legendary RAT tone when the guitar pedal is on, true-bypass switching ensures that when the pedal is off, there is no coloration of your sound. \nPro Co Sound has been building professional effects since 1979. Since then, the RAT guitar pedal has evolved from a single, hand-built prototype into a family of versatile distortion pedals.\nFEATURES\n100% analog signal path\nPro Co's classic, virtually indestructible steel enclosure\nHeavy-duty, industrial footswitches, knobs, and jacks\nOn/Off LED indicator\nSloped face for easy stomping\nGlow in the dark graphics\nMilitary-spec glass-epoxy circuit board\nAC jack (RPS-1 power supply sold separately)\n\"No tools required\" battery compartment (9 volt not included)\nFive year limited warranty",
+    "hrid": "proco-deucetone-rat"
+}

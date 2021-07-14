@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13042",
+    "name": "VDL1",
+    "image": "images/vox-vdl1.jpg",
+    "function": [
+        "Looper",
+        "Multieffect"
+    ],
+    "manufacturer": "Vox",
+    "current": "140 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 264,
+    "height": 245,
+    "details": "Dynamic Looper Multi-Effects PedalVOX VDL1 Specifications\nEffects\nPre effects: 11 categories\nPEDAL (Clean/Comp/Crunch/Overdrive/Distortion)\nWAH (Clean/Comp/Crunch/Overdrive/Distortion)\nMOD (Chorus 1/Chorus 2/Flanger/Phaser/Tremolo)\nBASS (Electric 1-4/Synth 1/ Synth 2)\nACOUSTIC (4 types)\nPITCH\nSTUTTER\nEQ (6 types)\nDELAY (Short/Clean/Analog/Tape/BPMSync 1-3)\nREVERB (Spring/Room/Hall)\nSCI-FI (Drone 1-3/Synth 1-3/SlowAttack)\nLoop effects: 11 categories\nVOLUME (Current/Loop1-2/ALL)\nX-FADE (Input-Loop/Loop1-Loop2)\nREVERSE (X-fade/Alternate)\nLOOP IN LOOP\nPITCH\nSPEED\nSCRUB\nSTUTTER\nMOD\nFILTER (4 types)\nDELAY\nMaster limiter: 2 types (Soft, Hard)\nStop modes: 3 types (Delay, Fade Out, Phrase End)\nNumber of programs: 100 (50 preset, 50 user)\nLoop Specs\nMaximum recording time: total of 90 seconds\nNumber of loops: 2\nAudio inputs: INPUT jack (monaural) MIC IN jack (balanced XLR, phantom power not supported) MIC IN TRIM knob (for mic)\nAudio output: OUTPUT jack (monaural)\nSignal processing: A/D conversion=24-bit; D/A conversion=24-bit\nSampling frequency: 44.1 kHz\nDynamic range: 94 dB or better\nMaximum input level: +7 dBu (typ.)\nPower supply: AC adapter (DC 9V jack), STANDBY switch\nCurrent consumption:140 mA\nDimensions (W x D x H): 264 x 245 x 76 mm/10.39 x 9.65 x 2.99 Inches\nWeight: 2.2 kg/4.85 lbs.\nIncluded items: AC adapter, Program list\nhttp://www.voxamps.com/vdl1",
+    "hrid": "vox-vdl1"
+}

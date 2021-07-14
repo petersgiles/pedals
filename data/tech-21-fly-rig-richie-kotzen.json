@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21982",
+    "name": "fly rig richie kotzen",
+    "image": "images/tech-21-fly-rig-richie-kotzen.jpg",
+    "function": [
+        "PreAmp",
+        "Delay",
+        "Distortion",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 318,
+    "height": 64,
+    "details": "",
+    "hrid": "tech-21-fly-rig-richie-kotzen"
+}

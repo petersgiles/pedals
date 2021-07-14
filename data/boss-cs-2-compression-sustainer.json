@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12991",
+    "name": "CS-2 Compression Sustainer",
+    "image": "images/boss-cs-2-compression-sustainer.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Boss",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "The CS-2 compresses high-input signals while boosting low-input signals, giving you smooth and long sustain without degrading the quality of the original sound. The CS-2 uses a VCA (Voltage Controlled Amplifier) instead of the photocouplers used by the CS-1. The VCA’s speeds up the signal processing and makes the attack much faster compared to the CS-1. The Attack knob can however be used to control this.\nSpecifications\nControls: Level, Attack, Sustain\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 4 mA (DC 9V)\nWeight: 400g (15 oz.)\nInput Impedance: 1MOhm\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe CS-2 was sold from December 1981 to June 1986.\nhttp://www.bossarea.com/boss-cs-2-compression-sustainer/",
+    "hrid": "boss-cs-2-compression-sustainer"
+}

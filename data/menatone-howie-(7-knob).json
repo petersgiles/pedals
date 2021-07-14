@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12131",
+    "name": "Howie (7 knob)",
+    "image": "images/menatone-howie-(7-knob).jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Menatone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 121,
+    "height": 127,
+    "details": "Dumble style overdrive and boost",
+    "hrid": "menatone-howie-(7-knob)"
+}

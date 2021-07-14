@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12619",
+    "name": "Eau Claire Thunder",
+    "image": "images/dwarfcraft-devices-eau-claire-thunder.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "10 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$279 Price in €",
+    "width": 127,
+    "height": 102,
+    "details": "Muff-style fuzzThe Eau Claire Thunder is the result of my wish to rectify a few issues I’ve had with other muff-style fuzz boxes, notably a mid scoop. \n“But Old Pal Aen, some times I need to scoop teh midz for my metal tonez!”\nWhile I can’t say that I ever find that useful, ECT will do that as well. When stomping on the “BYPASS” switch, you will be in familiar fuzzbox territory. Volume, Tone, and Distortion are all active, as well as the “TIMEWARP” toggle, which flips between the traditional hi-fi type sound and a more blunted, ummm, stoner-rocky type sound. \n“TONEBLAST” bypasses the tone control, giving you more mids and a bunch more volume. At any time, you can tap the “feedback” stomper to trigger a momentary integrated feedback loop, because I like noise.\n“Trim” allows you to roll back your input signal, incase of muddiness caused by hotter pickups.\nIt's been used by Earth, Boris, Juan Alderete, and Russian Circles, to name a few.\n​Power Requirements = 10mA\nEnclosure size = 5 5/8\" x 4 5/8\" x 1 9/16",
+    "hrid": "dwarfcraft-devices-eau-claire-thunder"
+}

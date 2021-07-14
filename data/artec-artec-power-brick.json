@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14317",
+    "name": "Artec Power Brick",
+    "image": "images/artec-artec-power-brick.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Artec",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 117,
+    "height": 72,
+    "details": "PowerPower up your in-line effects.. save battery cost and possible tone loss.\nCPB-12 is individual regulated and individual hum filtered 12-channel power supply. It has ten channels of 'max 100mA at 9V' - fixed voltage outputs, and two channels of 9V / 12V selectable with 'max 300mA'. Also it provide 4 bright LEDs for pedal board lighting. This easy- portable unit includes AC adapter for power supply. \nThis ultra portable unit includes a switchable type adapter to change to AC adapter power for most different countries power requirements as well. \nIncludes power supply and all cable links to get connected quickly and rockin! (Package includes 12 connect cables: 5 -Long @ 16\" 5 -Mid @ 13\" and 2 - short @ 9\" ) More than enough for any spacing issues you may encounter.\nAlso features Blue LED's with  on/off switch for stage play... nice touch.....\nNote, this Brick will power everything I have tried on it. Certainly every brand I currently offer. Virtually any effect that accepts 9-12V power requirements.  Great little powerhouse. Lightweight and a must have for powering multiple effects in your chain.  \nPower supply: 15V 1A\nOutput: \n    10ch of 9V fixed output (max 100mA each)\n    2 ch of selectable output: (9 /12V, max 300mA each)\nDimensions: 4 3/4 \"(W) x 3 1/2 \" (H) x 1 1/4 \"(D)\nWeight: 10.5 oz.",
+    "hrid": "artec-artec-power-brick"
+}

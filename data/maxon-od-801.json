@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16918",
+    "name": "OD-801",
+    "image": "images/maxon-od-801.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "DISTORTION / SUSTAINERBefore there were ICs and digital modelers there were transistors, and many of the most famous guitar distortions of all time got their signature sounds from these simple little electronic components. Among them is the Maxon D&S, which originally debuted in 1974 as a high-gain, hot distortion with amazingly long sustain.\nUnlike many transistor-based units that are basically \"one trick ponies,\" the D&S can produce a wide variety of distortion voicings, from heavy and thick drive suggestive of a vacuum tube amplifier to extreme vintage fuzz. Most notable about the D&S is that no matter what the setting, it will retain your guitar's original tone and picking response. In addition, the D&S provides excellent note-to-note definition, allowing complex chord voicings to ring clear and quick solo passages to remain fluid and precise.\nThe secret to the D&S' versatile tone and natural response lies in two key areas of its circuit. First, the D&S uses a special Hi Boost/Hi Cut, negative feedback tone control that retains low end response while adding razor-sharp clarity to notes. Second, the D&S uses high-grade, low noise Toshiba 2SC1815 transistors which allow for more intense distortion with minimal noise or signal degradation. The combination of these elements gives the D&S the capability of producing huge amounts of distortion with minimal alteration to your guitar's tone.",
+    "hrid": "maxon-od-801"
+}

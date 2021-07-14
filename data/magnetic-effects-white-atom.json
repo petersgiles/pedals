@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11999",
+    "name": "White Atom",
+    "image": "images/magnetic-effects-white-atom.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Magnetic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "FuzzThe White Atom is a fabulous, versatile hybrid Silicon and Germanium transistor fuzz. A wealth of tones from vintage style overdrive to velcro like saturated fuzz are available. \nhttp://www.magneticeffects.net/new-page/",
+    "hrid": "magnetic-effects-white-atom"
+}

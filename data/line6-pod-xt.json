@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23649",
+    "name": "POD XT",
+    "image": "images/line6-pod-xt.jpg",
+    "function": [
+        "PreAmp",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 292,
+    "height": 191,
+    "details": "Portable Guitar Amp Simulator\nhttps://line6.com/legacy/podxt/",
+    "hrid": "line6-pod-xt"
+}

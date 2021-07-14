@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20179",
+    "name": "The Xenagama Tail Loop MKII",
+    "image": "images/onecontrol-the-xenagama-tail-loop-mkii.jpg",
+    "function": [
+        "Looper",
+        "Switch"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 244,
+    "height": 41,
+    "details": "Looper/SwitcherLooper/Switcher with 3 loops and 4x 9V output\nhttps://www.thomann.de/de/one_control_the_xenagama_tail_loop_mkii.htm",
+    "hrid": "onecontrol-the-xenagama-tail-loop-mkii"
+}

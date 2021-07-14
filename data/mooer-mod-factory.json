@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11699",
+    "name": "Mod Factory",
+    "image": "images/mooer-mod-factory.jpg",
+    "function": [
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "Mooer",
+    "current": "160 mA / 9 V / DC / Negative Center",
+    "cost": "$84 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "11 effects algorithmsMOD FACTORY MKII contains 11 algorithms straight out of our award-winning MOD FACTORY PRO. All the usual suspects are there such as Chorus, Flange, Trem and Phase but it also sports a cool new low-bit effect and ring modulator that have proven very popular with the PRO version. Following feedback from end users, the signal to noise ratio has been greatly improved over the original and your guitar tone will remain full and present when you turn the pedal on. To enhance the experience even further, real-time tap tempo and acceleration functions have been added and can be accessed via the soft touch, momentary footswitch. MOD FACTORY MKII also has an option for SERIES/PARALLEL. The SERIES/PARALLEL switch toggles between serial and parallel internal signal chain routing. This effectively provides 2 very different sounds from each modulation type. \nFeatures: *Digital Multi Modulation pedal with 11 different algorithms *SERIES/PARALLEL routing control *TAP TEMPO control *ACCELERATION feature \nSpecification: Input: 1/4” mono audio jack.（Impedance: 470Ω） Output: 1/4” mono audio jack（Impedance: 100 Ω） \nPower requirements: 9V DC Current Draw: 160mA \nDimensions: 93.5mm(D) x 42mm(W) x 52mm(H) Weight: 146g",
+    "hrid": "mooer-mod-factory"
+}

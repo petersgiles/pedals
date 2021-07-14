@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11445",
+    "name": "Dig Dual Digital Delay",
+    "image": "images/strymon-dig-dual-digital-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Digital Delay Effects Pedal\nhttp://www.strymon.net/dig/",
+    "hrid": "strymon-dig-dual-digital-delay"
+}

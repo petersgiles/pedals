@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28910",
+    "name": "RP55",
+    "image": "images/digitech-rp55.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 127,
+    "height": 152,
+    "details": "Guitar Multi-Effects\nhttps://www.digitech.com/discontinued-products/RP55.html",
+    "hrid": "digitech-rp55"
+}

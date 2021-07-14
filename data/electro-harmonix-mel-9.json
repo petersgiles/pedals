@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12212",
+    "name": "Mel 9",
+    "image": "images/electro-harmonix-mel-9.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "Mellotron machine\nPays homage to nine of the coolest Mellotron® sounds: Orchestra, Cello, Strings, Flute, Clarinet, Saxophone, Brass, Low Choir and High Choir\nWorks on guitar without modifications, special pickups or MIDI implementation and tracks bends, slides, even whammy dive bombs!\nAlso works with bass guitar down to the open A string as well as keyboards within the limits of its polyphony (5 notes) and range (A1 to A5)\nIncludes independent Effect and Dry volume controls so you can create the perfect mix at the Effects output\nDry Output jack outputs your input signal at unity gain\nAttack control sets the volume swell speed. As it’s turned clockwise the notes fade in more gradually\nSustain control adjusts the release time after a sound is stopped. As it’s turned clockwise, the fade out time increase\n\n9V DC, 100mA\nhttp://www.ehx.com/products/mel9",
+    "hrid": "electro-harmonix-mel-9"
+}

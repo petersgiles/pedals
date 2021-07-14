@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19661",
+    "name": "C-200 Volume-Wah",
+    "image": "images/mu-tron-c-200-volume-wah.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Mu-Tron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 114,
+    "height": 305,
+    "details": "Vol/Wah PedalMu-Tron C-200 Volume-Wah\n“The MU-TRON C-200 VOLUME-WAH PEDAL features volume and wah functions that can be used indepently or in combination. A trim pot on the side of the pedal provides a gain boost of 0 to 10 db, and two LEDs indicate the status of the effects. The unit is AC powered, guaranteed to provide uniform operation over all normal temperature and environmental conditions, and boasts studio quality sound.”\n– From original Musitronics C-200 Volume-Wah product sheet circa 1970s\nControls:\n•   Vol foot switch enables the control of silent to full-volume volume sweep (via foot pedal)\n•   Wah foot switch enables the control of filter sweep (via foot pedal)\n•   With Vol and Wah foot switches enabled, both functions are simultaneously controlled (via foot pedal)\nSpecifications:\n•   Input Impedance: 390k ohms, unbalanced\n•   Output Impedance: 600 ohms, unbalanced\n•   Trim Pot: Gain boost of 0 to 10db\n•   AC Power Requirements: 115V AC, 60Hz\n•   Dimensions: 11½” l.  X  3¾” w.  X  3″ h. (in closed position)\n•   Weight: 4 pounds\nhttps://www.mu-tron.com/vintage-musitronics/mu-tron-c-200-volume-wah/",
+    "hrid": "mu-tron-c-200-volume-wah"
+}

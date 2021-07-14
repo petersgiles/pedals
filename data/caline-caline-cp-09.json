@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17389",
+    "name": "Caline CP-09",
+    "image": "images/caline-caline-cp-09.jpg",
+    "function": [
+        "Power",
+        "Tuner"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$46 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Tuner and Power Supply\nhttps://www.amazon.com/Caline-Tuner-Power-Supply-CP-09/dp/B00NDFWPHK",
+    "hrid": "caline-caline-cp-09"
+}

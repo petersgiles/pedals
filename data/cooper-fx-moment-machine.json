@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22066",
+    "name": "Moment Machine",
+    "image": "images/cooper-fx-moment-machine.jpg",
+    "function": [
+        "Digital",
+        "Digital Glitch",
+        "MIDI",
+        "Multieffect",
+        "Pitch Shifter",
+        "Sampling",
+        "Synth Voice"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$320 Price in €",
+    "width": 145,
+    "height": 117,
+    "details": "Polyphonic pitch shifterThe Moment Machine at its core, is one of the most advanced pitch shifters available in hardware form. Featuring two independent polyphonic pitch shifting engines, a powerful sixteen step sequencer, and over two hundred user adjustable parameters, there is plenty of room to get lost in the pedal, however it’s easy to use due to a simple and intuitive graphical user interface.\nhttps://www.cooperfx.com/manuals",
+    "hrid": "cooper-fx-moment-machine"
+}

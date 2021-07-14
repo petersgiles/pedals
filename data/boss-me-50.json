@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12432",
+    "name": "ME-50",
+    "image": "images/boss-me-50.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect",
+        "Delay",
+        "Dual/Stereo",
+        "Expression",
+        "Noise Gate"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 384,
+    "height": 225,
+    "details": "Multiple Effects ProcessorThe ME-50 Guitar Multiple Effects is a floor-based multi-effects processor built with the ruggedness and simplicity of a stompbox. Designed to work with your amplifier, the ME-50 focuses on killer multi-effects (like COSM overdrive and distortion) rather than amp modeling. And dialing in your tone is easy, thanks to dedicated knobs for each effect section, three footswitches and a built-in expression pedal. So if you want great-sounding effects without all the menu surfing, the ME-50 is everything you need.\n*Floor-based multi-effects processor with BOSS' most intuitive interface ever\n*30 Preset Patches including delay, modulation, reverb, compressor and more\n*Killer COSM overdrive/distortion effects including \"Square\" synth sound\n*Dedicated knobs for each effect section - no menus to navigate!\n*Tone Modify function offers Preset EQ settings for quick tone editing\n*3 footswitches for switching effects on and off with a single stomp\n*Onboard expression pedal pre-routed to 6 modulation options or volume\n*Rugged metal case with clear panel layout",
+    "hrid": "boss-me-50"
+}

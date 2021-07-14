@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11623",
+    "name": "Studio Bass Compressor",
+    "image": "images/seymour-duncan-studio-bass-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Bass"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$198 Price in €",
+    "width": 66,
+    "height": 127,
+    "details": "Compressor For Electric Bass",
+    "hrid": "seymour-duncan-studio-bass-compressor"
+}

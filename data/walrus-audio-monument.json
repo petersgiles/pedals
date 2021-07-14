@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15669",
+    "name": "Monument",
+    "image": "images/walrus-audio-monument.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "Tap Tempo TremoloInspired by the beautifully jagged, red-sand desert landscape of Monument Valley, the Monument Tremolo is both a harmonic, and standard tremolo that produces a rich, luscious, warm pulsating modulation capable of peaks and valleys as smooth or as jagged as the real ones that our dear mother nature created long ago. \nWith different combinations of the rate, division and shape knobs and tap tempo, everything from traditional tremolo to inspiring unique waveforms will help you carve new paths that you won’t hear anywhere else.\nHarken back to vintage tones inspired by Fender Brownface amps in Harmonic mode. \u0003A low-pass and high-pass version of your guitar signal are modulated opposite of each other, or 180º out of phase (high and low frequencies rise and fall opposite of each other). The result is a warm, almost “chewy” tremolo.\nThe Division knob can be set to quarter, triplet, eighth and sixteenth.\nWave shapes can be controlled via the Shape knob. You can move between Sine, Square, Ramp, Lumps and Monument Mode (random).\nA special feature on the Monument is the bypass switch also has a momentary function. When the switch is in off position, press and hold to temporarily activate the effect to add a moment of texture. Releasing the switch turns the effect off.\nSetting the depth knob at 0 and the volume knob above unity creates a clean boost.\nhttps://www.walrusaudio.com/products/monument-harmonic-tap-tremolo",
+    "hrid": "walrus-audio-monument"
+}

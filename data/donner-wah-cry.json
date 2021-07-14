@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24141",
+    "name": "Wah Cry",
+    "image": "images/donner-wah-cry.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / 9 V / AC / Positive Center",
+    "cost": "$65 Price in €",
+    "width": 70,
+    "height": 135,
+    "details": "Wah/Volume\nhttps://www.donnerdeal.com/products/donner-wah-cry-2-in-1-mini-guitar-wah-effect-volume-pedal-true-bypass",
+    "hrid": "donner-wah-cry"
+}

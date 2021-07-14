@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23073",
+    "name": "Low Blow",
+    "image": "images/wampler-low-blow.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "53 mA / 18 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "Bass Overdrive\nhttps://wamplerpedals.com/products/discontinued/low-blow-bass-od-dist",
+    "hrid": "wampler-low-blow"
+}

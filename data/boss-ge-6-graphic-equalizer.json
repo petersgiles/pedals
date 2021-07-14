@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12994",
+    "name": "GE-6 Graphic Equalizer",
+    "image": "images/boss-ge-6-graphic-equalizer.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "7 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "The GE-6 was Boss’s competitor to MXR’s popular M-109 6 band equalizer. The GE-6 has 6 bands with frequencies 100, 200, 400, 800, 1600 and 3200 Hz. Each band can be boosted or cut by 15dB. The GE-6’s center frequency is 800Hz compared to the MXR’s 1kHz. This frequency was chosen because this is where it makes the most changes to the sound of a guitar. The other frequncies are set at octave steps from the center frequency.\nSpecifications\nControls: 6 Band Graphic Equalizer\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 7 mA (DC 9V)\nEqualizer: 100 Hz, 200 Hz, 400 Hz, 800 Hz, 1.6 kHz, 3.2 kHz\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe GE-6 was sold from January 1978 to June 1981.\nhttp://www.bossarea.com/boss-ge-6-graphic-equalizer/",
+    "hrid": "boss-ge-6-graphic-equalizer"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11608",
+    "name": "Ensemble King",
+    "image": "images/mooer-ensemble-king.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$58 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Analog ChorusThe Mooer Ensemble King Chorus pedal is a simple-to-use chorus that provides warm, clear chorus sound with a nice spacey feeling from its fully analog circuit. It's basic controls allow you to find the right sound you want quickly and easily. Its full metal casing makes it durable and road ready, and like most great effects pedals it has true bypass.\nhttp://www.mooeraudio.com/?product/201410162824.html",
+    "hrid": "mooer-ensemble-king"
+}

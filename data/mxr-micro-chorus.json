@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15128",
+    "name": "Micro Chorus",
+    "image": "images/mxr-micro-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 62,
+    "height": 114,
+    "details": "Bucket-Brigade Analog ChorusWith its simple operation and stellar analog tone-the MXR Micro Chorus joins the ranks of MXR Classics such as the Phase 90, Dyna Comp Compressor, and the Micro Amp. This '80s reissue delivers a stunning range of rich chorus textures, from sparkly watery shimmers to intense rotating speaker simulation with a twist of the Rate control. The Micro Chorus is designed with old-school bucket brigade technology for warm analog tone and features true bypass for pure guitar tone when the pedal is off. Its road-worthy hardware and components are housed in a space saving Phase 90 sized box. \nhttps://www.jimdunlop.com/product/m148-7-10137-04588-0.do",
+    "hrid": "mxr-micro-chorus"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15685",
+    "name": "Tensor",
+    "image": "images/red-panda-tensor.jpg",
+    "function": [
+        "Digital Glitch",
+        "Looper",
+        "Modeling/Simulation",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 77,
+    "height": 121,
+    "details": "Pitch shifter and time stretcherThe Tensor gives you live reverse and tape stop effects, pitch shifting, time stretching and hold functions you can combine in creative ways.  Slow down, speed up and rewind in real time.  Stretch or compress time with no pitch change.  Loop, overdub, and randomly slice phrases up to 4.8 seconds.  Foot switches have momentary and latching modes to inject pitch jumps, glitches, or rewind your last riff.\nFeatures:\nTape speed from reverse to stop to forward\nReal-time time stretch up to 4:1\nLoop time compression and stretch from 1:4 to 4:1\nPitch shift from -2 to +2 octaves\nIntelligent randomization\nOverdub, replace, and dual buffer (next) loop modes\nForward/alternate/reverse loop direction\nMomentary or latching foot switches\nAssignable expression pedal, CV-friendly (0 - 3.3V)\nTRS input/output\nAll Red Panda products are designed and assembled in Detroit, USA.  Our enclosures are CNC milled and powder coated in Ontario, Canada.  Our circuit boards are American-made and assembled in Michigan. Graphics, final assembly, and testing are done at our workshop in Detroit.\nhttp://www.redpandalab.com/products/tensor",
+    "hrid": "red-panda-tensor"
+}

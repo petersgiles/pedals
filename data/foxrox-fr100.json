@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30809",
+    "name": "FR100",
+    "image": "images/foxrox-fr100.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Foxrox",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 76,
+    "height": 122,
+    "details": "Dual-mode, stacked overdriveFR 100 is a dual-mode, stacked overdrive. It has a medium gain drive mode and a stacked, high-gain lead mode. Simple layout and controls make FR 100 easy to dial in for the best overdrive and lead tones ever created. LEAD mode is activated by a silent, momentary foot switch on the top of the pedal. The switch is positioned so that knobs don't get hit when LEAD is activated. FR 100 plays well with Fuzz Faces, wah pedals and most other effects. \nFR 100 Drive mode bridges the gap between clean (bypass) and high-gain. A chunky rock 'n roll tone that will make any decent amp shine. LEAD mode is a creamy, high gain tone with a slightly over-cooked, saturated bite to it. The pick attack and sustain makes it highly addicting!\nTrue Bypass, Rear Jacks, 9V battery (or external power), classic Foxrox-style mini-size enclosure. \nhttps://www.foxroxelectronics.com/FR100overdrive.html",
+    "hrid": "foxrox-fr100"
+}

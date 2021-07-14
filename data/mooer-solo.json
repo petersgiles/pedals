@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23086",
+    "name": "Solo",
+    "image": "images/mooer-solo.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "High gain distortion pedal. Suhr Riot clone.Product Features\n- All-sided high-gain distortion with excellent dynamic response and definition, especially suited for solo playing\n- 3 Working Modes: Natural/Tight/Classic\n- Full metal shell\n- Very small and exquisite\n- True bypass\n- Requires DC 9V Adapter power supply\nhttp://www.mooeraudio.co.uk/p/mooer-solo-distortion-pedal",
+    "hrid": "mooer-solo"
+}

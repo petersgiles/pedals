@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16087",
+    "name": "Q-Tron",
+    "image": "images/electro-harmonix-q-tron.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 200,
+    "height": 160,
+    "details": "Envelope Filter",
+    "hrid": "electro-harmonix-q-tron"
+}

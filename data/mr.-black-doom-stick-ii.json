@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33530",
+    "name": "Doom Stick II",
+    "image": "images/mr.-black-doom-stick-ii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 97,
+    "height": 120,
+    "details": "Fuzz from hellHigh-gain hellbound, ripping fuzz.\nOne giant knob keeps it simple, and sludgy.\nAll the hate, with zero gate.\nhttps://www.mrblackpedals.com/products/doomstick-ii-fuzz",
+    "hrid": "mr.-black-doom-stick-ii"
+}

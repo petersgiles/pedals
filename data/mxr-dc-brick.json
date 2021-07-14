@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13369",
+    "name": "DC Brick",
+    "image": "images/mxr-dc-brick.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 104,
+    "height": 59,
+    "details": "Power SupplyKeep your pedals powered all night long with the MXR DC Brick Power Supply, a revamp of the DCB10. Now under the MXR brand, the new DC Brick Power Supply features all of the short circuit and overload protection of the original but now handles twice the power, allowing you to use virtually any combination of effects. Additionally, each 9v output has a red LED that illuminates if there is a short so you can quickly identify and troubleshoot any power problems. The DC Brick Power Supply has eight 9v outputs and two 18v outputs, a change from the DCB10's seven 9v outputs and three 18v outputs. And of course, the AC adapter and all necessary cables to connect pedals to the unit are included.\nhttps://www.jimdunlop.com/product/m237-7-10137-05777-7.do",
+    "hrid": "mxr-dc-brick"
+}

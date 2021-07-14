@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14489",
+    "name": "Prunes & Custard",
+    "image": "images/crowther-audio-prunes-&-custard.jpg",
+    "function": [
+        "Distortion",
+        "Bass"
+    ],
+    "manufacturer": "Crowther Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$195 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Harmonic Generator-IntermodulatorGuitar and Bass Magazine 2006 overall pedal of the year, this harmonic generator-intermodulator combines distortion with odd-order harmonic overtones.\nThe Prunes & Custard is a two-stage circuit. There is a preamp stage ,   the gain of which is adjusted with the Drive control.   This stage is followed by a special waveshaping distortion circuit. There is some treble roll-off between the preamp and the special distortion circuit.\nThe frequency at which this treble roll-off happens can be changed with the  Guitar/Bass switch.     The special distortion stage produces strong harmonic overtones, mostly odd harmonic. Higher harmonics are progressively introduced with increased Drive   settings and signal level, so a decaying bass guitar note can sound   like a mean swept filter. Playing double notes, like 4ths or 5ths can produce some strong   intermodulation effects, rather like a ring modulator, but more   musical, albeit more distorted! The Mix control is a balance between the preamp stage output, (CCW)    and the special distortion stage output (CW). For bass guitar, the Mix control would usually be set at around 10 to 12 o’clock.  For guitar, a high  Mix setting, along with reduced Drive can give some rather pleasant overdrive effects. Where the  Drive and Mix controls are set are set to higher settings,  the sound can become all harmonics, with very little fundamental signal, and in some situations may sound a bit thin, especially for bass guitar, but setting the Lo Freq.contour switch to the right takes some low frequency from the Preamp side of the Mixcontrol and mixes it back with the special distortion side.  When used as an effect in a live mixing or recording situation, the P&C can be driven from a spare aux send or channel direct out and   returned to a spare input channel. In this situation the Mix control   would be set to maximum, and there is the added flexibilty of being   able to apply EQ to the distortion effect, and to use it dynamically   within a mix. This is quite useful for (yet another) overdriven snare sound, and for toms. To avoid things getting too out of hand, inserting a noise gate on the return, and maybe keying it from the send signal can be a useful idea.\nLevel\nControls the overall output volume\nMix\nAacts as a balance between the preamp output and the distortion stage output. For “normal” use for bass guitar, this would be set at around a 1/3rd to 2/3rd. (“10 O’clock to 2 o’clock”)\nDrive\nAdjusts the gain of the preamp stage from unity to around 100x (0 to +40 db). Of course with sufficient input/drive, the preamp stage can be overdriven.LF Retain takes some low frequency from the preamp.\nhttp://www.crowtheraudio.net/products/prunes-custard/",
+    "hrid": "crowther-audio-prunes-&-custard"
+}

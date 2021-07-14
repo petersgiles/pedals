@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14487",
+    "name": "JF-07 Classic Flanger",
+    "image": "images/joyo-jf-07-classic-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "FlangerUses the BBD simulation circuit\nIt is a nice warm tube amp\nAffordable but highly effective pedal\nFeaturing true bypass wiring and knobs to control Regen\nCan easily get the metallic flanger tone, wave-like chorus and a rapid tremulous vibrato",
+    "hrid": "joyo-jf-07-classic-flanger"
+}

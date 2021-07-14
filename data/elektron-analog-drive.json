@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12467",
+    "name": "Analog Drive",
+    "image": "images/elektron-analog-drive.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$447 Price in €",
+    "width": 171,
+    "height": 177,
+    "details": "Multi-circuit analog distortion unitTotal analog distortion box\nThe sheer sonic range of the Analog Drive, courtesy of the eight different analog distortion circuits, is in itself a marvel. One stompbox harboring so many tone shaping opportunities: unheard of until now. Analog Drive is a bottomless well of new sounds.\nThe EQ touch\nEnhance your amp with the 3 band analog EQ. The mid band is sweepable, which is very handy for dialing in the perfect EQ setting. The mid EQ can also be controlled with an expression pedal, making it easy to create analog wah-like sounds.\nFor the live rig\nThe possibility to store user presets will make the live gig flow smoothly. And if you rely on MIDI during your performances, the Analog Drive delivers. All settings are fully controllable via MIDI and it can even send MIDI program change messages.\nThe eight circuits\n\nClean Boost – A boost ranging from 0 to 20 dB, run at a high internal voltage, thus giving plenty of headroom.\nMid Drive – Can be compared to the sound a well-known green stompbox. If more bass is needed, just increase the Low EQ setting.\nDirty Drive – Really dirty and swampy. A gate-ish feel can be obtained at low Gain settings. Higher Gain settings result in an old school fuzzy sound.\nBig Dist – Adds quite a lot of distortion, but with an intact bass response. A reference would be a Marshall stack pushed to the max with a lot of power amp distortion.\nFocused Dist – Strong focus on the upper mids. An extended version of the mythological horse/man pedal, but with more flexibility.\nHarmonic Fuzz – Octave fuzz with a smooth feel. Based on a fuzz that is out of production. (Which one is a well-kept secret.)\nHigh Gain – Clear sound with a lot of gain. Nice string separation, great sustain.\nThick Gain – Adds loads of gain, more than a lot of preamps. Really crispy when palm muting the lower strings and using the EQ to add some top end.\n\nhttps://www.elektron.se/products/analog-drive/",
+    "hrid": "elektron-analog-drive"
+}

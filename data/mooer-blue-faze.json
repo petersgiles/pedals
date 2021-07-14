@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22139",
+    "name": "Blue Faze",
+    "image": "images/mooer-blue-faze.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 41,
+    "height": 51,
+    "details": "Mini Fuzz",
+    "hrid": "mooer-blue-faze"
+}

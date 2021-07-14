@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12207",
+    "name": "Cock fight",
+    "image": "images/electro-harmonix-cock-fight.jpg",
+    "function": [
+        "Filter",
+        "Wah",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 102,
+    "height": 119,
+    "details": "Cocked wah pedal\nhttps://www.sweetwater.com/store/detail/CockFight",
+    "hrid": "electro-harmonix-cock-fight"
+}

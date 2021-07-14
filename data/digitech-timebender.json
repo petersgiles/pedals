@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11920",
+    "name": "Timebender",
+    "image": "images/digitech-timebender.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 170,
+    "height": 142,
+    "details": "http://digitech.com/en/products/timebender",
+    "hrid": "digitech-timebender"
+}

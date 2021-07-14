@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26891",
+    "name": "Harmonic Booster",
+    "image": "images/darkglass-electronics-harmonic-booster.jpg",
+    "function": [
+        "Bass",
+        "PreAmp"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 75,
+    "height": 111,
+    "details": "Clean PreamplifierDesigned to be the perfect complement to our distortion circuits, the flexibility and portability of the Harmonic Booster is also the perfect one-stop solution for gigging musicians in search of a precise and harmonically rich clean preamplifier.\nhttps://www.darkglass.com/creations/harmonic-booster/",
+    "hrid": "darkglass-electronics-harmonic-booster"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33760",
+    "name": "G3",
+    "image": "images/the-gigrig-g3.jpg",
+    "function": [
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "650 mA / 9 V / DC / Negative Center",
+    "cost": "$1,500 Price in €",
+    "width": 440,
+    "height": 130,
+    "details": "True-bypass Looper & MIDI Controller (full-size)",
+    "hrid": "the-gigrig-g3"
+}

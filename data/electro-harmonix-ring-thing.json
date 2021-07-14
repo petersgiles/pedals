@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12368",
+    "name": "Ring Thing",
+    "image": "images/electro-harmonix-ring-thing.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Ring Modulator",
+        "Tremolo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$221 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Single Sideband ModulatorThe Ring Thing presents state of the art modulation control allowing the user to explore a new sonic world that is both familiar and inventive. Complex modulations with interactive parameters create any sound your mind can imagine. From metallic sweeps to subtle color changes to unique and limitless modulations, the Ring Thing will become your sonic dream machine.\nArticulate pitch shifting, preset tuning, selectable waveforms and external control delivers sound designer mystery, with a Rock and Roll edge.\nMulti-wave selection for modulation and Ring Mod\nLow pass Filter for Ring Mod and single side band modes\nFine and depth control for frequency select and amount\nTune switch to adjust frequency to your pitch\nUpper and lower sideband isolation\nHigh quality whammy style effects with expression pedal\nPitch shifting with pitch modulation and vibrato\nFully programmable\nhttp://www.ehx.com/products/ring-thing",
+    "hrid": "electro-harmonix-ring-thing"
+}

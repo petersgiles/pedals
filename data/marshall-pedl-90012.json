@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29398",
+    "name": "PEDL-90012",
+    "image": "images/marshall-pedl-90012.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Marshall",
+    "current": "Pedal is passive",
+    "cost": "$90 Price in €",
+    "width": 135,
+    "height": 110,
+    "details": "The Marshall 2 WAY FOOTSWITCH Switches Channel and DFX. This footswitch is a tough and durable dual footswitch.\nhttps://marshall.com/marshall-amps/products/footswitches/pedl-90012",
+    "hrid": "marshall-pedl-90012"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13740",
+    "name": "Dr. J Sparrow Driver & DI",
+    "image": "images/joyo-dr.-j-sparrow-driver-&-di.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$64 Price in €",
+    "width": 101,
+    "height": 82,
+    "details": "D53 Sparrow Driver & DI for BassSmall as it is, the sparrow has all the vital organs. This small box captures all the sound of a mic'd classic tube bass amp.\nHas Drive, High and Low Frequency, HF Harmonics, and Mix controls and boasts analog cabinet emulation circuitry. Includes an XLR out for DI (perfect for live shows and pro recording) and parallel 1/4\" to connect those pure, beautiful lows your stage amp. \nhttps://www.aliexpress.com/item/Dr-J-Sparrow-Driver-DI-Effect-Pedal-for-Bass-Hand-Made-Electric-Bass-Overdrive-Pedal-efeito/32254531285.html",
+    "hrid": "joyo-dr.-j-sparrow-driver-&-di"
+}

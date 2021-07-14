@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13037",
+    "name": "Rotovibe JH-4S",
+    "image": "images/dunlop-rotovibe-jh-4s.jpg",
+    "function": [
+        "Chorus",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$260 Price in €",
+    "width": 100,
+    "height": 252,
+    "details": "Analog Chorus/Vibrato Rotating Speaker EmulatorThe Dunlop Rotovibe is a chorus/vibrato effect that can simulate rotating speaker sounds popularized by Hendrix and many others. This is a very expressive effect, thanks to its built-in real-time control. Choose either Chorus or Vibrato, adjust the intensity of the effect, and then control the effect's speed by rocking the pedal back and forth\nThis is NOT the newer cheaper version that you can still buy (JD-4S) - this is the classic version (JH-4S)\n(description from reverb.com product listings)\nLINK TO PRODUCT IS FOR NEW VERSION (JD-4S) \nhttps://www.jimdunlop.com/product/jd4s-7-10137-00649-2.do",
+    "hrid": "dunlop-rotovibe-jh-4s"
+}

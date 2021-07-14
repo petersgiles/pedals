@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19498",
+    "name": "Octron 2",
+    "image": "images/foxrox-octron-2.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Foxrox",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 140,
+    "height": 127,
+    "details": "Octave up, Direct, and Octave downOctron2 is brown for a limited time!  Sometimes metalwork gets rejected and has to be redone, so we had a small batch of Octron2 enclosures made in BROWN. They're usually silver. Direct orders only, limited to 30 units.\nOctron2 is a special version of the Foxrox Octron pedal with the addition of individual footswitches with LED for Octave up, Direct, and Octave down. Since its debut in 2005, the original Octron pedal has been hailed as a super-organic sounding, high-quality analog Octave pedal. Inspired by feedback from Mahogany Rush guitarist, Frank Marino, improvements were made to the original Octron to arrive at something cool, new and unique - Octron2.  \nUsing Octron2\n   While bypassed, choose the mix you want. You can activate any combination of the three signals (Oct Up, Direct, Oct Down). When it's time for your solo, hit the bypass switch and you get the mix you wanted. Make sure you have at least one of the signals activated when you take the unit out of Bypass... if you don't, the unit will mute and you'll be left with no signal.\n    Activate the unit via the Bypass switch, and select only the Direct signal and leave it on. This will give you a clean, buffered signal with some available boost. When you want to add Octave Up, Down or both, just step on their associated switches. \n    Use Octron2 as a Loop Switcher (see below).\nEffects Loop\nThe Send and Return jacks are located after Octron2's output, but before the True Bypass Foot switch. This allows you to patch, for example, a distortion pedal or Envelope filter into Octron2. This way, when you activate Octron2, you will also have the effects that are in Octron2's loop. And when you turn Octron2 off, those effects are removed as well. This makes it easy to get crazy-sounding solos without having to do a tap-dance with effects just to back to your original sound. When you consider that Octron2 allows you to set any combination of the three signals (Oct UP, Direct, Oct Down), just think about the possibilities you have with the Effects loop. You can put your lead pedals in the loop and still use Octron2 to activate them for leads even when you don't want octave sounds. Just select Direct and leave the Oct UP and Oct Down signals off.\n*Higher voltage - You can run Octron2 at higher voltage for increased headroom, which is most useful when using Octron2 with bass guitar. For example, 12V, 18V or higher. Do not exceed 30 Volts DC.\nhttps://www.foxroxelectronics.com/BrownOctron2.html",
+    "hrid": "foxrox-octron-2"
+}

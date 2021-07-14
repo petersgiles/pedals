@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13262",
+    "name": "SF400 Super Flanger",
+    "image": "images/behringer-sf400-super-flanger.jpg",
+    "function": [
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-sf400-super-flanger"
+}

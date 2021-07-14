@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13933",
+    "name": "Bass Fuzz",
+    "image": "images/devi-ever-bass-fuzz.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Devi Ever",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 55,
+    "height": 112,
+    "details": "FuzzThe Devi Ever Bass Fuzz Guitar Effects Pedal is a bass-heavy fuzz pedal with expansive filter tone control. A filter knob highlights overtones over the fundemental. The Bass Fuzz pedal has an Intensity flip switch that increases fuzz intensity and adds a gated attack with a lot of sustain. Operates on a 9-volt battery.\nTrue bypass\nMXR sized enclosure\nBoutique quality components\nIncredibly low mA draw\nSilicon transistor based\n9 volt, 2.1 mm, negative tip power jack\n9 volt battery snap inside (unscrew the back plate)\nControls:\nVolume knob: lots of gain on tap\nFilter knob: emphasize the highs, or lows, to your liking\nIntensity flip switch: increases fuzz intensity\n*graphics or knobs may vary.",
+    "hrid": "devi-ever-bass-fuzz"
+}

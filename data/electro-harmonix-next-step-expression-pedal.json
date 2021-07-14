@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22947",
+    "name": "Next Step Expression Pedal",
+    "image": "images/electro-harmonix-next-step-expression-pedal.jpg",
+    "function": [
+        "Controller",
+        "Expression",
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 110,
+    "height": 220,
+    "details": "The EHX Expression Pedal is part of our innovative Next Step Effects series. It does not use a potentiometer, optics or magnetism to sweep expression-enabled controls. The result is a responsive expression pedal that provides precise control over your expression or control- voltage capable effects and instruments.\nhttps://www.ehx.com/products/expression-pedal",
+    "hrid": "electro-harmonix-next-step-expression-pedal"
+}

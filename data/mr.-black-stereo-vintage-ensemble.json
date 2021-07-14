@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17002",
+    "name": "Stereo Vintage Ensemble",
+    "image": "images/mr.-black-stereo-vintage-ensemble.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "",
+    "hrid": "mr.-black-stereo-vintage-ensemble"
+}

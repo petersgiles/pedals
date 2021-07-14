@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11487",
+    "name": "BC-1X Bass Compressor",
+    "image": "images/boss-bc-1x-bass-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Bass"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$207 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Intelligent multi-band compressionIntelligent circuitry adapts to every register and playing nuance, providing natural compression that preserves the fundamental bass tone\nInteractive internal processing enables users to dial in sophisticated multiband compressor settings with simple stompbox controls\nProfessional 18-volt input electronics provide ample headroom for any bass, ensuring clean and punchy sound with no distortion\nHigh-resolution gain reduction indicator shows the current compression amount at a glance\nDigital circuitry greatly reduces noise, a common problem with standard compressors\nBOSS five-year warranty\nhttps://www.boss.info/us/products/bc-1x/",
+    "hrid": "boss-bc-1x-bass-compressor"
+}

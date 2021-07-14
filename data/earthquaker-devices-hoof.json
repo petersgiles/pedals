@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12384",
+    "name": "Hoof",
+    "image": "images/earthquaker-devices-hoof.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 64,
+    "height": 102,
+    "details": "Germanium / Silicon Hybrid FuzzWhat to say about the Hoof that hasn’t already been said? Our flagship fuzz pedal can be found on thousands on pedaboards around the world and has rocked countless stages from stinky suburban basements to Madison Square Garden. Twice.\nThe Hoof is loosely based on the classic green Russian muff-style fuzz circuit, and features a hybrid Germanium / Silicon design, pairing maximum tone with maximum temperature stability not found in finicky and expensive vintage units. We hand-match our NOS Germanium transistors to exacting specifications for pedal-to-pedal consistency, taking the guesswork out of your fuzz purchase, and guaranteeing that your Hoof delivers the same smooth, natural, and harmonically rich sustain as all your friends’ Hoofs.  All your friends have Hoof fuzzes, right?\nThe Hoof has a wide gain range, providing everything from dirty and organic amp-like overdrive, to monstrous fuzz madness. This, paired with the “Shift” control allows you total tonal access, as the “Shift” knob works with the “Tone” control to alter the overall frequency response of the Hoof.\nUse the “Shift” to boost the highs for a glassy, cutting top-end; use it to cut out some low-mid mud; use it to add some thick stoner rock sludge; use it on bass; use it to combat the muff-style fuzz’s notorious “mid scoop;” use it however you’d like, just use it! The Hoof’s distinctive, fuzzy character is tight and controlled without sacrificing any “guts,” so to speak, so even the gnarliest fuzz tones will sit well in the mix.\nThe Hoof fuzz is all-analog, true bypass, and built one-at-a-time by real life human beans with four fingers and a thumb waiting in line for the horsey rides at the rustic frontierland amusement park of Akron, Ohio, USA. (The Official Center of the Universe.)\nhttps://www.earthquakerdevices.com/hoof/",
+    "hrid": "earthquaker-devices-hoof"
+}

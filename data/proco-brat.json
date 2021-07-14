@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18764",
+    "name": "Brat",
+    "image": "images/proco-brat.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 84,
+    "height": 130,
+    "details": "Warm distortion",
+    "hrid": "proco-brat"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22517",
+    "name": "RPT-1 Nova Repeater",
+    "image": "images/tc-electronic-rpt-1-nova-repeater.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 130,
+    "height": 130,
+    "details": "Six types of TC-quality delaysNova Repeater is our new 'no-frills-with-a-sound-that-kills' delay pedal. It is the pedal for you if you are a demanding guitarist who wants instant, high quality and unique results, without any of the fuss! It features the same great sound quality that made our Nova Delay the first choice delay pedal for Paul Gilbert, Doug Aldrich, Nils Lofgren and Allen Hinds. However after listening to our guitar-playing community we have trimmed out any excess baggage while also including additional features over the Nova Delay, and designed it all behind a streamlined and very easy to use interface. In short Nova Repeater is the essential lean, mean, delay-machine! Nova Repeater is all about simplicity. There are no hidden features or complicated functions - you just get the world's best delays in a cheap and easy-to-use package. Yet it is also feature rich being the only pedal in its price range that has a dedicated tap tempo switch and our amazing audio tapping technology that lets you set the tempo with your playing. And with six types of TC-quality delays and an unsurpassed feature-set Nova Repeater is quite simply a bargain.",
+    "hrid": "tc-electronic-rpt-1-nova-repeater"
+}

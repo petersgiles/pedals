@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18818",
+    "name": "3 Channel Mini",
+    "image": "images/american-loopers-3-channel-mini.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$110 Price in €",
+    "width": 121,
+    "height": 66,
+    "details": "3 Channel Looper\nhttps://www.americanloopers.com/collections/standard-lopers/products/3ch-mini-true-bypass-looper-three-3-loops",
+    "hrid": "american-loopers-3-channel-mini"
+}

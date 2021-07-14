@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29041",
+    "name": "Klein Bottle (Knobs edition)",
+    "image": "images/vfe-klein-bottle-(knobs-edition).jpg",
+    "function": [
+        "Looper",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "VFE",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$384 Price in €",
+    "width": 170,
+    "height": 133,
+    "details": "Multiband mixer/looperThe Klein Bottle was designed for the noise makers, soundscape artists, endless tinkerers and tone wizards. This epic pedal starts by splitting the input signal into three FX loops. Each FX loop has dedicated controls for pre-gain, HPF/LPF (bandwidth filters), and main mix level. This allows you to send different parts of the signal to different effects, and blend them all back together to create new tones out of your existing pedals.\nBut wait, there's more! The magic happens when you use the independent feedback controls to send the signal from one FX loop into another...and then back again! Keep your existing tone intact with the DRY knob, while layering a cornucopia of sonic goodness on top.\nDedicated mixing, EQ, and routing controls for each FX loop\nVariable phase shift circuit on FX loop #1 to correct phasing problems, or to create phase cancellations between effects.\nEach FX loop's on/off foot switch can be set to latching or momentary operation\n3 trails modes - ALL, SENDS (just the feedback loops), and none (middle position)\nDry blend for mixing back in the original signal\nFilters can be 6dB or 12dB for more extreme EQ cuts\nhttp://vfepedals.com/klein-bottle.html",
+    "hrid": "vfe-klein-bottle-(knobs-edition)"
+}

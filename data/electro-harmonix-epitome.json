@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12235",
+    "name": "Epitome",
+    "image": "images/electro-harmonix-epitome.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$370 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Multi-effect pedal\nhttps://www.sweetwater.com/store/detail/Epitome",
+    "hrid": "electro-harmonix-epitome"
+}

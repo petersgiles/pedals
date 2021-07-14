@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19562",
+    "name": "battering ram",
+    "image": "images/wounded-paw-battering-ram.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wounded Paw",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 94,
+    "details": "",
+    "hrid": "wounded-paw-battering-ram"
+}

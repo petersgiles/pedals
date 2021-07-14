@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12055",
+    "name": "VT999 Vintage Tube Monster",
+    "image": "images/behringer-vt999-vintage-tube-monster.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Behringer",
+    "current": "250 mA / ? V / AC/DC / Negative Center",
+    "cost": "$53 Price in €",
+    "width": 220,
+    "height": 172,
+    "details": "Overdrive & DistortionThe VINTAGE TUBE MONSTER VT999 effects pedal has that full-tone roar of a tube engine under its hood, letting you take off with anything from warm blues overdrive to heavy distortion. Add to this the excellent build quality and true-bypass wiring, and you begin to see just how monstrous this pedal really is!\nThis high-quality stomp box has the warm sound of a hand-selected 12AX7 vacuum tube. In addition, the VT999 offers an integrated and switchable noise gate with adjustable threshold that keeps your signal noise-free. The VT999 provides the ultimate in distortion-laced tone shaping, with an onboard 3-band EQ and dedicated Gain and Master output level control.\nPower consumption 250 mA\nNoise Gate\nHard Wire Bypass\nKnobs: Gain, Treble, Mid, Bass, Master\nhttps://www.behringer.com/product.html?modelCode=P0519",
+    "hrid": "behringer-vt999-vintage-tube-monster"
+}

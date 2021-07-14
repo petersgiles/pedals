@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12120",
+    "name": "Wonderlove",
+    "image": "images/3leaf-audio-wonderlove.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 120,
+    "height": 90,
+    "details": "Envelope Filter",
+    "hrid": "3leaf-audio-wonderlove"
+}

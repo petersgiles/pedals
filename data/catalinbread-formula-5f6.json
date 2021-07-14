@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18939",
+    "name": "Formula 5F6",
+    "image": "images/catalinbread-formula-5f6.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Foundation OverdriveThis is the Formula 5F6 from Catalinbread, a beautiful drive pedal designed to become the foundation of your entire rig with beautiful 50's tweed tones. This pedal has been set up to respond just like a real valve amplifier so you can chuck whatever you want into the front of this pedal to completely transform your tone.\nhttps://www.catalinbread.com/index.php?category=all&product=formula-5f6",
+    "hrid": "catalinbread-formula-5f6"
+}

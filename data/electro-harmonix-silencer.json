@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12126",
+    "name": "Silencer",
+    "image": "images/electro-harmonix-silencer.jpg",
+    "function": [
+        "Utility",
+        "Noise Gate"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$74 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Noise gate/effects loop",
+    "hrid": "electro-harmonix-silencer"
+}

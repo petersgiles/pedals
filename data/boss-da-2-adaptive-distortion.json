@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12791",
+    "name": "DA-2 Adaptive Distortion",
+    "image": "images/boss-da-2-adaptive-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$125 Price in €",
+    "width": 129,
+    "height": 73,
+    "details": "Next-generation BOSS compact pedal with innovative Multi-Dimensional Processing, realized with proprietary technology and custom DSP\nDistortion that adapts to create the ideal sound in every register\nUltra-responsive to volume changes and playing dynamics\nHigh-clarity sound, even when playing two or more notes at the same time\nVery low noise, even with high-gain settings\nIntuitive operation similar to standard distortion pedals\nhttps://www.boss.info/us/products/da-2/",
+    "hrid": "boss-da-2-adaptive-distortion"
+}

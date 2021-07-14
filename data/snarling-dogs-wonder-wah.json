@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12158",
+    "name": "Wonder Wah",
+    "image": "images/snarling-dogs-wonder-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Snarling Dogs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 120,
+    "height": 265,
+    "details": "",
+    "hrid": "snarling-dogs-wonder-wah"
+}

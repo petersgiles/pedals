@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29312",
+    "name": "Heliotrope",
+    "image": "images/catalinbread-heliotrope.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter",
+        "Ring Modulator",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$162 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Bit Crusher, Octave, Harmonizer, Ring Mod, Lo-Fi dirt box/fuzzWhat do you call an effect that isn't quite a Bit Crusher, or an Octave, or a Harmonizer, or a Ring Modulator, or a Lo-Fi dirt box/fuzz but a bit of a blend of each?\nYeah we don't know either, so we came up with \"Harmonic Pixelator\"\nThe Heliotrope is an \"analog bit crusher\" of sorts. Since there is no analog to digital conversion happening it isn't a true bit crusher, hence the name \"Harmonic Pixelator\". It works with guitar, bass, keyboards, etc. We designed the pedal to be intuitive and easy to use even though what it is capable of sonically is actually quite complex and varied.\nThe Heliotrope can be powered from a 9v-18v adapter or a 9v battery. At 18v you'll notice more output volume and headroom is available.\nThe controls work like this:\nYour instrument of choice (aka: Program Frequency) feeds the Heliotrope an input signal. From it is subtracted the Carrier Frequency. The Carrier Frequency is set by the Hi/Lo switch and the Sample Rate knob.\nThese are the rough ranges of the frequencies governed by the Hi/Lo switch:\nHi: 1.44kHz - 6.66kHz\nLo: 333Hz - 1.58kHz\nSo if the Carrier Frequency is tuned using the Hi/Lo switch and the Sample Rate knob to around 440Hz and you play a high E string at around 320Hz the output is roughly 110Hz or an A String. With a little thinking you can break down all these intervals and harmonize with the pedal - or you can just have fun and set it to an interesting resonant sound and see where it takes you.\nThe Resolution control determines the duty cycle or the ratio of on to off time of the Carrier Frequency. The effect of this control is somewhat like focusing the lens on a camera, you can make it as sharp or as blurry as youﾒd like.\nVolume makes it go loud.\nGain distorts and compresses the signal. You can get a decent amount of grit and fuzz out of it for more square wave synth-y type stuff.\nwww.catalinbread.com",
+    "hrid": "catalinbread-heliotrope"
+}

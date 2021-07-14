@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13560",
+    "name": "Aftershock",
+    "image": "images/source-audio-aftershock.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Bass Distortion PEdalGet down and dirty with the AfterShock Bass Distortion. On its own the AfterShock features three massive bass distortion engines, but connect the pedal to the Neuro Mobile App (a free download for iOS and Android) and feast upon a massive collection of additional overdrive, fuzz and distortion tones. Further edit each engine with the Neuro’s parametric EQ, stereo routing options, and internal stacking capabilities.\nOut of the box, the AfterShock Bass Distortion packs three bass overdrive engines that span the gamut of low-end crunch, from smooth and natural overdrive to full-on fuzz attack. The Tube engine belts out a subtle, but powerful vintage tube overdrive with a smooth breakup and plenty of punch. Heavy creates an aggressive scooped sound with ample highs and thundering lows. The Fuzz engine offers intense germanium fuzz tones with loads of bottom and mucho grit. The Aftershock’s simple, yet powerful control panel provides the tools to finely sculpt the perfect bass tone. The Clean knob lets you to mix in just enough clean signal to maintain a rock-solid low-end without compromising the pedal’s SONIC GROWL. Adjust the onboard Tone control and find that thunderous sweet spot for any bass/amp combination.\nBy itself the AfterShock offers tremendous tonal range, but dig a little deeper and discover its hidden power and flexibility. Every pedal in the One Series line is compatible with the Neuro Mobile App (a free download for iOS or Android). Connect the AfterShock to the Neuro App and access its extended equalization capabilities as well as Source Audio’s free library of over 40 overdrive, fuzz, and distortion algorithms for bass AND guitar — each algorithm can be downloaded directly to the pedal. Plus, every One Series pedal is fully MIDI compatible when coupled with the Neuro Hub (formerly Soundblox Hub), providing the power to save up to 128 different presets.\nFinally the AfterShock’s stereo inputs and outputs plus its dual drive circuits make it possible to launch into an extended range of tonal possibilities. With help from the Neuro App bassists can stack any combination of drive engines in either series or parallel as well as split the signal and send a separate drive engine to each of the pedal’s outputs.\nhttp://www.sourceaudio.net/products/one_series/aftershock_bass_distortion.php",
+    "hrid": "source-audio-aftershock"
+}

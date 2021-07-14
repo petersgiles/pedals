@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17263",
+    "name": "Black LTD. Octave II",
+    "image": "images/mr.-black-black-ltd.-octave-ii.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "",
+    "hrid": "mr.-black-black-ltd.-octave-ii"
+}

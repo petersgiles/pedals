@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18672",
+    "name": "reVOLVER",
+    "image": "images/hexe-guitar-electronics-revolver.jpg",
+    "function": [
+        "Digital Glitch",
+        "Sampling"
+    ],
+    "manufacturer": "Hexe Guitar Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$448 Price in €",
+    "width": 92,
+    "height": 117,
+    "details": "Micro sampler / granular texture generator pedalStuttering CD skip effect, tape slow downs/speed up, many types of endless repeated or randomized drone sounds are just a few examples where reVOLVER will find it's use. Now featuring a 4 seconds long sample buffer, set of new, easier accessible modes and new automatic FADE function.\nHEXE reVOLVER DX\nControls:\nSPEED: depending on the  working mode, this knob controls the play speed of the sample (=pitch), self retriggering rate or it's range in the randomized mode. More detailed despription is shown in the table below.\n TIME: sample buffer maximum size, range from 20ms to 4 sec.\n FADE: loop fade in, instant on or fade out control.\n TONE: filter control for the wet (sampled) signal. Range from lowpass, through flat to highpass.\n EF. LEVEL: wet signal volume control.\n DRY: (toogle switch) adds or mutes the original (dry) signal.\n CAPTURE: (footswitch) used to capture a new sample or to start the automatic retriggering.\n ON-OFF/MODE: (footswitch) sets the pedal into bypass mode or plays the last recorded sample. Hold down to change the mode.\n INPUT GAIN: (internal switch) allows to adjust the input gain of the pedal to match the incoming signal level, settings: Line or Instrument.\nhttp://www.hexeguitar.com/pedals/rvdx",
+    "hrid": "hexe-guitar-electronics-revolver"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21735",
+    "name": "Rose",
+    "image": "images/eventide-rose.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Eventide",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 119,
+    "height": 122,
+    "details": "Modulated delayRose is a modulated delay like no other. From reverse delays, slapback, chorus and everything in between, Rose is capable of producing a wide range of sounds. The perfect hybrid of analog and digital, the pedal features five different modulation sources, delay multiplier, phase invert/reverse, 25 customizable presets, true analog dry path, MIDI, and AUX/Expression via TRS for ultimate versatility, on stage or in the studio. \nAnalog dry path with analog Mix, Filter, and Feedback\n    Comes with 25 factory presets (5 banks with 5 presets each)\n    Standard delay times from 10 sec to 10 μsec\n    Modulation sweep from 1/2 to 2x the standard delay time, simultaneously modulating pitch across a full octave +/-\n    Selectable modulation source: Sine / Square / Random / Envelope / External (CV)\n    Tap Division selection (quarter, eighth, dotted eighth, triplet)\n    MIDI Tap Tempo & Clock Receive\n    Reverse delay function for backwards delays\n    Invert function flips the phase of the delayed signal\n    Delay Multiply (2X, 3X, 4X, 5X) for delays up to 50 sec\n    Assignable Hotswitch: Tap Tempo / Infinite Repeat / A/B switching / LFO Hold / LFO Reset\n    Input Level Select Switch: Line / Instrument\n    TRS/TS Input for expression pedal, auxiliary Switch and MIDI\n    Selectable Bypass: Relay / Buffered / Input Kill\n    USB for use with Eventide Device Manager (manage presets, settings, MIDI and more)\n    Software V3 offers MIDI Tap Tempo & Clock Receive, Kill-Dry mode, and \"Envelope Off\" mode\nhttps://www.eventideaudio.com/products/stompboxes/delay/rose",
+    "hrid": "eventide-rose"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18638",
+    "name": "Dr.J D-55 Aerolite",
+    "image": "images/joyo-dr.j-d-55-aerolite.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 95,
+    "height": 80,
+    "details": "Compressor  Guitar Effects PedalThe Aerolite Compressor is equipped with a 3 way mini switch for high, low and mid adjustments. Using the controls you can dial in your perfect compression sound, whether it's a light compression or a heavy compression, it's easily achievable with the Aerolite Compressor.4\nAEROLITE COMP is equipped with an INPUT switch suited for High, Middle, and Low Input adjustment;\nCOMP control to set the amount of compression and sustain;\nATTACK control to adjust the dynamic and touch-sensitive attack;\nMIX to adjust the original signals and compressed sound to gain ideal tone with a superb compression and retained infinite sustain of the original tone. When adjusting MIX CCW to the minimum,\nThe AEROLITE COMP can be used as a BOOST for Guitars, Basses and other musical instruments.\nTrue Bypass design minimizes tone loss.\nSpecifications General Controls:\n4 Pot + 1 Shift Switch Indicator Light:\n1 Red LED Compression Control Attack Control Mix\nTrue Bypass Design\nPower Source:\nPower Adapter (Power Adapter and Connecting Cable are not included)\nCurrent: 15mAh (DC 9V) Voltage: DC 9V Ports\nInput Jack (MONO)\nOutput Jack (MONO)\nDC IN\nDimensions\nMain product dimensions: 95x80x55mm (L x W x D)\nMain product weight: 264g\nProduct Notes\nPower Adapter and connection cables are not included with this product. Contents\n1 User Manual\n1 Warranty Card",
+    "hrid": "joyo-dr.j-d-55-aerolite"
+}

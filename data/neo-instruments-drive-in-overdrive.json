@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26853",
+    "name": "Drive In Overdrive",
+    "image": "images/neo-instruments-drive-in-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Neo Instruments",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 65,
+    "height": 110,
+    "details": "Versatile overdrive with wide gain rangeDRIVE IN gives you all the typical overdrive sounds, an additional Color control and even more. It sounds more open, clearer in the high frequencies and gives you that extra bit of transparency. Go red and find out how DRIVE IN improves your sound with ease!",
+    "hrid": "neo-instruments-drive-in-overdrive"
+}

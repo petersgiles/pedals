@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17500",
+    "name": "HardWire TL-2 Metal Distortion",
+    "image": "images/digitech-hardwire-tl-2-metal-distortion.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 89,
+    "height": 140,
+    "details": "From DigiTech website\nUnleash raw gain with the HardWire TL-2 Metal Distortion. The TL-2 Metal Distortion has two high-gain amp tone circuits at your disposal. Tight Mode gives you a responsive, percussive low end with smooth high frequencies. Loose Mode features a low EQ that best suits detuned guitars and produces a massive amount of low end grind. As with all HardWire pedals, the TL-2 is crafted from premium all-metal components to perform night after night, tour after tour.\nFeatures\n2 Modes of operation: Tight and Loose\nTight Mode has a tight, percussive low end\nLoose Mode creates a thick grinding low end\nTrue Bypass circuitry preserves your tone in bypass\nConstant high-voltage operation for tonal quality and noise reduction\nHardWire Pedals include the following stage accessories\nStomplock™ knob guard locks your tone in place and prevent tampering or accidental knob adjustments onstage\nPedal Switch Glow Sticker helps you locate the pedal in adverse stage lighting\nCustom-cut Hook and Loop Pedalboard Pad to attach and lock your pedals to your pedalboard\nhttps://digitech.com/en/products/tl-2",
+    "hrid": "digitech-hardwire-tl-2-metal-distortion"
+}

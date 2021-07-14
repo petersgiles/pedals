@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18209",
+    "name": "Conductor Tap Tremolo V2",
+    "image": "images/matthews-effects-conductor-tap-tremolo-v2.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 73,
+    "height": 133,
+    "details": "Highly versatile optical Tremolo with tap tempoHop on board with The Conductor V2, an optical tremolo that features the same warm, natural sound of the previous version. \nVersion 2 includes more than just updated graphics.The improved Conductor brings additional wave forms & subdivisions, with onboard tap, external tap and expression inputs. All of which bring you a wide variety of controls so that you will be able to engineer your ideal tremolo tone.\nExternal tap (Normally Open)\nExternal expression control (compatible with Moog EP-3 or similar expression pedals)\nTop Mounted Jacks\nSoft-touch True-Bypass Switches",
+    "hrid": "matthews-effects-conductor-tap-tremolo-v2"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22570",
+    "name": "MultiDrive Studio",
+    "image": "images/ebs-multidrive-studio.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "",
+    "hrid": "ebs-multidrive-studio"
+}

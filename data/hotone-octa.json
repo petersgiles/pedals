@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29683",
+    "name": "Octa",
+    "image": "images/hotone-octa.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Hotone",
+    "current": "53 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 44,
+    "height": 74,
+    "details": "OctaveOcta is a digital octave stompbox for both guitarists and bassists.\nTwo octave voices blend with dry level control and support polyphonic processing in the default mode, so playing a chord is absolutely no problem.\nAnd there is an additional DIRTY mode which simulates the classic analog octave pedals (single note processing and a different tone).\nThe Hotone Skyline Octa stompbox is set to perform in any venue for every genre, DIRTY mode shines in the hands of shredders making face-melting solo runs,it’s thick and dimensional, giving you a sense of being surrounded. POLY(default) mode finds a place across the spectrum of playing styles, When you get the high and low octaves going, you can have the smooth and warm body of an organ,With both DIRTY and POLY octave modes available, this stompbox is ready to satisfy the octave needs of basically every guitarist out there.\nhttps://www.hotoneaudio.com/products/skyline/octa",
+    "hrid": "hotone-octa"
+}

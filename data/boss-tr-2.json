@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12415",
+    "name": "TR-2",
+    "image": "images/boss-tr-2.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Boss",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$112 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "TremoloProvides guitarists with high-quality vintage tremolo effects in an easy-to-use compact pedal\nDedicated \"Wave,\" \"Rate\" and \"Depth\" knobs allow for precise effect tailoring\n\"Rate\" control allows for higher speed adjustment than classic PN-2\n\"Wave\" control alters LFO waveform from triangle to square\n\"Depth\" control determines the strength of the effect\nBOSS five-year warranty\nhttps://www.boss.info/us/products/tr-2/",
+    "hrid": "boss-tr-2"
+}

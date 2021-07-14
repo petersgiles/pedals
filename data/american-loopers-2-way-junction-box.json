@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33131",
+    "name": "2 Way Junction Box",
+    "image": "images/american-loopers-2-way-junction-box.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 39,
+    "height": 93,
+    "details": "2 Way Junction Box",
+    "hrid": "american-loopers-2-way-junction-box"
+}

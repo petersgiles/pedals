@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13877",
+    "name": "Power Grid 10",
+    "image": "images/friedman-power-grid-10.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Friedman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 171,
+    "height": 114,
+    "details": "Isolated high current 9v pedal power supply\nhttp://friedmanamplification.com/essentials/power-grid-10",
+    "hrid": "friedman-power-grid-10"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21437",
+    "name": "Slow Engine",
+    "image": "images/mooer-slow-engine.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$72 Price in €",
+    "width": 43,
+    "height": 94,
+    "details": "Slow Attack, Slow Gear\nhttp://www.mooeraudio.co.uk/p/mooer-slow-engine",
+    "hrid": "mooer-slow-engine"
+}

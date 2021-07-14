@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20564",
+    "name": "Total Sonic Annihilation 2",
+    "image": "images/death-by-audio-total-sonic-annihilation-2.jpg",
+    "function": [
+        "Distortion",
+        "Looper",
+        "Utility"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 69,
+    "height": 119,
+    "details": "Feedback looper of your dreamsDeath by Audio was conceived in 2002 with the most insane pedal of all time: the Total Sonic Annihilation. Here was a pedal that literally transformed all of your pedals into different effects by force feeding them back into themselves. Fast forward to present day - through painstaking redesign and improvements, the original circuit has been reborn as the Total Sonic Annihilation 2. Totally new functionality and additional controls create even more wildly warped alien space sounds than the original. Go get some! \nThe TSA2, like its predecessor, works on a simple premise: what if effect pedals were patched back into themselves? What does it sound like for a filter to be multiplied by infinity? Or if your modulator was modulating its own modulations? The TSA2 creates a controllable feedback loop, causing your pedals to cycle back on themselves, feeding the output back into the input as much or as little as you want. Experience true sonic exploration: every unique pedal array will produce a vast world of textures and possibilities.\nhttps://deathbyaudio.com/products/total-sonic-annihilation-2?variant=5293927006239",
+    "hrid": "death-by-audio-total-sonic-annihilation-2"
+}

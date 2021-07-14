@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14472",
+    "name": "SS-11A",
+    "image": "images/amt-ss-11a.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation",
+        "Tube"
+    ],
+    "manufacturer": "AMT",
+    "current": "600 mA / 12 V / DC",
+    "cost": "$403 Price in €",
+    "width": 103,
+    "height": 119,
+    "details": "3 Channel Tube PreampFeatures of SS-11 Design:\nFully tube-based 4 – stage overdrive channel with DUAL TUBE design (2x12AX7 or 2×6Н2П-ЕВ tubes) with high-voltage anode voltage (+300 V).\nThree separate channels: CLEAN / OVERDRIVE / LEAD\nIndividual gain sensitivity and output level controls for clean and crunch/lead channels.\nTREBLE SHIFT toggle switch to enter bright mode for that added punch of high end.\nFX LOOP for external effects.\nOUTPUT jack for connecting to both specialized guitar amplifiers with a standard level of 0 dB (GUITAR AMP mode) and a CAB SIM MIXER out with a standard level of -10dB and a guitar cabinet simulation.\nThe preamp outputs are equipped with sophisticated solid-state buffers.\nSS-11 incorporates new field-effect transistor-based guitar cabinet impulse response emulator prossessing. Improved naturalness of sound when connected to line input.\nSpecial attention was paid to transistors anode power quality: preamp uses a specially designed high-voltage transformer minimizing the penetration of impulse noises into amplified signal.\nDescription of SS-11 Channels:\nLEAD channel provides thick viscous sound for playing both chunky rhythm parts and singing solos with excellent presence. TREBLE SHIFT toggle to take your lead sound into bright mode, similar to the good old “Treble Booster” pedals in the 80’s that guitarists used to enhance their solos.\nOVERDRIVE channel features a more open structure of the sound. This is the SS-11’s sweet spot! VERY tubey and saturated sounding, much like that of the classic tube amps of the 70’s and 80’s! Wide range of sensitivity adjustment results in the sound starting from light crunch to thick and bright lead channel-like sound. Natural tube tone. If you’re looking for something other than that dull sounding solid-state OD or TS clone sound, then THIS IS IT.\nCLEAN channel focuses on crystal clarity clean sound. Low, Mid, and High controls for tweaking your sound; as well as and TREBLE SHIFT toggle for adjusting high end response.\nhttps://amtelectronics.com/new/amt-ss-11a/",
+    "hrid": "amt-ss-11a"
+}

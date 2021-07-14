@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29727",
+    "name": "MC3",
+    "image": "images/morningstar-mc3.jpg",
+    "function": [
+        "Expression",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Morningstar",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 122,
+    "height": 72,
+    "details": "MIDI Foot ControllerThe MC3 is a fully featured MIDI controller that fits on even the smallest of pedalboards. While size has been drastically reduced, no compromises were made in its design. The MC3 is an extremely compact, fully programmable MIDI controller, giving you control over all your MIDI-capable pedals or devices regardless of brand or model. Each switch can be programmed to send different messages based on what action you make, whether it is a single tap, double tap, release and more.\nFeatures\n30 Banks of 6 Presets\nThat’s 180 programmable slots.\nSimultaneous MIDI Control\nSend up to 16 different MIDI messages with a single switch press. Control up to 16 different MIDI devices via 16 unique selectable MIDI channels.\nName your Switches and Banks\nAll switches and banks can be named so you always know exactly what they do.\nExpression Pedal Connectivity\nUse an expression pedal for smooth continuous control over your desired effect parameters.\nUser-Definable MIDI Message Types\nSelect from more than 20 MIDI message types and functions including PC, CC, Note, SysEx, MIDI Clock and many more.\nBuilt-in MIDI Clock\nSync all your time-based effects via tap tempo or pre-set tempo with the built-in MIDI Clock function on the MC3. Eliminates the need for a separate MIDI clock device.\nAction-Based Control\nSend different messages with the same switch depending on what action you perform on it - Press, Release, Double Tap, Long Press and more\nUSB Class Compliant MIDI\nControl any of your favourite DAWs and music software. Compatible with Windows, OSX and iOS.\nDesktop Editor\nDownloadable or Chrome browser-accessible editor allows you to program and name your switches and banks quickly and easily.\nhttps://www.morningstarfx.com/shop/MC3-MIDI-Controller-Pre-order-Shipping-on-25-Sep-2020-p236003113",
+    "hrid": "morningstar-mc3"
+}

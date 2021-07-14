@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19020",
+    "name": "Binary EKO",
+    "image": "images/hotone-binary-eko.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 121,
+    "height": 72,
+    "details": "",
+    "hrid": "hotone-binary-eko"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23078",
+    "name": "Phase 45",
+    "image": "images/analogman-phase-45.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 115,
+    "details": "Analogman modded MXR Phase 45",
+    "hrid": "analogman-phase-45"
+}

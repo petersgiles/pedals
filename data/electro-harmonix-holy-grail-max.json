@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12960",
+    "name": "Holy Grail Max",
+    "image": "images/electro-harmonix-holy-grail-max.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Spring, Hall, Plate and Reverse ReverbThe Holy Grail Max shares the Holy Grail’s remarkable Spring and Hall reverbs. Then we added a Plate reverb, with its wonderfully lush tone, and Reverse reverb for the sonically adventurous. The Max’s multi-function control lets you adjust decay or reverse time.\nhttps://www.ehx.com/products/holy-grail-max",
+    "hrid": "electro-harmonix-holy-grail-max"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17433",
+    "name": "Twimble",
+    "image": "images/mad-professor-twimble.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$267 Price in €",
+    "width": 140,
+    "height": 110,
+    "details": "",
+    "hrid": "mad-professor-twimble"
+}

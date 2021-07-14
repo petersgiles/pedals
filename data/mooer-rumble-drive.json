@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15152",
+    "name": "Rumble Drive",
+    "image": "images/mooer-rumble-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "Round and smooth overdrive tone, excellent dynamic response and open sound Full metal shell Very small and exquisite True bypassSpecifications\nInput: 1/4” monaural jack (impedance:470 Ohms)\nOutput: 1/4” monaural jack (impedance:1K Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: mA\nDimensions: 93.5mm (D) × 42mm (W) × 52mm (H)\nWeight: 160g",
+    "hrid": "mooer-rumble-drive"
+}

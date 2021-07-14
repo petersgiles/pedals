@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32688",
+    "name": "NDS-5",
+    "image": "images/nux-nds-5.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 105,
+    "height": 115,
+    "details": "Dual Channel Brown SoundFIREMAN is based on the legendary amplifier builder's famous distortion pedal. It's a very amp-like distortion pedal with Modern Brown Sound. We designed it with 2 independent VOLUME, GAIN control knobs to fit rhythm and solo applications. FIREMAN offers a True-bypass / Buffer-bypass toggle switch,  and a 9V / 18V toggle switch. The 18V position doubles the working voltage inside to give you wider dynamic range.\nhttps://www.nuxefx.com/fireman.html",
+    "hrid": "nux-nds-5"
+}

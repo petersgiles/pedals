@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33389",
+    "name": "Blasteroid Fuzz",
+    "image": "images/idiotbox-effects-blasteroid-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 68,
+    "height": 120,
+    "details": "Monster vintage fuzzThe Blasteroid Fuzz is a straight clone of the elusive Earth Sounds Research Graphic Fuzz. Not many of the real deal working out in the wild so I’m stoked to have put this together. This fuzz is a monster. Loud as can be and the filter adds some very rad microphonic wah-ish tones to set it apart from your normal fuzzes. SMASH knob controls the filter, BLAST knob controls the boost. I didn’t make any adjustments or mods to the circuit so it has all the quirks of the original. This thing destroys on bass. And as one dude said, its \"Instant Sabbath Vol. 4\"!!! A killer unique vintage fuzz!!!\nhttps://www.idiotboxeffects.com/product/blasteroid-fuzz",
+    "hrid": "idiotbox-effects-blasteroid-fuzz"
+}

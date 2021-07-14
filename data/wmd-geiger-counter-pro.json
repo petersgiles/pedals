@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16057",
+    "name": "Geiger Counter Pro",
+    "image": "images/wmd-geiger-counter-pro.jpg",
+    "function": [
+        "PreAmp",
+        "Digital",
+        "Digital Glitch",
+        "Distortion",
+        "Equalizer",
+        "Filter",
+        "MIDI",
+        "Noise Gate"
+    ],
+    "manufacturer": "WMD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$499 Price in €",
+    "width": 137,
+    "height": 120,
+    "details": "Distortion BitcrusherComing soon since 2011, the Geiger Counter pro is finally a reality.\nAll of the classic tone and digital destruction of the original plus tons of new useful features, this is the most powerful pedal WMD has made to date.\nFeatures:\n- 256 new wavetables! (512 wavetables in total)\n- Wavetable \"Morphing\"\n- 16 foot switchable and MIDI switchable Presets\n- Proprietary VST for control via computer\n- Easy to save and duplicate presets\n- Full MIDI control over all parameters\n- 2 assignable CV inputs\n- Dry/Wet Mix\n- End of chain Low Pass Filter\n- Powered by a standard \"boss\" style 9V supply.\nhttps://wmdevices.com/collections/effects-pedals/products/geiger-counter-pro",
+    "hrid": "wmd-geiger-counter-pro"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20800",
+    "name": "ARC-53M",
+    "image": "images/free-the-tone-arc-53m.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 330,
+    "height": 53,
+    "details": "audio routing controller Inheriting versatility, high sonic quality, and high durability from the FREE THE TONE ARC-3, the downsized version, ARC-53M is now available!\nWithout any compromises, the basic features such as the HTS (Holistic Tonal Solution) Circuit driven by internal ±15VDC, and control of MIDI devices, are packed into a smaller housing.\nTry FREE THE TONE’s new Audio Routing Controller ARC-53M, designed to make professional quality sound more accessible! \nFREE THE TONE HTS (Holistic Tonal Solution) circuit installed.\nSilent-click custom footswitches are adopted. These switches respond quickly to follow fast operation.\nThe distance between the footswitches is 70 mm. By changing switch mount angles of the first and second rows, superb playability is obtained on this compact body.\nA special panel is provided for changing settings or selecting presets. Operability is drastically improved by reducing the levels of edit menus as much as possible. This greatly reduces the amount of time spent editing.\nEdit functions (copy, delete) for presets and banks are provided.\nBy switching Display modes, the MIDI program change numbers for each channel that is currently being sent can be checked at a glance.\nThe LED for each footswitch is covered by a lens to prevent sweat or other moisture from entering directly into the internal circuits. Also, a felt sheet is attached to the back of the display unit for further protection.\nHigh-strength molded plastic phone jacks are used to ensure safe and long term use.\nNumber of MIDI Program Change Number Parallel Sends: 4 (MIDI Send Channels: CH1–CH4 fixed)\nNumber of MIDI Control Change Number Parallel Sends: 4\n\nhttp://www.freethetone.com/en/products/system/arc53m.html",
+    "hrid": "free-the-tone-arc-53m"
+}

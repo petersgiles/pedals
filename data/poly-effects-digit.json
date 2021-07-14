@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31067",
+    "name": "Digit",
+    "image": "images/poly-effects-digit.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Multieffect",
+        "Reverb"
+    ],
+    "manufacturer": "Poly Effects",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 152,
+    "height": 125,
+    "details": "Programmable delay/reverb multieffect pedalHave you ever heard an amazing space and wished you could play your instrument in that room / shower / oil tanker? With Digit you can. Capture real spaces or vintage hardware reverb, shape your tone with the parametric EQs, route multiple effects with the 5\" touch screen, run delays into delays, create soundscapes with granular time stretching and run direct with cab sims. Digit takes reverb and delay to new places.\nConvolution reverb has become the dominant technology for studio reverb but it's very high CPU requirements have restricted its use in hardware. You can easily capture a space or a vintage reverb tank you like the sound of or download one of the thousands online. You can then accurately have the sound of famous studios, concert halls, deep caves, your own bathroom or giant plate reverbs. You can also use convolution in creative ways by loading non-reverb sounds. \nDigit uses a very different design than traditional super delays. Instead of a limited set of engines that you choose between, Digit has a number of delay modules that can be combined with the many other modules in new ways. This allows you to for example, combine a reverse with a tape sound, modulate it, filter it and the swell in some pitch shifted granular sparkles. If you then decide to bit crush one of the repeats, that's possible too. There's less conventional stuff too.\nCombining effects, called modules in Digit and controlling one module from another is what it's all about. You can make the foot switches change a value, or connect up parameters to a random source, an LFO or an envelope follower. Modules that generate control signals can be controlled too, which is the power of a modular workflow. For example, you can build a chorus or flanger module by adding a few delay modules and modulating them. You can also send control signals out as MIDI CC to control other pedals. Digit plays well with others and It's easy to share presets, just plug in a USB flash drive and export or import them.\nIf you're looking to capture real spaces, perfect plate reverbs, a nice direct rig or a crazy texture synthesis Digit has all that and more. \nhttps://www.polyeffects.com/pages/poly_digit",
+    "hrid": "poly-effects-digit"
+}

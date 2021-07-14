@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12293",
+    "name": "GEC 9",
+    "image": "images/moen-gec-9.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Moen",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$298 Price in €",
+    "width": 430,
+    "height": 95,
+    "details": "guitar effect switching system\nRecall presets instantly, 50 presets ( 5 presets/bank x 10banks).\n6 Series loops and 3 separate loops.\nThe separate loops can be used as latched switches for AMP channel switching, switching AMP channel by one preset!\nEach separate loop can be used as programmable A/B two way selector.\nThere are two output jacks which are able to output to two AMPs at the same time.\n\"POP\" cancellation circuit, elimintes \"POP\" sound when switch effects.\nInstant MUTE design. The MUTE is also a \"Switch to TUNER\" switch. \nBuffered input/ Non-Bufferred input option. \nStandard negative center DC9V power supply. \nWide switch distance avoid misstepping, 70mm/2.76inch switch distance.\nUltra Compact Enclosure Size: 430(L)x95(W)x30(H)mm / 16.9(L)x3.54(W)x3.74(H)inch.\n\nhttp://www.moenfx.com/gec9.html",
+    "hrid": "moen-gec-9"
+}

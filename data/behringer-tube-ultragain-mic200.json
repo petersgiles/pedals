@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29028",
+    "name": "Tube Ultragain Mic200",
+    "image": "images/behringer-tube-ultragain-mic200.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Tube"
+    ],
+    "manufacturer": "Behringer",
+    "current": "1300 mA / 9 V / AC",
+    "cost": "$70 Price in €",
+    "width": 135,
+    "height": 135,
+    "details": "Tube PreampAudiophile Vacuum Tube Preamplifier with Preamp Modeling Technology\nThe MIC200 is perfect for studio and live applications. The balanced ¼ \" TRS and gold-plated XLR inputs and outputs give you maximum flexibility in either scenario. It derives its personality from a hand-selected 12AX7 tube with UTC technology for superior tube character and low-noise operation. The MIC200 is ideally-suited for use with standard digital recorders and sound cards, imbuing signals with the warmth, presence and classic tube-compression that will bring your digital tracks to life.\nThe incredible MIC200’s controls consist of: switches for +48 V phantom power, 20 dB pad, Low Cut, and Phase Reverse; plus vintage-style Gain and Output knobs. An 8-segment LED meter provides accurate monitoring of output levels. And when used as a high-end DI (Direct Injection) box in the studio or on the stage, the MIC200 delivers flawless performance and outstanding signal integrity.\nhttps://www.behringer.com/behringer/product?modelCode=P0243",
+    "hrid": "behringer-tube-ultragain-mic200"
+}

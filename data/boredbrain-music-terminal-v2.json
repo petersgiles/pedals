@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32544",
+    "name": "Terminal v2",
+    "image": "images/boredbrain-music-terminal-v2.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Boredbrain Music",
+    "current": "Pedal is passive",
+    "cost": "$105 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Half-Normal Patchbay HubTerminal adds routing flexibility to signal chains of guitar pedal effects, electronic instruments and other audio devices.\n\nEasily insert effects into primary signal paths\nCopy signals using half-normalled patch points\nRe-route signals to alternate destinations\nBalanced/stereo TRS connections\n\nVersion 2 has been upgraded with high-quality 1/4-inch jacks, premium finish with UV printed graphics, and is completely lead-free.\nAre you playing with your cables more than your pedals? Terminal adds new routing possibilities to a more permanent setup. Its half-normalled configuration, which is also used in recording studio patch bays, allows an audio signal to pass “normally” and to be copied from the Green SND jack without interruption. However, the signal can also be cut off or replaced by patching into the RTN jack. It’s easy to insert effects and re-route instruments without pulling your rig apart.\nThis simple but very useful design was originally a custom project for musician Tycho, who is using Terminal in his studio and live rigs to quickly patch between sections of pedal and instrument chains. Community interest in the product led Boredbrain to produce Terminal in limited batches, and then due to its popularity, it has now become a mainstay.\nhttps://boredbrainmusic.com/product/terminal-v2/",
+    "hrid": "boredbrain-music-terminal-v2"
+}

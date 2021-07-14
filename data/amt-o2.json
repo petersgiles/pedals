@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19282",
+    "name": "O2",
+    "image": "images/amt-o2.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 74,
+    "height": 112,
+    "details": "Preamp/Distortion",
+    "hrid": "amt-o2"
+}

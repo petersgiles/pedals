@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12781",
+    "name": "Tone Driver",
+    "image": "images/digitech-tone-driver.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "",
+    "hrid": "digitech-tone-driver"
+}

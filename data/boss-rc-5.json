@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29915",
+    "name": "RC-5",
+    "image": "images/boss-rc-5.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "170 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Loop StationCapture sound with premium 32-bit quality, navigate parameters and monitor loop status with the backlit LCD, and tap into expanded operation via the control jack and TRS MIDI I/O. And with over 50 rhythms, 13 hours of stereo recording, 99 phrase memories, and more, the compact RC-5 puts a deep well of musical power at your feet. \nClass-leading sound quality with 32-bit AD/DA and 32-bit floating-point processing\nStereo looper engine with 13 hours of recording time\nLCD with multi-color backlight for viewing loop status and editing parameters\nReverse function for infusing loops with interesting textures\nSeven different drum kits and 57 preset rhythms with A/B variations\nSupport for expanded control via external footswitches, an expression pedal, or MIDI\nFull MIDI I/O provided with space-saving mini TRS jacks (BMIDI-5-35 adaptor cable available separately)\nOnboard storage for 99 phrase memories\nBack up and load WAV loops via USB\nhttps://www.boss.info/us/products/rc-5/",
+    "hrid": "boss-rc-5"
+}

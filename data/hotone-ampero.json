@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19468",
+    "name": "Ampero",
+    "image": "images/hotone-ampero.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$378 Price in €",
+    "width": 320,
+    "height": 150,
+    "details": "Amp Modeler & Effects Processor",
+    "hrid": "hotone-ampero"
+}

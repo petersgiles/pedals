@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26879",
+    "name": "Sculpture",
+    "image": "images/nux-sculpture.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 49,
+    "height": 94,
+    "details": "Compressor",
+    "hrid": "nux-sculpture"
+}

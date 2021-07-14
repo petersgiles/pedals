@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19709",
+    "name": "Filaments",
+    "image": "images/keeley-filaments.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 68,
+    "height": 112,
+    "details": "High-Gain DistortionHigh-gain pedal with an array of tone-shaping controls.\nhttps://robertkeeley.com/Keeley-Filaments-High-Gain-Distortion",
+    "hrid": "keeley-filaments"
+}

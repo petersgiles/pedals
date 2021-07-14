@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15094",
+    "name": "FVP-1",
+    "image": "images/fender-fvp-1.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 86,
+    "height": 200,
+    "details": "Volume Pedal\nhttps://reverb.com/p/fender-fvp-1-volume-pedal",
+    "hrid": "fender-fvp-1"
+}

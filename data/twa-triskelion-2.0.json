@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14929",
+    "name": "Triskelion 2.0",
+    "image": "images/twa-triskelion-2.0.jpg",
+    "function": [
+        "PreAmp",
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "TWA",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Harmonic EnergizerIt’s taken us entirely too long to release the Mk. II version of our infamous Triskelion, but as they say good things are worth the wait!\nThe TK-02 features the same gnarly, energy-infused tones as its big brother, with the addition of several new control options, a smaller, pedalboard-friendly chassis and a lower, wallet-friendly price!\nThe Triskelion uses vintage Synth technology to re-shape the harmonic structure of the input signal, adding punch, clarity and depth to any guitar tone.\nThe Triskelion’s specially designed filter can create glassy clean tones, boost midrange for throaty solos, or tune your rig to any room for a wall of singing, resonant feedback. Massive amp sounds, explosive lead-breaks, infinite sustain, and downright nasty, energy-intense tones are just a few of the uses for the Triskelion – the possibilities are almost limitless!\nThe Triskelion circuit is based on the uber-rare Systech Harmonic Energizer – this pedal was prized by several well-known artists, including Joe Walsh and Greg Lake. It’s most notable advocate was guitar legend Frank Zappa, who used the Systech for many of his throaty, mid-boosted Guitar tones.\nIt’s no surprise that Zappa’s son Dweezil relies on the Triskelion to replicate his father’s guitar sounds for the ongoing Zappa Plays Zappa project. In fact, Dweezil has been known to use three – yes, THREE – Triskelion’s in his live touring rig!\nSo if you’re looking to step out from the masses and create guitar tones that drop jaws as well as drawers, then you owe it to yourself to add a Triskelion – or three – to your tone arsenal. Get energized!\nTK-01 vs. TK-02\nThe following changes/upgrades have been added to the Triskelion Mk II that were not present on the TK-01 –\nFootswitch control of Gain Engage\nS3™ “Shortest Send Switching™” – a relay-based true bypass switching that defaults to bypass if power is lost\nHP switch for extended frequency range\nGain Select Switch – selects between original or attenuated Gain Level\nClassic/Modern Switch – selects between two different frequency ranges for additional tonal options.\nSmaller, pedalboard-friendly chassis (Hammond 1590 size)\nLower price\nhttp://www.godlyke.com/totally-wycked-audio-effects-pedals/hand-built/triskelion-2-0-harmonic-energizer",
+    "hrid": "twa-triskelion-2.0"
+}

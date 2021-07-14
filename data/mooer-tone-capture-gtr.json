@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24052",
+    "name": "Tone Capture GTR",
+    "image": "images/mooer-tone-capture-gtr.jpg",
+    "function": [
+        "Equalizer",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "EQ match for guitarsThe TONE CAPTURE Guitar pedal is based on MOOER’s unique EQ matching technology, TONE CAPTURE. This pedal allow you to capture any guitar’s tone by sampling the unique tonal characteristics of the target guitar.\nThe days of lugging around multiple guitars are over. The Tone Capture Guitar pedal opens up a variety of guitar sounds without the need to carry several guitars. Need 8 bars of acoustic? Don’t want to take your vintage strat to the gig? You can sample the unique tonal qualities of any of your guitars at home and carry them around with you in the compact TONE CAPTURE GTR pedal!",
+    "hrid": "mooer-tone-capture-gtr"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23282",
+    "name": "Lost Ark",
+    "image": "images/idiotbox-effects-lost-ark.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 119,
+    "details": "PLL Octave Glitch SynthThe Lost Ark is a no frills PLL glitchy octave fuzz.\nhttp://www.idiotboxeffects.com/product/lost-ark",
+    "hrid": "idiotbox-effects-lost-ark"
+}

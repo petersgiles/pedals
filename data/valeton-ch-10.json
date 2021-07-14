@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20006",
+    "name": "CH-10",
+    "image": "images/valeton-ch-10.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 48,
+    "height": 94,
+    "details": "",
+    "hrid": "valeton-ch-10"
+}

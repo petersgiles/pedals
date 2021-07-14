@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23218",
+    "name": "Cali76 SE Stacked Edition",
+    "image": "images/origin-effects-cali76-se-stacked-edition.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$424 Price in €",
+    "width": 66,
+    "height": 142,
+    "details": "two 1176-style compressors inside one compact pedal.",
+    "hrid": "origin-effects-cali76-se-stacked-edition"
+}

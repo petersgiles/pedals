@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21703",
+    "name": "Soda Meiser",
+    "image": "images/devi-ever-soda-meiser.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Devi Ever",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$110 Price in €",
+    "width": 55,
+    "height": 112,
+    "details": "Gated high gain fuzzBuilt with a streamlined interface of pregain and volume designed to produce, fat, round fuzz at lower gain and a fierce, fuzzing attack at higher gain, the Devi Ever Soda Meiser Fuzz offers a big spectrum of snarl in a compact, easy-to-use package. Compared to the tones of the Smashing Pumpkins and Jeff Buckley, the Soda Meiser works wonders complementing a synth or octave effect while also pushing more than enough vintage fuzz grit to stand on its own.\nhttps://deviever.net/collections/frontpage/products/devi-ever-fx-soda-meiser",
+    "hrid": "devi-ever-soda-meiser"
+}

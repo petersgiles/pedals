@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12070",
+    "name": "Tri Metal TM-01",
+    "image": "images/zoom-tri-metal-tm-01.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 97,
+    "height": 126,
+    "details": "https://www.zoom-na.com/products/guitar-bass-effects/guitar/tm-01-zoom-tri-metal",
+    "hrid": "zoom-tri-metal-tm-01"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16550",
+    "name": "Deluxe Moon Phaser",
+    "image": "images/red-witch-deluxe-moon-phaser.jpg",
+    "function": [
+        "Phase Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Red Witch",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 118,
+    "height": 94,
+    "details": "All analog phaser and tremoloThe Red Witch design philosophy of “Functional Innovation” was established in the first pedal design produced by the company – The Deluxe Moon Phaser. This template of offering unique, innovative and incredibly useable new features has remained the key differentiator between Red Witch and it’s competitors.\nThe Deluxe Moon Phaser offers two effects – phasing and tremolo effects as well as the completely unique tremophasing effect – where the modulation of the phase shift occurs at the same time as the volume increase and decrease of the tremolo.\nIt does not reproduce the sound of any other phaser, it is a completely new design with an incredibly warm transparent tone we refer to as “spatial sparkle”.\nTremophasing had never been heard before, let alone offered in a guitar effects pedal. This didn’t stop Andy Summers using it to great effect on The Police Reunion tour and live DVD in 2007/2008 (see video below). Amongst its other A-list fans, the Deluxe Moon Phaser has been utilised by Neil Finn (Crowded House/ Split Enz), Richard Fortus (Guns and Roses) and Reeves Gabrels (David Bowie).\nhttp://www.redwitchpedals.com/moon-phaser/",
+    "hrid": "red-witch-deluxe-moon-phaser"
+}

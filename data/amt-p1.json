@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22777",
+    "name": "P1",
+    "image": "images/amt-p1.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "AMT",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 111,
+    "details": "JFET Guitar Preamp\nhttps://amtelectronics.com/new/amt-p1/",
+    "hrid": "amt-p1"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23027",
+    "name": "MACRO POWER S8",
+    "image": "images/mooer-macro-power-s8.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Mooer",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 165,
+    "height": 83,
+    "details": "8 output power supplyMacro Power\nMacro Power Power S8 is a pedal power supply with eight output power supply jacks, equipped with vary functions input voltage switch、independent output power jacks、over-current protection and adjustable output. It was designed to meet users’ needs and offer convenient and pure experiences.\nOutput power jacks: From left to right\nOne adjustable voltage output power jack, can choose output voltage from 9V、12V、15V、18V. The output current is 200mA.\nThree independent output power jacks, each line’s output voltage is 9V, and the output current is 200mA.\nFour parallel output power jacks, each line’s output voltage is 9V. And support the whole 400mA power needs that the four lines parallel into an independent output power jack.\n\nhttp://www.mooeraudio.com/product/Macro-Power-84.html",
+    "hrid": "mooer-macro-power-s8"
+}

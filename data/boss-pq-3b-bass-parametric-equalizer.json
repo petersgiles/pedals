@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12888",
+    "name": "PQ-3B Bass Parametric Equalizer",
+    "image": "images/boss-pq-3b-bass-parametric-equalizer.jpg",
+    "function": [
+        "Bass",
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Bass Parametric EqualizerThe PQ-3B is a three-band bass parametric equalizer that features Low, Middle and High bands. Each band allows you to set the frequency and level. The level can be boosted or cut with 18dB which is the highest of any Boss pedal. The low band ranges from 25Hz to 400Hz, the middle band from 160Hz to 2.5kHz while the high band covers 1kHz to 16kHz. The level control is placed before the filters and can be used to correct the volume difference between the effect and straight sounds.\nSpecifications\nControls: Low Level, Low Frequency, Middle Level, Middle Frequency, High Level, High Frequency, Level\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 25 mA (DC 9V)\nWeight: 410g (15 oz.)\nInput Impedance: 1Mohm\nOutput Impedance: 1kohm\nResidual Noise Level: -98 dBm or less(IHF-A) (all controls: center) 0 dBm = 0.775 V\nRecommended Load Impedance: 10kOhm or greater\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe PQ-3B was sold from March 1991 to December 1995.\nhttp://www.bossarea.com/boss-pq-3b-bass-parametric-equalizer/",
+    "hrid": "boss-pq-3b-bass-parametric-equalizer"
+}

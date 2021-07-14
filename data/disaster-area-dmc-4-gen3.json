@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13567",
+    "name": "DMC-4 Gen3",
+    "image": "images/disaster-area-dmc-4-gen3.jpg",
+    "function": [
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$209 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "The DMC-4 Gen3 is the next generation compact MIDI controller from Disaster Area.  We’ve added lots of features, connectivity, and capability, making the DMC-4 Gen3 a next-level upgrade for your pedalboard control needs.",
+    "hrid": "disaster-area-dmc-4-gen3"
+}

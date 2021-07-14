@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18895",
+    "name": "3 Way Junction Box",
+    "image": "images/american-loopers-3-way-junction-box.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 64,
+    "height": 115,
+    "details": "With this 3 way Junction Box You will be able to hook up your guitar then go to your pedals, then come back from your pedalboard in Stereo and go out to your two separate amps. \nBut what if you only have one amp, or one amp fails?  with this box you can route your R output to the Left and make it a joint stereo set up, in other words,  you'll get both sides (L and R) going to the one amp by the flip of a switch. All this together with our HD Buffer and you'll get an ideal junction box that would work on any situation.\n*Please note that there is approximately 3-7 business days build time for this product. \nFeatures:\n\n3 Way Connections\nToggle switch to toggle between joint Mono or Stereo\nSaves your effects's jacks from wearing out\nHD Buffer will allow you to have long cables without loosing your precious tone\n\nComponents:\n- Military Spec Wiring\n- Genuine Neutrik Nickel Plated jacks\n- Diecast Aluminum Enclosure\nhttps://www.americanloopers.com/products/3-way-junction-box-for-pedalboard-patch-bay-toggle-switch-for-joint-mono-or-stereo-with-buffer",
+    "hrid": "american-loopers-3-way-junction-box"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11402",
+    "name": "Trio+ Band Creator",
+    "image": "images/digitech-trio+-band-creator.jpg",
+    "function": [
+        "Drum",
+        "Looper"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$324 Price in €",
+    "width": 107,
+    "height": 137,
+    "details": "Backing band and looper in stompbox format\nhttp://digitech.com/en/products/trio-plus",
+    "hrid": "digitech-trio+-band-creator"
+}

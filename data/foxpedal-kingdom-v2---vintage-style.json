@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15956",
+    "name": "Kingdom V2 - Vintage Style",
+    "image": "images/foxpedal-kingdom-v2---vintage-style.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "Transparent Overdrive\nhttps://foxpedal.com/products/kingdom-vintage-style-with-verse",
+    "hrid": "foxpedal-kingdom-v2---vintage-style"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17811",
+    "name": "Quantum Time Modulator",
+    "image": "images/pigtronix-quantum-time-modulator.jpg",
+    "function": [
+        "Chorus",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 71,
+    "height": 112,
+    "details": "Chorus/Vibrato with envelope modulationPigtronix Quantum Time Modulator produces a parallel universe of analog time stretching effects with only three knobs and a single switch. Reflecting the fundamental principals of modern atomic physics in pedal form, the Pigtronix Quantum can be in any number of places at once and will change in response to both input and observation.\nhttps://pigtronix.com/product/quantum-time-modulator/",
+    "hrid": "pigtronix-quantum-time-modulator"
+}

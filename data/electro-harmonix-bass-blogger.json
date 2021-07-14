@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12197",
+    "name": "Bass Blogger",
+    "image": "images/electro-harmonix-bass-blogger.jpg",
+    "function": [
+        "Distortion",
+        "Bass"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$75 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Bass overdrive/fuzz pedal\nhttps://www.sweetwater.com/store/detail/BassBlogger",
+    "hrid": "electro-harmonix-bass-blogger"
+}

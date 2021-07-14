@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12198",
+    "name": "Bass clone",
+    "image": "images/electro-harmonix-bass-clone.jpg",
+    "function": [
+        "Chorus",
+        "Bass"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$75 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Bass chorus\nhttp://www.ehx.com/products/bass-clone",
+    "hrid": "electro-harmonix-bass-clone"
+}

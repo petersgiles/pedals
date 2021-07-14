@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17043",
+    "name": "Epoch Pre",
+    "image": "images/catalinbread-epoch-pre.jpg",
+    "function": [
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 125,
+    "height": 100,
+    "details": "Preamp BufferThe only Preamp Buffer you'll ever need.\nOur Epoch Pre was modeled after the exact preamp circuit from the original EP-3, from the 22v power supply to the JFET preamp, to the circuit loading contributed by the echo function. Not only does it provide boost it acts like a mastering plug-in on the master fader - making your whole pedalboard sounds bigger, lusher, wider, the Epoch Pre can bundle all the frequencies without squishing them like a compressor!\nEpoch Pre Features:\n► Exact EP-3 preamp replica.\n► Accepts standard 9v pedal power supply but converts it to 22v internally.\n► Epoch Pre has two outputs to drive different pedal chains or two amps.\n► Discrete silicon transistor buffer, high headroom.\nhttps://www.catalinbread.com/index-epochpre.php?category=all",
+    "hrid": "catalinbread-epoch-pre"
+}

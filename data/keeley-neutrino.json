@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18067",
+    "name": "Neutrino",
+    "image": "images/keeley-neutrino.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Envelope Filter/Auto WahThe brand new Keeley Neutrino Envelope Filter and Auto-Wah! This funky, tripped-out circuit is something I’ve wanted to do for over a decade. Reviews have been stellar.  Each opto-coupler is tuned to perfection; every Keeley Neutrino is like finding a magical vintage unit with that perfect tone. NOW IN STOCK AND SHIPPING WITHIN A FEW DAYS!\nThe Keeley Neutrino gives you all the classic, funk, auto-wah sounds and that Jerry-In-A-Box sound. We have used the classic opto-coupler design for a rich and warm depth to the effect.  Envelope filter sound is an effect triggered by your pick attack or strength. The harder you pick, the harder it “wahs”! Sounds bubble up from a deep rounded warmth to a shinning brilliance. Solo notes are individually expressive based on how hard you play. Create incredible vowel sounds… Can you say “Let’s get it on”?!? Chord-work “stabs” sound right out of the disco dictionary, play that funky music white boy!\nThe Neutrino Envelope Filter has a simple set of controls so you explore a wealth of tones with ease.\nThere is a Gain control to set the input level to an appropriate strength so that you can trigger the effect with any type of pickups or instrument level.  This control is critical.  Pick an open string on your guitar and adjust this control until you hear the wah sound rise and fall.  Set just right it sounds like a wah pedal rocking back and forth as you play a note.\nThe peak control is how “sharp” or “warm” the effect is.  You can think of this a way to make your wah sounds really mellow or really “quaky”!\nThe Filter Selector lets you choose between 3 types of filters to carve out different tones and timbers.\nThe Range Switch adjusts what frequencies are being stressed HI or LO. Easily find your voicing.\nA side-mounted Direction Switch allows you to control which direction the wah sound goes.  Wah up, wah down!\nThe Neutrino Envelope Filter is designed to work with bass guitar and keyboards as well. Simply adjust the Gain to get it to trigger the way you want. Then, adjust the Peak control to set how much it “wahs”.\nUse a Keeley Compressor after your Neutrino to create a wall of lushly filtered tones that really stand out.  Then, even with the more delicate sounds of the BandPass or HighPass settings you will be able to improvise with stunning clarity.\nhttps://robertkeeley.com/product/neutrino/",
+    "hrid": "keeley-neutrino"
+}

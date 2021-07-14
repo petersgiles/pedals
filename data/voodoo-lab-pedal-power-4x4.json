@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12569",
+    "name": "Pedal Power 4x4",
+    "image": "images/voodoo-lab-pedal-power-4x4.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 178,
+    "height": 86,
+    "details": "4x4 Isolated Power SupplyThe Voodoo Lab Pedal Power 4x4 is an isolated power supply designed to make your high-current DSP-based effects pedals sound their best. With eight totally isolated, regulated, and filtered output sections, Pedal Power 4x4 keeps your pedals quiet and free of the high-frequency hash that happens when you use digital switching power supplies. Power up to eight of your power-hungry digital effects; this roadworthy pro unit will give you clean, consistent power - even under funky AC line conditions often encountered onstage. Enjoy lower noise and improved tone with the Voodoo Lab Pedal Power 4x4.\nhttps://www.sweetwater.com/store/detail/PedalPwr4x4?product_id=PedalPwr4x4&campaigntype=shopping&campaign=aaShopping%2520-%2520Core&adgroup=Guitars%2520-%2520Pedals%2520%26%2520Effects%2520-%2520Other&placement=google&adpos=1o1&creative=103263529321&devic",
+    "hrid": "voodoo-lab-pedal-power-4x4"
+}

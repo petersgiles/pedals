@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20110",
+    "name": "Micro Preamp 004 Day Tripper",
+    "image": "images/mooer-micro-preamp-004-day-tripper.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 42,
+    "height": 94,
+    "details": "60’s UK-style preamp•    High quality dual channel preamp\n•    Independent 3 band EQ, Gain and Volume controls for each channel\n•    Speaker cabinet simulation on/off\n•    2 different modes for footswitch operation. On/Off or channel A/B\nhttp://www.mooeraudio.com/product/004---Day-Tripper-185.html",
+    "hrid": "mooer-micro-preamp-004-day-tripper"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11615",
+    "name": "BlueSky",
+    "image": "images/strymon-bluesky.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "ReverberatorStudio-quality Plate, Room, and Spring Reverb from a Pedal\nLush, Majestic Reverbs. Insane DSP Power\n\nPlate, room, and spring reverb to meet all your stage and studio needs\nStandard Decay (size) and Pre-delay (onset time) controls for fast tweaks\nHigh and low damping controls darkness/brightness\nMix knob lets you control dry/wet signal\nModulation mode adds phase-y textures to reverbs\nShimmer mode adds endless sustain to chords and leads\nFavorite switch lets you save and recall your go-to reverb\nStereo ins and outs for primo stage and studio sounds\nAdjustable ±3dB control keeps your clean and FX levels consistent\nOnboard SHARC DSP (the same used by UAD) for powerful processing\n24-bit/96kHZ A/D/A conversion\nTrue bypass switching keeps the blueSky from sucking tone when disengaged\n\nhttp://www.strymon.net/bluesky/",
+    "hrid": "strymon-bluesky"
+}

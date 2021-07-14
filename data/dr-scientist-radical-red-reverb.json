@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14435",
+    "name": "Radical Red Reverb",
+    "image": "images/dr-scientist-radical-red-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 66,
+    "height": 119,
+    "details": "Reverb",
+    "hrid": "dr-scientist-radical-red-reverb"
+}

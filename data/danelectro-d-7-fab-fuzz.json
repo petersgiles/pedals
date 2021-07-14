@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18976",
+    "name": "D-7 FAB Fuzz",
+    "image": "images/danelectro-d-7-fab-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 97,
+    "height": 114,
+    "details": "Simple FuzzWith the D-7 FAB Fuzz you've got access to fuzz tones from vintage to modern. Simple Volume, Fuzz, and Tone controls make it easy to find the fuzz you're feelin'!",
+    "hrid": "danelectro-d-7-fab-fuzz"
+}

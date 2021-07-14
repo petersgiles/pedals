@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22498",
+    "name": "Switcher Interface for RevivalDRIVE",
+    "image": "images/origin-effects-switcher-interface-for-revivaldrive.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 115,
+    "height": 65,
+    "details": "Switcher Interface\nhttps://origineffects.com/product/switcher-interface/",
+    "hrid": "origin-effects-switcher-interface-for-revivaldrive"
+}

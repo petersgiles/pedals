@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26208",
+    "name": "Megabyte",
+    "image": "images/caroline-megabyte.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 91,
+    "height": 122,
+    "details": "Lo-Fi Delay ComputerAre your cyborg bodies ready? You’ve asked us for this for a while – so we’re giving you what you want! MEGABYTE™ builds on our acclaimed KILOBYTE™ legacy with two old school lo-fi digital chips for more delay time, tap tempo, trails or true bypass, and a nastier, dirtier runaway havoc. All with a straightforward (at least for us) and intuitive, immediately rewarding control setup.\nLess time menu scrolling, more time rock and rolling.\nWe’ve added the most requested features from our customers’ wish lists while making sure we kept the qualities that they loved. This includes a fun and functional tap-tempo with three subdivisions, double the delay time (up to 1200ms) for better noise handling and range, easily switchable trails or true bypass options, and a nastier *Havoc™ paired to the tap switch to go with the +21db drive preamp and modulation for the delay side. On the inside of the pedal are controls for a 100% dry-kill for production work and a maximum headroom option on the havoc/oscillation side.\nhttps://carolineguitar.com/product/megabyte/",
+    "hrid": "caroline-megabyte"
+}

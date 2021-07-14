@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19817",
+    "name": "BD-2 Blues Driver",
+    "image": "images/boss-bd-2-blues-driver.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Overdrive/DistortionThe BOSS BD-2 Blues Driver guitar effects pedal delivers that creamy yet crunchy sound you've heard countless great blues guitar players call up - and at a great value! The BD-2 Blues Driver simulates the sound of a vintage tube amplifier, giving you instant access to timeless tones. It also responds to your playing dynamics, so you can pull out a range of tones to give each note the perfect flavor and feel. All in all, you'll love the warm overdrive and emotive distortion the BOSS BD-2 Blues Driver adds to your rig.\nBOSS BD-2 Blues Driver Distortion and Overdrive Effects Pedal Features:\nLevel, tone, and gain controls\nNominal input level: -20dBu\nInput impedance: 1 Mohms\nNominal output level: -20dBu\nOutput impedance: 1 k ohms\nEquivalent input noise level: -118dBu (IHF-A, Typ.)\nConnectors: Input Jack, Output Jack, AC Adapter Jack (DC 9V)\nPower supply: 9V DC, either a Dry Battery 9V type or an AC adapter\nCurrent draw: 9 mA (9V DC)\nAccessories: dry battery 9V type (6F22/9 V)\nOptional AC adapter - Roland PSA-120S\n2-7/8\" W x 5-1/8\" D x 2-3/8\" H\nWeight (including battery): 15 oz\nhttps://www.boss.info/us/products/bd-2/",
+    "hrid": "boss-bd-2-blues-driver"
+}

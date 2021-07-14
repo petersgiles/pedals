@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11631",
+    "name": "M76 Studio Compressor",
+    "image": "images/mxr-m76-studio-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "19 mA / 9 V / DC / Negative Center",
+    "cost": "$278 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Compressor pedal for guitar",
+    "hrid": "mxr-m76-studio-compressor"
+}

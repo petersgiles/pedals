@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25593",
+    "name": "Clyde Standard Wah",
+    "image": "images/fulltone-clyde-standard-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "$192 Price in €",
+    "width": 114,
+    "height": 254,
+    "details": "Wah Pedal with Internal Resonance Control for Bass and Gain AdjustmentThe Fulltone Clyde Standard Wah is modeled after the Clyde McCoy \"signature\" wah, the same wah rumored to be Jimi's favorite. The inductor is a tuned-core hand-made unit using exactly the same type wire and inductance as the '60s era Vox. The Clyde Standard Wah boasts an add-on to the original Vox design with the inclusion of internal \"Resonance Control\" large durable trimmer for bass and gain adjustment that is easily adjustable without tools and with room to mark your favorite settings. Fulltone reinvents a classic with the Clyde Standard Wah.\nhttps://www.fulltone.com/products/clyde-standard-wah",
+    "hrid": "fulltone-clyde-standard-wah"
+}

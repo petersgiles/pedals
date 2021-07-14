@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12270",
+    "name": "Bogner Wessex",
+    "image": "images/rupert-neve-designs-bogner-wessex.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rupert Neve Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "OverdriveDelivering classic low gain growl to rich modern scorch, the Bogner Wessex overdrive pedal with its 100% analog circuit gets its extraordinary dimensional range from a custom transformer designed by legendary audio pioneer Mr. Rupert Neve. Whether you want to give your clean amp some muscle or juice up your vintage amp’s gain, flick the tone-altering Enhance/Neutral switch to find your own dirty nirvana.\nFeatures:\nTrue bypass\nControls: level, gain, treble and bass\nE/N switch:  Selects between normal and enhanced mode (extended bass and sweet highs)\nInteractive Jewel light reacts to your playing dynamics\nRupert Neve Designs audio transformer\nJacks: input, output\n9VDC power-connector, 50mA or more\nOptional Studio Series:\nBubinga exotic hardwood top panel\nHand formed, - sanded, - layered and - finished\nLook and feel of the vintage mixing consoles from the 60's",
+    "hrid": "rupert-neve-designs-bogner-wessex"
+}

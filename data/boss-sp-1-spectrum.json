@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12711",
+    "name": "SP-1 Spectrum",
+    "image": "images/boss-sp-1-spectrum.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Single band parametic equalizerThe BOSS SP-1 Spectrum was an effect that boosted a select band of frequencies, so that instruments with a tendency to be “muddy”—such as electric bass—could be brought out in the mix. But the SP-1 also proved to be very popular among keyboard players, who paired it up with electric pianos such as the Fender® Rhodes. \nhttp://www.bossus.com/go/boss_classics/sp1.html",
+    "hrid": "boss-sp-1-spectrum"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12382",
+    "name": "Protostar",
+    "image": "images/wmd-protostar.jpg",
+    "function": [
+        "Filter",
+        "Dynamics"
+    ],
+    "manufacturer": "WMD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 124,
+    "height": 99,
+    "details": "patchable envelope filterThe Protostar is the evolution of the Super FatMan envelope filter with even more pro level features.  Built in LFO, 4 filter modes, full CV patch bay, and expression/CB input, this is the most powerful/versatile envelope filter on the planet.  Also includes an end of chain compressor and dry wet mix for parallel filtering/compression effects!\nhttps://wmdevices.com/products/protostar",
+    "hrid": "wmd-protostar"
+}

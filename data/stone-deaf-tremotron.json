@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13361",
+    "name": "Tremotron",
+    "image": "images/stone-deaf-tremotron.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 90,
+    "height": 130,
+    "details": "Tremolo PedalA “Dual” analog tremolo, Tremotron is a tremendous pedal, with a fully analog signal path, true bypass relay switching and is like nothing you will have ever heard or thought possible in an analog tremolo pedal. \nWith individual controls of Depth, Rate and Wave Shape, Tremotron gives you the ability to set each tremolo at different speeds or automatically sync in time with each other using the same syncopations. Why not pick your own wave shapes such as sine, square, ramp, reverse? Or maybe even make your own? Layer it up with some modulation so things get a bit tasty, by pressing a control knob down and then by moving the controls, different colours on the LED’s indicate how much you are now adding or reducing your modulation. \nYou can also recall 4 presets within the pedal itself and in addition save and recall 128 presets via the MIDI input using any MIDI device including a DAW, Keyboard, Control Looper etc. Foot control is via a regular expression pedal to selectively cover the Depth, Rate and Shape of each tremolo, independently or separately. This means that you can control one tremolo via expression while the other is fixed or both at the same time or individually, which allows you unprecedented creative options. \nOnly the best components with premium ARM chips, WIMA Caps, audio-grade potentiometers, Burr Brown Op-amps and custom encoders allow for a robust and professional device that will take analog tremolo tones to places never before heard. \nAdd in tap-tempo, tone-shaping for darker or lighter sounding tremolo sounds, as well as being able to match the volume so it fits sonically with the rest of your pedal board and you have the most versatile tremolo pedal ever made! \n​\nEach Tremotron is proudly manufactured by Stone Deaf in our factory based in Huddersfield, West Yorkshire, England.\nhttp://www.stonedeaffx.com/tremotron",
+    "hrid": "stone-deaf-tremotron"
+}

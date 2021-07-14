@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12741",
+    "name": "HD300 Heavy Distortion",
+    "image": "images/behringer-hd300-heavy-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Heavy Metal DistortionWhen you’re ready to go beyond the “normal” boundaries of distortion, you’re ready for the sizzling sound of the HEAVY DISTORTION HD300 – a powerful dual-distortion pedal with a massive gain boost for superthick, heavy low-end punch and endless sustain.\nhttps://www.behringer.com/product.html?modelCode=P0517",
+    "hrid": "behringer-hd300-heavy-distortion"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26154",
+    "name": "MIDI Mongoose",
+    "image": "images/tech-21-midi-mongoose.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 292,
+    "height": 63,
+    "details": "Midi Controller PedalNew version of the popular MIDI Moose\nOffers additional features despite its compact size\nIn addition to a 7-pin connection for an external phantom power, two independent inputs for continuous controllers are available for data exchange with other MIDI devices\nWith only 5 foot switches, groups with 5 or 10 preset programs can be switched over in a flash\nWith special page functions that allow you to set the numbers for the MIDI channel and the channel for the continuous controllers and to make a calibration\nSpecially manufactured, particularly smooth-running controls\nRobust metal housing\nLarge, anti-reflective LED display\nPower supply: either via phantom power, a (optionally available) 9 V alkaline battery or a separately available power supply (Tech 21 model # DC4)\nDimensions (W x D x H): 29.2 x 6.3 x 3.3 cm",
+    "hrid": "tech-21-midi-mongoose"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15861",
+    "name": "MC6 Midi controller",
+    "image": "images/morningstar-mc6-midi-controller.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Morningstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 145,
+    "height": 95,
+    "details": "Compact and versatile midi controllerMorningstar Engineering \nhttps://www.morningstarfx.com/mc6",
+    "hrid": "morningstar-mc6-midi-controller"
+}

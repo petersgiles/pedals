@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15163",
+    "name": "Monotron Delay",
+    "image": "images/korg-monotron-delay.jpg",
+    "function": [
+        "Delay",
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 119,
+    "height": 72,
+    "details": "Lo-fi delay with LFO filter & internal synth voice\nSpace Delay offers analog-style echoes\nLFO with selectable triangle or square waveshape\nWide-range ribbon controller keyboard\nOriginal Analog (VCF) Filter taken from the classic MS-10 & MS-20\nAux input jack lets you apply filter/delay to any audio source\nBuilt-in speaker and battery power for Go Anywhere Analog sound\nHeadphone jack for private use\n\nhttp://www.korg.com/us/products/dj/monotron_delay/",
+    "hrid": "korg-monotron-delay"
+}

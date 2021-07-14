@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12468",
+    "name": "Ekko 616 Dark",
+    "image": "images/malekko-heavy-industry-ekko-616-dark.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 83,
+    "height": 140,
+    "details": "650MS ANALOG DELAY PEDALFor years, Malekko has been synonymous with the best quality BBD delays available. Today the evolution continues with the EKKO 616 MKII, a full featured yet compact delay with external modulation controls, an optional buffer, internal level pot and 650ms of pure analog bliss!\nhttps://malekkoheavyindustry.com/product/ekko-616-dark/",
+    "hrid": "malekko-heavy-industry-ekko-616-dark"
+}

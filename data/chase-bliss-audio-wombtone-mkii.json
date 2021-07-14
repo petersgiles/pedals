@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12379",
+    "name": "Wombtone mkII",
+    "image": "images/chase-bliss-audio-wombtone-mkii.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$430 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Weird and psychedelic Phaser, 100% analog circuitry, digitally controlledThey just don’t make phasers like they used to. This analog phaser pedal features an all-analog signal path with smooth, vintage tones that harken back to the 70’s while retaining the ability to get plenty weird and psychadelic too. Wombtone mkII has a few upgrades, including a rare mix control that moves from full dry signal to pure phase vibrato as well as the ability to switch between 2, 4, and 6 stages of phase for all flavors of phase from barely audible to that full, syrupy swirl. Further, every knob and switch is connected to a little digital brain while your guitar signal stays 100%  analog the entire time and never gets digitally processed. Since the control of the effect is digital, it opens up unprecedented effects and features that have never been heard or offered in analog stompboxes.\nhttps://www.chaseblissaudio.com/",
+    "hrid": "chase-bliss-audio-wombtone-mkii"
+}

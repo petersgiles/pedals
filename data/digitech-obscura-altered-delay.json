@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11432",
+    "name": "Obscura Altered Delay",
+    "image": "images/digitech-obscura-altered-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$167 Price in €",
+    "width": 67,
+    "height": 112,
+    "details": "Altered Delay PedalThe Obscura Altered Delay from DigiTech allows you to turn your delays upside down and inside out. The Obscura’s four delay types can be darkened, degraded and distorted on the fly with the stacked Tone and Degrade controls. Combine these controls with the Obscura’s Repeat/Hold feature and lose yourself in long, trippy, gurgling repeats or backwards-manipulated sonic mayhem. In addition to its Tone and Degrade controls, the Obscura features independent Level, Delay Mode and stacked Time and Repeats controls. Complimenting those versatile controls, the Obscura offers four excellent-sounding Analog, Tape, Lo-Fi, and Reverse types, Tap Tempo mode with Beat Divisions, Stereo Inputs/Outputs, a Delay Tails On/Off Switch and True Bypass circuitry. With its compact size and vacuum-style footswitch, the Obscura furthers DigiTech’s evolution in pedal design. We’ve put years of experience into every detail of its mechanical and sonic blueprint. The Obscura uses a 9V DC power supply to easily integrate into your existing pedalboard.\nOutput : Separate Left and Right ¼\" Unbalanced (Tip-Sleeve)\nOutput Impedance : \n- Effect on = 1 kΩ; \n- Effect off = True hardwire bypass\nInput Separate : Left and Right ¼\" Unbalanced (Tip-Sleeve)\nInput Impedance : \n- Effect on = >1 MΩ (stereo), >500 kΩ (mono); \n- Effect off = True hardwire bypass\nhttp://digitech.com/en/products/obscura",
+    "hrid": "digitech-obscura-altered-delay"
+}

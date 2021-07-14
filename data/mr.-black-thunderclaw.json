@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12262",
+    "name": "ThunderClaw",
+    "image": "images/mr.-black-thunderclaw.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "DistortionThe crushing decimation of thunder leveling everything, leaving a wake of silence so loud, it can't be ignored.\nA crisp flash of pure electric energy jets down from above delivering a flash so bright the pupil shrinks to a needle's point.\nAnd you haven't even played a power chord into it.\nWelcome ThunderClaw.  Welcome.\nhttps://www.mrblackpedals.com/products/thunderclaw",
+    "hrid": "mr.-black-thunderclaw"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27121",
+    "name": "Buffer",
+    "image": "images/suhr-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Suhr",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 64,
+    "height": 73,
+    "details": "Suhr Buffer SplitterToday’s players demand quality, reliability and great tone. To ensure that your investment in tone is preserved throughout your signal chain, the Suhr Buffer utilizes only the highest quality components such as: low noise audiophile Op-Amps, Glass Epoxy PCB, and a machined billet aluminum enclosure. When it comes to quality and reliability, we designed the Suhr Buffer with the same attention to detail as all of our award winning products including the Badger, Hand Wired and OD series amplifiers.\nhttps://www.suhr.com/electronics/tone-tools/suhr-buffer/",
+    "hrid": "suhr-buffer"
+}

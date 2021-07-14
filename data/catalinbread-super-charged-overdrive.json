@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15987",
+    "name": "Super Charged Overdrive",
+    "image": "images/catalinbread-super-charged-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 59,
+    "height": 112,
+    "details": "OverdriveSuperCharged OD The audio equivalent of a forced induction high displacement big block make up the heart of the SCOD's \"distortion powerplant\". It is designed like a tube amp, fine tuned cascaded gain stages cause the distortion, not diodes. We knew we had a winner when it made our 5W 6V6 amp push air like a full stack. This pedal rocks harder than a Heart 8-track in a Hemi Cuda outside of a high school in 1978!\nThe tone for leads is balanced, focused, and sustains forever. Chords are chunky, tight, and resonant. Turn the GAIN and CONTOUR down for hi-wattage British sounds. Increasing the GAIN brings you into more modern saturation teritories without un-natural compression.Crank the CONTOUR knob and you tighten up the lowend adding resonance of a sealed 4x12.\nThe SCOD is capable of huge amounts of output and the gain can be down right METAL. Inspite of this the noise level is remarkably low. The distortion is natural without the buzzy \"chopping\" or \"squaring\" of your guitar's signal as often associated with high gain and metal pedals. This means you can play chords with your SCOD and not cause bizarre intermodulation.\nDon't be surprised to find your daily 30 minute practice session lasting an hour or more with the SCOD. This pedal is truly inspiring.\nMore than 25000 guitar effects pedals from 4000 brands:\nhttp://www.effectsdatabase.com/model/catalinbread/supercharged",
+    "hrid": "catalinbread-super-charged-overdrive"
+}

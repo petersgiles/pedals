@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26189",
+    "name": "Monument V2 limited edition",
+    "image": "images/walrus-audio-monument-v2-limited-edition.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 65,
+    "height": 119,
+    "details": "",
+    "hrid": "walrus-audio-monument-v2-limited-edition"
+}

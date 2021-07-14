@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16974",
+    "name": "SansAmp GT2",
+    "image": "images/tech-21-sansamp-gt2.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "Tube AMp Emulator“Architecturally” create your own rig in seconds. You can easily achieve the most sought-after tube amp sounds, and entirely new ones as well. Choose amplifier type, modification and speaker cabinet/mic placement configurations. You can easily mix and match specific sound characteristics in ways that would otherwise be physically improbable, probably impractical and definitely not cost effective. The GT2 is a truckload of great amps in a single, simple pedal.",
+    "hrid": "tech-21-sansamp-gt2"
+}

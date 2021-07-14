@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11636",
+    "name": "M9",
+    "image": "images/line6-m9.jpg",
+    "function": [
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$393 Price in €",
+    "width": 267,
+    "height": 61,
+    "details": "MultieffectsM9 Stompbox Modeler gives you an instant collection of vintage and modern stompbox tones and effects. Sink your teeth into more than 100 tangy choruses, syrupy sweet reverbs, distinctive distortions, and more. Many of the effects are from famous Line 6 pedals and rack units including DL4™ Delay Modeler, DM4™ Distortion Modeler, FM4™ Filter Modeler, MM4™ Modulation Modeler, Verbzilla® and Echo Pro™.\nhttp://line6.com/m-series-effects-pedals/",
+    "hrid": "line6-m9"
+}

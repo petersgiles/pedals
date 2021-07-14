@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33735",
+    "name": "Micro Comp",
+    "image": "images/fender-micro-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$49 Price in €",
+    "width": 35,
+    "height": 90,
+    "details": "Small format compressor with true bypass",
+    "hrid": "fender-micro-comp"
+}

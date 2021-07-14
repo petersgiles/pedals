@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20699",
+    "name": "Binary Mod",
+    "image": "images/hotone-binary-mod.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Multieffect",
+        "Ring Modulator",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$122 Price in €",
+    "width": 121,
+    "height": 72,
+    "details": "Multi modulations effectMulti modulations effect by Hotone\nhttp://www.hotoneaudio.com/products/Binary/Binary/2018/0224/265.html",
+    "hrid": "hotone-binary-mod"
+}

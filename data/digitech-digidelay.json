@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12503",
+    "name": "DigiDelay",
+    "image": "images/digitech-digidelay.jpg",
+    "function": [
+        "Delay",
+        "Looper"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "Multi-mode digital delay and overdub looperMulti-mode digital delay Includes 3 time-based (short, medium, long) modes, a tape emulation mode (with repitching-emulation based on time changes), a mode with chorus modulation added, a reverse mode, and an overdub looper mode (max 4 seconds of loop length).  Holding down the foot switch allows you to change delay time with tap-tempo.  Mono in, stereo out.\nhttp://digitech.com/en/products/digidelay",
+    "hrid": "digitech-digidelay"
+}

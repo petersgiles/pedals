@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26286",
+    "name": "D7",
+    "image": "images/mooer-d7.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mooer",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Multi-delayThe D7 Delay is the redesigned multi-delay effects pedal of The New Micro Series. Using the 7 signature LED lights as a guide, this pedal houses 6 customizable digital delay effects with the seventh LED indicating the built-in LOOPER that can be used in tandem with any delay setting. Like the other pedals in the series, all of these effects are customizable and storable for your convenience. Tap Tempo functionality allows you to easily set the desired delay timing and of course, with the “Trail On” feature delay effects fade out naturally and organically.\n*6 different types of MOOER's customizable delay effects.\n*Tap Tempo to control delay timing.\n*Trail On function allows the effects to fade out naturally.\n*Storable presets.\n*150-second capacity LOOPER.\nModes\nTAPE LIQUID\nRAINBOW\nGalaxy\nMOD - VERSE\nLOW-BIT\nLOOPER\nhttp://www.mooeraudio.com/product/D7-235.html",
+    "hrid": "mooer-d7"
+}

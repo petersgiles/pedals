@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15176",
+    "name": "Op-amp Big Muff Pi Fuzz Pedal",
+    "image": "images/electro-harmonix-op-amp-big-muff-pi-fuzz-pedal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Late 70s op-amp Muff Reissue\nhttps://www.sweetwater.com/store/detail/OpAmpBigMuff",
+    "hrid": "electro-harmonix-op-amp-big-muff-pi-fuzz-pedal"
+}

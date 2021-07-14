@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12263",
+    "name": "Full-Drive 2 Mosfet",
+    "image": "images/fulltone-full-drive-2-mosfet.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$118 Price in €",
+    "width": 147,
+    "height": 111,
+    "details": "Overdrive/Clean BoostHoused in a beautiful powder coated Blue 16ga. steel enclosure, the dual-channel Full-Drive 2 Mosfet gives you the best of both worlds. The first channel is the Overdrive Mode, capable of clean boost or non-compressed overdrive or choose light to medium softer overdrives all while retaining your guitar's original tone. The Tone knob is a very effective presence control that can smooth out or add upper harmonics. The second channel is the \"Boost Mode\" with its own separate distortion control for medium to higher gains with a more singing violin-like sustain!\nOne mini-toggle lets you choose between a \"Vintage\" FD2 sound with mid-heavy tones that cut through the mix and \"FM (flat-mids)\" for a more natural, transparent sound that works awesome with a Strat's neck pickup.\nThe other mini-toggle lets you choose between Mosfet and Normal clipping modes. Normal mode is even more asymmetrical, sweeter and more open, with no \"blanket\" over the sound.\nAnd, of course, the FD2-Mosfet features super-bright LEDs and Fulltone's exclusive \"no-thump/no-pop\" True Bypass switches. We are the first to offer a switchable \"Boost\" Channel in an overdrive and the first only to manufacture our own Super-Duty 3PDT footswitch allowing True-Bypass plus LED.\nChosen by Guitar Player Magazine readers as one of the \"top 50 effects ever!\"\nhttps://www.fulltone.com/products/full-drive2-mosfet",
+    "hrid": "fulltone-full-drive-2-mosfet"
+}

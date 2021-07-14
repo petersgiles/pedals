@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19604",
+    "name": "Battalion",
+    "image": "images/electro-harmonix-battalion.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Multieffect",
+        "Dynamics",
+        "Noise Gate"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "Bass Preamp & DIThe Battalion Bass Preamp and DI is a compact, flexible pedal that delivers powerful tone shaping capabilities in a rugged pedalboard-friendly package. The Battalion is loaded with features that will appeal to tone conscious bass players and includes a four-band equalizer, fully-featured MOSFET distortion section with three signal path options, a compressor, a noise gate and comprehensive I/O.\nQuick Specs\n\nFour-band EQ tailored specifically for bass guitar. Includes controls for Bass (below 200Hz), Lo Mid (boost/cut at 280Hz Mid (boost/cut at 750Hz) and Treble (boost/cut above 2kHz).\nThe Battalion’s distortion section delivers an awesome array of distorted bass sounds.\nDistortion section features Level, Blend, Drive and Tone controls plus a dedicated footswitch.\nThree signal flow modes yield unique tonal variations. Pre EQ, distortion comes before EQ. Post EQ, distortion comes after EQ and Dry EQ, only the dry signal mixed in with the Blend control is affected by the EQ\nCompressor with dedicated pushbutton, amount control and LED adds thump and sustain to your bass sound\nNoise Gate with adjustable threshold control eliminates noise and hum while preserving your attack and original tone\nFlexible I/O allows the Battalion to fit perfectly in any bass rig or application\n¼\" input jack includes switchable 10dB pad\nIncludes a headphone ready ¼\" output jack plus a hardwired ¼\" dry output jack\nBalanced XLR output for use as a DI. The DI features dedicated level, bypass and ground lift controls\nAll-analog circuitry\nEHX 9.6VDC-200mA power supply included\nCurrent Draw: 100mA @ 9VDC\nDimensions in inches: 4.75(w) x 5.75(l) x 2.5(h)\nDimensions in mm: 121(w) x 146(l) x 64(h)\n\nhttps://www.ehx.com/products/battalion",
+    "hrid": "electro-harmonix-battalion"
+}

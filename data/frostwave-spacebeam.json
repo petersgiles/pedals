@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26899",
+    "name": "SpaceBEAM",
+    "image": "images/frostwave-spacebeam.jpg",
+    "function": [
+        "Controller",
+        "Synth Voice"
+    ],
+    "manufacturer": "Frostwave",
+    "current": "? mA / 16 V / AC",
+    "cost": "",
+    "width": 135,
+    "height": 135,
+    "details": "Optical ThereminSpatial sensing Oscillator with three outputs: \nAudio, CV, gate\nThe Frostwave spaceBEAM is a theremin type instrument, using the reflection of an infra-red beam from the operator's hand. This results in a much more stable and reliable behaviour. When you place your hand above the Spacebeam it's infra red light is reflected back, generating an audio tone that changes pitch as you move your hand up and down. The spaceBEAM can be used to control a monosynth with a CV and gate input, such as a Roland SH-101.",
+    "hrid": "frostwave-spacebeam"
+}

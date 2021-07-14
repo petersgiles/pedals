@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13581",
+    "name": "Line 6 POD HD500",
+    "image": "images/line6-line-6-pod-hd500.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 546,
+    "height": 267,
+    "details": "POD HD500 Multieffects pedalColorful clean tones that sparkle and sing with dizzying levels of detail. Dial back your guitar volume to get sweet-spot breakup from warm, earthy crunch tones. Line 6 HD amp models feel, behave and sound like no others. They contain up to 10 times more amplifier DNA than our previous modeling for a playing experience that can only be described as HD.\nBehind the full-bodied tone of every HD amp model is a story thats just as rich.\nPOD HD multi-effect pedals are full-featured looping, pitch-shifting, harmonizing machines. With upwards of 100+ effects, youll have even more ways to find your tone and sculpt it to perfection. Use the built-in expression pedal controls wah, volume and pitch effects.\nMade famous by Line 6 M9 and M13 stompbox modelers, M-class effects include popular delays, reverbs, mods, pitch effects, and more. Each POD HD multi-effect pedal boasts a whopping collection that is easy to dial in, save, and sync with universal tap tempo. Now you can sound like anyone under the sun, or no one but you.\nSometimes a hint of reverb just isnt enough. You can emulate classic effect setups or create the lushest soundscapes by layering up as many effects as you can. POD HD500 offers an insane sonic amount of possibilities with up to 8 simultaneous FX and flexible routing. POD HD300 and POD HD400 provide up to 4 simultaneous FX, which covers more than enough sonic territory.\nCreate great sounding loops quickly. Advanced users, dig into the extended looping times and dedicated footswitches. Novice enthusiasts, youll be making music in no time thanks to the clearly marked controls and clean design.",
+    "hrid": "line6-line-6-pod-hd500"
+}

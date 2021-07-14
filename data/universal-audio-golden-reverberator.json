@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31672",
+    "name": "Golden Reverberator",
+    "image": "images/universal-audio-golden-reverberator.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Universal Audio",
+    "current": "400 mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Three Classic ReverbsFrom the dense sound of 1950’s studio plates, to tube-driven spring reverb of classic 1960's guitar amps and endless algorithmic wonder of vintage digital reverbs, Golden Reverberator gives you three perfectly-emulated classic reverbs in a beautiful effects pedal that’s built to last decades. \nThree Classic Reverbs, Expertly Captured \nSpring 65: Three \"golden unit\" spring reverb tanks, pulled from classic 1960's American guitar amps.\nPlate 140: Three vintage German plate reverbs, captured at the iconic Record Plant studio.\nHall 224: A trio of perfectly modeled late-1970's digital reverb algorithms. \nBonus Effects: Free Vintage digital Plate and Chamber 224 reverbs, downloadable at registration.\nFlagship reverb emulation pedal with powerful dual-processor UAFX engine\n    Three classic reverb sounds, with available modulation on each effect\n    Simple Live/Preset modes for instant recall of your favorite sound\n    Additional downloadable effects by the world-renowned UAD algorithm team\n    True or buffered bypass,* spillover/tails, silent switching\n    Analog dry through, stereo/dual mono operation\n    Classic UA analog design and craftsmanship, built to last decades",
+    "hrid": "universal-audio-golden-reverberator"
+}

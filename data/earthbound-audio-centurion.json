@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33481",
+    "name": "Centurion",
+    "image": "images/earthbound-audio-centurion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Earthbound Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Aggressive fuzzThe CENTURION is a 2 transistor fuzz built with silicon transistors for a huge aggressive tone. The MASS knob can take it from a well defined cutting fuzz to a thick, woolly monster fuzz.\nhttps://earthboundaudio.bigcartel.com/product/centurion-fuzz",
+    "hrid": "earthbound-audio-centurion"
+}

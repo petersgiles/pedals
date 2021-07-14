@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28927",
+    "name": "SPD-SX Special Edition",
+    "image": "images/roland-spd-sx-special-edition.jpg",
+    "function": [
+        "Drum",
+        "Sampling"
+    ],
+    "manufacturer": "Roland",
+    "current": "2000 mA / 9 V / DC / Negative Center",
+    "cost": "$829 Price in €",
+    "width": 365,
+    "height": 332,
+    "details": "Sampling percussion padRoland's SPD-SX Special Edition sampling percussion pad is Roland's most advanced sampling percussion pad to date. \nhttps://www.roland.com/us/products/spd-sx_special_edition/",
+    "hrid": "roland-spd-sx-special-edition"
+}

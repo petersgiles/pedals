@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12051",
+    "name": "RC-300",
+    "image": "images/boss-rc-300.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "Boss",
+    "current": "320 mA / 9 V / DC / Negative Center",
+    "cost": "$492 Price in €",
+    "width": 536,
+    "height": 231,
+    "details": "Stereo Loop StationThe looper features three synchronized stereo tracks with dedicated volume knobs and transport-control footswitches for each track. It’s also equipped with pro effects, a master expression pedal, and a deluxe, ultra-wide control panel for the ultimate in live-performance manipulation. Plug in your guitar, bass, keyboard, or instrument of choice and create amazing loops in real time. An XLR input is also provided, complete with phantom power, so singers, percussionists, violinists, beatboxers, or anyone with a mic’d instrument can get in on the act, too. The RC-300 lets you record for up to three hours directly to its internal memory, adding effects as you go. The USB port lets you save your loops externally, as well as import/export WAV files.\n3 Stereo tracks, each with two separate footswitches: Rec, play and stop\nEasily operated volume fader for each track\nExpression pedal to thomann effect control in real time\n3 Hours stereo recording time and 99 internal memory locations\n16 Onboard effects optimized for looping\nXLR Microphone input with phantom power\nUSB Port for import / export WAV files\n16 Bit / 44.1 kHz\nWeight: 3.9 kg\nhttps://www.boss.info/us/products/rc-300/?lang=en-US",
+    "hrid": "boss-rc-300"
+}

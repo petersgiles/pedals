@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23244",
+    "name": "PAN 04",
+    "image": "images/palmer-pan-04.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Palmer",
+    "current": "Pedal is passive",
+    "cost": "$74 Price in €",
+    "width": 110,
+    "height": 110,
+    "details": "2-channel passive DI boxThe PAN-04 consists of a housing containing the equivalent of two PAN-01s, making it a dual channel passive DI box. This „stereo\" configuration makes it ideally suited for use with certain keyboards and devices which have several outputs.ive DI box. Jack input with paralell „THRU\" output, transformer balanced XLR output. Attenuable input sensitivity, can handle both line level and speaker level signals.\nhttps://www.palmer-germany.com/en/products/di-boxes/5010/pan-04",
+    "hrid": "palmer-pan-04"
+}

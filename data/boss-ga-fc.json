@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26044",
+    "name": "GA-FC",
+    "image": "images/boss-ga-fc.jpg",
+    "function": [
+        "Controller",
+        "Switch"
+    ],
+    "manufacturer": "Boss",
+    "current": "Pedal is passive",
+    "cost": "$129 Price in €",
+    "width": 392,
+    "height": 81,
+    "details": "Floor Control for Roland and BOSS AmpsIf you want to keep your hands on your axe at all times, the GA-FC Foot Controller lets you drive Roland and BOSS amps from the floor. It allows for expansion as well: plug in optional expression pedals etc.\nhttps://www.roland.com/us/products/ga-fc/",
+    "hrid": "boss-ga-fc"
+}

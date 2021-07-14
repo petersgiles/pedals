@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28609",
+    "name": "0 CTRL",
+    "image": "images/make-noise-0-ctrl.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Make Noise",
+    "current": "? mA / 15 V / DC",
+    "cost": "$497 Price in €",
+    "width": 229,
+    "height": 140,
+    "details": "Patchable, clockable controller and sequencerThe Make Noise 0-CTRL is a patchable, clockable controller and step sequencer for voltage controlled synthesizer systems. Designed to be patch pals with the 0-Coast, it is a tabletop device whose inputs and outputs follow Eurorack standards, making it also a great partner for a modular system or another patchable tabletop synth.\nFully analog and patch programmable, no menus or modes, what you patch is what you get!\nSequence and Control the Pitch, Strength, and Time of your synthesizer voice, per step\nVoltage control over Stop and Direction\nDynamic Reset, select Reset Step while sequencing\nPressure and Touch Gate outputs for human generated events and expression\nDynamic Envelope and Gate outputs allow for voice loudness/ strength per note\nGate output per step for patch programming sequence behavior and triggering unique events per step\nSynchronize the 0-CTRL via the Clock In, or clock other machines with the Clock and/ or Gate Outs\nSequence your synthesizer and play it by hand simultaneously with Sequence Interrupt\nPairs well with the 0-Coast, Tape & Microsound Music Machine, or anything having CV Inputs\nhttp://www.makenoisemusic.com/synthesizers/ohctrl",
+    "hrid": "make-noise-0-ctrl"
+}

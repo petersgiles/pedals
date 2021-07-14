@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12240",
+    "name": "Holy Grail",
+    "image": "images/electro-harmonix-holy-grail.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$121 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Reverb pedalDivine reverb for mere mortals. Down from the heavens comes the Holy Grail, a compact digital reverb guitar pedal that is priced so low thou shalt not covet thy neighbor's reverb tank any longer. The Holy Grail will make you a believer with its emulation of classic Spring reverb so faithful that even Dick Dale couldn't tell the difference. Next, get lost in the lush spaciousness of the Hall reverb and ask yourself, \"how did they fit Notre Dame into such a small package?\" Finally, reach enlightenment with the haunting Flerb.\nhttps://www.ehx.com/products/holy-grail",
+    "hrid": "electro-harmonix-holy-grail"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19398",
+    "name": "Atmosphere",
+    "image": "images/dr-scientist-atmosphere.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 70,
+    "height": 100,
+    "details": "reverb",
+    "hrid": "dr-scientist-atmosphere"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33460",
+    "name": "SDI-1 Distortion",
+    "image": "images/arion-sdi-1-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Arion",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$22 Price in €",
+    "width": 74,
+    "height": 122,
+    "details": "https://en.audiofanzine.com/guitar-distortion-overdrive-fuzz/arion/SDI-1/user_reviews/r.22748.html",
+    "hrid": "arion-sdi-1-distortion"
+}

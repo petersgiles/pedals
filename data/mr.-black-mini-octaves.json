@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25543",
+    "name": "Mini Octaves",
+    "image": "images/mr.-black-mini-octaves.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 47,
+    "height": 94,
+    "details": "Mini Format Polyphonic Octave GeneratorA super-small polyphonic pitch-transposer designed to deliver one octave above and one octave below the root. Precise engineering and thorough signal processing allow complex chords and even distorted signals to be handled with ease!\nThree simple controls allow you to quickly dial in the original voice as well as two additional voices: one octave above, and one octave below your original signal.\nHigh-noon on each control delivers unity gain of the voice, while full CCW rotation yields -∞dB and full CW rotation doles out +3dB independently. A subtle and gentle flutter mimics the natural vibrato signers produce during live performance.\nHandmade and built to last by real live humans, right here in Portland, Oregon using only premium parts for superior tone and years of dependable service.\nControls:\nSub (low octave level)\nRoot (original signal level)\nUpper (high octave level)\nTech Specs:\nTrue-Bypass\nInput Impedance: ~500KΩ\nOutput Impedance: ~2KΩ\nhttps://www.mrblackpedals.com/collections/mini-pedals/products/mini-octaves",
+    "hrid": "mr.-black-mini-octaves"
+}

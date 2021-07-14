@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19185",
+    "name": "H2O V3",
+    "image": "images/truetone-h2o-v3.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$202 Price in €",
+    "width": 130,
+    "height": 113,
+    "details": "Chorus - Echo\nhttp://truetone.com/v3-h2o/",
+    "hrid": "truetone-h2o-v3"
+}

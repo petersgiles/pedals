@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18852",
+    "name": "Micro-Tron III Vintage Silver",
+    "image": "images/mu-tron-micro-tron-iii-vintage-silver.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Mu-Tron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$307 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Envelope FilterMicro-Tron III Vintage Silver\nhttps://www.mu-tron.com/shop/pedals/micro-tron-iii-vintage-silver/ \nhttps://www.mu-tron.com/",
+    "hrid": "mu-tron-micro-tron-iii-vintage-silver"
+}

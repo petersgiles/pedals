@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20693",
+    "name": "BloodMoon Blood & Chrome",
+    "image": "images/mr.-black-bloodmoon-blood-&-chrome.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "https://www.mrblackpedals.com/collections/pedals/products/bloodmoon-blood-chrome-wolfman-special",
+    "hrid": "mr.-black-bloodmoon-blood-&-chrome"
+}

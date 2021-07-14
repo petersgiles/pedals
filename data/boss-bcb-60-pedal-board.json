@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20582",
+    "name": "BCB-60 Pedal Board",
+    "image": "images/boss-bcb-60-pedal-board.jpg",
+    "function": [
+        "Power",
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 670,
+    "height": 370,
+    "details": "Pedalboard with Built-In 9V/1A Power SupplyThe BOSS BCB-60 Pedal Board is a convenient way to set up and transport all your compact effects. The unique padded interior can be customized to fit a range of gear from BOSS compact and Twin Pedals to effects from other manufacturers. A convenient AC adaptor supplies power for up to seven devices.\nNo matter what kind of pedals you have, the BCB-60 can store them. The customizable interior comes with three foam inserts pre-cut to hold your favorite BOSS gear, plus a spare insert that can be cut to fit almost any effect-even from other manufacturers. Create the ultimate pedal board using compact pedals, Twin Pedals, a tuner or even a V-Wah.\nGot power? The BCB-60 does. In fact, the onboard AC adaptor is almost like a mini electrical generator, giving you up to 1,000mA of power, or the equivalent of five PSA-Series adaptors. Now you can run up to seven devices right from the pedal board. With the BCB-60, there has never been a more convenient way to organize and transport your gear.\nhttps://www.boss.info/us/products/bcb-60/",
+    "hrid": "boss-bcb-60-pedal-board"
+}

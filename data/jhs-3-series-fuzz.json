@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29910",
+    "name": "3 Series Fuzz",
+    "image": "images/jhs-3-series-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Versatile fuzz boxThe JHS Pedals 3 Series Fuzz is a versatile fuzz box that cleans up well with your guitar's volume knob. The Fuzz is the perfect balance of vintage and modern with soaring sustain and clear articulation. The controls allow you to create a wide variety of sounds via the Bias knob, which gives the Fuzz a more gated sound as you turn it up. Unlike many fuzz pedals, the fuzz knob is usable across 100% of the sweep for many different flavors not typically found in a fuzz, like distortion, and even pushed amp Esq overdrive tones. The Fat toggle engages a bass boost for an overall fatter, more powerful sound. \nThe JHS Pedals 3 Series Fuzz runs on 9V DC Negative Center power and consumes 9mA.\nhttps://www.jhspedals.info/3-series-fuzz",
+    "hrid": "jhs-3-series-fuzz"
+}

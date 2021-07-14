@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12014",
+    "name": "Ten Band EQ",
+    "image": "images/mxr-ten-band-eq.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 121,
+    "height": 95,
+    "details": "EQNo matter what your instrument, regain control of your tone with this incredible EQ. The MXR Ten Band Graphic EQ gives players huge amounts of tone shaping and level control in a bullet-proof enclosure. With ten carefully chosen frequencies and both input and output level controls, the Ten Band will let you tune your bass or guitar rig to any room in seconds; create earthshaking low-end; restore punch, level, and treble response to a crowded pedalboard; warm up an amplified acoustic; and much, much more.\n•    Up to ±12dB of cutting or\nboosting at 10 different\nfrequencies\n• Easy to see and adjust onstage\nwith glow-in-the-dark graphics\nand sliders\n• 18-volt operation for\nincreased headroom\n• True bypass switching\nhttps://www.jimdunlop.com/product/m108-7-10137-01224-0.do",
+    "hrid": "mxr-ten-band-eq"
+}

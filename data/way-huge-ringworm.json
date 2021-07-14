@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30936",
+    "name": "Ringworm",
+    "image": "images/way-huge-ringworm.jpg",
+    "function": [
+        "Ring Modulator"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "70 mA / 18 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 81,
+    "height": 121,
+    "details": "Ring ModulatorDial in some crazy freaked out madness with the Way Huge Ring Worm, an analog modulator based on old-school synth technology with a designed-from-the-ground-up circuit. One twist of the 5-way selector knob takes you through five different waves of low frequency oscillator (LFO) lunacy, adding beautifully bizarre and unpredictable amounts of modulation to your otherwise traditional tone.\nThe Depth knob controls intensity, and the Rate knob controls speed of the LFO, while the Blend and Frequency knobs controls the mix of the effect and pitch of the internal oscillator. An expression input allows an expression pedal to take over the function of the Frequency knob.",
+    "hrid": "way-huge-ringworm"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16416",
+    "name": "Superdelay",
+    "image": "images/empress-effects-superdelay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1 Price in €",
+    "width": 145,
+    "height": 95,
+    "details": "Delay\nhttps://empresseffects.com/products/superdelay",
+    "hrid": "empress-effects-superdelay"
+}

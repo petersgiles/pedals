@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12754",
+    "name": "BC10 Stereo Bass Chorus",
+    "image": "images/ibanez-bc10-stereo-bass-chorus.jpg",
+    "function": [
+        "Bass",
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "",
+    "hrid": "ibanez-bc10-stereo-bass-chorus"
+}

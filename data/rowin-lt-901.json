@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17076",
+    "name": "LT 901",
+    "image": "images/rowin-lt-901.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 40,
+    "height": 90,
+    "details": "TunerTuner Pedal\nhttp://www.rowinmusic.com/col.jsp?id=129",
+    "hrid": "rowin-lt-901"
+}

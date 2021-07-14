@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19828",
+    "name": "Ripply Fall",
+    "image": "images/jam-pedals-ripply-fall.jpg",
+    "function": [
+        "Chorus",
+        "Multieffect",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$320 Price in €",
+    "width": 129,
+    "height": 94,
+    "details": "Phaser / ChorusImmerse yourself in 3-D multi-modulation bliss!\nAfter years of recommending the Waterfall and the Ripple as a great combination, we decided to offer the Ripply Fall! These two pedals, while housed in a single enclosure, still work as stand-alone units but also come with a couple of new features!\nFirst of all, the combination of these two pedals produces deep and lush modulation making up for some great modern Univibe tones! Engage the middle footswitch to enter uncharted territories, with sounds ranging from leslie speaker simulation, to ring modulator effects, to deranged warble, which  you can further sculpt real-time with the use of expression pedals to control the WaterFall’s Depth and Rate and then shoot it into space by stacking the Ripple on top! \nhttps://www.jampedals.com/ripply-fall/",
+    "hrid": "jam-pedals-ripply-fall"
+}

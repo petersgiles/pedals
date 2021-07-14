@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12159",
+    "name": "Black Box Overdrive 2",
+    "image": "images/snouse-electric-company-black-box-overdrive-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Snouse Electric Company",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 70,
+    "height": 128,
+    "details": "Modded Marshall Bluesbreaker cloneFEATURES\n• Unique internal tri-mode switch makes it THREE pedals in one - a pre-gain boosted Hi-Gain overdrive; our Classic Lo-Gain overdrive; and a TRUE Clean Boost \n• Carefully and beautifully hand-wired in the USA - no cheap Chinese manufacturing \n• Gain, Tone, Presence, Volume, and pre-gain Boost controls, plus internal Bright/Smooth Voicing switch\n• True-Bypass switching for complete bypass transparency\n• Absolute top-quality components, including Alpha potentiometers, Neutrik jacks, Xicon metal-film resistors, Nichicon electrolytics and Panasonic ECQ poly-film capacitors\n• Military-grade 24 AWG stranded wire for durability\n• Davies-style molded cream-colored knobs\n• Top quality US-manufactured matte black and gold PCB \n• Socketed op-amp\n• Bright (but not blinding) blue LED\n• Powered by Boss-style 9-18VDC regulated power supply\n• 100% handmade, hand-drilled and hand-wired\n• So clean inside ya can lick it! No rats nest wiring in these here boxes!\nhttp://snouse.com/index.html",
+    "hrid": "snouse-electric-company-black-box-overdrive-2"
+}

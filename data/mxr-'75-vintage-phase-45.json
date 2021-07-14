@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23116",
+    "name": "'75 Vintage Phase 45",
+    "image": "images/mxr-'75-vintage-phase-45.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 68,
+    "height": 124,
+    "details": "",
+    "hrid": "mxr-'75-vintage-phase-45"
+}

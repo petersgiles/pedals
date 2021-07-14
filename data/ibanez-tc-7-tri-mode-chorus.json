@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12282",
+    "name": "TC-7 TRI-Mode Chorus",
+    "image": "images/ibanez-tc-7-tri-mode-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$56 Price in €",
+    "width": 75,
+    "height": 125,
+    "details": "",
+    "hrid": "ibanez-tc-7-tri-mode-chorus"
+}

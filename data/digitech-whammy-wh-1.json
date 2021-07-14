@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15042",
+    "name": "Whammy WH-1",
+    "image": "images/digitech-whammy-wh-1.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 152,
+    "details": "Pitch Shifter",
+    "hrid": "digitech-whammy-wh-1"
+}

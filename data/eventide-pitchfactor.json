@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11691",
+    "name": "PitchFactor",
+    "image": "images/eventide-pitchfactor.jpg",
+    "function": [
+        "Multieffect",
+        "Pitch Shifter",
+        "MIDI",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Eventide",
+    "current": "500 mA / 9 V / DC / Positive Center",
+    "cost": "$539 Price in €",
+    "width": 190,
+    "height": 122,
+    "details": "HarmonizerHardly another name stands for High-End Pitch Shifting and Harmonizing Effects like Eventide. Jimmy Page, Frank Zappa, Steve Vai, Brian May, Eddie Van Halen, Peter Frampton, Robert Fripp, Adrian Belew, John Petrucci and Richard Z. Kruspe are just some of the great names who have upgraded their sound with Eventide( besides the large number of top studios with which Eventides was used).",
+    "hrid": "eventide-pitchfactor"
+}

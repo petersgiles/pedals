@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13988",
+    "name": "Minivan Echo",
+    "image": "images/dwarfcraft-devices-minivan-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "dark PT2399 echoThe Minivan is a dark echo, built off a digital chip so old it sounds analog.  Yes pedal people, I’m talking about the pt2399. We have a couple tricks up our sleeves, though.  Most echo pedals built of the 2399 give you a pretty short range of delays, using the “best” range of the circuit.  But we’re Dwarfcraft.  Sure, you can have those traditional sounds, but then you also have another half-turn or so to go into super slow and mangled territory. And what’s a delay pedal that doesn’t run away into self oscillation? A delay pedal you don’t need.  Crank that feedback up and ride the waves, my friend.\nThe mix knob is a pretty standard affair, from 100% dry at 7 o’clock, and for echoes just a touch louder than the dry, twist it all the way up to 5 o’clock. We also added an insert FX loop so you can make your own fun.\nPlug in an expression pedal to control the feedback amount, but it is a lot more fun to use a stereo 1/4” to dual mono 1/4” cable to insert effects into the delay line of the Minivan. For example, putting a pitch shifter in the loop will shift each repeated signal up as it passes through.  \n​This is a great way to create otherworldly sounds, and also a great way to kill an afternoon testing EVERYTHING in the loop. Currently my favorites are pitch shifters and tremolo.\nhttps://www.dwarfcraft.com/mini-van-delay.html",
+    "hrid": "dwarfcraft-devices-minivan-echo"
+}

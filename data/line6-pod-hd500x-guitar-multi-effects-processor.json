@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28903",
+    "name": "POD HD500X Guitar Multi-Effects Processor",
+    "image": "images/line6-pod-hd500x-guitar-multi-effects-processor.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / 120 V / AC",
+    "cost": "$399 Price in €",
+    "width": 546,
+    "height": 261,
+    "details": "Recall up to 512 totally different rigs-with changes to preamp type, power amp configuration, guitar type, polyphonic alt-tuning, effects chain and more\nhttps://line6.com/podhd/",
+    "hrid": "line6-pod-hd500x-guitar-multi-effects-processor"
+}

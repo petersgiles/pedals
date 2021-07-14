@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14962",
+    "name": "Demo Tape Fuzz",
+    "image": "images/mid-fi-demo-tape-fuzz.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Mid-Fi",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Emulates distortion of direct to tape preDesigned to emulate the distortion created by running an instrument direct into a 4 track/mixer/mic pre. From gross to gorgeous.\nhttp://www.midfielectronics.com/demotape",
+    "hrid": "mid-fi-demo-tape-fuzz"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11653",
+    "name": "Mini Core SE Compressor",
+    "image": "images/nux-mini-core-se-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$32 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "analog effect pedal for electric guitar & bass",
+    "hrid": "nux-mini-core-se-compressor"
+}

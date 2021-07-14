@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21700",
+    "name": "Minimal Series AB Box",
+    "image": "images/onecontrol-minimal-series-ab-box.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 54,
+    "height": 101,
+    "details": "A/B Box line selector",
+    "hrid": "onecontrol-minimal-series-ab-box"
+}

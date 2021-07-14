@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21705",
+    "name": "ENO Reverb Guitar Effect Pedal True Bypass",
+    "image": "images/eno-music-eno-reverb-guitar-effect-pedal-true-bypass.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "ReverbAllows you experience any reverb from Spring, Plate, Room, Hall, Ducking, Echo to Space sounds, etc.\nMagnalium alloy housing, good durability.\nMini size, compact and space-saving.\nDurable jacks and foot switch.\nTrue bypass design, minimizes tone loss and get more control of your pedal.\nDesigned with on / off LED, instructs effects or bypass status.\nWith 4 adjustable knobs: Level, Time, Wave-band, Dry/Wet, 0.25in monaural jack.\nDC 9V adapter power supply, polarity is positive pole outside and negative pole inside available.\nhttps://www.aliexpress.com/item/ENO-Reverb-Guitar-Effect-Pedal-True-Bypass/32814557036.html",
+    "hrid": "eno-music-eno-reverb-guitar-effect-pedal-true-bypass"
+}

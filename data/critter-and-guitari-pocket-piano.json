@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24995",
+    "name": "Pocket Piano",
+    "image": "images/critter-and-guitari-pocket-piano.jpg",
+    "function": [
+        "Controller",
+        "Digital",
+        "MIDI",
+        "Synth Voice"
+    ],
+    "manufacturer": "Critter and Guitari",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$246 Price in €",
+    "width": 248,
+    "height": 83,
+    "details": "Pocket Piano MIDI",
+    "hrid": "critter-and-guitari-pocket-piano"
+}

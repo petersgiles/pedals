@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33289",
+    "name": "Futurist",
+    "image": "images/matthews-effects-futurist.jpg",
+    "function": [
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 100,
+    "height": 81,
+    "details": "MIDI controllerThe Futurist is a unique, compact MIDI controller pedal that pioneers a better way of experiencing MIDI. Built on the core ambitions to make MIDI easier, more accessible, and to provide strong features, The Futurist, strives to bring you the innovations of tomorrow today. The Futurist is not limited to controlling MIDI; analog equipment can be controlled by virtual analog control outputs integrated into the device. With expandability and versatility in mind, an expression pedal can be used to send MIDI expression, or 3 additional footswitches can be added to expand The Futurist’s capabilities from 4 switches to 7. Download the “Matthews Effects Editor” software to update The Futurist’s firmware, organize presets and create new ones using the custom “Smart Editor” wizard that makes creating MIDI messages a breeze. Whether programming it from a computer or making some last-minute edits before a show, we want you to have the best MIDI experience possible. We welcome you to a new world of endless possibilities, The Futurist is here.*\nhttps://www.matthewseffects.com/store/pedals/the-futurist-controller/",
+    "hrid": "matthews-effects-futurist"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18591",
+    "name": "Vh4 Preamp",
+    "image": "images/diezel-vh4-preamp.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Diezel",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 117,
+    "height": 152,
+    "details": "Humungous Distortion",
+    "hrid": "diezel-vh4-preamp"
+}

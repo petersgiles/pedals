@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21199",
+    "name": "Minimoog Model D",
+    "image": "21199.b.jpg",
+    "function": [
+        "Unlisted",
+        "Synth Voice"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 727,
+    "height": 435,
+    "details": "",
+    "hrid": "moog-music-inc.-minimoog-model-d"
+}

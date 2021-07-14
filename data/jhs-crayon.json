@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14438",
+    "name": "Crayon",
+    "image": "images/jhs-crayon.jpg",
+    "function": [
+        "Distortion",
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 69,
+    "height": 122,
+    "details": "British Style Preamp DriveThe JHS Pedals Colour Box is amazing. It’s powerful, it’s versatile, it sounds stunning as a guitar pedal or as a recording preamp, and sometimes...just sometimes...it’s a bit too much for guitarists. That’s why we created the Crayon. This straightforward pedal harnesses the exact same gritty preamp tones of the Colour Box and puts them in a smaller stomp with a simplified control layout. Three knobs control the gain, output, and tone of the pedal, while a Hi-Pass switch accesses even more aggressive characters. If you’re one of the musicians who is madly in love with those straight-to-console fuzz tones but don’t need all the extras, the JHS Pedals Crayon was made just for you.\nhttps://www.jhspedals.com/products/bass-pedals/thecrayon/",
+    "hrid": "jhs-crayon"
+}

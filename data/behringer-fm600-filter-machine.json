@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13200",
+    "name": "FM600 Filter Machine",
+    "image": "images/behringer-fm600-filter-machine.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-fm600-filter-machine"
+}

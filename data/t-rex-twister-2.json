@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23937",
+    "name": "Twister 2",
+    "image": "images/t-rex-twister-2.jpg",
+    "function": [
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$140 Price in €",
+    "width": 100,
+    "height": 120,
+    "details": "Chorus / Flanger",
+    "hrid": "t-rex-twister-2"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11883",
+    "name": "Expressionator",
+    "image": "images/mission-engineering-expressionator.jpg",
+    "function": [
+        "Controller",
+        "Expression"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 112,
+    "height": 61,
+    "details": "Multi-Expression ControllerMission Engineering's Expressionator Multi-Expression Controller lets you get the maximum functionality out of one expression pedal. With the Expressionator, you can connect a single expression pedal with up to three expression-enabled effects and control them either simultaneously or individually. Connect an expression pedal to the input of the Expressionator, and its trio of stomp-switch-selectable outputs to the expression pedal inputs on your effects. You also get five programmable taper options, internal memory to save your presets, and LED status indicators. Use expression pedals? You need the Expressionator Multi-Expression Controller!",
+    "hrid": "mission-engineering-expressionator"
+}

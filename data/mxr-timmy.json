@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25714",
+    "name": "Timmy",
+    "image": "images/mxr-timmy.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Transparent overdriveThe MXR Timmy Overdrive provides a huge, responsive range of gritty and textured tones that enhance the sound of your rig while preserving its fundamental character—and in an MXR mini housing, this pedal will free up some serious pedalboard space. It’s based on a design created by veteran pedal builder Paul Cochrane that’s widely celebrated among high level pros, from first-call Nashville session player Kenny Greenberg to first call L.A. player Lyle Workman to rockstar Brad Whitford. When Paul decided to bring his pedal to a wider audience, he chose to work with the MXR design team. “It’s an honor to work with MXR,” Paul says. “My first ever pedal was a Phase 90.”\nThanks to Paul’s inventive implementation of clipping options and tone controls, this pedal is a working guitar player’s dream come true. The Clip switch provides three different clipping styles that cover a multitude of playing situations, whether you need an always-on sound that’s big and bold with a ton of headroom to slam the front end of your amp, a more compressed and saturated sound for fat, gnarly chords, or anything in between.\nThe Bass and Treble controls offer further refinement of your sonic profile. Firstly, they’re cut-only, keeping the character of your signal intact and making it super easy to dial in a clean boost. Secondly, Paul wired the the Bass control to affect your pre-OD signal so that you can your maintain low end at lower Gain settings and the Treble control to affect your post-OD signal so that you can adjust the top end to keep dirty settings smooth and musical. \nFinally, the MXR design team worked closely with Paul to select an op-amp that perfectly complements his expertly crafted design. They landed on the LF353, a trusty component well-respected by Dunlop engineers for providing high output, high gain, and  hi-fi signal delivery. The resulting MXR Timmy Overdrive is a professional-grade must-have for players who want sweet, harmonic breakup that responds to playing dynamics and maintains the personality of your rig at a fraction of the size of a standard pedal.",
+    "hrid": "mxr-timmy"
+}

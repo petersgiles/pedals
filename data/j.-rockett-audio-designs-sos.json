@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19017",
+    "name": "SOS",
+    "image": "images/j.-rockett-audio-designs-sos.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$108 Price in €",
+    "width": 67,
+    "height": 67,
+    "details": "",
+    "hrid": "j.-rockett-audio-designs-sos"
+}

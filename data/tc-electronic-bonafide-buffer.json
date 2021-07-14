@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13245",
+    "name": "BonaFide Buffer",
+    "image": "images/tc-electronic-bonafide-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 50,
+    "height": 95,
+    "details": "Buffer\nhttp://www.tcelectronic.com/bonafide-buffer/main/",
+    "hrid": "tc-electronic-bonafide-buffer"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16531",
+    "name": "Manta Bass Filter",
+    "image": "images/source-audio-manta-bass-filter.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$211 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "The Manta features a very unique signal path, internally splitting the instrument’s dry and distorted signals. The dry signal alone controls the envelope, increasing the playing response from the filter. The pedal’s 12 filter effects include 2 and 4-pole Low-Pass, Single-Peak, Multi-Peak, and Phasers. The Distortion Types include Hard and Soft clip, Octave distortion, Fold-back, Quantized, and synth-like Gated Fuzz. Each distortion has independent gain levels adjusted by the Drive control.\nhttps://www.sourceaudio.net/sb2-manta-bass-filter.html",
+    "hrid": "source-audio-manta-bass-filter"
+}

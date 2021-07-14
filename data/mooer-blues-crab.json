@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17409",
+    "name": "Blues Crab",
+    "image": "images/mooer-blues-crab.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$55 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Bluesbreaker CloneBlues Crab\nClassic blues overdrive sound characteristic\nFull metal shell\nVery small and exquisite\nTrue bypass\nSpecifications\nInput: 1/4” monaural jack (impedance: 1M Ohms)\nOutput: 1/4” monaural jack (impedance: 1k Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: 6 mA\nhttp://www.mooeraudio.com/?product/201410169018.html",
+    "hrid": "mooer-blues-crab"
+}

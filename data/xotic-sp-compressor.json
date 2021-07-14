@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11499",
+    "name": "SP Compressor",
+    "image": "images/xotic-sp-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Xotic",
+    "current": "Pedal is passive",
+    "cost": "$136 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "",
+    "hrid": "xotic-sp-compressor"
+}

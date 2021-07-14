@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29911",
+    "name": "3 Series Distortion",
+    "image": "images/jhs-3-series-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Versatile distortion pedalThe JHS Pedals 3 Series Distortion is a massively versatile distortion pedal with the ability to achieve medium gain crunch, heavy overdrive, distortion, and even fuzz tones. The controls on the Distortion are Volume, Filter (or Tone), and Distort knobs that give you a wide range of usable sounds in any position. The Gain toggle gives you a choice between more saturated and compressed or a more open and crunchy distortion. This switch plays a big part in how the pedal responds to your playing and touch dynamics. \nThe JHS Pedals 3 Series Distortion runs on 9V DC Negative Center power and consumes 9mA.\nhttps://www.jhspedals.info/3-series-distortion",
+    "hrid": "jhs-3-series-distortion"
+}

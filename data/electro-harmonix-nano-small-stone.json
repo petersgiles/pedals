@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11605",
+    "name": "Nano Small Stone",
+    "image": "images/electro-harmonix-nano-small-stone.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$72 Price in €",
+    "width": 68,
+    "height": 114,
+    "details": "PhaserGet the sound that made the Classic 1970 Small Stone famous. Generates thick sweeping phase shifting with liquid transparency. Feedback color control adds a tingling swirl. Blues players dig the Stone's rapid rotating speaker effect. Country players add tasty seasoning to their chicken pickin'. Metal-heads dig its jet plane swoosh.\nhttp://www.ehx.com/products/small-stone",
+    "hrid": "electro-harmonix-nano-small-stone"
+}

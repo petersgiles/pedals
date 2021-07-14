@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19497",
+    "name": "Ditto Gold",
+    "image": "images/tc-electronic-ditto-gold.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 48,
+    "height": 93,
+    "details": "Limited-edition looper pedal provides only the essential looping features for total simplicity of use\nPart of an exclusive gold-colored limited run, with hand-signed certificate of authenticity\n5 minutes of looping time with unlimited overdubs and undo/redo for total creative freedom\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when looper is engaged\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\n24-bit uncompressed audio for ultimate sound quality\nInternal memory retains loops even after power down\nUltra-simple one knob operation sets loop playback volume\nExtra-small enclosure easily fits on any pedal board\nSturdy die-cast metal case designed for life on the road\n3-Year Warranty Program*\nDesigned and engineered in Denmark",
+    "hrid": "tc-electronic-ditto-gold"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13123",
+    "name": "Starlight DLX",
+    "image": "images/sub-decay-starlight-dlx.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 117,
+    "height": 142,
+    "details": "Deluxe FlangerMore than jet plane sweep. The Starlight DLX puts you in control with a ridiculous number of options from seven LFO shapes, to envelope flanging and much more.\nFrom the ringing faux sitar sound to the rise and fall of jet plane sweep, flangers fire up very specific neurons in our brains, reminding us of certain music genres and eras often to the point of being cliché. Far more interesting to us is the way flanging and “flanger like” effects are used in mixdown or soundtracks to create a sense of focus, tension or space. How does this translate to a guitar effect? This really goes beyond the scope of most simple stompboxes. The Starlight DLX lets you make new sounds that conjure up imagery and emotion.  We hope you’ll find sounds which even we couldn’t have imagined.\nLet your creativity run wild in an whirlwind of modulated madness.\nUse the trigger mode and ramp waveform to create a perfectly timed continuous rise until that jet plane goes over the horizon.\nFloat down the zero gravity corridor of an alien vessel with the random sample hold function.\nCreate droning resonance by simply maxing the regen control\nListen inside a robot’s brain as it contemplates turning on it’s human masters with the random/triangle LFO.\nDoes it all sound like too much? Just set the mode to manual for simplicity and explore.\nLike many of our recent projects we started with the basics. We worked through several different designs, but always came back to the MN3007 running at 15 volts for maximum sweep and headroom. For functionality we used the Prometheus DLX control matrix giving you virtually infinite possibilities , but in a format where you can easily remember individual settings. We tuned the regen control to oscillate when set at maximum, and added the gate and volume control to keep more extreme sounds manageable.\nNotes about the Starlight DLX\nCannot be powered by a battery.\n Power supply is not included.\n If using a “daisy chain” power supply all other pedals MUST be negative ground.\n Input impedance: 1M\n Output impedance: Less than 1K.\n The Starlight DLX is hand made in Oregon.\n Die-cast metal enclosures for durability.\n 3PDT switches for true bypass switching.\n Two color Red/Green LED indicator.\nhttps://subdecay.com/effect/starlight-dlx-flanger",
+    "hrid": "sub-decay-starlight-dlx"
+}

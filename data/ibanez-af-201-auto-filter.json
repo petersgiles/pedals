@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11901",
+    "name": "AF-201 Auto Filter",
+    "image": "images/ibanez-af-201-auto-filter.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Sensitivity: determines when the effect will trigger.\nPeak: boosts the center frequency for more dramatic filtering (like a Resonance control on a synthesizer).\nFilter (LP/BP/HP): Selects the type of filter: Lowpass, Bandpass or Highpass.\nDrive (Up/Down): Selects the direction of the filter sweep: upwards or downwards.\nRange (High/Low): Selects the frequency range of the filter.",
+    "hrid": "ibanez-af-201-auto-filter"
+}

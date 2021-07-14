@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13876",
+    "name": "Tremble",
+    "image": "images/tone-city-tremble.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Tremolo\nhttp://www.tonecityaudio.com/Tremble",
+    "hrid": "tone-city-tremble"
+}

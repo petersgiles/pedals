@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15320",
+    "name": "805",
+    "image": "images/seymour-duncan-805.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 64,
+    "height": 124,
+    "details": "OverdriveA classic overdrive that gives a subtle boost, fat crunch, or a searing tone to your solos. 3-band active EQ shapes your tone just the way you want.\nWhether you’re looking to give your sound a bit of a boost or trying to find harmonically rich heavy gain with warm tube character, the 805 overdrive provides the versatility needed for any type of music – blues, country, rock, metal, and everything in between. The 3-band active EQ, delivers unprecedented control -you can have a smooth, lyrical bluesy tone one minute, and crushing modern metal crunch the next. The 805 is designed to be the perfect overdrive for pushing the front end of an already distorted amp, giving you plenty of output and tone-shaping capability, but can also give your clean tone a controlled boost. Scoop your mids or tighten your hard rock/metal tone in front of a high gain amplifier. Give that solo a searing boost that cuts perfectly through the mix and give your low end rhythm parts controlled crunch. The 805 is capable of any of these and more. Being a true-bypass pedal, it will feel at home on whatever pedalboard you choose.\nhttps://www.seymourduncan.com/pedal/805-overdrive",
+    "hrid": "seymour-duncan-805"
+}

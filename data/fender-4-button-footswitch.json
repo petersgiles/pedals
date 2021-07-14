@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29428",
+    "name": "4-Button Footswitch",
+    "image": "images/fender-4-button-footswitch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Fender",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 260,
+    "height": 110,
+    "details": "Older versionUsed mostly for 90s-era amps.",
+    "hrid": "fender-4-button-footswitch"
+}

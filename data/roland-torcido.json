@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12383",
+    "name": "Torcido",
+    "image": "images/roland-torcido.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 106,
+    "height": 128,
+    "details": "Modular Distortion\nhttps://www.roland.com/global/products/torcido/",
+    "hrid": "roland-torcido"
+}

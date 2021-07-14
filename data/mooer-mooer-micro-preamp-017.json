@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26271",
+    "name": "Mooer Micro Preamp 017",
+    "image": "images/mooer-mooer-micro-preamp-017.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$83 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Mesa Boogie Mk.IV Amp ModelThe ultimate in compact and versatile Californian combos comes to the Mooer Micro Preamp range. Cali MKIV re-creates 2 channels from one of the most famous modern-day session player combos. The clean channel is shimmering and bouncy, the gain channel can achieve purring blues tones, grinding crunch and soaring lead sounds.\nHigh quality dual channel preamp\n•    Independent 3 band EQ, Gain and Volume controls for each channel\n•    Speaker cabinet simulation on/off\n•    2 different modes for footswitch operation. On/Off or channel A/B\n•    017 is based on Mesa Boogie MK IV®\nhttp://mooeraudio.ca/product/micro-preamp-017-cali-mkiv/",
+    "hrid": "mooer-mooer-micro-preamp-017"
+}

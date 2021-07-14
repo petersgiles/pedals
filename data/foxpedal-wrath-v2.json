@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17521",
+    "name": "Wrath V2",
+    "image": "images/foxpedal-wrath-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "DistortionNew in V2: Top-mount Jacks, Soft-touch relay bypass switch, updated \"ghost black polygon\" graphics.\nThe Wrath is inspired by the popular RAT distortion (get it? W.Rat.H??) with a Reutz mod and red led clipping option (which really cranks it to an 11). The reutz mod (The \"Sweep\" control) adjust the clipping frequency of the gain stage making the tone darker as yout turn it up. Using a genuine NOS LM308 Op-Amp, the tone of this beast is second to none.\nFeatures:\nGenuine LM308 Op-Amp.\nHandwired Construction \nQuality hand-wired open frame jacks\nPower: Standard 9 volt DC/ negative center, NO internal battery option.\n3PDT True Bypass Footswitch\n\nCurrent Draw: ~15mA\nhttps://foxpedal.com/products/wrath-v2-1",
+    "hrid": "foxpedal-wrath-v2"
+}

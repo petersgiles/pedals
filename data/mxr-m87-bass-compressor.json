@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11476",
+    "name": "M87 Bass Compressor",
+    "image": "images/mxr-m87-bass-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Bass"
+    ],
+    "manufacturer": "MXR",
+    "current": "19 mA / 9 V / DC",
+    "cost": "$189 Price in €",
+    "width": 66,
+    "height": 140,
+    "details": "Effect PedalThe Bass Compressor provides recording-quality compression with Constant Headroom Technology™ and true bypass switching for keeping your low end tight and clean.\nhttps://www.jimdunlop.com/mxr-bass-compressor/",
+    "hrid": "mxr-m87-bass-compressor"
+}

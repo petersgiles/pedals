@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11414",
+    "name": "Timeline",
+    "image": "images/strymon-timeline.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "MIDI"
+    ],
+    "manufacturer": "Strymon",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$449 Price in €",
+    "width": 171,
+    "height": 130,
+    "details": "Delay/LooperTimeLine provides you with twelve unique delay machines, each with extensive control over sonic character and feel. Go from crisp and clear, studio-quality digital delays all the way to the saturated and fluctuating sounds of tape delay machines. Get warm and fuzzy analog style repeats all the way to shimmery, sparkling, and crystalline ice delays.\nTweak to your hearts content and save up to 200 presets of your favorite sounds. Top it all off with full MIDI implementation and a routable, 30-second stereo looper and you’re on your way to delay bliss.\nhttp://www.strymon.net/products/timeline/",
+    "hrid": "strymon-timeline"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16586",
+    "name": "Microlooper",
+    "image": "images/mooer-microlooper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$98 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Looper\nhttp://www.mooeraudio.com/?product/201410164920.html",
+    "hrid": "mooer-microlooper"
+}

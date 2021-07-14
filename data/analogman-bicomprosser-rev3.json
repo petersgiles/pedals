@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14805",
+    "name": "BiCompROSSer Rev3",
+    "image": "images/analogman-bicomprosser-rev3.jpg",
+    "function": [
+        "Dynamics",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 94,
+    "height": 115,
+    "details": "Dual CompressorTwo compressors in one pedal - an Analogman Juicer (Orange Squeezer clone) on one side and a Analogman Comprossor (ROSS compressor) on the other.\nhttp://www.analogman.com/rossmod.htm#bicomp",
+    "hrid": "analogman-bicomprosser-rev3"
+}

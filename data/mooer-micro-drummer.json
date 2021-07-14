@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27654",
+    "name": "Micro Drummer",
+    "image": "images/mooer-micro-drummer.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$76 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "Drum machineMicro drummer is a compact drum machine that slots right into your pedal chain. Sporting 121 drumbeats which span a wide variety of different musical styles and can be synced up to your desired time easily using the on board tap tempo. Never miss a beat with MOOER micro DRUMMER.\nControls\nMODE: Selects style and drum pattern. Press to switch between style and pattern parameter. Rotate to change parameter value.\nPP Pop; RC Rock; MT Metal; BL Blues; RB R B; JZ Jazz, FK Funk; LT Latin; RG Reggae; PK Punk; TP Tempo (metronome)\nWhen the LED is red you can change the style by rotating the MODE control.\nWhen the LED is Blue you can change the pattern by rotating the MODE control. \nVOLUME Adjusts the volume of the Micro Drummer.\nSPEED Adjusts the speed of the Micro Drummer.\nTONE Adjusts the tone of the Micro Drummer.\nTAP: 2 ways to use Tap Tempo\n1 Tap the button in time with the tempo you wish the micro drummer to play.\n2 Hold down the footswich for 1 second while the pedal is engaged to enter 'tap tempo' operation, quickly tap the tempo you want the micro drummer to follow.",
+    "hrid": "mooer-micro-drummer"
+}

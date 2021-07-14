@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15050",
+    "name": "Fuzz Factory (Custom Hand Painted)",
+    "image": "images/zvex-fuzz-factory-(custom-hand-painted).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$319 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "Fuzz\nhttps://www.zvex.com/products/fuzz-factory",
+    "hrid": "zvex-fuzz-factory-(custom-hand-painted)"
+}

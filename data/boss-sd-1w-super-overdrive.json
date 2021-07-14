@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12766",
+    "name": "SD-1w Super Overdrive",
+    "image": "images/boss-sd-1w-super-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Special edition Waza Craft pedal delivers the ultimate BOSS tone experience\nPremium sound based on the legendary SD-1 Super Overdrive\nNewly revised, all-analog discrete amplifier circuit\nStandard and Custom sound modes\nHighly responsive to picking dynamics and volume changes\nBOSS five-year warranty\nhttps://www.boss.info/global/products/sd-1w/",
+    "hrid": "boss-sd-1w-super-overdrive"
+}

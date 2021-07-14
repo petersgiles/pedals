@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24413",
+    "name": "The Pinwheel",
+    "image": "images/fender-the-pinwheel.jpg",
+    "function": [
+        "Rotary",
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 96,
+    "height": 125,
+    "details": "Rotary speaker emulator :)\"A classic sound achieved with an organ speaker and amplifier, rotary speaker effects have become an integral part of modern music. Featuring three different rotary speaker voices, including our very own Vibratone effect, The Pinwheel makes it easy to add this swirling sound to your tonal toolbox. Switchable Slow and Fast speeds let you spin up the perfect sound for your music, while the onboard Overdrive adds some texture to your tone. The Sensitivity control allows modulation rate changes based on your playing dynamics—dig in and the effect gets more intense.\" -The Fender website\nhttps://shop.fender.com/en-US/effects-pedals/modulation/the-pinwheel-rotary-speaker-emulator/0234543000.html",
+    "hrid": "fender-the-pinwheel"
+}

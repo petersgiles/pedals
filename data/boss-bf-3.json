@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11678",
+    "name": "BF-3",
+    "image": "images/boss-bf-3.jpg",
+    "function": [
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$144 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "FlangerBuilding on the 20-year legacy of the famous BOSS BF-2, the new BF-3 flanger pedal gives guitarists and bassists an updated version of the classic BOSS flanger with the thickest stereo flanging sounds ever. Two new modes (Ultra and Gate/Pan) create stereo flanging with incredible depth--even Slicer-type effects and sounds that seem to \"swirl\" around the listener. An instant classic.\nhttps://www.boss.info/us/products/bf-3/",
+    "hrid": "boss-bf-3"
+}

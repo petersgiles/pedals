@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25409",
+    "name": "Organelle M",
+    "image": "images/critter-and-guitari-organelle-m.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Critter and Guitari",
+    "current": "100 mA / 9 V / DC / Positive Center",
+    "cost": "$595 Price in €",
+    "width": 338,
+    "height": 86,
+    "details": "A music computer that runs patches built in Pure DataThe Organelle makes it easy to explore new sounds and experiment with new ways of making music. It combines playful and intuitive controls with a powerful and flexible sound engine. The result is an instrument that is limitless in musical possibility and a joy to play.\nAt the heart of the Organelle's sound engine is a robust computer that runs patches. A patch allows the instrument to take on different forms. Onboard hardware for sound input and output and mappable knobs, keys and buttons enable patches to synthesize, sample, effect, and anything in between!\nThe Organelle ships with a set of common default patches, and new patches may be loaded from a USB drive. Simply select patches from a continually-growing list, transfer them to a USB drive, reinsert it in the Organelle, and play!\nDon't see the exact patch you need? You can create it yourself! Patches may be created and/or edited directly on the device. Plug in a keyboard, mouse and monitor and begin customizing. The Organelle runs patches created in the powerful computer music programming environment Pure Data.\nAs you create patches or tweak existing ones you can share them with others! The Organelle is built with community interaction in mind. The entire system runs open source software and may be customized at every level.\nhttps://www.critterandguitari.com/organelle",
+    "hrid": "critter-and-guitari-organelle-m"
+}

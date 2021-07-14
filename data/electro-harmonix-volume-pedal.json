@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22979",
+    "name": "Volume Pedal",
+    "image": "images/electro-harmonix-volume-pedal.jpg",
+    "function": [
+        "Controller",
+        "Volume"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "Pedal is passive",
+    "cost": "$74 Price in €",
+    "width": 86,
+    "height": 252,
+    "details": "Performance Series Volume PedalRugged and road-worthy while featuring a new light-weight design, this pedal provides smooth, comfortable action for precise control of your dynamics in any setting. Two impedance options (25K or 250K) in one ultra-responsive pedal for added versatility.\nhttps://www.ehx.com/products/performance-series-volume-pedal",
+    "hrid": "electro-harmonix-volume-pedal"
+}

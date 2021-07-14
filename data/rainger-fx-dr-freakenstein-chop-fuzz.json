@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33320",
+    "name": "Dr Freakenstein Chop Fuzz",
+    "image": "images/rainger-fx-dr-freakenstein-chop-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 120,
+    "height": 180,
+    "details": "FUZZ00:00\n00:00\nUse Up/Down Arrow keys to increase or decrease volume.\nThis is the latest of the legendary Dr Freakenstein range, using the same fuzz circuit as before, but this time with a whole new effect facility added!\nIt’s a full-on fuzz circuit (so you need your guitar volume up full) with a built-in noise gate, and with a knife switch for powering up the pedal. The overtone knob adjusts the harmonic overtone, and it can also be worked using the LFO (in the modulation section) – with a steadily-cycling triangle wave, sounding like an extreme phaser.\nThe pedal comes with Igor (Dr Freakenstein’s assistant) – a dual sensitivity pressure pad expression pedal that can control the overtone sound (see Igor page). This is a unique controller, developed for use with most Rainger FX pedals.\nAlso a hard squarewave ‘chop’ tremolo effect can be flashed in momentarily with Igor, or switched in and left on. The squarewave uses the noise-gate aspect of the sound to create an extremely strong dynamic sound – very dramatic and chopper-like with a slow-moving LFO sweeping through it, or fast for a chattery effect.\nThere’s an ‘eye-meter’ – showing input signal strength – which is backlit to show the LFO modulation speed, but it also has side LEDs that flash with the chop effect.\nWith all the sockets mounted on the top end panel, the pedal has a Hi/Lo intensity switch – giving a lower ‘inside the sound’ tone to a more in-your-face zap – and comes in the same custom-designed Freakenstein desk-style console enclosure as before.\nThe Chop Fuzz is an extreme pedal, both in sounds and attitude – now more than ever!\nhttps://www.raingerfx.com/product/dr-freakenstein-chop-fuzz/",
+    "hrid": "rainger-fx-dr-freakenstein-chop-fuzz"
+}

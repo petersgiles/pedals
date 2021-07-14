@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11957",
+    "name": "Ground Control Pro",
+    "image": "images/voodoo-lab-ground-control-pro.jpg",
+    "function": [
+        "Controller",
+        "Switch"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 432,
+    "height": 279,
+    "details": "",
+    "hrid": "voodoo-lab-ground-control-pro"
+}

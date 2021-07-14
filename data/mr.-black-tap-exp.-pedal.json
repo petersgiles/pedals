@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14828",
+    "name": "Tap-Exp. Pedal",
+    "image": "images/mr.-black-tap-exp.-pedal.jpg",
+    "function": [
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 108,
+    "height": 57,
+    "details": "Tap Tempo for Tapex 2Tap tempo pedal for Tapex 2; has a TRS out for an expression pedal.\nhttps://www.mrblackpedals.com/products/tap-exp-pedal",
+    "hrid": "mr.-black-tap-exp.-pedal"
+}

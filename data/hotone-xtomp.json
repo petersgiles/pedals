@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11447",
+    "name": "Xtomp",
+    "image": "images/hotone-xtomp.jpg",
+    "function": [
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$256 Price in €",
+    "width": 73,
+    "height": 126,
+    "details": "",
+    "hrid": "hotone-xtomp"
+}

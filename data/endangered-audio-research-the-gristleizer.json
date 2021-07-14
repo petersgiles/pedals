@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12193",
+    "name": "The Gristleizer",
+    "image": "images/endangered-audio-research-the-gristleizer.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Tremolo"
+    ],
+    "manufacturer": "Endangered Audio Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 119,
+    "height": 187,
+    "details": "Tremolo Distortion PedalThe Gristleizer Stompbox is an analog synthesizer effect unit for use with all types of instruments and signals.  \nBased on the original effect designed by Roy Gwinn and popularized by Throbbing Gristle, this stompbox version brings the gnashing and thumping sounds of The Gristleizer to your pedalboard.\nFeatures\nKnobs:\nLevel - the overall output volume\nBias - in VCA mode, the amount of distortion; in VCF mode, the filter's center frequency\nFreq - the frequency of the LFO\nDepth - the intensity of the modulation\nSwitches:\nWaveform - selects the shape of the modulation\nVCA/VCF - selects between VCA and VCF modes\nBypass - true bypass\nJacks:\nInput - accepts both low and line-level inputs - line-level instruments overdrive nicely.\nOutput - drives low level and most line level inputs\nhttp://www.endangeredaudioresearch.com/gristleizer-pedal/",
+    "hrid": "endangered-audio-research-the-gristleizer"
+}

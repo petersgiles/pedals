@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23483",
+    "name": "LiveMaster LM-10",
+    "image": "images/biyang-livemaster-lm-10.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Chorus",
+        "Dynamics",
+        "Distortion",
+        "Reverb",
+        "Switch"
+    ],
+    "manufacturer": "Biyang",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 460,
+    "height": 129,
+    "details": "Multieffect Modular Pedal",
+    "hrid": "biyang-livemaster-lm-10"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11673",
+    "name": "Classic Flanger",
+    "image": "images/harley-benton-classic-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$34 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "",
+    "hrid": "harley-benton-classic-flanger"
+}

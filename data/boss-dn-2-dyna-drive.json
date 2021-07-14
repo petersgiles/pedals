@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12885",
+    "name": "DN-2 Dyna Drive",
+    "image": "images/boss-dn-2-dyna-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "36 mA / 9 V / DC / Negative Center",
+    "cost": "$95 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Provides dynamic transition between clean to heavy overdrive based on picking strength and/or guitar volume\nAcclaimed Dyna Amp technology derived from Roland’s CUBE-60\nA unique way for guitarists to add expression to their performance\nRoad-tough BOSS metal construction\nhttps://www.boss.info/us/products/dn-2/",
+    "hrid": "boss-dn-2-dyna-drive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11697",
+    "name": "ZW-38 Zakk Wylde Black Label",
+    "image": "images/mxr-zw-38-zakk-wylde-black-label.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$156 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "",
+    "hrid": "mxr-zw-38-zakk-wylde-black-label"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13599",
+    "name": "The Wave",
+    "image": "images/foxpedal-the-wave.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$325 Price in €",
+    "width": 142,
+    "height": 117,
+    "details": "Dual Delay/Reverb\nhttps://foxpedal.com/products/the-wave-dual-delay-reverb-modulation",
+    "hrid": "foxpedal-the-wave"
+}

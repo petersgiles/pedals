@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13304",
+    "name": "MT-EM Extreme Metal",
+    "image": "images/modtone-mt-em-extreme-metal.jpg",
+    "function": [
+        "PreAmp",
+        "Volume"
+    ],
+    "manufacturer": "ModTone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "Extreme Metal Distortion Pedal\nhttp://www.guitarcenter.com/Modtone/MT-EM-Extreme-Metal-Guitar-Effects-Pedal-1274423038500.gc",
+    "hrid": "modtone-mt-em-extreme-metal"
+}

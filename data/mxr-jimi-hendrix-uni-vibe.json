@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12419",
+    "name": "Jimi Hendrix Uni-Vibe",
+    "image": "images/mxr-jimi-hendrix-uni-vibe.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "https://www.jimdunlop.com/product/jhm6-7-10137-09864-0.do",
+    "hrid": "mxr-jimi-hendrix-uni-vibe"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14700",
+    "name": "Radar",
+    "image": "images/mooer-radar.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "300 mA / 12 V / DC / Negative Center",
+    "cost": "$144 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Digital Cab SimulatorSpeaker simulator\n30 Speaker cab model simulations\n11 Mic preamp model simulations\n4 Power amp model simulations\nSupport for additional (third-party) Impulse Responses (IRs) via Mooer Studio Software\nFully configurable EQ\nStorable up to 36 user presets\nColour LCD display\nMenu control / rotary switch to select and edit settings\n6.3mm Mono jack input / output\n3.5mm Stereo headphone out\nPower supply via included 12 V DC power supply with 2.1 mm x 5.5 mm barrel connector and polarity (-) inside\nPower consumption: 300 mA\nDimensions (L x W x H): 93.5 x 42 x 52 mm\nWeight: 150 g\nhttp://www.mooeraudio.com/product/Radar-51.html",
+    "hrid": "mooer-radar"
+}

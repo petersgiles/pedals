@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20336",
+    "name": "M280 Vintage Bass Octave",
+    "image": "images/mxr-m280-vintage-bass-octave.jpg",
+    "function": [
+        "Bass",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Analog Bass OctaverThe MXR Vintage Bass Octave upgrades the warm analog sub-bass vibes of a classic circuit with superior tracking, cleaner headroom, and the versatility that modern players demand, delivering an impressive range of sounds in the lightweight, space-saving MXR mini housing.\nhttps://www.jimdunlop.com/product/m280-7-10137-11033-5.do",
+    "hrid": "mxr-m280-vintage-bass-octave"
+}

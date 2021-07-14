@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23889",
+    "name": "Conspiracy Theory",
+    "image": "images/way-huge-conspiracy-theory.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / 9 V / DC",
+    "cost": "$130 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Klon overdrive cloneThis mystical little device infuses your guitar signal with rich harmonics for smooth, transparent overdrive, with Gain, Volume, and Treble controls making for a super straightforward command center.\nhttps://www.jimdunlop.com/way-huge-smalls-conspiracy-theory-professional-overdrive/",
+    "hrid": "way-huge-conspiracy-theory"
+}

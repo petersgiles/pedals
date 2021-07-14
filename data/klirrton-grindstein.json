@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33353",
+    "name": "Grindstein",
+    "image": "images/klirrton-grindstein.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Klirrton",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$345 Price in €",
+    "width": 120,
+    "height": 140,
+    "details": "Preamp\nhttps://klirrton.com/product/grindstein-the-ultimate-death-metal-preamp/",
+    "hrid": "klirrton-grindstein"
+}

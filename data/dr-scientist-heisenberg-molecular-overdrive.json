@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12818",
+    "name": "Heisenberg Molecular Overdrive",
+    "image": "images/dr-scientist-heisenberg-molecular-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 93,
+    "height": 58,
+    "details": "By the 24th century, nanobots have solved all of humanity’s problems, from the common cold to socks with sandals. With billions of nanobots out of work, Dr. Scientist—with help from the National Research Council of Canada, the National Institute for Nanotechnology and the University of Alberta—developed a way to use nanotechnology to create a molecular junction, a new kind of diode that saturates in a slower, smoother, more pleasing way than conventional, silicon diodes. What resulted was a new kind of overdrive pedal, featuring three gain stages: a MOSFET booster, an NPN transistor fuzz and an opamp distortion.",
+    "hrid": "dr-scientist-heisenberg-molecular-overdrive"
+}

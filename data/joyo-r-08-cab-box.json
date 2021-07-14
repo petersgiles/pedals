@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20718",
+    "name": "R-08 CAB BOX",
+    "image": "images/joyo-r-08-cab-box.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Joyo",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 130,
+    "height": 110,
+    "details": "Cabinet SimJOYO CAB BOX is a cabinet modeling pedal, with IR loading supported. It has 4 tube power amp simulations, 20 cabinet models and 11 classic microphone models. Regarding the IR, apart from 20 preset loading locations, it also supports storing 10 third party IRs, you can connect to the PC through the USB, and use the matching software to edit tones and update firmware, load or delete third party IRs. JOYO CAB BOX has more interface, much bigger screen with more buttons compared with rival’s similar products, it’s quite user-friendly.\nControllers: Master, Select, Power Amp, Cab/Mic, EQ, SAVE, HOME, LED Toggle\nWith no battery compartment\nSupports both Windows/Mac OS\nIR sampling info:\nIR file format: WAV\nSampling accuracy: 24bit\n(supports 16/24/32 bits third party IR files)\nSample rate: 44.1kHz\nSample’s length: 1024pts\n◆ 128 tone store positions, supporting MIDI controlled devices changing tone real time.\n◆ Different interfaces are suitable for various venues.\n◆ DI balanced output: for connecting to the mixer, sound card recording during live performance.\n◆ Headphones: Stereo headphones output for home practice.\n◆ Thru: Can connect to amp’s FX LOOP or other cabinet simulation devices for stereo output.\n*Caution: Phantom power CANNOT be applied to R-08 XLR OUT\nhttps://www.joyoaudio.com/product/11.html",
+    "hrid": "joyo-r-08-cab-box"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20192",
+    "name": "Ineko",
+    "image": "images/alesis-ineko.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Alesis",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 140,
+    "details": "TABLE-TOP STEREO EFFECTS PROCESSOR\nhttps://www.zikinf.com/manuels/alesis-ineko-manuel-utilisateur-en-61045.pdf",
+    "hrid": "alesis-ineko"
+}

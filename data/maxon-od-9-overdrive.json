@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13561",
+    "name": "OD-9 Overdrive",
+    "image": "images/maxon-od-9-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$185 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "OverdriveWhile the OD808 may have been the first overdrive circuit of its kind, it was the OD-9 that cemented this sound in the history of Rock & Roll guitar.\nLooking at the OD-9’s circuit, you’ll realize that this is not some redesign being cleverly marketed as a reissue – this is THE original OD-9 (TS-9) circuit, yet with the addition of true bypass switching.  Even the PC board is the same one that Maxon’s been using for the past 30+ years, complete with empty slots where parts for the FET switching circuit have been left out!\nLike the original, the current production OD-9 features the NJM (JRC) 4558D Op Amp – an essential component for authentic “TS” tone.  The NJM is smoother sounding and less compressed than other Op Amps, offering superior sound quality with low noise.\nThe absence of the FET switching circuit gives the OD-9 some added output and a slightly more open sound than the OD808, making it perfect for the classic rock tones that it helped to define.\nIf your future plans include a meteoric rise to rock & roll stardom, then rely on the legendary tones of the OD-9 to fuel your ascent.\nhttp://www.maxonfx.com/nine-series-effects-pedals/od-9-overdrive",
+    "hrid": "maxon-od-9-overdrive"
+}

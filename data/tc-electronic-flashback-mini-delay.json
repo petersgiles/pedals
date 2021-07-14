@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11418",
+    "name": "Flashback Mini Delay",
+    "image": "images/tc-electronic-flashback-mini-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$110 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Mini delayUltra-compact delay pedal with built-in TonePrint technology gives you legendary TC Electronic delay sounds in a tiny form factor\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized delay effects from scratch with free TonePrint Editor for PC, Mac*, and iPad*\nAudio Tapping feature allows you to set delay tempo by strumming your guitar\n7 seconds of delay time allows everything from vintage slapback to cavernous echoes\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when delay effect is engaged\nWorks flawlessly with guitar and FX loop signals\nExtra-small enclosure easily fits on any pedal board\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttp://www.tcelectronic.com/flashback-mini-delay/",
+    "hrid": "tc-electronic-flashback-mini-delay"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14431",
+    "name": "Power Plant Junior",
+    "image": "images/harley-benton-power-plant-junior.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$37 Price in €",
+    "width": 116,
+    "height": 77,
+    "details": "Power supply for effect devices5 Outputs with 9 V DC (with each 120 mA)\nGalvanically isolated\nIncluding cable set (5x thomann 60 cm / 5x 30 cm /1 x Y / 1x Daisy Chain, 100 cm)\nhttps://www.thomann.de/de/harley_benton_powerplant_junior.htm",
+    "hrid": "harley-benton-power-plant-junior"
+}

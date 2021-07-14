@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22944",
+    "name": "S2",
+    "image": "images/amt-s2.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$178 Price in €",
+    "width": 70,
+    "height": 111,
+    "details": "2 channels guitar preamp/distortion pedal (Soldano)Introducing the next generation of the Legend Amp series of pedals, the LA2 line. Guaranteed to be the most versatile distortion pedals on the market, offering huge tube-style saturated tone in the styles of all of your favorite high gain modern and classic amp heads. The LA2 pedals will accompany the original series, as an enhanced upgraded \"PRO\" version.\nIn the early 90's Mike Soldano created the amp, which later became a kind of a standard for metal sound realized with variations in Lead channels of various amplifiers (Soldano, Mesa / Boogie Rectifier, H & K Triamp). The common sound basis of these amplifiers was the 5-stage preamp, whose solid and bright sound is reproduced by the S2.*\nTwo-channel LA-2 series preamp effects are designed to produce clean and overdriven guitar sound within a variety of guitar channel organization. The basic concept of the series is \"your own sound in your pocket.\" LA-2 incorporates original circuit designs developed by the specialists of AMT, which allow to obtain bright and rich sound in the style of the original tube overdrives using low-voltage (9V) power and low current consumption.\nThe distinctive feature of the series is the presence of three outputs intended for implementation of basic types of channels organization:\ndirect connection to guitar system power amp;\nconnection to \"clean\" channel of a guitar combo or amp;\ndirect connection to a mixer.\nAll three of these outputs can be used simultaneously! Use the different outputs for recording direct and micing at the same time, run different effects through different outputs, or record three DAW tracks all at once. The routing and recording options are endless. The Legend II series of pedals are a studios engineers dream come true.\nhttps://amt-sales.com/preamps/preamps-la-2/amt-s2/",
+    "hrid": "amt-s2"
+}

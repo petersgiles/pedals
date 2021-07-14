@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19223",
+    "name": "CAE wah",
+    "image": "images/dunlop-cae-wah.jpg",
+    "function": [
+        "PreAmp",
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 102,
+    "height": 432,
+    "details": "CAE MC404 dual Fasel inductor wah w/ built-in boostThe CAE Wah allows you to switch between two distinctly-voiced Fasel® Inductors with a built-in Boost/Line Driver circuit, internal Q and gain controls, and bright status LEDs on each side of the pedal.\nhttps://www.jimdunlop.com/product/mc404-7-10137-01663-7.do",
+    "hrid": "dunlop-cae-wah"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14967",
+    "name": "Dual blue delay",
+    "image": "images/mad-professor-dual-blue-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$386 Price in €",
+    "width": 120,
+    "height": 95,
+    "details": "",
+    "hrid": "mad-professor-dual-blue-delay"
+}

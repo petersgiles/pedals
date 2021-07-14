@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17874",
+    "name": "Titan II",
+    "image": "17874.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Fuzz Machine Named after the NASA rocket that launched the Gemini manned space missions, the Titan II has arrived to blast your tone into the stratosphere!\nThe Titan II Fuzz Machine is a unique discrete circuit using silicon transistors. Despite only having three control parameters, the Titan II packs a wide array of distinct tones within its cast aluminum shell. At full bore, you will get splatty, nasty fuzz tones; but the wide range Gain control also delivers great low gain tones that start to crossover into overdrive territory. In between these extremes, there exists fuzzy distortion tones as well.\nTo introduce even more tonal variety, the Titan II cleans up nicely with the volume on your instrument, adding additional levels of fuzz textures and expression. The Tone control offers a complex tonal shift, which really allows the Titan II to cover an incredible range of fuzz tone and texture. The Titan II sounds awesome with standard, bass and baritone guitars, as well as most things you plug into it.\nThe Titan II is completely hand-soldered and handmade in Portland Oregon to the highest degree of quality possible. These are truly artisan-crafted tone devices, sparing no detail within or without. The Titan II utilizes true-bypass switching via the heaviest duty mechanical footswitch available, while your tone is transferred via quality open-frame Switchcraft jacks. Open one up and you’ll see an unparalleled display of craftsmanship; with immaculate hand-soldered PCB, detailed military-spec wiring, and custom Spaceman heavy-duty battery connector. On top of its cast aluminum enclosure sits a durable, engraved vinyl faceplate and vintage dim-able indicator light. This pedal is truly built to last a lifetime.\nCurrent draw: 3.6mA (on); 0.7mA (off)\nhttps://spacemaneffects.com/collections/equipment/products/titan-ii?variant=19084410716222",
+    "hrid": "spaceman-effects-titan-ii"
+}

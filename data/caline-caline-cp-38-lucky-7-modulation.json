@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16886",
+    "name": "Caline CP-38 Lucky 7 Modulation",
+    "image": "images/caline-caline-cp-38-lucky-7-modulation.jpg",
+    "function": [
+        "Chorus",
+        "Pitch Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 64,
+    "height": 112,
+    "details": "The CP-38 Lucky 7 is a new multi FX pedal from Caline with 7 different modulation effects. It gives you a ton of great sounding effects all in one pedal while still having the ability to customize each effect to a good degree. Most of the effects are self explanatory. However \"J Chorus\" simulates a classic Jazz chorus (Roland amp style). \"Trem\" is a bias tremolo and \"U-Vibe\" is similar to a Uni-Vibe style effect. The knobs have different but similar results depending on the currently selected effect. These are documented in the included instructions. Amazing value at only 6 dollars per effect!  Takes a 9v power supply.  There is a good music experience.\nSeven Modes\nDigital circuit design\n7 carefully selected high quality modulation algorithms in one stompbox\nTrue bypass footswitch for crystal-clear tone\nAluminum-alloy die cast case to withstand wear and tear\nHeavy duty metal footswitch and on/off status LED\nEasy-to-read, readily accessible knobs\nMulti-use modulation stompbox suits a variety of music styles\nGreat tone with low noise level\nMIX, DEPTH and Speed knobs for detailed effect control\n\nSetting:\n    MIX: Controls the mix level between dry/wet signals (Depending on effects)\n    DEPTH: Controls the depth (Depending on effects)\n    Speed: Controls the speed (Depending on effects)\n    MODE SELECTOR: For selecting modulation types",
+    "hrid": "caline-caline-cp-38-lucky-7-modulation"
+}

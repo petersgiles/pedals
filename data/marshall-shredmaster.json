@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12968",
+    "name": "ShredMaster",
+    "image": "images/marshall-shredmaster.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 111,
+    "height": 147,
+    "details": "",
+    "hrid": "marshall-shredmaster"
+}

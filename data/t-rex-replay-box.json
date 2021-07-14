@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12414",
+    "name": "Replay Box",
+    "image": "images/t-rex-replay-box.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 115,
+    "height": 60,
+    "details": "Digital Delay\nhttp://www.t-rex-effects.com/replay-box/",
+    "hrid": "t-rex-replay-box"
+}

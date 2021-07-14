@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17887",
+    "name": "Headphone amp Black",
+    "image": "images/old-blood-noise-headphone-amp-black.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 121,
+    "details": "",
+    "hrid": "old-blood-noise-headphone-amp-black"
+}

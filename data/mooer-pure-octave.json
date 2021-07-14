@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30998",
+    "name": "Pure Octave",
+    "image": "images/mooer-pure-octave.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "128 mA / 9 V / DC / Negative Center",
+    "cost": "$71 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Micro polyphone octaver\nPrecise polyphonic octave effects with no distorted sound\n11 different octave modes\nFull metal shell\nVery small and exquisite\nTrue bypass\nRequires DC 9V Adapter power supply\n\nhttp://www.mooeraudio.co.uk/p/mooer-pure-octave-pedal",
+    "hrid": "mooer-pure-octave"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19970",
+    "name": "Tonebone Headbone SS",
+    "image": "images/radial-tonebone-headbone-ss.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "400 mA / 15 V / DC",
+    "cost": "$302 Price in €",
+    "width": 175,
+    "height": 108,
+    "details": "Amp switcherAn amplifier head switcher specifically designed to allow you to switch between 2 solid-state amps while using the same cabinet. The Headbone employs a series of photocells to assure noise-free guitar-to-head switching and a series of high-cycle relays that switch between the 2 heads and the speaker. A digital programmable interrupt controller receives commands from the onboard footswitch or the Slingshot remote switching system and controls the transition between equipment to ensure proper amplifier loads are always maintained.\nAmp head switcher\nChoice of direct or buffered inputs\nEmploys a series of photocells for noise-free switching\nHigh-cycle relays switch between the 2 heads and the speaker\nDigital programmable interrupt controller receives commands from the onboard footswitch or the Slingshot remote switching system\nControls the transition between equipment to ensure proper amp loads",
+    "hrid": "radial-tonebone-headbone-ss"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22794",
+    "name": "FC-200",
+    "image": "images/roland-fc-200.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Roland",
+    "current": "125 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 600,
+    "height": 47,
+    "details": "MIDI Foot ControllerThe FC-200 is a rugged MIDI foot controller that's built to withstand the rigors of live performance. It offers extensive control capabilities, an onboard expression pedal, and numeric LED for instant confirmation of patch numbers.\n\nMIDI foot controller with 128 patch selections, more using bank select\nProvides realtime control of volume and MIDI parameters\nCombines program changes and bank selections for fast operation\nHeavy-duty, roadworthy metal construction\n\nCan be used with the Roland GP-100\nConnectors:\nMIDI (In, Out)\nMODE Change\nControl/Expression Pedal Jacks (1 to 6)\nDC In\nhttps://www.roland.com/us/products/fc-200/support/\nhttps://www.roland.com/us/products/fc-200/features/",
+    "hrid": "roland-fc-200"
+}

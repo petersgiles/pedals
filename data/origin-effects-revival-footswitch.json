@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17270",
+    "name": "Revival Footswitch",
+    "image": "images/origin-effects-revival-footswitch.jpg",
+    "function": [
+        "Controller",
+        "Switch"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$122 Price in €",
+    "width": 115,
+    "height": 55,
+    "details": "Footswitch for RevivalDrive",
+    "hrid": "origin-effects-revival-footswitch"
+}

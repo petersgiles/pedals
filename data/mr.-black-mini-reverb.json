@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25064",
+    "name": "Mini Reverb",
+    "image": "images/mr.-black-mini-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 47,
+    "height": 94,
+    "details": "Mini Format ReverbDon't let its tiny footprint fool you. The Universal Reverb spans reverb tones ranging from old-fashioned 50's-style studio plate reverb, to cavernous 60-foot ceiling concert halls and even into the depths of nearly endless caves!\nThree simple controls, including a full wet/dry mix control, and daisy-chain friendly \"industry standard\" 9VDC power add to the ease of use and versatility of this deceptively small reverberator.\nHandmade and built to outlast you by real live humans, right here in Portland, Oregon, using only premium parts for superior tone and years of dependable service.\nControls:\nMix (Effect wet/dry, CCW = 100% dry, CW = 100% wet)\nTone (Reverb treble content)\nDecay (Reverb duration/character)\nTech Specs:\nTrue-Bypass\nInput Impedance: ~500KΩ\nOutput Impedance: ~2KΩ\nhttps://www.mrblackpedals.com/collections/mini-pedals/products/mini-reverb",
+    "hrid": "mr.-black-mini-reverb"
+}

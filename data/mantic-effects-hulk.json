@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20568",
+    "name": "Hulk",
+    "image": "images/mantic-effects-hulk.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 59,
+    "height": 102,
+    "details": "Smaller version of Density Hulk Sub-harmonizer and Low Frequency boosterBigger sound, smaller box! The Hulk is an update on our very popular Density Hulk subharmonic synth.\nThe controls have been streamlined to save space, as most people only used the 30hz and 60hz controls as \"set and forget\". They are still accessible, however, via internal trimpots. The default setting for both is max.\nThe max output volume has been increased.\nAn internal switch allows the footswitch to act as a \"kill dry\". This feature is for users who desire to run sub direct to FOH but don't want their uneffected signal to pass when the pedal is disengaged.\nUnlike other updated sub pedals, we managed to keep the dedicated dry output on this model as well as offer a smaller footprint.\nhttps://manticeffects.com/products/hulk?variant=9410162884668",
+    "hrid": "mantic-effects-hulk"
+}

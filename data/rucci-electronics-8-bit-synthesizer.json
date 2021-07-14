@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26975",
+    "name": "8-Bit Synthesizer",
+    "image": "images/rucci-electronics-8-bit-synthesizer.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 119,
+    "height": 64,
+    "details": "Lo-Fi 8-Bit SynthPage through 9 modes with a single button then alter the sound with control over the speed and pitch.\nMode 1 – Pitch is tuned to 3 octaves of chromatic scale with LFO stutter effect.\nMode 2 – Pitch is tuned to 5 octaves of D Major pentatonic scale with LFO stutter effect.\nMode 3 – Run of frequencies down.\nMode 4 – Run of frequencies up.\nMode 5 – Run up and down.\nMode 6 – Frequency with modulation.\nMode 7 – Overlapping modulation.\nMode 8 – 4 simple rhythmic loops mapped over pitch knob, with speed control.\nMode 9 – Noise produced by random frequency. Pitch sets the max freq.\nYou also have a low-pass filter, volume control, toggle on/off switch, and a red LED light that flashes in sync with the effect. Sync out works with any device that works with 5 volt clock. Also a CV input (0-5 volts) overrides the pitch control.\nIn person the case is a slightly darker red than how it appears in the photographs.\nAudio Out: 1/4″ mono\nClock Output: 1/8″ mono (5V)\nCV Input: 1/8″ mono (0-5V), overrides pitch control\nPower: 9V Battery or 9V DC Center-Negative\n\nhttps://handmadeelectronicinstruments.com/product/8-bit-synthesizer/",
+    "hrid": "rucci-electronics-8-bit-synthesizer"
+}

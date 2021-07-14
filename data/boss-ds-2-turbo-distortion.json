@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11579",
+    "name": "DS-2 Turbo Distortion",
+    "image": "images/boss-ds-2-turbo-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$79 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Distortion PedalThe DS-2 Turbo Distortion features twin modes for an expanded range of distortion--taking users from blues-rock rhythms to searing leads at the press of a pedal or twist of a knob.\nhttps://www.boss.info/us/products/ds-2/",
+    "hrid": "boss-ds-2-turbo-distortion"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16859",
+    "name": "Caline CP-20 Crazy Cacti Overdrive",
+    "image": "images/caline-caline-cp-20-crazy-cacti-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Caline",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 120,
+    "height": 94,
+    "details": "An incredibly diverse overdrive pedal with a boat load of settings. In addition to the four Vol, Tone, Drive and Boost knobs there are also 2 switches. The first has Comp Cut, FM and Vintage modes. These provide a range of usable tones adding clean boost, crunch or remaining neutral respectively. The two way switch Mosfet and Standard create a more punchy or smooth overdrive. The boost obviously adds a boost and a touch of saturation. \nMini-Toggle #1:\n•  Comp Cut: removes the bounding from the feedback loop .When you turn up \"Boost\" knob,it can produce Monster Clean Boost tones and some rougher OD sounds.\n•  FM: stands for \"flat-mids\".It offers a more natural sound, and the tone enhance more transparency. It sounds great on a strat's Neck Pickup!\n•  Vintage: stands for old-style Fd2 mid-heavy tones,which cut through the mix.\nMini-Toggle #2: (Only when turn to vintage knobs, the mosfet and standard Toggle working)\n•  MOSFET:controls the volume.\n•  Standard :If you use this function,the tone will more asymmetrical, sweeter, and more open, also no blanket over the sound.   \nFeatures:\n1.True Bypass design, with aluminum alloy casing\n2. Power Requirement: 9V DC center negative \n3. Current consumption: 30mA\n4. Product Dimensions: 11.9x9.4x3.8cm\n5. Weight:0.35kg\nhttp://www.calinemusic.com/products/effectpedal/89.html",
+    "hrid": "caline-caline-cp-20-crazy-cacti-overdrive"
+}

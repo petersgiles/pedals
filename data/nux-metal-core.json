@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31198",
+    "name": "Metal Core",
+    "image": "images/nux-metal-core.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Nux",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 72,
+    "height": 120,
+    "details": "Extreme metal distortionOur Metal Core Deluxe distortion pedal has 2 high-gain tone circuit positions and 2 great tones: Voice 1 gives you a responsive, percussive low-mid with smooth high frequencies. Voice 2 features a balanced EQ, well-suited for maximum shredding with a big solid punch. It has Level, Gain, and, very sensitive Bass and Treble controls that allow you to fine-tune any tone. Metal Core Deluxe also has a built-in Noise Gate with an adjustable gate parameter.\nVoice 1\nIt is very characteristic, a gritty “scooped” metal distortion sound. Our Half Gain parameters are perfect for those shredders from hell that are into any type of classic groove metal playing. If you like to play more aggressive-groove thrash metal style, High Gain parameters will summon the bloody rain clouds all over the sky.\nVoice 2\nModern distortion sound with well-balanced EQ frequencies, suitable for six-string-razor shredders. Half Gain parameters offer modernized classic heavy metal sound which is best for the rhythm playing. The parameters will inspire you to break up your metronome and go for a faster-than-a-bullet solo!\nT-Lock Function\nWhen you set your tone up to ready-to-play, use the toggle switch and activate T-Lock to protect your parameters.\nBuilt-In Noise Gate\nMetal Core Deluxe has a dynamic Built-in Noise Gate, and you can dial up your tone with any Gain parameters you desire. You can adjust the noise gate threshold essentially to avoid any signal loss. You can adjust the Gate Level as you needed \nhttps://www.nuxefx.com/metal-core-deluxe.html",
+    "hrid": "nux-metal-core"
+}

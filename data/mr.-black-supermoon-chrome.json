@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16566",
+    "name": "Supermoon Chrome",
+    "image": "images/mr.-black-supermoon-chrome.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Modulated Reverb",
+    "hrid": "mr.-black-supermoon-chrome"
+}

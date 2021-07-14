@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11792",
+    "name": "Red",
+    "image": "images/walrus-audio-red.jpg",
+    "function": [
+        "Equalizer",
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$256 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "",
+    "hrid": "walrus-audio-red"
+}

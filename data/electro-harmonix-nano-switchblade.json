@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23311",
+    "name": "Nano Switchblade",
+    "image": "images/electro-harmonix-nano-switchblade.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "passive switchSwitch your signal between two different amplifiers, two different pedal boards or two different speaker cabinets. Flexible channel switching built into a compact die-cast case.\nhttps://www.ehx.com/products/switchblade",
+    "hrid": "electro-harmonix-nano-switchblade"
+}

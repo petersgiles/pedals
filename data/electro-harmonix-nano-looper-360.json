@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13480",
+    "name": "Nano Looper 360",
+    "image": "images/electro-harmonix-nano-looper-360.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "90 mA / 9 V / DC / Negative Center",
+    "cost": "$91 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Looper with 360 seconds of loop recording time and 11 storable loops\n360 seconds of loop recording time which can be divided into 11 different loops for maximum control and flexibility\nHigh quality sound and unlimited overdubbing with no degradation in fidelity\nUncompressed audio, 24-bit A/D/A and 44.1kHz sample rate\nUser-friendly layout makes recording a loop, overdubbing, undo-redo and erasing a loop quick and easy\nFeatures a silent momentary footswitch\nRugged die-cast package\n9.6DC-200 EHX power supply included\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\nDimensions in mm: 70 (w) x 115 (l) x 54 (h)\n\nhttps://www.ehx.com/products/nano-looper-360",
+    "hrid": "electro-harmonix-nano-looper-360"
+}

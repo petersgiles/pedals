@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12565",
+    "name": "Infinity Looper Remote Switch",
+    "image": "images/pigtronix-infinity-looper-remote-switch.jpg",
+    "function": [
+        "Looper",
+        "Utility",
+        "Controller"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 112,
+    "height": 61,
+    "details": "Infinity Looper Expansion PedalAdd New Functionality to Your Pigtronix Infinity Looper\nTake your looping capabilities to new heights with the Pigtronix Infinity Looper Remote Switch. This foot controller was made to trigger functions just added to Pigtronix's Infinity Looper in its last firmware update. The dual-button, momentary footswitch gives you unprecedented control of your loops. Go directly from recording the base layer to overdub mode with the hit of a switch. The Reverse button triggers the reverse playback mode and its various features. The Undo button lets you trigger on-the-fly loop clearing, various record modes, and much more. Open up the Infinity Looper's looping possibilities with the Pigtronix Infinity Looper Remote Switch.\nPigtronix Infinity Looper Remote Switch Features at a Glance:\nDual-button foot controller for the Pigtronix Infinity Looper\n\nGives you access to added functionality\nTrigger reverse playback and recording\nClear your loops on the fly\nSwitch record modes with the stomp of a button\nIncludes one 1' 1/4\" TRS cable\n\nhttps://pigtronix.com/infinity/",
+    "hrid": "pigtronix-infinity-looper-remote-switch"
+}

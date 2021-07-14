@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20763",
+    "name": "3Leaf Audio Proton Envelope Filter Pedal v3",
+    "image": "images/3leaf-audio-3leaf-audio-proton-envelope-filter-pedal-v3.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$219 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Envelope FilterEnvelope Filter\nhttps://static1.squarespace.com/static/5bc942d10b77bd4ad9f59524/t/5bd238074785d3f5f4ee9ebb/1540503560120/Proton+v3+Manual.pdf",
+    "hrid": "3leaf-audio-3leaf-audio-proton-envelope-filter-pedal-v3"
+}

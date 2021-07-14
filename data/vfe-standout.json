@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29043",
+    "name": "Standout",
+    "image": "images/vfe-standout.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "VFE",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 60,
+    "height": 117,
+    "details": "Mid boosterIs your amp too muddy, dark, bright, tinny, boomy, etc? Do your single coils get fizzy & shrill with drive pedals, and your humbuckers become flabby with your favorite fuzz? Does it feel impossible to get your guitar's tone to feel just right in a band mix? The Standout is a precision mid booster designed to solve all these common problems. Use it to dial in the exact amount of bass cut (HPF) and treble cut (LPF) to sculpt your tone and push an amp or another pedal into its unique sweet spot. This is a must-have tone tool for taming high gain amps, especially in the studio.\n\nTrue bypass with buffered bypass option via internal switch\nMore EQ range & less noise than the original Focus pedal\nDry blend for dialing in a less pronounced \"mid hump\"\nFilters can be 6dB or 12dB for more extreme EQ cuts\n\nhttp://vfepedals.com/standout.html",
+    "hrid": "vfe-standout"
+}

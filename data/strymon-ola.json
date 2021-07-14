@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11473",
+    "name": "Ola",
+    "image": "images/strymon-ola.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Chorus & vibratoHand crafted dBucket algorithm for highly accurate reproduction of every stage of an analog bucket brigade chip.\n3 modulation types (Single Delay-Line Chorus, Three-Phase Multi Delay-Line Chorus, Vintage Vibrato Circuit)\n3 dynamic modes (Normal, Envelope, Ramp)\nGlobal Tone control for the overall color of your modulation\nMix control for dialing in the intensity of your modulation\nControllable Ramp speed and Envelope sensitivity\nSuper low noise, high performance 24-bit 96kHz A/D and D/A converters\n110dB signal to noise\n+8dBu maximum input level easily handles instrument and line signals\n20Hz to 20kHz frequency response\nPremium analog front end and output section\nSuper high performance SHARC DSP in a compact form factor\n32-bit floating point processing\nTrue Bypass (electromechanical relay switching)\n9V center negative DC, 250mA current draw\nhttp://www.strymon.net/products/ola/",
+    "hrid": "strymon-ola"
+}

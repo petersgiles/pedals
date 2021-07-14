@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11751",
+    "name": "Timmy",
+    "image": "images/paul-cochrane-timmy.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Paul Cochrane",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 61,
+    "height": 115,
+    "details": "OverdriveHand made by Paul Cochrane in the U.S., the Timmy is the smaller brother of the 'Tim' overdrive pedal. There are differences in functionality but the real beauty lies in the circuit both pedals share. Its simple but insightful design lends it to be one of the most transparent tones available in a pedal today. The overdrive ranges from a totally clean boost to a creamy and smooth front end smack. The EQ is also fantastic allowing you to tailor the way the pedal works with the amp. Used as a clean boost, an OD or stacking with other pedals, the Timmy is truly outstanding and totally deserving of its stellar reputation.\nFEATURES\n9 Volt battery or AC adapter operation\nControls: Gain, Bass, Treble, Volume\nAmazing tone and touch sensitivity\nInternal dip switches mirror the push/pull pot on the rear of the Tim pedal for selectable modes of more gain or asymmetrical clipping",
+    "hrid": "paul-cochrane-timmy"
+}

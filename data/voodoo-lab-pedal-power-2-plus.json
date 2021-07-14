@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13039",
+    "name": "Pedal Power 2 PLUS",
+    "image": "images/voodoo-lab-pedal-power-2-plus.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 152,
+    "height": 86,
+    "details": "Power supply for up to 8 pedalsPedal Power 2 PLUS can power up to 8 pedals.\nhttp://www.voodoolab.com/pedalpower_2.htm",
+    "hrid": "voodoo-lab-pedal-power-2-plus"
+}

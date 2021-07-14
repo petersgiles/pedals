@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16545",
+    "name": "Longsword",
+    "image": "images/electronic-audio-experiments-longsword.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 93,
+    "height": 114,
+    "details": "Distortion",
+    "hrid": "electronic-audio-experiments-longsword"
+}

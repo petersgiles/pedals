@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16838",
+    "name": "The Juicer",
+    "image": "images/mooer-the-juicer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 42,
+    "height": 94,
+    "details": "OverdriveDesigned in collaboration with Neil Zaza, Mooer's The Juicer pedal takes after Zaza's favorite overdrive: the DOD FX51 Juice Box. Dynamic, sensitive, and full of impressive sustain capabilities, The Juicer is a sweet little pedal that gives just the amount of boost and crunch to your sound. It may be subtle, but that doesn't detract from its power: it can make all the difference in a rig that already has an OD or distortion, give you some more juice for an already-roaring amp, or perform just as well on its own.",
+    "hrid": "mooer-the-juicer"
+}

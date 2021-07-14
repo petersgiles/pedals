@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12157",
+    "name": "SDP-2 Black Dog",
+    "image": "images/snarling-dogs-sdp-2-black-dog.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Snarling Dogs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 102,
+    "height": 127,
+    "details": "Inspired by the British invasion of the '60s, Black Dog nails the classic EL32 vacuum tube sound of the legendary British amps. Get the sound and blast out some raunchy power chords just for old time's sake. Stainless steel housing.",
+    "hrid": "snarling-dogs-sdp-2-black-dog"
+}

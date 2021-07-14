@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31690",
+    "name": "nano tuner",
+    "image": "images/rock-stock-pedals-nano-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Rock Stock Pedals",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 46,
+    "height": 43,
+    "details": "A compact size tunerTuner pedals are one of the most valuable pedals on any pedal board. But they don’t need to take up so much space! Get that valuable space back on your pedal board by using the Nano Tuner. The Nano Tuner measures in at an incredible 1.8” x 1.7” x 1.6” and weighs about as much as a cell phone. It takes up 50% less space than the next smallest pedal tuners and fits on even the most crowded pedal boards. That means more space for more pedals.\nREVOLUTIONARY DESIGN: Clever compact design fits on any pedalboard.\nFAST AND ACCURATE: Lightning quick response provides precise tuning.\nEASY TO SEE: Bright LED strobes let you easily tune in any lighting.\nNEAR NOISELESS OPERATION: Discreetly turn your tuner on or off.\n9V DC AND TRUE BYPASS: Operates on standard 9v DC pedal power.\nhttps://www.rockstockpedals.com/product/nano-tuner/",
+    "hrid": "rock-stock-pedals-nano-tuner"
+}

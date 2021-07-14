@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17125",
+    "name": "Norns",
+    "image": "images/monome-norns.jpg",
+    "function": [
+        "Digital Glitch",
+        "Looper",
+        "Sampling",
+        "Multieffect"
+    ],
+    "manufacturer": "Monome",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$800 Price in €",
+    "width": 157,
+    "height": 102,
+    "details": "NornsNote, DIY version is hugely cheaper\nhttps://monome.org/norns/",
+    "hrid": "monome-norns"
+}

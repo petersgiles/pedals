@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17019",
+    "name": "CKK Robot Φ",
+    "image": "images/ckk-electronic-ckk-robot-φ.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "CKK Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Description\nRobot Φ is a phaser effect pedal with multiple parameters. Compared to the common phaser on the market, Robot Φ is an avant. By using it, you can adjust classic phaser tone just like Van Halen, and it also can produce some avant-garde phase-shift filter tone. Except common DEPTH and RATE knobs, we added RESONANCE and SWEEP knobs, through these two parameters, Robot Φ can make amazing avant-garde phase-shift filter tone. The RESONANCE knob is used to adjust the filter depth of the phase filter, generally, the filter depth of classic phase effect is relatively shallow, and the individualized modern music always need use the phaser effect with larger filter depth. The SWEEP knob is used to adjust frequency range of the phase filter, you can get high-pitched and drastic phaser effect or low and strong phaser effect by adjusting the SWEEP knob, when these phaser effect are used in the same music segments, you will get distinctly different sense. We also set a RATE knob, this knob can expand the range of rates, it covers many speed of change from very slow to exaggeratedly fast. Robot Φ can be used applied to any style of music, it makes your music more dreamy. If you dream of your unique tone like a guitar virtuoso, please choice Robot Φ, it will give you an unexpected effect.\n■ Based on the OTA,  with Multiple Parameters\n■ Equipped RESONANCE Knob, Adjusting Filter Depth of Phaser.\n■ Equipped SWEEP Knob, Adjusting Filter Frequency Point of Phaser\n■ Extendable RATE\n■ Avant-garde Phaser Effect, Getting Unique Tone\nhttp://www.ckkelectronic.com/product/robot/robot.html",
+    "hrid": "ckk-electronic-ckk-robot-φ"
+}

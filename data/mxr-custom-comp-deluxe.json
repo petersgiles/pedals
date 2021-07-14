@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11474",
+    "name": "Custom Comp Deluxe",
+    "image": "images/mxr-custom-comp-deluxe.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 57,
+    "height": 108,
+    "details": "Electric Guitar Effects Pedal",
+    "hrid": "mxr-custom-comp-deluxe"
+}

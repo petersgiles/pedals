@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13390",
+    "name": "Expanse",
+    "image": "images/neunaber-expanse.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 74,
+    "height": 117,
+    "details": "Multi effect pedalIt's a reverb, an echo, a shimmer and a chorus. It's all of these and more! Previously known as our v2 Stereo Pedals, all the pedals in the Expanse Series can be programmed as any effect using Expanse Software:\nReverb (Wet, hall, plate, spring, modulated)\nShimmer\nEcho, with/without reverb\nChorus or Detune, with/without reverb\nFlanging\nPhasing, Phased Doubling\nTremolo\nhttps://neunaber.net/products/expanse",
+    "hrid": "neunaber-expanse"
+}

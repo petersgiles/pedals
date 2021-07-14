@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27784",
+    "name": "EP2 Envelope Phaser",
+    "image": "images/pigtronix-ep2-envelope-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "35 mA / 18 V / DC",
+    "cost": "",
+    "width": 145,
+    "height": 119,
+    "details": "Phaser(From Pigtronix site)\nThe Pigtronix Envelope Phaser pours on the special sauce to take your tone into outer space. Accentuating and sweeping through the harmonics of any musical source, the motion of this revolutionary phase shifter can be controlled by Envelope, LFO or a blend of both.\nEnvelope Phaser makes it easy to dial in monster envelope tones for any instrument or playing style. This envelope kicks it up a notch with a “Staccato” function that is ideal for fast picking, funk bass and tight rhythm guitar. The Staccato circuit enables an “intelligent envelope” that listens to your playing and quickly discharges the envelope between your notes. This crafty circuit enables incredibly responsive envelope performance, even during rapid fire playing.\nRotary LFO modulation is tunable with depth and center controls that set the frequency range of operation, from subtle swirls to screaming sweeps with a huge range of available speeds. Another crucial addition is the new “LFO smooth” switch, which automatically reduces the resonance setting when the LFO is in use. This performance friendly function finally lets you switch between corpulent, Mutron style quack and deep, swirling Uni-Vibe sounds with a single footswitch stomp.\nIn addition to its unique voice and interactive modulation section, Envelope Phaser incorporates expression pedals for both SWEEP and SPEED as well as a continuous blend between envelope and LFO modulation. Use the side-chain “trigger” input to manipulate the envelope with any external audio source.\nYears of work went into the development of this unique and ridiculously funky device. If you are a musician seeking the ultimate analog phase shifter, this is your ticket to bliss.\nhttps://pigtronix.com/product/envelope-phaser/",
+    "hrid": "pigtronix-ep2-envelope-phaser"
+}

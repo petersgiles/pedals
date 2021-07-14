@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33542",
+    "name": "Dapper Looper Mini 4",
+    "image": "images/valeton-dapper-looper-mini-4.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Valeton",
+    "current": "180 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 197,
+    "height": 42,
+    "details": "LooperMain features:\nCompact dub loop effect strip\n3-Way footswitch with direct operation\n24 Bit / 44.1 kHz audio\n8 Storable loop memory slots\nUnlimited overdubs with undo / redo function\nMax. Total recording time: 240 minutes in (30 minutes over the 8 memory slots)\nUSB connection for loop import / export and management (free software available for download)\nControls: Loop Level - Rec Level\nSwitches: Forward / Backward loop memory\nLED: 1 - 4\nFoot switch: Rec / Play - Stop - Phrase\nConnectors: Input (6.3 mm jack) - Output (6.3 mm jack) - Power supply connector (coaxial jack 5.5 x 2.1 mm - negative polarity inside) - USB headphones (3.5 mm stereo mini jack)\nPower consumption: 180 mA\nPower supply via a 9 V DC power supply unit (included)\nBattery operation not possible\nDimensions (W x D x H): 197 x 65 x 42 mm\nWeight: 417 g",
+    "hrid": "valeton-dapper-looper-mini-4"
+}

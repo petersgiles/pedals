@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23306",
+    "name": "Analog Chorus",
+    "image": "images/cmat-mods-analog-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "CMAT Mods",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Analog MN3007, MN3101 ChorusThis is an all analog chorus pedal that has that deep lush sound that the old vintage chorus pedals had, because he uses the same chips that have been long discontinued.\nhttp://www.cmatmods.com/analog-chorus.html",
+    "hrid": "cmat-mods-analog-chorus"
+}

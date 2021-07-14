@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11960",
+    "name": "DOD Carcosa",
+    "image": "images/dod-dod-carcosa.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$125 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "FuzzThe DOD Carcosa Fuzz is a doorway into an alternate fuzz universe, where classic tones of legend coexist with splattered and shattered Pollock abstractions. Combining the Carcosa's wide-ranging AFTER bias control with two toggle positions creates tones that range from porcine fatness to dessicated shards. This versatility makes the Carcosa Fuzz a good companion for dirty or clean amps. True bypass, tons of output, and the visage of the King in Yellow sets the stage for fuzzy madness.\nThe DOD Carcosa Fuzz has an exaggerated mid-range and treble character that help it stand out in a mix. It has been designed to cut through a dense and heavy band but still have great note articulation with chords. However, when extreme bias (AFTER) ranges are selected many wild and over-the-top sounds are possible.\nhttps://www.digitech.com/distortion-overdrive-fuzz/Carcosa+Fuzz.html",
+    "hrid": "dod-dod-carcosa"
+}

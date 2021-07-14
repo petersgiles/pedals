@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18540",
+    "name": "EQuator",
+    "image": "images/wampler-equator.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "EQ4-band Active Equalizer Pedal with Graphic Bass and Treble Contols and Semi-parametric Mid Controls, 9-18V\nThe often overlooked EQ pedal is one of the most powerful devices that you can place in your rig. And if the constant demand for one from Wampler fans is any indication, we admit that the introduction of the Wampler EQuator may be a bit overdue. But we knew that if we wanted your attention, we’d have to take our time to create an EQ pedal with the player-friendly ease of use and demand for top quality that Wampler strives for every day. Instead of the learning curve that can accompany individual sliders for each frequency, we gave you fixed bass and treble controls and two semi-parametric mid controls that are as easy to harness as twisting a few knobs Each knob’s frequencies have been carefully defined (with the sweet spots marked) for the needs of players and to offer one of the most flexible EQ pedals out there. Whether you’re wanting a fully customizable clean boost, the ability to fine-tune the tone of another pedal, or to just bring out the best in your guitar, bass or ANY instrument you choose to plug into it - we crafted the Wampler EQuator to be the tonal sweetener you need to get the job done…  Even if you don’t use a pedalboard and are not a guitar player - put this between your instrument and the amp, the P.A., or recording interface… the EQuator will bring it to life.\nhttps://www.wamplerpedals.com/products/utilities/equator/",
+    "hrid": "wampler-equator"
+}

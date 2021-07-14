@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28775",
+    "name": "JF-11",
+    "image": "images/joyo-jf-11.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Joyo",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$38 Price in €",
+    "width": 72,
+    "height": 100,
+    "details": "6-Band Equalizer1.Each band provides 18 dB± range to help find favourite tone\n2.This equalizer can exponentially improve the range of sound \n3.The output will be transformed into a more warm and natural sound\n4.Frequency bands: 100Hz, 200Hz, 400Hz, 800Hz, 1.6MHz, 3.2MHz\n5.True bypass design to minimize the tone loss\n6.LED power indicator\n7.Powered by 6F22 9V battery (included)\nSpecifications:\n1.Input impedance: 500 Kω\n2.Output impedance: 10 kω\n3.Running current: 15 mA\n4.Voltage: 9V battery/adapter\n5.Dimension: 120 x 72 x 55 mm\n6.Net weight: 290g\n7.Color: black\nPackage including:\n1 x JOYO JF-11 Guitar 6-BAND Equalizer Effect Pedal l Black\n1 x user manual\nThe Joyo JF-11 6 band graphic equalizer pedal gives you a great range of tonal possibilities and the option to boost your signal and get the sound you want! Excellent value for money and a solid metal construction mean you'll get years of reliable use, on or off stage!\nTrue Bypass Runs off 9 Volt battery (included) or 9v Power Supply (Optional)\nhttps://www.joyoaudio.co.uk/JOYO-JF-11-6-band-equalizer-guitar-effect-pedal",
+    "hrid": "joyo-jf-11"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29669",
+    "name": "Ecstasy",
+    "image": "images/wampler-ecstasy.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 64,
+    "height": 115,
+    "details": "Before the Euphoria there was the Ecstasy!",
+    "hrid": "wampler-ecstasy"
+}

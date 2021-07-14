@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26729",
+    "name": "RevivalTREM",
+    "image": "images/origin-effects-revivaltrem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$430 Price in €",
+    "width": 93,
+    "height": 147,
+    "details": "TremoloThe RevivalTREM is the first ever pedal to faithfully recreate power tube bias tremolo, the sought-after effect found in a handful of classic amps from the late ‘50s and early ‘60s.\nMore than just a tremolo pedal, the RevivalTREM also delivers a deliciously chewy and rich Brown Fender-style overdrive tone that interact with the bias tremolo effect just like the real thing.\n• Authentic valve amp-style signal path recreated in all-analogue electronics\n• True bias tremolo with switchable wave shapes\n• Realistic vintage amp tones voiced after the Brown Fender Deluxe\n• Powerful Post-Drive EQ for matching with a variety of guitar amps, power amps, and mixers.\n• Footswitch input for tap tempo, remote tremolo on/off and effects switcher integration\n• High-current, low-noise electronics\n• Ultra-high input impedance\n• Silent switching\n• High-quality buffered bypass mode\n• Premium components throughout\n• Advanced power supply filtering and protection\n• PSU Spec. 120mA @ 9V, centre-negative (PSU not included)\n• Designed and built in England\nhttps://origineffects.com/product/revivaltrem-bias-tremolo/",
+    "hrid": "origin-effects-revivaltrem"
+}

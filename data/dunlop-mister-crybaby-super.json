@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20908",
+    "name": "Mister Crybaby Super",
+    "image": "images/dunlop-mister-crybaby-super.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 102,
+    "height": 254,
+    "details": "Volume/Wah PedalThe Dunlop Mister Crybaby Super Volume/Wah Pedal turns the classic Cry Baby wah into a hot, powered volume pedal in non-wah mode. LED shows you which function is active. The Mister Crybaby pedal uses the Dunlop ECB-003 power supply.\nhttps://reverb.com/p/dunlop-mister-cry-baby-super",
+    "hrid": "dunlop-mister-crybaby-super"
+}

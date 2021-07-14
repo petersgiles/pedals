@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12653",
+    "name": "Palisades",
+    "image": "images/earthquaker-devices-palisades.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 140,
+    "height": 114,
+    "details": "Mega Ultimate OverdriveBoost: Sets the level of the output boost.\nVolume: Sets the output level.\nTone: Brighter clockwise, warmer counter clockwise.\nGain A: Sets the gain for the Channel A (lower gain)\nGain B: Sets the gain for Channel B (higher gain)\nFoot Switches\nActivate: True bypass switch\nGain B: Activates Gain Channel B\nBoost: Activates the output level boost\nToggle Switches\nNormal/Bright: Normal is a warm full tone, Bright is livelier tone with more chime.\nBuffer: Turns the input buffer on or off. ON is a tighter and brighter tone while OFF is a warmer tone with more sag. The buffer is part of the drive circuit & is only available when the Palisades is activated.\nRotary Switches\nBandwidth: This sets the overall tone and gain structure of the Palisades. 1 is the thinnest setting with the least amount of gain and 5 is the fattest setting with the heaviest gain. Everything else is in between. This control has a major effect on all the settings of the Palisades, especially the gain and voice controls.\nVoice: This sets the nature of the Palisades distortion by changing the clipping diodes. 1- No diodes: The most open and least distorted. 2- LED clipping: light clipping with a lot of volume. 3- Mosfet clipping: light gain OD with great harmonics. 4- Asymmetrical Silicon clipping: Tighter light gain OD closest to stock 808. 5- Symmetrical silicon clipping: tighter distorted tone. 6- Schottky Diode clipping: Looser fuzzy tone.\nhttps://www.earthquakerdevices.com/palisades",
+    "hrid": "earthquaker-devices-palisades"
+}

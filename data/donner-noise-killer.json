@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15948",
+    "name": "Noise Killer",
+    "image": "images/donner-noise-killer.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 45,
+    "height": 95,
+    "details": "Noise GateNoise Killer Fatures\n1.Power Supply：9V DC (Negative in the center).\n2.Two Modals: Hard and Soft.\n3.Thershold Knob：Adjusting the noise reduction degree.\n4.Input & Output Jack：Analogy though 1/4’’ mono audio jack.\n5.LED Light：LED indicator shows the working state.\n6.Full metal shell：Aluminum-alloy classic, stable and strong.\n7.True Bypass：True bypass for zero tone coloration\nhttps://www.donnerdeal.com/products/donner-noise-killer-guitar-effect-pedal-noise-gate-pedal-2-modes",
+    "hrid": "donner-noise-killer"
+}

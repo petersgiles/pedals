@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11435",
+    "name": "DD-3 Digital Delay",
+    "image": "images/boss-dd-3-digital-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Boss",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$151 Price in €",
+    "width": 76,
+    "height": 135,
+    "details": "DelayCompact delay pedal with superb BOSS sound quality\nProvides 3 delay time modes and a Delay Time control for quick adjustment of exact delay time between 12.5ms - 800ms\nHold function repeats delay sound indefinitely for interesting effects\nBOSS five-year warranty\nhttps://www.boss.info/us/products/dd-3/",
+    "hrid": "boss-dd-3-digital-delay"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19586",
+    "name": "GE200",
+    "image": "images/mooer-ge200.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 297,
+    "height": 146,
+    "details": "Amp Modeling & Multi-effects\nhttp://www.mooeraudio.com/product/48.html",
+    "hrid": "mooer-ge200"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16785",
+    "name": "FP02",
+    "image": "images/zoom-fp02.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 90,
+    "height": 200,
+    "details": "Zoom Expression PedalIt's a volume pedal, a wah pedal and a pitch bender, all in one. Plug the FP02M into your Zoom guitar or bass effects device to add real-time control over volume, wah or pitch, as well as effects parameters such as modulation rate, distortion gain, and delay or reverb level. Rugged enough for the road, the FP02M sports an all-metal chassis and comes with a ¼\" to ¼\" connection cable.\nhttps://www.zoom-na.com/products/product-accessories/zoom-fp02m-expression-pedal",
+    "hrid": "zoom-fp02"
+}

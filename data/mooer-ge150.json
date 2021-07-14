@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23860",
+    "name": "GE150",
+    "image": "images/mooer-ge150.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Mooer",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 230,
+    "height": 156,
+    "details": "Multi-effects with IR loading\nhttp://www.mooeraudio.com/product/GE150-228.html",
+    "hrid": "mooer-ge150"
+}

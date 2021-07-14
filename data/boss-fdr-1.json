@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12700",
+    "name": "FDR-1",
+    "image": "images/boss-fdr-1.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation",
+        "Reverb",
+        "Tremolo",
+        "PreAmp"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Fender '65 Deluxe Reverb Amp ModelingBased on the Fender 1965-era Deluxe Reverb — a coveted tube amp known for its natural touch-responsive and distinctive snappy overdriven sound. In conjunction with Fender, BOSS designed this stompbox to recreate the legendary tone of the 1965 Fender Deluxe Reverb amp. Features include the same controls on the original Deluxe Reverb: Level, Gain, Treble, Bass, Vibrato and Reverb. The FDR-1 also functions perfectly as a “pre-gain pedal” placed before an already overdriven amp to add the tone character of the Deluxe Reverb.\nhttps://www.boss.info/us/products/fdr-1/",
+    "hrid": "boss-fdr-1"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16666",
+    "name": "AD4096",
+    "image": "images/endangered-audio-research-ad4096.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Endangered Audio Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 100,
+    "height": 80,
+    "details": "Analog DelayThe AD4096 is an analog delay with unique functionality and a coveted tone.\nThe Delay voice is a familiar dusky analog delay while the Echo is filtered, repeating the delay line with a soft doubling effect and carrying with it a glittery lo-fi halo of harmonic dust.\nInfinity mode is an analog delay loop function, that gradually shifts and decays into the dominant tone of the input.  Inspired by classic tape delays, Infinity Mode adds layers of tones that grow and drift into expansive soundscapes.  Spill-over and looping can be achieved using the switchable Aux Output jack. In Infinity Mode, the Aux Output can set and play a loop while you play along. Alternately, Aux Output can be switched to split the input signal to allow for creative pedal routings.\nThe momentary Expand footswitch provides delay feedback oscillation at the touch of a button for creative expression and emphasis.  \nFeatures\nKnobs:\nTime - the delay time from approximately 40-400ms (upgradeable to 800ms with this mod)\nDepth - the number of repeats from a single echo to feedback oscillation\nDelay - the level or mix of the delay signal\nEcho - the level or mix of the echo signal\nSwitches:\nMode - selects normal or infinity mode\nExpand - momentary switch that instantly increases depth to 100% for controlled, expressive feedback oscillation\nBypass - true bypass\nJacks:\nInput - accepts both low and line-level inputs - line-level instruments overdrive the input and add even more character to the repeats\nAux - can be switched to provide a Wet output of the effect or a split buffered Dry line\nOutput - drives low level and most line level inputs\nhttp://www.endangeredaudioresearch.com/ad4096-pedal/",
+    "hrid": "endangered-audio-research-ad4096"
+}

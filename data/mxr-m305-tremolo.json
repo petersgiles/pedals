@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31616",
+    "name": "M305 Tremolo",
+    "image": "images/mxr-m305-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "MXR",
+    "current": "190 mA / 9 V / DC / Negative Center",
+    "cost": "$205 Price in €",
+    "width": 65,
+    "height": 110,
+    "details": "Multi mode tremolo\nhttps://www.jimdunlop.com/mxr-tremolo/",
+    "hrid": "mxr-m305-tremolo"
+}

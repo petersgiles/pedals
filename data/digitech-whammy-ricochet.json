@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13314",
+    "name": "Whammy Ricochet",
+    "image": "images/digitech-whammy-ricochet.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 73,
+    "height": 121,
+    "details": "Pitch ShifterThe Whammy Ricochet lets you bounce your playing up or down in pitch in controlled or crazy shifts. A momentary switch and customizable independent rise and fall time ballistics, allow you to get the Whammy action you know and love without the use of a treadle. Just hold your foot on the footswitch and let the Ricochet do the rest. Seven pitch selections: 2nd, 4th, 5th, 7th, Octave, Double Octave, and Octave+Dry, as well as a toggle to select up or down for the selected pitch. The Whammy Ricochet also has latching footswitch mode so you can rise or fall to pitch and stay there, and an LED ladder that shows your shift trajectory at all times. All these controls combine to create classic Whammy pitch-shifting as well as new sounds never heard before",
+    "hrid": "digitech-whammy-ricochet"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23977",
+    "name": "Eisenhower Fuzz",
+    "image": "images/danelectro-eisenhower-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "octave up superfuzz/hyperfuzz",
+    "hrid": "danelectro-eisenhower-fuzz"
+}

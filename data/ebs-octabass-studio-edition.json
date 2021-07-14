@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19356",
+    "name": "OctaBass Studio Edition",
+    "image": "images/ebs-octabass-studio-edition.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Bass"
+    ],
+    "manufacturer": "EBS",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Triple Mode Octave DividerTrack your note. The pedal recognizes two or three-note chords and trigger the lowest note. Control the level of the original tone and mix in the octave effect. Choose between High, Mid or Low Range - which relates to the character of the sound of the sub-note.\nHints. Sub-notes are perhaps most effective when playing on the higher frets, and could add a nice touch just slightly blended into the original tone, especially on a solo on bass or guitar. The OctaBass works really good together with distortion as well, but remember to keep the OctaBass before the drive in the signal chain, so it get’s as clean as possible tone to trigger. If you are after a synth-bass type of sound, a great way to achieve that is to run an OctaBass, combined with an EBS BassIQ envelope filter, and use the ‘Down’mode on the IQ. That makes the impression of hitting a key on a keyboard, and adds that sub-bass as well as synth sound to the tone.\nThe original EBS effect! The OctaBass was the very first stompbox effect from EBS. This classic effect was introduced in 1992, and based on an onboard effect featured in the legacy EBS Taurus combo. It has become 'classic' after being a trusted companion to legendary bassists like Tony Levin, Roger Glover, Tal Wilkenfeld & many many more...\nThe Studio Edition comes with optimized signal path, new design, new signal relay switching technique, protection against overvoltage use up to 18V and the possibility to power the pedal with anything from 9-12V DC.\nhttps://ebssweden.com/content2/ebs-octabass-studio-edition/",
+    "hrid": "ebs-octabass-studio-edition"
+}

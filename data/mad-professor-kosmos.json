@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15868",
+    "name": "Kosmos",
+    "image": "images/mad-professor-kosmos.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$290 Price in €",
+    "width": 65,
+    "height": 113,
+    "details": "ReverbThe Mad Professor Kosmos is a small, easy to use and super versatile pedal for a wide variety of ambient reverbs. With just one footswitch you can, of course, turn the pedal ON and OFF, but also hold the switch for freeze function ambient effect or make beautiful swell effects without the need of a volume pedal.\nAll the 11 ambient tones are carefully designed and you can further adjust the tones with four knobs. The special CONTROL knob has a different function on different presets, so please take time to explore all the possibilities.\nFEATURES\n11 reverb programs\nPlate, Room, Spring, and Hall\n3 reverb + shimmer sounds\n2 reverb + delay sounds\nFreeze functionality\nSwells are controlled by footswitch\nAdjustments for all sounds: Time, Tone, Level\nProgram dependent Control: Ducking Depth, Swell rise speed, Shimmer ratio or Delay level\nWet only mode\nAnalog dry path\nTrue bypass\nPower supply or battery operated. Due the high current consumption, the battery operation time may last only 2-3 hours with a fresh battery\nTECHNICAL SPECIFICATIONS\nSupply voltage range 8.5V to 12V\nCurrent consumption 90 mA at 9VDC\nInput impedance 500 kOhm",
+    "hrid": "mad-professor-kosmos"
+}

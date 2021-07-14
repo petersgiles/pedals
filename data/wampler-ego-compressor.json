@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11479",
+    "name": "Ego Compressor",
+    "image": "images/wampler-ego-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Effects pedal for Electric GuitarBuilt in the U.S.A\nHigh grade components picked for their superior sound and response\nRelay true bypass with soft switch\nBattery connection and 9v power jack\nTop mounted input and output jacks\nPower draw: between 14mA (9v) and 22mA (18v)\nFive controls – volume, sustain, attack, tone and blend\n3.5″ x 4.5″ x 1.5″ (63.5mm x 114.3mm x 38.1mm) – height excludes knobs and switches\n\nSee more at: https://www.wamplerpedals.com/ego-compressor#sthash.sKbXopXC.dpuf\n\nhttps://www.wamplerpedals.com/ego-compressor",
+    "hrid": "wampler-ego-compressor"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13195",
+    "name": "Muffuletta",
+    "image": "images/jhs-muffuletta.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 69,
+    "height": 120,
+    "details": "Distortion / FuzzThe Big Muff fuzz has been around so long, been on so many classic recordings, and been through so many variations that every guitarist out there has a favorite version of its iconic tone. JHS wanted to pay tribute to that undeniably classic fuzz pedal, but we couldn’t come to a consensus about which Muff was king. With the Muffuletta, our indecision is your gain. We crammed five all-analog re-creations of the pedal’s most beloved tones into this box. We even threw in a JHS-exclusive tone that is our take on the historic stomp. No matter what Big Muff era you prefer, you can get ‘em all in the JHS Muffuletta fuzz pedal.\nFive tones inspired by these classic Big Muffs:\n\nJHS - \"2015\"\n\nThe JHS Muff is a JHS original take on the classic circuit. You will find this version more powerful and less compressed, with a more haunting midrange. It is also the best for bass guitar.\n\n‘73 Rams Head - “1973-1977 V2”\n\nThe ‘73 Rams Head gets its name for the strange little face that appears on the lower right corner of the original pedal. It is best known for having a scooped midrange, less gain, and being darker.\nFamous users: David Gilmour (main Pink Floyd recordings), Ernie Isley (Isley Brothers), and J. Mascis (Dinosaur Jr.)\n\nThe Triangle - “1969-1970 V1”\n\nThe Triangle Muff is so named for the triangle arrangement of the knobs. It boasts more low-end response while being more articulate.\nFamous users: Santana, David Gilmour's Pete Cornish-made pedalboards, John Lennon, Kevin Shields (My Bloody Valentine), and possibly Jimi Hendrix.\n\nThe Pi - “1977-1978 V3” An instantly recognizable red Pi symbol gives this pedal its moniker. This is not to be confused with the later redesigned NYC version released in 2000. It features a more aggressive sound.\n\nFamous users:  Frank Zappa, Billy Corgan (Smashing Pumpkins), Jack White, The Edge (U2), Beck, and Pete Townshend (The Who).\n\nThe Russian - \"1999-2009 V8”\n\nThe Russian Muff is named by the “Made in Russia” text found on the back of the pedals. It sports less clarity and less low end than other models. A great garage-type sound.\nFamous users: Dan Auerbach (Black Keys), Chris Wolstenholme (Muse), and Robin Finck (Nine Inch Nails).\n\nThe Civil War - “1991-1993 V7”\n\nThe old-style Civil War-era font and navy and gray colors found on these pedals’ enclosures dictate their name. They are best known for having more midrange and having a brighter overall tone with less gain.\nFamous users: Thurston Moore (Sonic Youth), John Fogerty, Jeff Tweedy (Wilco), Mike Mills, and Peter Buck (REM).\nWith a pedal so stuffed with tasty tones you will have a hard time needing anything else to curb your appetite.\nThis pedal requires standard 9V DC Negative power, consumes less than 100mA, and measures 2.2\"x4.3\"x1.5\".",
+    "hrid": "jhs-muffuletta"
+}

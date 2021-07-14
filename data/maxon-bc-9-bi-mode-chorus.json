@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12998",
+    "name": "BC 9 Bi-Mode Chorus",
+    "image": "images/maxon-bc-9-bi-mode-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 73,
+    "height": 124,
+    "details": "",
+    "hrid": "maxon-bc-9-bi-mode-chorus"
+}

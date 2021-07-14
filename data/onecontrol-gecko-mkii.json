@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23839",
+    "name": "Gecko MKII",
+    "image": "images/onecontrol-gecko-mkii.jpg",
+    "function": [
+        "MIDI",
+        "Switch"
+    ],
+    "manufacturer": "OneControl",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$112 Price in €",
+    "width": 120,
+    "height": 65,
+    "details": "MIDI Switcher  | 20 PresetsThe Gecko is a great solution for quickly switching between programs on MIDI devices. With an increasing number of guitar pedals being built with midi capabilities, being able to access presets in a quick and efficient manner has become an important part of playing live. The Gecko allows guitarists to use two modes to access programs.  \nhttp://www.one-control.com/gecko-mkii-midi-switcher.html#",
+    "hrid": "onecontrol-gecko-mkii"
+}

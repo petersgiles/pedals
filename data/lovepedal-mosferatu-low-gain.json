@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19327",
+    "name": "Mosferatu Low Gain",
+    "image": "images/lovepedal-mosferatu-low-gain.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Hermida designed Mosfet ODAlfonso Hermida gained fame in the world of boutique handmade effects pedals with the release of the Mosferatu and Zendrive overdrive pedals. The Mosferatu, his original signature pedal, is revered by users for it's thick tone and long sustain.\nDuring the fall of 2003, the Mosferatu gained enormous popularity among guitarists worldwide. The creation of an overdrive/distortion unit that had a very, VERY, smooth sound with sustain even at the lowest settings. The Mosferatu tends to find many sweet spots around the neck.\n\" I wanted a tone similar to Robben Ford's \"Golden Slumbers\" version from a Beatles tribute album. In order to get that tone I ended up using Mosfets in a section of the circuit. I wanted to integrate the \"Mosfet\" name in the name of the pedal. Since I'm a horror film fan, I recalled \"Nosferatu\" (vampire from the silent movie days). So it ended up being Mosferatu.\"\nhttp://www.lovepedal.com/pedals/",
+    "hrid": "lovepedal-mosferatu-low-gain"
+}

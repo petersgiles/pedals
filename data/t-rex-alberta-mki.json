@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18839",
+    "name": "Alberta MkI",
+    "image": "images/t-rex-alberta-mki.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$115 Price in €",
+    "width": 100,
+    "height": 120,
+    "details": "Vintage Overdrive / Screamer / BoostSome people say Alberta was born to play the blues - and it certainly does deliver that vintage tubey warmth that bluesmen are always looking for. With its creamy, yet crunchy sound a smooth mid-range boost, we recommend Alberta for evertyhing from Muddy Waters to White Stripes.\nWith the gain cranked towards max, the T-Rex Alberta pedal behaves much like a vintage Tube Screamer. More subtle settings produce gorgeous blues tone with bite and sweet tube-like harmonics.\nFeatures\nCreamy overdrive sound reminiscent of a vintage TS-808\nGorgeous blues tone with bite and sweet tube-like harmonics\n9V battery operation\nhttps://static1.squarespace.com/static/5241856be4b07f248a5a2804/t/5887483bd482e9581cc2154b/1485260869828/Alberta%2BUser%2BManual.pdf",
+    "hrid": "t-rex-alberta-mki"
+}

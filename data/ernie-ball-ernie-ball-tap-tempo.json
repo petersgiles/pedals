@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17978",
+    "name": "Ernie Ball Tap Tempo",
+    "image": "images/ernie-ball-ernie-ball-tap-tempo.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 44,
+    "height": 93,
+    "details": "Tap TempoThe Ernie Ball Tap Tempo is the perfect companion to the Ernie Ball Expression Series Ambient Delay or any other pedal requiring a standard normally-open momentary footswitch. Tap the switch to set the tempo and hear your delay rate (or other effect) sync up, bringing studio quality, time-based effects to your live performances.",
+    "hrid": "ernie-ball-ernie-ball-tap-tempo"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12498",
+    "name": "Boost R.V.B.",
+    "image": "images/tech-21-boost-r.v.b..jpg",
+    "function": [
+        "PreAmp",
+        "Reverb"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 97,
+    "height": 119,
+    "details": "Tech 21 Boost R.V.B. rev1Analog Reverb Emulator with Clean Boost\nTech 21 brings a fresh perspective to the standard reverb pedal. By incorporating a clean Boost function, up to 9dB, your solos will jump out with greater dimension. The Boost R.V.B. is designed with user-tweakable, “lo-fi” analog technology. By manipulating the controls, you can infuse degrees of warmth and life characteristic of vintage reverbs. The circuitry intentionally injects the inherent imperfections of vintage units, which is what makes them so seductive and nostalgic. A single, continuously-variable Time control provides a full sweep of size. The Boost R.V.B. parameters are engineered so that you can explore and custom tailor such reverb styles as spring, plate and natural room/hall ambiance. \nhttp://www.tech21nyc.com/products/effects/boostrvb.html",
+    "hrid": "tech-21-boost-r.v.b."
+}

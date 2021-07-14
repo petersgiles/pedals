@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18388",
+    "name": "String slinger",
+    "image": "images/free-the-tone-string-slinger.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$391 Price in €",
+    "width": 98,
+    "height": 120,
+    "details": "",
+    "hrid": "free-the-tone-string-slinger"
+}

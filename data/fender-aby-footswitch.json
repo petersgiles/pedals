@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12254",
+    "name": "AB/Y Footswitch",
+    "image": "images/fender-aby-footswitch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 127,
+    "height": 83,
+    "details": "AB/Y Switch\nhttp://shop.fender.com/en-IE/accessoriespedals-power-products/fender-aby-footswitch/0234506000.html#start=1",
+    "hrid": "fender-aby-footswitch"
+}

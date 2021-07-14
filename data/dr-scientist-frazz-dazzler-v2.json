@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22033",
+    "name": "Frazz Dazzler V2",
+    "image": "images/dr-scientist-frazz-dazzler-v2.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 70,
+    "height": 129,
+    "details": "Cosmic Fuzz\nhttps://reverb.com/p/dr-scientist-frazz-dazzler-v2",
+    "hrid": "dr-scientist-frazz-dazzler-v2"
+}

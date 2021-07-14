@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20065",
+    "name": "Mini Volume Plus",
+    "image": "images/morley-mini-volume-plus.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Morley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 114,
+    "height": 173,
+    "details": "Mini version of Morley Volume PlusMini version of Morley Volume Plus. Electro-Optical circuitry and audio taper allow smooth, studio quiet volume control. Foot switchable Minimum Volume is used for a smooth transition between rhythm and lead volumes.\nhttp://www.morleypedals.com/mini-volume-plus/",
+    "hrid": "morley-mini-volume-plus"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12369",
+    "name": "Nano Bass Big Muff Pi",
+    "image": "images/electro-harmonix-nano-bass-big-muff-pi.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 65,
+    "height": 110,
+    "details": "Distortion/Sustainer for bassThe new Nano Bass Big Muff is the latest EHX bass guitar, effect pedal. It delivers that huge Bass Big Muff sound in a nano-sized package. With voicing inspired by the battle-tank green, Russian Big Muff and a classic Big Muff Pi layout of Sustain, Tone and Volume controls, it provides sounds ranging from a slight but satisfying grit to an over-the-top wall of bass fuzz.\n\nTailor your drive/distortion sound with Sustain, Tone and Volume knobs\nFeatures a Dry switch that mixes your dry bass, at unity level, with the Nano Bass Big Muff’s distortion\nTrue bypass for maximum signal path integrity\nRoad worthy die-cast chassis\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\n\nhttp://www.ehx.com/products/nano-bass-big-muff-pi",
+    "hrid": "electro-harmonix-nano-bass-big-muff-pi"
+}

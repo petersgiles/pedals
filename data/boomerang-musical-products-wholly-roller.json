@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18929",
+    "name": "Wholly Roller",
+    "image": "images/boomerang-musical-products-wholly-roller.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Boomerang Musical Products",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 89,
+    "height": 152,
+    "details": "Volume / Expression Roller\nhttps://boomeranglooper.com/products/wholly-roller-volume-expression",
+    "hrid": "boomerang-musical-products-wholly-roller"
+}

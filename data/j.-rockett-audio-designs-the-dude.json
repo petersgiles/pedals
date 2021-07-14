@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12249",
+    "name": "The Dude",
+    "image": "images/j.-rockett-audio-designs-the-dude.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 59,
+    "height": 102,
+    "details": "Dumble Sounding Overdrive\nhttps://rockettpedals.com/product/dude/",
+    "hrid": "j.-rockett-audio-designs-the-dude"
+}

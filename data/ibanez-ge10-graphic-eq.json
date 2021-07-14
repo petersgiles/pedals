@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12747",
+    "name": "GE10 Graphic EQ",
+    "image": "images/ibanez-ge10-graphic-eq.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "",
+    "hrid": "ibanez-ge10-graphic-eq"
+}

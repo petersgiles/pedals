@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27433",
+    "name": "Solar Bender V3",
+    "image": "images/magnetic-effects-solar-bender-v3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Magnetic Effects",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$156 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "FuzzDesigned to capture the sonic flavour of a Tone Bender MKII Fuzz, the Solar Bender offers smooth, saturated fuzz tones with excellent harmonic overtones, sustain and an organic mid range response. \nTemperature stability, buffer friendly response and standard power 9V DC power operation make the pedal easy to use on stage and in the studio. Enhanced sonic possibilities are provided through its combination of Level, Attack, Bias and Tone controls. A three position Bass toggle switch allows you to tailor the low end response. \nA high input impedance and a low output impedance makes the Solar Bender, unlike many fuzz pedals, compatible with buffered bypass pedals as well as pedal switchers and wireless systems. It also allows the pedal to interact well with modulation and time based effects.\nFor your convenience, the Solar Bender features a charge pump acting as a polarity reverse circuit. This enables you to run the pedal on a standard 9V centre negative adapter and even daisy chain it with other pedals. \nhttps://www.magneticeffects.net/solar-bender",
+    "hrid": "magnetic-effects-solar-bender-v3"
+}

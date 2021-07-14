@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14616",
+    "name": "Charlie Foxtrot",
+    "image": "images/malekko-heavy-industry-charlie-foxtrot.jpg",
+    "function": [
+        "Digital",
+        "Digital Glitch",
+        "Pitch Shifter",
+        "Sampling"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 64,
+    "height": 140,
+    "details": "DIGITAL BUFFER / GRANULAR PEDALCharlie Foxtrot is a digital buffer/granular pedal with both autocapture and manual-capture of the input signal. Playback and capture can be manipulated through several parameters: The six knobs control the size of the buffer, duration of repeats, pitch mode, threshold, mix, and preamp level. Any combination of Size, Duration, Pitch Mode, and Trigger Threshold settings, both positive and negative sweep can be controlled with an expression pedal or through CV input.\nhttps://malekkoheavyindustry.com/product/charliefoxtrot/",
+    "hrid": "malekko-heavy-industry-charlie-foxtrot"
+}

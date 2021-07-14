@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23101",
+    "name": "PROFILER Stage",
+    "image": "images/kemper-profiler-stage.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Kemper",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$2,015 Price in €",
+    "width": 470,
+    "height": 260,
+    "details": "Kemper Profiler Stage",
+    "hrid": "kemper-profiler-stage"
+}

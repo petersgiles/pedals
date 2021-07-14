@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16818",
+    "name": "BOUM",
+    "image": "images/oto-machines-boum.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion",
+        "Filter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "OTO Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$622 Price in €",
+    "width": 145,
+    "height": 145,
+    "details": "WARMING UNITBOUM is a full analog stereo warming unit, combining an easy-to-use compressor, a versatile distortion generator and a smooth low-pass filter. BOUM is the perfect tool when you need to add warmth, thickness, and character to your sounds, but also apply severe distortion and extreme compression treatments.\nBOUM is based on an original and unique circuit, including the following stages :\nINPUT GAIN : boost your signal up to +18db to adapt BOUM to various signal levels, and also improve the distortion content and the compression sensitivity.\nCOMPRESSOR : with a single knob, control the 3 essential parameters of a compressor, threshold, ratio and makeup gain, without thinking about how a compressor works ! The ratio ranges from 1:1 (no compression) to inf. :1 (limiter), but also negative compression up to 1: -1 !\n6 different Attack and release times are available for fine tuning.\nLO CUT FILTER : attenuate the distortion content of the bass frequencies with this 6 dB/Octave lo cut filter, making your distorted sound easier to mix with the original one.\nDISTORTION GENERATOR : choose one of the 4 different distortion circuits :\n– BOOST : soft clipping amplifier, perfect for subtle harmonic enhancement.\n– TUBE : asymmetrical tube distortion emulator based on MOSFET technology. Generate mostly a second harmonic distortion.\n– FUZZ : symmetrical hard clipping amplifier, similar to an overdriven mixer preamp.\n– SQUARE : pure square wave generator based on a comparator. The ultimate fuzz !\nHI CUT FILTER : soften the high frequencies with this smooth and musical 12 db / octave low pass filter.\nNOISE GATE : remove the noise coming from the different treatments, or use it for interesting chopping effects.\nAll these analog effects are packaged in a compact format, with 36 user presets and full MIDI control.\nBOUM will give you a wide range of compression, distortion and filtering effects, ranging from subtle harmonic enhancement to an insane square distortion, and everything in between !\nMore audio demos : https://soundcloud.com/oto-machines\nFEATURES\n• Analog signal path and sidechain\n• One knob compressor (Ratio 1:1 to 1: -1) with attack & release parameters\n• 4 distortions : Boost, Tube, Fuzz and Square\n• Variable HiCut Filter, 12 dB /Oct, from 20 kHz to 10 Hz\n• Gate with threshold up to 0 dB for production purposes\n• Input Gain up to +18 dB\n• Lo Cut Filter : Flat, 75 Hz, 150 Hz, 300 Hz\n• 36 user presets\n• MIDI input: BOUM responds to CCs, Pgm Change, Note\n• Nice and simple user interface via 16 white LEDs\n• Rugged steel enclosure\n• Neutrik® jack connectors\n• Power supply included",
+    "hrid": "oto-machines-boum"
+}

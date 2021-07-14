@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17128",
+    "name": "Termofuzz",
+    "image": "images/shift-line-termofuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$165 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Name: Termofuzz\nType: Fuzz\nInstruments: Originally designed for guitar, but will work great with any other signal source\nShort description: One of the best fuzz pedals for an outstanding experimental sound. Termofuzz offers an enormous sound palette, ranging from break-up crunch to super hi-gain fuzz tones, octafuzz, gated fuzz, self-oscillation and anything you can ever imagine.\nFeatures:\nExtremely wide variety of sounds. 50 years of fuzz in one pedal!\n8-bit sound? Sure!\nAll analog circuit\nClickless relay true bypass\n\nControls:\nKnob Level — the pedal’s master volume\nKnob Dirt — turn this knob to get self-oscillation, random octaves, 8-bit sounds and noises\nKnob Gain — the amount of distortion\nKnob Mode — use this knob to smoothly transition between low-gain, gated, octave and hi-gain modes. The Mode control interacts with the Gain and Dirt knobs.\nSwitch Harm — the amount of high-frequency harmonics.\nYou guitar volume — yes, it makes a lot sense! Simply twist it to get new sounds.\n\nNotes:\nThe Mode knob has no fixed positions; it changes the sound smoothy. In fact, the pedal’s behaviour is controlled by a combination of 3 controls – Gain, Dirt and Mode. The resulting sound is determined by the relative positions of those knobs. The Mode knob can do wonders! It changes the sonic character of the Termofuzz from low gain to super high gain, going through up and down octaves, arpeggios and gate effects.\nThe Harm switch selects the amount of high-frequency harmonics in the output signal. This switch has no effect if the Mode knob is turned fully clockwise or counterclockwise.\n\nDimensions (without knobs): 111х60х30 mm (4.3x2.4x1.2”).\nWeight: 0.5 lbs\nPower supply: 9V regulated center negative power adapter or 9V battery. Power consumption: 25 mA. \nhttp://shift-line.com/",
+    "hrid": "shift-line-termofuzz"
+}

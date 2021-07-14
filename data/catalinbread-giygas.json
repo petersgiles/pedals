@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28127",
+    "name": "Giygas",
+    "image": "images/catalinbread-giygas.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "18 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "FuzzFeaturing a plethora of useful options, the Giygas gives you everything you’ve ever wanted in a fuzz box, along with some stuff you never knew you wanted (but deep down, you totally knew).  The core of the fuzz circuit is brawny and fierce, yet with plenty of violin-like sustain and articulation on tap, and the entire thing is wrapped in a clean blend circuit. From there, the fuzz gets catapulted into a gyrator-based mids boost, and then into a tilt EQ circuit. With the blend rolled all the way back, you can use just the powerful high-headroom EQ to sculpt your clean tone. A horde of options await you under the hood, ones that will make our four-stringed friends extremely happy.\nhttps://catalinbread.com/products/giygas",
+    "hrid": "catalinbread-giygas"
+}

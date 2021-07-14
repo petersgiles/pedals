@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30749",
+    "name": "Pulsar 23",
+    "image": "images/soma-laboratory-pulsar-23.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "SOMA Laboratory",
+    "current": "300 mA / 12 V / AC/DC / Positive Center",
+    "cost": "$2,099 Price in €",
+    "width": 380,
+    "height": 280,
+    "details": "Organismic drum machinePULSAR-23 is an organismic drum machine designed by Vlad Kreimer. It has a semi-modular structure and consists of 23 independent modules. PULSAR can be used for the synthesis of percussion instruments and rhythms, bass and melodic lines, effects and sound landscapes, as well as a source of control voltage and powerful analog FX processor.\nThe PULSAR functions in three different modes: stand-alone, MIDI control and CV control. Moreover, all the above features and control modes can work simultaneously in any proportion or combination.\nAdditionally, PULSAR offers live circuit bending capabilities and the use of the artist’s body conductivity to create patches and cross modulations. PULSAR continues the line of organismic synthesizers begun by LYRA-8, but now in the area of percussion instruments.\n– 4 drum channels: Bass drum, Bass\\Percussion, Snare drum, Cymbals\\Hi-Hat\n– 4 envelope generators with the unique ability to generate a sustain for the drum channels, turning them into noise\\drone synthesizers. – 4 independent loop recorders with the option for individual clocking. They record triggering events, not audio.\n– Clock generator with an array of dividers as a very powerful tool for rhythm synthesis.\n– Wide range LFO (0.1 – 5000Hz) with variable waveform.\n– Shaos – a unique pseudo-random generator based on shift registers with 4 independent outputs, sample and hold and other cool features.\n– FX processor with CV control incl. CV control of the entire DSP’s sample rate.\n– Distortion.\n– 2 CV-controlled gates.\n– 2 CV-controlled VCAs.\n– 2 controllable inverters.\nAlso, it has MIDI control and synchronization and a lot of smaller modules such as 4 assignable attenuators and 2 dynamic CV sensors for CV generation etc. In general, there are 55 knobs, 11 switches and over 100 inputs and outputs for patching, Eurorack integration, external mixing and processing, live circuit bending!\nIt comes in a special HQ bag with 30 alligator clips cables and PSU.\nPULSAR available in orange, black and white colours.\nhttps://somasynths.com/pulsar-23/",
+    "hrid": "soma-laboratory-pulsar-23"
+}

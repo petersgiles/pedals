@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11613",
+    "name": "Mobius",
+    "image": "images/strymon-mobius.jpg",
+    "function": [
+        "Multieffect",
+        "Chorus",
+        "Dual/Stereo",
+        "Flanger",
+        "MIDI"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$449 Price in €",
+    "width": 171,
+    "height": 130,
+    "details": "Multidimensional modulation effects pedal",
+    "hrid": "strymon-mobius"
+}

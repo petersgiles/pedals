@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17271",
+    "name": "PHASE",
+    "image": "images/malekko-heavy-industry-phase.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 8 V / DC / Negative Center",
+    "cost": "$119 Price in €",
+    "width": 64,
+    "height": 90,
+    "details": "OMICRON SERIES ANALOG PHASE SHIFT PEDALWe redesigned the pedal inside and out, and the result is a luscious phase of unsurpassed richness! Frequency is now one of the main knobs and color adjustment is inside the pedal. The frequency pot range has been massaged to allow more low end which means a thick, lovely phase sound. \nhttps://malekkoheavyindustry.com/product/phase-2/",
+    "hrid": "malekko-heavy-industry-phase"
+}

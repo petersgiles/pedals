@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13849",
+    "name": "Envelope",
+    "image": "images/mooer-envelope.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$62 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Analog Envelope Filter/Auto WahEnvelope\nThe 'Envelope' from MOOER is a pocket sized 'envelope filter'/'dynamic auto wah' pedal with big tone and lots of versatility.The sensitivity control allows you to dial in the effect to respond to the dynamics of your playing and the pickups of any instrument in the way you want it to.Exaggerated slap back funk, subtle sultry abience, static frequency filter effects and many more are all easily obtainable with this little pedal.The 100% analog circuit provides a lush warm sound and the wide range of the controls make the Envelope from MOOER ideal for use with both guitar and bass.\nhttp://www.mooeraudio.com/?product/201609229281.html",
+    "hrid": "mooer-envelope"
+}

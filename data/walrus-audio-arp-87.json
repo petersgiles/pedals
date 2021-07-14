@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12835",
+    "name": "ARP-87",
+    "image": "images/walrus-audio-arp-87.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Multi-function delayThe ARP-87 comes in a Frosted Charcoal finish with cream and seafoam ink featuring original artwork by Chris Castro of a lone ship traveling through the ARP-87 Galaxies. \nThe diecast enclosure’s exact size is 4.77\" x 2.6\" x 1.39\". Power requirements are 9VDC (100mA minimum).\nThe use of an isolated power supply is recommended for powering all Walrus Audio Pedals. Daisy chain power supplies are not recommended.",
+    "hrid": "walrus-audio-arp-87"
+}

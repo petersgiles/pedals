@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13376",
+    "name": "Semaphore",
+    "image": "images/catalinbread-semaphore.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 63,
+    "height": 114,
+    "details": "TremoloThe Semaphore Tremolo Delivers classic tremolo sounds from the smooth and buttery coaxing of vintage \"harmonic vibrato\" to more modern aggressive hard chop \"repeat percussion\". There are of course plenty of nontraditional trem-based sounds too - pulses, swells, blips, & surf amplitude modulation can all be found inside. It wouldn’t be a Catalinbread pedal if it didn’t do some weird stuff too, right?\nThe Semaphore doesn't color your tone, what you put in is what comes out — and since it is analog there is none of the sterile, fake digital clang you get from the \"competition\". Useful, intuitive features with clear benefits — that is what this pedal is all about. We kept it simple and easy to use with a minimum of tweaking required to find what you’re looking for. \nThe Semaphore runs off a 9v battery or any good quality 9v/200mA/center-negative tip power supply. It can also be run at 18 volts for increased headroom if desired.\nVolume governs the output — you can dial it in for a volume boost to stand out in the mix or cut it for more subtle passages.\nRate determines the speed — from narcoleptically slow to Ring Mod fast. The Slow/Fast switch works with the Rate knob to fine tune and extend the overall range.\nDepth mixes the tremolo effect with the uneffected sound — light and shimmery to deep and cavernous.\nThe Shape knob in conjunction with the Triangle/Square switch adjusts the wave shape from swell, to triangle, to surf in Triangle mode and from pulse, to square, to blip and any duty cycle in between in Square mode.\nhttp://www.catalinbread.com/SEMmanual.pdf",
+    "hrid": "catalinbread-semaphore"
+}

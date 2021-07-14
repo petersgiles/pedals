@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12365",
+    "name": "Tone Workstation",
+    "image": "images/keeley-tone-workstation.jpg",
+    "function": [
+        "Distortion",
+        "Dynamics"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 120,
+    "height": 99,
+    "details": "3-in-1 compression/boost/drive pedal\nhttps://robertkeeley.com/product/tone-workstation",
+    "hrid": "keeley-tone-workstation"
+}

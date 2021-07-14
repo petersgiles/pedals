@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11433",
+    "name": "El Capistan",
+    "image": "images/strymon-el-capistan.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Delay\nThree tape machines in one: Fixed (one fixed playback head), Multi (multiple playback heads), and Single (sliding record head)\nEach tape machine has three modes\nFive tape adjustment and tone shaping knobs: Time, Mix, Tape Age, Repeats, Wow & Flutter\nFive “hidden” knobs for extensive tone tweaking: Tape Crinkle, Tape Bias, Low End Contour, Spring Reverb, +/- 3dB Boost/Cut\nSound on Sound mode with instant tape splice and bulk erase. A built-in tape-style looper.\nWith Time control, Mix control, Tape control, Repeat control, Wow and Flutter control, Tap tempo and Bypass Switch.\n24 Bit / 96 kHz digital converters with 115 dB SNR.\nStereo output\nHigh impedance mono input (internal jumper enables selectable TRS stereo input)\nExpression pedal input with selectable control over any knob parameter\nConnect an optional Favorite switch to save a favorite preset\nTap Tempo and Bypass footswitches\nTrue Bypass (electromechanical relay switching)\nSelectable Trails Mode with Analog Buffered Bypass\n9V center negative DC, 250mA current draw\n\nhttp://www.strymon.net/elcapistan/",
+    "hrid": "strymon-el-capistan"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30496",
+    "name": "Time Shadows",
+    "image": "images/earthquaker-devices-time-shadows.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Filter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "68 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Subharmonic Multi-Delay ResonatorLimited to 1,000 units worldwide.\nThe latest EarthQuaker Device actually is the same as the latest Death By Audio device. This new pedal is a joint collaboration that brings their sonic soundscape trips to your melted mind.\nWith the switch to the left, Time Shadows’ controls are completely the brain child of EarthQuaker Devices resident genius, Jamie Stillman. Flip the switch to the right and you enter the head of the madman Oliver Ackermann from Death By Audio barely clutching to reality.\nhttps://www.earthquakerdevices.com/time-shadows",
+    "hrid": "earthquaker-devices-time-shadows"
+}

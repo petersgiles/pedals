@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28737",
+    "name": "Cryin' wah CB-01",
+    "image": "images/onerr-cryin'-wah-cb-01.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Onerr",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 86,
+    "height": 204,
+    "details": "",
+    "hrid": "onerr-cryin'-wah-cb-01"
+}

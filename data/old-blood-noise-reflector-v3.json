@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21290",
+    "name": "Reflector V3",
+    "image": "images/old-blood-noise-reflector-v3.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "ChorusAn update on the popular modulation noisemaker pedal.  Reflector V3 is a densely lush chorus coupled with three modes of modulation. This is a chorus with a bent, an ephemeral voice floating between aural dimensions.\nControls include Rate and Depth for the Chorus/Flanger/Vibrato speed, Mix for a balance between unaffected and affected signal and Modulate to add Pitch selection, Reverb wash amount or Flanger depth, depending on the mode.  A three-way toggle switch allows the player to choose between Wrinkle Mode (A Vibrato-esque warble chorus with the added option of pitch selection, meaning the Modulate knob goes from one octave down to one octave up, with noon being close to pitch unity), Washed Mode (a simple lush chorus, Modulate control adds in a wash of Reverb pre Chorus effect) or Mirrors Mode (Detuned Chorus meets Flanger in which the Modulate knob controls the depth of the Flanger, while Rate corresponds to both the Flanger speed and the detuned Chorus speed).\nThe Reflector V3 features an expression out jack and clickless switching.  The output level can be tweaked via an internal trimpot for boost, slight drop, or unity gain.\n9VDC - 2.1mm negative center pin adapter.\n60 mA draw.\nhttps://www.oldbloodnoise.com/pedals/reflector-v3",
+    "hrid": "old-blood-noise-reflector-v3"
+}

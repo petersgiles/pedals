@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16828",
+    "name": "WHE301B Fat Sandwich",
+    "image": "images/way-huge-whe301b-fat-sandwich.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / 9 V / DC",
+    "cost": "",
+    "width": 108,
+    "height": 83,
+    "details": "DistortionA distortion that gives you tons of headroom, sustain and of course, fat tone.\nThe Fat Sandwich represents a new era in pedal design for Way Huge. In addition to carrying on the Way Huge tradition of amazing tone, rugged construction and cool names, the Fat Sandwich delivers heaps of crunchy distortion goodness via its innovative multi-stage clipping circuit. Meticulously designed from the ground up, the passive tone stack was tuned to bring out the sweet spot with any guitar and amp combination. The Volume control produces tons of output, making it ideal for driving the headroom out of the most powerful tube amps. Additionally, the Fat Sandwich has two internal mini controls: the Curve knob lets the user fine-tune the corner frequency of the overdrive filtering and the Sustain control adjusts the gain of the final distortion stage. The Fat Sandwich is versatile and over the top”the consummate distortion pedal for any genre or playing style.",
+    "hrid": "way-huge-whe301b-fat-sandwich"
+}

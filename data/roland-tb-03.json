@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31644",
+    "name": "TB-03",
+    "image": "images/roland-tb-03.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "500 mA / 9 V / DC",
+    "cost": "$389 Price in €",
+    "width": 308,
+    "height": 130,
+    "details": "Direct descendant of the famous TB-303 Bass Line SynthThe battery-powered TB-03 is a direct descendant of the famous TB-303 Bass Line Synth. The layout and controls are unchanged, so it works just like the original. It sounds like it too, thanks to Roland’s advanced ACB technology that recreates the hypnotic liquid grooves of the magic silver box. But the new TB-03 goes even further, with several enhancements not found on the original model. The four-digit LED display makes programming easier and more accurate, while overdrive and delay effects let you unleash a twisted, tribal wall of sound to send the crowd into a frenzy. Back in the studio, the TB-03 can send control information via MIDI or its USB port, the latter of which also functions as a audio interface.\nRealistic recreation of the iconic TB-303 Bass Line synth\nRetains the sound, character, and user interface of the original TB-303\nHands-on control over expressive parameters, including cutoff, resonance, envelope mod, decay, and accent\nNew features not found on the original TB-303, including four-digit LED display, overdrive and delay effects, MIDI, fine tempo control, and additional functions for pattern creation\nProgrammable via classic Pitch, Time, and Step write modes\nContinue playing a sequence even while switching between write and play modes\nCV/Gate outputs for controlling vintage analog gear and modular synthesizers\nDedicated trigger input to drive the internal sequencer\nHighly portable for mobile music making\nHigh-quality construction with metal front panel\nBattery-operated (4 x AA) or USB powered\nControl information can be sent and received via MIDI and USB\nBuilt-in powered mini-speaker for instant enjoyment\nCompatible with optional K-25m Keyboard Unit\nhttps://www.roland.com/us/products/tb-03/",
+    "hrid": "roland-tb-03"
+}

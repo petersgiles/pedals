@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15014",
+    "name": "Sun Lion",
+    "image": "images/analogman-sun-lion.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 121,
+    "height": 95,
+    "details": "Fuzz + Boost\nhttps://www.buyanalogman.com/Analog_Man_Sun_Lion_Fuzz_Booster_Pedal_p/am-sun-lions.htm",
+    "hrid": "analogman-sun-lion"
+}

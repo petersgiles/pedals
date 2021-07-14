@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12053",
+    "name": "TU-3",
+    "image": "images/boss-tu-3.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$84 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "TunerThe TU-3 features a smooth 21-segment LED meter with a High-Brightness mode that cuts through the harshest outdoor glare. Choose between Chromatic or Guitar/Bass tuning modes, and enjoy visual pinpoint tuning verification with the Accu-Pitch Sign function. The TU-3 incorporates a convenient Note Name Indicator that can display notes of 7-string guitars and 6-string basses, while the Flat-Tuning mode can support up to six half-steps.\nTuning Range:     C0 (16.35Hz)–C8 (4186Hz)\nReference Pitch:    A4=436–445 Hz (1Hz step)\nTuning Accuracy:    ±1 cent\nhttps://www.boss.info/global/products/tu-3/",
+    "hrid": "boss-tu-3"
+}

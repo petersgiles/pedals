@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11580",
+    "name": "FS-5U",
+    "image": "images/boss-fs-5u.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$29 Price in €",
+    "width": 96,
+    "height": 90,
+    "details": "Non-Latching FootswitchRoland/BOSS offers two types of sturdy metal footswitches for different applications. The FS-5U (silver) is a momentary \"unlatch\"-type footswitch, and the FS-5L (black) is a latch-type footswitch with an LED to indicate status. Both footswitches can be connected using ordinary guitar cables. Please consult your owner's manual for compatibility.\nhttps://www.boss.info/us/products/fs-5u_5l/",
+    "hrid": "boss-fs-5u"
+}

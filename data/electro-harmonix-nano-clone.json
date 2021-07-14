@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26202",
+    "name": "Nano Clone",
+    "image": "images/electro-harmonix-nano-clone.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Nano version of Small Clone chorusThe heritage of classic Electro-Harmonix Small Clone chorus comes full circle in an economy version. Chorusing is an effect that bends the frequency of the input signal and blends it with the original sound, creating a shimmering doubling effect.\nhttps://www.ehx.com/products/nano-clone",
+    "hrid": "electro-harmonix-nano-clone"
+}

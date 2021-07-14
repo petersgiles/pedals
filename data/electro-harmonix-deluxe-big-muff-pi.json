@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15321",
+    "name": "Deluxe Big Muff Pi",
+    "image": "images/electro-harmonix-deluxe-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$151 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "FuzzLong revered for its sweet singing tone and violin-like sustain, the classic three-knob Big Muff Pi has helped define the sound of rock guitar for over 40 years. Now, we’ve added some extras for those who crave more sound shaping control. Introducing the Deluxe Big Muff Pi. It delivers all the classic sounds of the original NYC Big Muff Pi, plus more.\n\nFoot-switchable MIDS Section helps you cut through when recording or playing live\nMIDS section features four controls so you can fine tune your midrange boost or cut\nNoise gate with adjustable Gate control eliminates noise and hum while preserving your attack and original tone\nAdjustable Attack control adds punch to your single notes and chords\nSwitchable Bass Boost for added bottom when you want it\nExpression Pedal input lets you sweep the mids in real time\nTrue bypass for maximum signal path integrity\n\nhttps://www.ehx.com/products/deluxe-big-muff-pi",
+    "hrid": "electro-harmonix-deluxe-big-muff-pi"
+}

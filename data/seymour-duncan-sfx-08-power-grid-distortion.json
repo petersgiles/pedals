@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22954",
+    "name": "SFX-08 Power Grid Distortion",
+    "image": "images/seymour-duncan-sfx-08-power-grid-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "5 mA / 9 V / DC / Positive Center",
+    "cost": "$90 Price in €",
+    "width": 127,
+    "height": 127,
+    "details": "The Seymour Duncan SFX-08 Power Grid Distortion Pedal is a high-gain, solid state distortion stompbox capable of myriad toneanks to a 3-band active EQ section. The Power Grid is a perfect distortion pedal for all genres of rock.\nAs a guitarist, when you need power, it's generally because you want to lay down chunky rhythms or you need to bust out a blazing solo. Enter the Seymour Duncan Power Grid, designed to provide powerful overdrive and distortion, The Duncan Power Grid is a guitar pedal suitable for rhythm and lead playing, thanks to 5 stages of class-A discrete circuitry cascaded to provide nearly 100dB of gain. Now that's power.\nBut the Seymour Duncan Power Grid is not an untamed beast. All this raw horsepower is managed by a multi-element gain and volume control system that gives you fine control. For example, if you crank the gain, you'll get a very thick, saturated \"Modded British\" distortion, reminiscent of the big guitar sounds that defined metal. But if you back the gain off, you'll get a very responsive \"crunch\" distortion similar to the Rhythm Channel on the Seymour Duncan SFX-03 Twin Tube Classic. And in between there are varying levels of overdrive and distortion to fit your ideal sound.\nWith the Power Grid distortion effect, your tone is further refined thanks to a three bands of active EQ. Each band allows for up to 12dB of boost or cut at frequencies selected for maximum control of the electric guitar. This allows you to create tones with a far greater degree of surgical precision than what's possible with any distortion pedal with passive EQ. With all the power and control built into the Seymour Duncan SFX-08 Power Grid, it could just be the last distortion pedal you ever buy.",
+    "hrid": "seymour-duncan-sfx-08-power-grid-distortion"
+}

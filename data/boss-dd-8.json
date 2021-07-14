@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24281",
+    "name": "DD-8",
+    "image": "images/boss-dd-8.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 80,
+    "height": 87,
+    "details": "Digital DelayEleven versatile modes include basic digital delay, vintage echoes, shimmer, mod, looper, and more\nLooper offers up to 40 seconds of recording time, overdub capability, and three-pedal operation with external footswitches\nThree newly developed delay types: Warm, +RV (delay+reverb), and GLT (rhythmic delay)\nUp to 10 seconds of delay time available with tap tempo input\nCarryover switch sets whether delay trails continue or stop when the effect is bypassed\nTrue stereo I/O and three selectable output modes (independent, panning, and wide stereo)\nSmart I/O jacks support a variety of connection setups (mono, stereo, wet/dry, wet only, and more)\nSupport for external control with two footswitches or an expression pedal\nUnique Twist function available in each delay mode via an external footswitch\nBOSS five-year warranty\nhttps://www.boss.info/global/products/dd-8/",
+    "hrid": "boss-dd-8"
+}

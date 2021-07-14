@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19128",
+    "name": "Tri Mod Flnger",
+    "image": "images/source-audio-tri-mod-flnger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 102,
+    "height": 184,
+    "details": "https://www.sourceaudio.net/",
+    "hrid": "source-audio-tri-mod-flnger"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32987",
+    "name": "Flash Stutter",
+    "image": "images/idiotbox-effects-flash-stutter.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Chop chop chopThe Flash Stutter is the Mad Doctor’s smaller, faster little brother. All the great ON/OFF switching of the MD, but stripped down to just the basics. One -RATE control set to a constant 40% ON, 60% OFF ratio that goes from fast to too fast!\nWith the Flash Stutter's momentary switch you can get that killer quick burst kill switch effect you've always dreamed about without draining your wallet or taking up too much space on your pedal board!\nhttps://www.idiotboxeffects.com/product/flash-stutter",
+    "hrid": "idiotbox-effects-flash-stutter"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17647",
+    "name": "Graphic G",
+    "image": "images/mooer-graphic-g.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 110,
+    "details": "Smallest guitar graphic equalizer pedal in the world\n5-Band Graphic EQ with master level control\n+/- 18 dB adjustable gain range per band\nFull small and exquisite metal shell\nTrue bypass",
+    "hrid": "mooer-graphic-g"
+}

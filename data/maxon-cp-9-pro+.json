@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11628",
+    "name": "CP-9 Pro+",
+    "image": "images/maxon-cp-9-pro+.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$196 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Compressor",
+    "hrid": "maxon-cp-9-pro+"
+}

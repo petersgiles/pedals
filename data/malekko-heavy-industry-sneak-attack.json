@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14093",
+    "name": "SNEAK ATTACK",
+    "image": "images/malekko-heavy-industry-sneak-attack.jpg",
+    "function": [
+        "Utility",
+        "Volume",
+        "Tremolo"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 63,
+    "height": 139,
+    "details": "Attack/Decay and TremoloSneak Attack is an auto-swell volume pedal that can also be manually triggered or used in a tremolo mode. The core of the pedal is an Attack/Decay envelope generator with separate length and curve controls for both the attack and decay segments. The envelope can be triggered or cycled in several ways using the input signal, built in footswitch, Lil’ Buddy footswitch or external clock/click track.\nhttps://malekkoheavyindustry.com/content/uploads/2016/05/Malekko-SneakAttack-manual-v1-sm4.pdf",
+    "hrid": "malekko-heavy-industry-sneak-attack"
+}

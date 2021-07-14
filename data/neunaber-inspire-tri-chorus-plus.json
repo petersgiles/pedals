@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32871",
+    "name": "Inspire Tri-Chorus Plus",
+    "image": "images/neunaber-inspire-tri-chorus-plus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "95 mA / 9 V / DC / Negative Center",
+    "cost": "$239 Price in €",
+    "width": 73,
+    "height": 117,
+    "details": "Inspire’s newly-designed circuitry offers increased headroom while maintaining low noise. A numerically-optimized analog mix control results in unity-gain dry/wet blend throughout the range, from 100% dry to 100% effect.\nTri — the classic rack chorus effect\n    Hex — two tri-choruses paralleled for an ultra-dense effect\n    Tri2 Tone (Cascade Tone) — two tri-choruses in series create a rich, lush effect\n    Tri2 Vibe (Cascade Vibe) — tri-chorus and tri-vibrato in series makes for a complex sound\n    Hi/Lo Vibe (Harmonic Vibe) — Low-frequency tri-chorus and high-frequency tri-vibrato, a more subtle effect that works well with overdrive\n    Hi/Lo Detune (Harmonic Detune) — low-frequency detune and high-frequency tri-chorus, even more subtle and sounds great with heavy distortion\n    +Detune — tri-chorus+detune for that ultimate rack chorus tone\n    +Echo — tri-chorus+echo is a classic combo\nhttps://neunaber.net/products/inspire-tri-chorus-ng",
+    "hrid": "neunaber-inspire-tri-chorus-plus"
+}

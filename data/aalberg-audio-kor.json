@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13510",
+    "name": "KOR",
+    "image": "images/aalberg-audio-kor.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Aalberg Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 89,
+    "height": 141,
+    "details": "Stereo chorus/flangerKOR KO-1 is a high quality stereo in/out combined Chorus and Flanger stompbox.  The pedal gives the player different mono and stereo configurations including a dry/wet split and stereo panning from left to right, giving a more spacious feel to the Chorus or Flanger effect.\nhttp://aalbergaudio.com/products/kor/",
+    "hrid": "aalberg-audio-kor"
+}

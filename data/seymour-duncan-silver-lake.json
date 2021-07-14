@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23761",
+    "name": "Silver Lake",
+    "image": "images/seymour-duncan-silver-lake.jpg",
+    "function": [
+        "Digital",
+        "MIDI",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / DC",
+    "cost": "$349 Price in €",
+    "width": 142,
+    "height": 130,
+    "details": "Programable Dynamic ReverbSummary\nSilver Lake is a fully programmable reverb workstation, combining high quality reverb algorithms with unique dynamic control and powerful tone shaping options for a deep sonic experience – whether you need subtle sounds or a wash of massive ambience.\nDescription\nThe Silver Lake™ Dynamic Reverb is a powerhouse reverb workstation. The foundation is a collection of eight beautifully crafted reverb algorithms, a powerful set of tone shaping options and our proprietary Dynamic Expression control.\nIf you’re looking for classic Room, vintage Spring sounds, or massive Plates and Halls, Silver Lake has you covered. In addition, Silver Lake offers special effect modes like Shimmer, Swell, Gated and Delay/Verb allowing you to go above and beyond traditional effects.\nOnce you select your reverb type, you can further modify it with the Damp knob (to darken the tone of the reverb), the Grit control (to add some saturation for lo-fi and shoegaze sounds) and the Tweak knob (for gorgeous chorus or vibrato on the echoed signal, as well as Lo Pass and Hi Pass Filters).\nDynamic Expression™ allows you to control how Silver Lake reacts, in real time, with your picking attack. That means you can alter settings for Mix, Modulation or Damping on the fly, just by how you play. For instance, by selecting Mix, you can set Silver Lake for a subtle reverb sound when you play normally that will bloom into massive soundscapes when you play softly, or vice versa. Depending on how you set the various controls, picking hard or picking soft will produce infinite variations on the sounds. It’s interactive, intuitive and—most importantly—always musical.\nEverything you need to create your reverb tone is right on the front panel, so no scrolling through menus or external programming is required. Twist a knob, change the sound—it’s that simple. Silver Lake provides the immediate response that we associate with classic guitar gear in a deep, modern effect.\nBecause Silver Lake is capable of so many great sounds, we made it fully programmable. When you create a unique reverb patch, you can easily save it and recall it in an instant, either with the onboard buttons or via MIDI. And with 128 presets as well as MIDI In and Through, Silver Lake can be fully integrated into any rig for any level of performance.\nSilver Lake features stereo ins and outs, making it compatible with a wide array of live and studio applications and facilitating huge, expansive stereo imaging, powered by a 24-bit/48kHz digital engine. Silver Lake also comes with a micro-USB port so it can connect to our Updater/Librarian software. This will allow you to download firmware updates, name and save your favorite presets to your computer, trade patches with fellow users and more. Finally, the bright alpha-numeric readout on the front makes it easy to see what patch is loaded, whether on a dim stage or in bright sunlight.\nhttps://www.seymourduncan.com/pedal/silver-lake",
+    "hrid": "seymour-duncan-silver-lake"
+}

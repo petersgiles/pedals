@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12571",
+    "name": "Hotcake",
+    "image": "images/crowther-audio-hotcake.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Crowther Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "OverdriveInitial one made in 1976, while I was in the UK with Split Enz. The Hotcake is designed to leave the undistorted component of the guitar sound unchanged, while providing a nice fat distortion sound without resorting to a treble cut circuit which will also affect the guitar tonality.   With the Drive and Presence controls set to minimum, and the Level at around 2 o’clock, you should be hard pressed to hear any change in the sound at all when you switch the Hotcake in and out.   You can get a clean volume boost by increasing the Level control. Increasing the Drive will give you a thick distortion sound with a little bit of edge to it, and the Presence control adds some mid-range punch to the sounds.  The Hotcake also handles chords well.\nNote: Since 2008, The Hotcake has included a jumper switch system. This system allows the user to change the setting to The Hotcake Bluesberry specification. Using the same jumper switch system you have a Bass Accentuation facility. We advise the user that the settings should not be altered on a regular basis – the jumper switch system is in place to allow the user to fix a setting and is not intended as a constant switching option.\nIt is recommended that the Hotcake is patched between the guitar and amplifier, rather than into an amplifier’s effect loop.  Generally speaking, if you are happy with your guitar and amplifier combination, the Hotcake will work well as a primary distortion.\nTech Specs:\nInput impedance: 1 Megohm. (equivalent to a typical valve amplifier. )\nOutput impedance: less than 13k Ohm\nRecommended minimum output load impedance: 100k Ohm.\nBypass type: Circuit converts into a high quality buffer with simple, quiet, seamless switching, using gold plated contacts.\nPhase polarity: Non inverting.\nContinuous current consumption approx. 3.5 mA (LED on)\nExternal power supply socket. 9-12VDC, 2.1mm, pin negative. Compatible with most popular AC adapters.\nIf more than one pedal is powered from the same adapter, a regulated type should be used to minimise “hum” (100/120hz) which can be caused by circulating ripple currents.\nhttp://www.crowtheraudio.net/products/hotcake/",
+    "hrid": "crowther-audio-hotcake"
+}

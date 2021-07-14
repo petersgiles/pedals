@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12026",
+    "name": "PDS 8000 Echo Plus",
+    "image": "images/digitech-pds-8000-echo-plus.jpg",
+    "function": [
+        "Delay",
+        "Sampling",
+        "Looper"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 152,
+    "height": 127,
+    "details": "Echo Plus 8 Sec Digital Delay/Sampler",
+    "hrid": "digitech-pds-8000-echo-plus"
+}

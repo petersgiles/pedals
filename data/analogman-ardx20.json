@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13324",
+    "name": "ARDX20",
+    "image": "images/analogman-ardx20.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$265 Price in €",
+    "width": 117,
+    "height": 140,
+    "details": "Dual Analog DelayThe Analog Man ARDX20 Analog Delay pedal is a 100% handmade analog BBD chip delay. It has two channels, each with independent delay time, feedback, and level controls. Also has effects loop, delay time expression control jack, and hi-cut switch. \nhttp://www.buyanalogman.com/Analog_Man_ARDX20_Dual_Analog_Delay_p/am-ardx20.htm",
+    "hrid": "analogman-ardx20"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17268",
+    "name": "FXL8 Pro",
+    "image": "images/harley-benton-fxl8-pro.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$207 Price in €",
+    "width": 541,
+    "height": 53,
+    "details": "Switcher",
+    "hrid": "harley-benton-fxl8-pro"
+}

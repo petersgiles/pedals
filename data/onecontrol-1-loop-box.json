@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20698",
+    "name": "1 Loop Box",
+    "image": "images/onecontrol-1-loop-box.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$47 Price in €",
+    "width": 54,
+    "height": 101,
+    "details": "Passive Switchable Loop PedalThe One Control 1 Loop Box was created to be the smallest 1 loop switcher possible. By using an array of PCB, One Control was able to become the first manufacture in the world to create this small of a looper using PCB. Painstaking effort was put into this design to be able to create such a small designed PCB board that would fit into the 1 Loop’s compact case. In addition to the small size, the PCB design has created a much more durable product than current competitors on the market. \nSummary\nPassive Switchable Loop Pedal\nMultiple effects can be routed to the effects send of an amp and quickly bypassed with one step.\nA great solution for bypassing vintage effects while they are not in use, which often have a buffer that can get in the way of your signal chain.\nDifferent Uses:\nAB Switch: INPUT, SEND and OUTPUT\nInstrument/Input Selector: INPUT, RETURN and OUTPUT\nMute Switch: INPUT and OUTPUT\nCan be used without DC Power, however the LEDs will not function. \nRecommended power supply is the EPA-2000, not included. \nThe 1 Loop Box has many different uses. When then 1 Loop is bypassed the input signal will go directly out of the output jack but, when the pedal is activated the input signal will come out of the send, and the signal that goes into the return will come out of the output jack. \nDifferent Uses - Explained\n​\nAB Box\nIf you use the INPUT, SEND and OUTPUT only, the 1 Loop can also be used as an AB BOX. When you step on the footswitch you are essentially choosing whether the signal comes out of the send or out of the main output. That being said, you can attach whatever you’d like to the SEND and OUTPUT and toggle between the two of them. For example, you can switch between two amps or use the send as a tuner/mute switch. \nInstrument/Input Selector\n*If you only use the INPUT, RETURN and OUTPUT, the 1 Loop Box can also be used as a instrument/input selector. Simply attach one input signal into the INPUT and the second signal into the RETURN. When the pedal is turned on the signal going into the RETURN will be the OUTPUT signal and when the pedal is off, the signal going into the INPUT will be the OUTPUT signal. \nMute Switch\n*If the INPUT and OUTPUT are the only two jacks being used on the 1 Loop, it becomes a mute switch. When the Pedal is bypassed the signal will go directly the OUTPUT. When the pedal is in use, the signal will be muted. \nSize and Portability\n*In order to minimize size the 1 Loop cannot use a battery but because of its passive circuit capabilities it doesn’t need power to operate. Please note LEDs will not function when not connected to a power supply. Recommended power supply is the One Control EPA-2000. \nhttp://www.one-control.com/1-loop-box.html",
+    "hrid": "onecontrol-1-loop-box"
+}

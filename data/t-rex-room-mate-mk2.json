@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23269",
+    "name": "Room-Mate Mk2",
+    "image": "images/t-rex-room-mate-mk2.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "330 mA / 12 V / DC / Negative Center",
+    "cost": "",
+    "width": 100,
+    "height": 120,
+    "details": "Tube reverb\nhttps://www.t-rex-effects.com/room-mate",
+    "hrid": "t-rex-room-mate-mk2"
+}

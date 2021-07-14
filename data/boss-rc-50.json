@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27693",
+    "name": "RC-50",
+    "image": "images/boss-rc-50.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Boss",
+    "current": "450 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 472,
+    "height": 65,
+    "details": "Stereo looperFor those awaiting the arrival of the ultimate looper, the wait is finally over. Introducing the RC-50 — the most feature-laden Loop Station BOSS has ever built. It’s the best live looping tool ever built for that matter. Housed in a spacious seven-footswitch floor unit, the RC-50 lets you manipulate three stereo phrase tracks simultaneously. Each track supports multiple overdubs, so phrases can be stacked one by one on each track, resulting in a monstrous layer of looped phrases.\nThe new industry-leading looping tool for live performance!\n7 footswitches for intuitive control; realtime control of playback speed\nPlay up to 3 stereo phrase tracks simultaneously, all synced to an internal or MIDI clock\nUltra-long recording time (up to 49 min., mono), 99 patches (3 master loops per patch)\nUndo/Redo function for recording and overdubbing\nCenter-cancellation feature, \"flat\" amplifier simulation feature\nStereo input, dual stereo output, XLR phantom-powered mic input, stereo mini-jack Aux input (for recording from an MP3 players, etc.)\nUSB port for data/audio backup, import/export of loops as WAV files\n\nhttps://www.boss.info/us/products/rc-50/",
+    "hrid": "boss-rc-50"
+}

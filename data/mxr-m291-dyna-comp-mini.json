@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12309",
+    "name": "M291 Dyna Comp Mini",
+    "image": "images/mxr-m291-dyna-comp-mini.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "MXR",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 40,
+    "height": 90,
+    "details": "Mini compressorThe Dyna Comp Mini Compressor combines classic tone and modern convenience in a housing that’s nearly half the size of the original, featuring an all-new Attack switch to toggle between slow and fast attack times.\nhttps://www.jimdunlop.com/mxr-dyna-comp-mini-compressor/",
+    "hrid": "mxr-m291-dyna-comp-mini"
+}

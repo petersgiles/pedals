@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12796",
+    "name": "AC-2 Acoustic Simulator",
+    "image": "images/boss-ac-2-acoustic-simulator.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Boss",
+    "current": "18 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Delivers amazing acoustic guitar simulation using a standard electric guitar\n Four acoustic \"modes\" give guitarists distinct acoustic sounds: \"Standard,\" \"Jumbo,\" \"Enhanced\" and \"Piezo\"\n \"Top\" knob adjusts the effect's overall brilliance and harmonics\n \"Body\" adjusts the resonance of the simulated acoustic guitar body\n Individual outputs for effected and un-effected sound allow for the use of separate signal chains and amplifiers\n BOSS 5-year warranty\nhttps://www.boss.info/us/products/ac-2/",
+    "hrid": "boss-ac-2-acoustic-simulator"
+}

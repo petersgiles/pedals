@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12133",
+    "name": "Pitch Pirate",
+    "image": "images/mid-fi-pitch-pirate.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Mid-Fi",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 120,
+    "height": 65,
+    "details": "Chorus/Vibrato with selectable waveformThe Pitch Pirate is a Chorus/Vibrato with selectable waveform, and the ability to modulate over an octave.\nCONTROLS\nBlend\nSpeed\nDepth\nWave\nFEATURES\nTrue Bypass\n9V DC (negative tip)\nhttp://www.midfielectronics.com/pitchpirate",
+    "hrid": "mid-fi-pitch-pirate"
+}

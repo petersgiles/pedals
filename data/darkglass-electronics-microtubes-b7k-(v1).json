@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14639",
+    "name": "Microtubes B7K (V1)",
+    "image": "images/darkglass-electronics-microtubes-b7k-(v1).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$329 Price in €",
+    "width": 110,
+    "height": 125,
+    "details": "",
+    "hrid": "darkglass-electronics-microtubes-b7k-(v1)"
+}

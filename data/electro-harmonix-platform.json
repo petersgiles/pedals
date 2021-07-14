@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13782",
+    "name": "Platform",
+    "image": "images/electro-harmonix-platform.jpg",
+    "function": [
+        "Dynamics",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Stereo Compressor PedalThe PLATFORM is a sophisticated, professional stereo compressor limiter that includes volume swell and tape reverse, plus overdrive. It’s powerful for studio or post production work, yet compact enough to take to a gig!\nhttps://www.ehx.com/products/platform",
+    "hrid": "electro-harmonix-platform"
+}

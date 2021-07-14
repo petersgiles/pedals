@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33027",
+    "name": "AM64",
+    "image": "images/bbe-sound-am64.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "? mA / 9 V / DC",
+    "cost": "$30 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "\"American Metal\" Distortion",
+    "hrid": "bbe-sound-am64"
+}

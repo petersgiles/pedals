@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11795",
+    "name": "385",
+    "image": "images/walrus-audio-385.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$234 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "OVERDRIVE\nhttps://www.walrusaudio.com/collections/pedals/products/385-overdrive-1",
+    "hrid": "walrus-audio-385"
+}

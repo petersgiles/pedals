@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31395",
+    "name": "20/20 Bad Horsie",
+    "image": "images/morley-2020-bad-horsie.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Morley",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 114,
+    "height": 173,
+    "details": "WahOur famous Bad Horsie Wah continues in our now standard pedalboard friendly size. Switchless, Optical and built like a tank.\nMAIN FEATURES & SPECS\n   Two Wah modes: Bad Horsie and Contour Wah.\n    In Contour mode, two knobs adjust the Contour (Tone) and Wah Level.\n    New 20/20 Buffer circuit that prevents signal loss and maintains tone.\n    6.85″ x 4.5″ x 2.5″ (L x W x H)\n    Powered by one 9-volt battery or optional Morley 9V adapter. Compatible with most 9V adapters.\n    MQ2 custom Inductor, LED indication, cold-rolled steel housing, quick clip battery door, glow-in-the-dark treadle grip/toe-end logo.\n    One-year warranty. Lifetime Warranty available with registration.\nhttps://www.morleyproducts.com/2020-bad-horsie-wah/",
+    "hrid": "morley-2020-bad-horsie"
+}

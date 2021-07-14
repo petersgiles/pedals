@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17456",
+    "name": "Bass Blaster BB-2",
+    "image": "images/free-the-tone-bass-blaster-bb-2.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 100,
+    "height": 123,
+    "details": "The pedal creates the fat overdrive sound that most bassists are looking for.The FREE THE TONE BASS BLASTER is an overdrive pedal designed especially for basses. The voltage is boosted internally to ±15Vdc in order to easily be able to control the wide dynamic range of the bass guitar. It has excellent touch response that bassists request, and the sound characteristics are not lost regardless of whether the bass is played with a pick or fingers. The pedal creates the fat overdrive sound that most bassists are looking for. Treble and Bass tone controls are perfectly matched to the characteristics of the bass and provide a wide range of tonal adjustment.\n\nWide dynamic range and powerful expression based on ±15 Vdc internal boosting.\nExcels in the reproducibility of touch every bassist seeks and never loses the bass’ original sound characteristics whether it is played with a pick or fingers.\nDrive sound with presence not buried in nor masked by band sound.\nAstoundingly excellent Signal-to-Noise ratio\nExceptional sound stability by using long-life high reliability components\n\nhttp://www.freethetone.com/en/products/effects/bb2.html",
+    "hrid": "free-the-tone-bass-blaster-bb-2"
+}

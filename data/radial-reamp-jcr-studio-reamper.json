@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11875",
+    "name": "Reamp JCR Studio Reamper",
+    "image": "images/radial-reamp-jcr-studio-reamper.jpg",
+    "function": [
+        "Filter",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "Pedal is passive",
+    "cost": "$200 Price in €",
+    "width": 83,
+    "height": 127,
+    "details": "Passive re-amperThe Reamp® JCR™ is a passive Reamper™ that allows you to take a prerecorded track and send it back to a guitar or bass amplifier and re-record it. The benefits are tremendous: instead of worrying about the sound of the track, you can focus your attention on getting the best musical performance. Once the magic has been captured, you can send the guitarist home and Reamp the track at will as you move the mics around the room, try various amplifiers or introduce effects. Best of all, you can Reamp the track later as the production develops.\nhttp://www.radialeng.com/jcr.php",
+    "hrid": "radial-reamp-jcr-studio-reamper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20918",
+    "name": "Faux Analog Echo Delay",
+    "image": "images/wampler-faux-analog-echo-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Wampler",
+    "current": "29 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 127,
+    "details": "Analog DelayClassic echo with analog warmth\nBased on the industry-leading PT2399 chip\nHigh-grade film capacitors and resistors picked for their superior sound and response\nSparkle Fire orange in color, white knobs/graphics\nFour knobs - Echo Level, Repeats, Tone, and Delay Time - give you total control\nDoesn't mess with your basic guitar tone like so many other delay pedals\nApproximately 600ms of delay time available\nCompletely true bypass\nBattery connection and 9V power jack (barrel plug, adapter optional); power draw: 29mA\nNote: battery not provided - mains power recommended\nHandmade in the U.S.A.",
+    "hrid": "wampler-faux-analog-echo-delay"
+}

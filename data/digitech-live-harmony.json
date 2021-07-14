@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16901",
+    "name": "Live Harmony",
+    "image": "images/digitech-live-harmony.jpg",
+    "function": [
+        "Digital",
+        "Looper",
+        "Reverb",
+        "Tuner"
+    ],
+    "manufacturer": "Digitech",
+    "current": "800 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 201,
+    "height": 234,
+    "details": "Vocal HarmoniserThe Live Harmony instantly adds up to two separate vocal harmonies to your vocals transforming your performances into harmony-filled masterpieces. Just plug a guitar and a microphone into the Vocalist Live Harmony, then start playing and singing — this intelligent effects box takes care of the rest! Using patented musIQ® technology developed by DigiTech, the Live Harmony senses the chords you’re playing on guitar and adds correct natural vocal harmonies to your vocals. As you strum a different chord while you sing a sustained note, you’ll hear the harmonies change behind you — just like a virtual team of backup singers. During the performance, the new Live Adapt™ feature can automatically detect your song's tempo, key, and scale to automatically adjust for the best vocal sound. The Gold Channel allows you to engage the channel strip with the press of a button so you can sound good in an instant. The Anti-Feedback button automatically sets filters to eliminate feedback and help ensure you’re not caught holding the mic while feedback decimates the audience.\nhttps://www.digitech.com/discontinued-products/Live+Harmony-.html?cgid=discontinued-products&dwvar_Live%20Harmony-_color=Red-GLOBAL-Current",
+    "hrid": "digitech-live-harmony"
+}

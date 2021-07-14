@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12086",
+    "name": "AE-1 Ambient Echo TC-21",
+    "image": "images/eno-music-ae-1-ambient-echo-tc-21.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "TC-21\nhttp://www.ex-amp.com/?p=779",
+    "hrid": "eno-music-ae-1-ambient-echo-tc-21"
+}

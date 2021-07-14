@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20680",
+    "name": "Lillian",
+    "image": "images/walrus-audio-lillian.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Analog PhaserDuring WWII, from 1943-1944, over 1,000 women volunteered to fly in the military to help while so many men were away fighting. This program was called W.A.S.P. (Woman Air Force Service Pilots). One specific pilot, Lillian Yonally, inspired Walrus Audio with her story of traversing dangerous skies. From there, the idea of the Lillian Analog Phaser was born.\nThe Walrus Audio Lillian is a true bypass, all analog, multi-stage Phaser drawing control layout inspiration from the Julia. With controls like Rate, Width, Feedback, and D-P-V blend, the Lillian is packed with a wide array of analog phaser goodness waiting to be dialed in. The \"Stages\" switch allows the user to select 4 or 6 stages which alters the overall voice of the effect from warm and tight phasing with 4 stages to a more complex filtered sound with 6. The D-P-V knob lets you blend between dry, phase shifted, and vibrato sounds allowing for a wide range of control over the intensity and type of effect. Top mounted input, output, and power jacks as well as soft switch relay bypassing make the Lillian fit well on your board and ensure smooth operation for years to come.\nThe Lillian comes in Emerald Sky Blue enclosure with artwork created by Cape Town illustrator, Christi du Toit. The die-cast enclosure's exact size is 4.77\" x 2.6\" x 1.39\". Power requirements are 9VDC, center negative (100mA minimum).",
+    "hrid": "walrus-audio-lillian"
+}

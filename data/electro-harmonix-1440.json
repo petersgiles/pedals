@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28636",
+    "name": "1440",
+    "image": "images/electro-harmonix-1440.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 105,
+    "height": 121,
+    "details": "Stereo Looper• 24 minutes of loop recording time.\n• 20 selectable, independent stereo loops that remain in memory until you erase them.\n• High quality, uncompressed audio: 24-bit A/D/A, 44.1kHz sample rate.\n• Undo-Redo function (also available via optional footswitch).\n• Reverse and Octave speed effects at the touch of a button or the press of a footswitch.\n• Footswitch selectable for STOP or Effects: Reverse, Octave or Loop Retrigger.\n• Unlimited overdubbing with adjustable Overdub feedback level.\n• Optional external footswitch control for selecting loops and Undo/Redo.\n• Programmable looping order: REC/PLAY/DUB or REC/DUB/PLAY.\n• Adjustable fadeout time upon stopping a loop.\n• Loop synchronization to external MIDI Clock.\n• Downloadable Mac or Windows application for making easy loop transfers between 1440 and computer.\n• USB connection for loop audio transfers.\nhttps://www.ehx.com/products/1440-stereo-looper",
+    "hrid": "electro-harmonix-1440"
+}

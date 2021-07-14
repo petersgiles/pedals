@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12894",
+    "name": "SG-1 Slow Gear",
+    "image": "images/boss-sg-1-slow-gear.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$450 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The SG-1 filters out the attack of your note, and swells the volume automatically. There are only 2 controls, one for the attack speed, and the other for sensitivity. The attack knob controls the speed of the volume swells. A compressor or overdrive in front of it may be helpful to minimize the variations in your signal level for the SG-1’s response. Used with a delay it sounds sort of like a more articulated E-bow or a passage played backwards.\nThe SG-1 circuit is very similar to the NF-1. The pedal was in fact made using the exact same circuit as the NF-1 but the way it works is completely opposite. With the NF-1, the sound decays away but is cut when it falls below a threshold. With the SG-1, the attack is filtered out and then the sound increases gradually. The Slow Gear is a rather unique effect and the SG-1 has become one of the hardest Boss pedals to get hold of. Expect to pay top money if you find one.\nSpecifications\nControls: Sens, Attack\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 4 mA (DC 9V)\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe SG-1 was sold from May 1979 to February 1982.\nhttp://www.bossarea.com/boss-sg-1-slow-gear/",
+    "hrid": "boss-sg-1-slow-gear"
+}

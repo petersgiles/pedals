@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12106",
+    "name": "Amp Eleven",
+    "image": "images/lovepedal-amp-eleven.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 117,
+    "height": 63,
+    "details": "AMP ELEVEN™,  fat, organic tone of an overdriven tube amp – with separate controls for bass and tone. Additional boost circuit. Kick the boost footswitch and you can instantly pivot from gritty rhythm riffs to screaming leads…or anything in between.\nFEATURES\nSmooth, round, balanced, low-to-medium gain overdrive\nSlight overdrive to mild distortion\nGreat dynamic response and open sound\nIndependent Switching Between Boost Channel And Overdrive Channel\nConnectors: Input, Output, DC adapter\nPower Supply: 9V battery operation or 9V – 18VDC adapter\nhttp://www.lovepedal.com/pedals/amp-eleven/",
+    "hrid": "lovepedal-amp-eleven"
+}

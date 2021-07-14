@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23952",
+    "name": "Skyline Eko",
+    "image": "images/hotone-skyline-eko.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Hotone",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Digital/Analog DelayThe Hotone EKO pedal is a digital delay stompbox with a direct analog signal path that achieves that classic, natural echo tone.\nThe sound is pure, rich, and warm, and you can press the MOD button to get a deeper spacey feeling.\nMaximum delay time is approximately 500ms.\nPure, warm, and natural echo tone--an excellent ambience maker.\nDigital Delay Line assures enough delay time and a pure signal path.\nElaborate analog circuit makes the sound closer to a classic echo tone.\nAdditional MOD push-button gives you even more space!\nhttps://www.hotoneaudio.com/products/skyline/delay/12.html",
+    "hrid": "hotone-skyline-eko"
+}

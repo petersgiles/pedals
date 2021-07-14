@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32840",
+    "name": "UltraTap",
+    "image": "images/eventide-ultratap.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Eventide",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$275 Price in €",
+    "width": 102,
+    "height": 108,
+    "details": "Unique multi-tap effectUltraTap is a unique multi-tap effect pedal capable of rhythmic delays, glitchy reverbs, huge pad-like volume swells, and extraordinary modulation. It’s the perfect tool for staccato leads, swelling chords, and other evolving effects — everything from reversed reverbs to the sound of ripping it up in the Grand Canyon!\nThink of UltraTap as the mother of all Echoplexes and you won’t be too far off. That’s basically how it operates but with the flexibility to add as many ‘tape heads’ as you want and expressively control their positions and levels.\nUltraTap's controls make possible new and unexpected effects. The controls that you would expect in a multi-tap delay pedal—Number of Taps, Delay and Feedback—are just the basics. Controls for Spread, Slurm, and Chop open up a new world of possibilities. \nFeatures\n   Control the stereo image of taps to alternate between hard-panned and mono.\n    Five presets loaded at your feet with dozens more available with Eventide Device Manager (EDM) software.\n    Dual-action Active Footswitch is latching or momentary.\n    Onboard LFOs and envelopes to chop the sound source into stuttered rhythms.\n    Rear panel Guitar/Line Level switch for matching levels of guitars, synths, FX loops, or DAW interface.\n    Map any combination of parameters to an Expression Pedal.\n    Use a single Aux switch to Tap Tempo or a triple Aux switch for easy preset changing (up/down/load).\n    MIDI capability over TRS (use with a MIDI to TRS cable or converter box) or USB.\n    Multiple Bypass options: Buffered, Relay, DSP+FX, or Kill dry.\n    Catch-up mode helps dial in your sound when toggling between presets/parameters.\n    Eventide Device Manager PC or Mac application for software updates, system settings, and creating/saving presets.\nhttps://www.eventideaudio.com/products/stompboxes/tap-delay-pedal/ultratap-pedal",
+    "hrid": "eventide-ultratap"
+}

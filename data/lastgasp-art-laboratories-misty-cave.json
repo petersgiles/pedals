@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13615",
+    "name": "Misty Cave",
+    "image": "images/lastgasp-art-laboratories-misty-cave.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$285 Price in €",
+    "width": 120,
+    "height": 90,
+    "details": "Resonant EchoThe LastGasp Art Laboratories Misty Cave is an effects pedal that creates an analog resonance echo and reverb. It creates a resonant space that is inherently sensitive to the pitch of the input signal. This sound is reminiscent of delay-style feedback oscillation with a natural decay, which maintains the integrity of the input signal even when used with multiple delay pedals. A dedicated D. Time control affords manual control over which note oscillates.\nAdditionally, Misty Cave features a CV jack allowing for the D. Time parameter to be controlled via expression pedal.",
+    "hrid": "lastgasp-art-laboratories-misty-cave"
+}

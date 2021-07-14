@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28982",
+    "name": "AIRA System-1",
+    "image": "images/roland-aira-system-1.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "850 mA / 6 V / DC / Negative Center",
+    "cost": "$549 Price in €",
+    "width": 472,
+    "height": 284,
+    "details": "The System-1 synthesizer takes the classic System 100 synths from the 1970s and builds a modern advanced analog-modeled version of them. \nhttps://www.roland.com/global/products/system-1/",
+    "hrid": "roland-aira-system-1"
+}

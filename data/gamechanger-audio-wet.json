@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17142",
+    "name": "Wet",
+    "image": "images/gamechanger-audio-wet.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Gamechanger Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 58,
+    "height": 66,
+    "details": "https://www.gamechangeraudio.com/pluspedal/",
+    "hrid": "gamechanger-audio-wet"
+}

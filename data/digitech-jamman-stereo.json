@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11404",
+    "name": "JamMan Stereo",
+    "image": "images/digitech-jamman-stereo.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 174,
+    "height": 170,
+    "details": "Effect Pedal\nhttp://digitech.com/en/products/jamman-stereo",
+    "hrid": "digitech-jamman-stereo"
+}

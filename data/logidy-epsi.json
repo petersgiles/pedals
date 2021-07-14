@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11641",
+    "name": "EPSi",
+    "image": "images/logidy-epsi.jpg",
+    "function": [
+        "Reverb",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Logidy",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 114,
+    "details": "Convolution Reverb\nUp to 6 seconds of convolution\nComes with more than 100 sounds\nBest sounding springs, plates and acoustic spaces\nNever heard before FX sounds\nUse your own impulse responses\nSmall rugged stomp box\n\nhttp://www.logidy.com/",
+    "hrid": "logidy-epsi"
+}

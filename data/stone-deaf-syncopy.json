@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20696",
+    "name": "Syncopy",
+    "image": "images/stone-deaf-syncopy.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 84,
+    "height": 132,
+    "details": "Digitally controlled analog delay\nhttps://www.stonedeaffx.com/syncopy",
+    "hrid": "stone-deaf-syncopy"
+}

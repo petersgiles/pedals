@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23082",
+    "name": "SY-1 Synthesiser",
+    "image": "images/boss-sy-1-synthesiser.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Guitar synth pedalSY-1 Sound Types\n• LEAD 1/2—A wide range of sounds suitable for single-note soloing.\n• PAD—Full tones that work great with chords, from layered pads to synth brass and more.\n• BASS—Fat synth bass sounds, including filtered and sub-octave tones.\n• STR—Classic analog-style strings, including layered voices and sweeping textures.\n• ORGAN—A large selection of organ sounds, including many with rotary-style modulation.\n• BELL—Percussive synth sounds with metallic resonance.\n• SFX 1/2—A variety of synth sound effects, including explosive one-shot sounds, animated pitch/filter voices, and more.\n• SEQ 1/2—Pulsating sounds with rhythmic pitch or filter changes.\nhttps://www.boss.info/us/products/sy-1/",
+    "hrid": "boss-sy-1-synthesiser"
+}

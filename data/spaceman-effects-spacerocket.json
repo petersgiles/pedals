@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19749",
+    "name": "Spacerocket",
+    "image": "images/spaceman-effects-spacerocket.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 64,
+    "height": 127,
+    "details": "multi-dimensional fuzzThe Spacerocket emits otherworldly fuzz tones. The hottest Fuzz setting is a blistering compressed fuzz bomb, with layers of sustaining fuzz.  Harmonic octaves appear on sustain tails, making this a fuzz that begs you to learn its unique dynamic response and texture.\nThe Spacerocket is a discrete silicon transistor fuzz.  It has a simple layout with three controls: Tone and Level, plus a 3-way toggle switch to control Fuzz gain.  On top sits a reverse-engraved, hand painted vinyl faceplate with backlit indicator. Instrument attack is reflected by an indicator located in the rocket’s “flame.”\nThis fuzz shines when used for single string lead lines, with saturated multi-dimensional fuzz that blooms in between notes. With chords and multi-string playing, you can achieve much different effects – with intermodulated, metallic and noisy robot fuzz.\nHandmade in Portland Oregon, the Spacerocket features an all discrete tone path, military-spec wiring and the very highest quality components. Everything is neatly held in a super-duty USA-cast aluminum enclosure, topped with a durable vinyl faceplate.  The True Bypass switching is provided care-of the heaviest-duty mechanical footswitch available, for a long trouble-free life.\nThere were two original editions available, Blue powder coat and unfinished Silver.  Blue is limited to 20 pieces with blue indicator.  Silver has a white indicator and is limited to 50 pieces.\nEach pedal is numbered on the nameplate, and is signed and numbered on the inside. The Spacerocket includes a transferable three year warranty, plus a lifetime discount repair plan.\nThe Fifth Anniversary Reissue Spacerockets consist of four limited editions.  Different from the original, the reissues feature green painting on the faceplates instead of blue, with a heavier-duty toggle switch.  The Black Edition features a white LED, while the other editions include green LED’s.  The Chrome Edition features custom engraved knobs, while the Textured Silver Edition features aluminum knobs.\no   Current draw: 2.7mA(on); 0.8mA(off)\nhttps://spacemaneffects.com/products/spacerocket/",
+    "hrid": "spaceman-effects-spacerocket"
+}

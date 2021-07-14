@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13213",
+    "name": "Focus",
+    "image": "images/vfe-focus.jpg",
+    "function": [
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "VFE",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "High & Low Pass Filter PedalGuitarists have long used tubescreamer-style overdrives as a clean mid boost by turning the gain down and cranking up the output. The FOCUS is the answer to the search for a better, more versatile mid boost pedal. Developed in collaboration with Adam \"Nolly\" Getgood from Periphery, the FOCUS employs variable bass and treble cut filters for control over top end grit and low frequency saturation, no matter how many strings your guitar has!\nhttp://www.vfepedals.com/focus.html",
+    "hrid": "vfe-focus"
+}

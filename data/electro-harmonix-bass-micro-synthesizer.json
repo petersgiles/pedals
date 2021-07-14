@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25940",
+    "name": "Bass Micro Synthesizer",
+    "image": "images/electro-harmonix-bass-micro-synthesizer.jpg",
+    "function": [
+        "Bass",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$286 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Bass Micro Synthesizer10 slider controls\nFour voices (Guitar, Octave, Sub-Octave, and Square Wave) are completely independent and fully mixable\nWide range of sounds available\nPower Adapter Included\nhttps://www.ehx.com/products/bass-micro-synthesizer",
+    "hrid": "electro-harmonix-bass-micro-synthesizer"
+}

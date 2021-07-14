@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12290",
+    "name": "Supercollider",
+    "image": "images/earthbound-audio-supercollider.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Earthbound Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Fuzz\nhttp://earthboundaudio.bigcartel.com/product/supercollider-pre-order",
+    "hrid": "earthbound-audio-supercollider"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18541",
+    "name": "Mini A/B Box 2",
+    "image": "images/jhs-mini-ab-box-2.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 38,
+    "height": 91,
+    "details": "Mini A/B",
+    "hrid": "jhs-mini-ab-box-2"
+}

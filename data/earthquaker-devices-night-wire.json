@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13223",
+    "name": "Night Wire",
+    "image": "images/earthquaker-devices-night-wire.jpg",
+    "function": [
+        "Tremolo",
+        "Filter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 125,
+    "details": "Harmonic TremoloThe Night Wire is a feature-rich harmonic tremolo. What is harmonic tremolo? In short, the signal is split into high pass and low pass filters, then modulated with an LFO that is split 180 degrees. The Night Wire takes the traditional harmonic tremolo a few steps further by allowing the center point of both filters to be adjusted for different tones. The filter frequency has three modes: Manual, LFO and Attack. In Manual mode, the center point can be set to a fixed position with the frequency control. In LFO mode, the filters are continuously swept and the frequency control adjusts the speed. In Attack mode, the filters are dynamically swept according to pick attack and the frequency control acts as a range control, much like a standard envelope filter. The tremolo section has two modes, Manual and Attack. In Manual mode, the speed of the tremolo is governed by where the rate control is set. In Attack mode the speed is controlled by pick attack and the rate controls the sensitivity; the harder you pick, the faster the rate and vice-versa. The tremolo can be subtle and shimmery or full-on throbbing depending on where the depth control is set. With the depth set to zero, the Night Wire will act like a fixed filter, phase shifter or envelope-controlled filter depending on which mode the filter frequency is in. It also features a cut/boost volume control to get your levels just right.\nhttps://www.earthquakerdevices.com/night-wire",
+    "hrid": "earthquaker-devices-night-wire"
+}

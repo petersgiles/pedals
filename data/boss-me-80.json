@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12851",
+    "name": "ME-80",
+    "image": "images/boss-me-80.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "200 mA / 9 V / AC / Negative Center",
+    "cost": "$300 Price in €",
+    "width": 448,
+    "height": 232,
+    "details": "Compact tone processorCompact and powerful floor multi-effects with a simple knob-based interface\nEight simultaneous effects categories, each with multiple effects types\nDial up tones with the ease of using your favorite stompboxes\nIncludes a massive selection of top-quality effects, from classic BOSS stomps to the latest MDP effects\nUpdated flagship-level COSM amps derived from the GT-100\nEight multifunction footswitches and expression pedal\nManual mode for stompbox-style on/off; Memory mode for switching complete patch setups\nDelay section includes Phrase Loop function with 38 seconds of recording\nRuns on six AA batteries or optional PSA-series AC adapter\nUSB audio/MIDI interface built in\nFree BOSS TONE STUDIO software allows you to edit and organize tones on your computer, and also preview and download free patches directly from the BOSS TONE CENTRAL website\nhttps://www.boss.info/global/products/me-80/",
+    "hrid": "boss-me-80"
+}

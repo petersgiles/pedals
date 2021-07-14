@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12385",
+    "name": "VM-Pro",
+    "image": "images/mission-engineering-vm-pro.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$198 Price in €",
+    "width": 99,
+    "height": 251,
+    "details": "Buffered Volume PedalThe Mission VM-PRO is the most sophisticated volume pedal ever made.\nThe VM-PRO resolves many of the common issues with volume pedals that cause tone sucking and mismatching problems. The VM-PRO works with electric, electro-acoustic, baritone or bass guitars. It also works with many other acoustic and electric instruments including electronic keyboards, steel guitars, and instrument microphones such as harmonica and horn mics.\nVM-PRO includes on board buffers, isolated tuner out, sparkle control, and compatibility switches for use with active and passive pickups and fuzz pedals. The PZ version provides a 10M ohm impedance for use with passive Piezo pickups.\nhttps://missionengineering.com/shop-2/products/volume-pedals/vm-pro/?v=7516fd43adaa",
+    "hrid": "mission-engineering-vm-pro"
+}

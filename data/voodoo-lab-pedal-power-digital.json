@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12787",
+    "name": "Pedal Power Digital",
+    "image": "images/voodoo-lab-pedal-power-digital.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 124,
+    "height": 86,
+    "details": "Isolated powerPedal Power Digital® is a linear (analog) power supply for high-current DSP-based pedal effects and accessories. With 4 completely isolated, filtered, and regulated output sections, Pedal Power Digital keeps your pedals dead quiet and free from high-frequency noise that occurs with digital \"switching\" power supplies.\nPedal Power Digital will properly power up to 4 digital power-hungry effects like those from Strymon, Eventide, Line 6, TC Electronic and more. Its compact size is perfect for small pedalboards, rack shelves, and as an additional power supply for larger boards.\nBuilt to meet the needs of professional users, Pedal Power Digital will provide clean, consistent power, even under the poor AC line conditions often found on stage. Completely isolated output sections eliminate ground loops and unwanted interactions between effects, resulting in lower noise and noticeably improved tone\nSpecifications\n5.5x2.1mm barrel connectors center negative \nShort circuit protected.           \nTwo 9V or 12VDC - 400mA \nTwo 9VDC - 400mA \nToroidal power transformer",
+    "hrid": "voodoo-lab-pedal-power-digital"
+}

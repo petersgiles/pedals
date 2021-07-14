@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19167",
+    "name": "Micro DI",
+    "image": "images/mooer-micro-di.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$65 Price in €",
+    "width": 56,
+    "height": 107,
+    "details": "Smart direct input box with ultra low distortion, it quietly transfers the sound of guitar or bass directly to the audio system Balanced/unbalanced output, gain switch, cabinet simulator and ground lift function included\nFull metal shell\nVery small and exquisite\nTrue bypass\nRequires DC 9V Adapter power supply\nhttp://www.mooeraudio.co.uk/p/mooer-micro-di",
+    "hrid": "mooer-micro-di"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16987",
+    "name": "Octave Multiplexer",
+    "image": "images/electro-harmonix-octave-multiplexer.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Sub-octave generatorGet down! Generates deep, phat bass tones one octave below the notes you play. Two separate smoothing filters enable you to tailor your sub-octave signal to the exact bass sound you desire, separating the Octave Multiplexer from other octave devices. Run your vocals through it and sound just like Ike Turner. This is a monophonic device and works only on single notes.\nhttps://www.ehx.com/products/octave-multiplexer",
+    "hrid": "electro-harmonix-octave-multiplexer"
+}

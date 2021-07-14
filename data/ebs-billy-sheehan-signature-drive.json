@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11637",
+    "name": "Billy Sheehan Signature Drive",
+    "image": "images/ebs-billy-sheehan-signature-drive.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$212 Price in €",
+    "width": 102,
+    "height": 152,
+    "details": "Signature Pedal",
+    "hrid": "ebs-billy-sheehan-signature-drive"
+}

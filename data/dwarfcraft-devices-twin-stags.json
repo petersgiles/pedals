@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12951",
+    "name": "Twin Stags",
+    "image": "images/dwarfcraft-devices-twin-stags.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$270 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Double TremoloHere is our first modulation pedal, the Twin Stags Double Tremolo. Two fully featured tremolo circuits are packed into the extra thick enclosure, offering trem speeds from “are you sure it’s going?” slow to “ring mod” fast. The triangle core LFOs can be skewed from ramp to saw, and all points between.\nTo compliment the series trem circuits there is control voltage in and out +/- 12v CV via 1/8” jacks for seamless integration with Eurorack modules, synthesizers and systems. LFO 2 can also be used to modulate the speed of LFO 1.\nThe Twin Stags also features two expression pedal inputs, one to control the rate of each LFO.\nThe four small jacks are used to attach to CV devices and there are two regular jacks for the Audio In and Out as well. The two sides of the tremolo run at different speeds with control knobs for rate, shape and depth. With tremolo two being slower than tremolo one. Each tremolo has switchable Square / Triangle morphable waves for different characters.\nAll these features come together in a subtly designed enclosure to provide maximum sound quantity and quality in a compact package.\nYear : 2010",
+    "hrid": "dwarfcraft-devices-twin-stags"
+}

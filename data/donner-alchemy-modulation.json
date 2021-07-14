@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11564",
+    "name": "Alchemy Modulation",
+    "image": "images/donner-alchemy-modulation.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Multieffect"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 64,
+    "height": 127,
+    "details": "Multiple modulation effectschorus, flanger, phaser, tremolo, rotary, pan, u-vibe and vibrator",
+    "hrid": "donner-alchemy-modulation"
+}

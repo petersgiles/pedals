@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23933",
+    "name": "Static Wave",
+    "image": "images/lone-wolf-audio-static-wave.jpg",
+    "function": [
+        "Digital",
+        "Distortion",
+        "Reverb"
+    ],
+    "manufacturer": "Lone Wolf Audio",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Saint Marie Records Limited Edition Reverb/Fuzz Pedal\"The first Saint Marie Records specially manufactured guitar pedal. Featuring two of the effects that make Shoegaze/Dreampop great. Reverb on one side and Fuzz on the other. Use them separate or together. The pedal includes many features allowing you to sculpt your sound.\"\n~ Saint Marie Records\n\nhttp://www.saintmarierecords.com/products/587203-static-waves-pedal-reverb-fuzz",
+    "hrid": "lone-wolf-audio-static-wave"
+}

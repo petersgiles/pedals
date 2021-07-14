@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11718",
+    "name": "ModFactor",
+    "image": "images/eventide-modfactor.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo",
+        "Flanger",
+        "Multieffect",
+        "Phase Shifter",
+        "MIDI"
+    ],
+    "manufacturer": "Eventide",
+    "current": "400 mA / 9 V / DC / Positive Center",
+    "cost": "$399 Price in €",
+    "width": 191,
+    "height": 122,
+    "details": "Pedal with 10 Studio Quality Modulation EffectsAll the standards - Chorus, Flanger, Phaser as well as Rotary, Tremolo, and Vibrato are there. Also included is the unique Undulator effect from the H8000 and a RingMod that lands somewhere between ring modulation and synthesis. The dedicated SLOW/FAST footswitch for ramping the LFO rate comes in handy. LFO rates can also sync to Tap Tempo and MIDI clock\nModulate your Modulator: Two LFOs create rich expressive modulation effects. \n100 Presets\n    Studio Quality Sound\n    Instant Program Change\n    Real-time control with 10 knobs, MIDI or expression pedal\n    Tap Tempo and MIDI Clock Sync/Generate\n    True Analog Bypass\n    Rugged cast metal construction\n    Metal footswitches for instant Preset access\n    Mono or Stereo operation\n    Guitar or Line Level Inputs and Outputs\nhttps://www.eventideaudio.com/products/stompboxes/chorus-flanger/modfactor",
+    "hrid": "eventide-modfactor"
+}

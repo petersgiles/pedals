@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12645",
+    "name": "Mastotron",
+    "image": "images/zvex-mastotron.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 120,
+    "height": 60,
+    "details": "FuzzA sub-heavy silicon fuzz with some new twists: An input impedance control (push/relax) that adjusts from passive pickupsto line level. It works very well for re-amping bass tracks that needto be fuzzed up after tracking and keyboards. There’s also a three-position sub control switch, a treble tone control, adjustable pulse width, and a wide fuzz depth control. More flexible than any silicon fuzz to date.\nhttps://www.zvex.com/products/mastotron",
+    "hrid": "zvex-mastotron"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12794",
+    "name": "FZ-3 Fuzz",
+    "image": "images/boss-fz-3-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The successor of the FZ-2 is somewhat simpler as it doesn’t have any different distortion modes. With familiar Level, Tone and Fuzz controls it is very easy to dial in the sound that you want. A cool fact about this pedal is that it doesn’t contain a single integrated circuit (IC). Boss attempted to get a 60s vibe with the FZ-3 by simplifying the controls and painting the pedal with a finish that reminds of metal that’s been beaten with a hammer.\nControls: Level, Tone, Fuzz\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 6 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe FZ-3 was sold from February 1997 to January 1999.\nhttp://www.bossarea.com/boss-fz-3-fuzz/",
+    "hrid": "boss-fz-3-fuzz"
+}

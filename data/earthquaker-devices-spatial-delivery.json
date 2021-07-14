@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11627",
+    "name": "Spatial Delivery",
+    "image": "images/earthquaker-devices-spatial-delivery.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "68 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Envelope Filter with Sample & HoldThe Spatial Delivery is an oddball, a voltage controlled envelope filter that allows you to step outside the universe of funk while reinforcing your secret love affair with auto-wah. It has 3 modes: Up Sweep, Down Sweep and Sample and Hold.\nWith Range, Resonance and Filter controls you can get super emphasized filter sweeps in the Up and Down modes. The Range, in combination with pick attack, controls the sensitivity and reaction time of the envelope and thus the width of the frequency sweep. The higher the Range and harder the attack equals a faster reaction time and higher frequency sweep and vice versa. Reign in the controls a bit, add your favorite overdrive/fuzz after the Spatial Delivery and you’ve got a real nice resonant, cut-through-the-mix lead tone. Crank the controls back up and you’re a neo-bedroom rock god. In the Sample and Hold mode the filter is controlled by random voltage and the Range controls the speed. Add a sub octave into the mix (before or after) and you’ve just created a deep fried space droid computer freak-out. The filter can be cross faded between high pass (counterclockwise), band pass (center) and low pass (clockwise) for a wide variety of voices. The Resonance control goes from zero to the brink of oscillation and adds more body and ring to the filter voice.\nhttps://www.earthquakerdevices.com/spatial-delivery",
+    "hrid": "earthquaker-devices-spatial-delivery"
+}

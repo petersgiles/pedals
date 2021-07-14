@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11780",
+    "name": "OD850",
+    "image": "images/ibanez-od850.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 72,
+    "height": 122,
+    "details": "",
+    "hrid": "ibanez-od850"
+}

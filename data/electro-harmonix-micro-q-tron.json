@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18621",
+    "name": "Micro Q-Tron",
+    "image": "images/electro-harmonix-micro-q-tron.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 121,
+    "details": "Envelope Filter",
+    "hrid": "electro-harmonix-micro-q-tron"
+}

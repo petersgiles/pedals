@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33506",
+    "name": "Sonic Bloom",
+    "image": "images/fuzzhugger-sonic-bloom.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "FuzzHugger",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "FuzzFuzzHugger's party girl. High gain, very overdriven, densely clipped, modern fuzz. Hints of snyth, subtler hints of octave add to the richness. The Sonic Bloom gracefully walks the line between smooth and rude. Wide-range tone controls deliver excellent flexibility and shaping.\nControls:\n- Bloom increases gain and saturation. When cranked, the fuzz compresses and gets into splattery overfuzz territory.\n- Body Shifts a huge amount of lows in/out of your sound...but leaves your highs totally intact. (Unlike Tone controls\nthat make you choose either [bassy and dark] OR [bright and thin]). Body also adjusts fuzziness.\n- Clipping / Headroom toggle.\n- Level\nhttp://www.fuzzhugger.com/sonic-bloom.html",
+    "hrid": "fuzzhugger-sonic-bloom"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33517",
+    "name": "Snare Trap",
+    "image": "images/rainger-fx-snare-trap.jpg",
+    "function": [
+        "Delay",
+        "Drum",
+        "Filter"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 110,
+    "height": 143,
+    "details": "A MINI DRUM MACHINE YOU PLAY GUITAR OR OTHER INSTRUMENTS THROUGH!The Snare Trap is a drum machine you play guitar or synth/keyboards through! It’s designed to be used either on the desktop – by hand – or on the floor – by foot. The drum sounds are bass drum, snare, and hi-hat, and these can be individually triggered externally by a CV – so it’s very useful for modular synthesists.\nIt has handy shortcuts to get a beat going quickly, plus a bunch of inspiring features and effects, including delay, low-pass filter (manual or LFO-controlled), side-chaining and correctible tap tempo. There’s a pad for adding drumfills and white noise effects, which also doubles up for inputting a tempo.\nSounds\nThe Snare Trap is an analogue/digital hybrid, and creates the sounds itself internally – no pre-recorded samples. With the tap tempo, delay, and the white noise part of the snare and hi-hat all being digital, the bass drum, shaping of the snare and hi-hat, the low-pass filter and side-chain circuit are all analogue.\nThe main snare drum is always on the ‘2’ and the ‘4’, but the delay effect moves ghost snare beats wherever you want. There’s wet or dry options, plus the shape of the snare hit can be adjusted – adding a handclap-like effect. Snare fills (and white noise bursts) can be added live with the main pad.\nThe first bass drum is always on the ‘1’ (the most important accent – as Bootsy says!), while the second (there are two) can be moved anywhere. The snare Trap can do any kind of swing feel you want.\nThe hi-hat is either 8-to-the-bar, or 4, but on the offbeat.\nThe tap tempo\nThe tap tempo is correctible (the same as the one used in the Deep Space Pulsar), which means that with one or more correcting taps on the main pad the tempo can be adjusted to sync with other tracks or instruments for long periods.\nThe Snare Trap is fantastic for any electric instrumentalist who plays to a beat, where live drums aren’t convenient. The beat and your instrument are blended together – so the Snare Trap is great for single-input amplifiers. There’s a ‘hi/lo’ input switch to cope with the higher signal levels from active instruments and keyboards. It runs off a regular 9v pedal power supply.\nhttps://www.raingerfx.com/product/snare-trap-beatbox/",
+    "hrid": "rainger-fx-snare-trap"
+}

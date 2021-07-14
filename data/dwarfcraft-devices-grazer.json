@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19097",
+    "name": "Grazer",
+    "image": "images/dwarfcraft-devices-grazer.jpg",
+    "function": [
+        "Digital Glitch",
+        "Pitch Shifter",
+        "Sampling"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Granular pedalDid you ever wonder what it would sound like if a machine took micro-samples (or “grains”) of your input and repeated some of them as you played? Oh, the machine also sometimes just loops some grains! Wow, I thought I was the only one!\n​Wait, did you also hope to define the sample length via knob or expression pedal? Shift the grains pitches up so high they become a supersonic computer weapon?\nThis is getting weird… if you also wished to toggle between forward and reverse playback, and have a foot switch to repeat the grains at any time, for as long as you hold the switch… then we are in some serious sci-fi stuff right now. Yikes.\nAnyway, that’s what the Grazer does\nhttps://www.dwarfcraft.com/store/p109/Grazer.html#/",
+    "hrid": "dwarfcraft-devices-grazer"
+}

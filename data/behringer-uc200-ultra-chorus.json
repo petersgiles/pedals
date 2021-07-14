@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12737",
+    "name": "UC200 Ultra Chorus",
+    "image": "images/behringer-uc200-ultra-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Stereo ChorusGet super-thick chorus with unbelievable stereo effect\n    Dedicated Level, Tone, Rate and Depth controls for effective sound shaping\n    Status LED for effect on/off and battery check\n    Runs on 9 V battery or the Behringer PSU-SB DC power supply (not included)\n    Rugged electronic On/Off switch for highest signal integrity in bypass mode",
+    "hrid": "behringer-uc200-ultra-chorus"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16077",
+    "name": "ABYBABY",
+    "image": "images/the-gigrig-abybaby.jpg",
+    "function": [
+        "Utility",
+        "Switch"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 58,
+    "details": "ABY pedal",
+    "hrid": "the-gigrig-abybaby"
+}

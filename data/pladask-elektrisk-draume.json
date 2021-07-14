@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27931",
+    "name": "Draume",
+    "image": "images/pladask-elektrisk-draume.jpg",
+    "function": [
+        "Reverb",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "100 mA / 9 V / DC",
+    "cost": "$275 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "DRAUME is an exploration of artificial reverberation. Can a space sound dry, old, veiled or broken? Reverberation is typically associated with physical spaces or objects. A hall reverb should conjure the mental image of a hall, but what ambiance comes to mind when presented with intentionally artificial reverberation? DRAUME combines post-reverb processing with decay and system clock control to break the spatial illusion. Manual linked below.",
+    "hrid": "pladask-elektrisk-draume"
+}

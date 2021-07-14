@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13790",
+    "name": "Minimal Series Black Loop",
+    "image": "images/onecontrol-minimal-series-black-loop.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 120,
+    "height": 46,
+    "details": "2 Loop Switcher PedalThe Black Loop is a 2 Loop true bypass switcher with two DC outs.  It can be used as an AB Switch, Amp Channel Switcher or Tuner Output/Mute Switch. \nPlayers can connect multiple pedals into each loop to create two independent effect chains. The Black Loop is a great solution for bypassing vintage effect while not in use. The Black Loop has several uses, allowing for endless possibilities.\nhttp://www.one-control.com/black-loop.html",
+    "hrid": "onecontrol-minimal-series-black-loop"
+}

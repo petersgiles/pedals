@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26201",
+    "name": "Superball",
+    "image": "images/alexander-superball.jpg",
+    "function": [
+        "Chorus",
+        "Digital",
+        "Filter"
+    ],
+    "manufacturer": "Alexander",
+    "current": "100 mA / 9 V / DC",
+    "cost": "$223 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Kinetic modulatorModulate Everything.\nWe took the leash off of what started as an experimental delay engine and Superball is what happened.\nAn uber-flexible LFO, dedicated time sequencing, and resonant low-pass filter combine for the bounciest digital delay oscillations you can imagine.\nWarning: We’re not getting this down off your roof if you get it stuck up there.\nhttps://www.alexanderpedals.com/shop/superball",
+    "hrid": "alexander-superball"
+}

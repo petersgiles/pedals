@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12334",
+    "name": "Iketara Iku",
+    "image": "images/david-rolo-iketara-iku.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 80,
+    "height": 110,
+    "details": "Dual EQAs I found myself constantly tweaking my EQ, especially between mid boost/mid cut settings I thought it would be nice to have 2 presets available so I ended up making this dual EQ with 2 identical 3-band Baxandall filters and an 18V charge pump to give enough headroom and boost. It’s specially useful to sculpt the sound coming out of a fuzz or distortion.\nhttp://www.davidrolo.com/product/iketara-iku/",
+    "hrid": "david-rolo-iketara-iku"
+}

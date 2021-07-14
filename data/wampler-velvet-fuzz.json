@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16647",
+    "name": "Velvet Fuzz",
+    "image": "images/wampler-velvet-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "FuzzLooking back through history of great fuzz tone, there have been some truly outstanding examples - in particular, the tones that have been achieved by running a fuzz into a screaming stack. The kind of tones that are just earth shattering in their depth, aggression and smoothness. We took the base tones from a very famous Wampler Pedal (one that has the characteristics of a famous stacked, EL34 driven, amp) and decided this was the best foundation to build the perfect fuzz and deliver it in a unit that sounds as good as it feels powerful. With two completely different clipping options (not just the basic silicon or germanium option like most) you can achieve those classic fuzz big tones that compresses massively across the bottom or you can tighten them up and have it respond more like a distortion. With this you get all of the tone with none of the side effects. Some people say it sounds like a fuzz but feels like a distortion, so yes, you CAN have the best of both worlds. If you are a fan of the tones of the players like David Gilmour or Eric Johnson (and let’s face it, who isn’t), then it could be that the Velvet Fuzz is the pedal you are looking for. Welcome to a new world of thick as a brick, wall crumbling and window shattering fuzz. Velvet Fuzz.\nhttps://www.wamplerpedals.com/velvet-fuzz",
+    "hrid": "wampler-velvet-fuzz"
+}

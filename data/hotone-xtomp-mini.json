@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19018",
+    "name": "XTomp mini",
+    "image": "images/hotone-xtomp-mini.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 63,
+    "height": 113,
+    "details": "",
+    "hrid": "hotone-xtomp-mini"
+}

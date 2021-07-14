@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16678",
+    "name": "Shift-Line Beta",
+    "image": "images/s3n-shift-line-beta.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "S3N",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 135,
+    "height": 102,
+    "details": "Sunn Beta lead/bass preamp",
+    "hrid": "s3n-shift-line-beta"
+}

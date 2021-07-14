@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31396",
+    "name": "Brown Acid",
+    "image": "images/mxr-brown-acid.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 62,
+    "height": 114,
+    "details": "Limited Edition 70's FuzzA Fuzz pedal with the circuit based a 1970's fuzz unit, it delivers a psychedelic silicon saturation, great for Woodstock-type sounds or for sludgy, stoner riffs. It has three controls; output, tone and fuzz, and uses a 9V power supply.\nhttps://www.jimdunlop.com/mxr-brown-acid-fuzz/",
+    "hrid": "mxr-brown-acid"
+}

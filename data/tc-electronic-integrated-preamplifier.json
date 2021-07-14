@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28080",
+    "name": "Integrated Preamplifier",
+    "image": "images/tc-electronic-integrated-preamplifier.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "1 mA / 18 V / DC",
+    "cost": "$205 Price in €",
+    "width": 64,
+    "height": 113,
+    "details": "Great clean preamp / Line driver and EQA very high input impedance, extreme low noise and distortion levels, powerful tone controls and built-in line driving capabilities makes TC Preamp a non-compromising preamplifier suited to many applications on stage and in the studio.\nIt can use either a 9-volt battery or an external power supply up to 32 Volts DC, which increase the headroom.",
+    "hrid": "tc-electronic-integrated-preamplifier"
+}

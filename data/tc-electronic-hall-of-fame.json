@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11410",
+    "name": "Hall of Fame",
+    "image": "images/tc-electronic-hall-of-fame.jpg",
+    "function": [
+        "Reverb",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$167 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Reverb\nhttp://www.tcelectronic.com/de/hall-of-fame-reverb/",
+    "hrid": "tc-electronic-hall-of-fame"
+}

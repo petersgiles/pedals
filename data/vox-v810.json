@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13386",
+    "name": "V810",
+    "image": "images/vox-v810.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 83,
+    "height": 146,
+    "details": "Valve Overdrive Pedal",
+    "hrid": "vox-v810"
+}

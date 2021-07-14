@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19766",
+    "name": "Dispatch Master v2",
+    "image": "images/earthquaker-devices-dispatch-master-v2.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$256 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Digital Delay & ReverbThe Dispatch Master is one of our favorite devices at EQD, and remains our top-seller to this day. Pick one up, and you’ll know why.\nCrystalline digital delays up to 1.5 seconds without nasty self-oscillation. Luscious reverbs that seem to last forever, like a collect call from beyond the fourth dimension. Ethereal ambient soundscapes that drift off into outer space like a psychedelic shooting star.  Over ten thousand pickers, grinners, heshers, singers, shredders, ivory ticklers, trumpeters, bassists, and synthesists use the Dispatch Master to make and receive music in all genres -  anything from thick swatches of reverb and delay, to a quick chicken-pickin’ slapback, or even just to add a little bit of room sound to a signal that’s a tad dry.\nThe delay signal is clear and strong, with no gross digital artifacts or tonal degradation.  The reverb is massive and cavernous. With a twist of the “Mix” knob, you’ll hear everything from subtle ambient spaces, making the Dispatch Master a useful “always on” pedal; to cavernous reflections and echoes with near-infinite repeats.\nThe Dispatch Master is designed to be a little more hi-fi than the Ghost Echo or Levitation, for those players looking for clean, articulate time-based effects in a versatile yet still compact footprint. The Delay and Reverb effects may be used separately or in tandem. You just have to answer the call.\nThe Dispatch Master is true bypass, and built one at a time by retired telephone switchboard operators in Akron, Ohio, USA, the Clark Kent of the Midwest.\nThe Dispatch Master uses silent relay-based soft touch switching. Audio will not pass without power.",
+    "hrid": "earthquaker-devices-dispatch-master-v2"
+}

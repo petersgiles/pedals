@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13589",
+    "name": "Starla Tap Tempo Tremolo",
+    "image": "images/dawner-prince-electronics-starla-tap-tempo-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Dawner Prince Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$252 Price in €",
+    "width": 112,
+    "height": 58,
+    "details": "Versatile Analogue Tap Tempo Tremolo\nhttps://dawnerprince.com/products/starla",
+    "hrid": "dawner-prince-electronics-starla-tap-tempo-tremolo"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22981",
+    "name": "Blackbox",
+    "image": "images/1010-music-blackbox.jpg",
+    "function": [
+        "Digital",
+        "MIDI",
+        "Sampling"
+    ],
+    "manufacturer": "1010 Music",
+    "current": "2000 mA / 5 V / DC",
+    "cost": "$486 Price in €",
+    "width": 140,
+    "height": 130,
+    "details": "Sampler\nStreams long samples from the microSD card with a max sample size of 4 GB, which can be many hours\n1 stereo audio input and 3 stereo audio outputs, plus stereo headphones output\n16 note polyphony: Up to 4 notes per pad for samples, 2 notes per pad for clips and slicers\n16 samples, 16 sequences and 16 song sections per preset\nSupports 1 and 2 channel WAV files with 16, 24 or 32-bit resolution at any sample rate (48kHz preferred)\n24-bit ADC and DAC\nUSB MIDI Device In and TRS MIDI In can trigger samples, notes and sequences\nTRS Clock In and Out, and TRS MIDI Out for synchronizing with additional instruments\nUSB powered – can run off a USB power block or wall outlet\n\nhttps://1010music.com/product/blackbox",
+    "hrid": "1010-music-blackbox"
+}

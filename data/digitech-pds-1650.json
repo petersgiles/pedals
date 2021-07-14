@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22804",
+    "name": "PDS-1650",
+    "image": "images/digitech-pds-1650.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 127,
+    "height": 178,
+    "details": "Programmable DistortionThe Digitech PDS 1650 Programmable Distortion has 20 programmable user defined presets that you can scroll through.\nFlip the switch to Program/Manual and adjust the Level, Presence and Distortion knobs as desired.\nWhen you have just the right sound you like, press the Store button and the settings will be saved in the curent preset.\nThe PDS 1650 has internal memory so even if you unplug the pedal, your presets are kept. How cool is that?! \nThe PDS 1650 operates using a standard 9-volt battery or a 9-volt adaptor with a 1/8\" male plug like the DOD PS-3 A.C. adaptor.",
+    "hrid": "digitech-pds-1650"
+}

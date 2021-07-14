@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23312",
+    "name": "M1",
+    "image": "images/amt-m1.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / 12 V / DC / Negative Center",
+    "cost": "",
+    "width": 74,
+    "height": 112,
+    "details": "Marshall type preamp\nhttps://amtelectronics.com/new/amt-m1/",
+    "hrid": "amt-m1"
+}

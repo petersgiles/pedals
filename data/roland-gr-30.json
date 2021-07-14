@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14134",
+    "name": "GR-30",
+    "image": "images/roland-gr-30.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Synth Voice",
+        "Utility"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 302,
+    "height": 274,
+    "details": "Guitar Synthesizer384 stunning instrument sounds (tones) including vintage analog synths, fat basses, nylon string guitars, organs, orchestral sounds, various ethnic instruments, and much more\nLightning-fast triggering via optional GK-2A Divided Pickup\nAdvanced programmable Arpeggiator allows for the creation of various arpeggios simply by holding down a guitar chord and strumming the strings\nNew Synth Harmonist feature adds \"intelligent\" harmony to a single note\nBuilt-in reverb, delay, chorus and flanging effects\nGives guitarists access to the world of MIDI music, computer-based sequencing, etc.\nNote that this product is no longer in production. Similar capabilties can be found in the GR-33 Guitar Synthesizer.\nhttps://www.roland.com/us/products/gr-30/",
+    "hrid": "roland-gr-30"
+}

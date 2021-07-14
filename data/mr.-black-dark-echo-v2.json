@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17425",
+    "name": "Dark Echo V2",
+    "image": "images/mr.-black-dark-echo-v2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Modulated Echo",
+    "hrid": "mr.-black-dark-echo-v2"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23075",
+    "name": "Sun Face 2SB171",
+    "image": "images/analogman-sun-face-2sb171.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 115,
+    "details": "Low Gain Germanium Sun Face",
+    "hrid": "analogman-sun-face-2sb171"
+}

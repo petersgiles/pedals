@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18906",
+    "name": "Lucy Dreamer supreme",
+    "image": "images/jam-pedals-lucy-dreamer-supreme.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$267 Price in €",
+    "width": 120,
+    "height": 94,
+    "details": "",
+    "hrid": "jam-pedals-lucy-dreamer-supreme"
+}

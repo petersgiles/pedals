@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11733",
+    "name": "MF Trem",
+    "image": "images/moog-music-inc.-mf-trem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 83,
+    "height": 144,
+    "details": "TremoloThe MF Trem is an analog tremolo pedal based around a balanced modulator and Sub Audio VCO. This unique design creates a wide range of tremolo effects that are based on phase cancellation and addition. Create classic optical and hard tremolo effects that are reactive to harmonic content, or push up the depth control and shift into the beginnings of lush phasing and chorus. The variable Shape control interacts directly with Tone and Mix to craft subtle swells and gallops to rhythmic percussive, and swirling effects. An expression pedal input adds control over tremolo Speed for beautiful, hands-free swells and rotary effects.\nCONTROLS\nSHAPE- Sweeps between modulation waveshapes. Center position has a smooth rise and fall. This is great for creating optical tremolo sounds. Hard right has a hard impact followed by a smooth decline. This creates abrupt and percussive behavior that is very musical when paired with the Tone knob. Hard left has a smooth lift and abrupt drop off which creates a sound similar to a reverse effect at slower speeds and a rotary speaker at higher speeds.\nSPEED- Sets the overall Tremolo rate. At slower settings the sound is swirling, lush, and transformative. As the Speed is increased the sound becomes tighter and more like a rotary speaker. The Shape and Depth controls will directly affect the perceived speed and rhythm of your Tremolo as they are increased from minimum to maximum position.\nDEPTH- At minimum the tremolo effect is subtle and mostly dry. As Depth is increased more tremolo effect is blended in the mix causing phase cancellation and addition effects. At center position the sound will begin to gallop and swing. This impact on the sound varies significantly depending on Speed. At maximum position, the tremolo speed doubles and all sound is sent through the Tone control.\nTONE- This control affects the Tremolo signal only leaving the dry signal untouched. At maximum, all frequencies are affected by the tremolo. As the Tone control position is decreased, the effect of the tremolo becomes more-subtle. From the mid position down, the Tone control can be used to dial in sounds that impact only low frequencies in your instrument or to shape classic rotary swirl and phase-like sounds.\nEXPRESSION PEDAL INPUT:Assigned to Speed. Use it for swells and transitions between high and low settings.\n• True Bypass        \n• Shape control creates smooth, reversed, rotary, and percussive effects\n• Tone control harmonically interacts the effected signal to create wide ranges of movement\n• Reacts musically to playing dynamics, chord positioning and harmonic content\n• Expression pedal control of Tremolo Speed for beautiful swells and rotary effects\n• Designed to perform with any Guitar, Amp, or Bass guitar configuration\nhttps://www.moogmusic.com/products/minifoogers/mf-trem",
+    "hrid": "moog-music-inc.-mf-trem"
+}

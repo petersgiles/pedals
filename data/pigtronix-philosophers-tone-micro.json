@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11496",
+    "name": "Philosophers Tone Micro",
+    "image": "images/pigtronix-philosophers-tone-micro.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 44,
+    "height": 95,
+    "details": "optical compressor + sustainerFamous for its noiseless clean sustain, the Philosopher’s Tone has staked its claim in the crowded world of compressor pedals. In addition to Volume and Sustain controls, the Philosopher’s Tone features a parallel Blend knob that allows the musician to mix their instrument’s original tone with the compressed sound effect. This technique restores natural pick-attack and allows more extreme sustain settings to remain musical. The Treble control provides up to a 6db cut or boost at 2kHz for fine-tuning the frequency response of the effect. The Philosopher’s Tone features true-bypass switching and internal 18V power rails for maximum clean headroom, even when used with hot pickups and line level signals.\nhttps://www.pigtronix.com/pedals/philosophers-tone/",
+    "hrid": "pigtronix-philosophers-tone-micro"
+}

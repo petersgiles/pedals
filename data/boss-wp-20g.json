@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16696",
+    "name": "WP-20G",
+    "image": "images/boss-wp-20g.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Ring Modulator",
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$235 Price in €",
+    "width": 173,
+    "height": 158,
+    "details": "Wave Processor / Synthesizer (For GK Pickup)Fat synth sounds and effects in a compact pedal for GK-equipped guitars\nProvides 6 synth-type waves and effects—Saw Lead, Square, Ring Mod, Slow Gear, Sitar and Acoustic\n11 chorus and delay effects, plus Color and Level knobs for further tweaking\nRugged, dual-pedal design with simple, knob-based controls\nhttps://www.boss.info/us/products/wp-20g/",
+    "hrid": "boss-wp-20g"
+}

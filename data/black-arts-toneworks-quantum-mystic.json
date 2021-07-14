@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19213",
+    "name": "Quantum Mystic",
+    "image": "images/black-arts-toneworks-quantum-mystic.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$163 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "Op-amp based distortion/OD featuring a 3 band active EQ & germanium clippingThe Quantum Mystic Overdrive was developed working closely with Mike Scheidt from the Portland Oregon band , Yob. Mike is known for great tone and groundbreaking music in the metal and doom community. We decided to adapt his favorite pedal from the seminal early YOB records into an updated and upgraded circuit. The Quantum Mystic is an opamp based distortion/OD featuring a 3 band active EQ and germanium clipping. It draws cues from Mike favorite old Grey Distortion, boiled down by a wizard, tweeked, manipulated, upgraded and using both mine and Mike’s ear, we sculpted the form you now hear and feel. Use the active Eq to cut frequencies to represent the old school sounds, or use the EQ to boost the final gain stage to go into the heavily saturated and distorted tones of the future. Dial back the distortion, boost the volume and use the active EQ to find sparkling clear boost tones. Dime it all and get a ball molten lead that propels the Universe Throb. Needing a captivating presentation, we summoned the artwork of another underground legend, Arik Roper. We pulled together something pretty special and I think you all will like this one. \nThis pedal operates on a Standard 9VDC power supply. No battery connection.\nhttps://www.blackartstoneworks.com/pedal/quantum-mystic/",
+    "hrid": "black-arts-toneworks-quantum-mystic"
+}

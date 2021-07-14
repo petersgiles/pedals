@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29275",
+    "name": "Meris Preset Switch",
+    "image": "images/meris-meris-preset-switch.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Meris",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 112,
+    "height": 59,
+    "details": "(adding to meris manufacturer page for ease of use)",
+    "hrid": "meris-meris-preset-switch"
+}

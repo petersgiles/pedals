@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18564",
+    "name": "GD-02 Great Divide 2.0",
+    "image": "images/twa-gd-02-great-divide-2.0.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "TWA",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$450 Price in €",
+    "width": 121,
+    "height": 146,
+    "details": "Analog Synth OctaverThe Great Divide Mk. II combines classic analog octave division with proprietary Synth technology to create one of the best-sounding, most versatile octave units ever made!\nThe Great Divide features five independent voices that can be continuously blended for a limitless array of sounds, from classic stompbox octave division to multi-layered, supersonic Synth mayhem!\nThe Great Divide is 100% analog – the circuit tracks incoming audio and subdivides the waveforms to create lower notes at varying intervals.  The lower voices are monophonic, but can sometimes be coaxed into tracking double-stops (say please!).  The GD’s Upper Octave voice is a form of harmonic distortion that can track polyphonically with eerie precision and often unpredictable results (ring mod, anyone?).\nBy blending voices at various levels, an absolutely limitless variety of super-sick, super-FAT, super-sexy Synth and octave sounds can be created and deployed to beat your audiences’ booty into submission.\nFor even more tonal options, patch in an external pedal via the TRS effects loop and control it with the Great Divide!  OR, use an expression pedal to control the GD’s output level for gorgeous Synth pad volume swells and other assorted mayhem.\nThe Great Divide features TWA’s proprietary S3™ “Shortest Send Switching™” - a form of relay-based True Bypass switching that provides the most transparent bypass sound available. S3™ switching also automatically reverts the pedal to bypass mode if power is lost.\nhttps://godlyke.com/products/great-divide-2-0-analog-synth-octaver",
+    "hrid": "twa-gd-02-great-divide-2.0"
+}

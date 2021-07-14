@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12239",
+    "name": "HOG2",
+    "image": "images/electro-harmonix-hog2.jpg",
+    "function": [
+        "Multieffect",
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$478 Price in €",
+    "width": 235,
+    "height": 152,
+    "details": "Harmonic octave generator\nhttps://www.sweetwater.com/store/detail/HOG2",
+    "hrid": "electro-harmonix-hog2"
+}

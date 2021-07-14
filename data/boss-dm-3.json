@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12524",
+    "name": "DM-3",
+    "image": "images/boss-dm-3.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Analog DelayWhile the digital DD-2 was taking off in popularity, the analog DM-2 remained in the lineup for a time as a less expensive pedal delay alternative. Its replacement, the next-generation (but still analog) DM-3, was slightly more affordable. Evolving from the DM-2, it included some design tweaks that cleaned up the delay repeats for a clearer sound with less noise, an ever-present engineering challenge when trying to get the best performance out of analog BBD circuits. The DM-3 also featured a Direct Out jack for sending dry and effect signals to two separate amps, as well as some unique knobs not seen on any other BOSS pedals before or since.\nThough many effects aficionados cite the DM-2 as having superior tone, the DM-3 really sounds quite similar to my ears. It’s perhaps a touch less gritty and more refined in the delay repeats, but that can be a good thing in many applications.\nBy the late ‘80s, digital tech was taking over in the delay world, and the DM-3 was discontinued in the middle of 1988. It was the last all-analog delay pedal in the BOSS lineup for 26 years, until the introduction of the Waza Craft DM-2W in 2014.",
+    "hrid": "boss-dm-3"
+}

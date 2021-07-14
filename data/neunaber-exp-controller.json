@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13202",
+    "name": "ExP Controller",
+    "image": "images/neunaber-exp-controller.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 116,
+    "height": 69,
+    "details": "",
+    "hrid": "neunaber-exp-controller"
+}

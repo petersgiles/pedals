@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18349",
+    "name": "Jamman Delay",
+    "image": "images/digitech-jamman-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 279,
+    "height": 173,
+    "details": "Delay and LooperThe JamMan Delay Looper features both true stereo looping and a fully programmable stereo delay with powerful control over both effects.\nThe Looper in the JamMan Delay Looper offers true stereo looping with 35 minutes of built-in memory, 99 internal loop memories, and an SD card expansion slot for an additional 99 loops and over 16 hours of stereo loop storage! USB connectivity provides syncing to DigiTech's free JamManager™ looper librarian software that organizes and saves your loops to a PC or Mac. JamManager also lets you quickly create custom loop JamLists to take to your gig.\nThe JamMan Delay Looper's delay is a powerful stereo delay with 3 fully programmable preset memories that can be recalled instantly via dedicated footswitches. A palette of 8 delay types offers tremendous flexibility in crafting virtually any delay sound. With 16 seconds of delay time, a tap tempo footswitch, and full morphing of the delay controls via the expression input, the JamMan Delay is in a class all its own.\nhttps://www.digitech.com/discontinued-products/JAMMAN+DELAY.html?cgid=discontinued-products&dwvar_JAMMAN%20DELAY_color=Blue-USA-Current",
+    "hrid": "digitech-jamman-delay"
+}

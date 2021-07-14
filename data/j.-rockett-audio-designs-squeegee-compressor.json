@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30877",
+    "name": "Squeegee Compressor",
+    "image": "images/j.-rockett-audio-designs-squeegee-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "119 mA / 9 V / AC / Negative Center",
+    "cost": "$119 Price in €",
+    "width": 45,
+    "height": 90,
+    "details": "",
+    "hrid": "j.-rockett-audio-designs-squeegee-compressor"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15460",
+    "name": "Katana Boost",
+    "image": "images/keeley-katana-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 102,
+    "height": 152,
+    "details": "Clean BoostProduct Description\nThe ALL NEW – KATANA CLEAN BOOST!  Redesigned, making perfection sound just a bit better!\nWant a mirror image of your tone, only louder? This is it. The Katana Boost is also a fat, harmonically rich boost, just pull out on the volume knob and stretch your imagination with overdriven tone! You can keep it on all the time to push your amp harder, or as an occasional boost to cut through the mix.\nObsessed or Compelled with the Fattest, Fullest Drive? Well, Before other people started using Blue LED’s and non-diode clipping stages, there was the TMB and Katana…. Cascading FET stages do the tube-amp-thing like nothing else!\nThe Katana circuit is Robert Keeley’s first guitar effect design for Keeley Electronics. It was originally designed for Legendary Tones for the Time Machine Boost but then became an independent product under the Keeley name after the Compressor came out. Robert’s very first effect pedal design (1999) was a digitally controlled Analog Delay complete with built in digital tuner. It worked perfectly and can even be seen at the shop from time to time. Delay times could be input via a keypad to enter the amount of delay in milliseconds or by potentiometers. The Katana is no less stunning in its beautiful simplicity and stunning sound quality.\nTwo modes, Pure Clean and High Gain\n\nWith the speed knob Pushed In, think of it as a volume control that goes to 20.\nWith the speed knob Pulled Out, it’s a cutting boost with a bit of gain. Not quite an overdrive, just overdriven tube grit and edge to your tone.\n\nDual FETs for the most tube like tone in a transistor design. Power Doubling on the inside so you put 9VDC in, and we use a charge pump to nearly double operating voltage! (Caution – 9 Volt DC Maximum Input Voltage (don’t try to put 18 volts to the unit hoping that the doubler will make it 36VDC!)\nWhat do higher power supply voltage rails mean?! -> SUPER CLEAN HIGH-HEADROOM BOOST! Pull the Level knob out to switch -> Tube-like gain! THE EDGE!!!!\nhttps://robertkeeley.com/shop/katana-boost",
+    "hrid": "keeley-katana-boost"
+}

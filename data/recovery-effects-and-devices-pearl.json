@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26770",
+    "name": "Pearl",
+    "image": "images/recovery-effects-and-devices-pearl.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Heavy Low-End Vintage FuzzThe Pearl sinks its teeth into the low end and doesn’t let go. Its modified vintage circuit delivers heavy bass fuzz tone with versatile controls to work with your music. This pedal was created for bass, but you can also plug your guitar into it to make your low-end dreams come true!\nAt the heart of the pedal is an all-analog silicon design that sounds great with any pickup type. We use hand-picked, new-old-stock “oil can” BC109 transistors that add a classic, vintage tone to this modern fuzz. The user interface includes a range of controls including intensity, tonality, compression, output level, and a high/low switch that affects the amount of bottom end. The Pearl is a compact, simple to use, player-friendly pedal with a monster, low-end tone. In short, it is a force to be reckoned with.\nHand-made in Seattle, WA. The Pearl operates on a standard “Boss” style 9vdc power supply, but can also run at 18vdc for additional headroom. True bypass switching. Includes a limited lifetime warranty. \nhttps://recoveryeffects.com/collections/effects-pedals/products/pearl",
+    "hrid": "recovery-effects-and-devices-pearl"
+}

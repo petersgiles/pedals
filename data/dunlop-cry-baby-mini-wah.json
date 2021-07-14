@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11766",
+    "name": "Cry Baby Mini Wah",
+    "image": "images/dunlop-cry-baby-mini-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$151 Price in €",
+    "width": 76,
+    "height": 133,
+    "details": "WahThis Cry Baby Wah packs three different wah voicings to cover most of your tonal needs-Low, Vintage, GCB95-into a housing that's half the standard size and features true bypass switching.",
+    "hrid": "dunlop-cry-baby-mini-wah"
+}

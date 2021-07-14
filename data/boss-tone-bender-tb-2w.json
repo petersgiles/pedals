@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31764",
+    "name": "Tone Bender TB-2w",
+    "image": "images/boss-tone-bender-tb-2w.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$378 Price in €",
+    "width": 74,
+    "height": 129,
+    "details": "FuzzStandard features of TB-2W Tone Bender:\nAuthentic sonic recreation of the legendary Tone Bender MK II fuzz from the 1960s\nThree-way voltage selector for shaping the overall tone and response\nSelectable true bypass or buffered bypass operation\nLimited production run due to component availability\nThe TB-2W Tone Bender Story...\nAmong the iconic fuzz pedals in music history, the Tone Bender is one of the most revered and unique. Embraced by many of the world’s greatest guitarists, the sound of this pedal is woven into the fabric of some of the most influential music created over the last five-plus decades. Under the Sola Sound brand, Macari's Musical Instruments in London produced numerous variations starting in the mid-1960s, and many consider the \"MK II\" version to be the ultimate Tone Bender voice.\nWhen BOSS and Sola Sound first discussed collaborating on a Tone Bender MK II pedal in 2017, we realised there would be many technical challenges in achieving our goal. Foremost among them was sourcing the rare and vitally important germanium transistors at the heart of the circuit. Other problems included power supply considerations and resistance to environmental changes, which would be key to realising both authentic Tone Bender sound and BOSS’s strict performance standards.\nWorking through one challenge after another, we were able to overcome them all with no compromise through dogged determination and careful attention to the finest details. While BOSS and Sola Sound have totally different histories, both companies have always strived to achieve the very best in tone. The TB-2W embodies our shared passions, bringing you Sola Sound’s famous rock voice coupled with BOSS’s committed craftsmanship and legendary spirit of innovation.",
+    "hrid": "boss-tone-bender-tb-2w"
+}

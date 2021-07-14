@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11880",
+    "name": "TU-3 Waza Craft",
+    "image": "images/boss-tu-3-waza-craft.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "TunerWith the TU-3W, BOSS brings Waza Craft mojo to the world’s leading stompbox tuner. At its core, the TU-3W provides rock-solid tuning equivalent to the industry-standard TU-3. In true Waza tradition, the pedal’s benchmark functionality is further enhanced with BOSS skill and craftsmanship. Pure, uncolored signal transfer is essential for a tuner, and the TU-3W features redesigned circuitry with selectable buffered or true-bypass operation and the most transparent audio pass-through possible. Packing high-end performance for discriminating players, the TU-3W delivers a premium pedal experience only available from BOSS.",
+    "hrid": "boss-tu-3-waza-craft"
+}

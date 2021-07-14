@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24265",
+    "name": "Volca Nubass",
+    "image": "images/korg-volca-nubass.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 193,
+    "height": 115,
+    "details": "Vacuum Tube SynthesizerA powerful bass synth with a sound source based around a vacuum tube oscillator.\nThe acid bass machine with the pinnacle of modulation and distortion.\nThe volca nubass is the first analog synth to be equipped with a Nutube new-generation vacuum tube in its oscillator. Vacuum tube plus analog means that the sound is warm, thick, and rich. The familiar transistor ladder filter gives it the character of a classic bass machine, along with overdrive, and huge-sounding distortion.\nhttps://www.korg.com/us/products/dj/volca_nubass/",
+    "hrid": "korg-volca-nubass"
+}

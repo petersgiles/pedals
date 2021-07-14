@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11984",
+    "name": "ModFX Faze",
+    "image": "images/alesis-modfx-faze.jpg",
+    "function": [
+        "Phase Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Alesis",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 148,
+    "height": 98,
+    "details": "ALESIS ModFX Faze Stereo Studio phaser",
+    "hrid": "alesis-modfx-faze"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12539",
+    "name": "Operation Overlord",
+    "image": "images/electro-harmonix-operation-overlord.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo",
+        "PreAmp"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Stereo overdrive/distortion\nhttp://www.ehx.com/products/operation-overlord",
+    "hrid": "electro-harmonix-operation-overlord"
+}

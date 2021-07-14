@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12743",
+    "name": "Sound Destruction Device mk2",
+    "image": "images/recovery-effects-and-devices-sound-destruction-device-mk2.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 90,
+    "height": 116,
+    "details": "Distortion and notch filtersSOUND DESTRUCTION DEVICE MKII\nTotal sonic destruction tool for guitar, or anything with a 1/4″ jack you want to plug into it. It distorts, glitches, and clips, and does things to your instrument that naturally should not happen. From super thick fuzz, to starved splatty sounds, the Sound Destruction Device sounds like a Marshall stack on its deathbed.\nThe Sound Destruction Device is point-to-point hand wired, with no printed circuit board. Chrome plated LED. Lead-free solder, and U.S.A. parts whenever possible. It operates on a standard Boss style 9vdc power supply (not included), or 9 volt battery. It includes a full-lifetime warranty.\nhttp://www.graigmarkelmusic.com/Graig_Markel_Music/Sound_Destruction_Device.html",
+    "hrid": "recovery-effects-and-devices-sound-destruction-device-mk2"
+}

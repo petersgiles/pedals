@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12054",
+    "name": "Tremolo",
+    "image": "images/harley-benton-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$32 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "TremoloKnobs: Intensity, Rate\nTrue Bypass",
+    "hrid": "harley-benton-tremolo"
+}

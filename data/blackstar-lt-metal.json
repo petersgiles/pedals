@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12980",
+    "name": "LT Metal",
+    "image": "images/blackstar-lt-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 122,
+    "details": "",
+    "hrid": "blackstar-lt-metal"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17372",
+    "name": "Booster",
+    "image": "images/kokko-booster.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Kokko",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$20 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "Kokko Booster\nhttp://www.iflanger.com/products_detail/productId=125.html",
+    "hrid": "kokko-booster"
+}

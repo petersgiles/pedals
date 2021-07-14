@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24084",
+    "name": "Collider",
+    "image": "images/source-audio-collider.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "",
+    "hrid": "source-audio-collider"
+}

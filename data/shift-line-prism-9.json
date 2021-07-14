@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19923",
+    "name": "Prism-9",
+    "image": "images/shift-line-prism-9.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Multieffect",
+        "Pitch Shifter",
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "synthy oscillator pitch shifter w/ reverb",
+    "hrid": "shift-line-prism-9"
+}

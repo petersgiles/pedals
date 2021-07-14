@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16253",
+    "name": "Cool Cat Vibe",
+    "image": "images/danelectro-cool-cat-vibe.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 89,
+    "height": 95,
+    "details": "Vibe with a real photocell",
+    "hrid": "danelectro-cool-cat-vibe"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19106",
+    "name": "Corona SCF & Tri Chorus",
+    "image": "images/tc-electronic-corona-scf-&-tri-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$144 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Limited Edition 40TH Anniversary CORONA CHORUSLimited-edition 40th anniversary pedal with all the stellar features of the original CORONA CHORUS\nOriginal TC pedal design only made in an exclusive run of 2,000 pedals\nAccess to 3 new TonePrints that pay homage to the legendary sounds of the classic SCF pedal\nRenowned SCF Chorus and lush TriChorus settings included out of the box provide truly exceptional tonal options to create with\n4-knob interface allows extensive tonal tweaking while remaining highly intuitive to let you focus on playing\nTrue stereo I/O provides incredibly wide 3-dimensional tones\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized chorus effects from scratch with free TonePrint Editor for PC, Mac* and iPad*\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nOptional buffered bypass mode prevents high frequency loss from long cable runs\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when chorus effect is engaged\nKill-Dry feature removes the dry signal path for use with parallel effects loops\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com",
+    "hrid": "tc-electronic-corona-scf-&-tri-chorus"
+}

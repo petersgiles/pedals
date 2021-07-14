@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11891",
+    "name": "MINI",
+    "image": "images/smallsoundbigsound-mini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / 9 V / DC",
+    "cost": "$159 Price in €",
+    "width": 70,
+    "height": 122,
+    "details": "Overdrive/fuzzGOAT",
+    "hrid": "smallsoundbigsound-mini"
+}

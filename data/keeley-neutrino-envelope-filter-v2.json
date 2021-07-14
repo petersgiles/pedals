@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26342",
+    "name": "Neutrino Envelope Filter V2",
+    "image": "images/keeley-neutrino-envelope-filter-v2.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Keeley",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Envelope FilterMeet the NEW Neutrino. Our best sounding Envelope Filter EVER.\nThe Keeley Neutrino V2 is an amazingly toneful and compact form of the classic opto-coupler envelope filter. The Neutrino takes your guitar playing and creates an automatic wah sound based on your pick attack! Envelope filters or auto-wahs as they are often called, sound and react best when they are opto-coupler based. The opto-couplers used in the Neutrino are particularly smooth, giving you an amazing vowel-like tone. The Keeley Neutrino gives you 3 filter ranges, 2 directions,  2 ranges for the frequency center and a Peak control. Keeley has engineered a power supply voltage-doubler so you maintain the highest headroom for your tone.  An incredibly tough build means it will last for many decades to come. Whether you’re in a jam band or playing funk, the Keeley Neutrino V2 delivers incredible vocal-like tone.\nThe Keeley Neutrino V2 features:\nEnvelope Filter and Auto-Wah for guitar, bass and keyboard\nPeak Control: Sets how much “quack” there is, or how smooth you roll\nFilter Selector: lets you choose between 3 types of filters: High,  Low, and Band Pass.\nRange Switch: HI or LO.\nDirection Switch: Up or Down\nTrue-Bypass, 9 VDC, 25 mA, 100% analog and made in the USA.\nhttps://robertkeeley.com/products/neutrinov2",
+    "hrid": "keeley-neutrino-envelope-filter-v2"
+}

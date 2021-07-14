@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17871",
+    "name": "MA400",
+    "image": "images/behringer-ma400.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "150 mA / 12 V / AC",
+    "cost": "$25 Price in €",
+    "width": 102,
+    "height": 46,
+    "details": "1ch headphone amplifierUltra-compact monitor headphone amplifier for studio and stage applications\nPersonal ''more me'' mixer – mix a mic plus a monitor signal and hear them via headphones\nFlexible Mic In and Mic Through connectors plus Ground Lift switch\nStereo Monitor input with dedicated Monitor Level control and Mono/Stereo switch\nHigh-power headphone output on 1/4'' and 1/8'' jack connectors\nDC 12V adapter included\n3-Year Warranty Program*\nDesigned and engineered in Germany\nhttps://www.behringer.com/product.html;jsessionid=7174AE166C204A4AE6E0ECA6D94DDB8E?modelCode=P0491",
+    "hrid": "behringer-ma400"
+}

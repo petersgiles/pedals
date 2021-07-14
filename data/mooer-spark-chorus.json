@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11720",
+    "name": "Spark Chorus",
+    "image": "images/mooer-spark-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$77 Price in €",
+    "width": 60,
+    "height": 62,
+    "details": "Classic '80s chorusThe Spark Chorus delivers classic '80s chorus sounds. Adjustable depth and speed give this chorus great flexibility and sonic versatility. It features a compact size and attractive lighting design. It's housed in a sturdy, full-metal case with special surface treating technology, giving it long durability. True bypass maximizes signal integrity when not in use. DC 9V adapter power supply.",
+    "hrid": "mooer-spark-chorus"
+}

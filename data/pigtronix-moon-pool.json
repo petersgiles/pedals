@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32578",
+    "name": "Moon Pool",
+    "image": "images/pigtronix-moon-pool.jpg",
+    "function": [
+        "Phase Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 40,
+    "height": 95,
+    "details": "Phaser / tremoloMoon Pool is an analog phase shifter and tremolo with independent speed controls featuring the ability to change the rate of one or both of the effects in either direction, corresponding to how hard you play. The 4-stage, VCA-based phaser and variable bias tremolo found in the Moon Pool can each be run as standalone effects or they can be combined in series for a mesmerizing mashup of modulators. A global Depth knob determines overall wetness, while a Sensitivity knob allows you to dial in the responsiveness of these changes to accommodate different playing styles and colors.\nhttps://www.pigtronix.com/pedals/moon-pool/",
+    "hrid": "pigtronix-moon-pool"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12550",
+    "name": "Little Big Muff Pi",
+    "image": "images/electro-harmonix-little-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 121,
+    "details": "",
+    "hrid": "electro-harmonix-little-big-muff-pi"
+}

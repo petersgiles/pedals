@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17643",
+    "name": "Robot",
+    "image": "images/death-by-audio-robot.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$320 Price in €",
+    "width": 121,
+    "height": 150,
+    "details": "Intense lo-fi, 8-bit fuzzThe Robot is a low fidelity 8 bit pitch transposer.\nhttps://deathbyaudio.com/products/robot",
+    "hrid": "death-by-audio-robot"
+}

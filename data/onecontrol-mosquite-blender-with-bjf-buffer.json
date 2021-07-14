@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14688",
+    "name": "Mosquite Blender with BJF Buffer",
+    "image": "images/onecontrol-mosquite-blender-with-bjf-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "blender",
+    "hrid": "onecontrol-mosquite-blender-with-bjf-buffer"
+}

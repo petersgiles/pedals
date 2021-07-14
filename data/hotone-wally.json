@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11844",
+    "name": "Wally",
+    "image": "images/hotone-wally.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 44,
+    "height": 74,
+    "details": "Loop stationWally is a mini loop station which can record up to 15 minutes of loop phrases in one storable memory. It also\nhas separate input/output level controls and a tempo variation function.\nSo smart and simple, this little guy gives other loopers an inferiority complex.\nMost of us don’t need a big looper rig. But we’re also not so dense that we’d sacrifice loop functionality for\none-button simplicity.\nWally gives you the looping tricks you need in an extremely small and cool looking droid, and you can figure\nit out with a 30 second scan over the manual! With the smart LED lights letting you know what mode you’re in,\nyou’re ready to go.\nWally rises above the other compact loopers by making up for their functional deficiencies. We designed Wally\nto include independent in/out volume controls—after all, you can’t get the loop and recording levels sounding\nright with just one knob. So loop away, you got fifteen minutes of storeable loop phrases! Then we added a\nknob so you can increase or decrease the loop tempo, which you can use to mix things up on stage.\nHow did we get all that into the smallest looper stompbox out there? With a little intuition: we stacked the circuit\nboards and then squeezed them into a durable zinc-alloy casing.\nWhy you need it: Every guitarist should have a looper at least for songwriting and phrase practice, if not also for\nlayering it on for the big buildup on stage. Wally has all the right stuff in a smart box you definitely have space on\nyour pedal board for. \nFeatures:\n✪ Max. Loop Length: 15 minutes\n✪ Max. Number of Overdubs: limitless\n✪ Memory: 1 (memory will be saved automatically after power off)\n✪ Zinc Alloy Outer Cover\n✪ Transparent top knob and 2 noctilucent small knobs\n✪ Cool LED lights\n✪ Current Consumption:  37 mA\n✪ Dimensions: 74mm (D) x 44mm (W) x 44mm (H)\n✪ Weight: 190 g",
+    "hrid": "hotone-wally"
+}

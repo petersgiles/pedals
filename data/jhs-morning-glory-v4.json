@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13857",
+    "name": "Morning Glory V4",
+    "image": "images/jhs-morning-glory-v4.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 67,
+    "height": 122,
+    "details": "Transparent Overdrive\nExtremely transparent clean boost/overdrive pedal.\nStraightforward layout makes dialing in your tone easy.\nVolume control acts as a master output level control.\nDrive control slightly increases treble as you crank it up.\nTone control is a high pass filter that gets brighter when you turn it clockwise.\nRemote-controllable Gain toggle increases power, low end, and high-gain sizzle.\nBright Cut toggle removes harshness from bright-sounding rigs.\n\nhttps://www.sweetwater.com/store/detail/MorningGV4--jhs-morning-glory-v4-transparent-overdrive-pedal",
+    "hrid": "jhs-morning-glory-v4"
+}

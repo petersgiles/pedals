@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12726",
+    "name": "Viktrolux",
+    "image": "images/recovery-effects-and-devices-viktrolux.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Distortion"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 90,
+    "height": 116,
+    "details": "The Ultimate UnstabilizerThe Viktrolux from Recovery Effects is the weirdest and most versatile modulation effect you’ve ever heard. It’s echo with grit and drive, twisting and warping with an unstableness that only a broken tape deck could do until now. Driving slightly like a signal hitting tape right before the point of breakup, the Viktrolux redefines echo and modulation in an effect pedal that can be used on a wide variety of instruments and recording applications. Guide the shape and speed of lighter irregularities with the Flutter controls. Manage sonic melting and tape spilling onto the floor with the dynamic sensitive Wow control. Voltage control input  manipulates the delay time, opening up a whole new world for adventurous users.\nThe Viktrolux is point-to-point hand wired, with no printed circuit board. True bypass, lead-free solder, and U.S.A. parts whenever possible. It operates at 9vdc on a industry standard negative center, 2.1 barrel regulated power supply. It includes a full-lifetime warranty.\nhttp://www.graigmarkelmusic.com/Graig_Markel_Music/Viktrolux.html",
+    "hrid": "recovery-effects-and-devices-viktrolux"
+}

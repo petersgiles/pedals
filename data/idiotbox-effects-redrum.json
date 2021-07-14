@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32392",
+    "name": "Redrum",
+    "image": "images/idiotbox-effects-redrum.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Rodent chainsaw distortionThe Redrum is a RAT style circuit running into a dimed HM-2 tone stack. One knob for drive control. No work. All play. This thing rules! I'd put this up against any other one knobber out there. Guitar, bass, tuba, whatever. It will take you to the other side. Come and play with us Danny!!!\nhttps://www.idiotboxeffects.com/product/redrum",
+    "hrid": "idiotbox-effects-redrum"
+}

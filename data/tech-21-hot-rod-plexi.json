@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18681",
+    "name": "Hot-Rod Plexi",
+    "image": "images/tech-21-hot-rod-plexi.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 95,
+    "height": 121,
+    "details": "The Hot-Rod Plexi pedal is inspired by vintage amps of the same nickname. While those hulking stacks are known to sound best at ear-bleed levels, this pedal can painlessly transform your existing amp without pulling a muscle or mandatory rig cranking. With the Hot-Rod Plexi, you can completely change the personality of a clean amp or use it as an instant mod to a dirty amp.\nIn Stock mode, it’s as if you have the signal path from the input jack to the speaker jack (without the speaker emulation) of a stock ‘68 Plexi. Hot engages an extra “12AX7” pre-amp gain stage. With its own level control, Hot can kick in up to 28dB of pre-amp boost --a pretty insane amount of gain.\nhttp://www.tech21nyc.com/products/effects/plexi.html",
+    "hrid": "tech-21-hot-rod-plexi"
+}

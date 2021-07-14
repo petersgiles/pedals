@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11917",
+    "name": "Fuzz Star Fz-10",
+    "image": "images/biyang-fuzz-star-fz-10.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Biyang",
+    "current": "5 mA / 9 V / DC",
+    "cost": "$50 Price in €",
+    "width": 57,
+    "height": 114,
+    "details": "baby Boom Series Muff type Analog Fuzz with three modesfrom the Biyang website:\nThe Biyang Fuzz Star FZ-10 sounds like a boutique fuzz pedal but at 1/4 of the cost. It's not a vintage fuzz like a Muff or Fuzzface. It sounds more modern and has three modes to adjust the EQ to your liking. Fuzz can be hard to control, and the pick attack and articulation in playing can be blown away by some fuzz pedals. The Fuzz Star sounds tight and preserves player guitar personality allowing your pick attack and nuances to be heard.\nhttp://biyangeffects.com/en/index.php/2014-10-06-04-50-03/view/productdetails/virtuemart_product_id/5/virtuemart_category_id/6",
+    "hrid": "biyang-fuzz-star-fz-10"
+}

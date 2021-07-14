@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17669",
+    "name": "Dimension Blue Monger",
+    "image": "images/onecontrol-dimension-blue-monger.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 47,
+    "height": 100,
+    "details": "",
+    "hrid": "onecontrol-dimension-blue-monger"
+}

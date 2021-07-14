@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21151",
+    "name": "MTG Tube Distortion Pedal",
+    "image": "images/fender-mtg-tube-distortion-pedal.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 95,
+    "height": 124,
+    "details": "AUTHENTIC TUBE TONEMany pedals try to emulate the sound of tube breakup; we decided instead of emulating tube distortion, we’d use actual vacuum tubes and give you the real deal in a compact pedal. The heart of the MTG’s design is a NOS (New Old Stock) US-made 6205 preamp tube. 3-Band EQ with Tight control and switchable boost—with its own Level and Boost controls—makes it easy to dial-in just the right sound.\nFeatures\n    - Real tube-driven distortion pedal\n    - NOS 6205 preamp tube\n    - 3-Band EQ; Boost with Gain and Level controls\n    - LED-backlit knobs; Fender Amp Jewel LED\n    - Standard 9VDC center-negative power connection\nhttps://shop.fender.com/en-US/effects-pedals/mtg-tube-distortion-pedal/0234539000.html",
+    "hrid": "fender-mtg-tube-distortion-pedal"
+}

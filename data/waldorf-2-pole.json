@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16683",
+    "name": "2-pole",
+    "image": "images/waldorf-2-pole.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Waldorf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$234 Price in €",
+    "width": 185,
+    "height": 185,
+    "details": "Analog FilterFor some decades now, analog filters have had a deep impact on contemporary music. Since its very beginnings, Waldorf has been renowned for the quality of their excellent sounding analog filters.\nWhether these were integrated in stand alone units, such as the 4-Pole, X-Pole or the AFB16, which enabled the world's first analog plug-Ins, or were found inside our synthesizers such as the Wave, the Q+ or the Pulse - Waldorf filters have influenced the world's sound for over two decades.\nAs a logical consequence, our exclusive analog filter technology is now available in this novel square box (unexpectedly matching the Rocket synthesizer). 2-Pole is giving the guitar player, the DJ, or the keyboard player access to the heart of the Waldorf sound - with an inspiring user interface with a one knob/one function philosophy. Spice up your live performances with dramatic filter sweeps that really cut through. Funk up your guitar licks by hooking a pedal controller to 2-Poles' cutoff CV In or using the integrated envelope follower. Animate your pad sounds using 2-Pole's LFO. But beware - no matter what you do with this tiny black box, make sure you set the levels to your amplifiers and speakers correctly, as 2-Pole is yet another beast from Waldorf - with love!\nhttps://waldorfmusic.com/en/2-pole-overview",
+    "hrid": "waldorf-2-pole"
+}

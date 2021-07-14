@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25615",
+    "name": "Wasp Deluxe",
+    "image": "images/behringer-wasp-deluxe.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Behringer",
+    "current": "1000 mA / 12 V / DC / Positive Center",
+    "cost": "$335 Price in €",
+    "width": 374,
+    "height": 136,
+    "details": "Hybrid Synthesizer with Dual OscillatorsLegendary Hybrid Synthesizer with Dual OSCs, Multi-Mode VCF, 16-Voice Poly Chain and Eurorack Format.\nFaithful reproduction of a cult classic monophonic synth\nTwo digital oscillators with three variable waveshapes — pulse, ramp, and enhanced mode\nPulse width modulation on OSC1\nVariable pitch control on OSC2\nAnalog VCF with highpass, lowpass, notch, and bandpass modes and sweepable resonance\nLFO with six selectable waveforms, noise, and pitch and frequency mod controls\nVCA envelope generator with attack, decay, and sustain/repeat controls\nControl envelope generator with attack, decay, delay/repeat controls\nEurorack compatible with a 70HP footprint\nCombine with multiple synthesizers for up to 16 voice polyphony with Poly Chain\nUSB-MIDI plus 5-pin DIN In and Thru\nGlide (portamento)\nExternal audio input\nLow-output and high-output 1/4\" outs\nBehringer's 3-year warranty\n\nhttps://www.behringer.com/Categories/Behringer/Keyboards/Synthesizers-and-Samplers/WASP-DELUXE/p/P0DN6#googtrans(en|en)",
+    "hrid": "behringer-wasp-deluxe"
+}

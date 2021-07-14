@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19566",
+    "name": "Classic 108 Mini Fuzz",
+    "image": "images/mxr-classic-108-mini-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 40,
+    "height": 95,
+    "details": "Silicon BC108 fuzzNow in an MXR mini housing, the Classic 108 Fuzz gives you all the same vintage fuzz tones in a much smaller footprint. Like its larger predecessor, it’s loaded with the silicon BC108 transistor for a round and dirty crunch. This Classic 108 Fuzz also has the same no-nonsense control interface—just crank the Volume and Fuzz controls to your liking and start riffing. Use the Buffer switch on the side to make the fuzz play nice with wah pedals.\nhttps://www.jimdunlop.com/mxr-classic-108-fuzz-mini/",
+    "hrid": "mxr-classic-108-mini-fuzz"
+}

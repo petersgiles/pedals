@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22018",
+    "name": "Astronaut III A+",
+    "image": "images/shift-line-astronaut-iii-a+.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 67,
+    "height": 110,
+    "details": "cosmoreverb\nhttps://shift-line.ru/card.php?device=10096",
+    "hrid": "shift-line-astronaut-iii-a+"
+}

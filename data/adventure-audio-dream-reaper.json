@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12814",
+    "name": "Dream Reaper",
+    "image": "images/adventure-audio-dream-reaper.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 94,
+    "height": 102,
+    "details": "Fuzzy Feedback Modulation Machine The Dream Reaper is a Fuzzy Feedback Modulation Machine loaded with weird features guaranteed to turn your tone into something unexpected. \nThe Force switch engages a built in \"pick up emulator\" controlled by the Sense knob, which emulates the the tone knob(s) on your guitar. We found that by putting this pedal in the middle of your chain, the tone knob didnt seem to adjust the feedback frequency when in Dream mode. This built in circuit takes care of that. Rub on that tone knob and squeel this pupper all the way downtown.\nThe Reap knob controls the strength of your input as it tussles with the oscillations for dominance when in Dream mode.\nThe Range switch is a low end capacitor selector that doubles as a frequency range selector when in Dream mode. \nThe Bias knob controls the non linearity of the effect regardless of which mode. \nExpression pedal controls the Filter Knob which is something along the lines of a broader big muff filter. We recommend using a Moog Expression Pedal or another with 100k potentiometer value. \nStandard 9V Center Negative Power Supply\nhttps://www.adventurepedals.com/products/dream-reaper",
+    "hrid": "adventure-audio-dream-reaper"
+}

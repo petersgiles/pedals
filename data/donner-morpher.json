@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31699",
+    "name": "Morpher",
+    "image": "images/donner-morpher.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Donner",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 42,
+    "height": 92,
+    "details": "Suhr Riot clone",
+    "hrid": "donner-morpher"
+}

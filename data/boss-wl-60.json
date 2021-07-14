@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23153",
+    "name": "WL-60",
+    "image": "images/boss-wl-60.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Boss",
+    "current": "70 mA / 9 V / DC / Positive Center",
+    "cost": "$312 Price in €",
+    "width": 70,
+    "height": 120,
+    "details": "Wireless system\nhttps://www.boss.info/global/products/wl-60/",
+    "hrid": "boss-wl-60"
+}

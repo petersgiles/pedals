@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20049",
+    "name": "VOW PRESS",
+    "image": "images/hotone-vow-press.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 57,
+    "height": 138,
+    "details": "Compact Switchable Volume /Wah PedalThe Hotone Vow Press is a 3-in-1 pedal in a smart compact size. This unit features Wah, Volume, and\nVol/Wah modes.\nWAH: Wah mode is for all the cry babies out there—we're talking about the legit vocal sweep and lush\nharmonics of the wah's classic era.\nVOL: If musicians the world over agree on one thing, it is their common hatred of the “volume sucking”\nquality of passive volume pedals. Vow Press' Volume mode is an active volume design, which keeps\nyour tone pristine. Fine tune the bottom end with the volume range control.\nV/W: It's a volume pedal, then a wah pedal, then back again! This mode combines volume control and\nvintage wah tone in one, and they can be changed instantly with a simple press.\nFeatures:\n✪ True Bypass\n✪ Extreme compact size\n✪ Cool LED lights\n✪ 3 in 1 pedal (Volume, Wah,Vol/Wah)\n✪ Sound based on the original CryBaby* wah pedal\n✪ Adjustable control range (bottom value)\n✪ Active volume mode for lossless tone\n✪ V/W mode combines vintage wah tone and active volume control in one\n✪ 9V DC or 9V battery power supply\nhttp://www.hotoneaudio.com/products/press/Vol_Wah_Pedal2/2016/1114/193.html",
+    "hrid": "hotone-vow-press"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33535",
+    "name": "Minifooger MF Drive V2",
+    "image": "images/moog-music-inc.-minifooger-mf-drive-v2.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$248 Price in €",
+    "width": 83,
+    "height": 144,
+    "details": "Drive FilterThe MF Drive is a dynamic and highly reactive, filter-based overdrive pedal that employs a Moog Ladder Filter, boutique FET amplifiers, and classic OTAs in its drive section. Its bi-polar tone control and sweep-able filter work in concert with with gain to shape new and completely customized sounds that range from creamy British overdrive to cranked American tube amplifier and even fuzz. \nPlug in an expression pedal for live filters sweeps, or flip the Peak switch up to convert the MF Drive into a dirty, fuzz wah that tears through a mix.",
+    "hrid": "moog-music-inc.-minifooger-mf-drive-v2"
+}

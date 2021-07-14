@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11552",
+    "name": "Distortion +",
+    "image": "images/mxr-distortion-+.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Classic DistortionThe MXR Distortion + (\"Distortion Plus\") is a distortion pedal originally designed in the 1970s by MXR Innovations. As its name implies \"distortion,\" it's a 'distortion' (parallel clipping) but has a rather mild sound. It has been cloned many times, most famously by the DOD 250 Overdrive (a distortion). The pedal uses a single op-amp and a pair of germanium diodes to ground (parallel-push) for clipping in a very simple configuration with only Output and Distortion controls, no tone control; the pedal uses no discrete transistors. Turning up the Distortion control increases the amount of distortion and at the same time cuts some bass from the signal. This pedal is perhaps best known for its crunchy heavy metal sound that was featured by Randy Rhoads in his work with Ozzy Osbourne. Jerry Garcia of the Grateful Dead used this pedal exclusively for distortion in the late 1970s. Bob Mould of Hüsker Dü also used the Distortion + as part of his trademark guitar sound. Dave Murray of Iron Maiden has used Distortion + since the early 1980s. Thom Yorke of Radiohead has included the + for many of his signature distortion sounds, using a variety of guitars to achieve various tonal options. \n(Wikipedia)\nThis little yellow box is responsible for those great distortion sounds heard on so many classic recordings. Set the Distortion control low and crank the Output knob to drive the front end of your amp for cool blues tones, or max out the Distortion knob for classic early '80s hard rock tone. There still isn't any distortion unit on the market that sounds like the Distortion+. \n(Jim Dunlop)\nhttps://www.jimdunlop.com/product/m104-7-10137-00655-3.do",
+    "hrid": "mxr-distortion-+"
+}

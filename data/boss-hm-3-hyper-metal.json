@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12886",
+    "name": "HM-3 Hyper Metal",
+    "image": "images/boss-hm-3-hyper-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The HM-3 Hyper Metal replaced the HM-2, 1993. Until the release of the MD-2, 2001, the HM-3 was the distortion pedal with the highest gain. The controls are the same as on the HM-2, and the design goals remained unchanged; create a powerful hard-edged sound with powerful sustain with more accurate dynamic response. The MT-2 Metal Zone had been released 2 years earlier and the HM-3 never managed to get out of the MT-2s shadow and was discontinued 1999.\nSpecifications\nControls: Level, Color Mix (Low, High), Dist\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 12 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nSilver – Made In Taiwan\nThe HM-3 was sold from April 1993 to December 1998.\nhttp://www.bossarea.com/boss-hm-3-hyper-metal/",
+    "hrid": "boss-hm-3-hyper-metal"
+}

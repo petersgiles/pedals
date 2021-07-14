@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18998",
+    "name": "Boss GE-7 Magnum Mod",
+    "image": "images/jhs-boss-ge-7-magnum-mod.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "JHS Has Mod. Boss GE-7",
+    "hrid": "jhs-boss-ge-7-magnum-mod"
+}

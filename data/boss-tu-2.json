@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11538",
+    "name": "TU-2",
+    "image": "images/boss-tu-2.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "TunerReference Pitch:    A4 = 438 to 445Hz (1Hz step)\nTuning Range:    C0 (16.35 Hz) to C8 (4186.00 Hz)\nTuning Accuracy:    +/-3 cent\nInput Impedance:    1 M ohms\nhttps://www.boss.info/global/products/tu-2/",
+    "hrid": "boss-tu-2"
+}

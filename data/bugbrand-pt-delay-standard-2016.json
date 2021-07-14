@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11940",
+    "name": "PT Delay Standard 2016",
+    "image": "images/bugbrand-pt-delay-standard-2016.jpg",
+    "function": [
+        "Delay",
+        "Equalizer",
+        "PreAmp"
+    ],
+    "manufacturer": "BugBrand",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 133,
+    "details": "Technical Specifications:\nInput - Mono unbalanced 1/4\" Jack - impedance 66k Ohms\nOutputs - Mono Impdeance-balanced 1/4\" Jack - impedance 680 Ohms\nCV - 4mm Banana - impedance 100k Ohms\nPower - 12V DC 500mA supply, centre-positive, 2.1mm connector.\n(worldwide 90-240VAC wall-wart provided with interchangeable mains plug adaptors)\nThe PTDelay is enclosed in a custom aluminium case (based on the Modular line) with PCB material front and side panels.\nDimensions approx 5.25\" x 5\" x 3.5\"\nhttp://www.bugbrand.co.uk/index.php?main_page=product_info&products_id=113",
+    "hrid": "bugbrand-pt-delay-standard-2016"
+}

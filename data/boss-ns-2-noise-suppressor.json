@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11599",
+    "name": "NS-2 Noise Suppressor",
+    "image": "images/boss-ns-2-noise-suppressor.jpg",
+    "function": [
+        "Filter",
+        "Utility",
+        "Noise Gate"
+    ],
+    "manufacturer": "Boss",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Noise GateThe NS-2 effectively eliminates noise and hum of the input signal while preserving the original sound's tonality. The natural attack and envelope are unaffected thanks to the NS-2's unique noise detection circuit that precisely separates the guitar sound and the noise components.\nhttps://www.boss.info/us/products/ns-2/",
+    "hrid": "boss-ns-2-noise-suppressor"
+}

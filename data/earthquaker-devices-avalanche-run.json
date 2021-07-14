@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11462",
+    "name": "Avalanche Run",
+    "image": "images/earthquaker-devices-avalanche-run.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "stereo delay and reverb",
+    "hrid": "earthquaker-devices-avalanche-run"
+}

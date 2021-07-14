@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11567",
+    "name": "Honeycomb",
+    "image": "images/jhs-honeycomb.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$239 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Just like the discontinued Honey Comb Single, the Honey Comb Deluxe gives you true vintage analog tone and ease of operation that will open up a new palette of sounds reminiscent of early Fender blackface and vintage Vox tremolo circuits from years gone by. The only difference is that this one has those over the top options for the more demanding trem-o-haoulic.\nJHS starts by giving you an extra LED for the rate speed that stays on even when the pedal is in bypass. This allows a constant monitor on your speed. The next thing they do is add a second footswitch that allows you to alternate between two independently controlled speed knobs. This is like having two tremolos in one enclosure. The knobs are located over a third LED that is always on as well. When the LED is red it means you have the red speed knob activated and when it’s green… You guessed it; you have the green knob activated.\nOn V2's you will see a small red switch inside the pedal on the circuit board. Flip this switch down for slower speed ranges or keep it up for the stock speed range.\nhttp://www.musiciansfriend.com/amplifiers-effects/jhs-pedals-honey-comb-pedal#productDetail",
+    "hrid": "jhs-honeycomb"
+}

@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26133",
+    "name": "XP-100 Whammy-Wah",
+    "image": "images/digitech-xp-100-whammy-wah.jpg",
+    "function": [
+        "Digital",
+        "Digital Glitch",
+        "Expression",
+        "Multieffect",
+        "Pitch Shifter",
+        "Tuner",
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Digitech",
+    "current": "750 mA / 9 V / AC",
+    "cost": "",
+    "width": 207,
+    "height": 211,
+    "details": "Pitch shifter/Wah",
+    "hrid": "digitech-xp-100-whammy-wah"
+}

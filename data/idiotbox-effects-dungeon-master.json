@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30588",
+    "name": "Dungeon Master",
+    "image": "images/idiotbox-effects-dungeon-master.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Chainsaw fuzzPart Muff, part SuperFuzz and part HM-2, the Dungeon Master sounds exactly like you want it to. Sludgy and doomy as fuck but still clear enough to not sound like total mud. Tons of volume, tons of gain, tons of sustain and tons of character. Run it full blast on the controls for maximum slaying or dial back some on the DRIVE, LOW and HIGH controls to get that unique heavy as balls sound you've been after! \nhttps://www.idiotboxeffects.com/product/dungeon-master",
+    "hrid": "idiotbox-effects-dungeon-master"
+}

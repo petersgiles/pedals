@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21464",
+    "name": "PD7 Phat-Hed",
+    "image": "images/ibanez-pd7-phat-hed.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 75,
+    "height": 125,
+    "details": "Bass OverdriveThe PD7 is an overdrive/distortion designed especially for basses and bass amps. It has a character that is completely different from conventional guitar amp distortion units, and features heavy ultra-low sounds together with the smooth high range typical of playing through a guitar amp.\nhttp://www.effectsdatabase.com/model/ibanez/tonelok/pd7",
+    "hrid": "ibanez-pd7-phat-hed"
+}

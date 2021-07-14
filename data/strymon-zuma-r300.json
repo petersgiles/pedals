@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14701",
+    "name": "Zuma R300",
+    "image": "images/strymon-zuma-r300.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 184,
+    "height": 89,
+    "details": "Guitar pedal power supplyZuma R300 is the highest horsepower, most technologically advanced low profile effects pedal power supply. You get clean, rock-steady power for your 9V, 12V and 18V effects pedals in a pedalboard friendly, expandable package, giving you room to grow. Zuma R300’s ultra-low profile design means that it can fit under just about any pedalboard.\nDual-stage topology, pre-regulated outputs, optically isolated feedback, and advanced multistage filtering result in a power supply that allows your pedals to achieve their highest possible dynamic range.\nhttps://www.strymon.net/products/zuma-r300/",
+    "hrid": "strymon-zuma-r300"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20313",
+    "name": "Vibrophase",
+    "image": "images/zvex-vibrophase.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 67,
+    "height": 110,
+    "details": "Vibrato / Phaser",
+    "hrid": "zvex-vibrophase"
+}

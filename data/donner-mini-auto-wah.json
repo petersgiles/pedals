@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15338",
+    "name": "Mini Auto Wah",
+    "image": "images/donner-mini-auto-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$34 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Dynamic WahAuto Wah Pedal, fully controllable envelope filter with unique decay control, and very fast precision tracking.\nWith four buttons to control different functions Sens is controls the sensitivity. Res is used to control the filter sharpness. Decay used to control the filter frequency, in the tranquil Zurückfällt. Range is used to control the filter frequency range.\nAnalogue for circuit design, true bypass delivers clear sound. Whole aluminum alloy Classic tough and strong.\nLED indicator shows status of operation.\nDC 9 V adapter power adaptor (power supply not included).\nhttps://www.amazon.de/dp/B077TL5VBK/_encoding=UTF8?colid=1EPLQ31WXIU4W&coliid=I2Z9CF5K2AY593&language=en_GB&psc=0",
+    "hrid": "donner-mini-auto-wah"
+}

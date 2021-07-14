@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18192",
+    "name": "Philosopher Bass Compressor Micro",
+    "image": "images/pigtronix-philosopher-bass-compressor-micro.jpg",
+    "function": [
+        "Dynamics",
+        "Bass"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$119 Price in €",
+    "width": 44,
+    "height": 95,
+    "details": "CompressorPigtronix Philosopher Bass Compressor Micro brings the heralded Philosopher’s Tone compressor circuit to bassists in a micro-sized stompbox format. The SUSTAIN control on this pedal varies the compression threshold to provide everything from subtle peak limiting to infinite clean sustain, all with incredible low-end response. The Philosopher Bass Compressor also sports a BLEND knob, allowing the clean sound of your instrument to be heard in parallel with the optical compression. Blending some clean signal into the mix restores the instrument’s natural string attack, while simultaneously providing the musical benefits of additional punch and sustain.\nIn addition to the wide-range analog compression circuit with unrivaled sustain and parallel blend, the Philosopher Bass Compressor’s GRIT knob blends in a harmonic distortion tuned especially for low-frequency domination. Used with a tube or solid state amp—or even straight into a mixing board, DI or DAW—the Philosopher Bass Compressor Micro delivers a new level of control and power to bass players at an affordable price. The Philosopher Bass Compressor features true-bypass switching and runs on standard 9VDC power with an internal, voltage-doubling circuit providing 18VDC power rails for superior performance with active basses. Never before has so much bass-friendly compression been squeezed into such a small package.\nFEATURES\nNoiseless Clean Sustain\nBlend control for Parallel Compression\nGrit control mixes in Bass Distortion\nRuns on standard 9V external power\nInternal 18V power for max headroom\nTrue Bypass switching\nSize = 3.75” x 1.5” x 1.75”\nhttps://pigtronix.com/product/philosopher-bass-compressor-micro/",
+    "hrid": "pigtronix-philosopher-bass-compressor-micro"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11794",
+    "name": "Messner",
+    "image": "images/walrus-audio-messner.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 74,
+    "height": 121,
+    "details": "TRANSPARENT LIGHT-GAIN OVERDRIVE\nhttps://www.walrusaudio.com/collections/pedals/products/messner-overdrive",
+    "hrid": "walrus-audio-messner"
+}

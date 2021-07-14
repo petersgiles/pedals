@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16606",
+    "name": "Phaser",
+    "image": "images/ross-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ross",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 90,
+    "height": 128,
+    "details": "",
+    "hrid": "ross-phaser"
+}

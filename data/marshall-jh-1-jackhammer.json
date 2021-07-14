@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12052",
+    "name": "JH-1 Jackhammer",
+    "image": "images/marshall-jh-1-jackhammer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$59 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Overdrive & DistortionThe Jackhammer (nomen est omen) is the hardest representative of the Marshall Distortion squad, and it really lives up to thomann its name. Gain the hilt, it always packs a whole load of punch and assertiveness for those who take the time to discover the really generous adjustment possibilities of this quaint pedal. The Contour Frequency control is especially noteworthy. With it, you can select a desired frequency and thomann then raise / lower the Contour control. So you can achieve really drastic sound changes and quasi tailor your own sound.\nhttps://marshallamps.com/products/pedals/jh-1-jackhammer/",
+    "hrid": "marshall-jh-1-jackhammer"
+}

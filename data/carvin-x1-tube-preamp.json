@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20535",
+    "name": "X1 Tube Preamp",
+    "image": "images/carvin-x1-tube-preamp.jpg",
+    "function": [
+        "PreAmp",
+        "Tube",
+        "Equalizer"
+    ],
+    "manufacturer": "Carvin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$449 Price in €",
+    "width": 225,
+    "height": 213,
+    "details": "All-Tube Preamp PedalThe design criteria for the X1 was to deliver the sounds of the classic Carvin X-100B amplifier in a compact package with added connectivity. The result is a full tube preamp in a pedal format, able to fit in a carry-on or backpack. The X1 incorporates tube technology with simple, yet flexible modern features to interface with many types of gear.\nThe X1 is designed to give you real tube tone with the ability to integrate into nearly any system. The X1 works as an add-in pedal to your current setup, or it can be the center of your whole guitar rig for live or recording. If you already have a favorite guitar amp, the X1 preamp can work as a pedal in front of your amp with true hardwire bypass. It can feed a power amp or a guitar amp return to power guitar speaker cabinets. If you don’t have an amp at all, it can drive a regular guitar cabinet directly with 1 Watt of power. The Cab Voiced/Phones jack uses Carvin Amplifiers' third generation Cabinet Voicing circuit to give you the frequency response of a 2x12” or 4x12” guitar speaker cabinet so you can just plug in headphones or connect to a recording or PA system without having to mic a speaker.\nTone generation and overdrive comes from 12AX7 tubes, utilizing tube gain stages running at the same operating conditions as they do in a full-size X100B tube amp.\nThe X1 has 4 top mounted footswitches for Channel, Gain, Graphic EQ and Bypass. Switch from Rhythm to Lead with the CHANNEL switch, then hit the GAIN footswitch to kick up the tube overdrive when you need it. Kick in the Graphic EQ for a second set of tone on demand. Use the BYPLOOP footswitch to hard bypass the whole pedal, or to just turn off the Effects Loop. The Graphic EQ’s back lighting shows different colors for channel selection and EQ on so you always know what setting you’re on.\nThe wide-range BASS, MID, TREBLE, and PRESENCE tone controls are the same circuits as used in the X-100B amplifier. The Rhythm channel’s BRIGHT switch adds sparkling clear highs to clean tones. The powerful 5-band Graphic EQ can be set to activate for either or both channels, and footswitched off/on.\nhttps://carvinaudio.com/products/x1",
+    "hrid": "carvin-x1-tube-preamp"
+}

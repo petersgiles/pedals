@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12445",
+    "name": "MD-500",
+    "image": "images/boss-md-500.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Phase Shifter",
+        "Ring Modulator",
+        "Rotary",
+        "Tremolo",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "225 mA / ? V / AC",
+    "cost": "$350 Price in €",
+    "width": 170,
+    "height": 138,
+    "details": "ModulationPowered by advanced BOSS technology, the ultra-versatile MD-500 delivers nearly any type of modulation effect a musician could want, and then some. Included are 28 different algorithms with intensive programming parameters, offering a nearly limitless sound palette to create with. And with class-defying 32-bit AD/DA, 32-bit floating point processing, and 96 kHz sampling rate throughout, you’ll enjoy pristine sound quality that extends beyond the capabilities of the very best studio hardware.\nEffects in the MD-500 include many new Prime types developed with cutting-edge BOSS tech, plus authentic sonic recreations of vintage classics like the CE-1 Chorus Ensemble, Roland Dimension D, ‘70s script phaser, ‘80s tri-chorus, and numerous others. With the ability to use two patches at once with A/B Simul mode, the MD-500 can likely cover all your mod needs with one convenient pedal. And by inserting drive pedals in the MD-500’s flexible external loop, it’s easy to place mod effects before, after, or around the loop as needed for the very best sound.\nhttps://www.boss.info/us/products/md-500/",
+    "hrid": "boss-md-500"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12375",
+    "name": "Spectre (Blue Knob)",
+    "image": "images/chase-bliss-audio-spectre-(blue-knob).jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Through-zero and back again.Many decades ago, it is rumored that a certain, infamous “Spectre” created the effect we’ve all come to know as flange by putting a finger on a set of identical tape recorders, slightly altering the speed of one of the recorders. Through-zero flanging is an incredibly rare and inspiring effect, especially in the analog domain. By using two delay lines (as opposed to just one), Spectre can cross over the elusive “zero point.” This through-zero flanger pedal features an all-analog signal path that can be dialed in to create any amount of subtle and wacky flange tones. Spectre also boasts an impressive array of chorus and vibrato tones.  Further, every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog the entire time and never gets digitally processed. Since the control of the effect is digital, it opens up unprecedented effects and features that have never been heard or offered in analog stompboxes.\nhttp://chaseblissaudio.com/spectre/",
+    "hrid": "chase-bliss-audio-spectre-(blue-knob)"
+}

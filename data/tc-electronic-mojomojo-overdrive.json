@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14536",
+    "name": "MojoMojo Overdrive",
+    "image": "images/tc-electronic-mojomojo-overdrive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Overdrive Pedal with Extra HeadroomA pedal that sounds like an amp, with a very open character and little compression allowing even the most subtle of your playing to shine through. We basically set out to capture lightning in a bottle with a clarity that even allowed for complex chords to stand out – did we succeed? Well, plug it in, play one lick, look us in the eye and try to tell us we didn’t!\n•    Increased circuit board voltage for extra headroom\n    •    Precise tone controls\n    •    Voicing switch\nhttps://www.tcelectronic.com/product.html?modelCode=P0DDI",
+    "hrid": "tc-electronic-mojomojo-overdrive"
+}

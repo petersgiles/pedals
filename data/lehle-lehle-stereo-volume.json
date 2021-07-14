@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27167",
+    "name": "Lehle Stereo Volume",
+    "image": "images/lehle-lehle-stereo-volume.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Lehle",
+    "current": "62 mA / 9 V / DC / Negative Center",
+    "cost": "$226 Price in €",
+    "width": 100,
+    "height": 260,
+    "details": "Stereo volume pedalThe Lehle Stereo Volume is a volume pedal equipped with a precise magnetic sensor enabling it to operate almost wear-free. This sensor uses the Hall effect, named after Edwin Hall, to measure the strength of magnetic fields. In the Lehle Stereo Volume, the Hall sensor, which is made in Germany, is accurately calibrated to the built-in magnet and the control range of the pedal. The pedal moves only the magnet, the distance is measured by the Hall sensor which controls a VCA.\nVoltage: 9 - 15 V DC or 7 - 12 V AC\nhttps://lehle.com/EN/Lehle-Stereo-Volume",
+    "hrid": "lehle-lehle-stereo-volume"
+}

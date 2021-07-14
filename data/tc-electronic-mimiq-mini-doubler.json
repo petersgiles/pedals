@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19541",
+    "name": "Mimiq Mini Doubler",
+    "image": "images/tc-electronic-mimiq-mini-doubler.jpg",
+    "function": [
+        "Digital",
+        "Phase Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Compact Double TrackingMini version of the world’s only realistic doubling pedal\nDesignate for either ultra-tight or slapback-style doubling\nLife-like 2 voice doubling creates illusion of more than 1 guitar playing at once\nPerfect for crushing heavy metal rhythm parts as well as classic double-tracked solos\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off \nSimple, easy-to-use controls let you focus on playing\nExtra-small enclosure easily fits on any pedal board \nHigh-quality components to give you true-to-life doubling in a mini-pedal format \n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/MIMIQ-MINI-DOUBLER/p/P0CQA",
+    "hrid": "tc-electronic-mimiq-mini-doubler"
+}

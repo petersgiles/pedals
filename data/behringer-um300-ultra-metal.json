@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12733",
+    "name": "UM300 Ultra Metal",
+    "image": "images/behringer-um300-ultra-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Heavy Metal DistortionIn the churning, smoldering world of heavy metal, it’s the middle frequencies that make all the difference between mush and muscle. With the UM300 ULTRA METAL, you not only get control over the Mids – you can micromanage them!\nhttps://www.behringer.com/product.html?modelCode=P0606",
+    "hrid": "behringer-um300-ultra-metal"
+}

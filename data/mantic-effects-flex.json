@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14503",
+    "name": "Flex",
+    "image": "images/mantic-effects-flex.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 92,
+    "height": 117,
+    "details": "",
+    "hrid": "mantic-effects-flex"
+}

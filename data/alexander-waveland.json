@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21102",
+    "name": "Waveland",
+    "image": "images/alexander-waveland.jpg",
+    "function": [
+        "Chorus",
+        "Phase Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "ModulationMore. That’s the best way we can describe the sounds and features of the Wavelength.  We took everything from our Waveland Multi-Modulator and blew it up larger than life, while keeping it the exact same size. \nWe’ve added some welcome improvements like more modulation engines and tap tempo, and some cool surprises like selectable waveforms.  It’s a true all-in-wonder for your modulation needs.\nThe sonic scientists at Alexander Pedals have been working overtime to cram the most pedal into the smallest box, and we now present the Neo Series!  Each Neo Series pedal incorporates an advanced 32-bit microcontroller adding presets, expression, and MIDI capability.\nThe Neo Series pedals are small but mighty!  Imagine having a single pedal on your board that can access up to 4 separate preset tones with a touch of your toe.  Connect an expression pedal to \"morph\" between two distinct settings for each preset for dynamic real-time effects.  Or hook up a simple footswitch to trigger a timed \"ramp\" between those expression settings.  Expressive performance technology, right at your feet.",
+    "hrid": "alexander-waveland"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19319",
+    "name": "Fwonkbeta",
+    "image": "images/mr.-black-fwonkbeta.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Purple Funk Generator (Envelope Filter)FwonkBeta has that fonk that'll have you telling everyone in the room you swear you changed your socks this morning.\nBut its that Purple.  Purple funk.\nGet up for the DownStroke.\nThis Envelope/Low-Pass filter is funkier than nine pounds of shaving powder, and with the Fwonk control up high, it is anything but subtle or mellow.\nSerious low-end thump when desired, the FwonkBeta will probably knock down anything hanging on the wall, and maybe even push around free standing furniture.  It is just that off the chain.\nhttps://mrblackpedals.com/collections/pedals/products/fwonkbeta",
+    "hrid": "mr.-black-fwonkbeta"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16181",
+    "name": "Micro Dream",
+    "image": "images/death-by-audio-micro-dream.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 127,
+    "details": "DelayBEAUTIFUL LO-FI DELAY\nSimilar to the thick and gooey sound of the Echo Dream 2 but streamlined and smaller, with a slightly more grainy delay sound. Sounds super demented with fuzz or in to an overdriven amp. This pedal is designed to sound good all the time, every time. Set the internal trimpot to adjust the feedback point so that it can stay mellow or scream into self-oscillation. \nhttps://deathbyaudio.com/collections/reverb/products/micro-dream?variant=5249687519263",
+    "hrid": "death-by-audio-micro-dream"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27108",
+    "name": "VPL-1",
+    "image": "images/artec-vpl-1.jpg",
+    "function": [
+        "PreAmp",
+        "Volume"
+    ],
+    "manufacturer": "Artec",
+    "current": "14 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 96,
+    "height": 254,
+    "details": "Active Boost pedal with Volume Control\nhttp://www.artecsound.com/effect/vpl-1.htm",
+    "hrid": "artec-vpl-1"
+}

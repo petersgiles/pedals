@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13565",
+    "name": "Jemini",
+    "image": "images/ibanez-jemini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 170,
+    "height": 140,
+    "details": "2-Channel Overdrive/DistortionThe Ibanez Jemini unleashes Steve Vai's first Signature Distortion pedal. The unique, multicolored Jemini stompbox combines overdrive and distortion in one rigid aluminum case. Indicator LED lights surround the knobs, and a unique multicolor case with Vai logo rubber foot pedals dress this awesome pedal. The Jemini is meant to be seen as well as it is heard. Each side includes drive, tone and level controls with LED indicators around each control. The LED bright/save control switch works well for daytime use or for saving the battery. Steve's trademark logo is imprinted on the padded foot switches, and the housing is finished off with his infamous trademark swirl paint job.",
+    "hrid": "ibanez-jemini"
+}

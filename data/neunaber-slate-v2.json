@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17474",
+    "name": "Slate V2",
+    "image": "images/neunaber-slate-v2.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital",
+        "Multieffect",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 74,
+    "height": 117,
+    "details": "Slate is a reprogrammable stereo effect pedal. Like all of our stereo pedals, Slate can be programmed as any effect in Pedal Customizer software:\nWet™ Reverb\nChroma™ Chorus\nEchelon™ Echo\nSeraphim™ Shimmer\nInfinity Hold (works only in buffered-bypass mode)\nThe footswitch behavior is also selectable (see the Advanced User Guide for details):\nTap Tempo for echo\nLong-press for shimmer\nTwo-stage bypass for reverb\nThe Slate top surface may be written on with a Sharpie™-brand silver metallic marker, then erased with common 91% (or greater) isopropyl alcohol.\nFeatures\nStereo or mono input and output\nThree controls, function depending on effect\nAccess 4 programmable effects with 2 presets each via ExP accessory (sold separately)\nMix knob goes to 100% effect\nBuffered trails bypass (optional true bypass available) with soft-switching\nVery high input impedance: no \"tone suck\"\nAnalog dry signal for low noise and zero latency\nSmall footprint\nRequires standard 9V or 12V pedal power supply (not included)\nMade in Orange County, California USA",
+    "hrid": "neunaber-slate-v2"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13352",
+    "name": "Kliptonite",
+    "image": "images/stone-deaf-kliptonite.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 117,
+    "height": 152,
+    "details": "Fuzz/Overdrive PedalCombining a Paracentric EQ, Mix knob (between fuzz and overdrive), expression control and dual channel foot-switchable operation, the Kliptonite is one of the most exciting fuzz and overdrive combinations that you are ever likely to experience. \n​\nHowever, Kliptonite’s most unique feature is the ability to mix the overdrive and the fuzz circuits in parallel in either of the distinctive tone’s favour and switch using the footswitch in a flip-flop fashion between the two. So for example, you could set 75% overdrive and 25% fuzz, push the foot-switch flipping the signal to the other channel and then have 75% fuzz 25% overdrive. \nWhile the overdrive can give you a creamy bluesy tone, the fuzz on this pedal is a velcro type fuzz, so don’t expect smooth endless sustaining notes, instead expect ripping, spluttery madness that’ll make your riffs stick out with true ferocity. \nAdd a Stone Deaf EP-1 active expression pedal to the expression input control and on top of the impressive regular tone shaping features, Kliptonite can also achieve wah, phaser and manual tonal shift tones as well as the ability to control your tone on the fly with your foot. \n*** Please note *** \nThe expression input will only work with Stone Deaf EP-1 active expression pedal. \nEach Kliptonite is proudly manufactured by Stone Deaf in our factory based in Huddersfield, West Yorkshire, England.\nhttp://www.stonedeaffx.com/kliptonite",
+    "hrid": "stone-deaf-kliptonite"
+}

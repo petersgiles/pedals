@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12719",
+    "name": "LMB-3 Bass Limiter Enhancer",
+    "image": "images/boss-lmb-3-bass-limiter-enhancer.jpg",
+    "function": [
+        "Bass",
+        "Dynamics"
+    ],
+    "manufacturer": "Boss",
+    "current": "17 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "LimiterFull control of bass guitar's dynamic range via threshold level and ratio knobs\nEnhancer provides increased bass clarity and presence\nAC adaptor or 9V battery operation\nBOSS five-year warranty\nhttps://www.boss.info/global/products/lmb-3/",
+    "hrid": "boss-lmb-3-bass-limiter-enhancer"
+}

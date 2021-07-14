@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11677",
+    "name": "Afterglow Chorus",
+    "image": "images/tc-electronic-afterglow-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Vintage-Style Chorus Pedal with All-Analog Bucket-Brigade CircuitVintage-style chorus pedal\nLegendary, all-analog bucket-brigade (BBD) circuit\nLush three-dimensional modulation tones\nTrue Bypass for ultimate signal integrity\n“Built-like-a-tank” metal chassis\nRuns on 9 V battery or the TC Electronic Powerplug 9 (not included)\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/product.html?modelCode=P0CAQ",
+    "hrid": "tc-electronic-afterglow-chorus"
+}

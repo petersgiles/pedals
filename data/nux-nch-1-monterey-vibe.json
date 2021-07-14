@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26882",
+    "name": "NCH-1 Monterey Vibe",
+    "image": "images/nux-nch-1-monterey-vibe.jpg",
+    "function": [
+        "Chorus",
+        "Digital",
+        "Phase Shifter",
+        "Rotary"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "Uni-VibeRecreate classic uni-vibe style effects in 60's, can be used as chorus, rotary speaker or phaser pedal.\nBy using a powerful 32bit float point DSP, we modernized the complex physical phenomena of 4-stage phaser based on a pulsating bulb surrounded by 4 photoresistors.\nUltra low noise, high performance 96kHz/ 24bit A/D and D/A converters; 100dB typical dynamic range.\n120% (+3dB) boost level when your crank up the volume knob.\nSupports buffer bypass or true bypass selection to get the best performance; with micro USB port for firmware upgrade.",
+    "hrid": "nux-nch-1-monterey-vibe"
+}

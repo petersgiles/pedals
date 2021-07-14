@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21444",
+    "name": "Midibox",
+    "image": "images/chase-bliss-audio-midibox.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$59 Price in €",
+    "width": 111,
+    "height": 60,
+    "details": "Converts the standard 5 pin MIDI cable to a simple TRS patch cable. The Chase Bliss Audio Midibox allows you to connect Chase Bliss Audio (or Empress) pedals to a standard MIDI cable. More specifically, it converts the standard 5 pin MIDI cable to a simple TRS patch cable. There are internal jumpers so that you can make any port you want compatible with Chase Bliss, Empress, or Meris products. The jumpers on this product are simply making them “ring active” (instead of “tip active”) on the TRS jack so that the interface to the Chase Bliss Audio tap/midi jack with just a common TRS patch cable.\nhttps://chaseblissaudio.com/product/chase-bliss-audio-midibox/",
+    "hrid": "chase-bliss-audio-midibox"
+}

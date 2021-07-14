@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21675",
+    "name": "BLE400",
+    "image": "images/behringer-ble400.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 70,
+    "height": 122,
+    "details": "Bass Limiter Enhancer BLE400 Bass Effects PedalSmooth out harsh volume peaks when using dynamic slaps or other playing styles\nThis Behringer product has been designed to compete head to head with leading products on the market\nPowerful enhancer gives you unbelievable presence and bass punch\nDedicated Level, Enhance, Ratio and Threshold controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for highest signal integrity in bypass mode\nhttps://www.behringer.com/product.html;jsessionid=C83FAFB0C1F1C3A9C9728754C654AE12?modelCode=P0592",
+    "hrid": "behringer-ble400"
+}

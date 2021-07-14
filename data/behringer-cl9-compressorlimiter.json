@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12745",
+    "name": "CL9 Compressor/Limiter",
+    "image": "images/behringer-cl9-compressorlimiter.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$30 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Classic Compressor / LimiterThe CL9 smooths out your signal stopping ear-piercing volume peaks and boosting low-level bass strings. It gives you a very even tone across the entire spectrum and delivers killer sustain. Dial in the Attack and Sustain knobs to get that perfect sound for guitar or bass. \n-Compressor evens out your sound and adds sustain\n-Attack and Sustain knobs shape your sound and the pedals reaction time\n-Smooth out string volume and unwanted volume peaks\n-Give your clean sound punch and a percussive edge\nhttps://www.behringer.com/behringer/product?modelCode=P0546",
+    "hrid": "behringer-cl9-compressorlimiter"
+}

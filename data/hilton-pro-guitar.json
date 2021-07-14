@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12829",
+    "name": "Pro Guitar",
+    "image": "images/hilton-pro-guitar.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Hilton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "Active Volume Pedal",
+    "hrid": "hilton-pro-guitar"
+}

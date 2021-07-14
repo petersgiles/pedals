@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32183",
+    "name": "MP-100 MIDI Foot Controller",
+    "image": "images/harley-benton-mp-100-midi-foot-controller.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$127 Price in €",
+    "width": 286,
+    "height": 110,
+    "details": "MIDI/USB foot controller10 Programmable foot-switches\n2 Expression Pedal Inputs for Volume, Wah or other effect parameters (Expression pedals are not included)\nSends Program Change & Control Change Midi commands via the USB port as well as via the MIDI output\nAlready contains preprogrammed configurations for popular software or devices, e.g. Bias FX, JamUp, Kemper or Ax FX\n2 Expression Pedal Inputs: 6.3 mm Stereo jack\nMIDI out\nUSB\nPowered by 2x AAA batteries or AAA batteries (not included)\nBuilt-in charging function for batteries\nDimensions (W x D x H): 286 x 110 x 65 mm\nWeight: 950 g\nIncludes MIDI cable and USB Type B cable\n\nhttps://www.thomann.de/gb/harley_benton_mp_100_midi_foot_controller.htm",
+    "hrid": "harley-benton-mp-100-midi-foot-controller"
+}

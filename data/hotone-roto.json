@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19363",
+    "name": "Roto",
+    "image": "images/hotone-roto.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Rotary Speaker SimulatorThe Hotone ROTO stompbox is a fresh-vibe pedal that reaches into the soul of every man, woman, and child.\n The sleek rotations and subtle pitch variations will take you places you never knew could be so smooth…or so funky.\n Inspired by the legendary Leslie rotary speaker*, Hotone has put that rotating speaker effect into a very small pedal, there is cause for another round of rejoicing!\nOnboard controls let you adjust the color, intensity and speed of your effect. Just like the original big speaker cabinet, you can use VIBE button to switch between tremolo and chorale mode.\nhttp://www.hotoneaudio.com/products/skyline/modulation/78.html",
+    "hrid": "hotone-roto"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20705",
+    "name": "Neuron",
+    "image": "images/neunaber-neuron.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "MIDI",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "99 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 74,
+    "height": 142,
+    "details": "Dynamic multistage guitar preampIntroducing Neuron Gain Intelligence — a dynamic multistage guitar preamp with compressor, noise gate, speaker simulator, presets and MIDI in a compact pedal format.\nDynamic multistage gain architecture yields unparalleled control over the desired amount of distortion — producing harmonic structures that range from subtle to dense and complex. Its hyper-realistic feel allows you to experience the joy of playing bull-bore through an amp without the size, weight, cost and potential hearing damage!\n    Unique design, based on years of research into amps and pedal circuits, is not a model, emulation or simulation of any particular amp. What this gives you is a unique, versatile sound — your secret weapon.\n    Single-knob Compressor easily controls the drive level for smooth, consistent tone. You can quickly dial in just the right amount of sustain.\n    Studio-quality Noise Gate with adjustable threshold keeps your signal dead quiet, which means you won’t have to worry about pickup hum.\n    Global Tilt EQ adapts your tone to various setups, saving you time when you change amps or between an amp and direct — simply turn one knob and you're ready to go!\n    Switchable Speaker Simulator for running direct or to a powered monitor/full-range powered cab, saving you the trouble of an outboard speaker sim.\n    Three-band EQ plus Tightness and Presence gives you total control over your tone. Non-interacting controls allow you to make impactful and precise adjustments quickly. No more going back and forth between EQ controls that never seem to dial in.\n    Up to 24 presets can be recalled via MIDI controller, and up to 6 presets (user-configurable) stored/recalled from the footswitch. It’s like having a multi-channel amp in a pedal. You can replace several pedals with Neuron, saving you money and making your rig a lot easier to carry around.\n    MIDI controllable and compliant with MIDI.org’s new 2.5mm TRS jack standard. Two adapter cables are included to connect to 5-pin DIN MIDI cables. All functions are directly controllable with any standard MIDI controller. This means you can access Neuron’s full capabilities with ease without any special or proprietary equipment.\n    Neuron Commander Software (free of charge, for macOS and Windows) makes setup even easier. Use an inexpensive USB-MIDI adapter (not included) to connect Neuron Commander Software. Of course, you can also perform all setup directly on the pedal itself.\n    True bypass switching ensures that Neuron is completely disconnected from your signal chain when not in use, which means that it won’t change your tone unless you want it to.\n    Small, pedalboard-friendly footprint. Neuron might be the most powerful guitar preamp for its size.\n    Powered from a standard 9V pedal power supply, Neuron draws less than 100 mA. Just plug it in to your existing pedalboard’s power supply. No need to run a separate power adapter or free up a power port for a hungry, high-current device. Just plug and go, it’s that easy. Don’t have a power supply? We sell a nice compact one.\n    Manufactured locally in Orange County, California USA. Feel good by supporting a small USA business that is 100% family-owned and operated.\nhttps://neunaber.net/products/neuron",
+    "hrid": "neunaber-neuron"
+}

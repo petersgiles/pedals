@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11973",
+    "name": "Bitrman",
+    "image": "images/alesis-bitrman.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo",
+        "Dynamics",
+        "Filter",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Alesis",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$500 Price in €",
+    "width": 148,
+    "height": 98,
+    "details": "Alesis Modular pedal format using Dsub bit reduction / decimator / ring modulator / frequency modulator / comb filter with compression and distortion. ModFX series pedal has a D Sub in and out so other pedals can be connected in line as a modular system. Has a line trim o n the input so it works great on drum machines and synths",
+    "hrid": "alesis-bitrman"
+}

@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13802",
+    "name": "Polymoon",
+    "image": "images/meris-polymoon.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Dual/Stereo",
+        "Flanger",
+        "MIDI",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Meris",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 108,
+    "height": 114,
+    "details": "Super-Modulated Delay inspired by cascaded rack gear.Super-Modulated multiple tap delay\n1200mS real time selectable multiple-tap delay line\nMassive multi LFO modulation controls\n6 custom tuned LFOs with adjustable waveforms for subtle to aggressive pitch shifting effects\nAdjustable Tilt EQ filter in delay feedback\nTempo syncable stereo Barberpole Phaser\nMultimode stereo Dynamic Flanger w/ feedback\nUnique feedback topology\nDimension control for smearing reflections\nSelectable quarter or dotted eighth note Tap Tempo\nDigitally controlled Analog mix control\nStereo input and output\nSwitchable input output headroom level for Guitar, Synthesizer or Line levels\nExpression pedal control over all parameters simultaneously\nPresets available via external 4-Preset switch or MIDI\nMIDI in/out over TRS via the EXP jack\nExternal Tap Tempo over TRS\nMIDI beat clock synchronization\nPremium analog signal path and 24-bit AD/DA w/32 bit floating point DSP\nPremium Analog Devices JFET input section\nColor – white powder coat with fine iridescent flake\nDesigned and built in Los Angeles, California U.S.A.\nPremium quality 24 bit A/D and D/A\n32 Bit floating point DSP hardware\nPremium low noise Analog signal path throughout\nDigitally controlled Analog Dry path for wet/dry mix\nAnalog Devices JFET input circuitry\nSelectable True Bypass (Relay) or Analog Buffered Bypass\n150 mA total power consumption\nDurable white powder coat with fine iridescent flake\nCurrent draw – \nhttps://www.meris.us/product/polymoon-pedal/",
+    "hrid": "meris-polymoon"
+}

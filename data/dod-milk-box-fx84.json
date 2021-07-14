@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11925",
+    "name": "Milk Box FX84",
+    "image": "images/dod-milk-box-fx84.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 77,
+    "height": 131,
+    "details": "",
+    "hrid": "dod-milk-box-fx84"
+}

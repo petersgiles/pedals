@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26285",
+    "name": "Revecho",
+    "image": "images/donner-revecho.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$59 Price in €",
+    "width": 132,
+    "height": 64,
+    "details": "Two Mode Delay and ReverbConvenient compact size\nTrue bypass provide transparent tone,LED indicator shows the working state.\nTwin pedal combining delay and reverb effects in one\nTap Tempo function for instant delay time control\nSuitable for any music style.\nREVERB: Controls the reverb effect level.DECAY:Controls the reverberation time.LEVEL:Controls the delay effect level.\n\nFEEDBACK: Controls the feedback of delay.  DELAY:Controls the delay time.TIME for 25-2000ms delays\n    REVERB Footswitch: Switch the reverb effect on/off.Hold the footswitch: Switch effect tail on/off when reverb is bypassed.\n    DELAY Footswitch: Switch the delay effect on/off.Hold the footswitch: Switch Tap Tempo function on/off; the LED above the footswitch will indicate current delay time.\n    DC 9V Jack: For power supply, use a 9-volt DC regulated by AC adapter, (plug polarity is positive on the barrel and negative in the center).\nhttps://www.donnerdeal.com/products/donner-revecho-guitar-effect-pedal-2-mode-delay-and-reverb-effects-pedal?variant=20076713705561",
+    "hrid": "donner-revecho"
+}

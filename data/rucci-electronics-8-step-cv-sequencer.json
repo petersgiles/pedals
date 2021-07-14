@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28412",
+    "name": "8-Step CV Sequencer",
+    "image": "images/rucci-electronics-8-step-cv-sequencer.jpg",
+    "function": [
+        "Synth Voice",
+        "Utility"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "26 mA / 9 V / DC / Negative Center",
+    "cost": "$110 Price in €",
+    "width": 121,
+    "height": 145,
+    "details": "(0-5 Volt) 8-Step CV SequencerThis is an eight step CV sequencer that outputs a control voltage from 0 to 5 volts. This is used to manipulate other equipment that utilizes CV input.\nYou have control over the speed of the sequencer as well as the voltage of each step. This will also sync up with other devices that make use of 5volt clock. There is a switch to start/stop the sequence and a button to manually step through when stopped.\nAll jacks are 1/8″ (3.5mm). The CV output is separated from the sync jacks. It has a sync input and two sync outputs, one that outputs a clock pulse for each step and one that outputs one pulse per full sequence. This allows multiple units to sync up either step for step or overlapping. Sync in is closest to the DC input, in the middle is the sync out, and closest to the CV output jack is the sync out with one pulse per full sequence.\nIt is housed in an extremely tough, raw aluminum case. It is powered by a 9V battery or 9V center-negative DC adapter.\n\nhttps://handmadeelectronicinstruments.com/product/8-step-cv-sequencer/",
+    "hrid": "rucci-electronics-8-step-cv-sequencer"
+}

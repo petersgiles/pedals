@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11726",
+    "name": "Tube Screamer Mini",
+    "image": "images/ibanez-tube-screamer-mini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "Overdrive pedal with drive, tone, and level controls\nhttp://www.ibanez.com/products/u_effect_page17.php?year=2017&cat_id=6&series_id=153&effect_id=2",
+    "hrid": "ibanez-tube-screamer-mini"
+}

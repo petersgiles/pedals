@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16011",
+    "name": "Olympia",
+    "image": "images/caroline-olympia.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Distortion",
+    "hrid": "caroline-olympia"
+}

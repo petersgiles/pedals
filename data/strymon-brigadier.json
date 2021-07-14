@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14297",
+    "name": "Brigadier",
+    "image": "images/strymon-brigadier.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "dBucket Brigade DelaySound Design\n\nHand crafted dBucket algorithm for highly accurate reproduction of every stage of an analog bucket brigade chip and the associated clock driver circuitry\nBucket Loss control to vary the amount of loss that occurs at each stage of the dBucket\n3 delay time modes: Short, Medium and Long\nTap Tempo modes for quarter, dotted eighth, and eighth note triplets\nFilter control for adjusting the tone of the delay repeats\nDedicated Modulation control\nAdjustable +/- 3dB boost or cut when the effect is engaged\nPress and hold Tap for Infinite Repeats\n\nIns, Outs & Switches\n\nHigh impedance mono input (internal jumper enables selectable TRS stereo input) Please read this FAQ for more info on the TRS input.\nStereo output\nTap Tempo and Bypass footswitches\nExpression pedal input allows the connection of either an expression pedal (for selectable control over any knob parameter) or Favorite switch (to save a Favorite preset)\n\nAudio Quality\n\nUltra low noise, high performance 24-bit 96kHz A/D and D/A converters\n115dB typical signal to noise\nAnalog dry path for a zero latency dry signal that is never converted to digital\n+8dBu maximum input level easily handles instrument and line signals\n20Hz to 20kHz frequency response\nPremium analog front end and output section\nSuper high performance SHARC DSP in a compact form factor\n32-bit floating point processing\n\nMore\n\nTrue Bypass (electromechanical relay switching)\nSelectable Trails Mode with high quality, transparent Analog Buffered Bypass\n9V center negative DC supply included, 250mA current draw\nStrong and lightweight green anodized aluminum chassis\nCrafted with love in the USA\n\nhttps://www.strymon.net/brigadier/",
+    "hrid": "strymon-brigadier"
+}

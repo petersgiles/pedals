@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12592",
+    "name": "Taff2 Scientific Tremolo",
+    "image": "images/dreadbox-taff2-scientific-tremolo.jpg",
+    "function": [
+        "Ring Modulator",
+        "Tremolo"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 116,
+    "height": 147,
+    "details": "",
+    "hrid": "dreadbox-taff2-scientific-tremolo"
+}

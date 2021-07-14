@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13638",
+    "name": "Adrenalinn 3",
+    "image": "images/roger-linn-adrenalinn-3.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Roger Linn",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 184,
+    "height": 114,
+    "details": "Beat Synched Multi FXWith AdrenaLinn III's unique filter sequences, random filter patterns and synced modulation effects, even simple musical ideas are transformed into rhythmic masterpieces, all locked to the internal drumbeats or MIDI clock. Add 40 superb amp models, note-triggered filter effects, reverb, compression and extensive MIDI pedalboard control, and you'll see why AdrenaLinn III stands alone in a sea of commodity guitar effects.\nhttp://www.rogerlinndesign.com/adrenalinn-iii.html",
+    "hrid": "roger-linn-adrenalinn-3"
+}

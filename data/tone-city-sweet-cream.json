@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16907",
+    "name": "Sweet cream",
+    "image": "images/tone-city-sweet-cream.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 52,
+    "height": 93,
+    "details": "",
+    "hrid": "tone-city-sweet-cream"
+}

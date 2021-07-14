@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26915",
+    "name": "MXR M281 Thump Bass Preamp",
+    "image": "images/mxr-mxr-m281-thump-bass-preamp.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Preamp with a three-band EQThe MXR Thump Bass Preamp is a tone-sweetening, signal-boosting, and altogether groove-enhancing machine. This pedal was conceived when the MXR design team and our in-house bass players discovered that the Echoplex® Preamp’s sonic secret sauce made for just as delectable a pairing with bass as it does with guitar. Using that circuitry as a foundation, the MXR team added a simple yet potent tone-shaping interface so that you can dial in the perfect bass sound for the stage and the studio.\nCrafting the sound you need is easy. The Echoplex Preamp circuit conditions your signal with a carefully balanced EQ profile, and this pedal’s tone controls let you take it from there. The Treble and Bass knobs cut or boost frequencies at 4 kHz and 40 Hz respectively, while the Mid knob cuts or boosts the midrange as set by the Frequency knob, from 250 Hz to 1 kHz. This range of frequencies was selected to give players maximum flexibility and minimal fuss when refining their bass signal.\nWhether you need to punch up a solo, boost your signal in a live mix, or sculpt more edge into the sound of a passive bass, the Thump Bass Preamp packs incredible versatility into an MXR mini housing.\nSpecifications\nInput Impedance: 1 MΩ\nOutput Impedance: 100 Ω\nBass: + 15/-7 dBV, 60 Hz\nMid: ±16 dBV, 1 kHz\nTreble: ±10 dBV, 4 kHz\nFreq Sweep: 250 Hz to 1 kHz\nNoise Floor: -95 dBV\nBypass: True Hardwire\nCurrent Draw: 9 mA\nPower Supply: 9 Volts DC\nhttps://www.jimdunlop.com/mxr-thump-bass-preamp/",
+    "hrid": "mxr-mxr-m281-thump-bass-preamp"
+}

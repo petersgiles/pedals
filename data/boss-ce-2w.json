@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11575",
+    "name": "CE-2W",
+    "image": "images/boss-ce-2w.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Chorus Waza Craft Launched in 1976, the CE-1 Chorus Ensemble was not only the world’s first chorus effect pedal, but also the very first BOSS pedal. Three years later, this inventive new sound was squeezed into the blue CE-2 Chorus, and chorus pedals have remained in the compact lineup ever since. Four decades on, the spacious modulated tone of the signature BOSS effect is still loved by musicians everywhere. In 2016, to celebrate the 40th anniversary of BOSS innovation, the original analog chorus sounds are now reborn with the Waza Craft CE-2W. The CE-2W’s Standard mode faithfully recreates the classic CE-2 chorus sound, and adds an expansive new sound field with stereo output, which was unavailable in the mono CE-2. CE-1 mode fully reproduces the stereo chorus and vibrato sounds of the legendary CE-1, with the addition of variable chorus depth not available in the original pedal. To commemorate the birth of BOSS effects, the CE-2W is made exclusively in Japan, just as the original CE-1 and CE-2 were.\nhttps://www.boss.info/us/products/ce-2w/",
+    "hrid": "boss-ce-2w"
+}

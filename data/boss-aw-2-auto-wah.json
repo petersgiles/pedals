@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12722",
+    "name": "AW-2 Auto Wah",
+    "image": "images/boss-aw-2-auto-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Boss",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Auto wahThe AW-2 took over from the TW-1 in 1991. In addition to the regular Auto Wah effect it has a modulation effect that periodically shifts the sound. This make the variations numerous and it is known to be quite hard to adjust the AW-2’s sound.\nThe RATE knob controls the amount of modulation. Turn off modulation by turning the RATE knob to min. The DEPTH knob sets the range of the modulation effect. In the min position, modulation will be off and the wah intensity will be controlled by the picking strength. The MANUAL knob adjusts the frequency where the modulation Wah effect kicks in and the SENS control sets the sensitivity of the wah. High sensitivity means that a wah effect is produced with soft playing.\nThere are no known changes between AW-2s made 1991 to AW-2s made at the end of its production span in 1999.\nControls: Rate, Depth, Manual, Sens\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 15 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nhttp://www.bossarea.com/boss-aw-2-auto-wah/",
+    "hrid": "boss-aw-2-auto-wah"
+}

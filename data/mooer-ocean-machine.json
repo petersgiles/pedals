@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11439",
+    "name": "Ocean Machine",
+    "image": "images/mooer-ocean-machine.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$301 Price in €",
+    "width": 215,
+    "height": 112,
+    "details": "Devin Townsend signature reverb / delay / looper effects pedalDesigned and developed over two years in collaboration with Devin Townsend, the Ocean Machine is a high fidelity professional Delay, Reverb and Looper unit which brings together the best available hardware on the market and very complex algorithms to create lush, heavenly effects. MOOER has worked very closely with Devin Townsend to meet all of his own personal requirements while also ensuring that the \"Ocean Machine\" is versatile and enjoyable for musicians from all walks of life.\nA multitude of programmability and control options makes the ocean machine ideal for all different kinds of guitarists from bedroom beginners to industry professionals and is easy to integrate into all different kind of setups. MOOER has brought all of this together into a small, stylish and highly competitive, cost efficient package.\nhttp://www.mooeraudio.com/product/Ocean-Machine--53.html",
+    "hrid": "mooer-ocean-machine"
+}

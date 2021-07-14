@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19193",
+    "name": "Boost COMP",
+    "image": "images/tech-21-boost-comp.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Equalizer",
+        "Multieffect"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "Booster ComprssorWhen you want to fatten your guitar or bass tone, increase sustain and punch up your sound, a compressor is a way to go. But compressors can dredge up feelings of compromise, confusion, frustration and intimidation. So we set out to make a player-friendly pedal utilizing old school, all-analog, FET-based technology, which is inherently warmer, more transparent, and more musical than other methods.\nWith simplified, useful controls, the Boost COMP uniquely gives you pre- and post- tone shaping adjustability to get the right balance that complements your instrument and playing style. Presence provides a pre-compression tonal boost for high-end string attack and clarity. Tone provides a post-compression cut or boost to generate a mellower, more lush tone without getting too dark.\nWhen it’s time to jump out, a powerful boost function delivers up to 21dB of clean boost to increase your output level --without adding more compression. A true post-boost, this function can also be used independently.\nUncomplicated means less stress and more focus on your playing. Get vintage warmth, dynamics and sustain the easy way with the Boost COMP.\n9,53 x 12,1",
+    "hrid": "tech-21-boost-comp"
+}

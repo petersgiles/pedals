@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21926",
+    "name": "Sonic Alienator",
+    "image": "images/frostwave-sonic-alienator.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "PreAmp"
+    ],
+    "manufacturer": "Frostwave",
+    "current": "500 mA / 9 V / DC / Positive Center",
+    "cost": "",
+    "width": 220,
+    "height": 140,
+    "details": "Bit-rate/depth reduction device, to add grit, aliasing and distortionThe Frostwave Sonic Alienator is an enhanced Alias frequency generator.  By combining analog filter, sonic decimator and soft distortion drive circuitry in a configurable manner, the Sonic Alienator is capable of producing an almost endless array of harmonically related audio artifacts.\nSome of the features of the Sonic Alienator:\n-Continuously variable sample frequency (analog generated clock)\n-True Analog Low Pass Filter with variable resonance control\n-Selectable output pot function (output volume or wet/dry mix)\n-Multiple decimation bit depth algorithms featuring: Binary and Magnitude decimation\n-6 preset clip selections including waveform folding and bit swapping\n-Configurable effect orientation\n-Soft Distortion input drive for added harmonic frequency generation\n-Precision Low noise design",
+    "hrid": "frostwave-sonic-alienator"
+}

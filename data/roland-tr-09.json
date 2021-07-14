@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17974",
+    "name": "TR-09",
+    "image": "images/roland-tr-09.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$289 Price in €",
+    "width": 308,
+    "height": 130,
+    "details": "Rhythm ComposerThe influence of the TR-909 drum machine is still heard—and felt—more than three decades after it was launched. Now, the 909 sound is available as part of the Roland Boutique series in the form of the TR-09. Featuring the same front-panel layout and user interface of the original, the TR-09 is powered by Roland’s ACB technology, delivering the speaker-pummelling power of the TR-909 in a super-affordable and portable format. Offering precise control over an array of drum parameters and the ability to keep playing when switching modes, the TR-09 may be compact, but it still has the power to move people. Studio sessions are well catered for too, with four separate outputs via USB audio, external instrument control via a trigger output, and USB MIDI.\nhttps://www.roland.com/global/products/tr-09/",
+    "hrid": "roland-tr-09"
+}

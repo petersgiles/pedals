@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25351",
+    "name": "FX42B Bass EQ",
+    "image": "images/dod-fx42b-bass-eq.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 75,
+    "height": 130,
+    "details": "Bass Graphic EQ / Enhancer The FX42B is a seven-band graphic equalizer for bass guitar.\nControls boost/attenuate +/- 18dB:\n    -Level \n    -50Hz\n    -100Hz\n    -200Hz\n    -400Hz\n    -800Hz\n    -1600Hz\n    -3200Hz\nMade in USA\n1987",
+    "hrid": "dod-fx42b-bass-eq"
+}

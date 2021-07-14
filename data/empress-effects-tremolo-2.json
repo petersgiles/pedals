@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14885",
+    "name": "Tremolo 2",
+    "image": "images/empress-effects-tremolo-2.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "The Empress Tremolo2 is an original design built from the ground up to include innovative features without sacrificing tone. The audio signal path is analog, but the tremolo effect is controlled digitally via opto technology. The Empress Tremolo2 is an original design built from the ground up to include innovative features without sacrificing tone. The audio signal path is analog, but the tremolo effect is controlled digitally via opto technology. \nTap tempo, selectable waveforms, a choice of 8 rhythms and a full preset system capable of storing up to 8 presets are all at your fingertips. The control port allows control over the Tremolo2 via external tap tempo, expression pedal, contro l voltage and MIDI, making the tremolo2 more powerful than ever! \nhttps://empresseffects.com/products/tremolo",
+    "hrid": "empress-effects-tremolo-2"
+}

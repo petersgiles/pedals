@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32585",
+    "name": "Space Rip",
+    "image": "images/pigtronix-space-rip.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 40,
+    "height": 95,
+    "details": "Analog synth buzzsawSpace Rip is an analog synth pedal featuring pulse width modulated (PWM) sawtooth and square wave voices in multiple octaves. A state-of-the-art tracking engine allows the Space Rip to keep up with your fastest single note lines, replicating both pitch and dynamics. Sounds like tearing the fabric of spacetime in half. Pulse width of the square and sawtooth waveforms produced by the onboard VCO is kept in a state of flux, generating constant harmonic motion controlled by the Rate knob. The Sub knob adds an additional voice one octave down from the input signal, while the Octave switch drops the entire synth down an additional octave, producing a devastating amount of pure analog synth bass.\nhttps://www.pigtronix.com/pedals/space-rip",
+    "hrid": "pigtronix-space-rip"
+}

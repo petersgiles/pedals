@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31538",
+    "name": "Astral Destiny",
+    "image": "images/earthquaker-devices-astral-destiny.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Octal Octave Reverberation OdysseyThe Astral Destiny is a compact and powerful modulated octave reverb pedal that features 8 reverb modes with 8 editable presets, assignable expression control, tails for natural reverb decay when the effect is bypassed and a super cool stretch feature that doubles the length of the reverb while adding an adjustable pitch bending effect.\n\nAbyss: Huge reverb with no octave effect \nShimmer: Adds an upper octave to the reverb tail\nSub: Adds a lower octave to the reverb tail\nSub Shimmer: Adds an upper and lower octave to the reverb tail\nAstral: Adds an upper and lower octave combined with a regenerating tail\nAscend: Upward pitch bending\nDescend: Downward pitch bending\nCosmos: Adds a regenerating fifth to the reverb tail\n\nhttps://www.earthquakerdevices.com/astral-destiny",
+    "hrid": "earthquaker-devices-astral-destiny"
+}

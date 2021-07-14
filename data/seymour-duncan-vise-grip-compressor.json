@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11504",
+    "name": "Vise Grip Compressor",
+    "image": "images/seymour-duncan-vise-grip-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$161 Price in €",
+    "width": 66,
+    "height": 127,
+    "details": "Compressor for electric guitar",
+    "hrid": "seymour-duncan-vise-grip-compressor"
+}

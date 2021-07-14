@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25766",
+    "name": "Lonely Robot",
+    "image": "images/magnetic-effects-lonely-robot.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Magnetic Effects",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$164 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Overdrive/DistortionThe Lonely Robot is a Rat inspired overdrive/distortion pedal. \nExpanded tonal options and an internal voltage doubler take this Rat inspired pedal to new sonic places. A post-gain active bass eq allows for boosting or cutting of the low end while the voltage doubler increases the headroom available.  \nThe EQ Control alters the amount of gain applied at specific frequencies. Turning to the right will result in a brighter, tighter tone with more gain. Turning to the left will result in a fuller tone with less gain. You can use the EQ control to alter the overall voicing of the pedal. (Note: this a tweaked version of what is commonly know as the “Reutz” mod.)\nThe Clip Control alters the clipping threshold. You can use the Clip control to dial in the precise amount of compression and harmonic saturation. The more gain added, the more range this control has. \nThe Lonely Robot has a high input impedance and low output impedance. This makes it compatible with buffered effects in the signal chain. The Lonely Robot uses True Bypass switching. \nhttps://www.magneticeffects.net/lonely-robot",
+    "hrid": "magnetic-effects-lonely-robot"
+}

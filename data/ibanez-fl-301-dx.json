@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26467",
+    "name": "FL 301-DX",
+    "image": "images/ibanez-fl-301-dx.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / 9 V / DC",
+    "cost": "$112 Price in €",
+    "width": 74,
+    "height": 56,
+    "details": "FlangerAn icon of that '80s sound, the Ibanez FL-301 Flanger serves up sweet, vintage flanged goodness through features like an all-analog design, three-knob layout with controls for speed, regen, and width, and the legendary 301 Ibanez diehard chassis. Capable of summoning big, swirling flange sounds with a few knob twists that put you dead center hair metal grandeur, the FL-301 can also be dialed back for a more sedate effect that adds an edge to your tone.",
+    "hrid": "ibanez-fl-301-dx"
+}

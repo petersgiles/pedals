@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25664",
+    "name": "Apollo VII",
+    "image": "images/spaceman-effects-apollo-vii.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "38 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 127,
+    "details": "Medium-Gain Overdrive Circuit\nhttps://spacemaneffects.com/products/apollo-vii/",
+    "hrid": "spaceman-effects-apollo-vii"
+}

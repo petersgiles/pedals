@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26307",
+    "name": "Snazzy LV - Wow & Flutter",
+    "image": "images/erica-synths-snazzy-lv---wow-&-flutter.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Erica Synths",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 140,
+    "height": 178,
+    "details": "Delay & Tape EffectSnazzy LV Wow & Flutter\nSnazzy FX and Erica Synths have teamed up to for Snazzy LV, re-releasing Snazzy FX's classic pedals in their original form and without compromise. The Wow and Flutter is Snazzy's classic delay & tape warp effect pedal, based around the gooey yet crunchy textures of the Princeton PT2399 delay chip.\nExcellent for lush, lo-fi guitar textures, pitch-warp synth sounds, and subtle backgrounds on master tracks, the Wow & Flutter features all the typical controls of a standard delay but adds the Warp parameter, enabling a built-in envelope generator to track input levels to alter delay time for subtle to extreme bending effects and swooshes. Like the sound of a casette being eaten in a car stereo, the Wow and Flutter is welcome back to its niche after years of absence.\nWow & Flutter Features\n    PT2399-based delay pedal\n    Control for delay time, feedback, and mix\n    Input gain and output volue controls\n    Built-in envelope generator with threshold, attack, decay, and depth (warp) controls linked to delay time\n    Set threshold to high values for dynamically accessible pitch warp effects\n    Classic Snazzy orange and blue rugged enclosure with reel-to-reel butterfly graphics\nhttps://www.ericasynths.lv/shop/snazzy-fx/wow-and-flutter/",
+    "hrid": "erica-synths-snazzy-lv---wow-&-flutter"
+}

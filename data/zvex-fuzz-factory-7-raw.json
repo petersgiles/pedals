@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28460",
+    "name": "Fuzz Factory 7 RAW",
+    "image": "images/zvex-fuzz-factory-7-raw.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$359 Price in €",
+    "width": 92,
+    "height": 122,
+    "details": "https://www.zvex.com/guitar-pedals/fuzz-factory-7-raw-guitar-effects-pedal",
+    "hrid": "zvex-fuzz-factory-7-raw"
+}

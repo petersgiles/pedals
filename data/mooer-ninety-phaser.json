@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11611",
+    "name": "Ninety Phaser",
+    "image": "images/mooer-ninety-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Phaser\nhttp://www.mooeraudio.com/?product/201410166588.html",
+    "hrid": "mooer-ninety-phaser"
+}

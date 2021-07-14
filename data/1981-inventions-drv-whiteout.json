@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26423",
+    "name": "DRV Whiteout",
+    "image": "images/1981-inventions-drv-whiteout.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "1981 Inventions",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 100,
+    "height": 125,
+    "details": "Distortionflat white powder coated + multi-layer uv printing\nThe DRV is a distortion pedal, based on another pedal with a whiteface graphic. I have been working on this project for the better part of three years, as a collaboration and with engineering by Jon Ashley of Bondi Effects. I feel that the pedal is unique in design and sonically unlike anything I have ever heard, especially in the lower gain and boost settings. There is a subtlety that feels more like a vintage pedal than a modification of a classic. There are two circuits present in the pedal, one distortion and one preamp boost, running at 18v via an internal voltage regulator. I made this pedal with the idea to create a distinction for my own sound, and what I found is that it is an extremely useful tool for capturing a lot of different types of sounds. I am most proud of the lower gain side, as I feel it is the most unique section of the pedal, but I must also include that the gain section is extremely sweet sounding throughout, especially for heavy and complex chords. There is a midrange punch that I love and a warmth and thickness that reminds me a bit of a ribbon mic. When the development of this pedal turned into something new and unique, it became the catalyst to starting 1981 Inventions, so I decided to make this the first official release.\nhttps://1981inventions.com/items/drvwhiteout",
+    "hrid": "1981-inventions-drv-whiteout"
+}

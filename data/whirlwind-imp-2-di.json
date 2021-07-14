@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19372",
+    "name": "Imp 2 DI",
+    "image": "images/whirlwind-imp-2-di.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Whirlwind",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 111,
+    "details": "Direct Box\nhttps://www.amazon.com/Whirlwind-1-channel-Passive-Instrument-Direct/dp/B0002DUQ72/ref=sr_1_1_sspa?ie=UTF8&qid=1540563956&sr=8-1-spons&keywords=imp+2+direct+box&psc=1&smid=A2LXBKOLL3J3K6",
+    "hrid": "whirlwind-imp-2-di"
+}

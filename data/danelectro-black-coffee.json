@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26997",
+    "name": "Black Coffee",
+    "image": "images/danelectro-black-coffee.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / DC / Negative Center",
+    "cost": "",
+    "width": 58,
+    "height": 84,
+    "details": "Metal Distortion",
+    "hrid": "danelectro-black-coffee"
+}

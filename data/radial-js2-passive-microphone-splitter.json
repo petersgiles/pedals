@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20403",
+    "name": "JS2 Passive Microphone Splitter",
+    "image": "images/radial-js2-passive-microphone-splitter.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 84,
+    "height": 51,
+    "details": "Microphone Splitter; XLR I/OType..........................................Passive Mic Splitter\nChannels..................................1\nInputs.......................................1 x XLR\nOutputs....................................2 x XLR (thru), 1 x XLR (out)\nHeight......................................2\"\nWidth.......................................3.3\"\nDepth.......................................5.0\"\nWeight.....................................1.5 lbs.\nManufacturer Part #................R800 1022 00\nhttps://www.sweetwater.com/store/detail/JS2Splitter--radial-js2-passive-microphone-splitter",
+    "hrid": "radial-js2-passive-microphone-splitter"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11569",
+    "name": "Reverb",
+    "image": "images/empress-effects-reverb.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$449 Price in €",
+    "width": 145,
+    "height": 95,
+    "details": "Realistic simulations of spaces, as well as never-before-heard surreal ambiances are represented with stunning sound quality. Sporting stereo ins and outs, a small footprint and all the controls at your finger-tips, it strikes the perfect balance of control and ease of use, avoiding laborious menus. Presets, the versatile control port, and MIDI open up a world of possibilities for live performances. Whether you're looking for a classic spring, realistic room or new sonic flavors to expand your creativity, this pedal delivers.\nhttps://empresseffects.com/products/reverb",
+    "hrid": "empress-effects-reverb"
+}

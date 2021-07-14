@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14612",
+    "name": "Box of War",
+    "image": "images/wren-and-cuff-box-of-war.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$225 Price in €",
+    "width": 90,
+    "height": 143,
+    "details": "Civil War Big Muff cloneTrue-to-spec recreation of the Civil War-era Big Muff. Known for its slightly darker, fuzzier tone, and lower output, this era of Muff is cherished for its woody sustain and presence. Uses top quality components and a super heavy-duty enclosure.",
+    "hrid": "wren-and-cuff-box-of-war"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27190",
+    "name": "JF-330 Ocho",
+    "image": "images/joyo-jf-330-ocho.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Joyo",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 43,
+    "height": 73,
+    "details": "Analog monophonic octave pedalIntroducing the latest JOYO mini guitar pedal.. The “Ocho” octave monophonic pedal the controls are as simple as can be: Control the level of both octaves with the OCT1 and OCT2 knobs and the overall volume with the LEVEL knob, that’s it really.\nYou can dive into wide and rich sound textures that make your guitar monophonic.\nAnd, as most of our pedals, the Ocho is also True Bypass.\nhttps://www.joyoaudio.co.uk/joyo-jf-330-ocho-octave-mini-guitar-effect-pedal",
+    "hrid": "joyo-jf-330-ocho"
+}

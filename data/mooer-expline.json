@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23884",
+    "name": "Expline",
+    "image": "images/mooer-expline.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$98 Price in €",
+    "width": 55,
+    "height": 128,
+    "details": "Micro Expression PedalExpline is a micro sized expression pedal which houses high quality electrical components, ensuring smooth a precise control at all times.\nOutput 1 and Output 2 are wired differently from one and other to ensure good operation with equipment from many different brands. Try both outputs to find which renders the best results\nhttp://www.mooeraudio.com/product/Expline-176.html",
+    "hrid": "mooer-expline"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13235",
+    "name": "Gray Channel",
+    "image": "images/earthquaker-devices-gray-channel.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 89,
+    "height": 60,
+    "details": "Dynamic Dirt DoublerThe Gray Channel™ is a real “twofer” of an overdrive. It is based around a classic hard-clipping gray box overdrive (subtle hint, huh), one of my all-time favorites. Coincidentally, this is the very same pedal that got me started building pedals and launched EQD. It is two channels of a simple hard clipping overdrive that leaves the character of the guitar and amp intact. The Gray Channel retains the classic warm overdrive sound and expands upon it with several clipping options and bigger bass response. \nWith more and more drive pedals moving onto already crowded pedal boards, having the Gray Channel dual overdrive is like, totally crucial for sonic growth and sustain. Join the fight to stop pedal board overcrowding, because before we can overdrive tomorrow, we must first drive today... or something.\nhttps://www.earthquakerdevices.com/gray-channel",
+    "hrid": "earthquaker-devices-gray-channel"
+}

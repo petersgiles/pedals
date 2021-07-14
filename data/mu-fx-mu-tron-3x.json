@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16466",
+    "name": "Mu-Tron 3X",
+    "image": "images/mu-fx-mu-tron-3x.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Mu-FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$500 Price in €",
+    "width": 110,
+    "height": 175,
+    "details": "VC Envelope Filter, Auto-WahDue to trademark issues in the US released under the name Tru-Tron 3X only. Mu-Tron 3X is the European version. It's designed by legend Mike Beigel who used to run Musitronics, worked with Guild, Arp and Electro Harmonix (see Q-Tron).",
+    "hrid": "mu-fx-mu-tron-3x"
+}

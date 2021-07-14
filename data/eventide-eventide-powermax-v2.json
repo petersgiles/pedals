@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29243",
+    "name": "Eventide PowerMAX V2",
+    "image": "images/eventide-eventide-powermax-v2.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Eventide",
+    "current": "? mA / 265 V / AC",
+    "cost": "$286 Price in €",
+    "width": 160,
+    "height": 88,
+    "details": "Eventide PowerMAX, multi power supply.7 isolated outlets, each offering voltages 9, 12, 15 or 18V; High current 660mA @ 9V on the first 3; 4 outlets each selectable with either 9V, 12V, 15V, or 18V up to 660mA; Powers multiple Eventide, Strymon or other high current pedals; 24V DC-AUX output for the PowerMINI extension; USB outlet for charging a smartphone or tablet; 100V, 120V or 230V mains operation for worldwide use; Ultra-low noise, no mains transformer hum; Advanced LED monitoring of each outlet; Extremely low profile, only 25mm (1 inch) thick, 13 Flex cables included, 5 for Eventide pedals; Optional CIOKS GRIP (patent pending) for easy mounting with Pedaltrain; Pedaltrain and Templeboards compatible; Includes mounting screws and template;\nhttps://www.eventideaudio.com/products/accessories/power-supply/powermax",
+    "hrid": "eventide-eventide-powermax-v2"
+}

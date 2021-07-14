@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32509",
+    "name": "DITTO+ LOOPER",
+    "image": "images/tc-electronic-ditto+-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 50,
+    "height": 93,
+    "details": "Next Generation 60-Minute Multi-session Looper Pedal\nhttps://www.tcelectronic.com/product.html?modelCode=P0DLQ",
+    "hrid": "tc-electronic-ditto+-looper"
+}

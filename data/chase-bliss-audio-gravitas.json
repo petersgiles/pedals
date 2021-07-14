@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11770",
+    "name": "Gravitas",
+    "image": "images/chase-bliss-audio-gravitas.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "TremoloThis tremolo pedal features an all-analog signal path that can do any variety or shape of standard volume modulation, harmonic tremolo (inspired by vintage Brownface) or both simultaneously for a truly unique and beautiful tremolo sound that sits just perfectly in a mix. The first thing your guitar hits in the signal path is a gorgeous, transparent, discrete class A clean boost circuit, and is followed by buffering and tone shaping with famed Analog Devices AD823 opamps for perfect tonal clarity, and analog warmth. Further, every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog the entire time and never gets digitally processed. Since the control of the effect is digital, it opens up unprecedented effects and features that have never been heard or offered in analog stompboxes.\nhttps://chaseblissaudio.com/product/gravitas/",
+    "hrid": "chase-bliss-audio-gravitas"
+}

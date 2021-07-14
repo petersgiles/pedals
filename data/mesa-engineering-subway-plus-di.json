@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24581",
+    "name": "Subway-Plus DI",
+    "image": "images/mesa-engineering-subway-plus-di.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 208,
+    "height": 140,
+    "details": "Front end of the Subway D800+Incorporating the most powerful design elements from the Subway D800+, the new Subway+ DI-Preamp gives you virtually all the gain and level control, tone shaping–including a 2-Band semi-parametric MID and interface potential of our most popular Subway D800+ Bass amplifier in a compact DI box that’s hand-built MESA tough.\nLike the BASS DI-Preamp, this PLUS version has both PREAMP and DIRECT Balanced XLR Outputs with Pin 1 Lifts, a PRE/POST SOURCE switch for the DIRECT Output and an Unbalanced ¼ PREAMP Output. In addition to the shared features, the PLUS version also incorporates an Effects Loop for seamless interfacing of your outboard processing.\nWhether serving as a powerful pocket insurance policy for backup on your self-transporting musical endeavors or an ultra-portable main preamp for rental rig or venue-powered Airline touring , the Subway+ DI-Preamp covers all the bases.\nhttps://www.mesaboogie.com/amplifiers/bass/preamplifier-series/subway-bass-di-preamp-plus/index.html",
+    "hrid": "mesa-engineering-subway-plus-di"
+}

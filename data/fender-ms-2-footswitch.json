@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16538",
+    "name": "MS-2 Footswitch",
+    "image": "images/fender-ms-2-footswitch.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 140,
+    "height": 90,
+    "details": "2-Button Footswitch for Mustang amps\nhttps://shop.fender.com/en-US/parts/amp-parts/footswitches/2-button-programmable-footswitch-mustang-series-amps/0080997000.html",
+    "hrid": "fender-ms-2-footswitch"
+}

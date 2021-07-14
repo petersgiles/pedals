@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17468",
+    "name": "Prism",
+    "image": "images/jackson-audio-prism.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 64,
+    "height": 124,
+    "details": "",
+    "hrid": "jackson-audio-prism"
+}

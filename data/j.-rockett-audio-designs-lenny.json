@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12248",
+    "name": "Lenny",
+    "image": "images/j.-rockett-audio-designs-lenny.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 58,
+    "height": 102,
+    "details": "Boost\nhttps://rockettpedals.com/product/lenny/",
+    "hrid": "j.-rockett-audio-designs-lenny"
+}

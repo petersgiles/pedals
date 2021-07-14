@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11533",
+    "name": "Valve Slapper",
+    "image": "images/coopersonic-valve-slapper.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Coopersonic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 140,
+    "height": 90,
+    "details": "Dual Valve Distortion/Drive pedalThe Coopersonic VALVESLAPPER offers incredible classic valve distortion in a way that many ‘tube' products on the market today don't.\nThis pedal runs top quality valves at high voltage to create a truly majestic and warm analogue drive to push any guitar and amp combination to its outer limits.\nNot only does the tone of this pedal sound great, we also gave it an eq that actually made a difference with a pretty vicious +/- 15 dB on each band for massive tonal tweakery on any instrument or studio use.\nEach pedal is hand built in Nottingham using the highest quality components in a die cast aluminium box. The Neutrik jack sockets are not soldered to the circuit board and will take the heaviest punishment before crackling or giving out.\nThe VALVESLAPPER is already being used by some illustrious names in the music industry including the Arctic Monkeys and is a versatile pedal that would suit any musician from Metal to Blues to Rock.\nJust by looking at this you can tell it is a pedal with a difference... so move your ass, adjust your tits, give it some balls and turn up the thrust!\nhttp://www.effectsdatabase.com/model/coopersonic/valveslapper",
+    "hrid": "coopersonic-valve-slapper"
+}

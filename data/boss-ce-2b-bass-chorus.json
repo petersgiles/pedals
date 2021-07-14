@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14945",
+    "name": "CE-2B Bass Chorus",
+    "image": "images/boss-ce-2b-bass-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Bass"
+    ],
+    "manufacturer": "Boss",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Bass ChorusThis Bass Chorus is one of the 5 brown bass pedals that Boss made during the late eighties. The chorus effect is only applied to the harmonics and not to the original note. This makes the bottom remain clear while it adds more breadth to the signal. The CE-2B is based on the MN3007 BBD circuit and MN3101 clock driver.\nEarly CE-2Bs had the skirt knobs also found on the DM-3. These were changed to dome knobs with white tops around the time that production moved to Taiwan late 1989. The pedal was discontinued shortly after having meen modified to use the PSA adapter, 1994.\nSpecifications\nControls: Rate, E. Level, Depth\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 10 mA (DC 9V)\nWeight: 400g/0.88 lbs.\nInput Impedance: 47 kOhm\nResidual Noise Level: Less than -100dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nRecommended AC Adaptor: ACA Series (green label) or PSA Series (orange label)\nLabels\nGreen – Made In Japan\nGreen – Made In Taiwan\nOrange – Made In Taiwan\nThe CE-2B was sold from February 1987 to February 1995.\nhttp://www.bossarea.com/boss-ce-2b-bass-chorus/",
+    "hrid": "boss-ce-2b-bass-chorus"
+}

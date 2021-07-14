@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12713",
+    "name": "PSM-5 Power Supply",
+    "image": "images/boss-psm-5-power-supply.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Power supply",
+    "hrid": "boss-psm-5-power-supply"
+}

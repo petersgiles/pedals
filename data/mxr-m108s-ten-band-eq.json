@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32671",
+    "name": "M108S Ten Band EQ",
+    "image": "images/mxr-m108s-ten-band-eq.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "48 mA / 18 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 127,
+    "height": 95,
+    "details": "Ten band equalizerThe MXR Ten Band EQ lets you tune your bass or guitar rig in seconds, and it’s been upgraded with noise-reduction circuitry, true bypass switching, a lightweight aluminum housing, brighter LEDs, and a second output.\nhttps://www.jimdunlop.com/mxr-ten-band-eq/",
+    "hrid": "mxr-m108s-ten-band-eq"
+}

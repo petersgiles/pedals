@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27264",
+    "name": "PDF-1X",
+    "image": "images/stone-deaf-pdf-1x.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "Stone Deaf",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$223 Price in €",
+    "width": 90,
+    "height": 150,
+    "details": "Parametric EQ & Distortion\nhttps://www.stonedeaffx.com/pdf-1x",
+    "hrid": "stone-deaf-pdf-1x"
+}

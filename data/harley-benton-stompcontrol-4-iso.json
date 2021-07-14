@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22368",
+    "name": "StompControl-4 ISO",
+    "image": "images/harley-benton-stompcontrol-4-iso.jpg",
+    "function": [
+        "Controller",
+        "Looper",
+        "Switch"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 335,
+    "height": 75,
+    "details": "Looper/Switcher\nhttps://www.thomann.de/de/harley_benton_stompcontrol_4_iso.htm",
+    "hrid": "harley-benton-stompcontrol-4-iso"
+}

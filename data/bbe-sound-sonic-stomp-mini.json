@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11755",
+    "name": "Sonic Stomp Mini",
+    "image": "images/bbe-sound-sonic-stomp-mini.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 42,
+    "height": 94,
+    "details": "Sonic Maximizer Rack mount BBE Sonic Maximizer processors have been the secret weapon of musicians for years, with each generation of the BBE technology offering more for musicians to discover in their tone. While rack-mount models such as the 482i Sonic Maximizer are a staple for many touring musicians with sophisticated rigs, a rack device isn’t practical for many musicians. Enter Sonic Stomp, packing the same BBE technology into a pedal for musicians who prefer simple rigs. Its buffered input happily accepts either the input of your instrument or the output of another pedal (Sonic Stomp should be used last in the pedal chain), making Sonic Stomp as easy to use as any other pedal. Just plug it in, dial the knobs to your taste and enjoy.\nSonic Stomp’s application of the BBE technology is just like its big brothers, using frequency-dependent time alignment with integrated amplitude compensation. What’s all that about? Simply put, it helps a speaker more faithfully reproduce the signal so more of the nuance and detail is revealed. Sonic Stomp is not an effect but a tool to allow more of your tone to reach the ears of your audience – and yours.\nhttp://www.bbesound.com/products/stomp-boxes/Sonic-Stomp_MS-92.aspx",
+    "hrid": "bbe-sound-sonic-stomp-mini"
+}

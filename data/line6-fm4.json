@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14904",
+    "name": "FM4",
+    "image": "images/line6-fm4.jpg",
+    "function": [
+        "Filter",
+        "Multieffect",
+        "Synth Voice"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 254,
+    "height": 152,
+    "details": "Filter Modeler / Monophonic SynthesizerThe Line 6 FM4 Filter Modeler Pedal is a studio-quality, professional effects pedal with 16 models of vintage and monophonic synth effects.\nThe Mu-tron Bi-Phase; the Korg X911 Guitar Synth-are these rebel fighter ships from The Empire Strikes Back? Or maybe proton thrusters from outtakes of Babylon 5? Nope. These, and the other 13 techy tone temptations loaded into Line 6's galactic-purple FM4 Filter Modeler stompbox, represent the outer limits of guitar filter effects, a territory many consider to be today's most fertile terrain for discovering new sounds, timbres and tone colors.\nIn looking forward, Line 6 first looked back to the filters, vocoders, and guitar synths that players from Frank Zappa and Ernie Isley to Robert Fripp and Peter Frampton have made synonymous with creative guitar playing. \"The Throbber\" will have your tone gurgling with synth-approved LFO from four wave shapes, including square or triangle waves; \"Tron Up/Tron Down\" literally drips with auto-wah style response in either Low-, Band- or High-Pass varieties; \"Synth-O-Matic\" simulates the notably nasty filter sections and wave shapes of prized vintage synths from the Prophet 600 to the legendary Arp Explorer.\nOf course, you already use a filter effect all the time; every Wah-Wah pedal is a variable filter, and the FM4 includes a superb \"Q Filter\" that allows you find and fix that golden frequency notch, in the same spirit as \"parked wah\" practitioners like Queen's Brian May and soul superstar Prince. Want to make it a more traditional wah? Just hook up the optional EX-1 expression pedal, and save a \"Q Filter\" sound to both a low frequency (heel down on the EX-1) and a high frequency (toe down on the EX-1) and you've got a more versatile wah than any off-the-shelf pedal, not to mention a pristine 24-bit signal path, stereo ins and outs, and true bypass switching.\nLike all Line 6 stompbox Modelers, the FM4 boasts a simple and sturdy front panel design, with four footswitches for saving and recalling your sounds, and six knobs for selecting models and tweaking parameters, with distinct assignments for each knob depending on the model you've chosen. The Line 6 FM4 is for the true explorer of new sonic galaxies; expect to be surprised, stimulated and encouraged to absolute synth-fulness.\nhttp://line6.com/fm4/",
+    "hrid": "line6-fm4"
+}

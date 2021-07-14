@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11866",
+    "name": "Transit",
+    "image": "images/walrus-audio-transit.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 248,
+    "height": 66,
+    "details": "True Bypass Switcher",
+    "hrid": "walrus-audio-transit"
+}

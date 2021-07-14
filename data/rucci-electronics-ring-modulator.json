@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26973",
+    "name": "Ring Modulator",
+    "image": "images/rucci-electronics-ring-modulator.jpg",
+    "function": [
+        "Ring Modulator"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "Pedal is passive",
+    "cost": "$60 Price in €",
+    "width": 119,
+    "height": 64,
+    "details": "Passive Ring ModulatorThis is a passive ring modulator that blends two signals by multiplying the frequencies. The controls are simple and let you switch between the modulated signal or either of the two input signals.\nIt is built into a tough aluminum die cast enclosure painted matte green. With two 1/4″ inputs and a 1/4″ output. The circuit is completely passive so it does not require power.\nPlease note although the outcome can be quite satisfying it can also be a bit unexpected. For tamer results use a more simple waveform for one of the inputs. Also be aware the modulated output will often have less volume than the input signal.\n\nhttps://handmadeelectronicinstruments.com/product/ringmodulator/",
+    "hrid": "rucci-electronics-ring-modulator"
+}

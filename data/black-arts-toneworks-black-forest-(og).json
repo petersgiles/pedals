@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32424",
+    "name": "Black Forest (OG)",
+    "image": "images/black-arts-toneworks-black-forest-(og).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "$163 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Fuzzy overdriveWhat you have here is a throwback to the glory days of rock and roll, with a Black Arts twist. The Black Forest takes a celebrated circuit and drags it through the dirt. More gain, more fatness. A six way selector allows you to set your gain/low end/voicing along with Fuzz, Bass, Treble and Volume. This forest grew with the helping hand of a tone god. Treat it with care; allow future generations to behold the beauty that is the Black Forest. Behold the ugly beauty of old rock and roll. The beauty of big, fat gnarly tone. It is your duty, it is our destiny.\nhttps://www.blackartstoneworks.com/pedal/black-forest/",
+    "hrid": "black-arts-toneworks-black-forest-(og)"
+}

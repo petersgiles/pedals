@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15941",
+    "name": "MT-PT1",
+    "image": "images/modtone-mt-pt1.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "ModTone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 57,
+    "height": 108,
+    "details": "Professional Chromatic Tuner\nhttps://www.modtone.net/chromatic-tuner.html",
+    "hrid": "modtone-mt-pt1"
+}

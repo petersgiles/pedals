@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19686",
+    "name": "Heavy",
+    "image": "images/empress-effects-heavy.jpg",
+    "function": [
+        "Distortion",
+        "Noise Gate"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "2 channel distortion with built in noise gateall analog high gain distortion pedal with dual channels, 3 band eq, low end \"weight\" control, mid frequency sweep selection, adjustable noise gate (per channel), and true bypass silent switching.\nhttps://empresseffects.com/products/heavy",
+    "hrid": "empress-effects-heavy"
+}

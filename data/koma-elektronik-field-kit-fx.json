@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20875",
+    "name": "Field Kit FX",
+    "image": "images/koma-elektronik-field-kit-fx.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Pitch Shifter",
+        "Reverb"
+    ],
+    "manufacturer": "KOMA Elektronik",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$279 Price in €",
+    "width": 201,
+    "height": 130,
+    "details": "Modular Multi-Effects ProcessorThe Field Kit FX is a super versatile effects unit! It boasts a Frequency Shifter, Looper, Spring Reverb, Digital Delay, Bit Crusher, 4 Channel Mixer with VCA’s and tone control, a mini sequencer and ADSR, all under CV control! The Field Kit FX is more fun with the right tools! You could add the FX Expansion Pack, which offers a spring reverb tank and other goodies!",
+    "hrid": "koma-elektronik-field-kit-fx"
+}

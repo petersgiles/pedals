@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31536",
+    "name": "Headrush E1",
+    "image": "images/akai-headrush-e1.jpg",
+    "function": [
+        "Delay",
+        "Looper"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 140,
+    "height": 183,
+    "details": "Digital Delay, Looper, Tape Echo16 bit Digital Delay - Delay time from 0.5ms to an astonishing 23.8 sec maximum\nTape Echo mode with four individual outputs for each head\nLooping Recorder with overdub mode - Powerful tool for solo performances\nHEAD GAP adjusts the delay time between the heads\nHF DAMP simulates an analog delay sound\nFEEDBACK sets the feedback level for repeat times\nRATIO allows adjustment of wet and dry mix\nReal-time delay control - sets delay time by tapping footswitch twice",
+    "hrid": "akai-headrush-e1"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11618",
+    "name": "Bassist Compressor",
+    "image": "images/keeley-bassist-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Bass"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$268 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Bass Effektpedal",
+    "hrid": "keeley-bassist-compressor"
+}

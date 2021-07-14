@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16786",
+    "name": "PBF Flanger",
+    "image": "images/ada-pbf-flanger.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Tremolo"
+    ],
+    "manufacturer": "ADA",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "pedal board friendly flangerThe ADA PBF(Pedal Board Friendly) Flanger is now available in a new smaller enclosure with added features. The PBF Flanger is built around a pair of analog delay chips and adds an OUTPUT LEVEL pot, a STATUS LED and a BASS VOICING SWITCH for bass guitar to our original design.  Made in California, the PBF Flanger has the same sound and feel as the award winning ADA Flangers shipped in 1980.  Same SWEEP RANGE \"to-the-top,\" same oozing ultra slow SPEED, same extreme ENHANCE tone and sensitivity (from Darth Vader to clanging chimes), same MANUAL delay range, and of course, the original EVEN/ODD HARMONICS switch. The THRESHOLD noise gate, a unique ADA feature, is spot on. Of course, we have True-Bypass switching. The tone and the depth of the ADA Flanger is unique and powerful in its extremes, and rich and warm in its moderate settings.  Jet flanging, Chorus, Vibrato and D-tune are a few of the effects you can dial-in.  Check one out and see and hear what the players and writers were talking about back in the 80s, 90s, and again today.",
+    "hrid": "ada-pbf-flanger"
+}

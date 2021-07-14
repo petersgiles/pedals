@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16401",
+    "name": "BO100",
+    "image": "images/behringer-bo100.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Blues OverdriveKnockoff of Boss BD-2 Blues Driver",
+    "hrid": "behringer-bo100"
+}

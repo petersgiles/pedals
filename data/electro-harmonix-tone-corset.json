@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13873",
+    "name": "Tone Corset",
+    "image": "images/electro-harmonix-tone-corset.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Analog compressor\nFour-knob design provides excellent control and gives the user the ability to precisely shape their instrument’s dynamics.\nThe Sustain knob controls the amount of compression applied to the guitar signal.\nThe Attack knob adjusts how quickly the compressor recovers. As Attack is turned clockwise the pedal’s response is slower and more initial pick attack comes thru.\nThe Blend knob adjusts the mix of the dry and compressed signals.\nVolume controls the overall output level.\nThe Pad switch pads down the input signal to prevent undesirable distortion if the Tone Corset is used with high output humbuckers, bass guitar, etc.\nTrue Bypass for maximum signal path integrity.\n9-Volt battery included, also accepts optional EHX 9.6VDC-200mA power supply\n\nhttps://www.ehx.com/products/tone-corset",
+    "hrid": "electro-harmonix-tone-corset"
+}

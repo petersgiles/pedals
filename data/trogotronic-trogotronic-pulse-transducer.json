@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15068",
+    "name": "Trogotronic Pulse Transducer",
+    "image": "images/trogotronic-trogotronic-pulse-transducer.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Trogotronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 120,
+    "height": 250,
+    "details": "e/1 Pulse Transducer Accessory for m/12 Detektore/1 Pulse Transducer is a tactile performance interface accessory for m/12 Detektor Quad-Envelope CV Generator (or any Envelope Generator with similar input specs). Patch to m/12 module pulse input jacks & e/1 responds intuitively to percussive input via fingers, percussion mallets—even a pair of pencils (using the erasers for contact). Ships with long Patch Cord.\nhttps://trogotronic.com/product/e1/",
+    "hrid": "trogotronic-trogotronic-pulse-transducer"
+}

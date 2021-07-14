@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11843",
+    "name": "Janus",
+    "image": "images/walrus-audio-janus.jpg",
+    "function": [
+        "Tremolo",
+        "Controller",
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 187,
+    "height": 119,
+    "details": "FUZZ/TREMOLO WITH JOYSTICK CONTROLThe Janus is a true bypass, dual joystick controlled Tremolo/Fuzz pedal that allows you to create a landscape of distorted textures. Both the Tremolo and the Fuzz can be isolated and used alone, but can also be used together in series creating thick textures with a lot of movement. Each joystick has a separate X and Y axis that has designated controls. The Tremolo joystick controls the rate and depth while the Fuzz joystick controls the amount of fuzz and the tone. There are individual Volume controls for both effects and a Blend control for the Fuzz that allows the user to mix unaffected signal with the effected fuzz signal.\nThe joystick controls make the Janus a great option for guitars, vocals, keys, or tracks.",
+    "hrid": "walrus-audio-janus"
+}

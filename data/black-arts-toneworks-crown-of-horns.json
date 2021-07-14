@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19354",
+    "name": "Crown of Horns",
+    "image": "images/black-arts-toneworks-crown-of-horns.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$176 Price in €",
+    "width": 95,
+    "height": 120,
+    "details": "Op Amp Muff-style fuzz crazinessMost families have one. One who is different, all the while resembling the others. The Crown of Horns is that one in the Black Arts Toneworks family. While the Pharaoh is the utilitarian BMP, the LSTR is the wild and outrageous brother, the Crown is the youngster with different DNA, possibly the mailman’s. Living in the BAT family, The Crown of Horns shares traits of the Pharaoh and LSTR. The heart of the Crown is that of the OpAmp muff with the addition of a hybrid Pharaoh/LSTR tone section. Not quite as middy as the Pharaoh, not quite as scooped as the LSTR. The Crown sits squarely in the middle of the two. What makes the Crown very different is the Horns. The Horns switch will bypass the tone stack altogether for a huge, flat boost of volume. The result of this is highly interactive with your amp. Different amps and settings within the amps will give results ranging from a huge volume boost to a slab of fat saturation. Your creativity will find ways to utilize the Horns. As is standard in the Black Arts family, the Crown of Horns portrait includes a big bottom, loud mouth, aggressive personality and a bit of unruly FU. \nThis pedal operates on a Standard 9VDC power supply. No battery connection.\nhttps://www.blackartstoneworks.com/pedal/crown-of-horns/",
+    "hrid": "black-arts-toneworks-crown-of-horns"
+}

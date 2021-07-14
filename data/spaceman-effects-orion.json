@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16922",
+    "name": "Orion",
+    "image": "images/spaceman-effects-orion.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 159,
+    "height": 121,
+    "details": "Analog Spring ReverbOrion is a true analog spring reverb, and at only 6 ¼ by 4 ¾ inches, it’s the smallest real spring reverb pedal this solar system has ever seen. Finally, real analog reverb that will fit on your pedal board!\nTo customize your tone, Orion features four control knobs with wide ranges. Dwell allows you to dial in how hard you push the dual springs, for splashy surf tone or a mellower spring sound. The Tone control sweeps between bright and dark reverb tones, effecting only the reverb signal. Mix your desired dry to wet ratio with the Blend control, while Volume adjusts the overall output level of the pedal.\nThere is no spring splash when stomping on the Orion; and stage interference from kick drums and bass amps won’t affect your sound. However, if you truly wish to confirm Orion’s springs, a swift kick to the front side of the pedal will give you that classic tank crash.\nPowered by a standard 9 volts DC, Orion makes it easy to add to your pedal chain. Sounding both classic and unique, the Orion Reverb offers out of this world inspiration, without digitizing your tone.\nThe Spaceman Orion is completely hand-soldered and handmade in Portland Oregon to the highest degree of quality possible. These are artisan crafted tone devices, sparing no detail within or without. Orion utilizes true-bypass relay switching, while your tone is transferred via high quality open-frame jacks. The inside hosts an unparalleled display of craftsmanship; with immaculate hand-soldered PCB’s and detailed military-spec wiring. On top of the custom USA-cast aluminum enclosure sits a durable, engraved vinyl faceplate and blue jewel indicator light. This pedal is truly built to last a lifetime.\nhttps://spacemaneffects.com/products/orion#more",
+    "hrid": "spaceman-effects-orion"
+}

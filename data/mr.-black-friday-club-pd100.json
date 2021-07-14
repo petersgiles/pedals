@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17529",
+    "name": "Friday Club PD100",
+    "image": "images/mr.-black-friday-club-pd100.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "80W Graphic knob; cleans up like late night meth-head with a shop broom.  BIG amp, BIG overdriven tones.\nChoose between Reaper Black and Matamp Green.",
+    "hrid": "mr.-black-friday-club-pd100"
+}

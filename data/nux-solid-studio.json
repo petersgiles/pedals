@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25324",
+    "name": "Solid Studio",
+    "image": "images/nux-solid-studio.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Nux",
+    "current": "240 mA / 9 V / DC / Negative Center",
+    "cost": "$112 Price in €",
+    "width": 100,
+    "height": 90,
+    "details": "Power amp and cab simulatorNUX Solid Studio was created and designed to address: limited gear availability, and the cumbersome transport reality of physical amp/speaker cabinets.\nNUX is proud to introduce the new Verdugo series Solid Studio IR & Power Amp simulator, a pedal version of the most classic amp/cabinet scenarios including microphones and power amp tubes. Over many years of research, Solid Studio was specifically developed to fill the essential needs of discerning musicians and sound technicians, including the art of mic-ing instrument amplifiers on stage or in the studio. Solid Studio provides ease-of-use, reliability, versatility, and, above all, incredible audio quality.\nVirtual mic-ing is achieved by choosing 1 cabinet and 1 microphone, and fine-tuning the position of the microphone using the mic position switch.  Plus, you can add the tube sound by engaging the power amp simulation. \nSolid Studio comes with 8 speaker cabinet simulations. All the cabinet models inside the Solid Studio are sounds great as original as the way it feels.\nhttp://www.nuxefx.com/index.php?m=content&c=index&a=show&catid=7&id=277",
+    "hrid": "nux-solid-studio"
+}

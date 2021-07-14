@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11865",
+    "name": "FBM-1",
+    "image": "images/boss-fbm-1.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Bass"
+    ],
+    "manufacturer": "Boss",
+    "current": "36 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Fender '59 BassmanFender amps of the '50s and '60s are beloved and coveted by guitarists around the world. Thanks to BOSS' technology and tone know-how, the new FBM-1 pedal brings the natural, fat, rich, bright tone of the Fender Bassman to a BOSS pedal. In conjunction with Fender, the BOSS FBM-1 re-creates the legendary tone of the 1959 Fender Bassman. Features include the same controls on the original Bassman amp: Presence, Treble, Mid, and Bass EQ controls. The FBM-1 pedal also functions perfectly as a \"pre-gain pedal\" placed before an already overdriven amp to add the tone character of the Bassman.\nFeatures:\n* Re-creates the legendary tone of the 1959 Fender Bassman amp\n* Additional BRIGHT IN provides a brighter sound, similar to the original Bassman\n* Presence, Treble, Mid, and Bass EQ controls\n* Road-tough BOSS metal construction\nhttps://www.boss.info/us/products/fbm-1/",
+    "hrid": "boss-fbm-1"
+}

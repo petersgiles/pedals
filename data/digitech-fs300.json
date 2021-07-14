@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12025",
+    "name": "FS300",
+    "image": "images/digitech-fs300.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 152,
+    "height": 76,
+    "details": "3-button footswitch3-button footswitch for DigiTech multi effects processors and other brands such as the Eventide H9\nCan control Program Up, Program Down, and Bypass",
+    "hrid": "digitech-fs300"
+}

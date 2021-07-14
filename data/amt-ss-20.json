@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25956",
+    "name": "SS-20",
+    "image": "images/amt-ss-20.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "AMT",
+    "current": "1250 mA / 12 V / DC / Negative Center",
+    "cost": "$314 Price in €",
+    "width": 119,
+    "height": 103,
+    "details": "3-channel Tube Guitar PreampThe Features of SS-20\n\nHigh-grade high-voltage feed of triodes.\nComplete elimination of operational amplifiers traditionally used in hybrid preamps for sound amplification and processing.\nApplication of special semi-conductor amplifiers modeling triode-based harmonics and providing signal amplitude necessary for high-grade valve operation.\n\nIn order to achieve the full opening of input valve cascades working in the “hottest” conditions the giant amplitude of one hundred and more volts is necessary. The dynamic properties characteristic to valve – based preamps are implemented in SS-20 due to the elimination of signal limiting OA (feed level of 20-25V) in the part of preliminary amplification and using special cascades capable of reaching 250V amplitude with nonlinearity similar to 12AX7 triode. Thus, we managed to achieve full dynamic characteristics of guitar signal without usual hybrid “squeeze” as well as assign special sound character to SS-20.\nSpecial attention was also paid to clean channel – in this section we also followed the way of preserving the dynamics of guitar signal with simultaneous formation of soft “nonlinearity” inherent in the cascades on vacuum triodes. It also allowed us to escape both the “squeeze” and “refinement” peculiar to many clean-channels of hybrid devices.\nhttps://amtelectronics.com/new/amt-ss-20/",
+    "hrid": "amt-ss-20"
+}

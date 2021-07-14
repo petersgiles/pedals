@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18551",
+    "name": "Pocket Metal Muff",
+    "image": "images/electro-harmonix-pocket-metal-muff.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Fuzz\nhttps://www.ehx.com/products/pocket-metal-muff",
+    "hrid": "electro-harmonix-pocket-metal-muff"
+}

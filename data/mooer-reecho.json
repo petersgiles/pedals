@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16587",
+    "name": "ReEcho",
+    "image": "images/mooer-reecho.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$98 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Echo and Delay3 Delay Modes: Analog/Real Echo/Tape Echo\nAnalog: Simulates a warm and smooth echo sound created by classic analog delay equipment.\nReal Echo: Simulates a natural echo sound in real environment.\nTape Echo: Simulates the sweet and spacy echo sound from a\nDelay Time: 5ms~780ms\nvintage tape echo machine.\nFull metal shell\nVery small and exquisite\nTrue bypass\nhttp://www.mooeraudio.com/?product/201410166093.html",
+    "hrid": "mooer-reecho"
+}

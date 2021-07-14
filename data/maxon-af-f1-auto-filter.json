@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15043",
+    "name": "AF-F1 Auto Filter",
+    "image": "images/maxon-af-f1-auto-filter.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 65,
+    "height": 120,
+    "details": "Fire Blade SeriesMaxon Fire Blade Series AF-F1 Auto Filter",
+    "hrid": "maxon-af-f1-auto-filter"
+}

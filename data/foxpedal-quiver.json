@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20876",
+    "name": "Quiver",
+    "image": "images/foxpedal-quiver.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Harmonic Tremolo",
+    "hrid": "foxpedal-quiver"
+}

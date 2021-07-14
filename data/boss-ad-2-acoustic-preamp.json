@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23617",
+    "name": "AD-2 Acoustic Preamp",
+    "image": "images/boss-ad-2-acoustic-preamp.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Acoustic-electric guitar preamp\nhttps://www.boss.info/us/products/ad-2",
+    "hrid": "boss-ad-2-acoustic-preamp"
+}

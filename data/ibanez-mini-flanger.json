@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28885",
+    "name": "Mini Flanger",
+    "image": "images/ibanez-mini-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 48,
+    "height": 105,
+    "details": "Small-format Flanger based on Ibanez's legacy flanger effect",
+    "hrid": "ibanez-mini-flanger"
+}

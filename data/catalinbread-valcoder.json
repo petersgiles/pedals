@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24046",
+    "name": "Valcoder",
+    "image": "images/catalinbread-valcoder.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Mid '60s Valco-style dirty garage tremoloA tremolo with driveability.\nThe Valco company of Chicago made amplifiers under their own name in addition to building amps for other companies such as Supro®, National, and Gretsch, to name a few. Most of these were lower powered amps with a great sounding natural tube breakup and many models also featured a unique sounding tube driven tremolo. It had a hypnotic throb and was also capable of hard, choppy tremolo. Combined with the breakup overdriven characteristics of the amplifier, it created a percussive, rhythmic pulse that is very inspiring to play. The Catalinbread Valcoder was designed to recreate the tube tremolo as well as the amplifier breakup of these vintage amplifiers. Separate input and output controls allow you to get anything from a clean tremolo sound all the way up to a gritty tube like breakup driving the tremolo circuit.\nhttps://catalinbread.com/products/valcoder",
+    "hrid": "catalinbread-valcoder"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18815",
+    "name": "Feral Glitch",
+    "image": "images/the-king-of-gear-feral-glitch.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch"
+    ],
+    "manufacturer": "The King of Gear",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Limited Edition Stutter/Glitch Pedal with Adjustable RandomizationThe Feral Glitch is a stutter/glitch effects pedal with three modes and features three modes (2 glitch, 1 delay), optional random control, a high-pass filter for the effect, top-mount jacks, and true bypass.\nMost effects pedals distort, delay, pitch shift, or modulate a guitar's tone in an entirely predictable manner. The Feral Glitch's randomized stutter effect breaks this trend of predictability by introducing an element of chance. It takes a stutter effect - already rare in the pedal world - and randomly varies its length each time it is activated. This pedal offers not only this rare, musically random effect, but also a more conventional mode which can sync stutter effects to a particular tempo â€“ or even function as a quirky looper.\nhttp://thekingofgear.com/post/157526286991/a-totally-new-stutter-effects-pedal-for-radiohead",
+    "hrid": "the-king-of-gear-feral-glitch"
+}

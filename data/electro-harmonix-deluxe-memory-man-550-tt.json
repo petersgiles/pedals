@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19629",
+    "name": "Deluxe Memory Man 550-TT",
+    "image": "images/electro-harmonix-deluxe-memory-man-550-tt.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 146,
+    "height": 64,
+    "details": "Analog DelayFor over 30 years, the Deluxe Memory Man set the benchmark for sweet, organic, analog delay and modulation. Then EHX raised the bar with the addition of Tap Tempo, Expression Control and an Effects Loop. The Deluxe Memory Man 1100-TT was born and the best got even better.\nThe Deluxe Memory Man 1100-TT is, however, only occasionally available and subject to our ability to find the very rare NOS IC's it requires. That's why we've created the new Deluxe Memory Man 550-TT. It shares all the powerful features of the 1100mS unit, except for its longer delay time.\n550 stands for its maximum delay time in milliseconds and that's the same spec as the classic Deluxe Memory Man. Tap Tempo guarantees you're always in sync with the groove, wherever a performance (or your rhythm section) takes you. Five Tap Divide subdivisions deliver rhythmic variation while an Expression Pedal input provides real-time player control over Blend, Rate, Depth, Feedback and Delay. The FX Loop lets you insert effects into your wet signal without changing your dry signal.\nSure to be prized by serious aficionados of lush delay and modulation, the new Deluxe Memory Man 550-TT leads the way to analog perfection.\nQuick Specs\nDeluxe Memory Man sound with Tap Tempo\n5 Tap Tempo sub divisions: dotted eighth, quarter note triple, eighth note, eighth note triple and sixteenth note\nNOS Panasonic bucket brigade ICs\nBlend, Rate, Depth, Feedback and Delay Expression Modes\nSend & Return FX Loop allows external effects to be added to the delay signal\nTrue Bypass\nhttps://www.ehx.com/products/deluxe-memory-man-tap-tempo-550",
+    "hrid": "electro-harmonix-deluxe-memory-man-550-tt"
+}

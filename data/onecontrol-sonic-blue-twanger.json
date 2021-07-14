@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19840",
+    "name": "Sonic Blue Twanger",
+    "image": "images/onecontrol-sonic-blue-twanger.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 47,
+    "height": 100,
+    "details": "",
+    "hrid": "onecontrol-sonic-blue-twanger"
+}

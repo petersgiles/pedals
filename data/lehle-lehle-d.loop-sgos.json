@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29344",
+    "name": "Lehle D.Loop SGoS",
+    "image": "images/lehle-lehle-d.loop-sgos.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Lehle",
+    "current": "250 mA / ? V / DC",
+    "cost": "",
+    "width": 155,
+    "height": 102,
+    "details": "Second Generation of SwitchingThe Lehle D.Loop SGoS recommended as the centerpiece of your pedal-board management system, a programmable double looper that takes inactive effects out of the signal path. The loops can be used independently of each other. An adjustable buffer is additionally available in every situation and - because not all effect pedals have a volume controller - can even be used to boost them when necessary. The high-end buffer boost has gain margins of up to 12dB and can also be used seperately!\nThe jack sockets and internal signal routing are entirely stereo, to permit full-quality use of studio, 19\" and stereo effect-pedal units, too. This is assured by the True Bypass characteristics of the Lehle switchers and their gold-plated-contact relays. The signal ground is also switched, to eliminate hum in your effect loops, and a pop-and-click suppression circuit avoids annoying switching noise.\nProgramming is as easy and as intuitive as you would expect from Lehle products, whether via remote, using MIDI program change commands, as a stand-alone unit, or combined with other SGoS switchers. One very popular combination is to use the Lehle D.Loop SGoS with the Lehle Dual SGoS - they can mutually monitor and control each other, and manage effects and amps. And a simple stereo patch cable is all you need to hit just the right tone! \n9 -20 V DC, max. 250mA,  polarity: positive or negative center\nhttps://lehle.com/EN/Lehle-D.Loop-SGoS",
+    "hrid": "lehle-lehle-d.loop-sgos"
+}

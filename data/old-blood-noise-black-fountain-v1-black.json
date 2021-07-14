@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17442",
+    "name": "Black Fountain V1 Black",
+    "image": "images/old-blood-noise-black-fountain-v1-black.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "Oil Can Delay",
+    "hrid": "old-blood-noise-black-fountain-v1-black"
+}

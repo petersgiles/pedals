@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16969",
+    "name": "Mooer Tender Octaver MKII",
+    "image": "images/mooer-mooer-tender-octaver-mkii.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$93 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Due to huge demand and a mass of enquiries from musicians across the globe, the Tender Octaver micro pedal from MOOER is back!!! The Tender Octaver mkII has retained the simplistic controls and tiny form factor that was so popular with it's predecessor, plus some very special updates.\nArmed with 3 brand new algorithms and a true analog dry through signal, the Tender Octave MkII is sure to provide all your octave harmony needs. A very unique little polyphonic octave pedal with endless tonal possibilities.\nThe FAT algorithm contains a huge bassy lower octave that can shake the walls and a soft toned upper voicing, for a very natural feeling upper octave shimmer. Fat riffs and simulated bass guitar really shine in this mode.\nThe TIGHT algorithm has a more focused lower octave with a higher, low eq cut off point and a sharper upper octave bite. Shredders, fusion players and organ hunters alike, will find sonic delight when flipping the switch into tight mode.\nSWELL mode provides automatic volume swelling of the harmony voices, providing a soft attack and lush release whilst the original dry signal remains completely untouched. Great for emulating a 12-string guitar or creating ambient chords and sound scapes.\nhttps://www.aliexpress.com/item/Mooer-Tender-Octaver-MKII-Precise-Octave-Guitar-Effect-Pedal-3-Tones-Switch-SUB-UPPER-DRY-Controls/32842406301.html",
+    "hrid": "mooer-mooer-tender-octaver-mkii"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27549",
+    "name": "Silver Rose V2",
+    "image": "images/dwarfcraft-devices-silver-rose-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 140,
+    "height": 114,
+    "details": "Fuzz\nhttps://www.chicagomusicexchange.com/listing/dwarfcraft-devices-silver-rose-v2/1208652",
+    "hrid": "dwarfcraft-devices-silver-rose-v2"
+}

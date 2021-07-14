@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29912",
+    "name": "3 Series Delay",
+    "image": "images/jhs-3-series-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "JHS",
+    "current": "71 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Rich and warm or clear and pristine echoesThe JHS Pedals 3 Series Delay lets you choose between rich and warm or clear and pristine echoes. The straightforward design is simple and easy to use while offering a huge range of options. The Delay gives you 80ms to 800ms of delay time, for everything from slapback to long ambient washes of pad-like echo. The Type toggle allows you to select between a clearer digital-voiced delay and darker analog-voiced delay. The Delay will give you classic bucket brigade runaway when you max out the Repeats knob when in the analog-voiced delay mode. \nThe JHS Pedals 3 Series Delay runs on 9V DC Negative Center power and consumes 71mA.\nhttps://www.jhspedals.info/3-series-delay",
+    "hrid": "jhs-3-series-delay"
+}

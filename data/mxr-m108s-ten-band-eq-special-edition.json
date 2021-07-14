@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23944",
+    "name": "M108S Ten Band EQ Special Edition",
+    "image": "images/mxr-m108s-ten-band-eq-special-edition.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 124,
+    "height": 92,
+    "details": "Ten Band EQ",
+    "hrid": "mxr-m108s-ten-band-eq-special-edition"
+}

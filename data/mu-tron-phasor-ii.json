@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12813",
+    "name": "Phasor ii",
+    "image": "images/mu-tron-phasor-ii.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Mu-Tron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 229,
+    "details": "Phaser",
+    "hrid": "mu-tron-phasor-ii"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31920",
+    "name": "PHMINI",
+    "image": "images/ibanez-phmini.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$107 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "Phaser, 4 or 6 stage\nhttps://www.ibanez.com/usa/products/detail/phmini_01.html",
+    "hrid": "ibanez-phmini"
+}

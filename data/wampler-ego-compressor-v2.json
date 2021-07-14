@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32917",
+    "name": "Ego Compressor v2",
+    "image": "images/wampler-ego-compressor-v2.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Wampler",
+    "current": "14 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "wampler-ego-compressor-v2"
+}

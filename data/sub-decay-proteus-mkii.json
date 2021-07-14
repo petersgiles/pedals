@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33424",
+    "name": "Proteus MkII",
+    "image": "images/sub-decay-proteus-mkii.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 112,
+    "height": 58,
+    "details": "Sample Hold FilterSample holder + envelope filter.",
+    "hrid": "sub-decay-proteus-mkii"
+}

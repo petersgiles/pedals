@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22272",
+    "name": "Twin City ABY",
+    "image": "images/radial-twin-city-aby.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Radial",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 112,
+    "height": 89,
+    "details": "ABY active footswitchThe Twin-City™ is an active amp selector that lets you connect any two guitar amps and switch between them or drive them both simultaneously without noise, loss of gain, or any degradation to your natural guitar tone.\nThe Tonebone Twin-City uses a class-A input buffer to drive the amp outputs, which reduces susceptibility to noise and allows for completely silent switching on stage. To eliminate hum and buzz from ground loops, the Twin-City is equipped with an isolation transformer on output-B, along with a ground lift switch and 180⁰ polarity reverse switch that ensures both amplifiers play back in phase with each other. At the input, Drag Control load correction allows you to recreate the natural load on the pickups as if you were connected directly to a tube amplifier, allowing the natural tone of your instrument to shine through.\nhttps://www.radialeng.com/product/twin-city",
+    "hrid": "radial-twin-city-aby"
+}

@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21280",
+    "name": "Play Acoustic",
+    "image": "images/tc-electronic-play-acoustic.jpg",
+    "function": [
+        "Chorus",
+        "Dynamics",
+        "Dual/Stereo",
+        "Equalizer",
+        "Looper",
+        "Multieffect",
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 201,
+    "height": 155,
+    "details": "Vocal and guitar processor\nhttps://www.tc-helicon.com/Categories/Tchelicon/Vocal/Multi-Effects/PLAY-ACOUSTIC/p/P0CDJ",
+    "hrid": "tc-electronic-play-acoustic"
+}

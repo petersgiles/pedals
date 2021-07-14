@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26996",
+    "name": "Whammy II",
+    "image": "images/digitech-whammy-ii.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "750 mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 191,
+    "height": 158,
+    "details": "Pitch shifter / octaver / whammyThe 2nd version of DigiTech’s whammy pedal",
+    "hrid": "digitech-whammy-ii"
+}

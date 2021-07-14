@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31339",
+    "name": "Mighty Red Distortion",
+    "image": "images/mad-professor-mighty-red-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mad Professor",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 69,
+    "height": 113,
+    "details": "DistortionMRD is a high-gain distortion pedal, which was modeled after the 80′s style compressed gain sounds. It is extremely easy (and a lot of fun) to play because its texture is adjusted to give clarity and definition also at heavy distortion. The gain range allows also low distortion sounds as well as stacking with other pedals, where an overdrive (preferably MP LGW) can pre-drive MRD for extreme and highly focused sounds. To get these gain levels with their impressive signal to noise ratio, we didn’t use any noise gate or expander. Instead, we used special amplifier techniques and extremely low noise amplifier stages, which result in a natural decay and a rather high current consumption for a distortion pedal in view of battery operation.\nMRD has that 80′s sound many have longed for but never got before at such low noise levels and versatility. The Presence control was designed to control the upper treble, but not to affect the upper midrange, so that you can get the exact treble you desire. You can master anything from fat warm singing distortion to screaming cutting leads with the MRD’s Presence control.\nStep into your spandex trousers and plug in the Mighty Red Distortion pedal!",
+    "hrid": "mad-professor-mighty-red-distortion"
+}

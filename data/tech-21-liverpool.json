@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17869",
+    "name": "Liverpool",
+    "image": "images/tech-21-liverpool.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 100,
+    "height": 126,
+    "details": "AC30 Amp SimulatorThat distinctive diamond grille tone is yours for the tweaking. From the jangle of mop-top pop to the top-boosted growl of mod rock, this amp style has a voice that shook generations. Tuned to deliver the growl of English Alnico Bulldog-style speakers, this pedal also gets thick with rich, even harmonics as the Character control is pushed harder. Push it to the limit and it will, it will, rock you.\nhttp://www.tech21nyc.com/products/sansamp/characterseries.html",
+    "hrid": "tech-21-liverpool"
+}

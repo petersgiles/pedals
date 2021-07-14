@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33631",
+    "name": "Hyper Luminal Comp. LTD BK",
+    "image": "images/darkglass-electronics-hyper-luminal-comp.-ltd-bk.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$286 Price in €",
+    "width": 75,
+    "height": 111,
+    "details": "Hybrid Compressor The Hyper Luminal Compressor features the first hybrid design in a compressor pedal: an analog VCA controlled by a digital side-chain allowed us to capture and include the characters of some of the most legendary compressors in history while keeping the signal path completely analog. \n3 Switchable compressor models\nLimited edition in black\nBy digitally modeling the side-chain circuits of some of the most legendary compressors, the Hyper Luminal captures their\nCharacteristic behavior while maintaining a fully analog signal path\nTouch-through metal sensors for Ratio and Mode\nControls: Blend, Time, Level, Compression, Ratio\nSwitch: Mode\nLED: Effect On, Ratio, Gain Reduction\nFootswitch: Effect bypass\nInput: 6.3 mm Jack\nOutput: 6.3 mm Jack\nMains adapter connection (hollow plug socket 5.5 x 2.1 mm, minus pole inside)\nCurrent consumption: 250 mA\nPower supply via 9 V DC power supply unit (not included in delivery - suitable power supply unit: Article Nr. 409939)\nDimensions (W x D x H): 42 x 111 x 64 mm\nWeight: 230 g\nColour: Black\nMade in Finland",
+    "hrid": "darkglass-electronics-hyper-luminal-comp.-ltd-bk"
+}

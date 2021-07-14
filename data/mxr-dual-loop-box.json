@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19491",
+    "name": "Dual Loop Box",
+    "image": "images/mxr-dual-loop-box.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$53 Price in €",
+    "width": 140,
+    "height": 55,
+    "details": "Control two separate effects loops, in series.The MXR M198 Dual Loop Box allows you to control two separate effects loops within your system without the mess or complication of having two entirely different loops in your pedal board. This box is built rock solid, features two heavy duty switches for On / Off / Mute, and features true bypass all within a compact box. The MXR M198 is essential for complex effects routing and makes switching simple and easy. \nhttps://reverb.com/p/mxr-m198-dual-loop-box",
+    "hrid": "mxr-dual-loop-box"
+}

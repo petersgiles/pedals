@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14724",
+    "name": "Octa-Switch MK3",
+    "image": "images/carl-martin-octa-switch-mk3.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$436 Price in €",
+    "width": 311,
+    "height": 155,
+    "details": "True Bypass Looper\nhttps://carlmartin.com/octa-switch-mk3-2/",
+    "hrid": "carl-martin-octa-switch-mk3"
+}

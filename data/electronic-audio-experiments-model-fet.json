@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16544",
+    "name": "Model FeT",
+    "image": "images/electronic-audio-experiments-model-fet.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 93,
+    "height": 119,
+    "details": "Sunn Model T PreampThe Model feT is a transistor-based preamplifier designed around the legendary Sunn Model T amplifier. Those who have played the original know that while it excels at heavy tones when pushed, it is far more just an amp for stoner rock and doom metal. In fact, on its own it is a rather clean amplifier with a tone that is dark, yet clear and present.\nMost famous Model T tones come from putting a distortion or fuzz in front of the amp. Thus, the Model feT is designed to sound good on its own and with other pedals stacked into it. This pedal goes beyond the standard triode-to-JFET conversion to deliver massive headroom and volume output, in the true spirit of the amp which inspired it. And finally, the Model feT can be used straight into a power amp, greatly expanding its capabilities beyond that of a typical drive pedal.\nControls:\nIndependent gain controls for the Normal and Brite channels\n3-band FMV EQ with the same voicing as the original amp (Bass, Mid, and Treble)\nMaster volume\nhttp://www.electronicaudioexperiments.com/model-fet",
+    "hrid": "electronic-audio-experiments-model-fet"
+}

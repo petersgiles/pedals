@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19421",
+    "name": "Basstortion",
+    "image": "images/zvex-basstortion.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$219 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "Bass Tube Amp DistortionThis is our take on capturing what is arguably the first and last word in all tube amp distortion for bass. The debate always starts and ends with the Ampeg SVT™. The harder you dig the more it growls. The connection between your hands and that kind of natural tube distortion is primal, immediate, powerful, and musical.\nhttps://www.zvex.com/products/basstortion-guitar-effects-pedal",
+    "hrid": "zvex-basstortion"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12970",
+    "name": "Small Stone V4",
+    "image": "images/electro-harmonix-small-stone-v4.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$108 Price in €",
+    "width": 85,
+    "height": 135,
+    "details": "4-stage OTA Phase shifter V4 1990s reissue with LEDEH4800 4-stage OTA phase shifter V4. EHX reissue from the 1990s.\nlooks are the same as V3 but with added LED.",
+    "hrid": "electro-harmonix-small-stone-v4"
+}

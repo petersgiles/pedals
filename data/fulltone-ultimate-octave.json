@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12391",
+    "name": "Ultimate Octave",
+    "image": "images/fulltone-ultimate-octave.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 143,
+    "height": 30,
+    "details": "Use it as a fuzz or an octave-up effect!The Ultimate Octave guitar effects pedal from Fulltone is a fat distortion/fuzz with a very active tone control and a separate switch that kicks in the most searing octave-up available. In addition to volume, tone, and fuzz controls, the Ultimate Octave effect also has a Fat/Bright switch that completely changes both the distortion and octave sounds from strong, thick mids (Fat) to completely scooped out with no mids and lots of bass and high end (Bright).",
+    "hrid": "fulltone-ultimate-octave"
+}

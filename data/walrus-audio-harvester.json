@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22584",
+    "name": "Harvester",
+    "image": "images/walrus-audio-harvester.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "20 mA / 9 V / DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Transparant Overdrive",
+    "hrid": "walrus-audio-harvester"
+}

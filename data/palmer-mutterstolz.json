@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17861",
+    "name": "Mutterstolz",
+    "image": "images/palmer-mutterstolz.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Palmer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$151 Price in €",
+    "width": 150,
+    "height": 143,
+    "details": "Tube DistortionThe flexible Palmer MUTTERSTOLZ is an overdrive, distortion, and Booster all in one and, as most other pedals of its type, it uses an ECC83 tube for a good tone.\nWhether as a transparent clean boost, classic overdrive with sensitive crunch control or a true distortion pedal with rich compression, the MUTTERSTOLZ always reacts very dynamically to pick-attack and the guitar volume controls.\nThe \"Destruction\" and \"Mother\" controls set the distortion level and volume, \"Color\" adds warmth or bite to the tone without overpowering the basic character of the guitar, and \"Dirt\" influences the harmonic behavior and sustain for fine tuning the distortion sound. True bypass circuitry, easy pedalboard mounting without hook-and-loop fasteners. The MUTTERSTOLZ runs on 12V AC; the power supply is included.\nhttp://www.palmer-germany.com/mi/en/MUTTERSTOLZ-Tube-Distortion-Pedal-PEMUTT.htm",
+    "hrid": "palmer-mutterstolz"
+}

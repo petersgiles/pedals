@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11723",
+    "name": "Vortex",
+    "image": "images/tc-electronic-vortex.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "TonePrint-Enabled Flanger Pedal with 2 Built-In Flanger ModeAn endless list of immortal artists have used the flange effect to create musical magic. From The Beatles to Pink Floyd to Van Halen, Metallica and the Red Hot Chili Peppers and beyond –  thanks to VORTEX FLANGER, all of those sounds are instantly yours\nfor the rocking!\n•    Classic flange and tape flange modes\n    •    Intuitive yet deep control set\n    •    Stereo I/O\nhttps://www.tcelectronic.com/product.html?modelCode=P0DDT",
+    "hrid": "tc-electronic-vortex"
+}

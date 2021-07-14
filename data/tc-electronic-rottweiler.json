@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21483",
+    "name": "Rottweiler",
+    "image": "images/tc-electronic-rottweiler.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$134 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Metal DistortionMORE is More!\nRöttweiler Distortion is the one-stop shop for all things metal. From ultra tight thrash to downtuned sludgy riffs, classic heavyness or a modern crushing tone, this one does them all with a gloriously musical in-your-face attitude and vicious aggression.\n•    Monster distortion\n•    Two-band active EQ\n•    Normal/mid-scoop toggle\n\nTerror on Tap\nAn all-analog design with a distortion circuit based on soft clipping ensures ... wait, you know what? Let's just say there's a raging, firebreathing dragon waiting to be unleashed in this pedal, but the distortion always sounds natural and huge.\nTerrificably Tweakable\nRöttweiler's sound is distinct and aggressive, but also very shapeable via a two-band active EQ with Bass and Treble controls, allowing you to go from a classic Motörhead to a Sabbath-y sound through to a more modern Thrash or Sludgy tone with ease.\nVoice Your Metal Gods\nA mini toggle switch allows Röttweiler to instantly switch between two very distinct styles in metal: a more open sounding, sludgy crunch you may know from bands like Mastodon, The Sword or Kyuss and the classic, super-tight aggressive mid- scoop you know from Metallica, Pantera, Slipknot, etc.",
+    "hrid": "tc-electronic-rottweiler"
+}

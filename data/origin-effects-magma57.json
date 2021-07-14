@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31925",
+    "name": "MAGMA57",
+    "image": "images/origin-effects-magma57.jpg",
+    "function": [
+        "Chorus",
+        "Distortion"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$459 Price in €",
+    "width": 93,
+    "height": 143,
+    "details": "Amp vibrato and drive pedalMAGMA57 brings the best of the Magnatone® 200 Series amplifiers to your pedalboard—delivering everything from warm, jazzy clean tones to full-on swirling psychedelia.\nhttps://origineffects.com/product/magma57-amp-vibrato-drive/",
+    "hrid": "origin-effects-magma57"
+}

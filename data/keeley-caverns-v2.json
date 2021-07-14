@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18195",
+    "name": "Caverns V2",
+    "image": "images/keeley-caverns-v2.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Dual engine Delay and Reverb pedalThe Caverns Delay Reverb V2 dual-effect pedal combines delay and reverb for the perfect end to any pedal board. It features Keeley’s analog-style tape delay with modulation options.  The 650ms of warm delay combine with Spring, Shimmer or Modulated Reverb. Caverns now comes with a True-Bypass or Trails option.  Because of its small and compact design, the New Caverns is a perfect fit for any fly-rig or small board where you have tight space requirements.  The New V2 features Keeley’s most popular time-based effects, blended perfectly via a design fine-tuned for over 2 years.  Simply put, it will be an amazing addition to any board.\nThe Reverb side of the pedal features 3 cavernous sounds:\nSpring Mode – Blackface Amp style spring reverb with F Style Tremolo\nModulation Mode – Choral modulation to the reverb for a huge, cavernous space\nShimmer Mode – Reverb with emphasis on octave-up voices in the reverb trails\n\nThe Delay side of the pedal incorporates Keeley’s popular Magnetic Echo circuit, which is designed to emulate analog tape delay lines.  Three way switchable modulation gives you options for adding Wow and Flutter to the repeats.  Perfectly voiced echoes sit well in the mix, either clean or with distortion.\nThe New Caverns Delay Reverb V2 builds on the old Caverns pedal by giving players a more open and logical control layout with more space between the foot switches.\nTop-Mounted Jacks allow for a compact pedalboard layout.\nTrue-Bypass or Trails option gives you the freedom to create huge caverns of sounds and lets them ring out even after you turn the pedal off.  Our buffers are engineered to retain your tone and to feed your amplifier a full-strength signal.\nThe New Caverns Delay Reverb V2 is entirely built in the US.  Keeley’s veteran crew builds the most reliable and road-worthy gear.\nUse 2 TRS Breakout cables for effects patching or to use the Caverns with a pro switching system.",
+    "hrid": "keeley-caverns-v2"
+}

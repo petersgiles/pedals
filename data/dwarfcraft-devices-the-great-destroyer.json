@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12504",
+    "name": "The Great Destroyer",
+    "image": "images/dwarfcraft-devices-the-great-destroyer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$159 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Rhythmic oscillation & industrial fuzzIs it a fuzz pedal? Is it an instrument? Is it a rogue angel bent on audio revenge? Rhythmic oscillation and industrial fuzz in a true bypass package.  \nOur flagship is still out there blasting away at the forces of evil (AKA boredom.)\nIf you're looking to get freaky, look no further.\nThe Great Destroyer has found it’s way into the hands of Alan Sparhawk, Justin Meldal-Johnsen, Alessandro Cortini, Young the Giant, K O Y L, and Pussy Makes Three.\nhttp://www.dwarfcraft.com/the-great-destroyer.html",
+    "hrid": "dwarfcraft-devices-the-great-destroyer"
+}

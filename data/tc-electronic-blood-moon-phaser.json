@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13850",
+    "name": "Blood Moon Phaser",
+    "image": "images/tc-electronic-blood-moon-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$63 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Vintage-style phaser pedalIf classic 1970s phaser tones make your heart beat faster, brace yourself for a sheer heart attack! Blood Moon Phaser resurrects the toothsome phaser sounds of yesteryear and transfuses them with a range of modern features such as top-mounted input/output and true bypass. Infuse your tone with the haunting howls and sacchariferous sweeps convoked by Blood Moon Phaser´s vintage four-stage filter - and get ready to rock out from dusk till dawn!\nVintage-style phaser pedal\nClassic four-stage filter design\nTrue bypass and top-mounted I/O\nhttp://www.tcelectronic.com/de/blood-moon-phaser/",
+    "hrid": "tc-electronic-blood-moon-phaser"
+}

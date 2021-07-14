@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29338",
+    "name": "ANGELRING clean boost plus",
+    "image": "images/lastgasp-art-laboratories-angelring-clean-boost-plus.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$188 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "BoostThe \"ANGELRING - clean boost+\" (AN) is a clean booster pedal.\nThe \"AN\" boosts the input signal as cleanly as possible so it is suitable for increasing volume. It also outputs the boosted signal to the next instrument or amplifier so that it is able to make a natural overdrive sound.\nIt is recommended for situations when you like the tone, but don't have enough volume, or if you want to boost a tone in the middle of a track.\nhttp://www.lalweb.com/an/an-e.html",
+    "hrid": "lastgasp-art-laboratories-angelring-clean-boost-plus"
+}

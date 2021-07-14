@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16857",
+    "name": "Cabzeus",
+    "image": "images/gfi-system-cabzeus.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "GFI System",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$315 Price in €",
+    "width": 120,
+    "height": 90,
+    "details": "Cabinet SimulatorCabzeus is an algorithm-based speaker - cabinet - miking simulator system. Connected direct to your gears this device enables you to obtain the sound of a miked-guitar amp cabinet without the hassle of miking your cabinet.\nhttps://www.gfisystem.com/cabzeus.html",
+    "hrid": "gfi-system-cabzeus"
+}

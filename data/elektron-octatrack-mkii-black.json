@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31648",
+    "name": "Octatrack MKII Black",
+    "image": "images/elektron-octatrack-mkii-black.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Looper",
+        "MIDI",
+        "Reverb",
+        "Sampling"
+    ],
+    "manufacturer": "Elektron",
+    "current": "? mA / ? V / AC/DC / Positive Center",
+    "cost": "$1,403 Price in €",
+    "width": 340,
+    "height": 185,
+    "details": "SamplerAudio track features (×8)\n\n1 × Specialized machine\n1 × Track recorder\n1 × Amplitude envelope\n3 × LFOs\n2 × User selectable track effects\n\nMIDI track features (×8)\n\n1 × Arpeggiator\n3 × LFOs\n10 × configurable CCs\n\nSequencer\n\n8 × Audio tracks\n8 × MIDI tracks\nUp to 64 steps per pattern\nIndividual track lengths\nIndividual track time signatures\nChromatic, slice, slot, and delay freeze modes\nParameter locks\nTrig conditions\nTempo Per Pattern\nTrig Preview\nSample-per-step change\nMicro timing\nRetrig functionality\nSwing and slide\nFull real-time control\n\nStorage\n\nCompactFlash card storage\nAmount of Projects dependent on CF card size\n80 MB Flex RAM per project\nStatic sample streaming from CF card\n256 patterns per Project\n256 sample slots per Project\n8 Arrangements per Project\n\nTrack effects\n\n12/24dB multi mode filter\n2-band parametric EQ\nDJ-style kill EQ\n2-10 stage phaser\nFlanger\n2-5 tap chorus\nSpatializer\nComb filter\nCompressor\nLo-Fi (SRR, BR, Dist and AM)\nEcho freeze delay\nGatebox plate reverb\nSpring reverb\nDark reverb\n\nHardware\n\n128 × 64 pixel OLED screen\nMIDI In/Out/Thru\n2 × 1/4” impedance balanced main audio out jacks\n2 × 1/4” impedance balanced cue audio out jacks\n4 × 1/4” balanced/unbalanced external input jacks\n1 × 1/4” stereo headphone jack\n44.1 kHz, 24-bit D/A and A/D converters\nHi-speed USB 2.0 port\nPower inlet: Center positive 5.5 × 2.5 mm barrel jack, 12 V DC, 2 A\n\nBalanced audio outputs\n\nMain outputs level: +17 dBu peak\nOutput impedance: 440 Ω unbalanced\nDigital S/N ratio: 104 dB (20–20,000 Hz)\n\nHeadphones outputs\n\nHeadphones out level: +17 dBu peak\nOutput impedance: 55 Ω\n\nBalanced audio inputs\n\nInput level: +17 dBu peak\nAudio input impedance: 21 kΩ\nDigital S/N ratio: 106 dB (20–20,000 Hz)\n\nElectrical specifications\n\nUnit power consumption: 7 W typical\nCompatible Elektron power supply: PSU-3b\n\nPhysical specifications\n\nSturdy steel casing\nDimensions: W 340 × D 184 × H 63 mm (13.3” × 7.2” × 2.5”) (including knobs, jacks, and rubber feet)\nWeight: approximately 2.3 kg (5 lbs)\nMaximum recommended ambient operating temperature: +40˚C (+104˚F)\n\nhttps://www.elektron.se/products/octatrack-mkii/",
+    "hrid": "elektron-octatrack-mkii-black"
+}

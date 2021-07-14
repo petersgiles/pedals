@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12091",
+    "name": "Deja 2",
+    "image": "images/fulltone-deja-2.jpg",
+    "function": [
+        "Chorus",
+        "Filter",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 127,
+    "height": 229,
+    "details": "Vibe",
+    "hrid": "fulltone-deja-2"
+}

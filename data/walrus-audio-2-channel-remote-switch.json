@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15955",
+    "name": "2 Channel Remote Switch",
+    "image": "images/walrus-audio-2-channel-remote-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$59 Price in €",
+    "width": 121,
+    "height": 69,
+    "details": "For the Descent and VanguardFor the Descent and Vanguard this pedal remotely controls the Preset footswitch and the Bypass foot switch.\nPreset Footswitch –Changes between presets\nBypass Footswitch / Preset Save – Push down Bypass to turn the pedal on and off.  To save a setting and add the setting to your bank of presets, hold the Bypass footswitch down until the ‘Preset’ LED flashes.",
+    "hrid": "walrus-audio-2-channel-remote-switch"
+}

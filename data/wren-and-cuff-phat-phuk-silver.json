@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12169",
+    "name": "Phat Phuk Silver",
+    "image": "images/wren-and-cuff-phat-phuk-silver.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 59,
+    "height": 111,
+    "details": "This booster was not made to be “transparent”.\nIt’s not a JFET or MOSFET based booster. There are many fine boosters out there that are designed to be “transparent\". If that’s what you’re after, the Phat Phuk may not be for you. A JFET is used in the Phat Phuk however, more on that below.\nThe Phat Phuk is not a clone of any other pedal.\nThe Phat Phuk is a JFET/germanium single circuit hybrid booster.\nhttp://www.wrenandcuff.com/site/the-stompboxes/the-phat-phuk/",
+    "hrid": "wren-and-cuff-phat-phuk-silver"
+}

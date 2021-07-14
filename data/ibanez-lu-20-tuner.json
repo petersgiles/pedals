@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19469",
+    "name": "Lu 20 Tuner",
+    "image": "images/ibanez-lu-20-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 145,
+    "height": 82,
+    "details": "Led-type TunerFeatures/Specifications:\nDurable die-cast housing\nLED display with 3-color indicator for maximum visibility\nAble to 5 half step (bbbbb) flat/down tuning\nFurther Specs:\nTuning Range: C1( 32.70Hz) - B5 (987.77Hz)\nCalibration: 436Hz - 445Hz\nPower Supply: 9V 006P x 1 or AC ADAPTER Ibanez AC109\nInput: Input Jack, DC Jack\nOutput: Output Jack, Dry Out Jack",
+    "hrid": "ibanez-lu-20-tuner"
+}

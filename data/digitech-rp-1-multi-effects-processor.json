@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17276",
+    "name": "Rp-1 Multi-Effects Processor",
+    "image": "images/digitech-rp-1-multi-effects-processor.jpg",
+    "function": [
+        "Delay",
+        "Multieffect",
+        "Reverb"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 524,
+    "height": 229,
+    "details": "stereo multi-effects processor24 effects, up to 10 at a time.\nAdvanced speaker simulator.\nFull MIDI input and output mapping.\nFully programmable local and global continuous controller assignments.\nProgrammable effects loop for outboard gear.\nStereo headphone output.\nCan be used as a remote MIDI footswitch controller for all MIDI controllable devices.",
+    "hrid": "digitech-rp-1-multi-effects-processor"
+}

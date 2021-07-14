@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11440",
+    "name": "Deluxe Memory Man",
+    "image": "images/electro-harmonix-deluxe-memory-man.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$270 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "",
+    "hrid": "electro-harmonix-deluxe-memory-man"
+}

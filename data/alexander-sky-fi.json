@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16830",
+    "name": "Sky FI",
+    "image": "images/alexander-sky-fi.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Delay and ReverbBathe your signal in an excess of echoes, a deluge of delay, and a surfeit of shimmer. All of the ambience you desire is a footstep away.",
+    "hrid": "alexander-sky-fi"
+}

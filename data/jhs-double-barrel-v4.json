@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13942",
+    "name": "Double Barrel V4",
+    "image": "images/jhs-double-barrel-v4.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$315 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Dual OverdriveThis is our \"Everything low-to-medium gain\" pedal and it just got better!\nThe Double Barrel V4 is for the player who needs a versatile but transparent overdrive at medium and light gain levels. You won’t find face melting distortion here, but you will find overdrive with the character and stacking abilities to cover almost any tonal need.\nThe right side is our brand new Moonshine V2 which is a highly unique and massively tweaked version of the most famous overdrive ever created housed in a little green enclosure. The Moonshine V2 has the classic mid-heavy tones that you’d expect but with more gain, volume, and tones available than you ever thought possible. The Moonshine V2 has the same core tone as the Version 1 but we have added a new “Clean” knob to blend in the perfect amount of clean signal with your overdrive signal.\nThe left side of the Double Barrel is our best-selling Morning Glory V4 overdrive. Transparent and open tones are what lurk inside this circuit as well as the new hi-gain toggle with Red Remote capability.  Just plug in the JHS Pedals Red Remote into the “Remote Gain” jack with a standard patch cable and you can switch the “Gain” toggle on the fly for even more tonal options. You now have five on-the-fly overdrive options to choose from in the Double Barrel V4!\nWhen these two circuits are stacked, something magic happens. Tones that are original and fresh come with ease, as well as added exibility, due to the “order switching” toggle that lets you decide what pedal comes rst in the signal chain.\nWe are convinced that this is one of the greatest 2-in-1 pedals ever made... seriously. If you're having problems getting the tones you want, just grab the Double Barrel V4 and you’ll find out  how easy it is to hit the target!\nThis pedal requires standard 9V DC Negative power, consumes less than 100mA, and measures 4.7\"x3.7\"x1.5\"\nVERSION HISTORY\nV1 = Slightly darker cream powder coating, no toggle switches, just 6 knobs.\nV2 = Color change to more white, order toggle switch was added, morning glory bright cut switch added.\nV3 = 808 gain toggle added, shotgun logo slightly changed.\nV4 = Current production model, added Moonshine V2 on right side, Morning Glory V4 on the left side\nhttps://www.jhspedals.com/products/guitar-pedals/double-barrel/",
+    "hrid": "jhs-double-barrel-v4"
+}

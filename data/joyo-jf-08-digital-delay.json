@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17305",
+    "name": "JF-08 Digital Delay",
+    "image": "images/joyo-jf-08-digital-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$38 Price in €",
+    "width": 87,
+    "height": 118,
+    "details": "Digital delayThe Digital Delay from Joyo has the sound and easy interface of a classic slapback echo, but has the signal integrity and repeatability of a true digital delay (this really is a digital delay, but be advised, you won’t be able to enter 550 ms and have the pedal match that tempo digitally; instead learn to record settings). Use of delay takes a well-trained ear, but this pedal will allow you to start training yourself on the “edgy” art of Delay effects.\nWith this pedal you don’t need to worry about master settings (50, 200, 500 ms), but the sound is far from basic. With controls for TIME, REPEAT and LEVEL, it’s easy to dial in a sound you like and take it away! The switch is a stompbox style DPDT, with full bypass wiring so it won’t rob you of your precious tone when you go to click it off/on.\nThe real trick to using such a pedal as this is to get your system down for knowing where your settings were when you found the sound you like. Take a picture, or write down exactly where you had those knobs set or you’ll be sorry you didn’t take the time when you go to play it with a drummer and all of a sudden everything’s off! You too can have the sound of the pros with this digital delay JF-08 from JOYO!\nhttps://www.amazon.com/JF-08-Digital-Delay-Effect-Pedal/dp/B004FRHKA2",
+    "hrid": "joyo-jf-08-digital-delay"
+}

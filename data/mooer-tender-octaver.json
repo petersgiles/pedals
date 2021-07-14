@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12543",
+    "name": "Tender Octaver",
+    "image": "images/mooer-tender-octaver.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 42,
+    "height": 52,
+    "details": "Precise octave modulation pedalBringing together in a nearly-indestructible metal enclosure, separate upper and sub octave controls, and one of the smallest stompbox designs currently made, the Mooer Tender Octaver is your tiny ticket to big octave sound. Capable of adding both and upper and lower octave either individually or in tandem, this mini titan offers an easy avenue to full, vintage octave sounds at a steal of a price. The perfect accompaniment to a fuzz, this pedal also plays nicely with flangers, distortions, and overdrives.\nhttp://www.mooeraudio.com/?product/201501159720.html",
+    "hrid": "mooer-tender-octaver"
+}

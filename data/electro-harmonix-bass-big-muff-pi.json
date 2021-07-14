@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11977",
+    "name": "Bass Big Muff Pi",
+    "image": "images/electro-harmonix-bass-big-muff-pi.jpg",
+    "function": [
+        "Distortion",
+        "Bass"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 121,
+    "details": "Fuzz\nhttp://www.ehx.com/products/bass-big-muff-pi",
+    "hrid": "electro-harmonix-bass-big-muff-pi"
+}

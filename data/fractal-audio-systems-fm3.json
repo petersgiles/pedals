@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23600",
+    "name": "FM3",
+    "image": "images/fractal-audio-systems-fm3.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Fractal Audio Systems",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,456 Price in €",
+    "width": 284,
+    "height": 234,
+    "details": "Fractal FM3 Modeler",
+    "hrid": "fractal-audio-systems-fm3"
+}

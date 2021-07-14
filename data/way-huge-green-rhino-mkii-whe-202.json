@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27627",
+    "name": "Green Rhino MkII WHE-202",
+    "image": "images/way-huge-green-rhino-mkii-whe-202.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "17 mA / 9 V / DC / Negative Center",
+    "cost": "$75 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "OverdriveThe Way Huge Electronics Green Rhino Mk II Overdrive pedal has all the gorgeous, classic overdrive that you crave, but it's evolved to include cool new features that make it even more rhinoceriffic. In addition to the Volume, Tone, and Drive controls, you get a 100Hz EQ knob to cut or boost your low end by 12dB. Your low notes can either shake the ground like a stampede across the savannah or cut through the mix like a charging rhino's horn.",
+    "hrid": "way-huge-green-rhino-mkii-whe-202"
+}

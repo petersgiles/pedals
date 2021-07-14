@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24978",
+    "name": "Colour Box V2",
+    "image": "images/jhs-colour-box-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "JHS",
+    "current": "193 mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 95,
+    "height": 145,
+    "details": "New version of the neve preamp/boostAn effects pedal that replicates the hard to achieve sounds of \"direct-in\" electric guitar recordings.\n\nOutput transformer\nSafely Passes 48v Phantom Power\nEQ Shift Knobs for precision EQ control\nHi/Lo Switch for ultra clean headroom\n100% available clean signal even on acoustic guitar\nSilent switching, aka no \"switch-pop\"\nRuns on standard 9V DC Neg power\nCombination XLR and 1/4\" input jack to use either an instrument or microphone. Input selector switch on the right side of the pedal labeled INST/XLR.",
+    "hrid": "jhs-colour-box-v2"
+}

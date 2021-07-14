@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29341",
+    "name": "Scuzz Box",
+    "image": "images/khdk-scuzz-box.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KHDK",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Germanium-voiced fuzz with a gnarly 8-bit twistA powerfully crunchy, ripping tone that can scream and destroy but is clear enough for soloing.\nIn its acid yellow and purple enclosure the Scuzz Box is inspired by the best fuzz pedals throughout the generations, taken to the next level.\n“Most fuzz pedals I’ve tried sound cool on high notes, but once you get into rhythm it’s just a wash of fuzz. The Scuzz Box doesn’t mute any notes and maintains clarity.”\n– Dave Catching (Eagles of Death Metal)\nThe Scuzz Box shines in two distinct modes: Scuzz and Fuzz. The Fuzz mode is your go-to, highly listenable sound with top-notch fuzz. Designed to shine through and stand out, this mode is perfect for soloing and long wailing tones, clear enough even for power chords.\nThe Scuzz mode is where this pedal gets gnarly, dangerous and unpredictable. It delivers a velcro-type gating fuzz with a highly distinct ripping texture and an 8-bit tone. \nThe Buffer eliminates unwanted oscillation and helps retain clarity, reducing passive signal loss in longer cables. We've made it truly bypassable for easy access.\nhttps://www.khdkelectronics.com/products/detail/scuzz-box-fuzz/",
+    "hrid": "khdk-scuzz-box"
+}

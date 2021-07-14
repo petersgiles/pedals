@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15578",
+    "name": "Hail Satan",
+    "image": "images/abominable-electronics-hail-satan.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 94,
+    "height": 117,
+    "details": "Big Muff Clone\nhttps://www.abominableelectronics.com/shop/hail-satan",
+    "hrid": "abominable-electronics-hail-satan"
+}

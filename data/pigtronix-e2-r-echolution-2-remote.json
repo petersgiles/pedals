@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19236",
+    "name": "E2-R Echolution 2 Remote",
+    "image": "images/pigtronix-e2-r-echolution-2-remote.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 110,
+    "height": 55,
+    "details": "Remote switch for Echolution delayThe Exhalation 2 remote switch is a two button momentary controller that allows instantaneous access to your top 4 presets in each bank on the Exhalation 2 and Exhalation 2 Deluxe. The E2 Remote also facilitates the Exhalation 2s Freeze function as well as the all new Jump function that sends your echoes cascading up in octaves on each repeat.\nhttps://pigtronix.com/product/echolution-2-remote/",
+    "hrid": "pigtronix-e2-r-echolution-2-remote"
+}

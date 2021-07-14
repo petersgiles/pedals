@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17332",
+    "name": "AD4096 mk2",
+    "image": "images/endangered-audio-research-ad4096-mk2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Endangered Audio Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 140,
+    "height": 140,
+    "details": "Analog Delay with Loop insertLong overdue and much anticipated, the Endangered Audio Research AD4096 mk2 just made the best even better.  The AD4096 mk2 is the most versatile analog delay pedal ever created.  It works with both instrument and line level applications, meaning you can use it for guitar, keyboards, and even pro-audio mixing.\nhttp://www.endangeredaudioresearch.com/pedals/#/ad4096-mk2/",
+    "hrid": "endangered-audio-research-ad4096-mk2"
+}

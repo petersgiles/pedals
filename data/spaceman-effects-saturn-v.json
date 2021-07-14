@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19751",
+    "name": "Saturn V",
+    "image": "images/spaceman-effects-saturn-v.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 64,
+    "height": 127,
+    "details": "Harmonic BoosterThe Saturn V is a tone enhancer.  At once both a harmonic-laden boost and low-gain overdrive, it eludes categorization.  Named after the NASA rocket that propelled the first humans to the moon, the Saturn V will rocket your tone into the heavens.\nThe Saturn V features a simple two knob control layout for Boost and Drive.  The Boost control alone can deliver 18db of boost, with a hint of added sparkle.  Adjusting the Drive control will add more harmonic distortion, while also increasing the total output level of the pedal.  Cranking both controls to max will yield 35db of boost, full of complex harmonic character.\nThe overall tone of the Saturn V gives an openness to the top end of the frequency spectrum. It works equally well with bass and baritone guitar, as it keeps the bass frequencies present, tight and controlled.  In good Spaceman fashion, the harmonic distortion present in the Saturn V is extremely dynamic.  Play with a light touch and you’ll get a clean tone, but dig in and the Saturn V will react.  It feels like playing a tube amp on the edge of breakup.\nThe drive texture in the Saturn V is comprised of a mix of odd and even harmonics.  The Boost side of the pedal is focused on even-order harmonics.  While the Drive side of the pedal increases these even-order harmonics, it noticeably adds odd-order harmonics to the mix.  While it excels as a harmonic booster, the Saturn V crosses the line into the realm of light overdrive when the Drive control is maxed.  It also works well with other pedals, opening up new possibilities with other boost, fuzz, and overdrive effects.\nCompletely hand soldered and handmade in Portland, Oregon, the Saturn V utilizes true-bypass switching via the heaviest duty mechanical footswitch available, while your tone is transferred via quality open-frame jacks.  Open one up and you’ll see an unparalleled display of craftsmanship, with an immaculate hand-soldered PCB, detailed military-spec wiring and custom heavy-duty battery connector.  On top of the USA cast-aluminum enclosure sits a durable, engraved vinyl faceplate and red jewel indicator light.  This pedal is built to last a lifetime.\n•   Current Draw: 6mA(on); ~2mA(off)\nhttps://spacemaneffects.com/products/saturn-v/",
+    "hrid": "spaceman-effects-saturn-v"
+}

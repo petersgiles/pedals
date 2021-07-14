@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12234",
+    "name": "Enigma",
+    "image": "images/electro-harmonix-enigma.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$197 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Bass envelope filter\nhttps://www.sweetwater.com/store/detail/Enigma",
+    "hrid": "electro-harmonix-enigma"
+}

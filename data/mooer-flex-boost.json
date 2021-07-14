@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12435",
+    "name": "FLEX Boost",
+    "image": "images/mooer-flex-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Mooer",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "The Mooer Flex Boost is just that. A flexible boost pedal that can even double as an overdrive. It has a wide range of gain tones and can really thicken up your sound. Its full metal casing makes it durable and road ready, and like most great effects pedals it has true bypass.\nWide range gain boost\nEnough gain to work well as an overdrive\nFull metal shell\nPedalboard friendly\nTrue bypass\n\nInput: 1/4\" monaural jack (impedance: 1M Ohms)\nOutput: 1/4\" monaural jack (impedance: 10k Ohms)\nPower Requirements: AC adapter 9V DC (center minus plug)\nCurrent Draw: 6 mA\nDimensions: 1.6535\" (W) x 2.0472\" (H) x 3.6811\" (D)\nWeight: 0.36lb",
+    "hrid": "mooer-flex-boost"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30112",
+    "name": "Spring Chicken",
+    "image": "images/malekko-heavy-industry-spring-chicken.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Spring reverbThe SPRING CHICKEN spring reverb has two knobs: “Cluck” adjusts the level of reverb and the legendary “Dwell” knob on the side of the pedal controls the amount of bounce, length as well as wet signal. Plug in an expression pedal for hands-free control and create giant swells and wild oscillations. From classic beach vibes to extreme cavernous depths, this Chicken is finger licking good.\nhttps://malekkoheavyindustry.com/product/spring-chicken-ltd/",
+    "hrid": "malekko-heavy-industry-spring-chicken"
+}

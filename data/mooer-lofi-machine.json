@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11958",
+    "name": "LoFi Machine",
+    "image": "images/mooer-lofi-machine.jpg",
+    "function": [
+        "Digital",
+        "Distortion",
+        "Filter",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Mooer",
+    "current": "128 mA / 9 V / DC / Negative Center",
+    "cost": "$64 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Sample ReducingWide range sampling rate/depth reducing effects\n3 modes for using guitar, bass, synth or sound player\nSampling Rate Range: 31250Hz~60Hz\nSampling Depth Range: 16Bit~5Bit\nFull metal shell\nVery small and exquisite\nTrue bypass\nhttp://www.mooeraudio.com/product/Lofi-Machine--125.html",
+    "hrid": "mooer-lofi-machine"
+}

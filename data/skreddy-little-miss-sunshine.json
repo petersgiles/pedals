@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20061",
+    "name": "Little Miss Sunshine",
+    "image": "images/skreddy-little-miss-sunshine.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Skreddy",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 67,
+    "height": 120,
+    "details": "Optical Phase Shifter With a Classic 70's VoiceMeat-and-potatoes phaser. Plug it into your high-gain channel or your favorite distortion, and it won't add noise or mess with your tone (e.g.; no treble boost, no bass cut; no volume boost, no volume drop). It's transparent, lush, distortion-free, and warm, with that sweet, sweet flavor you won't want to rock without.\n\nOptical Phase Shifter With a Classic 70's Voice\nAdds dimensional shimmer and syrupy swirl, from hypnotic slow to dizzying fast\nExtremely low noise and clean, maintains neutral eq and volume footprint\nPlenty of headroom and fuzz friendly, before or after\nBig knob for easy foot control\n\nControls:\n(1) Speed: Goes from almost standing still to super fast rotary spin\nLED Indicators:\nBypass (White) indicates when circuit is active, off when in true-bypass\nSpeed (Red) indicates the speed of the sweep, always active\nhttps://skreddypedals.com/skreddy_pedals_little_miss_sunshine.php",
+    "hrid": "skreddy-little-miss-sunshine"
+}

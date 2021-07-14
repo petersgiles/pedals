@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26325",
+    "name": "EH-1 Echohead",
+    "image": "images/marshall-eh-1-echohead.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$101 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Digital delay\nhttps://marshall.com/marshall-amps/products/pedals/eh-1-echohead?languageCode=it",
+    "hrid": "marshall-eh-1-echohead"
+}

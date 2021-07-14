@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12359",
+    "name": "POG 2",
+    "image": "images/electro-harmonix-pog-2.jpg",
+    "function": [
+        "Filter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "Polyphonic Octave GeneratorBack in 2005, Electro-Harmonix unveiled the original POG, a polyphonic octave generator that enabled guitarists to conjure everything from the surreal jangle of an 18-string guitar, to rich, thick walls of symphonic sound.\nThe POG2 will take you even higher. Use the new attack control to fade in lush, smooth swells. Tune in the new second sub-octave to reach deeper than ever before. The 2-pole resonant low-pass filter now includes two additional Q modes. Slide in the newly enhanced detune to further refine your sound.\nThe POG2 delivers unrivaled tonal variations—and now you can save your favorite settings, and recall them with a click. The POG2 just plain sounds better, thanks to an enhanced algorithm that delivers a more focused and in-the-pocket harmonic performance. And all this is now packed into our rugged and pedalboard-friendly diecast chassis. \nQuick Specs\n\nTrue bypass\nTotally programmable 8-preset memory with instant recall\nFour polyphonic mixable voices + your guitar\nAttack delay slider controls the fade-in speed of the octaves\nLow Pass filter with selectable Q\nDry signal can be routed through the Attack, LP, and Detune faders\nFlawless polyphonic glitch-free tracking\nCan be daisy chained with other pedals and power supplies\n9.6DC-200 power supply included\nDimensions in inches: 4.75 (w) x 5.75 (l) x 2.5 (h)\nDimensions in mm: 146 (w) x 121 (l) x 64 (h)\n\nhttp://www.ehx.com/products/pog2",
+    "hrid": "electro-harmonix-pog-2"
+}

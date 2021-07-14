@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28133",
+    "name": "Raven",
+    "image": "images/rock-stock-pedals-raven.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Rock Stock Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 71,
+    "height": 127,
+    "details": "OverdriveThe Raven is a warm, amp-like overdrive. A more pronounced mid range EQ contributes to this fullness and warmth. It offers a wide gain range to suit your style and makes a great first or second stage overdrive. The output buffer of the famed TS808 is utilized for stability and driving capabilities. The Raven has lots of volume on tap for lead boosting and for driving other pedals or amps. The low noise design provides excellent response and signal buffering.\n• TS-based drive circuit\n• Wide overdrive range\n• Low noise design\n• Volume, Tone, Gain controls\n• Standard 9VDC power\n• True bypass switching\nhttps://www.rockstockpedals.com/product/raven-v2-overdrive-guitar-pedal/",
+    "hrid": "rock-stock-pedals-raven"
+}

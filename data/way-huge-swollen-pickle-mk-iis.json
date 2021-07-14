@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12253",
+    "name": "Swollen Pickle MK IIS",
+    "image": "images/way-huge-swollen-pickle-mk-iis.jpg",
+    "function": [
+        "Distortion",
+        "Fuzz"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$188 Price in €",
+    "width": 81,
+    "height": 121,
+    "details": "Jumbo FuzzThe Swollen Pickle Jumbo Fuzz MkIIS serves up the same burly high gain fuzz as the full-sized MkII but in a more petite package. With a twist of the Sustain control, you're taken from mild crunch to Armageddon! The Filter control retains its trademark insane range of heavily bandpass-filtered tones, distinguished by remarkable girth and sizzle, and the Loudness puts out enough volume to clobber any amp! The Scoop tone stack control elicits classic Swollen Pickle mid-scoop or a flat mid-frequency sweep, and the Crunch knob adjusts the compression intensity of the fuzz. Finally, under the hood, the MkIIS has two internal mini controls: Voice sets the intensity of the external scoop control from light to heavy mid cut, and Clip varies between two sets of clipping diodes for smooth or opened fuzz sustain. \nhttps://www.jimdunlop.com/product/whe401s-7-10137-08977-8.do",
+    "hrid": "way-huge-swollen-pickle-mk-iis"
+}

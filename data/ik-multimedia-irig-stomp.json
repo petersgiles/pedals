@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12101",
+    "name": "iRig Stomp",
+    "image": "images/ik-multimedia-irig-stomp.jpg",
+    "function": [
+        "Multieffect",
+        "Utility"
+    ],
+    "manufacturer": "IK Multimedia",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 70,
+    "height": 109,
+    "details": "IK Multimedia iRig Stomp Ipad Iphone iOS guitar pedal interface\nhttp://www.ikmultimedia.com/products/irigstomp/",
+    "hrid": "ik-multimedia-irig-stomp"
+}

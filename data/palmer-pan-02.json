@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31105",
+    "name": "PAN 02",
+    "image": "images/palmer-pan-02.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Palmer",
+    "current": "Pedal is passive",
+    "cost": "$70 Price in €",
+    "width": 110,
+    "height": 73,
+    "details": "DI box1 Channel\nOperable with battery or phantom power\nPad switch (0 dB / -30 dB)\nInput jack link\nSymmetric XLR output\n5 year manufacturer's warranty\nhttps://www.thomann.de/se/palmer_pan_02.htm",
+    "hrid": "palmer-pan-02"
+}

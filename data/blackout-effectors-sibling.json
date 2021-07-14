@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21233",
+    "name": "Sibling",
+    "image": "images/blackout-effectors-sibling.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 122,
+    "details": "Phaser",
+    "hrid": "blackout-effectors-sibling"
+}

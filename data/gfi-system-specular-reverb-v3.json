@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16899",
+    "name": "Specular Reverb V3",
+    "image": "images/gfi-system-specular-reverb-v3.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "GFI System",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 119,
+    "height": 64,
+    "details": "Multi ReverbSpecular Reverb V3 preserves the algorithms and sonic qualities of our award winning Specular Reverb V2, while improving its user interfaces and adding a couple of new features. The preset system has been greatly simplified, now you have 7 distinct reverb algorithms that can be saved into any one of the 8 presets locations. Algorithms are selected using a single button and indicated by a multi-colored LED.\nPresets :  8 presets, organized in two banks.\nStereo I/O :  2 inputs - 2 outputs.\n(NEW) Expression / Tap-tempo input : accepts a standard expression pedal or Tap-Tempo signal.\nSpillover :  as the pedal is bypassed, the reverb tail is not abruptly cut off, instead it decays out naturally. The same is true when changing presets (as long as you stay in the same reverb mode).\nAuto Intensity Swell :  when you engage this feature, the parameter controlled by the Intensity knob is slowly swept to the maximum value, hold it there, and then swept back to the original setting. Used judiciously, this feature can introduce dynamic elements to the soundscape - watch the demo videos to see it in action.\nAnalog Dry-thru :  dry signal is routed through a pure analog path.\nSmall form-factor :  the pedal measures 12 x 6.5 (cm) or 4.7 x 2.5 (inch).\nhttps://www.gfisystem.com/specular-reverb-v3.html",
+    "hrid": "gfi-system-specular-reverb-v3"
+}

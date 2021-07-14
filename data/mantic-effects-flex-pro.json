@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20309",
+    "name": "flex pro",
+    "image": "images/mantic-effects-flex-pro.jpg",
+    "function": [
+        "Digital Glitch",
+        "Distortion",
+        "Filter",
+        "Pitch Shifter",
+        "Ring Modulator",
+        "Synth Voice"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$255 Price in €",
+    "width": 90,
+    "height": 115,
+    "details": "PLL synth fuzz pitch trem thingy",
+    "hrid": "mantic-effects-flex-pro"
+}

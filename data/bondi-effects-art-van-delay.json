@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20203",
+    "name": "Art Van Delay",
+    "image": "images/bondi-effects-art-van-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Bondi Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Analog delay with a digital brain\nhttps://www.bondieffects.com/products/art-van-delay",
+    "hrid": "bondi-effects-art-van-delay"
+}

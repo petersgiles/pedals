@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12173",
+    "name": "SCOOPER",
+    "image": "images/roland-scooper.jpg",
+    "function": [
+        "Looper",
+        "Sampling",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Roland",
+    "current": "950 mA / ? V / AC",
+    "cost": "$299 Price in €",
+    "width": 106,
+    "height": 128,
+    "details": "Programmable Scatter Effect with CV/Gate and Eurorack CompatibilitySCOOPER is a unique modular effect combining a single-pass loop recorder and Scatter effect with unprecedented control and flexibility. Able to be used as a tabletop unit or as a Eurorack module, and with an array of CV/Gate inputs, this compact 21 HP unit has a wide range of uses from studio production to live performance. Not only for modular synth users, SCOOPER is perfect for keyboard players, guitarists, DJs or any adventurous musician looking to expand their sound. Carefully crafted in Japan, SCOOPER has large, ultra-smooth controls with over 16 million steps of resolution and is fully re-programmable via computer or tablet.\nhttps://www.roland.com/global/products/scooper/",
+    "hrid": "roland-scooper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32626",
+    "name": "Lethargy",
+    "image": "images/dreadbox-lethargy.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "90 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 100,
+    "height": 140,
+    "details": "Full Analog 8-Stage OTA Phase ShifterLethargy derives from the greek word for forgetfulness, “Lethe”. It is a state of being drowsy and dull. The feeling of having little energy or of being unable or unwilling to do anything. \nDreadbox LETHARGY is an OTA based Phase Shifter effect pedal suitable for fretted instruments and synthesizers, with eurorack patch compatibility.\n\nFull Analog 8-Stage OTA Phase Shifter\n2 Different LFO Waves\nWide Range LFO from several sec up to 110Hz\nGreat for Vibrato Effect\n3 patch points for our modular fans\n\nhttps://www.dreadbox-fx.com/lethargy/",
+    "hrid": "dreadbox-lethargy"
+}

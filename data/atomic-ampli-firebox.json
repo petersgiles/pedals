@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16725",
+    "name": "Ampli-Firebox",
+    "image": "images/atomic-ampli-firebox.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Atomic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 95,
+    "height": 120,
+    "details": "Modeling FX & AMP\nhttp://atomicamps.com/amplifirebox/",
+    "hrid": "atomic-ampli-firebox"
+}

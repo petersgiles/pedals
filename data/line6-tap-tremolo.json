@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12098",
+    "name": "Tap Tremolo",
+    "image": "images/line6-tap-tremolo.jpg",
+    "function": [
+        "Digital",
+        "Dual/Stereo",
+        "Tremolo"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 86,
+    "height": 143,
+    "details": "stereo tap tremolo and pannerOVERVIEW\nThe ToneCore® Tap Tremolo™ pedal gives you pulsating tremolo just like you've always wanted. Using the Tap Tempo feature, along with adjustable dynamic speed control, peak setting, depth, and shape, your tone will chop, slice, and dice like no other. You can choose from three pulse-pounding models: Opto Tremolo, Bias Tremolo, or Stereo Panning.\nModel Switch - You get different types of pulverizing tremolo. Flick the switch to reconfigure the virtual circuitry inside Tap Tremolo, then stand back!\nOpto - Here's a vintage Opto circuitry-style tremolo sound like you'd find built into mid-60?s American amplifiers.\n\nBias - This model creates a vintage bias circuitry style tremolo sound you'd find in late 50?s and British amplifiers.\n\nPan - This model makes your sound pan back and forth between left and right outputs. \n\nSpeed - Adjusts the speed of the tremolo pulse from slow to fast.\nDepth - At low settings, you'll get a subtle variation of your guitar volume. At high settings, your volume will dip to silence with each pulse.\nPeak - A peak follower changes your effect?s speed so it goes faster as you play louder, and slower as you play softer. As a note decays, you'll hear the tremolo speed slow to match the setting of the speed knob.\nShape - Turn the knob toward the left for a smooth sine wave tremolo that gradually varies your volume up and down, or left for a for a hard-chopping square wave that dramatically switches from loud to quiet.\nTap Tempo - Using the innovative ToneCore double-action footswitch, you can tap a couple times and have the pulsations match your tempo. Whether the effect is active or bypassed, you can tap the footswitch lightly to set your tempo. Your first two taps establish the tempo and any additional taps will be averaged in.\nAny time the Tap Tempo switch is used, the tapped value overrides the current setting. Whenever the knob is turned, it overrides the last value entered with the Tap Tempo switch. The Tap Tremolo indicator light flashes the tempo in green when the effect is ON and amber when the effect is OFF.",
+    "hrid": "line6-tap-tremolo"
+}

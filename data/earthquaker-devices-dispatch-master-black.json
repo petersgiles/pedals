@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16746",
+    "name": "Dispatch Master Black",
+    "image": "images/earthquaker-devices-dispatch-master-black.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "78 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Digital Delay & ReverbThe Dispatch Master is a hi-fi digital Delay & Reverb Device that combines independent delay and reverb effects into one space-saving enclosure, so you can keep deep ambient echoes (or just a quick slapback) on speed-dial. \nThe best-selling EarthQuaker Devices pedal just got bester [sic] with new Flexi-Switch® Technology! Want to dip into ambient delay and reverb sounds for just one note? Press and hold the footswitch for as long as you use the effect, release it when you’re finished, and resume your regularly scheduled dry sound. To use the Dispatch Master as a normal effects pedal, press the switch once to activate and again to bypass. \nhttps://www.earthquakerdevices.com/dispatch-master",
+    "hrid": "earthquaker-devices-dispatch-master-black"
+}

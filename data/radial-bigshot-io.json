@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19722",
+    "name": "BigShot I/O",
+    "image": "images/radial-bigshot-io.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 91,
+    "height": 99,
+    "details": "Instrument Selector\nhttp://www.radialeng.com/product/bigshot-io",
+    "hrid": "radial-bigshot-io"
+}

@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16075",
+    "name": "Mod Station",
+    "image": "images/keeley-mod-station.jpg",
+    "function": [
+        "PreAmp",
+        "Chorus",
+        "Distortion",
+        "Flanger",
+        "Multieffect",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 120,
+    "height": 99,
+    "details": "Mod Sationsdfsd",
+    "hrid": "keeley-mod-station"
+}

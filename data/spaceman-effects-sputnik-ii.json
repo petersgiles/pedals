@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25009",
+    "name": "Sputnik II",
+    "image": "images/spaceman-effects-sputnik-ii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 114,
+    "height": 89,
+    "details": "Deluxe Germanium FuzzWe are proud to bring you the Sputnik II: Deluxe Germanium Fuzz!  Starting with the same germanium transistors as the original Sputnik, but with slightly different specs, we added a few slight tweaks to get very close to the sonic details of the original circuit.  Many of the other parts in the Sputnik II are different but of same or similar value, including several vintage and rare parts.\nWhile extremely similar to the original, the Sputnik II is a beast all its own.  The Sputnik II takes everything we loved about the original, and adds in the things we dreamed of after its original release it:\nFull-size control knobs for every parameter\nFoot-switchable DRIFT mode, with its own status indicator\nAdditional FILTER options for maximum tone-shaping\nAdditional circuitry making it more friendly to active pickups, buffers, synths, pedals, etc\nThe Sputnik II is a very limited special release.  We are restricted to making around 100 total units.  Starting with 66 Black Edition Sputnik II’s, we hope to release two additional smaller batches.  This pedal is an extremely time consuming and expensive build for many reasons, but it is the Sputnik we always wanted to make. The ultimate Sputnik.\nThe Sputnik II is completely hand-soldered and handmade in Portland Oregon to the highest degree of quality possible.  These are truly artisan crafted tone devices, sparing no detail within or without.  The Sputnik II utilizes true-bypass switching via the heaviest duty mechanical footswitch available, while your tone is transferred via quality open-frame jacks.  Open one up and you’ll see an unparalleled display of craftsmanship; with immaculate hand-soldered PCB, detailed military-spec wiring, and custom heavy-duty battery connector.  On top of the custom USA-cast aluminum enclosure sits a durable, engraved vinyl faceplate and red jewel indicator light.  This pedal is truly built to last a lifetime.\nhttps://spacemaneffects.com/products/sputnik-ii/#tab-description",
+    "hrid": "spaceman-effects-sputnik-ii"
+}

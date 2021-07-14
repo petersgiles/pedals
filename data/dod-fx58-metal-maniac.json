@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20267",
+    "name": "FX58 Metal Maniac",
+    "image": "images/dod-fx58-metal-maniac.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "distortionDOD introduced the FX58 Metal Maniac with three other distortion pedals (FX52, FX53, FX59) in early 1990, although serial number data imply the first few pedals were built at the end of 1989. With the same circuitboard as the soon-to-be discontinued FX56 American Metal, the FX58 Metal Maniac used slightly different component values and appears to have been voiced for a \"classic\" heavy metal distortion sound. While we doubt members of Iron Maiden ever used this pedal, the FX58 might be worth checking out if you like NWOBHM-era metal distortion tones. With its bright yellow paint job, the FX58 probably stood out at music stores, but its visibility did not seem to translate to increased sales. Based on serial number data, production of the FX58 was probably discontinued in 1993, although we have seen one FX58 whose serial number implied a build date of January 1994.\nhttp://www.americaspedal.net/fx58/",
+    "hrid": "dod-fx58-metal-maniac"
+}

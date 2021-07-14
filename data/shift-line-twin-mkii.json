@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17154",
+    "name": "twin mkII",
+    "image": "images/shift-line-twin-mkii.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "tube preamp\nhttp://www.shift-line.ru/card.php?device=75",
+    "hrid": "shift-line-twin-mkii"
+}

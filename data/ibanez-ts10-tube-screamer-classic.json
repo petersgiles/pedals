@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12756",
+    "name": "TS10 Tube Screamer Classic",
+    "image": "images/ibanez-ts10-tube-screamer-classic.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$160 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "",
+    "hrid": "ibanez-ts10-tube-screamer-classic"
+}

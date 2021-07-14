@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12708",
+    "name": "PH-2 Super Phaser",
+    "image": "images/boss-ph-2-super-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Analog phaser",
+    "hrid": "boss-ph-2-super-phaser"
+}

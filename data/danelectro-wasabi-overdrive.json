@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13957",
+    "name": "Wasabi Overdrive",
+    "image": "images/danelectro-wasabi-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 159,
+    "details": "Overdrive with 4 EQ settings and boost.4 preset EQ voicings plus independent tone control\nMultilvel Lead Boost control\nWet/dry mix control\nPickup selector\nHeavy die-cast case",
+    "hrid": "danelectro-wasabi-overdrive"
+}

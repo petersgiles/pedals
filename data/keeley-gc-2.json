@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11652",
+    "name": "GC-2",
+    "image": "images/keeley-gc-2.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Keeley",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$261 Price in €",
+    "width": 68,
+    "height": 112,
+    "details": "Limiting Amplifier, electric guitar effects pedal\nhttps://robertkeeley.com/product/gc-2-limiting-amplifier-compressor/",
+    "hrid": "keeley-gc-2"
+}

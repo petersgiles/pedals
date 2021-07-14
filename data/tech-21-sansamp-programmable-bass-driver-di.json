@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14625",
+    "name": "SansAmp Programmable Bass Driver DI",
+    "image": "images/tech-21-sansamp-programmable-bass-driver-di.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$209 Price in €",
+    "width": 184,
+    "height": 133,
+    "details": "3-channel version of the Bass DriverAlways thinking of our fat-stringed brethren, we had to make a 3-channel, programmable, rig-in-a-box for bassists who can’t get enough of a great thing. Like the TRI-A.C. for guitar, you get three hot tones right at your toetips. The all-analog circuitry features the same controls as its single channel predecessor: Drive, Bass, Treble, Presence, Blend and Level. Digital only in its programmability, you just tweak the knobs until you find a tone, double-tap on a footswitch, and it’s saved in that channel. It’s that simple. Three of your faves -- to go!\nhttp://www.tech21nyc.com/products/sansamp/bassdriverp.html",
+    "hrid": "tech-21-sansamp-programmable-bass-driver-di"
+}

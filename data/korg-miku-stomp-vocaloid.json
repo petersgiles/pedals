@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12673",
+    "name": "Miku Stomp Vocaloid",
+    "image": "images/korg-miku-stomp-vocaloid.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 74,
+    "height": 120,
+    "details": "Vocal effects for guitarThe MIKU STOMP module connects to any electric instrument capable of audio line-in functions (specifically, guitars), and draws data from a never-before-seen voicebank for Hatsune Miku. Using the audio input, users can connect their instrument to the module and play a note, having Miku match the corresponding pitch, intonation, timbre, and vibrato. MIKU STOMP utilizes limited VOCALOID hardware technology, and is constructed upon the same principles as the VOCALOOP and eVOCALOID software.\nEffects and Peaks\nRandom, Scat, Laah, Lahh, Ahh, Pahh, Nyan, Phrase 1, Phrase 2, and Phrase 3\nhttp://www.korg.com/us/products/effects/mikustomp/",
+    "hrid": "korg-miku-stomp-vocaloid"
+}

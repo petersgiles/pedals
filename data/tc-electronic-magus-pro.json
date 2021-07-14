@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33487",
+    "name": "Magus Pro",
+    "image": "images/tc-electronic-magus-pro.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$72 Price in €",
+    "width": 56,
+    "height": 99,
+    "details": "Classic High Gain Distortion Pedal with Fat Mids, Treble Filter Control and 3 Clipping ModesVersatile Classic Analog Distortion\nIf you’ve ever needed a Classic Analog High Gain Distortion Pedal but been unable to find one with enough versatility to suit any scenario, the MAGUS PRO will be a very welcome surprise for you. Its slow slew rate, treble filter control and three different modes of operation provide more than enough variance in approach and tone to compliment any playing style.\nSlow Slew Circuitry\nWe’ve specially designed a circuit to recreate the classic slow slew of the infamous LM308 op-amp using readily available modern components. By keeping the slew rate slow, harsh unwanted harmonic overtones and interference are eliminated, leaving you with a smooth layer of pure distortion whilst cranking the gain.\nFilter That Treble to Your Needs\nOne particularly distinctive feature of the MAGUS PRO is the Treble Filter control. It’s an extremely effective Hi-cut filter, allowing you to totally tailor your top end bite.\nhttps://www.tcelectronic.com/product.html?modelCode=P0EBX",
+    "hrid": "tc-electronic-magus-pro"
+}

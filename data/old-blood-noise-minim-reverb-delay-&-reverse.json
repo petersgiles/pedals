@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24894",
+    "name": "Minim Reverb Delay & Reverse",
+    "image": "images/old-blood-noise-minim-reverb-delay-&-reverse.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "Immediate Ambience MachineLooking back on an inspiring year of collaboration with Datachoir, Old Blood Noise Endeavors created Minim, a new pedal built from the foundation laid out by Rêver. Inside is a newly voiced reverb with harmonic tremolo, a modulated delay with nearly infinite repeats available, and a reverse section selectable between normal speed or double speed. Sat next to the Rêver, it’s like a long lost sibling. Put both on your board and see how well they get along.\nMinim features:\nA modulated reverb with controls for mix, modulation, and decay\nA post-reverb modulated delay with controls for volume, delay time, and feedback\nA reverse section with controls for mix and speed (for double time effects), activated with a clever footswitch for momentary or latching operation\nOrder switching to put reverse first in the chain for ambient wash or last in the chain for glitchy textures\nExpression jack for external control of the Reverse mix\nInternal trimpot to control output level\nRelay bypass switching and standard 9VDC center negative power\n*Art by Timothy Elliott. Check out more of his work and follow him on Instagram. https://www.instagram.com/timothyryanelliott/\nhttps://www.oldbloodnoise.com/pedals/minim",
+    "hrid": "old-blood-noise-minim-reverb-delay-&-reverse"
+}

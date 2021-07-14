@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15836",
+    "name": "Topanga",
+    "image": "images/catalinbread-topanga.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "64 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 70,
+    "height": 127,
+    "details": "60s outboard spring reverbThe outboard Fender 6G15 spring reverb unit is the sound of Surf guitar, Spaghetti Western and many other great guitar sounds from the sixties. Part of its magic, and how it differs from the internal spring reverb found in most Fender-style amps, is that it is run in front of the amp, causing the reverb signal to distort and sound more intense. Because there were additional knobs on the outboard units, you also have more control over the reverb qualities. The Dwell knob controlled how hard the springs were getting hit by the guitar signal. The Tone knob allowed the treble to be dialed back to just the right degree of brightness. It was also essentially a tube preamp, so it would color the sound going into the amp. All this added up to a very distinctive reverb sound with a lot of attitude and complex non-linearities that are hard to replicate. But we here at Catalinbread did just that! Besides giving you the classic three knob control compliment of the original, we’ve also added a great discrete preamp that you can control via the Volume knob for a healthy amount of great clean boost when you want it\nhttps://catalinbread.com/products/topanga",
+    "hrid": "catalinbread-topanga"
+}

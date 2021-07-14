@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17489",
+    "name": "DeluxePlus",
+    "image": "images/mr.-black-deluxeplus.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 57,
+    "height": 108,
+    "details": "",
+    "hrid": "mr.-black-deluxeplus"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16695",
+    "name": "OC-20G Poly Octave",
+    "image": "images/boss-oc-20g-poly-octave.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 173,
+    "height": 158,
+    "details": "Octave Generator/Distortion (For GK divided pickups)World’s first polyphonic octave pedal for use with GK-equipped guitars\nOctaves can be assigned to different strings for simulated guitar/bass combos\nOnboard electric and acoustic guitar simulations, plus Distortion effect\nAccommodates playing chords while using octaves\nRugged, dual-pedal design with simple, knob-based controls\n*Note that optional GK-2AH pickup or equivalent required for use.\nhttps://www.boss.info/us/products/oc-20g/",
+    "hrid": "boss-oc-20g-poly-octave"
+}

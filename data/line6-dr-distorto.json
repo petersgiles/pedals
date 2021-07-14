@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18580",
+    "name": "Dr Distorto",
+    "image": "images/line6-dr-distorto.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$29 Price in €",
+    "width": 86,
+    "height": 143,
+    "details": "Distortion with built in noise gateWith the new Line 6 Dr. Distorto effects pedal, you can achieve singing lead tones with incredible sustain at any distortion level. Dr. Distorto delivers full-bodied distortion tones and features an innovative harmonic feedback circuit and a built-in selectable noise gate.\nhttps://reverb.com/uk/p/line-6-dr-distorto",
+    "hrid": "line6-dr-distorto"
+}

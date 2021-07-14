@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17138",
+    "name": "Moller",
+    "image": "images/t-rex-moller.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 100,
+    "height": 120,
+    "details": "",
+    "hrid": "t-rex-moller"
+}

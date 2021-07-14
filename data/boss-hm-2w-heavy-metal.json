@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32445",
+    "name": "HM-2w Heavy Metal",
+    "image": "images/boss-hm-2w-heavy-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Chainsaw distortionThe BOSS HM-2 Heavy Metal is one of the most sought-after vintage pedals in our entire back catalog. Now, we’re pleased to confirm that it’s returning in a special HM-2W Waza Craft edition in the middle of 2021.\nUnlike many other iconic BOSS drive pedals, the HM-2 was in production for less than a decade (1983-1991). Following years of fan support, umpteen cult records powered by the pedal’s uniquely aggressive tone, and even an online petition, we’re delighted to announce that the Waza Craft reincarnation of the HM-2 is well underway.\nhttps://www.boss.info/global/products/hm-2w/",
+    "hrid": "boss-hm-2w-heavy-metal"
+}

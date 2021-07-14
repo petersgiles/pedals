@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11625",
+    "name": "Polytune Mini",
+    "image": "images/tc-electronic-polytune-mini.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 51,
+    "height": 93,
+    "details": "TunerSuper small footprint\nPolyphonic, chromatic and ultra-precise strobe tuning modes\nRetina-scorching bright display\nPolyTune - tune all strings simultaneously\nChromatic strobe tuner - 0.1 cent tuning accuracy\nUltra-bright LED display with ambient light sensor\nUltra-small footprint - will fit on any pedal board\nTrue-bypass with silent tuning\nUp to five semitones flat tunings\nDrop-D and capo tuning\nPower supply sold separately",
+    "hrid": "tc-electronic-polytune-mini"
+}

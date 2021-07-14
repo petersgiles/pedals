@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30292",
+    "name": "CBJ95 Cry Baby Junior Wah",
+    "image": "images/dunlop-cbj95-cry-baby-junior-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$107 Price in €",
+    "width": 89,
+    "height": 203,
+    "details": "Pedalboard-sized Cry BabyDesigned in collaboration with Pedaltrain, the Dunlop CBJ95 Cry Baby Junior boasts a pedalboard-sized enclosure and front-mounted jacks, enabling you to fit it ergonomically onto your board. Three switchable voices supply a useful array of modern and vintage wah tones. You also get a convenient on/off status LED to show you when the effect is engaged, thereby solving an age-old issue with vintage-style wah-wah pedals. If classic Cry Baby wahs are your thing, but you’re short on pedalboard space, the Cry Baby Junior is the perfect wah-wah pedal for you.",
+    "hrid": "dunlop-cbj95-cry-baby-junior-wah"
+}

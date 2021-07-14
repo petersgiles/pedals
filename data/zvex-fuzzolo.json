@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14213",
+    "name": "Fuzzolo",
+    "image": "14213.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 45,
+    "height": 95,
+    "details": "Controls for: Volume and Waveform\nInternal switch to toggle between guitar and bass modes\nVery effective mids\nPower consumption: approx. 10 mA\nNo battery thomann operation possible\n9V DC (center negative) Power supply is required (not included, suitable power supply available Art.108096)\nThe Fuzzolo is a raging beast of a fuzz. We managed to squeeze this wild thing into a small box to save real estate on pedal boards, and because we could. The Fuzzolo has two controls: Volume (post gain), and Pulse Width. The Fuzzolo is equally devastating on guitar and bass.\nhttps://www.zvex.com/products/fuzzolo",
+    "hrid": "zvex-fuzzolo"
+}

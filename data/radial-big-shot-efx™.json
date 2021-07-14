@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14792",
+    "name": "Big Shot EFX™",
+    "image": "images/radial-big-shot-efx™.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 92,
+    "height": 100,
+    "details": "Effects Loop SwitcherThe BigShot EFX is a true-bypass effects loop switcher that lets you set up two separate effects loops and insert them into your pedal chain. This means that noisy pedals or tone-robbing non true-bypass pedals that you 'love to hate' can now be used and completely taken out of the signal path when they are not needed.\nBetter yet, while you are using the EFX loop-A, you can turn on and off a series of pedals with the EFX loop-B to prepare your next sound effect – and do so without affecting what is happening live. Then, with one foot stomp, a whole chain of pedals can be activated! All of a sudden, your performance becomes seamless and professional - as if you had a custom made switcher. Since both loops are in series, you can feed loop-A into loop-B to add even more creative options to your tone. Super bright LED indicators turn on to let you know when the loops are activated or are off when on standby mode.\nThe compact yet ultra rugged design makes the BigShot EFX ideal for pedalboards where space is always at a premium. Furthermore, because the audio path does not require any power to make it work, the EFX can be used with or without a power supply. Simply plug in and begin to play.\nhttp://www.radialeng.com/bigshotefx.php",
+    "hrid": "radial-big-shot-efx™"
+}

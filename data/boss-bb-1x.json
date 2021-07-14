@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21674",
+    "name": "BB-1X",
+    "image": "images/boss-bb-1x.jpg",
+    "function": [
+        "Bass",
+        "PreAmp"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 54 V / DC / Negative Center",
+    "cost": "$157 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Bass Driver PedalThe BOSS BB-1X Bass Driver is a premium stompbox designed to make your bass sound bold and punchy. More than just a standard compact bass pedal, the BB-1X is like a preamp, a crucial component in creating quality sound. It captures the essence and subtle nuances of your bass, amp, and playing and emphasizes all their best characteristics.\nhttps://www.boss.info/global/products/bb-1x/",
+    "hrid": "boss-bb-1x"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32818",
+    "name": "M3",
+    "image": "images/sub-decay-m3.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "70s style monophonic synthesizerBased on the Korg MS-20, the M3 brings the sounds of 70s monophonic synthesizers without the modular complications.\nInstead of dual oscillators, the M3 employs 3 digitally controlled oscillators for super fat synth sounds that never go out of tune.\nEleven oscillator combinations cover string sounds, analog bass, bell tones, fifths and more. The algorithm knob’s eleven settings further shapes the sound controlling everything from the filter, two envelope generators, LFOs, portamento and more.\nThe 1970s saw a massive expansion of electronic music instruments. Much like early electric guitars some didn’t know what to make of these electronic synthesizers. Some of these electronic noise makers were almost affordable.  (insert if you can afford a truck, you can afford a synthesizer meme)\nEase of use and portability improved as well, but MIDI wasn’t coming until 1983. Saving patches usually meant writing them down in a notebook. This was still a vast improvement from earlier interconnected cabinets in studios that needed constant tuning and maintenance and were near impossible to use live.\nThis era created some of the most iconic synthesizers of all time. We’ve packed the essence of 70s analog monosynth into the M3. Don’t let the simplified controls deceive you. The M3 incorporates the following: \nThree oscillators.\nThree LFOs (PWM & pitch for each oscillator, and the filter)\nTwo envelope generators. (filter & AMP)\nVoltage controlled analog resonant filter.\nVoltage controlled amplifier\nSynths of this era rarely had more than two oscillators per voice. A single LFO was common. Many synthesizers used a single envelope generator to control the filter and the amplifier. So how did we fit all this 70s goodness in a stompbox? We borrowed some tricks from the 80s. As MIDI became a synthesizer standard many of those “analog” synthesizers used digital control. Analog envelope followers and LFOs were replaced with digital technology. The synth world that was still analog moved on from voltage controlled oscillators to digitally controlled oscillators. Often the same processors found in computers were found in synthesizers controlling everything.\nhttps://subdecay.com/effect/m3-guitar-synthesizer",
+    "hrid": "sub-decay-m3"
+}

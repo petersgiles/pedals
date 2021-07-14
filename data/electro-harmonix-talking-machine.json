@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13254",
+    "name": "Talking Machine",
+    "image": "images/electro-harmonix-talking-machine.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$222 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "Vocal Formant FilterThe programmable Stereo Talking Machine, Vocal Formant Filter, presents creative vowel shaping that is controlled by the player’s dynamics. Nine selectable Voices deliver vowel sounds such as AH-OO and OW-EE, as well as Bassballs and wah-type dynamic filters.\nThe Voices can be shaped with individual Attack and Decay controls while Sensitivity adjusts the envelope response. The resulting effects mimic characteristics of human speech and create sounds that are both organic and harmonically rich.\nAs its name implies, the Stereo Talking Machine possesses true stereo outputs as well as an Effects Loop. An Expression Pedal Input provides real time control over filter sweeps, while nine preset locations let you store and instantly recall favorite programs. The Stereo Talking Machine delivers compelling sound shaping capability with advanced control.\nhttps://www.ehx.com/products/stereo-talking-machine",
+    "hrid": "electro-harmonix-talking-machine"
+}

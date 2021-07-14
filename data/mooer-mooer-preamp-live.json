@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18592",
+    "name": "Mooer Preamp Live",
+    "image": "images/mooer-mooer-preamp-live.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$700 Price in €",
+    "width": 230,
+    "height": 130,
+    "details": "Digital preamp modellerPREAMP LIVE has been designed from the ground up to be the ultimate digital preamp modeller for use in a live situation. Every control feature has been carefully thought out to be intuitive and provide the best experience for live performance.\nPREAMP LIVE provides a wide array of different amp tones right at your feet. It lets you select and carry 12 independent preamp channels of your choice, from a selection of 50 models available within the supporting software and mobile apps.\nAdded to each of the 12 preamp channels is a dual position booster, adjustable pre and post noise gates, a fully programmable effects loop with different modes, full channel switching control, MIDI IN and OUT, dedicated headphone connection, multiple outputs with optional cab simulation and IR loading capabilities.\nEver wanted to get UK overdrive from your F style amp? Or sparkling, spanky cleans from your M style amp? The effects loop in PREAMP LIVE has a unique A/B mode which lets you use your amplifiers analogue preamp along with the digital models. This effectively expands the tonal palette of your amplifier without the need for an expensive, complicated switching device.\nIf that wasn’t enough, you can also use MOOER’s “TONE CAPTURE” feature, to sample your own amplifiers preamp section and create brand new digital models of your own to use at gigs and share with your friends. \nhttp://www.mooeraudio.com/?product/201806054331.html",
+    "hrid": "mooer-mooer-preamp-live"
+}

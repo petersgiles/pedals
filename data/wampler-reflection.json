@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16438",
+    "name": "Reflection",
+    "image": "images/wampler-reflection.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "Spring/Plate ReverbThanks to the power of today’s digital technology, there are more options for attaining great reverb effects than ever before. But imagine being able to get the same washes of tone, that often emanate from some overly complicated stompbox computers, from a compact, single-button pedal with straightforward controls. That’s exactly what you’ll find with the Wampler Reflection. A flip of a switch shifts from swampy, springy goodness to a studio-grade plate reverb. Then manipulate that ambience on the fly, thanks to the intuitive control layout. And with internal switches to control the effect’s tails and dry signal, the Reflection will integrate perfectly into almost any guitar rig. So, when you’re done surfing through menus while you’re trying to perform, but you still demand pristine trails of tone, put the Wampler Reflection reverb pedal on our board and never look back.\nhttps://www.wamplerpedals.com/products/delay-reverb/reflection/",
+    "hrid": "wampler-reflection"
+}

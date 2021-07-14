@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18794",
+    "name": "Quasar DLX",
+    "image": "images/sub-decay-quasar-dlx.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Deluxe PhaserReturn of the Phase\nThe Quasar DLX is back in black. The original LFO waveforms return, with improvements in the phaser’s tone and usability.\nLike many classic designs the heart of the Quasar DLX mkII is an analog 4 stage OTA based phaser. This phaser is made special by the features and functionality possible only with digital control. Eleven LFO shapes ranging from the tried and true sine and triangle waves to random sample/hold and even an argyle waveform. (Yes you read that right! Argyle!)\nA phaser to control the world!\nControl the LFO speed in three different ways. You can control the modulation speed by tap tempo, or hold down the tap switch for manual control and engage the DUAL ACTION SPEED KNOB. (Watch the demo to learn about the D.A.S.K.)  The speed ranges from a 45 second sweep up into ring modulation territory at nearly 300hz.\nAn expression pedal can also control the speed, or manually sweep the phaser like a wah.\nTurning the color knob to the right increases the intensity of the phasing. When turned fully to the right it starts to sound similar to an early 80s Roland style Low pass filter. The color knob can have a dramatic effect on the output volume. Luckily there’s a volume knob too!\nTap tempo phaser with 8 ratio settings for easy set up live.\nDual action speed control in manual mode. Turn the speed knob all the way up and then back for faster speeds in to the audio range.\n11 LFO shapes make phasing go from classic to discombobulated with endless possibilities.\nExpression pedal input lets you control modulation speed, or manually control the phaser sweep like a wah pedal.\nExternal volume control to balance level when the effect is on.\nhttps://subdecay.com/effect/quasar-dlx-deluxe-phaser",
+    "hrid": "sub-decay-quasar-dlx"
+}

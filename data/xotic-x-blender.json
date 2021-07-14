@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30118",
+    "name": "X Blender",
+    "image": "images/xotic-x-blender.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Xotic",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$194 Price in €",
+    "width": 117,
+    "height": 93,
+    "details": "FX Loop / Signal BlenderFeatures volume bass and treble knobs and a boost switch for +6dB boost.\nhttps://xotic.us/effects/x-blender/",
+    "hrid": "xotic-x-blender"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12714",
+    "name": "MD-2 Mega Distortion",
+    "image": "images/boss-md-2-mega-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Analog distortion",
+    "hrid": "boss-md-2-mega-distortion"
+}

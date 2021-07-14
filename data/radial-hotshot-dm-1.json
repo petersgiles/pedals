@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21592",
+    "name": "HotShot DM-1",
+    "image": "images/radial-hotshot-dm-1.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 92,
+    "height": 99,
+    "details": "Stage Mic ToggleThe HotShot DM-1™ is a dynamic microphone switcher with a momentary toggle footswitch, allowing an artist on stage to redirect a vocal mic to feed the stage monitoring system and communicate with band members or technicians.\nhttps://www.radialeng.com/product/hotshot-dm1",
+    "hrid": "radial-hotshot-dm-1"
+}

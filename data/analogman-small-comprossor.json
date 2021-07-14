@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27010",
+    "name": "Small Comprossor",
+    "image": "images/analogman-small-comprossor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 81,
+    "height": 133,
+    "details": "Ross CloneSame as the large comprossor, in a smaller box with hand stamped graphics. Attack and MIX knobs are optional, otherwise they are trimpots and can be set on the circuit board inside the pedal.",
+    "hrid": "analogman-small-comprossor"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19768",
+    "name": "Stereo Chorus Fx65",
+    "image": "images/dod-stereo-chorus-fx65.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "Added for real dimension shapeThe FX65 chorus is a variable delay unit that gives the impression that more than one instrument is playing. It does this by delaying the sound of the original instrument a small amount (4 to 6 milliseconds) and continuously varying the amount of delay. Continuously varying the delay changes the pitch of the delayed signal. The delayed, slightly pitch shifted signal is mixed with the original signal and results in the chorus effect.",
+    "hrid": "dod-stereo-chorus-fx65"
+}

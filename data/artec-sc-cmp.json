@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29681",
+    "name": "SC-CMP",
+    "image": "images/artec-sc-cmp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Artec",
+    "current": "7 mA / 9 V / DC / Negative Center",
+    "cost": "$29 Price in €",
+    "width": 76,
+    "height": 116,
+    "details": "Turbo CompressorTrue bypass compressor/limiter.\nhttp://artecsound.com/effect/se-cmp.htm",
+    "hrid": "artec-sc-cmp"
+}

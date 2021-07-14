@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12065",
+    "name": "Meatball",
+    "image": "images/lovetone-meatball.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Lovetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 200,
+    "height": 185,
+    "details": "envelope follower/triggered filterFeaturing:\n* Sensitivity control\n* Attack and Decay controls\n* Range control (can be used to fine-tune the frequency response and create subtle effects)\n* Resonance control\n* Blend which mixes straight signal with effect creating a whole new palette of sounds.\n* Pedal facility (allows the use of a standard passive volume pedal to create wah-type effects)\n* FX loop - insert octaves and distortion for some real 70's cheese, or use for external trigger facility\n* Up and Down response curves\n* High, Low, and Band-pass filter modes\n* Four selectable filter frequency ranges\n* Triggering off full or half bandwidth and trigger off (useful for instance as a static tone control or for adding or scooping tone with blend)\n* LED showing filter response\n* LED showing effect on/off\nhttp://www.lovetone.com/meatball.html",
+    "hrid": "lovetone-meatball"
+}

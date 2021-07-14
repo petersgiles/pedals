@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20525",
+    "name": "C4 Synth",
+    "image": "images/source-audio-c4-synth.jpg",
+    "function": [
+        "Filter",
+        "MIDI",
+        "Pitch Shifter",
+        "Synth Voice",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "165 mA / 9 V / DC / Negative Center",
+    "cost": "$239 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Modular SynthThe C4 Synth unites all the sound creation tools of a classic Eurorack modular synthesizer and packages them in a compact and easy-to-use effects pedal for guitar or bass. Out of the box the C4 offers six dynamic synth tones that range from vintage analog to the thoroughly modern. It is essentially a modular synth in a small pedal with unprecedented tracking abilities, lightning-fast response, and countless sound options. With the addition of the Neuro Desktop Editor (a free download for Mac and Windows machines) and Mobile App. (for iPhone and Android) it's easy to browse from the ever-growing library of highly-inspired presets created by the Source Audio crew and the expanding community of C4 enthusiasts.\n\nSix Preset Positions: Use the C4’s three-position toggle switch and two preset banks to save six easily accessible presets.\nGrowing Library of Published Presets: For quick access to a world of great tones, try sampling sounds from a vast collection of published presets created by the Source Audio team and the ever-growing C4 Neuro Community.\nUnprecedented Sound Sculpting Options:  The powerful Neuro Desktop Editor (Free download for Mac and Windows) and Neuro Mobile App (iOS and Android) offer maximum sound exploration possibilities. Use Neuro’s modular synthesizer inspired editor to create custom C4 Synth presets that can be burned directly to the pedal, saved to a private cloud based library or shared publically with other members of the Neuro Community. \nSupreme Tracking: If tracking matters to you (and it should), you will be amazed by the lightning quick, imperceptible latency of the C4 Synth.\n128 MIDI Accessible Factory Presets – The addition of a third party MIDI controller with USB host provides access to any of the pedal’s 128 Factory presets.​\nStereo Inputs and Outputs: Use the Neuro Editor’s panning controls to route each Voice to any location in a full stereo spread.\nCompact Design – The durable, anodized aluminum housing has a small footprint and sturdy hardware. Dimensions: L: 4.5 in./11.4cm x W: 2.75 in./7cm x H: 2 in./5.1cm (including knobs).\nUniversal Bypass (TM) – Select either analog buffered or relay based True Bypass.\nUSB Port - Class compliant USB-MIDI allows the C4 to work as a plug-and-play device with recording software running on Mac and Windows recording software or any third party MIDI controller with USB host. The USB port also offers connectivity to the Neuro Desktop Editor providing access to deep editing possibilities and pedal firmware updates.\n​External Expression and Tap Tempo Control — Use the Control Input jack with the Source Audio Dual Expression Pedal (expression control to multiple parameters) or Tap Switch (adjust LFO rates on the fly).\n\nhttps://www.sourceaudio.net/c4_synth.html",
+    "hrid": "source-audio-c4-synth"
+}

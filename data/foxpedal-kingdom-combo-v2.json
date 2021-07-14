@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12386",
+    "name": "Kingdom Combo V2",
+    "image": "images/foxpedal-kingdom-combo-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Foxpedal Boost and Overdrive Combo Pedal\nhttps://foxpedal.com/collections/overdrive/products/kingdom-combo-v2",
+    "hrid": "foxpedal-kingdom-combo-v2"
+}

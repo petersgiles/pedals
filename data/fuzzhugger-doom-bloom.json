@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11878",
+    "name": "Doom Bloom",
+    "image": "images/fuzzhugger-doom-bloom.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "FuzzHugger",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "FuzzThe Doom Bloom reimagines Algal Bloom with new controls, more lows, bite, mass, and more available\nheadroom. It's stupid with lows and menace! Designed to hold together and retain clarity with lower tunings.\nControls:\n- Bloom is Bloom...it's fuzz+gain+definition. It increases gain and note separation. Rather than going mushy or\nwashy, it holds together pretty nicely when cranked. It holds up well with lower tuning because of this.\n- Head is headroom. As you turn it right, headroom increases, making the pedal less clipped, but also louder and\nmore open (favoring transistor fuzz over clipping diodes). So while turning right reduces how clipped it is, it also\nincreases mass, for some big thunderous chords. Full-spectrum massive attack!\n- Body (Body and High work together). Body shifts a huge amount of lows in/out of your sound...but leaves your\nhighs totally in tact. (Unlike Tone controls that make you choose either [bassy and dark] OR [bright and thin]). Body\nalso adjusts fuzziness.\n- High lets you then control your highs, separate from Body. Set your lows and fuzziness where you want it, then\nadjust your highs.\n- Bias biases the first transistor gain stage (controlled by the Bloom knob), functioning as an additional boost and\ncharacter control with massive boosting power!\nhttp://www.fuzzhugger.com/pedal-doom-bloom.html",
+    "hrid": "fuzzhugger-doom-bloom"
+}

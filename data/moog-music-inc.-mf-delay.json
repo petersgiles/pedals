@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11419",
+    "name": "MF Delay",
+    "image": "images/moog-music-inc.-mf-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$256 Price in €",
+    "width": 83,
+    "height": 144,
+    "details": "From the Moog \"Minifooger\" seriesDescription from: https://www.moogmusic.com/products/minifoogers/mf-delay\nThe MF Delay is a 100% analog delay providing 35mS-700mS of rich, blooming analog repeats. At shorter settings, the MF Delay is fast and articulate. This is perfect for creating classic slap-back sounds with expressive swells, and even plate-verbs. At medium and long settings, the repeats become darker, naturally trailing into a beautiful warmth and character not found in any other delay pedal. Connect an expression pedal and dynamically control feedback swells, or switch to delay time to create chorus/flange and tape delay effects. The MF Delay was designed with over 300 carefully selected components including 4 Bucket Brigade Delay chips, a discrete JFET input stage, and a vintage compander circuit for superior tone and feel.\nCONTROLS\nTIME- Adjustable from 35mS - 700mS. At shorter settings, delay repeats are brighter and more articulate - perfect for slap-back and plate-style reverb/delay. As you increase the Time, the delay trails become warmer causing sounds to move and decay naturally under each new note or chord.\nFEEDBACK- Adjustable from a single repeat with no decay, to extended trails that dissipate into a reverb-like state. When pushed past 2 o’clock feedback trails swell into infinity. This is an excellent creative tool for making sonic beds and trails where notes decay into a wash of musical noise. Pushed to maximum, the MF Delay will self oscillate.\nMIX-Allows you to determine the blend between dry and effected signals. At minimum, delay trails are nearly inaudible. This is useful for ghost delays and creating natural room-verb sounds. At maximum, your dry signal is removed completely, which allows the MF Delay to work perfectly in an amplifier effects loop.\nDRIVE- A pre-delay circuit that provides greater than 22dB of gain to both input and delayed signal. At low ranges it is excellent for creating subtle boost and mild tonal coloration. At middle position the sound becomes more mid-forward and punchy. At itsmaximum position, you have an incredibly natural boost/overdrive in your delay pedal that is great by itself or paired with an MF Drive.\nEXPRESSION PEDAL INPUT: When assigned to Time, this input allows you to create everything from chorus/flange effects and tape delay to monstrous pitch shifting. When assigned to Feedback, this input allows you to swell in and out of infinite feedback loops and subtle delay trails.\n• True Bypass\n• 700ms of Bucket Brigade based analog delay\n• >22dB of classic drive for boost and color\n• Feedback range from zero to infinite\n• Expression pedal input provides control of Time or Feedback\n• Mix control allows dry signal to be completely eliminated\n• Over 300 carefully selected components\n• Vintage compander circuit.\n• Designed to perform with any Guitar, Amp, or Bass guitar configuration\nhttps://www.moogmusic.com/products/minifoogers/mf-delay",
+    "hrid": "moog-music-inc.-mf-delay"
+}

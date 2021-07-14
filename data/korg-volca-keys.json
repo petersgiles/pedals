@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17697",
+    "name": "Volca Keys",
+    "image": "images/korg-volca-keys.jpg",
+    "function": [
+        "Delay",
+        "Filter",
+        "MIDI",
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$156 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Analogue Loop synthVolca Keys is a long-awaited synthesizer that adds a new chapter to the long and storied history of Korg's analog synthesizers. Volca keys is a 27-key analog lead synth that generates unbelievably powerful sound from its compact body. Starting with a filter section that uses the circuitry of the legendary miniKORG700S (1974), it delivers astonishing sound that takes full advantage of Korg's half-century of know-how in circuit design. \nWith a simple structure that includes delay effect and a sequencer, it's also an ideal choice as a first analog synth. It offers the richly expressive sounds that are distinctive of an analog synth, providing the enjoyment of simple yet deep sound-creation.\nhttps://www.korg.com/us/products/dj/volca_keys/",
+    "hrid": "korg-volca-keys"
+}

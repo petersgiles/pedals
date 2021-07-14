@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13922",
+    "name": "Nano POG",
+    "image": "images/electro-harmonix-nano-pog.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$260 Price in €",
+    "width": 75,
+    "height": 115,
+    "details": "Polyphonic Octave GeneratorThe smallest member of the polyphonic POG clan provides impeccable tracking and sound. Separate level controls for dry, sub octave and octave up plus an extra Dry out and silent footswitching provide the perfect formula for this compact jewel.\n\nSuper, space saving design\nTracks chords, sweeps or single notes with no hitches or glitches\nGreat 12-string guitar sound or turn your guitar into a bass\nAmazing organ-like sounds\nAdjustable original pitch volume, one octave up volume and one octave down volume\nDry output jack in addition to the effect output jack\nSilent footswitching and road worthy die-cast package\nEHX 9.6DC-200 power supply included\n\nhttps://www.ehx.com/products/nano-pog",
+    "hrid": "electro-harmonix-nano-pog"
+}

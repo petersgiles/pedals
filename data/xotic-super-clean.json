@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30750",
+    "name": "Super Clean",
+    "image": "images/xotic-super-clean.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Xotic",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Buffer with +12dB Clean Boost and Selectable Boost FrequencyClean boost with +12dB of gain, 3 selectable boost frequencies.  Good as boost and always on tone sweetener. 9-18v.\nhttps://xotic.us/effects/scss/",
+    "hrid": "xotic-super-clean"
+}

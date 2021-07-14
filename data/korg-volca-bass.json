@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15136",
+    "name": "Volca Bass",
+    "image": "images/korg-volca-bass.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Bass Synth w/ SequencerAggressive sounds that stand up to the drums; fat sounds that support the rhythm; funky sounds that generate a groove - the volca bass is an analog bassline groove box that has what you need for a wide range of bass lines. \nAlthough simple in structure, the analog sound engine has an unmistakable presence with subtle nuances that cannot be reproduced by a digital simulation; it's a great choice for acid house and many other styles of music. The step sequencer distilled from the Electribe is not only visually intuitive; it's also a powerful way to generate \"free form\" bass loops that will stimulate your inspiration.\nhttp://www.korg.com/us/products/dj/volca_bass/",
+    "hrid": "korg-volca-bass"
+}

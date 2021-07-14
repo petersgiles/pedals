@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31162",
+    "name": "Bit Commander",
+    "image": "images/earthquaker-devices-bit-commander.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Bit Commander V2 Limited colourThe Bit Commander is a monophonic analog guitar synthesizer with four octaves of vintage square wave synth tones. Its no-nonsense interface makes it easy to add or subtract octaves to create a wide variety of sounds without having to dial in envelopes or oscillators. Ripping sub-octave thump, pulsing octave down, a lightly squared base tone and a swelling transformer based octave up all join together to make a single guitar sound like an army of olde tyme synths.\nhttps://www.earthquakerdevices.com/bit-commander",
+    "hrid": "earthquaker-devices-bit-commander"
+}

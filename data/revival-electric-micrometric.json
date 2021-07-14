@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12864",
+    "name": "MicroMetric",
+    "image": "images/revival-electric-micrometric.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Revival Electric",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 43,
+    "height": 89,
+    "details": "Parametric EQSingle Channel Parametric EQ\n90Hz-1.1kHz Frequency Response\nAdjustable +/- 20dB gain\nAdjustable Q (0.1 octave to 1.1 octaves, continuously variable)\nCompletely independent Frequency, Gain, and Q control\n\nhttp://www.revivalelectric.com/micrometric",
+    "hrid": "revival-electric-micrometric"
+}

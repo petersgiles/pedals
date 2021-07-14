@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26336",
+    "name": "FV-50L",
+    "image": "images/boss-fv-50l.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Boss",
+    "current": "Pedal is passive",
+    "cost": "$65 Price in €",
+    "width": 86,
+    "height": 200,
+    "details": "Stereo low impedance volume pedal",
+    "hrid": "boss-fv-50l"
+}

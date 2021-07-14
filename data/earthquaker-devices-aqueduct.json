@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18539",
+    "name": "Aqueduct",
+    "image": "images/earthquaker-devices-aqueduct.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "68 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "VibratoVibrato Effects Pedal for Electric Guitar, with 8 Modulation Modes, Relay-based Flexi-Switch, All-analog Dry Signal Path, and All-digital Wet Signal Path\nAqueduct® is a vintage-inspired pitch vibrato with eight modulation modes delivering synth-like sonar pulses, touch-sensitive frequency modulation, gentle rolling pitch-wobbles, steady kosmische pulsations, rapid trills, slimy sonic squiggles, whammy bar wiggles, pitch bends, pseudo-flange, and anything else your pitch-warped brain can picture in your murky mind’s eye.\nhttps://www.earthquakerdevices.com/aqueduct",
+    "hrid": "earthquaker-devices-aqueduct"
+}

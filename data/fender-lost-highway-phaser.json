@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30229",
+    "name": "Lost Highway Phaser",
+    "image": "images/fender-lost-highway-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Fender",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "PhaserAnalogue circuit\nSwitchable slow / fast speed with independent rate and depth\nSwitchable sine and triangle waveform\nControls: Rate 1, Depth 1, Rate 2, Depth 2, Bend, Feedback, Sens\nSwitch: 2 Mini toggles for 4-8 stage phasing and sine or triangle waveform\nFoot switch: Bypass and slow / fast\nTrue bypass\n6.3 mm jack input\n6.3 mm jack output\nAC adapter connector: Hollow plug socket 5.5 x 2.1 mm, negative pole inside\nhttps://shop.fender.com/en-US/effects-pedals/modulation/lost-highway-phaser/0234544000.html",
+    "hrid": "fender-lost-highway-phaser"
+}

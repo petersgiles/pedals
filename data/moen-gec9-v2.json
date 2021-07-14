@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13105",
+    "name": "GEC9 V2",
+    "image": "images/moen-gec9-v2.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Moen",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$355 Price in €",
+    "width": 430,
+    "height": 95,
+    "details": "Effect Switchboard / Looper for Electric Guitar\nhttp://www.moenfx.com/gec9.html",
+    "hrid": "moen-gec9-v2"
+}

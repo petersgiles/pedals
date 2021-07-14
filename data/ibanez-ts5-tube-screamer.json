@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18883",
+    "name": "TS5 Tube Screamer",
+    "image": "images/ibanez-ts5-tube-screamer.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 120,
+    "details": "The Ibanez TS5 Tube Screamer is enclosed in a Soundtank enclosure, featuring the same circuitry as the Ts9 Tube Screamer. It offers Drive, Tone, and Volume knobs.",
+    "hrid": "ibanez-ts5-tube-screamer"
+}

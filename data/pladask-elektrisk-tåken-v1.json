@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13753",
+    "name": "TÅKEN v1",
+    "image": "images/pladask-elektrisk-tåken-v1.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$252 Price in €",
+    "width": 120,
+    "height": 96,
+    "details": "Arrhythmic dual-head delay with random modulation and effect loopTåken is an asynchronous dual-head delay with random modulation and a powerful send/receive-loop. A tool for conjuring psychedelia and nostalgia sparingly or in excess. Tåkens arrhythmic functions offer a surprisingly musical way to break up a traditional delays linear, predictable behavior. The insert loop expands upon this by allowing integration and regeneration of external effect pedals. Experiment away!\nhttps://pladaskelektrisk.com/product/taken-cream/",
+    "hrid": "pladask-elektrisk-tåken-v1"
+}

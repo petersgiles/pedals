@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33350",
+    "name": "Demon Lung (2020)",
+    "image": "images/abominable-electronics-demon-lung-(2020).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Hyper fuzzNEW FOR 2020 - We've changed up the artwork and switched to a vertical enclosure. While we were at it, we had our good friend Kurt Ballou (GCI / Converge) add a Mids control and we updated the Fuzz 1/2 switch to a soft-touch relay based switch.\nThe Demon Lung is based on the Boss FZ-2 Hyper Fuzz pedal. The two fuzz modes are switchable via footswitch for multiple tone settings on the fly. Includes a clickless bypass switch & top mounted jacks making it an easy addition to your pedalboard! \nhttps://www.abominablepedals.com/collections/pedals/products/demon-lung-hyper-fuzz",
+    "hrid": "abominable-electronics-demon-lung-(2020)"
+}

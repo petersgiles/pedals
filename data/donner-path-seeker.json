@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27423",
+    "name": "Path Seeker",
+    "image": "images/donner-path-seeker.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Donner",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$41 Price in €",
+    "width": 127,
+    "height": 60,
+    "details": "ABY SwitchPath Seeker is a dual-mode, fully-functional ABY switcher for amps/pedalboards signal routing.\nYou can route your signal to either A/B outputs, or feed it to A and B together.\nEach output channel has independent volume control for signal mixing, and a 0°-180° polarity toggle is for signal phase correction.\n1.Convenient compact size,Suitable for any music style\n2.Buffer bypassLED indicator shows working state\n3.Two output channels with independent volume control\n4.Polarity reverse toggle (OUT B) for output signal phase correction\n5.DC 9V Adapter power supply. (plug polarity is positive on the barrel and negative in the center).(NOT INCLUDE)\n**Specifications **\nPower Requirement: 9V DC center negative\nCurrent Consumption: 5mA\nDimensions: 132x64x45mm\nWeight: 235g\nMaterial: Aluminum alloy\nConnections & Controls\n    IN Jack: 1/4” mono audio jack, for connecting instruments or other pedals.\n    9V DC Jack: For power supply, use a 9-volt DC regulated by AC adapter, 500mA (plug polarity is positive on the barrel and negative in the center).\n    OUT A/B Jacks: 1/4” mono audio jacks, for connecting amps or other devices.\n    VOLA Knob: Controls the output volume of channel A (OUT A).\n    VOL B Knob: Controls the output volume of channel B (OUT B).\n    Footswitches: Use the footswitches to select an output channel or engage both output channels. This unit features two modes: A or B mode and A and B mode. In A or B mode, either LED will lit up to indicate current working channel; in A and B mode, all LEDs will lit up to indicate that all output channels are working.\n    A OR B Footswitch: In A or B mode, tap the footswitch to toggle between A/B output channels.\n    A AND B Footswitch: Tap the footswitch to engage/disengage A and B mode.\n    0°-180° Toggle: Switch to 180° to invert the phase of channel B by 180° when necessary. When you split your signal to feed two amps, sometimes it may cause phase cancellations, resulting a thin, hollow sound. If so, inverting the phase will help. Switching to 0° to keep the signal neutral\nhttps://www.donnerdeal.com/collections/guitar-effect-pedal/products/donner-path-seeker-aby-switcher",
+    "hrid": "donner-path-seeker"
+}

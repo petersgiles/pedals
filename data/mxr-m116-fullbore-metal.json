@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11765",
+    "name": "M116 Fullbore Metal",
+    "image": "images/mxr-m116-fullbore-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "Effects pedal\nhttps://www.jimdunlop.com/product/m116-7-10137-04296-4.do",
+    "hrid": "mxr-m116-fullbore-metal"
+}

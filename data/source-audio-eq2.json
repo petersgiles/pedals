@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28372",
+    "name": "EQ2",
+    "image": "images/source-audio-eq2.jpg",
+    "function": [
+        "Equalizer",
+        "Noise Gate",
+        "Utility",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "180 mA / 9 V / DC / Negative Center",
+    "cost": "$355 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Programmable EqualizerThe EQ2 Programmable Equalizer is the most powerful and advanced equalizer pedal on the planet. This exceptional piece of gear builds off the legacy of its predecessor, the Source Audio Programmable EQ, a tremendously popular pedal that landed on the boards of numerous pro guitarists, including six-string icons David Gilmour and John Mayer. The updated EQ2 is a combination graphic and parametric equalizer with 10 fully adjustable frequency bands, stereo ins & outs, MIDI In and Thru jacks, 4 or 8 onboard presets, 128 MIDI accessible presets, an additional 12dB volume boost, and the ability to simultaneously run two separate and unique EQ settings, each of which can be independently routed to either stereo output. But wait, there's more: the EQ2 is also has a hidden TUNER function! How's that for saving space on your pedalboard?\nhttps://www.sourceaudio.net/eq2_programmable_equalizer.html",
+    "hrid": "source-audio-eq2"
+}

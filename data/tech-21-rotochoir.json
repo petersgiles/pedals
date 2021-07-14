@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28085",
+    "name": "RotoChoir",
+    "image": "images/tech-21-rotochoir.jpg",
+    "function": [
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 94,
+    "height": 108,
+    "details": "Leslie SimThe Roto Choir celebrates the swirling glory of a vintage rotating speaker cabinet.With its\nspecifically formulated SansAmp™ technology, the Roto Choir takes this concept to the next\nlevel. It delivers the entire signal chain--from the original tube power amp to the low-frequency\nspeaker and high-frequency horn to the microphone used to capture it.This studio-quiet,roadworthy pedal can be used with guitar as well as keyboards,synths and vocals --and to record direct.\nThe Roto Choir offers an abundance of easy-to-use, intuitive controls in an incredibly compact,\nbattery operable pedal. It features a Fast/Slow foot-switch which allows you to ramp up,slow\ndown, or even stop the rotating speaker.There’s a dedicated Top Speed control to custom set\nthe rotor speed and a Position control to adjust the virtual mic closer to or further from the\nhorns. A Biamped switch allows you to change from single speaker mode to Biamped mode,\nand there’s a Speaker Sim switch for direct recording.\nThe Drive, High, Low and Level controls are 100% analog for warm, organic sounds. Stereo output, buffered bypass, and a silent-switching, custom foot- switch actuator completes the package.\nYou can get lost for days exploring and discovering all the celestial sounds lurking within the\nRoto Choir.\nhttp://www.tech21nyc.com/t21manuals/ROTO-OM.pdf",
+    "hrid": "tech-21-rotochoir"
+}

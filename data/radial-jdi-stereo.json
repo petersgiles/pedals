@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23088",
+    "name": "JDI Stereo",
+    "image": "images/radial-jdi-stereo.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "Pedal is passive",
+    "cost": "$300 Price in €",
+    "width": 84,
+    "height": 127,
+    "details": "2 channel passive direct boxThe Radial JDI Stereo is a two channel passive direct box that is equipped with two Jensen audio transformers. These amazing devices not only balance the signal, but also lower the impedance to allow long cable runs without noise. Each transformer features a unique nickel core stack, proprietary winding technique, dual faraday shields to eliminate high frequency noise, and a protective outer MuMETAL® can to protect against external fields. This results in exceptionally low distortion of all types while being able to handle extreme transients at all frequencies. With its heavy-duty steel shell and internal I-beam construction, the JDI Stereo is designed to work dependably for years in even the harshest of touring environments. The JDI Stereo is quite simply the world’s finest passive stereo direct box.\nhttps://www.radialeng.com/product/jdi-stereo",
+    "hrid": "radial-jdi-stereo"
+}

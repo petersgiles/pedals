@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25682",
+    "name": "Emissary",
+    "image": "images/walrus-audio-emissary.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Parallel Boost [em-uh-ser-ee] Anatomy.  Sending  or  coming  out,  as  certain  veins  that pass through the skull and connect the venous sinuses inside with the veins outside. Like the veins its named after, the Emissary Parallel Boost features two independent boost circuits running in parallel to work together to help give your tone a real sinus clearing experience. Use one or the  other  by  itself,  or  mix  any  combination  of  both  by  turning  up  each knob to the desired level. Great for making leads stand out, slides sing, and finger picking really come to life.\nhttps://www.walrusaudio.com/products/emissary-parallel-boost",
+    "hrid": "walrus-audio-emissary"
+}

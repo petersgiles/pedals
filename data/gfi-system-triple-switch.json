@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18909",
+    "name": "Triple Switch",
+    "image": "images/gfi-system-triple-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "GFI System",
+    "current": "Pedal is passive",
+    "cost": "$77 Price in €",
+    "width": 119,
+    "height": 41,
+    "details": "",
+    "hrid": "gfi-system-triple-switch"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21408",
+    "name": "RT-20",
+    "image": "images/boss-rt-20.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation",
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$350 Price in €",
+    "width": 173,
+    "height": 158,
+    "details": "Rotary Sound ProcessorAuthentic rotary speaker sounds via COSM technology\nSlow/Fast transition time is adjustable from gradual to rapid change; optional Expression pedal can control speed in real time\nOnboard Overdrive effects\nAdjustable mix balance between Treble Rotor and Bass Rotor\n4 types of sounds, from standard rotary speaker effects to rock-oriented tones, UNI-V, and more\nGuitar/Keyboard switch\nDazzling virtual-rotor display\nhttps://www.boss.info/us/products/rt-20/",
+    "hrid": "boss-rt-20"
+}

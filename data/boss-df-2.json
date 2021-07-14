@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12549",
+    "name": "DF-2",
+    "image": "images/boss-df-2.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Super Distortion & FeedbackerThe Boss DF-2 is a distortion pedal with the added option of holding down the footswitch for endless sustain - in overtone harmonic form of single notes. With the overtone dial you adjust the overtone that you want to feed back. When you step on the pedal and hold it down, it feeds the note back until you release the pedal. This way you don't need to play at full volume to get a feedback sound. The feedback note will stop immediately when you release the pedal.\nSpecifications:\n• Controls: Level, Tone, Distortion, Overtone\n• Connectors: Input, Output, AC Adaptor \n• Current Draw: 10 mA (DC 9V)\n• Weight: 450 g (0.99 lb.) \n• Input Impedance: 1 Mohm\n• Recommended Load Impedance: 10kOhm or greater\n• Recommended AC Adaptor: ACA Series (black label) or PSA Series (silver label) not included",
+    "hrid": "boss-df-2"
+}

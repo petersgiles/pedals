@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12083",
+    "name": "Chorus CH-2 TC-51",
+    "image": "images/eno-music-chorus-ch-2-tc-51.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "Clone of Boss CE-2\nhttp://www.ex-amp.com/?p=814",
+    "hrid": "eno-music-chorus-ch-2-tc-51"
+}

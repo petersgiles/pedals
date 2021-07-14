@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11842",
+    "name": "Tone Job",
+    "image": "images/earthquaker-devices-tone-job.jpg",
+    "function": [
+        "Equalizer",
+        "PreAmp"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$145 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "EQ and Boost Pedal\nhttps://www.earthquakerdevices.com/tone-job",
+    "hrid": "earthquaker-devices-tone-job"
+}

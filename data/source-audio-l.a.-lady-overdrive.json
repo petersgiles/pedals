@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14190",
+    "name": "L.A. Lady Overdrive",
+    "image": "images/source-audio-l.a.-lady-overdrive.jpg",
+    "function": [
+        "Digital",
+        "Distortion",
+        "Dual/Stereo",
+        "MIDI"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Digital stereo overdrive with three drive engines.The L.A. Lady Overdrive is compact in size, but inside this golden effects pedal live the archetypal tones of over 50 years of overdrive and fuzz technology. Out of the box the L.A. Lady features three distinct drive engines with an abundance of warm and powerful crunch, but connect the L.A. Lady to the Neuro Mobile App (a free download for iOS and Android) and access a massive collection of additional overdrive, fuzz and distortion tones with extended parametric EQ capabilities, stereo routing options, and internal stacking functionality. The L.A. Lady is the culmination of an eight-year study of classic overdrive tones combined with highly sophisticated, contemporary technology - it is an overdrive pedal of unrivaled reach and tone.\nUpon plugging into the L.A. Lady, guitarists will find three amazing overdrive tones. The Classic engine uncompromisingly delivers the sought after “Marshall in a box” sound with everything from fat and subtle rhythm sounds to screaming lead tones. The Smooth engine provides the understated thump and midrange bump synonymous with the contemporary Texas blues sound. Crunch is Source Audio’s own version of an overdriven tube amp, offering warm and chunky low gain tones with additional drive levels that extend well beyond most pre-amps.\nOn its own, the L.A. Lady offers outstanding tonal range, but dig a little deeper and discover the hidden power and flexibility of this golden box. Every pedal in the One Series line is compatible with the Neuro Mobile App (a free download for iOS or Android). Link the L.A. Lady to the Neuro App and access its extended equalization capabilities as well as Source Audio’s free library of over 40 overdrive, fuzz, and distortion algorithms – each algorithm can be downloaded directly to the pedal. Plus, every One Series pedal is fully MIDI compatible when coupled with the Neuro Hub (formerly Soundblox Hub), providing the power to save up to 128 different presets.\nFinally the L.A. Lady’s stereo inputs and outputs plus its dual drive circuits make it possible to launch into an exponentially diverse range of tonal possibilities. With help from the Neuro App, guitarists can stack any combination of drive engines in either series or parallel as well as split the signal and send a separate drive engine to each of the pedal’s outputs. The LALO is clearly an overdrive like no other.\nhttp://www.sourceaudio.net/products/one_series/la_lady_overdrive.php",
+    "hrid": "source-audio-l.a.-lady-overdrive"
+}

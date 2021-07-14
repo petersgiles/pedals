@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32317",
+    "name": "Talk Box",
+    "image": "images/harley-benton-talk-box.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice",
+        "Wah"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "2000 mA / 12 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 136,
+    "height": 191,
+    "details": "Amplified Talkbox\nhttps://www.thomann.de/de/harley_benton_talk_box.htm",
+    "hrid": "harley-benton-talk-box"
+}

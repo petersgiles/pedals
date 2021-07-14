@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12807",
+    "name": "HR-2 Harmonist",
+    "image": "images/boss-hr-2-harmonist.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Boss",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The HR-2 Harmonist lets you create one or two voices of harmony when playing single note passages. You have 2 different voices which you can select what steps you want them to create harmonies in (up to an octave up or down on each voice). You can also select the key that you are playing in, and it creates an instant harmony with your playing. Separate controls for each voice (level control and pitch control). The HR-2 does 1 and 2 part harmonies in any interval in the following keys: Am, Bm, Cm, Dm, Em, Fm, Gm, A, B, C, D, G, F. The HR-2 was discontinued 1999, but the Harmonist effect lives on in the new PS-5.\nControls\nEffect level knobs for A/B: These knobs are used to independently adjust the volumes of parts A and B. If either of the knobs are turned completely off, then you only have a 1-part harmony instead of a 2-part harmony.\nVoice switches A/B: These knobs adjust the harmonic interval of voices A and B. You can select any of the following setting for each voice, A or B, independently: -1 octave, -6th, -5th, -4th, -3rd, detune, +3rd, +4th, +5th, +6th or +1 octave.\nKey switch This knob allows you to select the key that corresponds to the song being played. The HR-2 then creates 1-part or 2-part harmony parts automatically.\nSpecifications\nControls: E. Level, Voice A switch, Voice B switch, 12-way Key Switch\nConnectors: Input, Detector In, Output A, Output B, AC Adaptor\nCurrent Draw: 75 mA (DC 9V)\nRecommended AC Adaptor: PSA Series\nLabels\nPink – Made In Taiwan\nDark Gray – Made In Taiwan\nThe HR-2 was sold from December 1994 to January 1999.\nhttp://www.bossarea.com/boss-hr-2-harmonist/",
+    "hrid": "boss-hr-2-harmonist"
+}

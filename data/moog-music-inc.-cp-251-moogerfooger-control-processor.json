@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12764",
+    "name": "CP-251 Moogerfooger Control Processor",
+    "image": "images/moog-music-inc.-cp-251-moogerfooger-control-processor.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 229,
+    "height": 152,
+    "details": "",
+    "hrid": "moog-music-inc.-cp-251-moogerfooger-control-processor"
+}

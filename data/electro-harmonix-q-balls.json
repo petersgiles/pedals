@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29940",
+    "name": "Q Balls",
+    "image": "images/electro-harmonix-q-balls.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 146,
+    "height": 121,
+    "details": "Filter",
+    "hrid": "electro-harmonix-q-balls"
+}

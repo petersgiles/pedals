@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12551",
+    "name": "Smashup ModFX Compressor",
+    "image": "images/alesis-smashup-modfx-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Alesis",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 148,
+    "height": 98,
+    "details": "",
+    "hrid": "alesis-smashup-modfx-compressor"
+}

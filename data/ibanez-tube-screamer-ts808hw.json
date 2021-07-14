@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12854",
+    "name": "Tube Screamer TS808HW",
+    "image": "images/ibanez-tube-screamer-ts808hw.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$380 Price in €",
+    "width": 80,
+    "height": 126,
+    "details": "Hand Wired Tube OverdriveThe Ibanez Tube Screamer, in its many versions and forms, can be found on pedal boards across the globe. Its warm overdrive is a sound many players, from advanced to beginner, can't be without. The hand-wired deluxe TS808HW Tube Screamer offers even more capability and was built with the pro musician in mind.\nEncased in a special, heavy-duty metal box, the TS808HW pedal is hand-wired with select JRC4558D IC chips (same as the revered and often-imitated TS808) and uses Japanese high-end MOGAMI OEC cable (AWG21). Equipped with true bypass, this Tube Screamer sends pure guitar excitement to your amplifier with no tonal loss whatsoever. This is, by far, the most evolved Tube Screamer pedal Ibanez has ever created.\nhttp://www.ibanez.com/products/u_effect_page17.php?year=2017&cat_id=6&series_id=153&effect_id=4",
+    "hrid": "ibanez-tube-screamer-ts808hw"
+}

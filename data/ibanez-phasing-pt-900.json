@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15911",
+    "name": "Phasing PT 900",
+    "image": "images/ibanez-phasing-pt-900.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 90,
+    "height": 50,
+    "details": "PhasingTotally NOT transparent but lovely and warm\nhttps://medias.audiofanzine.com/images/normal/ibanez-pt-900-phase-tone-1436393.jpg",
+    "hrid": "ibanez-phasing-pt-900"
+}

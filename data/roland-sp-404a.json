@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25105",
+    "name": "SP-404A",
+    "image": "images/roland-sp-404a.jpg",
+    "function": [
+        "Drum",
+        "Dual/Stereo",
+        "Multieffect",
+        "Sampling"
+    ],
+    "manufacturer": "Roland",
+    "current": "450 mA / 9 V / AC",
+    "cost": "$499 Price in €",
+    "width": 178,
+    "height": 257,
+    "details": "Linear Wave SamplerDesigned for live use, the SP-404A Linear Wave Sampler expands the sounds of the Roland AIRA TR-8 Rhythm Performer for a powerful combination of sample and percussive synthesis. The fast, hands-on approach of the acclaimed SP-series performance samplers is a perfect fit for the impressive rhythmic effects and iconic step-sequencer of the Roland AIRA TR-8.\nAll of the functions and features of the popular SP-404SX are contained in the SP-404A, including its distinctive 16-bit linear sampling, 29 onboard DSP effects, smooth FX switching, and 12 professional performance pads. Plus, a new library of sounds curated by sample-industry leader Loopmasters are provided via the included SD card.\nhttps://www.roland.com/nz/products/sp-404a/",
+    "hrid": "roland-sp-404a"
+}

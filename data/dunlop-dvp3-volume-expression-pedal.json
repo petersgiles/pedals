@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13189",
+    "name": "DVP3 Volume/ Expression Pedal",
+    "image": "images/dunlop-dvp3-volume-expression-pedal.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "Pedal is passive",
+    "cost": "$119 Price in €",
+    "width": 98,
+    "height": 254,
+    "details": "Create incredibly smooth volume swells or control your effect pedal parameters with the Dunlop DVP3 Volume XSmall and pedalboard-friendly, the DVP3 is solidly-built and ready for the road. It’s housed in an aluminum chassis with aggressive non-slip tread and comes equipped with our patent-pending Low Friction Band-Drive for a smooth range of motion without the fear of breakage or change in feel or range. For maximum comfort and precision, the DVP3’s rocker tension is fully adjustable. \nWhen using the DVP3 as an expression pedal, you can use the internal pot to set the minimum level of the parameter you’re controlling with the rocker. If you want to reverse the function of the heel-down and toe-down positions, the DVP3 has an internal switch that allows you to do so. \nAlong with Volume, FX and Output jacks, the DVP3 also features a convenient Tuner output for silent tuning onstage.\nhttps://www.jimdunlop.com/product/dvp1xl-7-10137-07229-9.do",
+    "hrid": "dunlop-dvp3-volume-expression-pedal"
+}

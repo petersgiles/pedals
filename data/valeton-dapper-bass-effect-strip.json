@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28077",
+    "name": "Dapper Bass Effect Strip",
+    "image": "images/valeton-dapper-bass-effect-strip.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Chorus",
+        "Dynamics",
+        "Filter",
+        "Modeling/Simulation",
+        "Pitch Shifter",
+        "Tuner"
+    ],
+    "manufacturer": "Valeton",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$139 Price in €",
+    "width": 320,
+    "height": 65,
+    "details": "All-in-one workhorse for bass playersThis strip has everything you need, plus some inspiration.\nTUNER:\nFirst in line is a big, bright, fast and accurate tuner so you can play confidently in tune.\nBOOST COMP:\nBOOST COMP is a booster and compressor combo. Set-to-forget knobs make it simply diabolical.\nDIRTY Q:\nThe DIRTY Q module is an envelope filter with some interesting tricks. Tweak the knobs onboard until you find the vocal tone that suits your playing style.\nBASS AMP:\nThis BASS AMP module will give your bass the life it needs for every musical genre. The EQ is golden with cleans and highly responsive even with the gain up.\nOCTAVE:\nUse the all-analog monophonic OCTAVE module to beef up your low end, create synthy leads, or make everything crash off the walls. Individual octave and dry control ensure maximum inspiration.\nCHORUS:\nPlunge into the lush CHORUS module to take your sound to a brave new world. No patience for annoying parameters – the single depth knob will let you decide how deep into analog chorus dimensions you want to go.\nAnd Dapper Bass is expandable for everything else you might need too:\nFX LOOP:\nHook up your other effects— as many as you want!— and make Dapper Bass the core of your rig.\nTHRU and XLR out:\nUse the THRU output jack to run through some parallel effects (rack processors, interfaces, etc.) or do some re-amping.\nThe XLR OUT feeds a balanced signal to audio interfaces or mixers.\nFEATURES\n✪ TUNER module with fast, accurate tuning\n✪ Powerful BOOST COMP module for kicking your sound up\n✪ Sensitive, vocal-like DIRTY Q module with some interesting tricks\n✪ BASS AMP module with wide tonal flexibility\n✪ All-analog monophonic OCTAVE module with individual octave/dry signal control\n✪ Warm, lush CHORUS module for expanding your sound dimensions\n✪ FX LOOP for extending the effects chain\n✪ Different outputs to run through bass amps, audio interfaces, mixers, and other gear\nSpecifications:\nPower：9V DC center negative\nCurrent Consumption：85mA\nDimensions：320mm(D) × 65mm(W) × 42mm(H)\nWeight：690g",
+    "hrid": "valeton-dapper-bass-effect-strip"
+}

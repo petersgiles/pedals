@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11877",
+    "name": "RP360",
+    "image": "images/digitech-rp360.jpg",
+    "function": [
+        "Multieffect",
+        "PreAmp"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 191,
+    "height": 216,
+    "details": "Multi-FX",
+    "hrid": "digitech-rp360"
+}

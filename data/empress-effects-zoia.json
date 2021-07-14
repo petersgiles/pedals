@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15586",
+    "name": "Zoia",
+    "image": "images/empress-effects-zoia.jpg",
+    "function": [
+        "Digital Glitch",
+        "MIDI",
+        "Utility",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$499 Price in €",
+    "width": 145,
+    "height": 95,
+    "details": "Modular synthesizerThe ZOIA is basically a modular synthesizer in pedal form. Instead of being a delay effect or tremolo, the ZOIA provides the modules necessary to build a delay or tremolo from the ground up. But since you're the one building it, you can make it do whatever you want. With the ZOIA you can build your own custom effects, synthesizers, midi controllers, and virtual pedal boards. And to make life a little easier, we've created modules for all your standard guitar effects. So for instance, if you want a phaser, you can just plop down a phaser. You don't have to break out the textbooks to learn that they're built out of all-pass filters. (Of course, if you're a nerd like us, you can use the ZOIA to build them out of all-pass filters).\nhttps://empresseffects.com/products/zoia",
+    "hrid": "empress-effects-zoia"
+}

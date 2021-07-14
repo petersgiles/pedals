@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15489",
+    "name": "Plexi Tone",
+    "image": "images/carl-martin-plexi-tone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 72,
+    "height": 112,
+    "details": "",
+    "hrid": "carl-martin-plexi-tone"
+}

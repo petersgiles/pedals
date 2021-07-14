@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15639",
+    "name": "Warped Vinyl HiFi",
+    "image": "images/chase-bliss-audio-warped-vinyl-hifi.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Ooey-gooey-analog HiFi goodness.Originally conceived to simulate the effect of a warped vinyl record, but that only scratches the surface of what Warped Vinyl HiFi can do. This “true pitch” analog vibrato/chorus pedal features an all-analog signal path that can be dialed in to create limitless palette of vibrato and chorus. Warped Vinyl HiFi has several changes from previous versions, including a lag knob for lush chorus tones, reduced noise, and opportunities for more transparent and brighter tones. Further, every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog the entire time and never gets digitally processed. Since the control of the effect is digital, it opens up unprecedented effects and features that have never been heard or offered in analog stompboxes.\nhttp://chaseblissaudio.com/product/warped-vinyl-hifi/",
+    "hrid": "chase-bliss-audio-warped-vinyl-hifi"
+}

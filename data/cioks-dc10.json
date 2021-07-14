@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13681",
+    "name": "DC10",
+    "image": "images/cioks-dc10.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Cioks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$211 Price in €",
+    "width": 158,
+    "height": 98,
+    "details": "Power supplyDC10 is a professional multi-output power supply for effect pedals. It has 10 regulated and well-filtered DC outlets configured in 8 isolated sections. With a total of 1.600mA it’s a perfect solution for bigger rigs with pedals only using a DC power source. Its three powerful sections with 400mA each will power pedals with special requirements like Strymons, Eventides, tc Nova or Helicon pedals, Moogerfoogers, Radial Tonebone pedals or others without the need of special cables. Selectable with a switch DC10 offers voltages 9, 12 and 15V, and combined with the included Stack Flex or Series adapter Flex also 18 and 24V. The first 4 isolated outlets offering 4x100mA are perfect for standard 9V low current pedals.\nhttp://cioks.com/products/dc10/",
+    "hrid": "cioks-dc10"
+}

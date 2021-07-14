@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30558",
+    "name": "DS-9",
+    "image": "images/keeley-ds-9.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Keeley",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "2 80’s Distortion Legends in One!The Green And Orange\nYou now have the famous SD Sonique Distortion and the DS Orange Distortion in one box, the Keeley DS-9 Distortion.  These are very similar styles of distortions.  The Orange pedal had more gain because it has the added transistor gain stage.  The Sick Green pedal had a higher bass output that made tons of famous players happy because there was no low-end cut off.  It suffered from low output volume (missing the transistor) and a limited tone control.  In fact, many players can be seen using the Green Meanie with the Level and Gain cranked and the Tone completely off!  Since 1978 The Orange Distortion box has been considered a roach.  Nothing will kill it, and they are everywhere.  It’s easy to get a good Marshall-esque type of sound from this pedal, it does hard rock great.  What we did with the Keeley DS-9 Distortion is combine the two boxes via a toggle switch.  The toggle controls a relay that moves circuit elements around to give you accurate recreations of those pedals.  We also gave you a Bass Cutoff Control to create new sounds by varying the amount of low end gain you want.\nhttps://robertkeeley.com/DS9Distortion",
+    "hrid": "keeley-ds-9"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27703",
+    "name": "Bella Starr",
+    "image": "images/jackson-audio-bella-starr.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "20 mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 56,
+    "height": 124,
+    "details": "Drew Shirley signature ODThe BELLE STARR is the result of a several months-long collaboration with Drew Shirley from the band Switchfoot. If you're familiar with Drew's rig, he has always run super small, low-wattage amps, and run them wide-open to get his signature overdriven sound. The BELLE STARR was designed to recreate these tones.\nNot a high-gain overdrive, the BELLE STARR is a low/mid gain overdrive circuit that has the smooth and natural breakup that is characteristic in smaller, non-negative feedback amps. \nTo make the overdrive as natural-sounding and amp-like as possible, we incorporated a unique clipping circuit (the part of the circuit that distorts the signal) and features MOSFET transistors instead of traditional silicon diodes. When used in a clipping circuit, the MOSFET transistors produce a very smooth and amp-like overdrive.\nThe overdrive range on the BELLE STARR is so evenly spread out across the range of the GAIN control that it goes from absolutely clean to medium gain with no unusual jumps in the dynamic response. \nOver the 8 months that we spent dialing in the BELLE STARR, we have tried it with every variation of amp we could get our hands on. Fender, Marshall, Vox and of course our own Jackson amps. This was done to ensure that the BELLE STARR would work on any amp that you marry it to. \nWe are very proud of the work that we have done with Drew and believe that the BELLE STARR is a dynamic, expressive and natural sounding overdrive that will fit perfectly into any rig!\nhttps://jackson.audio/products/bellestarr",
+    "hrid": "jackson-audio-bella-starr"
+}

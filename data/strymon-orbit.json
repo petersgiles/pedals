@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14306",
+    "name": "Orbit",
+    "image": "images/strymon-orbit.jpg",
+    "function": [
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "dBucket FlangerSound Design\n\nHand crafted dBucket algorithm for highly accurate reproduction of every stage of an analog bucket brigade chip\n3 flanger Feedback Types: Positive, Negative, Positive/Negative\n3 flanger LFO Types: Log, Lin, Through Zero\nMix control for dialing in the intensity of your flange sounds\n\nIns, Outs & Switches\n\nHigh impedance mono input (internal jumper enables selectable TRS stereo input)\nStereo output\nExpression pedal input allows the connection of an expression pedal (for selectable control over any knob parameter)\nFavorite footswitch for saving your favorite setting\n\nAudio Quality\n\nSuper low noise, high performance 24-bit 96kHz A/D and D/A converters\n110dB signal to noise\n+8dBu maximum input level easily handles instrument and line signals\n20Hz to 20kHz frequency response\nPremium analog front end and output section\nSuper high performance SHARC DSP in a compact form factor\n32-bit floating point processing\n\nMore\n\nTrue Bypass (electromechanical relay switching)\n9V center negative DC supply included, 250mA current draw\nStrong and lightweight purple anodized aluminum chassis\nCrafted with love in the USA\n\nhttps://www.strymon.net/products/orbit/",
+    "hrid": "strymon-orbit"
+}

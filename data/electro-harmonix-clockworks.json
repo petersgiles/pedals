@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26344",
+    "name": "Clockworks",
+    "image": "images/electro-harmonix-clockworks.jpg",
+    "function": [
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "500 mA / 18 V / DC / Negative Center",
+    "cost": "$221 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Clock generatorClockworks is a faithful reissue of the classic pedal made by Electro-Harmonix in the 1970s. It can be used as a master clock for sequencers and drum machines, and to trigger electronic percussion products like the EHX Crash Pad classic drum synth. Clockworks doesn’t create sound on its own. It generates pulses to trigger other devices and can set the tempo for a drum machine or sequencer like EHX’s 8 Step Program.\nhttps://www.ehx.com/products/clockworks",
+    "hrid": "electro-harmonix-clockworks"
+}

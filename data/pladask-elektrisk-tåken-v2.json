@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26330",
+    "name": "Tåken V2",
+    "image": "images/pladask-elektrisk-tåken-v2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$265 Price in €",
+    "width": 96,
+    "height": 120,
+    "details": "Modulating dual head delay",
+    "hrid": "pladask-elektrisk-tåken-v2"
+}

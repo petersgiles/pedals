@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12108",
+    "name": "Flex XS",
+    "image": "images/mantic-effects-flex-xs.jpg",
+    "function": [
+        "Filter",
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Mantic Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "PLL Synthesizer Filter Glitched out pitch-mod LFO Fuzz wahFeatures:\n\nSmall but rugged die cast 1590b enclosure: 4.39\" x 2.34\" x 1.06\" (112 x 60 x 27mm)\nTop Mounted Jacks for space conservation\nStepgaurd/pull bar to protect switches and potentiometers\nTrue, honest bypass switching via heavy-duty mechanical footswitch\nStandard barrel 9VDC power jack (center negative)\n30 mA current draw\n\nhttp://www.manticeffects.com/products/flex-xs",
+    "hrid": "mantic-effects-flex-xs"
+}

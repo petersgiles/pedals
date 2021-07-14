@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29878",
+    "name": "Mainframe",
+    "image": "images/electro-harmonix-mainframe.jpg",
+    "function": [
+        "Digital Glitch"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 65,
+    "height": 114,
+    "details": "Bit CrusherThe Mainframe Bit Crusher pedal creatively degrades the sound to bring us back to those nasty “old school” sounds we love. Buzz. Beep and bloop. Electro Harmonix is high on the lo-fi sounds of “old-school” games, toys and terminals and the Mainframe Bit Crusher takes us back in time to when Pac-Man and Donkey Kong ruled the arcades, to when the Commodore 64 was high tech.\nSample Rate Reduction ranging from 48kHz to 110Hz\n    Bit Depth Reduction ranging from 24-bit to 1-bit\n    Selectable High/Low/Band-Pass filter to shape the artifacts of the bit crushing and sample rate reduction\n    Sample Rate Tuning Mode allows you to set the sample rate to match the key of a song, or continually adjust the sample rate to based on what you play on your instrument\n    Programmable preset or expression pedal setting allows you to save your sound or control any combination of the Mainframe’s knobs with an external expression pedal\n    Secondary knob parameters allow you to fine-tune the Mainframe’s functionality and effect.\n    High quality buffered bypass and silent switching\n    Comes equipped with an Electro-Harmonix 9.6DC-200mA power supply\nIt provides sample rate reduction ranging from 48kHz to 110Hz. A little background… the sample rate is the number of times per second that a sample or snapshot of an analog signal is taken. For example, CDs (remember them?) had a sample rate of 44.1kHz which means that the original analog signal is sampled 44,100 times per second.\nThe sample rate defines the frequency range that can be reproduced while maintaining good fidelity. When the sample rate is reduced the quality of the audio is degraded and aliasing occurs. Aliasing means audible artifacts created when higher frequencies are sampled at an inadequate rate and the result is frequency dependent distortion. The Mainframe’s sample rate range is wide enough to take you from sounds that are quite pristine to sounds that are unrecognizable when compared to the input signal.\nIt also provides bit crushing ranging from 24-bit to 1-bit. What does that mean? Bit crushing is bit depth reduction. Back to our CD example… CDs used a 16-bit bit depth meaning that each of its samples was represented by 16-bits of information. Higher bit depths can accurately represent a greater dynamic range while bit crushing increases the number of sampling errors and creatively degrades the sound.\nThe Mainframe’s selectable High/Low/Band-Pass filter lets the user shape the artifacts of the bit crushing and sample rate. Another very cool feature is its Sample Rate Tuning Mode where the pedal analyzes your input signal in real-time and sets the sample rate to match the pitch of your signal, or a set interval above your signal. This allows you to set the sample rate to match the key of a song, or it will continually adjust the sample rate based on what you play! \nhttps://shop.ehx.com/item/mainframe/",
+    "hrid": "electro-harmonix-mainframe"
+}

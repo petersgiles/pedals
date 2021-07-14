@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13315",
+    "name": "Big Box Rat",
+    "image": "images/proco-big-box-rat.jpg",
+    "function": [
+        "Distortion",
+        "Fuzz"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$240 Price in €",
+    "width": 127,
+    "height": 102,
+    "details": "Proco Vintage Rat Reissue DistortionAs the vintage instruments market surged, demand grew for a reissue of the “large box” RAT pedal. The Vintage RAT can easily be identified from an original in two ways. First, the Pro Co logo does not contain the “Sound Inc.” text written down its right side. The reissue also features an easy access battery compartment on the pedal’s bottom.\nhttps://www.ratdistortion.com/topic/about",
+    "hrid": "proco-big-box-rat"
+}

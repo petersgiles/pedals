@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13142",
+    "name": "Terverb",
+    "image": "images/ezhi-&-aka-terverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Ezhi & Aka",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 171,
+    "height": 121,
+    "details": "LoFi Ambient ReverbTerverb is a lofi ambient reverb with long decay, drone and feedback capabilities providing very natural long cave reverb sound and orchestral wideness. It features three reverb bricks pushed nearly to their limits to achieve maximum decay time and a tapish vibrato/tremolo modulation to destroy those reverb tails.\nhttp://ezhiandaka.ru/terverb/",
+    "hrid": "ezhi-&-aka-terverb"
+}

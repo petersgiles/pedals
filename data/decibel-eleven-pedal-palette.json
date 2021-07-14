@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16526",
+    "name": "Pedal Palette",
+    "image": "images/decibel-eleven-pedal-palette.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Decibel Eleven",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 330,
+    "height": 127,
+    "details": "analog loop bypass switcher, router, and mixerThe Pedal Palette is the first and only analog loop bypass switcher, router, and mixer capable of swapping effect pedals instantly while simultaneously providing a parallel mix bus. The routing and order of the effects is highly flexible and programmable offering unlimited options to create inspirational new sounds from existing pedals.\nhttps://www.decibel11.com/products_pedal_palette.aspx",
+    "hrid": "decibel-eleven-pedal-palette"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13272",
+    "name": "Super Wizard",
+    "image": "images/dwarfcraft-devices-super-wizard.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 143,
+    "height": 117,
+    "details": "pitch glitch delayPicking up where the Wizard of Pitch left off, the Super Wizard is a behemoth of pitch shifting, glitching, and lo-fi echo delights.  This new machine for new music starts with the sample based pitch shifting circuit from our Wizard of Pitch.  We then added footswitch controls for the “Bend” switch (toggle still available!) and a “Dindindin” button in the middle.\nThis little button suspends recording into the input buffer, leaving the current sample to repeat until the button is released.  It tends to sound like “dindindin!” You can tune the noise via the pitch knob.\nAll your old favorite controls from the Wizard of Pitch are still there. There is a Mix control and Speed control.  When set the Speed to zero, the Wizard behaves like a standard pitch shifter. As you turn up the Speed, your output will cross fade between the wet and dry signals, allowing for beautiful moving soundscapes or stimulating modulation at higher rates.\nThe Bender toggle (and switch) engages a doppler type effect, in which the pitch falls in conjunction with the input signal’s decay. Until the pedal reaches the end of its shifting range, where it starts again. When the Bender mode is active, the speed knob will control the rate of the pitch changes, rather than a cross fade.\nEngaging the Stepped toggle with the Bender will further confuse the Wizard, snapping to new pitches, rather than sliding, and creating almost random arpeggios. \nThen there’s the echo with standard controls, delay, mix, and feedback. What about this Mutate toggle?  Well, friends, that throws the pitch shifter into the feedback loop of the delay, for wild pixel barfing sounds.  Finally there is an Insert Jack, allowing you to put other effects peals in the feedback loop, when you’re up for some real adventuring.",
+    "hrid": "dwarfcraft-devices-super-wizard"
+}

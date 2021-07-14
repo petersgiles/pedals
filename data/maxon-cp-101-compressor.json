@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11645",
+    "name": "CP-101 Compressor",
+    "image": "images/maxon-cp-101-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$124 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "Compressor Guitar Effects Pedal",
+    "hrid": "maxon-cp-101-compressor"
+}

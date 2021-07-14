@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31481",
+    "name": "Modular Fuzz",
+    "image": "images/jackson-audio-modular-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$324 Price in €",
+    "width": 69,
+    "height": 124,
+    "details": "Modular Fuzz PedalThe idea of creating a modular fuzz came about as we were trying to decide which style of fuzz would be the most musical fuzz of all time. The answer quickly became, \"All of them!\" All of them are different, and all of them bring something unique sonically.\nWith the FUZZ, you can update your fuzz sound completely with our analog plug-ins and turn your pedal into a whole new pedal with a simple and affordable plug-in swap.\nhttps://jackson.audio/products/fuzz-modular-fuzz",
+    "hrid": "jackson-audio-modular-fuzz"
+}

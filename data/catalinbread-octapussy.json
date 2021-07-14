@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13378",
+    "name": "Octapussy",
+    "image": "images/catalinbread-octapussy.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Octave-up Fuzz PedalThe Octapussy is essentially, an octave-up fuzz in the tradition of the Octavia. But it’s not a clone of that circuit! Nope, it’s an original circuit utilizing 3 silicon transistors and two diodes that takes the tradition to the next level! The preamp section is custom voiced to give you an extremely dynamic playing response. You’ll get those famous high-octave lead tones up high on the guitar neck but you’ll also get an amazing array of fuzz tones anywhere else on the neck – just by how you play it and how your GUITAR’s volume, tone, and pickup selector is set.\nhttps://catalinbread.com/products/octapussy/",
+    "hrid": "catalinbread-octapussy"
+}

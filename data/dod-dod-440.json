@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11746",
+    "name": "DOD 440",
+    "image": "images/dod-dod-440.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Envelope FilterThat’s right, we know how you like it.  The DOD 440 (2014) makes your guitar speak with vowel-like sounds, and cry with slow-filter sweeps that react to your pick attack.  The new addition of the up and down switch lets you choose which part of the sweep you want to emphasize.  Guitarists will love the “UP” setting for classic envelope quack.  Bassists will love the “DOWN” setting for big dub sub thunder.  The 440 is back and the neighborhood will never be the same.\nThe DOD Envelope Filter 440 (2014) has Level and Range controls. Level controls the sensitivity of the envelope; adjust this control to tailor the triggering of the filter based upon your pick attack.  With a higher sensitivity, a lower signal will affect the envelope’s effect. In other words, with a higher sensitivity you don't have to pluck as hard to make the effect audible.  Range controls the range of movement of the envelope’s sweep. Counter-clockwise sweeps more low frequencies. Clockwise sweeps more high frequencies.  The Voice switch allows you to choose which part of the filter sweep you want to emphasize.  True bypass allows your guitar tone to remain pristine even when the new DOD 440 (2014) is off. This is a big difference from the original which would color your bypassed tone. The modern 9V DC power supply input make the pedal more pedalboard friendly.\nFeatures\nClassic funky quack or swept filter tones that react to your picking dynamics\nNew Up/Down switch allows you to choose which part of the sweep to emphasize\nTrue bypass\n9V DC power supply jack\nCrisp blue status LED\nLighter aluminum chassis",
+    "hrid": "dod-dod-440"
+}

@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16689",
+    "name": "NM-1 Nova Modulator",
+    "image": "images/tc-electronic-nm-1-nova-modulator.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Phase Shifter",
+        "Rotary",
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$134 Price in €",
+    "width": 125,
+    "height": 125,
+    "details": "",
+    "hrid": "tc-electronic-nm-1-nova-modulator"
+}

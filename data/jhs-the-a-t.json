@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13603",
+    "name": "The A T",
+    "image": "images/jhs-the-a-t.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$291 Price in €",
+    "width": 69,
+    "height": 120,
+    "details": "Distortion/Overdrive",
+    "hrid": "jhs-the-a-t"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24049",
+    "name": "Goatkeeper",
+    "image": "images/malekko-heavy-industry-goatkeeper.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$225 Price in €",
+    "width": 64,
+    "height": 140,
+    "details": "2-STAGE POLYRHYTHMIC ANALOG TREMOLOThe Malekko Goatkeeper (MGK) is a completely redesigned version of the Lightfoot Labs Goatkeeper, first released in 2007. The core of the pedal is an all analog tremolo circuit using a THAT Corp VCA, which when combined with the built in waveforms, can produce tremolo sounds from percussive to smooth. The MGK’s LFO generation consists of two stages, each with a range of multiplier values and waveform selection.\nhttps://malekkoheavyindustry.com/product/malekko-goatkeeper/",
+    "hrid": "malekko-heavy-industry-goatkeeper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21575",
+    "name": "Analog Custom Shop Distortion Deluxe",
+    "image": "images/akai-analog-custom-shop-distortion-deluxe.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 152,
+    "height": 127,
+    "details": "Distortion",
+    "hrid": "akai-analog-custom-shop-distortion-deluxe"
+}

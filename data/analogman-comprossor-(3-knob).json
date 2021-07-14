@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12373",
+    "name": "Comprossor (3-knob)",
+    "image": "images/analogman-comprossor-(3-knob).jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 109,
+    "height": 122,
+    "details": "",
+    "hrid": "analogman-comprossor-(3-knob)"
+}

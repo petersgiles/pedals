@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13298",
+    "name": "Nova Drive",
+    "image": "images/tc-electronic-nova-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 130,
+    "height": 130,
+    "details": "Drive pedalAnalog overdrive and distortion with digital control\nTrue Bypass\nMIDI\n2-band EQ\nLevel, Tone, and Overdrive controls\n18 instantly recallable presets\nFull plug-and-play compatibility with G-System",
+    "hrid": "tc-electronic-nova-drive"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12206",
+    "name": "LF7",
+    "image": "images/ibanez-lf7.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 125,
+    "details": "Lo Fi overdrive and filterIbanez \"Tone Lok\" LF7 is an effect unit that transforms any sound into \"lo-fi.\" It can change a sterile digital sound into a warm tube tone, or easily simulate sound heard from a small AM radio or telephone.\nDrive\nControls the amount of distortion. Distortion will increase when the knob is turned to the right.\nLo Cut Frequency\nSets the frequency at which the low range will be cut (80Hz - 1kHz). Turning the knob to the right will raise the cutoff frequency, simulating the sound of a small speaker.\nHi Cut Frequency\nSets the frequency at which the high range will be cut (1kHz - 10kHz). Turning the knob to the left will lower the cutoff frequency, producing a muffled sound.\nLevel\nControls the overall volume of the pedal. Volume is increased when turned to the right and decreased when turned to the left.\nMode\nSwitch the type of sound and input.\nGUITAR: Warm sound suitable for guitar\nDRUMS: Sound suitable for a music source such as drum machine or CD\nMIC: The input will be boosted so that a mic can be connected directly. The boost will occur even when the effect is off.\n9V, 23mA maximum.",
+    "hrid": "ibanez-lf7"
+}

@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13582",
+    "name": "B3 Bass Multi Effect",
+    "image": "images/zoom-b3-bass-multi-effect.jpg",
+    "function": [
+        "Bass",
+        "Looper",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Sampling",
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Zoom",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 234,
+    "height": 170,
+    "details": "Bass Effects & Amp Simulator PedalThe Zoom B3 is our most advanced bass pedal ever. 99 great-sounding DSP effects plus 12 amp and cabinet models give you all the tools you need to craft stunning bass tones, both onstage and in the studio. Up to 3 effects  can be chained together, and 3 stompbox-style displays—each with its own dedicated foot switch and control knobs—make editing fast and easy. The B3 is the total package, complete with an onboard chromatic bass tuner and integrated rhythm machine / Looper.\nhttps://zoom-na.com/products/guitar-bass-effects/bass/zoom-b3-bass-effects-amp-simulator-pedal",
+    "hrid": "zoom-b3-bass-multi-effect"
+}

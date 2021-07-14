@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19752",
+    "name": "Aphelion",
+    "image": "images/spaceman-effects-aphelion.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 64,
+    "height": 127,
+    "details": "Harmonic OverdriveIntroducing the Aphelion Overdrive, the latest Spaceman tone machine, it is built to inspire.   The Aphelion is a harmonically rich overdrive pedal, with an emphasis on even-order harmonics.  It has a wide gain range from light sparkle, to overdriven tube-amp bliss.  The pedal is wonderfully transparent and extremely responsive to playing dynamics.  To our ears, it’s the most realistic tube-amp overdrive tone we’ve ever heard in a pedal.\nIn standard Spaceman fashion, we’ve come up with an exciting, unique design that makes it truly one of the most organic and dynamically responsive overdrive pedals on the planet.  The Aphelion creates unique drive tones and with a sea of cloned overdrive circuits out there today, this means so very much.\nThe drive possibilities of the Aphelion range from a sparkly, shimmering boost to high-gain overdrive, with plenty of boosting power on tap.  The tone control lets you balance highs and lows, with full range at 12:00.  Use your neck pickup with high gain settings for singing, harmonic-laden lead tones.\nCompletely hand-soldered and handmade in Portland, Oregon, the Aphelion utilizes true-bypass switching via the heaviest duty mechanical footswitch available.  Open one up and you’ll see an unparalleled display of craftsmanship.  Thick, high-quality PCB along with detailed military-spec wiring, using vintage US made heavy-gauge stranded wire.  On top of the USA-cast aluminum enclosure sits a durable, engraved vinyl faceplate and clear jewel indicator with turquoise LED.  This overdrive is built to last a lifetime.\nEach pedal is numbered on the nameplate, as well as signed and numbered on the inside.  The new Aphelion re-issues also come with an upgraded five year, transferable warranty.\n•   Current draw: 8.5mA(on); 2mA(off)\nhttps://spacemaneffects.com/products/aphelion/",
+    "hrid": "spaceman-effects-aphelion"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11815",
+    "name": "M173 Silicon Fuzz Classic 108",
+    "image": "images/mxr-m173-silicon-fuzz-classic-108.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 92,
+    "height": 124,
+    "details": "fuzz pedal with true bypass",
+    "hrid": "mxr-m173-silicon-fuzz-classic-108"
+}

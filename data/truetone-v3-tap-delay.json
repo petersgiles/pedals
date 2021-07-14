@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28084",
+    "name": "V3 Tap Delay",
+    "image": "images/truetone-v3-tap-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Truetone",
+    "current": "92 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 116,
+    "height": 120,
+    "details": "Delay w/ ModulationV3 Tap Delay\nWhen we released our Dual Tap Delay, the response was overwhelming! (…and it still is!). We heard from some players that they would love to have a scaled down, single tap version of the award-winning pedal. With that in mind, Truetone is proud to release the V3 Tap Delay!\nThe V3 Tap Delay is basically channel 2 of the Dual Tap Delay in a small, compact pedal. Perfect for cramped pedalboards, the V3 Tap Delay has all the features a player would want in a single delay pedal including Tap Tempo, Manual Mode, Tone Control, Time Divisions, Modulation, Dual Outputs, and of course control over Repeats and Effect Level.\nhttps://truetone.com/v3-tap-delay/",
+    "hrid": "truetone-v3-tap-delay"
+}

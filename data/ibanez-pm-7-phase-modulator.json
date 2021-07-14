@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12591",
+    "name": "PM-7 Phase Modulator",
+    "image": "images/ibanez-pm-7-phase-modulator.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$56 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "",
+    "hrid": "ibanez-pm-7-phase-modulator"
+}

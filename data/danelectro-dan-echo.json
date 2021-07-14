@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19789",
+    "name": "Dan Echo",
+    "image": "images/danelectro-dan-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 117,
+    "height": 163,
+    "details": "Delay and Echo PedalThe Dan electro DE-1 Dan-Echo Guitar Pedal offers you the warmth of \"all-tube\" echo and the convenience of a pedal. Hi-cut control cuts the highs on repeats to perfectly simulate the tone of a 60s-era tape echo. Powered by 9V battery or optional DA-1 power supply.",
+    "hrid": "danelectro-dan-echo"
+}

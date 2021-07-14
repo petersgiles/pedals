@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11680",
+    "name": "Corona Mini Chorus",
+    "image": "images/tc-electronic-corona-mini-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$111 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Ultra-Compact ChorusUltra-compact chorus pedal offers built-in TonePrint technology to give you an exceptional breadth of high-quality chorus effects in a tiny package\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nEnjoy the lush TriChorus by TC ELECTRONIC plus all the other high-quality choruses you could ever need through TonePrints\nDesign your own customized chorus effects from scratch with free TonePrint Editor for PC, Mac*, and iPad*\nTrue bypass allows optimum clarity and zero high-end loss when the pedal is off\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when chorus effect is engaged\nWorks flawlessly with guitar and FX loop signals\nExtra-small enclosure easily fits on any pedal board\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/CORONA-MINI-CHORUS/p/P0DD3#googtrans(en|en)",
+    "hrid": "tc-electronic-corona-mini-chorus"
+}

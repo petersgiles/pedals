@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11491",
+    "name": "Comp Jr",
+    "image": "images/diamond-comp-jr.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$215 Price in €",
+    "width": 63,
+    "height": 120,
+    "details": "Compressor",
+    "hrid": "diamond-comp-jr"
+}

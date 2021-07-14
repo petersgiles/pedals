@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23457",
+    "name": "MXR MC402 Boost - Overdrive",
+    "image": "images/mxr-mxr-mc402-boost---overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 140,
+    "height": 112,
+    "details": "The Boost/Overdrive combines the popular Boost/Line Driver with a punchy, dynamic overdrive circuit.The Boost/Overdrive offers the combination of a simple dynamic overdrive and an independent clean boost circuit-all in one compact pedal. The overdrive section is truly classic, adding warmth, sustain and punch, without coloring your sound. It can go from a bluesy, slightly overdriven sound to full-metal crunch with a twist of the gain knob. The MC402 also cleans up nicely when you roll back your guitar volume, making it extremely touch sensitive and responsive to picking dynamics, without becoming thin sounding. The boost circuit alone is a bonus, as it is the exact same circuit CAE has used for years to solve a wide variety of signal conditioning problems in major guitar systems. The MC402's high quality components provide quiet operation and trouble-free interaction with other pedals on your board. In keeping with the CAE tradition, the design is simple and straight forward, with a minimum of controls-only what is necessary to do the job.\nhttps://www.jimdunlop.com/product/mc402-7-10137-03195-1.do",
+    "hrid": "mxr-mxr-mc402-boost---overdrive"
+}

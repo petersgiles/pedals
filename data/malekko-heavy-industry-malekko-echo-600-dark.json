@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28829",
+    "name": "Malekko Echo 600 Dark",
+    "image": "images/malekko-heavy-industry-malekko-echo-600-dark.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 75,
+    "height": 121,
+    "details": "600mS CCD Analog Delay BitchThe ECHO 600 was inspired by our love of bucket-brigade analog delays. The kind of delay that sweetens sounds and allows dirty feedback looping that dosen’t quit. It features tons of headroom, switchable dual outputs, switchable true bypass or buffered output, expression pedal capability for regen control, a recessed LED indicator, a tough lexan face, and is hand made by us. The 3 controls provide complete control over the time, regeneration and mix of the dry/wet signal. In a stereo set-up, the 2nd wet output allows the delay regen to naturally fade out after you turn it off\nhttps://malekkoheavyindustry.com/product/echo-600d/",
+    "hrid": "malekko-heavy-industry-malekko-echo-600-dark"
+}

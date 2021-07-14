@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17839",
+    "name": "Clockwork Delay v3",
+    "image": "images/gfi-system-clockwork-delay-v3.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "GFI System",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 120,
+    "height": 65,
+    "details": "Stereo DelayClockwork Delay V3 offers 7 distinct stereo delay algorithms that can be saved into any one of the 8 presets locations.\nDespite the plethora of features and functionalities packed into the pedal we have designed the interface in such a way that enables fast and easy operation. A dedicated tap-tempo switch allows instant tempo adjustment and a simple unobtrusive button gives quick access to the seven delay algorithms.\nAlgorithms :  Digital, Analog, Dual, Diffuse, Ambiental, Multi-Tap3, and Multi-Tap-4.\nPresets : 8 presets, organized in two banks.\nStereo I/O : 2 inputs - 2 outputs.\nTap-Tempo :  with 4 subdivisions.\n(NEW) Expression / Tap-tempo input :  accepts a standard expression or Tap-Tempo pedal.\n(NEW) Kill-dry :  achieve 100% wet signal.\nSpillover :  as the pedal is bypassed, the delay tail is not abruptly cut off, instead it decays out naturally. The same is true when changing presets (as long as you stay in the same delay mode).\nAuto Regen Swell :  when you engage this feature, the parameter controlled by the Repeats knob is slowly swept to the maximum value, hold it there, and then swept back to the original setting. Used judiciously, this feature can introduce dynamic elements to the soundscape - watch the demo videos to see it in action.\nAnalog Dry-thru :  dry signal is routed through a pure analog path.\nSmall form-factor :  the pedal measures 12 x 6.5 (cm) or 4.7 x 2.5 (inch).\nhttps://www.gfisystem.com/clockwork-delay-v3.html",
+    "hrid": "gfi-system-clockwork-delay-v3"
+}

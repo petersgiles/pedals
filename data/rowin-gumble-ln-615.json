@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12150",
+    "name": "Gumble LN-615",
+    "image": "images/rowin-gumble-ln-615.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 38,
+    "height": 76,
+    "details": "Nano Overdrive Dumble Amp Sim Pedal",
+    "hrid": "rowin-gumble-ln-615"
+}

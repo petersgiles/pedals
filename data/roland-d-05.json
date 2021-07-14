@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17972",
+    "name": "D-05",
+    "image": "images/roland-d-05.jpg",
+    "function": [
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$424 Price in €",
+    "width": 300,
+    "height": 128,
+    "details": "16 Voice Polyphonic Linear SynthesizerReleased in 1987, the Roland D-50 Linear Synthesizer is easily one of the most influential keyboards ever made. This revolutionary instrument helped define the sound of the late ‘80s with its instantly recognizable mix of sampled attacks and synthesized sustaining waveforms, plus built-in chorus, reverb, and EQ. It’s the basis of classic tracks in a wide range of genres including synth pop, new wave, new jack, and R&B, and can be heard in countless film scores of the era. With the Roland D-05, you get the iconic sound and dedicated control of the D-50 in a modern device that perfectly recreates the legendary synth down to its finest details.\nhttps://www.roland.com/global/products/d-05/",
+    "hrid": "roland-d-05"
+}

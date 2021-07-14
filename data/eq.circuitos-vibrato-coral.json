@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11747",
+    "name": "Vibrato Coral",
+    "image": "images/eq.circuitos-vibrato-coral.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "eQ.circuitos",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$185 Price in €",
+    "width": 80,
+    "height": 121,
+    "details": "Vibrato - Chorus - DelayThe Vibrato Coral is a new multipurpose modulation delay device.\nIt has many controls: delay time, delay feedback, modulation depth, modulation rate, wet signal volume, modulation shape (square or triangle), mode (wet + dry or just wet).\nBy being able to control so many parameters you can make the Vibrato Coral work as:\nVibrato\nChorus\nModulated delay\nWeird pitch shifter\nand more...\nThis pedal has enough low end to handle guitar and bass just as well!\nMade in Costa Rica!\nKnobs size and colors may change.\nTypical enclosure size: 3.82\" x 1.50\" x 1.22\"\nAll pedals come with hand stamped labels and bare metal enclosures.\nTrue bypass. 9V center negative standard 2.1mm Boss Style dc jack (adapter not included).\nhttp://eqcircuitos.bigcartel.com/product/vibrato-coral",
+    "hrid": "eq.circuitos-vibrato-coral"
+}

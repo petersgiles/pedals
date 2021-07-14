@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19098",
+    "name": "Subway DI",
+    "image": "images/mesa-engineering-subway-di.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Equalizer",
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$224 Price in €",
+    "width": 175,
+    "height": 134,
+    "details": "Front end of the Subway D800 amp Combining the most important features of our SUBWAY® D800™ preamp with small size and convenient connectivity, the SUBWAY BASS DI creates our most compact Grab ‘N Go Bass solution.\nSwitchable INPUT settings include PASSIVE and ACTIVE to handle both types of pickups optimally. Classic shelving-type Tone controls handle BASS and TREBLE and are joined by a Semi-Parametric MID Band to enable accurate shaping and/or enhancement of the midrange with a switchable DEEP mode to round out the voicing options. Balanced XLR PREAMP and DIRECT Outputs with a Pin 1 Lift feature for both and a PRE/POST SOURCE switch for the DIRECT Output to handle Stage and Front Of House duties while an UNBLANCED ¼” PREAMP OUT expands the interconnect possibilities even further.\nWhen you need great tone and flexibility on the Fly Dates, or simply back up standing ready in the Gig Bag, the SUBWAY BASS-DI offers maximum Tone for minimum carry.\nhttps://www.mesaboogie.com/amplifiers/bass/preamplifier-series/subway-bass-di-preamp/index.html",
+    "hrid": "mesa-engineering-subway-di"
+}

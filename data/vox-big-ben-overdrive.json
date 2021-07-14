@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33765",
+    "name": "Big Ben Overdrive",
+    "image": "images/vox-big-ben-overdrive.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 168,
+    "height": 156,
+    "details": "Warm Tube OverdriveThe best tube OD in a pedal I've ever heard!\nhttps://www.tonebox.com/pedal/vox-big-ben-overdrive",
+    "hrid": "vox-big-ben-overdrive"
+}

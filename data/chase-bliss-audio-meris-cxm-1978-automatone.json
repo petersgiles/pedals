@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26830",
+    "name": "Meris CXM 1978 Automatone",
+    "image": "images/chase-bliss-audio-meris-cxm-1978-automatone.jpg",
+    "function": [
+        "Dual/Stereo",
+        "MIDI",
+        "Reverb",
+        "Delay",
+        "Digital",
+        "Filter"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$961 Price in €",
+    "width": 146,
+    "height": 168,
+    "details": "What happens when Chase Bliss partners with the geniuses at Meris to create a pedal adaptation of the beloved and famous 1978 studio reverb? The CXM 1978. Known around here as the next Automatone.\n1978 was a big year for reverb. The dawn of sprawl, massive trails, and infinite decay. The CXM 1978 reaches back to that moment, allowing you to explore the charm of those late 70s imperfections. Using the Automatone’s robust industrial housing and Meris’s pro-audio level sound design, the CXM 1978 offers a modern take on its inspiration.\nFeatures include moving faders with presets and MIDI control, 32 Bit AD/DA, three classic algorithms, adjustable decay crossover for fully shapeable reverb tail, expression pedal control, optional fully balanced I/O, stereo input and output, and internally boosted +/-15V rails for line level input.\nDimensions: 5.75\" x 6.5\" x 2.5\"\nPower req: 9V Center Negative ~500 mA\nhttps://www.chaseblissaudio.com/shop-pedals/cxm-1978",
+    "hrid": "chase-bliss-audio-meris-cxm-1978-automatone"
+}

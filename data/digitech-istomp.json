@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21769",
+    "name": "iStomp",
+    "image": "images/digitech-istomp.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 80,
+    "height": 125,
+    "details": "Multi-effect DSP processorThe DigiTech iStomp is an entirely new concept in pedals. It works just like a traditional stompbox with one huge exception. It can be completely reconfigured by loading it with any of the 47 e-pedals available in the Stomp Shop app.\nUnlike devices that require you to stay tethered to your iOS device, the iStomp does all of its processing internally. This means professional-quality, high-definition signal processing with no latency and you don’t need your iOS device while you’re playing.\nhttps://digitech.com/en/products/istomp",
+    "hrid": "digitech-istomp"
+}

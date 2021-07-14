@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11695",
+    "name": "ADC-4 Anadime Chorus",
+    "image": "images/providence-adc-4-anadime-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Providence",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 73,
+    "height": 115,
+    "details": "",
+    "hrid": "providence-adc-4-anadime-chorus"
+}

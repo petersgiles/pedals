@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29319",
+    "name": "Klone (silver)",
+    "image": "images/jhs-klone-(silver).jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "JHS",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$500 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Klon Centaur cloneThe JHS Klon Replica is temporarily available for a limited time only while the original Klon is out-of-production. Our Klon Replica is built to last, carries our standard warranty, takes up less space than the original, and is available in 3 looks: Copper, Silver Sparkle, or Hand Painted version.  It runs on any standard Boss style 9v power and internally adjusts to 18 volts through the use of a charge pump.  Do NOT attempt to power the JHS Klon Replica with an 18v power supply. Doing so will damage the pedal. The Klon is not an original JHS design and will be taken out of production as soon as the original Klon Centaur is re-released and begins to be shipped/received by customers. We love Bill's work and highly recommend you play the real thing when you get a chance because it is a spectacular pedal. This pedal requires standard 9V DC Negative power and measures 4.7\"x3.7\"x1.2\"",
+    "hrid": "jhs-klone-(silver)"
+}

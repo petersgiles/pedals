@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18685",
+    "name": "Crocodile Tail Loop",
+    "image": "images/onecontrol-crocodile-tail-loop.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$500 Price in €",
+    "width": 462,
+    "height": 110,
+    "details": "10-channel Looper & SwitcherThe crocodile Tail Loop is the flagship switcher from One Control. Create up to 70 presets with the easy push button auto saving system. The OC10 has 7 programs per bank and you can choose up to 10 programs for each program. The OC10 also is equipped midi and can send program changes or to be used as a midi through to be used in combination with other midi devices. Link two OC10 together with a simple LAN cable to access multiple pedals off stage. The OC10 also has the amazing BJF Buffer from One Control included and also can be bypassed by using the not buffered input. The OC10 can also be a simple switcher but accessing the direct mode. Direct mode is perfect for band practices or experimenting with pedals before you’ve decided how to set your programs. The Crocodile Tail Loop truly is the most innovative pedal switchers on the market.\nhttp://www.one-control.com/crocodile-tail-loop.html",
+    "hrid": "onecontrol-crocodile-tail-loop"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11814",
+    "name": "La Machine MXR",
+    "image": "images/mxr-la-machine-mxr.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$95 Price in €",
+    "width": 64,
+    "height": 111,
+    "details": "limited edition, effect pedal for electric guitar",
+    "hrid": "mxr-la-machine-mxr"
+}

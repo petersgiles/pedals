@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13973",
+    "name": "4 Way Junction Box",
+    "image": "images/american-loopers-4-way-junction-box.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$48 Price in €",
+    "width": 112,
+    "height": 60,
+    "details": "4 Way Junction (3 Mono - 1 TRS) Pedalboard Box Patch Bay3 Mono TS plus 1 TRS Stereo, so you can hook up Guitar, AMP SND, AMP RTN, and TRS cable to change channels on your amp, OR Guitar, Amp Left, Amp Right, and change channels.\nhttps://www.americanloopers.com/collections/5-junction-boxes-patch-bays-signal-split/products/4-way-junction-3-mono-1-trs-pedalboard-box-patch-bay",
+    "hrid": "american-loopers-4-way-junction-box"
+}

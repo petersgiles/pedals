@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33366",
+    "name": "Toke Machine",
+    "image": "images/abominable-electronics-toke-machine.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Octave fuzzThe Toke Machine is a super loud and super thick fuzz with an octave up overtone via a 2nd footswitch. \nThe controls include three straight forward knobs: Volume, Tone, Fuzz; a toggle switch labeled \"destroy\" which when in the up position will engage diode clipping which will increase volume & intensity of the fuzz; Octave footswitch engages a vintage style octave up overtone for sick leads. \nhttps://www.abominablepedals.com/products/toke-machine",
+    "hrid": "abominable-electronics-toke-machine"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19681",
+    "name": "Chromatron",
+    "image": "images/3leaf-audio-chromatron.jpg",
+    "function": [
+        "Bass",
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$392 Price in €",
+    "width": 122,
+    "height": 101,
+    "details": "State Variable FilterThe Chromatron is the result of 10 years tweaking, refining and reimagining the state variable filter circuit. It is an optically-controlled analog filter that can switch between envelope control and manual control via expression pedal with the push of a button. The envelope detector is an original design, producing a musical filter response that spans a broad range of tones from vintage quack to future-synth psychedelica.\nhttps://www.3leafaudio.com/shop/chromatron",
+    "hrid": "3leaf-audio-chromatron"
+}

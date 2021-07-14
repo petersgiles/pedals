@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30139",
+    "name": "Shotgun",
+    "image": "images/radial-shotgun.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 114,
+    "height": 92,
+    "details": "Four Output Guitar Amp Driver1×4 mono or 2×2 stereo operation\nIsolated outputs eliminate buzz and hum\nBuffered outputs prevent signal loss\n180° polarity switches to phase-match amps\nThe Shotgun makes it easy to drive multiple amplifiers cleanly and in phase without buzz or hum from ground loops. In mono operation, connect to input-1 of the Shotgun and you can feed up to four amps simultaneously. For stereo setups, the Shotgun automatically reconfigures when both inputs are used; feeding input-1 to the first two amplifiers, and input-2 to the second pair. Isolation transformers and ground lifts are included on the outputs to eliminate ground loop noise, along with 180° polarity reverse switches to ensure all amps are phase-matched.\nhttps://www.radialeng.com/product/shotgun",
+    "hrid": "radial-shotgun"
+}

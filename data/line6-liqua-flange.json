@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12096",
+    "name": "Liqua-Flange",
+    "image": "images/line6-liqua-flange.jpg",
+    "function": [
+        "Digital",
+        "Dual/Stereo",
+        "Flanger",
+        "Modeling/Simulation",
+        "Chorus"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 86,
+    "height": 143,
+    "details": "Through zero multi mode stereo flanger",
+    "hrid": "line6-liqua-flange"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12093",
+    "name": "Roto-Machine",
+    "image": "images/line6-roto-machine.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Phase Shifter",
+        "Modeling/Simulation",
+        "Digital",
+        "Rotary"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 86,
+    "height": 143,
+    "details": "Leslie emulatorOVERVIEW\nRoto-Machine™ pedal brings huge, three-dimensional rotating speaker sounds right to your pedalboard. From dreamy clean to swirling overdrive, Roto-Machine has those signature sounds you could only get from the original - until now! This stompbox sized marvel gives you those classic sounds that will fill the room with swirly vibe.\nModel Switch - This switch is used to select three distinctly different types:\n\n145 - Based on* the Leslie® 145.\nL16 - Based on* the Fender® Vibratone (model 16)\n122 - Based on* the Leslie® 122 \n\nRamp Switch - Ramp controls how long it takes the speed to go from Fast to Slow. Select between a Fast, Medium, or Slow ramp time.\nSPEED CONTROLS\n\nFast Knob - Controls how quickly the horn and drum rotates. This control has a range that doesn't overlap with the Slow speed control.\nSlow Knob - Controls how slowly the horn and drum rotates. This control has a range that doesn't overlap with the Fast speed control. \n\nDrive Knob - This knob controls the amount of overdrive in the tube amplifier stage of Roto-Machine. Turn it up for that classic swirling growl!\nBlend Knob - Fine-tunes the mix balance of the horn and drum.\nTap Tempo - Using the innovative ToneCore double-action footswitch, you can switch between the two different speed knobs. The Tap Tremolo indicator light flashes the tempo in green when the effect is ON and amber when the effect is OFF.",
+    "hrid": "line6-roto-machine"
+}

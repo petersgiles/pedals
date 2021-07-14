@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14799",
+    "name": "Delay Llama Supreme",
+    "image": "images/jam-pedals-delay-llama-supreme.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$369 Price in €",
+    "width": 192,
+    "height": 120,
+    "details": "Analog, Tap-Tempo Tape Delay pedalThis is an entirely analog delay pedal designed to emulate tape delay.  It has a tap tempo switch that can be held down to induce self-oscillation, a three--position subdivision switch, and built in effects circuits that only affect the repeats, including a filter and a chorus circuit identical to the Jam Pedals waterfall.  There are also two expression pedal inputs, one to modulate the delay time and one to modulate the delay level.\nhttp://www.jampedals.com/delay-llama-supreme/",
+    "hrid": "jam-pedals-delay-llama-supreme"
+}

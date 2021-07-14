@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21780",
+    "name": "echo master",
+    "image": "images/death-by-audio-echo-master.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 155,
+    "height": 84,
+    "details": "Analog Vocal DelayDesigned for vocals, the Echo Master is a lo-fi, analog tape-style delay unit that can transform the delay sound into a chaotic realm of noise and feedback. The effects loop allows additional effects to be routed into the output, making it easy to fuse any of your favorite effects pedals with your vocal sound. \nThe Echo Master is not just a delay unit, however. It utilizes matched Bourns transformers on the input to create a vibrant-sounding preamp to bring you phenomenal vocal quality before you even hit the PA. Your sound engineer will hate you because you'll sound better than ever without their help. Top it off with high quality Neutrik XLR jacks and the Echo Master is the ultimate tool for taking total control of the sound of your voice. \nhttps://deathbyaudio.com/products/echo-master-1",
+    "hrid": "death-by-audio-echo-master"
+}

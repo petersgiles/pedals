@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31790",
+    "name": "Bluebox",
+    "image": "images/1010-music-bluebox.jpg",
+    "function": [
+        "Digital"
+    ],
+    "manufacturer": "1010 Music",
+    "current": "2000 mA / 5 V / DC",
+    "cost": "$499 Price in €",
+    "width": 140,
+    "height": 130,
+    "details": "Compact digital mixer / recorder with stereo/dual mono AUX send, equalizer and built-in effectsBluebox is the portable digital audio mixer that integrates your electronic music gear.  Connect your Eurorack, sampler, drum machine and synthesizer outputs to 6 stereo, 3.5 mm TRS inputs and map them to 12 mono tracks or 6 stereo tracks – all with independent control for recording and playback. It’s that keyboard mixer with live performance features that you always hoped someone would make.\nMix 12 mono/6 stereo tracks of live or prerecorded sound.\nIndependently route each track to any combination of three stereo outputs:\n *Stereo Output 1 – Main mix\n *Stereo Output 2 – Assignable, with dedicated sub-mixer (pre or post fader)\n *Stereo Output 3 – Headphone output, with dedicated sub-mixer (pre or post fader)\nControl one parameter for multiple tracks at once in Mixer mode.\n    Focus on one track at a time in Track mode.\n    Adjust the level or mute state of each output independently.\n    Use touch gestures or knobs to tweak your sound with four band EQ per track with support for Low Cut/Low Shelf, Parametric, and High Shelf/High Cut settings for each band.\n    Apply high-quality Reverb and Delay effects with independent effects sends for each track.\n    Override the headphone output with the Main mix on demand.\n    Maximize the loudness and unify your mix with the built-in global compressor\n    Sync to external clocks through the MIDI Input and Output.\n    Record hours of music as 48k, 24 bit WAVs directly to the microSD card as multi-track or as the main stereo mix.\n    Playback previously recorded tracks while recording new ones.\n    Load firmware updates through the microSD card.\n    Mix electronic music gear such as the 1010music Blackbox, eurorack modules, drum machines, samplers and synthesizers.\n    Save and recall Project settings including all parameters for tracks, outputs, EQ and effects.\n    Plug into a power outlet, or use with your USB Power Bank for hours of use on the go.\nTechnical Specs\n* 6 stereo 3.5 mm TRS inputs\n* 12 mono tracks, 6 stereo tracks or something in between\n* 3 independently controlled stereo 3.5 mm TRS outputs\n* Lots of headroom with support Eurorack levels up to +/-5V inputs and outputs\n* 3.5” touch screen, 4 knobs, 8 navigation buttons and 3 transport buttons\n* 3 effects: reverb, delay and compressor\n* Records and plays back 48k, 24-bit audio WAV files\n* 4 band EQ per track\n* MIDI In and Out for beat syncing effects\n* Durable metal case\nhttps://1010music.com/product/bluebox",
+    "hrid": "1010-music-bluebox"
+}

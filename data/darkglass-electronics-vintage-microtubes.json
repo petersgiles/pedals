@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17312",
+    "name": "Vintage Microtubes",
+    "image": "images/darkglass-electronics-vintage-microtubes.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$230 Price in €",
+    "width": 115,
+    "height": 190,
+    "details": "Bass OverdriveThe Microtubes Vintage is our tribute to some of the most legendary sounds in rock history. It provides warm tube-like tones with a natural dynamic response that echoes the organic compression of old tube amps and reel-to-reel tape machines.\nhttps://www.darkglass.com/creations/vintage-microtubes/",
+    "hrid": "darkglass-electronics-vintage-microtubes"
+}

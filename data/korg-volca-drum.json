@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24393",
+    "name": "Volca Drum",
+    "image": "images/korg-volca-drum.jpg",
+    "function": [
+        "Digital",
+        "Drum",
+        "Dual/Stereo",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Korg",
+    "current": "344 mA / 9 V / DC / Positive Center",
+    "cost": "$160 Price in €",
+    "width": 193,
+    "height": 115,
+    "details": "Digital drum machineThe volca series is all about unique sound. Whether it's analog, PCM, or FM, the volca series puts unique sounds into an accessible platform. And now, the series is joined by a new rhythm machine that brings yet another sonic character. It's the volca drum digital percussion synthesizer. \nBased on a simple trigger waveform, wave folder and overdrive are used to add overtones and distortion, and then a waveguide resonator effect brings the sound to life. The six-part DSP synth engine was designed with a completely different philosophy than conventional drum machines, and generates a wide range of unexpectedly different sounds. And of course, you can play those sounds from the volca-style sequencer. \nAdding these distinctive sounds to your rhythms will revolutionarily transform your performances and productions.\nhttps://www.korg.com/cafr/products/dj/volca_drum/",
+    "hrid": "korg-volca-drum"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16405",
+    "name": "DR600",
+    "image": "images/behringer-dr600.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Digital ReverbKnockoff of Boss RV-5",
+    "hrid": "behringer-dr600"
+}

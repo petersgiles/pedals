@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13625",
+    "name": "Remote Loopy 2",
+    "image": "images/the-gigrig-remote-loopy-2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$146 Price in €",
+    "width": 123,
+    "height": 65,
+    "details": "remote looper/switcher\nhttps://www.thegigrig.com/remote-loopy2",
+    "hrid": "the-gigrig-remote-loopy-2"
+}

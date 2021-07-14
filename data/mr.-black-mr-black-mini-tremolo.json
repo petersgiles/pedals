@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24976",
+    "name": "Mr Black Mini Tremolo",
+    "image": "images/mr.-black-mr-black-mini-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 47,
+    "height": 94,
+    "details": "Mini Tremolo and Harmonic Tremolo PedalSpeed, Intensity, and a unique \"Harmonics\" knob to blend between traditional amplitude tremolo and frequency banded harmonic tremolo",
+    "hrid": "mr.-black-mr-black-mini-tremolo"
+}

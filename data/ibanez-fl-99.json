@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12214",
+    "name": "FL 99",
+    "image": "images/ibanez-fl-99.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 124,
+    "height": 155,
+    "details": "Analog FlangerThe Ibanez FL99 Classic Flange is a rare flanger produced from 1997-1999 by Ibanez featuring the desireable MN3210 chip at the core of its design. The pedal has controls for speed, depth, manual, regeneration, a filter switch (similar to Eric Johnson's sound on 'High Landrons') and an 'intense' footswitch. Unit has true bypass (bypass works when the unit does not have power). \nSpeed\ncontrols the speed/rate of the LFO wave that controls the delay time of the flanger\nDepth\ncontrols the depth/amplitude of the LFO wave that controls the delay time of the flanger\nManual\ncontrols the center amount of delay of the flanger\nRegen\ncontrols the feedback/resonance of the flanger\nFilter On/Off\nmatrix filter function? (Filter on = LFO off?)\nMore than 23000 guitar effects pedals from 4000 brands: \nhttp://www.effectsdatabase.com/model/ibanez/classic/fl99\n9v DC, ??mA",
+    "hrid": "ibanez-fl-99"
+}

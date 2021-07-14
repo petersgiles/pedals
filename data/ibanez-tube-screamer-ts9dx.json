@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11776",
+    "name": "Tube Screamer TS9DX",
+    "image": "images/ibanez-tube-screamer-ts9dx.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 74,
+    "height": 124,
+    "details": "",
+    "hrid": "ibanez-tube-screamer-ts9dx"
+}

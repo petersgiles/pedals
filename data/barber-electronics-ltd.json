@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19121",
+    "name": "LTD",
+    "image": "images/barber-electronics-ltd.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Barber Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "",
+    "hrid": "barber-electronics-ltd"
+}

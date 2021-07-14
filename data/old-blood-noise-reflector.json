@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16642",
+    "name": "Reflector",
+    "image": "images/old-blood-noise-reflector.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "ChorusReflector is a densely lush chorus coupled with three modes of modulation. This is a chorus with a bent, an ephemeral voice floating between aural dimensions.\nControls include Rate and Depth for the Chorus/Flanger/Vibrato speed, Mix for a balance between unaffected and affected signal and Modulate to add Pitch selection, Chorus Voice selection or Flanger depth, depending on the mode.  A three-way toggle switch allows the player to choose between Wrinkle Mode (A Vibrato-esque warble chorus with the added option of pitch selection, meaning the Modulate knob goes from one octave down to one octave up, with noon being close to pitch unity), Myriad Mode (a simple lush chorus, Modulate control selects from 1 to 4 voices on the Chorus.) or Mirrors Mode (Detuned Chorus meets Flanger in which the Modulate knob controls the depth of the Flanger, while Rate corresponds to both the Flanger speed and the detuned Chorus speed).\nThe Reflector now features an expression out jack and clickless switching.  The output level can be tweaked via an internal trimpot for boost, slight drop, or unity gain.\n9VDC - 2.1mm negative center pin adapter.\n60 mA draw.\nhttps://www.oldbloodnoise.com/pedals/reflector-chorus",
+    "hrid": "old-blood-noise-reflector"
+}

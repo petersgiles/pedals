@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29107",
+    "name": "Ratatak",
+    "image": "images/synthrotek-ratatak.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Synthrotek",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "RAT distortion with three mods onboardSynthrotek’s version of the classic RAT pedal goes well beyond a clone, in fact we have included 3 of the MOST POPULAR mods ON BOARD. Switching between these mods is very easy. The Synthrotek RAT Distortion Pedal Clone Complete Kit gets you that classic gritty tone with a lot of options for your own! Despite being a clone, we’ve designed these PCBs as close to the raved-about original with the most popular boutique pedal mods on-board.\n4 controls – Volume, Drive, Filter, and R-Tone – to customize your tone. Volume sets the output level, Drive lets you determine the signal gain, Filter dials in the high frequency response, and R-Tone turns up your bass frequencies from clean to fuzzy grit.\n   DIP Switch Diode Clipping – On-board 4PST DIP Switch selects between 4 different clipping diodes to drastically alter your sound. Turn on the stock version 1N4148s, LEDs, Germanium diodes, or none at all with flick of a little switch. Tons of tweak!\n   PCB is designed the original RAT tone IC, the LM308 single op amp, for the vintage tone. The updated version of the RAT line of pedals uses an inferior-sounding OP07DP op amp IC. Get the vintage tone!\n   3PDT switch layout allows for an easy wiring job, with true bypass switching and LED indicator to give you a visual cue when your RAT Distortion Pedal Clone circuit is engaged and using power\n   Dual power supplies (9V Battery and +9VDC =>200mA Center Negative DC Adapter Power Supplies) allow you to have the battery as backup or as the main power\n   Input jack switching – No instrument cable plugged in, no power used. Save life on your expensive batteries!\nhttps://www.synthrotek.com/products/effect-pedal-circuits/rat-clone/",
+    "hrid": "synthrotek-ratatak"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31695",
+    "name": "T-Rex Tunemaster",
+    "image": "images/t-rex-t-rex-tunemaster.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$126 Price in €",
+    "width": 60,
+    "height": 50,
+    "details": "Chromatic Tuner\nhttps://www.t-rex-effects.com/tunemaster",
+    "hrid": "t-rex-t-rex-tunemaster"
+}

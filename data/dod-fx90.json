@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18773",
+    "name": "FX90",
+    "image": "images/dod-fx90.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 150,
+    "details": "Analog Delay\nhttp://www.americaspedal.net/fx90/",
+    "hrid": "dod-fx90"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12376",
+    "name": "FCB1010",
+    "image": "images/behringer-fcb1010.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility",
+        "Expression"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$174 Price in €",
+    "width": 687,
+    "height": 221,
+    "details": "MIDI Foot Controller with two expression pedalsMIDI Foot Controller with two expression pedals and MIDI merge function\n10 banks with 10 presets (editable); presets for BEHRINGER amps thomann included\nTwo expression pedals\nController number and range: freely configurable in MIDI Channel\nSimultaneous transmission of five MIDI program changes and two MIDI controllers per preset\nMIDI note command for trigger and tap-tempo applications\nTwo programmable galvanically uncoupled switching sockets e.g. for the channel switching of a guitar amplifier\nMIDI merge function allows soft thomann through and mixing of controller and input data\nBuilt-in power adapter\nWeight: 3.5 kg\nDimensions (W x H x D): 687 x 60 x 221 mm\nProfessional and ultra-flexible MIDI foot controller\n10 banks of presets, each with 10 fully user-editable presets\n2 expression pedals with freely assignable MIDI channel, controller number and range\nSimultaneous transmission of 5 MIDI program change commands and 2 MIDI controllers per preset\nMIDI note commands for trigger and tap-tempo applications\n2 programmable and relay-controlled switch jacks, e.g. to select channels on any guitar amp\nNo need to take a seat-everything can be easily programmed while standing\nGlobal setup allows for individual customization\nBackup function via MIDI SysEx\nMIDI merge function allows for soft through and merging of controller and input data\nBuilt-in power supply ensures trouble-free operation\n3-Year Warranty Program*\nDesigned and engineered in Germany\nhttp://www.music-group.com/Categories/Behringer/Accessories/Midi-Foot-Controllers/FCB1010/p/P0089",
+    "hrid": "behringer-fcb1010"
+}

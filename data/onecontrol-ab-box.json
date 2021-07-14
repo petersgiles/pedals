@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13772",
+    "name": "AB Box",
+    "image": "images/onecontrol-ab-box.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 54,
+    "height": 101,
+    "details": "AB Box\nhttp://www.one-control.com/ab-box.html",
+    "hrid": "onecontrol-ab-box"
+}

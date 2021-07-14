@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26278",
+    "name": "A Station",
+    "image": "images/hotone-a-station.jpg",
+    "function": [
+        "PreAmp",
+        "Utility"
+    ],
+    "manufacturer": "Hotone",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 140,
+    "height": 121,
+    "details": "D.I., effects loop, microphone preamp✪ Compact size, rock solid aluminum casing\n✪ Powerful 3-band EQ for enhancing and shaping your instrument tone\n✪ Notch filter with frequency control for eliminating unwanted feedback\n✪ Pristine DI output for feeding the signal directly to the mixer or for recording\n✪ 1/4” parallel output for connecting acoustic amps or other gear\n✪ High quality microphone preamp with phantom power\n✪ Switchable FX Loop for extended instrument and vocal dimension\n✪ Mute function for silent tuning and safe connection\n✪ Boost function for stand out solos or boosting weak instrument signals\n✪ 9V DC or 9V battery power supply\nhttps://www.hotoneaudio.com/products/performer/a-station",
+    "hrid": "hotone-a-station"
+}

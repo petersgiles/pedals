@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12992",
+    "name": "DM-2 Delay",
+    "image": "images/boss-dm-2-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Boss",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Special edition Waza Craft pedal delivers the ultimate BOSS tone experience\nTrue reproduction of the vintage DM-2 Delay sound\nPremium all-analog circuit with BBD (bucket brigade) delay line\nStandard mode for authentic DM-2 tone with 20-300 ms delay time\nCustom mode provides warm-yet-clear delay sound and maximum 800 ms delay time\nExpression pedal input for foot control of delay time\nTwo output jacks allow separate output of delay and direct sounds\nBOSS five-year warranty\nhttps://www.boss.info/us/products/dm-2w/",
+    "hrid": "boss-dm-2-delay"
+}

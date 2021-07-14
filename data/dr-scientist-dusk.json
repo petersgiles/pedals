@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28469",
+    "name": "Dusk",
+    "image": "images/dr-scientist-dusk.jpg",
+    "function": [
+        "Filter",
+        "MIDI"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 129,
+    "details": "Digitally controlled analog filterDusk is a digitally controlled analog filter. At its heart is an analog 12dB/Octave low pass filter based around an old-school integrated circuit called an Operational Transconductance Amplifier or OTA. The OTA runs off of split +/-9V rails for great audio quality and a deep filter sound. The digital side brings a whole bunch of convenient and powerful features like controlling the filter setting, tap tempo, MIDI, 6 LFOs, and a platform for all the best filter modes in one small pedal. \n3 Filter Modes, 6 LFO Waveforms in a small form factor\nHigh quality analog signal path\nPremium parts and components throughout\nTrue Bypass with soft touch relay switching\nMIDI implementation of all digital controls\nExpression pedal/CV control over Filter Cutoff\nTop mounted audio and power jacks\nDesigned and handmade in B.C., Canada\n\nhttps://www.drscientist.ca/pedals/dusk-coming-soon/",
+    "hrid": "dr-scientist-dusk"
+}

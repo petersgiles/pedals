@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17185",
+    "name": "Classic Power",
+    "image": "images/t-rex-classic-power.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 160,
+    "height": 80,
+    "details": "",
+    "hrid": "t-rex-classic-power"
+}

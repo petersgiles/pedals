@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26379",
+    "name": "Purple Moon 2019",
+    "image": "images/carl-martin-purple-moon-2019.jpg",
+    "function": [
+        "Distortion",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "62 mA / 9 V / DC / Negative Center",
+    "cost": "$131 Price in €",
+    "width": 60,
+    "height": 115,
+    "details": "Fuzz and UnivibeTrue Bypass, all analog, Vibe with Fuzz in a compact package.\nhttps://carlmartin.com/purple-moon-2019/",
+    "hrid": "carl-martin-purple-moon-2019"
+}

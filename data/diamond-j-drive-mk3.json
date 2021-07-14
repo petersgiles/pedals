@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29896",
+    "name": "J-Drive Mk3",
+    "image": "images/diamond-j-drive-mk3.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Diamond",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$219 Price in €",
+    "width": 126,
+    "height": 95,
+    "details": "Clean boost / overdriveThe Mk3 evolution of the J-Drive integrates even more functionality and tonal variations into the combined drive and clean boost concept.\nIn the clean boost section, the Mk3 has an independently switchable clean boost consisting of a Vishay JFET and BJT clean boost. \nBorrowing from the limited edition J-Drive TR, we’ve also added a cool transformer output stage to the overdrive section – it has a wonderful smoothing effect on the upper mids and highs, placing an inductive source impedance at the amps input as a guitar’s pickup would (but at a lower output impedance so it works great into other pedals as well as amps).\nOur ‘Close Asymmetry’ overdrive circuit utilizes a Schottky barrier diode for smooth asymmetrical clipping – which combined with the transformer output gives a liquid smooth sustain with punch. The ‘Warmth’ control offers a unique tonal control adding low end gain while simultaneously cutting top end- perfect for warming up a bright amp or guitar. We’ve also added a toggle switchable high frequency shelf filter to add extra ‘bite’ when needed.\nhttps://www.diamondpedals.com/products/j-drive-mk3/",
+    "hrid": "diamond-j-drive-mk3"
+}

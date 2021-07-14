@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19221",
+    "name": "Blue Hippo MkIII",
+    "image": "images/way-huge-blue-hippo-mkiii.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / 9 V / DC",
+    "cost": "$150 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Way Huge Smalls Blue Hippo Analog Chorus MkIII WM61The Blue Hippo Analog Chorus sounds as lusciously liquefied as ever in a Way Huge Smalls housing. With its simple Speed and Depth control interface, you can dial in everything from lush tone-widening to full-on rotating speaker modulation madness. If you want to splash on some thick vibrato goodness, just flip the Vibe switch to give your already aqueous tones a little more texture. The Blue Hippo Analog Chorus is straightforward and no-nonsense—just plug in and dive into the deep end.\nhttps://www.jimdunlop.com/way-huge-smalls-blue-hippo-analog-chorus/",
+    "hrid": "way-huge-blue-hippo-mkiii"
+}

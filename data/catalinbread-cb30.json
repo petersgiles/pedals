@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30099",
+    "name": "CB30",
+    "image": "images/catalinbread-cb30.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 62,
+    "height": 114,
+    "details": "Vox-voiced overdriveJust like the amp it's based on, the Catalinbread CB30's treble and bass tone controls offer tremendous sound-shaping potential. Dialed back, you'll enjoy a vibrant-yet-balanced sound with plenty of low-end richness and jangly highs. As you increase the treble or bass controls, the more scooped the mids become, for that full-bore '60s rock sound. There's a world of tone to explore here, all with that signature jangle and chime.\nAmp-like analog overdrive pedal based on a classic Vox amp\n    Imbues your tone with the sparkling, jangly tonality the original amp is known for\n    Treble and Bass controls scoop mids as they're increased\n    True bypass switching leaves your guitar tone unaltered when the pedal is disengaged\n    Requires 9-18V DC power supply (sold separately)\nhttps://www.sweetwater.com/store/detail/CB30--catalinbread-cb30-vox-voiced-overdrive-pedal?utm_source=Catalinbread+Newsletter&utm_campaign=8689a67945-EMAIL_CAMPAIGN_2016_12_18_COPY_01&utm_medium=email&utm_term=0_fa333dcd45-8689a67945-157296742&goal=0_fa33",
+    "hrid": "catalinbread-cb30"
+}

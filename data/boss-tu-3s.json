@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11854",
+    "name": "TU-3S",
+    "image": "images/boss-tu-3s.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 73,
+    "height": 84,
+    "details": "Compact Always-On Chromatic TunerCompact Guitar and Bass Tuner Pedal with 21-segment LED Meter, Drop Tuning Support, and Guitar/Bass Mode\nhttps://www.boss.info/us/products/tu-3s/",
+    "hrid": "boss-tu-3s"
+}

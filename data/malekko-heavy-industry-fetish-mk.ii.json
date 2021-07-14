@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24734",
+    "name": "FETISH Mk.II",
+    "image": "images/malekko-heavy-industry-fetish-mk.ii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 63,
+    "height": 139,
+    "details": "WOLFTONE ANALOG OVERDRIVE FUZZ PEDALFETISH is a 2-stage class A preamp boost overdrive fuzz pedal. Like other WOLFTONE pedals it is extremely responsive to a player’s dynamics. Single or humbucking pickups are still clearly heard and articulated and you can easily modulate between light or heavy distortion using picking dynamics. While more aggressive than the SLOIKA, the FETISH is still capable of very even transitions from heavy distortion into a clean sound.\nhttps://malekkoheavyindustry.com/product/fetish-2/",
+    "hrid": "malekko-heavy-industry-fetish-mk.ii"
+}

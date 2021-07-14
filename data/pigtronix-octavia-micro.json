@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14800",
+    "name": "Octavia Micro",
+    "image": "images/pigtronix-octavia-micro.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 38,
+    "height": 95,
+    "details": "Analog Octave Up with Switchable Fuzz`This pedal is based on the octave up circuit from the Disnortion, and includes a switchable fuzz circuit and a low pass filter.\nhttps://pigtronix.com/product/octava-micro/",
+    "hrid": "pigtronix-octavia-micro"
+}

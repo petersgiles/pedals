@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20552",
+    "name": "Sono",
+    "image": "images/two-notes-sono.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 228,
+    "height": 187,
+    "details": "",
+    "hrid": "two-notes-sono"
+}

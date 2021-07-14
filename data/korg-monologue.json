@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24625",
+    "name": "Monologue",
+    "image": "images/korg-monologue.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / DC",
+    "cost": "$278 Price in €",
+    "width": 350,
+    "height": 276,
+    "details": "Monophonic Analog SynthesizerThe Korg monologue puts rich, vibrant analog synthesis in your hands for an amazing price. Its engine is similar to the acclaimed minilogue analog synthesizer, with updated voicing and a 2-pole VCF that's optimized for monophonic bass and lead tones. The powerful 16-step sequencer is perfect for creating classic acid-style basslines and more, and you can transpose your sequence just by pressing any key on the 25-key mini-keybed. Factor in micro tuning, per-step parameter lock for the sequencer, and the ability to save 100 programs — the Korg monologue analog synthesizer is an impressive monosynth indeed.\nhttps://www.korg.com/us/products/synthesizers/monologue/",
+    "hrid": "korg-monologue"
+}

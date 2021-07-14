@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15370",
+    "name": "TA-1H",
+    "image": "images/free-the-tone-ta-1h.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 120,
+    "height": 102,
+    "details": "Tri-Dimensional Chorus",
+    "hrid": "free-the-tone-ta-1h"
+}

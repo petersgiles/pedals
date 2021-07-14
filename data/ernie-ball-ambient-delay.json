@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20972",
+    "name": "Ambient Delay",
+    "image": "images/ernie-ball-ambient-delay.jpg",
+    "function": [
+        "Delay",
+        "Expression",
+        "Reverb"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 89,
+    "height": 180,
+    "details": "Ambient DelayThe Expression Series Ambient Delay provides a hybrid of digital delay layered with plate reverb, for everything from slap-back to extended repeats. It features settings for delay time (50ms - 1s), delay feedback, reverb level, and a foot-sweepable effect level control to create anything from subtle textures to ambient soundscapes, all without taking your hands off the guitar.\nhttps://www.ernieball.com/guitar-accessories/pedals/ambient-delay",
+    "hrid": "ernie-ball-ambient-delay"
+}

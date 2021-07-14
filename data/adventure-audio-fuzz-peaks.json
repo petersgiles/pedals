@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16560",
+    "name": "Fuzz Peaks",
+    "image": "images/adventure-audio-fuzz-peaks.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "Black Big Muff CloneThe Fuzz Peaks pedal is a spin on the classic Black Russian Big Muff circuit.\nThe Problem…\nWith most bass Big Muffs is the lack of low end and over saturation. The tonal characteristics are very Big but not so Muff’ed.\nSome features that were added to improve this pedal from the Black Russian Muff:\n– Buffered Clean Blend\n– Second Parallel Clean Output\n– Momentary Feedback Switch\n– Edge Knob labeled “Behave”\n– Clipping Selection Toggle Switch\n– Less aggressively scooped Tone Knob\nThe Buffered Clean Blend retains your highs, lows, and attack so the mid-range fuzz has room to do its thing.\nThe Parallel Clean Output adds another dimension of utility. Use this output to route your pedal board to separate effects, a DI for studio or live sound, or a bi-amp configuration.\nFor all you noise makers and synth-lovers out there:\nThe Momentary Feedback switch can create some ridiculous squeals as well as change the attack and quality of the fuzz. Use the Spectrum knob to adjust the pitch of the squeals.\nNeed more aggressive pick attack to your sound?\nThe Behave Knob can be used for improving your presence or to be the fly on the wall frequency.\nThe Twilight Zone switch will add or remove the diodes for more or less dirt and aggressive clipping.\nThe original tone stack in the Black Russian Muff is awful for bass. There, I said it…\nThis Tone Stack is lightly scooped in the midrange and will retain if not improve the highs and lows.\nThe artwork is based off of classic sci-fi shows like Twin Peaks, X-Files, and The Twilight Zone, the artwork depicts an integrated design incorporating themes from each show.\n9V, 100mA\nNo Battery Clip",
+    "hrid": "adventure-audio-fuzz-peaks"
+}

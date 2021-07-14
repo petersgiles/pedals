@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12629",
+    "name": "70-BC Fuzz",
+    "image": "images/fulltone-70-bc-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 76,
+    "height": 114,
+    "details": "Fuzzface-style fuzzEver played an original FuzzFace from around 1970? (HINT: Not AT ALL the same sound as ones with the same namesake being mass-produced currently.) Ours has two intentionally mismatched (for harmonic content) silicon transistors that snarl and spit... not for the meek! If you put the \"Fuzz\" on 10 you will rip, and you might get all sorts of oscillation and weirdness... but that's Rock. Don't try using it with a wah wah... you can't, and neither could Jimi, without it screaming and howling. You want polite and quiet? Go elsewhere. You want art in a box? Come on in.\nHoused in a 16 gauge steel box and powder coated deep blue, this pedal is a bit unruly but with some warmth... ideal for older 4 input Marshall amps, it has much more FUZZ than the '69 Pedal and includes a Mid control for extra clarity and cut.\nI got my hands on Eric Johnson's Blue Fuzzface that he used from Tones through Ah Via Musicom period (now owned by Ian Moore) and incorporated a few of its tonal secrets into the '70 pedal with staggering sonic results!\nProduct Updates\n70pedal - Reborn as the 70-BC\nIn December 2009, after 15 years of production, the 70 was discontinued. However, I recently found/bought a couple thousand excellent BC108C transistors, so am happy to announce the return of the 70 pedal... this time, in a small (OCD-sized) housing. These transistors sound outrageous! This model 70-BC still has the secret-weapon \"Mid\" knob which will allow you to do something other Fuzzfaces won't let you do.... be heard in the mix. ;)\nhttps://www.fulltone.com/products/70-bc-fuzz",
+    "hrid": "fulltone-70-bc-fuzz"
+}

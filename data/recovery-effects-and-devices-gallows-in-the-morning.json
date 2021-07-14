@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28921",
+    "name": "Gallows in the Morning",
+    "image": "images/recovery-effects-and-devices-gallows-in-the-morning.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Reverb"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Overdrive and reverbGALLOWS IN THE MORNING\n(Versatile Double Overdrive with Haunting Reverb)\nGallows in the Morning combines two of our favorite things: gritty overdrive and haunting reverb. Switch between Bold and Brazen to go from shimmering, melancholic tones to monster distortion and foreboding reverberation. The simple controls allow you to easily dial in all the levels to suit your mood.\nThe clean, independent reverb control is one of the most distinctive features of this pedal. Even with distortion, the reverb is pristine in the mix, adding clarity to heavily distorted and reverberated signals. Using the reverb at 100% makes this pedal ideal for creative studio mixing.\nControls:\nClean: Unadulterated input signal\nDirty: Distorted guitar signal level\nReverb: Reverb level generated from the clean signal, with no dry signal\nVolume: Overall volume\nBold: Overdrive\nBrazen: Distortion\nEnclosure size: 4.77\" x 2.6\" x 1.39\"\nGallows In The Morning operates on a standard Boss style 9vdc power supply (not included). Limited lifetime warranty. Hand-made in Seattle, WA.\nhttps://recoveryeffects.com/collections/effects-pedals/products/gallows-in-the-morning",
+    "hrid": "recovery-effects-and-devices-gallows-in-the-morning"
+}

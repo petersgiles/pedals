@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33373",
+    "name": "Baltic Blue Fuzz",
+    "image": "images/onecontrol-baltic-blue-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "OneControl",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 39,
+    "height": 100,
+    "details": "Versatile Muff CloneThe Baltic Blue Fuzz Pedal recreates the recognizable vintage muff/fuzz tone, while producing a crisp sound without sacrificing the effect.\nSpecifications\nInput impedance: 40K\nOutput impedance: 50K\nDrive voltage: 9V \nPower consumption: 6mA\nS/N ratio: -70dBm\nSize: 39Wx100Dx31H mm (excluding protruding parts)\n　　  47Wx100Dx48H mm (including protruding parts)\nWeight: Approx. 160 grams\nTrue-Bypass Switching\nHigh Quality Aluminum Enclosure\nPower: 9V Battery or Standard DC Power Supply\nhttps://www.one-control.com/pedal/bjf/baltic-blue-fuzz",
+    "hrid": "onecontrol-baltic-blue-fuzz"
+}

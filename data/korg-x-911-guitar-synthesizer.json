@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15506",
+    "name": "X-911 Guitar Synthesizer",
+    "image": "images/korg-x-911-guitar-synthesizer.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 336,
+    "height": 200,
+    "details": "Monophonic analog guitar synthesizerThis box combined the MS-03 guitar input module for the Korg MS-series with voice circuitry derived from Korg's Sigma synthesizer. It should be noted that this was a MONOPHONIC synthesizer that used pitch-tracking circuitry to derive its control voltage signals, and was actually rather difficult to use with its intended instrument without very careful playing techniques. It does work well with other monophonic instruments in its normal usage and as a sound glitcher/mangler otherwise. 1/4\" jacks for audio signal in, direct out, and effect out, swiches for interval latching, portamento latching, hold, and effect on/off on front, FM in, VCF cutoff CV, trigger in/out, and CV (Hz/V standard) in/out on back.",
+    "hrid": "korg-x-911-guitar-synthesizer"
+}

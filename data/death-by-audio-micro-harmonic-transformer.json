@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22050",
+    "name": "Micro Harmonic Transformer",
+    "image": "images/death-by-audio-micro-harmonic-transformer.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "WHEN MICRO MEANS COLOSSALThe sound of the original cult classic fuzzer is back by popular demand. Now you can get the same huge sound as the Harmonic Transformer in a smaller 2.5\" x 4.75\", pedalboard-friendly pedal. Inter-modulate your sound and unleash ringing, raging fuzz on the world. Super big, super vicious and super intense, complete with enough alien noises to freak out your listeners. The Harmonic Transformer is an extremely loud and intense fuzz pedal which is highly interactive with the incoming signal. Take it to the max!",
+    "hrid": "death-by-audio-micro-harmonic-transformer"
+}

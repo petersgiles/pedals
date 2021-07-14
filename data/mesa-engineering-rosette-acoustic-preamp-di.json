@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18759",
+    "name": "Rosette Acoustic Preamp DI",
+    "image": "images/mesa-engineering-rosette-acoustic-preamp-di.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$357 Price in €",
+    "width": 208,
+    "height": 140,
+    "details": "Acoustic DI PreamplifierIntroducing the Rosette® DI, an Acoustic Instrument Direct Interface that puts accurate reproduction at the top of the list, and yet, also offers comprehensive shaping power for enhancement when you might need it.\nWe start with the same Front End and EQ circuitry used in our Rosette® 300 Two:Eight Combo, minus the Mic Input. Both products’ circuit design is derived from high end recording console design. This no-compromise approach ensures the purest signal path and lowest noise specs while at the same time insuring detailed, rich musicality and unrivaled accuracy.\nMesa Boogie Rosette 2x8 Acoustic Combo\nThe Rosette® DI, Acoustic DI Preamplifier utilizes the same Front End and EQ circuitry found in our Rosette 300® Two:Eight Combo, minus the Mic input, derived from high end Recording Console design.\nAs you would expect on any pro console, both Input Gain and Phase are addressed in the INPUT control and PHASE switch. A wide range of high impedance pickups are handled easily with the optimized, current source-biased FET input stage. The Phase relation between pickup output and whatever speakers are being driven can be addressed by flipping the PHASE switch on the Rosette DI for easy comparison to decrease or eliminate feedback or even improve your overall tone.\nFrom there we’ve included two additional sweep-able Filters to assist with feedback elimination in the live performance environment. NOTCH FILTER cuts a chosen frequency in a narrow band to remove resonant frequencies that cause feedback. This Filter removes those frequencies as it is rotated clockwise. The HI-PASS is also a Filter that cuts frequencies in the sub-harmonic range as it is turned clock-wise. This is very helpful in both eliminating unwanted low frequency feedback on stage as well as tightening up the low-end for specific instruments or musical styles.\nA footswitchable BOOST is incorporated for increasing the level of certain musical sections like solos or anyplace a level increase is needed. The BOOST LEVEL sets the amount of BOOST when the BOOST switch is engaged. Additionally a footswitchable MUTE is also included which mutes the signal at the Rear Panel outputs but does not mute the side TUNER Output, enabling you to employ silent tuning between songs.\nThe fully professional EQ Section incorporates fixed shelving BASS and TREBLE controls plus two semi-parametric MID bands covering LOW and HIGH midrange frequencies. These can overlap for finite control over adjacent midrange frequencies or one might be used to combat feedback while the other is applied for Tone shaping duties.\nhttps://www.mesaboogie.com/amplifiers/acoustic/pre-amp-series/rosette-preamp/index.html",
+    "hrid": "mesa-engineering-rosette-acoustic-preamp-di"
+}

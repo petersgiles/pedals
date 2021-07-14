@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30824",
+    "name": "Classic Wah",
+    "image": "images/morley-classic-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Morley",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$54 Price in €",
+    "width": 142,
+    "height": 231,
+    "details": "WahDesigned to emulate the timeless Morley tone of '70s and '80s wahs, this Classic model sports an electro-optical foundation with a diehard steel chassis that will last for years. Whether you're playing funk, hard rock, or pop, this wah will have your back.",
+    "hrid": "morley-classic-wah"
+}

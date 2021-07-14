@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19747",
+    "name": "Phasor 2x",
+    "image": "images/mu-fx-phasor-2x.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Mu-FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$359 Price in €",
+    "width": 106,
+    "height": 143,
+    "details": "The new Mu-FX Phasor 2X is the Modern Vintage Analog™ refinement of the original Musitronics® Phasor II pedal.The new Mu-FX Phasor 2X is the Modern Vintage Analog™ refinement of the original Musitronics® Phasor II pedal.\nThe Phasor 2X is housed in our signature “mini-mu” enclosure, features retro graphics, and provides added functionality and reliability to the beloved sound of the original Phasor II.\nNew functions include: 4 or 6 stages of optical phasing with independent controls, assignable expression pedal controls, and stereo output.\nDescription\nControls\n(1) PHASE\n1a) FEEDBACK (6 Stage): Sets the amount of effected signal fed back into the effect for a more pronounced effect\n1b) FEEDBACK (4 Stage): Sets the amount of effected signal fed back into the effect for a more pronounced effect\n(2) SWEEP\n2a) DEPTH (6 Stage): Controls the range of the phase sweep\n2b) DEPTH (4 Stage): Controls the range of the phase sweep\n(3) PEDAL MODE SWITCH\nThese two toggle switches (for the 6 Stage phasor and 4 Stage phasor respectively) allow the user to designate whether expression pedal control is (O) OFF, (EXPEXP) controlling SWEEP.\n3a) EXP MODE TOGGLE SWITCH (6 Stage):\n(EXPEXP): Sets expression pedal to control the SWEEP of the phase\n3b) EXP MODE TOGGLE SWITCH (4 Stage):\n(EXPEXP): Sets expression pedal to control the SWEEP of the phase\n(4) LFO\n4a) RATE (6 Stage): Controls the speed of the LFO wave that controls the effect\n4b) RATE (4 Stage): Controls the speed of the LFO wave that controls the effect\n(5) Footswitches\n5a) FX BYPASS: Determines whether the Phasor 2X’s effect is engaged or true bypassed (active bypass can be selected internally)\n5b) PHASE STAGE: Allows you to switch between 6 and 4 stages of phasing (and their respective control set). The adjacent LED indicates (by color) which PHASE STAGE is active (the knob colors also correspond to these designations).\nBLUE: 6 stage phasing\nGREEN: 4 stage phasing\nNote: Both BYPASS and PHASE STAGE are silent footswitches – relay switching of audio\n(6) Back Panel\n6a) INPUT: A standard ¼” input jack for any instrument or audio input\n6b) OUT 1 (Main audio output): A standard ¼” output jack – sending a mono output signal to whatever comes next in your signal chain\n6c) OUT 2: A standard ¼” output jack – which, when used in addition to OUT 1 sends a second (and therefore stereo) signal to whatever comes next in your signal chain. It may also be used to achieve a varied phase effect\n6d) EXP PEDAL: A standard ¼” TRS jack in which an expression pedal or (CV) can be inserted to access manual control of specific functions of the Phasor 2X\n6e) POWER: The Phasor 2X runs on a 12V AC power supply for optimal headroom and hi-fidelity sound. DO NOT use with a DC supply.\nhttps://www.mu-tron.com/mu-fx-phasor-2x/",
+    "hrid": "mu-fx-phasor-2x"
+}

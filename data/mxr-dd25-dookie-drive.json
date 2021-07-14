@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21110",
+    "name": "DD25 Dookie Drive",
+    "image": "images/mxr-dd25-dookie-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 70,
+    "height": 121,
+    "details": "Marshall Style DistortionIn celebration of the 25th anniversary of Green Day’s groundbreaking album Dookie, this pedal captures the dirty yet articulate sound Billie Joe Armstrong used on that record, combining the sounds of two modded amplifiers into a single stomp box for a harmonic range full of depth and dimension.\nBillie Joe Armstrong’s guitar tone on Green Day’s groundbreaking album Dookie sounded dirty and punchy with the perfect amount of articulation to express the musicality of his fast, melodic riffs. He got that sound by running his signal through two heavily modified amplifiers—one scooped with a ton of gain and the other with a well-defined midrange. When it came time to mix the record, the band blended the two signals together in different ratios to match the vibe of each track.\nTo celebrate the 25th anniversary of Dookie, we’re releasing the MXR Dookie Drive. It captures the sound of both of Billie Joe’s amps in a single pedal so that you can dial in your own variations of that famous Dookie sound. We borrowed the amps themselves so that the MXR team could carefully analyze all the sonic qualities that make them sound so darn good. After much analysis and A/B testing, our engineers rebuilt the amps from scratch in pedal circuit form and fit them into a single housing. The High Gain and Clean Gain sections each have their own controls, while the Blend control allows you to mix them together just like Green Day did in the studio. If you want some extra scoop in the midrange of the overall output signal, just hit the Scoop switch.\nThe Dookie Drive isn’t just for Green Day fans—this totally unique pedal provides a full harmonic range of overdriven tones for a playing experience that is full of depth and dimension.\nhttps://www.jimdunlop.com/product/dd25-7-10137-11660-3.do",
+    "hrid": "mxr-dd25-dookie-drive"
+}

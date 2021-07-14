@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19811",
+    "name": "C2",
+    "image": "images/amt-c2.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 74,
+    "height": 112,
+    "details": "Preamp/DistortionThis preamp is able to emulate the unique sound of Engl’s third cousin Cornford characterized by clear tone, diversity and minimalism. One C-2 drive channel provides wide overdrive range from slight crunch to biting high gain.\nTwo-channel LA-2 series preamp effects are designed to produce clean and overdriven guitar sound within a variety of guitar channel organization. The basic concept of the series is “your own sound in your pocket.” LA-2 incorporates original circuit designs developed by the specialists of AMT, which allow to obtain bright and rich sound in the style of the original tube overdrives using low-voltage (9V) power and low current consumption.\nThe distinctive feature of the series is the presence of three outputs intended for implementation of basic types of channels organization:\n– direct connection to guitar system power amp;\n– connection to “clean” channel of a guitar combo or amp;\n– direct connection to a mixer.\nAll three of these outputs can be used simultaneously! Use the different outputs for recording direct and micing at the same time, run different effects through different outputs, or record three DAW tracks all at once. The routing and recording options are endless. The Legend II series of pedals are a studios engineers dream come true.\nTwo channel preamp and distortion pedal\nWhen connected to the amp or a mixer La-2 acts as a two-channel preamp providing switch between clean and overdriven channels by means of a footswitch. CLEAN channel is universal for all models of the series and sounds in the style of classic Fender amps.\nWhen using LA-2 in effect mode the “clean” channel of an external amplifier or a combo is used. Please be aware that the used combo or amplifier largely determines the resulting sound.\nWhen in effect mode the series uses “partial” active bypass, which reduces the need to minimize the length of used cables and retains the original sound of the instrument when the effect is off.\nhttps://amtelectronics.com/new/amt-c2/",
+    "hrid": "amt-c2"
+}

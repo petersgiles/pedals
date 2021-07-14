@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18908",
+    "name": "The Worm V1",
+    "image": "images/electro-harmonix-the-worm-v1.jpg",
+    "function": [
+        "Multieffect",
+        "Phase Shifter",
+        "Tremolo",
+        "Wah"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 200,
+    "height": 175,
+    "details": "Analog Multi-Modulation Effects PedalElectro-Harmonix The Worm Analog Multi-Modulation Effects Pedal\nModulation madness! All-analog multi-effects processor featuring Phaser, Tremolo, Vibrato, and a Neo-modulated Wah. At the heart of The Worm is a specially designed tone-bending engine that creates groundbreaking oscillatory effects.\nTrue bypass\nMode selectable analog modulation effects: wah, phaser, vibrato, tremolo\nManual mode removes the modulation so the effects can be swept by hand\nOptional expression pedal sweep capability\nTough and compact die-cast chassis\n24VDC-100 power supply included\nDimensions in inches: 4.0 (w) x 4.75 (l) x 2.25 (h)\nDimensions in mm: 102 (w) x 121 (l) x 89 (h)",
+    "hrid": "electro-harmonix-the-worm-v1"
+}

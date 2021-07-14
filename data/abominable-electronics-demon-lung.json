@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19215",
+    "name": "Demon Lung",
+    "image": "images/abominable-electronics-demon-lung.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$195 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Modified Hyper Fuzz FZ-2The long awaited Demon Lung is finally here! We've cloned the never-before-cloned Hyper Fuzz FZ-2 and added stuff we think it should have:\nFUZZ MODE FOOTSWITCH -- The original Hyper Fuzz had a rotary switch you had to get down and turn with your hands to switch between the 2 completely different sounding fuzz modes (not to mention the useless gain boost that we removed). We've moved that to a 2nd footswitch so you can make a change while playing. Two LED indicators let you know which mode it is in.\nCLEAN BLEND -- This is a must have for Bass players and also great for guitar as well. A lot of pedals suck out your low end when engaged, but we've taken care of that with this pot which allows you to blend your bypass signal with the effect to bring back some of the clarity fuzz pedals kill. It also gives you the ability to play a cleaner note w/ a fuzz undertone.\nDIODE CLIPPING TOGGLE -- We've added a toggle to switch between the stock Silicon clipping diodes and Russian Klon Germanium Diodes.\nEach pedal is completely handmade. All effects are true bypass and built with high quality parts (box film caps, genuine transistors & ics).\nhttps://www.abominablepedals.com/products/demon-lung-sale",
+    "hrid": "abominable-electronics-demon-lung"
+}

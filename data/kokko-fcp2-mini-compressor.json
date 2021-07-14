@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13739",
+    "name": "FCP2 Mini Compressor",
+    "image": "images/kokko-fcp2-mini-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Kokko",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$18 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "KOKKO FCP2 Mini CompressorFully analog circuit.\nA broader adjustable range.\nTrue bypass.\nPowered by AC adapter.\nMini and portable, enclosure is aluminum alloy shell.\nLED indicator shows the working state.\nRubber pads on the backside is anti-skid, which enhances the stability and avoids friction between the effect pedal and the ground.\nhttps://www.aliexpress.com/item/KOKKO-FCP2-Mini-Compressor-Pedal-Portable-Guitar-Effect-Pedal/32792171548.html",
+    "hrid": "kokko-fcp2-mini-compressor"
+}

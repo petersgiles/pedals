@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16529",
+    "name": "SuperSynth",
+    "image": "images/markbass-supersynth.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "Markbass",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$368 Price in €",
+    "width": 178,
+    "height": 102,
+    "details": "The SUPER SYNTH turns your bass into a synthesizer—with seriously cool sounds and no tracking delay! It also doubles as a digital octaver, with both octave up and octave down layers. The parameters of the pedal’s presets can be modified using the Markbass Pedal Controller software. Simply install the software, connect the pedal to your computer using a USB cable, modify the presets as desired, and then load them back onto the pedal. Like all our pedals, this unit features true bypass.\nhttp://www.markbass.it/product-detail/super-synth/",
+    "hrid": "markbass-supersynth"
+}

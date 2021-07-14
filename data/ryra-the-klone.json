@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11948",
+    "name": "The Klone",
+    "image": "images/ryra-the-klone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "RYRA",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$258 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Klon type overdrive\nhttps://theklonepedal.com/content/klone-pedal",
+    "hrid": "ryra-the-klone"
+}

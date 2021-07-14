@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25976",
+    "name": "Mercy Phuk",
+    "image": "images/wren-and-cuff-mercy-phuk.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wren and Cuff",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 69,
+    "height": 112,
+    "details": "Vintage style overdrive",
+    "hrid": "wren-and-cuff-mercy-phuk"
+}

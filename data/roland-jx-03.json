@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28909",
+    "name": "JX-03",
+    "image": "images/roland-jx-03.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / 5 V / DC",
+    "cost": "$399 Price in €",
+    "width": 300,
+    "height": 128,
+    "details": "JX-3P synthThe Roland Boutique JX-03 module continues the legacy of the JX-3P synth.\nhttps://www.roland.com/us/products/jx-03/",
+    "hrid": "roland-jx-03"
+}

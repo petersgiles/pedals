@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14447",
+    "name": "1590B",
+    "image": "images/hammond-manufacturing-1590b.jpg",
+    "function": [],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$6 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "1590B Enclosure\nhttps://www.mammothelectronics.com/products/4s1590b-enclosure",
+    "hrid": "hammond-manufacturing-1590b"
+}

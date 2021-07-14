@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31612",
+    "name": "Double Feature",
+    "image": "images/magnetic-effects-double-feature.jpg",
+    "function": [
+        "Distortion",
+        "Wah"
+    ],
+    "manufacturer": "Magnetic Effects",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$146 Price in €",
+    "width": 90,
+    "height": 115,
+    "details": "A fuzz and fixed wah pedal\nhttps://www.magneticeffects.net/double-feature",
+    "hrid": "magnetic-effects-double-feature"
+}

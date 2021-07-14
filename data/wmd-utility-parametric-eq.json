@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12857",
+    "name": "Utility Parametric EQ",
+    "image": "images/wmd-utility-parametric-eq.jpg",
+    "function": [
+        "Equalizer",
+        "Filter"
+    ],
+    "manufacturer": "WMD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 110,
+    "details": "Utility Parametric EQ\nThere are 3 bands of EQ with frequency ranges from about 40Hz to 15kHz. Each band is an independent bandpass filter with adjustable center frequency, quality factor, and gain. Use them to sculpt and shape your tone however you like.\nThere are 3 bands of EQ with frequency ranges from about 40Hz to 15kHz. Each band is an independent bandpass filter with adjustable center frequency, quality factor, and gain. Use them to sculpt and shape your tone however you like.\nStomp Switch - This footswitch activates the EQ. The center LED will be lit when the pedal is engaged.\nFreq - This selects the center frequency of the filter. The three frequency ranges are: 31Hz to 1.6kHz, 100Hz to 4.8kHz, 300Hz to 16kHz.\nQ - The Quality Factor (Q) gives you control over the sharpness of the filter. Turn it up and the filter section becomes resonant and more abrasive. Low Q settings sound like a traditional EQ, higher Q adds resonant nodes. The Q ranges from about .1 to around 30.\nLevel - This controls how much cut or boost you have from the band. Center it (0) and the band is out of the circuit. Turn clockwise and you'll get more of that frequency, turn counter-clockwise and you'll hear less. If all 3 controls are at 0, you should be able to click the pedal on and off and not hear any difference.\nOverall Level - This gives a overall cut or boost at the output of the Parametric EQ. Like a volume control, but with some gain available.\nhttps://www.wmdevices.com/collections/effects-pedals/products/utility-parametric-eq",
+    "hrid": "wmd-utility-parametric-eq"
+}

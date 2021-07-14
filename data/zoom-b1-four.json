@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23434",
+    "name": "B1 FOUR",
+    "image": "images/zoom-b1-four.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 130,
+    "height": 156,
+    "details": "https://www.zoom-na.com/products/guitar-bass-effects/bass/zoom-b1-four-b1x-four-bass-multi-effects-processors",
+    "hrid": "zoom-b1-four"
+}

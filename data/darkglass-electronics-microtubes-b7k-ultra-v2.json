@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26109",
+    "name": "Microtubes B7K Ultra V2",
+    "image": "images/darkglass-electronics-microtubes-b7k-ultra-v2.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "110 mA / 9 V / DC / Negative Center",
+    "cost": "$456 Price in €",
+    "width": 125,
+    "height": 96,
+    "details": "Bass Preamp with Cab Simulation",
+    "hrid": "darkglass-electronics-microtubes-b7k-ultra-v2"
+}

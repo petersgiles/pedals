@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16332",
+    "name": "Money Laundry",
+    "image": "images/danelectro-money-laundry.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 51,
+    "height": 127,
+    "details": "",
+    "hrid": "danelectro-money-laundry"
+}

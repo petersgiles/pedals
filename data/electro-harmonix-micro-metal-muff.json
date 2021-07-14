@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15133",
+    "name": "Micro Metal Muff",
+    "image": "images/electro-harmonix-micro-metal-muff.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$69 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Distortion/ Fuzz with Top BoostHoused in a smaller enclosure than the Metal Muff and with simplified controls the Micro Metal Muff delivers the same aggressive metal drive that made its big brother famous. A wicked sound - a metallurgist's dream.\nhttps://www.ehx.com/products/micro-metal-muff",
+    "hrid": "electro-harmonix-micro-metal-muff"
+}

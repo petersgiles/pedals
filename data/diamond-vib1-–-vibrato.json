@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16231",
+    "name": "VIB1 – VIBRATO",
+    "image": "images/diamond-vib1-–-vibrato.jpg",
+    "function": [
+        "Chorus",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$336 Price in €",
+    "width": 119,
+    "height": 119,
+    "details": "VibratoThe new Diamond Vibrato is a dedicated pitch vibrato design using bucket brigade analog delay technology for true pitch modulating vibrato. In addition the pedal also offers analog chorusing via the Chorus control to blend a variable amount of dry signal with the effected signal.\nWe’ve included 2 mini-toggle switches on the Vibrato. The ‘JAZZ’ switch darkens the tone of the effect offering a more ‘vintage’ flavor. The ‘HIGH’ toggle switches to a higher depth range for more extreme pitch bent sounds.\nExpression control of depth, and speed for on-the-fly adjustment and special effects. Mono true bypass operation. Extended headroom 15V internal voltage rail operation. NOS MN3007 bucket brigade delay chips.\nPlease note: The Diamond Vibrato is a true vibrato – not a Univibe (phase shifter) or a tremolo (often incorrectly referred to as vibrato). The terminology can be confusing to say the least!\nhttp://www.diamondpedals.com/products/vibrato/",
+    "hrid": "diamond-vib1-–-vibrato"
+}

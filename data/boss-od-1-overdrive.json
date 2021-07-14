@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12830",
+    "name": "OD-1 Overdrive",
+    "image": "images/boss-od-1-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The OD-1 is by now legendary. Artist of the 70’s was mostly using a fuzz distortion sound and the overdrive produced by the OD-1 was not typical. It was however soon accepted as the new standard of guitar sound. The OD-1 features an asymmetric circuit where the positive and negative halves of the waveform isn’t distorted equally. The sound is therefore still close to the original even though distortion have been added.\nVersion differences\nThe OD-1 has gone through a number of changes since its conseption. The different versions have been named OD-1A, OD-1B and so on. The version letter is printed on the PCB in the form of the number 052-281A to 052-281E. There are at least 4 different versions available. Each with minor differences like opamps from different manufacturers. The 4 digit serial number is ink stamped inside the battery compartment. These numbers are not real serial numbers but instead batch numbers. It is so far unknown how many pedals there were in a batch. The section below lists the major differences between different versions of the OD-1.\nOD-1A\nSerial: 6400 – 6500\nMarking of PCB: 052-281a\nSwitch: Transparent\nSilver screw\nOP-AMP: RC3403ADB\nOD-1B\nSerial 6600-8800\nMarking of PCB: 052-281b\nSwitch: Up to 8400 transparency, from 8600 black\nSilver screw\nOP-AMP: Up to 8400 RC3403ADB, from 8600 uPC4741C (NEC)\nOD-1D\nSerial 8900- , 6 digit sticker\nMarking of PCB: 052-281d\nSwitch: Black\nScrew: 8900-0300, silver screw, 0500- black screw\nOP-AMP: 9900 – NJM4558D (JRC)\n9300,0300 – uPC4558C (NEC)\n0000 TL4558P (Texas Instruments)\nOD-1E\nSerial: 6 digit sticker\nMarking of PCB: 052-281e\nSwitch: Black\nblack screw\nOP-AMPs: uPC4558C (NEC)\nJRC4558D (JRC)\nJRC4558DD (JRC)\nJRC4558DX (JRC)\nC4558C (NEC)\nSpecifications\nControls: Level, Overdrive\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 3.5 mA (DC 9V)\nWeight: 400g.\nInput Impedance: 220kOhm\nOutput Impedance: Over 600Ohm\nSignal/Noise Ratio: 80dB\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe OD-1 was sold from November 1977 to July 1985.\nhttp://www.bossarea.com/boss-od-1-over-drive/",
+    "hrid": "boss-od-1-overdrive"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25533",
+    "name": "Bassbone OD",
+    "image": "images/radial-bassbone-od.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Radial",
+    "current": "? mA / 15 V / DC",
+    "cost": "$469 Price in €",
+    "width": 203,
+    "height": 107,
+    "details": "Bass Preamp & OverdriveThe Bassbone OD is a bass preamp that features two fully-equipped input channels, each with separate level and EQ controls and a shared overdrive.",
+    "hrid": "radial-bassbone-od"
+}

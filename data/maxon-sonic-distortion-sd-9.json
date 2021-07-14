@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24952",
+    "name": "Sonic Distortion SD-9",
+    "image": "images/maxon-sonic-distortion-sd-9.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "7 mA / 10 V / DC / Negative Center",
+    "cost": "$160 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Distortion\nhttps://maxonfx.com/products/sonic-distortion-sd-9",
+    "hrid": "maxon-sonic-distortion-sd-9"
+}

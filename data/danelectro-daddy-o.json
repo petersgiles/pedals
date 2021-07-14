@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16824",
+    "name": "Daddy O",
+    "image": "images/danelectro-daddy-o.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 117,
+    "height": 163,
+    "details": "Overdrive",
+    "hrid": "danelectro-daddy-o"
+}

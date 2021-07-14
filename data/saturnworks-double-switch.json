@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25914",
+    "name": "Double Switch",
+    "image": "images/saturnworks-double-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Saturnworks",
+    "current": "Pedal is passive",
+    "cost": "$27 Price in €",
+    "width": 89,
+    "height": 25,
+    "details": "Momentary Double Switch TRSSaturnworks double switches come in both latching and momentary variations. Our latching versions have options for internally or externally powered LEDs.\nThe double switch can replace the Boss FS-6 and FS-7. You just need to determine if your application requires latching or momentary switches, and if momentary, if the switches need to be normally open or normally closed. Boss and Roland applications require normally closed switches, while most other brands use normally open.\nThe momentary double switches come in both normally open and normally closed variations, with either pro or soft touch switches. Double switches also come in TRS or two TS variations.\nhttps://saturnworkspedals.com/product/amp-device-switches/",
+    "hrid": "saturnworks-double-switch"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13434",
+    "name": "Haunt Fuzz",
+    "image": "images/old-blood-noise-haunt-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "The Old Blood Noise Endeavors Haunt is a gated fuzz that is capable of a wide array of fuzz sounds. From the restrained and nuanced light fuzziness to granular and biting saw sounds, many textures and character traits can be summoned with the Volume, Gate, Fuzz, Mix and Tone knob controls. The Haunt also has two toggle switches; Mode and Bass. Mode switches between two combinations of silicon transistors; Bass adds an additional low end boost to the effected signal. \n9VDC - 2.1mm negative center pin adapter.\n20 mA draw.\nhttp://www.oldbloodnoise.com/pedals/haunt-fuzz",
+    "hrid": "old-blood-noise-haunt-fuzz"
+}

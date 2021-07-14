@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13368",
+    "name": "Iso-Brick Power Supply",
+    "image": "images/mxr-iso-brick-power-supply.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 121,
+    "height": 74,
+    "details": "Pedalboard Power SupplyThe Iso-Brick Power Supply is small and light with tons of quiet, noise-free DC power on tap ready to run a wide range of pedal types without crowding or weighing down your pedalboard.\nEach of the Iso-Brick Power Supply's 10 outputs is fully isolated, eliminating gig-ending ground loop noise. Whether analog or digital, positive or negative ground, this power box has you covered. The MXR team broke down these 10 outputs to accommodate a variety of voltage and current requirements: two 9V outputs at 100mA, two 9V outputs at 300mA, two 9V outputs at 450mA, two 18V outputs at 250mA, and two variable outputs adjustable from 6V to 15V at 250mA. The two variable outputs can be used to emulate voltage ?sag,?a drained battery effect sought by many vintage tonechasers. \nOn top of all that, the Iso-Brick Power Supply comes in a small, lightweight housing that's built like a tank. Features power on/off and connection status LEDs. Put this little box on your pedalboard to make sure it runs reliably and quietly gig after gig.\nhttps://www.jimdunlop.com/product/m238-7-10137-08665-4.do",
+    "hrid": "mxr-iso-brick-power-supply"
+}

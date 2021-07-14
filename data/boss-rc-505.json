@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27694",
+    "name": "RC-505",
+    "image": "images/boss-rc-505.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Boss",
+    "current": "420 mA / ? V / AC",
+    "cost": "$499 Price in €",
+    "width": 420,
+    "height": 68,
+    "details": "Tabletop looperInfinitely inspiring, the RC-505 Loop Station has become an essential performance instrument for beatboxers, singers, and club performers around the world. Filled with new features requested by top users, the Version 2.0 update brings even more creative power to the flagship tabletop looper. Simultaneous effects can now be used in the Input FX and Track FX sections, and a number of new effects types are included. Many refinements to the loop functionality offer a multitude of ways to enhance and improve live performances. The control target functions have been greatly expanded as well, providing a wealth of external control options for musicians who loop with guitars, keyboards, and other instruments.\nTabletop Loop Station that can be operated with the hands, perfect for beatboxers, vocalists, and club performers\nFive simultaneous stereo phrase tracks, with dedicated controls and independent volume faders\nWide range of Input FX and Track FX for processing loops, including DJ and sampler-style effects\nIndependent play mode and tempo sync settings enable a flexible combination of track behaviors and advanced performance options\n99 phrase memories, each containing five phrase tracks, custom effects/playback settings, and more\n85 onboard rhythm patterns, including odd-measure beats\nExternal control via MIDI and optional footswitches or expression pedal\nUSB for phrase import/export and DAW integration with computers\nXLR mic input with phantom power, mono/stereo instrument inputs, and stereo aux input\n\n**Version 2.0: Newly Added Features**\nUp to three effects can be used simultaneously in both the Input FX and Track FX sections\nNew effects types, including Ring Modulator, Slow Gear, Pitch Bend, and others\nExtended parameters added to previous effects, including dotted and triplet note values for tempo syncing\nNew targets for external foot control, ideal for musicians who play guitar, keyboards, and other instruments\nAssign functions have been increased from 8 to 16, providing expanded performance control via the front panel, external footswitches, expression pedal, and MIDI\nEnhanced Phrase Memory functions such as individual track monitoring via headphones, quantized loop recording, and more\nAdded system functions, including loop indicator status settings and more\n\nhttps://www.boss.info/us/products/rc-505/",
+    "hrid": "boss-rc-505"
+}

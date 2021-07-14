@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13006",
+    "name": "Mini Tap Tempo",
+    "image": "images/american-loopers-mini-tap-tempo.jpg",
+    "function": [
+        "Controller",
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 58,
+    "height": 60,
+    "details": "Tap Control and Switch\nhttps://www.americanloopers.com/products/mini-tap-tempo",
+    "hrid": "american-loopers-mini-tap-tempo"
+}

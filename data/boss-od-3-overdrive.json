@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13564",
+    "name": "OD-3 OverDrive",
+    "image": "images/boss-od-3-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "OverDriveDual-Stage Overdrive Circuit offers a level of sustain and compression unmatched by any overdrive pedal\nIncreased dynamics yield a \"bigger\" sound than any previous BOSS overdrive pedal\nDynamic, non-muffled tones reminiscent of classic overdriven \"stack\" amps\nStraightforward Drive, Tone and Level controls\nBOSS five-Year Warranty\nhttps://www.boss.info/us/products/od-3",
+    "hrid": "boss-od-3-overdrive"
+}

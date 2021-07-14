@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25961",
+    "name": "Red Rox",
+    "image": "images/dawner-prince-electronics-red-rox.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dawner Prince Electronics",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$224 Price in €",
+    "width": 58,
+    "height": 112,
+    "details": "Red Rox is a 'hot rod' in distortion pedalsRed Rox is a «hot rod» in distortion pedals - souped up for more power!\nIt can deliver anything from pure clean tones all the way to a grease- melting distortion.\nMASTER controls the output volume level. You can adjust Red Rox to the same volume as your bypass signal (unity gain) or volume it up for a whole lot fatter tone - there is plenty volume on tap!\nCONTOUR controls the frequency emphasis overall. In the middle position is balanced presentation of the overall frequencies; clockwise it becomes midrange-pronounced and counterclockwise it becomes midrange scooped.\nTONE controls the frequency emphasis on the highs coming out of distortion section. Top end frequencies can be easily ajdusted to your own taste.\nPREAMP controls the amount of distortion in the signal. On minimum setting Red Rox acts as an ultra clean booster. Cranking it up will take your guitar sound all the way to a full, fat and thick distortion - there is a great deal of flexibility.\nRed Rox distortion is fully professionally designed and handmade with audiophile quality components and true bypass switching system incorporated - a pedal built to last.\nTechnical Specifications:\nPower Input Voltage: 9 - 18V\nPower input connector: 2.1mm barrel connector (Negative tip)\nPower Consumption: ~ 9.5mA\nSize: 4.4” x 2.3”\nhttps://dawnerprince.com/products/red-rox",
+    "hrid": "dawner-prince-electronics-red-rox"
+}

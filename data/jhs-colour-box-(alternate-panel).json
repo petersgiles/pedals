@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12972",
+    "name": "Colour Box (Alternate panel)",
+    "image": "images/jhs-colour-box-(alternate-panel).jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 89,
+    "height": 127,
+    "details": "",
+    "hrid": "jhs-colour-box-(alternate-panel)"
+}

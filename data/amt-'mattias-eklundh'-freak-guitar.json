@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17362",
+    "name": "'Mattias Eklundh' Freak Guitar",
+    "image": "images/amt-'mattias-eklundh'-freak-guitar.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 90,
+    "height": 115,
+    "details": "Two-Tube Overdrive/DistortionAMT Electronics Mattias AI Eklundh Freak Guitar - rare discontinued pedal.\nThis pedal was produced in 2007-2008 and it is really hard to find now. Sounds grrrrreat! Comes with original box. \nThe Mattias Eklundh Freak Guitar Dual Drive Distortion Pedal was created through a collaboration of Swedish guitarist Mattias \"IA\" Eklundh, one of the most unique, extraordinary, and talented guitar virtuosos of the contemporary music world, and the AMT Custom Pedal Design Shop. The Freak Drive distortion pedal features the sound shaping flexibility and style design that reflect the creative passion of it's artistic namesake. The semi-parametric MF equalizer is the major distinguishing feature of this device. Using TWO mid control knobs (MID and MID FREQ) you can not only increase or decrease MF levels but also choose the band pass central frequency. This will give you a chance to control your guitar's tone with flexibly not offered on other regular effects. Each of the two foot switches is equipped with optical sensors which control the electromechanical relay switching between modes on/off by means of a microcontroller. Thus, AMT has eliminated the problem related to mechanical contacts wear-out due to frequent effects selection as in regular pedal effects. The AMT designed box features a 1.5mm stainless steel deck panel preventing tubes and controls from mechanical damage. This is truly a road worthy guitar pedal.All AMT pedals including the Mattias Eklundh distortion pedal are designed to sound equally as good through an amp or direct recorded due to built-in cabinet emulation circuitry. Perfect for live performance and in the studio. \nFeatures & Specifications: \nPower: External Adaptor AC 120V 15V 1A (not included) Tubes: 2 x 12AX7 Incandescence - 12.6V (6.3V)\nAnode Voltage: DC 230V\nJacks: \nAmplifier Output - for Combo Connection          \nMixer Output - for Mixer/Recorder Connection \nBypass: \nLeft F Switch - DRIVE effect on/off             \nRight F Switch - DISTORTION effect on/off\nhttp://amtelectronicsusa.com/productpagefreakguitar.html",
+    "hrid": "amt-'mattias-eklundh'-freak-guitar"
+}

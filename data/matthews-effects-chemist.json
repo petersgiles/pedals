@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14839",
+    "name": "Chemist",
+    "image": "images/matthews-effects-chemist.jpg",
+    "function": [
+        "Chorus",
+        "Multieffect",
+        "Phase Shifter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / 9 V / DC",
+    "cost": "$199 Price in €",
+    "width": 67,
+    "height": 119,
+    "details": "Chorus/Vibrato, Phaser, Octave\nhttps://www.matthewseffects.com/products/the-chemist",
+    "hrid": "matthews-effects-chemist"
+}

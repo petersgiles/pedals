@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13832",
+    "name": "FX65",
+    "image": "images/dod-fx65.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 127,
+    "height": 76,
+    "details": "Analog Stereo Chorus Pedal",
+    "hrid": "dod-fx65"
+}

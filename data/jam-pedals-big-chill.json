@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32633",
+    "name": "Big Chill",
+    "image": "images/jam-pedals-big-chill.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$269 Price in €",
+    "width": 130,
+    "height": 100,
+    "details": "Two-speed tremoloThe Big Chill is our flagship tremolo pedal with a slew of functions that will take you from lush smooth tremolo sounds found in vintage Fender® amps, to strobe-like chop effects capable of slicing through any mix! Its thoughtful layout and feature set is sure to excite sonic adventurers across all genres of music.\nFEATURES\nSquare – Sine – Triangle waveform selector\nTwo independent Speeds accessible in real time\nCHOP (kill dry) effect\nExpression pedal input jack to control Speed 2\nExpression pedal input jack to control Depth\nInternal trimmer to adjust the Speed 2 level\nInternal trimmer to adjust the CHOP effect level\nThe Big Chill can also be used as a clean boost! Just set the Depth control to zero, and adjust the Level to your preference. All these features compliments of the warmest and biggest tremolo sound you have ever heard! The Big Chill can also be used with Bass guitars!\nhttps://www.jampedals.com/the-big-chill/",
+    "hrid": "jam-pedals-big-chill"
+}

@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15885",
+    "name": "MM4 Modulation Modeler",
+    "image": "images/line6-mm4-modulation-modeler.jpg",
+    "function": [
+        "Flanger",
+        "Multieffect",
+        "Phase Shifter",
+        "Pitch Shifter",
+        "Reverb",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 254,
+    "height": 152,
+    "details": "Line6 Modulation Modeler\nhttps://reverb.com/p/line-6-mm4-modulation-modeler-2010s-blue",
+    "hrid": "line6-mm4-modulation-modeler"
+}

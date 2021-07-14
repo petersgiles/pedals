@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18602",
+    "name": "Fx-55B Supra Distortion",
+    "image": "images/dod-fx-55b-supra-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 80,
+    "height": 127,
+    "details": "",
+    "hrid": "dod-fx-55b-supra-distortion"
+}

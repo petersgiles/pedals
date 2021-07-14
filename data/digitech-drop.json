@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11915",
+    "name": "Drop",
+    "image": "images/digitech-drop.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Digitech",
+    "current": "240 mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 73,
+    "height": 121,
+    "details": "Polyphonic Drop Tune PedalThe DigiTech® Drop is a dedicated polyphonic drop tune pedal that allows you to drop your tuning from one semitone all the way down to a full octave. Get down-tuned chunk without having to change guitars! The Drop also features a momentary/latching switch. With the switch set to momentary, you can turn the Drop into a true performance pedal. Fast trills and roller-coaster pitch dips are at the tip of your toes.\nhttp://digitech.com/en-US/products/the-drop",
+    "hrid": "digitech-drop"
+}

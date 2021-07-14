@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32627",
+    "name": "Kinematic",
+    "image": "images/dreadbox-kinematic.jpg",
+    "function": [
+        "Dynamics",
+        "Filter"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "85 mA / 9 V / DC / Negative Center",
+    "cost": "$193 Price in €",
+    "width": 100,
+    "height": 140,
+    "details": "VCA based Compressor and an Envelope FilterKinematic is a Greek based word (Κίνημα), which describes motion – of points, bodies or systems of bodies, without the consideration of the forces that cause them to move.\nDreadbox KINEMATIC is a VCA based Compressor and an Envelope Filter effect pedal suitable for fretted instruments and synthesizers, with eurorack compatibility.\nFull Analog VCA based Compressor\nBand Boost Filter\nExtreme Compration Ratio\nEnvelope Filter\nLow Pass Filter\n-Slow Envelope Curve\n-Post Diode Overdrive Circuit\n-Level Boost up to +18dB\n-True Tone Maker\n-3 patch points for our modular fans\nhttps://www.dreadbox-fx.com/kinematic/",
+    "hrid": "dreadbox-kinematic"
+}

@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21311",
+    "name": "Attack Decay",
+    "image": "images/electro-harmonix-attack-decay.jpg",
+    "function": [
+        "Expression",
+        "Volume",
+        "Distortion",
+        "Dynamics",
+        "Tremolo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 121,
+    "details": "Tape Reverse SimulatorThe circa-1980 Electro-Harmonix Attack Decay is a sought after prize among vintage pedal aficionados. Originally called a Tape Reverse Simulator, it’s known for producing volume and reverse swells, backward tape sounds, artificially short staccato notes and bowed instrument effects. The new Attack Decay reinterprets the classic and keeps its cool factor, but adds some modern features for convenience and enhanced functionality.\nIt can produce a single volume envelope like the original, or, with Poly engaged, put separate volume envelopes on each note you play. The built-in Harmonix fuzz is now a fully controllable distortion with gain, tone and volume controls. The effects loop allows the musician or sound designer to place the volume envelope onto whatever signal is present at the Return jack. Expression pedal/CV input and three user presets give the user total control over their Attack Decay!\nQuick Specs\n* Volume envelope manipulation with adjustable Attack and Decay times.\n* Mono mode: one volume envelope at a time, the envelope resets when you play a new note.\n* Poly mode: gives each note you play its own envelope.\n* Built-in, fully adjustable, Harmonix fuzz enhances the volume envelope effect and produces bowed instrument sounds.\n* Built-in effects loop allows for your own pedals to be inserted onto the volume envelope.\n* Expression pedal or CV control over every knob on the Attack Decay.\n* Save and recall up to three presets.\n* EHX 9.6VDC-200mA power supply included\n* Current Draw: 150mA @ 9VDC\nhttps://www.ehx.com/products/attack-decay",
+    "hrid": "electro-harmonix-attack-decay"
+}

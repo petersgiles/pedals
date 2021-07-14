@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13383",
+    "name": "Isolator",
+    "image": "images/the-gigrig-isolator.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 65,
+    "height": 30,
+    "details": "power moduleIsolated power module for The GigRig",
+    "hrid": "the-gigrig-isolator"
+}

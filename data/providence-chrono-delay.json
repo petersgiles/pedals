@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19153",
+    "name": "Chrono Delay",
+    "image": "images/providence-chrono-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Providence",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$373 Price in €",
+    "width": 101,
+    "height": 122,
+    "details": "Delay\nDelay time is adjustable from 1 to 2700 milliseconds. The current delay time is accurately shown on the 4-digit 7-segment LED display.\nSwitchable Display Modes\nDelay time can be displayed in milliseconds (mSec) or beats per minute (BPM). The BPM display is not simply a \"rough estimate. \" BPM delay times are displayed with metronome accuracy.\nTap Tempo\nThe delay time is precisely set according to the tempo tapped on the TAP switch.\nA/B Preset Memory\nThe A/B preset memory allows two different delay times settings to be memorized and recalled via the footswitch as needed.\nBEAT SPLIT\nWith the specified delay time as a quarter-note reference, seven delay time variations ranging from half notes to eighth-note triplets can be directly selected via the BEAT SPLIT knob. Rhythm-based delay time settings that previously required tedious calculations can now be made in an instant.\nAnalog Circuitry Featuring the VITALIZER®\nBoth the VITALIZER® that prevents degradation of the direct signal and the mixer that combines the direct signal with the delay signal are analog circuits that have been designed and built to the highest possible sonic standards.Simple Operation\nThe DLY-4 CHRONO DELAY features a simple interface that allows fast, intuitive control.\nExternal TAP Input\nA momentary (non-latching) type footswitch can be connected to the EXT.TAP jack to allow remote tap delay operation. When this function is used the A/B - TAP footswitch on the CHRONO DELAY unit is dedicated to A/B preset switching, so that tap delay and A/B preset switching operation are simultaneously available via separate footswitches.\n■SPECIFICATIONS\n●Controls: MIX, ECHO HARDNESS, FEED BACK, TIME, BEAT SPLIT,\n　BPM – mSec toggle switch, A/B – TAP toggle switch, ON/OFF footswitch,\n　A/B – TAP footswitch.\n●Connectors: Standard 1/4-inch phone jacks (INPUT, OUTPUT, EXT.TAP),\n　DC12V input jack\n●Power Supply: Supplied AC adaptor (PAP-712DCJ for North America and Japan,\n　PAP-712DCE for Europe, PAP-712DCU for UK)\n●Power Consumption: DC12V, 110mA\n●Dimensions: 122(D)x101(W)x58(H)mm\n●Weight: Approx 410 g, not incl. AC adaptor.\nhttp://www.providence-ltd.com/products/effector/dly4.html",
+    "hrid": "providence-chrono-delay"
+}

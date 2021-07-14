@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11912",
+    "name": "Relay G70",
+    "image": "images/line6-relay-g70.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$500 Price in €",
+    "width": 103,
+    "height": 141,
+    "details": "Wireless SystemThe Line 6 Relay G70 Digital Guitar Pedalboard Wireless System gives you tour-grade performance in a compact, stompbox format. Great whether you strum a 6-string or hold it down on bass, the Relay G70's 24-bit audio, locking 1/4\" cable input (no special cable needed!), and rugged metal construction are designed to untether you from your amp and let you rock all over the stage. With 2.4GHz operation and DCL signal protection delivering interference-free performance, one-step setup, and license-free worldwide operation, going wireless with your guitar is easier than ever with the Line 6 Relay G70 Digital Guitar Pedalboard Wireless System.\nhttp://line6.com/relay/g70-g75/",
+    "hrid": "line6-relay-g70"
+}

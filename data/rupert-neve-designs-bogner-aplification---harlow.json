@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13086",
+    "name": "Bogner Aplification - Harlow",
+    "image": "images/rupert-neve-designs-bogner-aplification---harlow.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics"
+    ],
+    "manufacturer": "Rupert Neve Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "http://www.bogneramplification.com/harlow-pedals",
+    "hrid": "rupert-neve-designs-bogner-aplification---harlow"
+}

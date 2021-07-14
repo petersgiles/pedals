@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11648",
+    "name": "Deco",
+    "image": "images/strymon-deco.jpg",
+    "function": [
+        "Delay",
+        "Distortion",
+        "Dual/Stereo",
+        "Flanger"
+    ],
+    "manufacturer": "Strymon",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Dual tape deck\nhttp://www.strymon.net/deco/",
+    "hrid": "strymon-deco"
+}

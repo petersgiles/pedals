@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13497",
+    "name": "MF-107",
+    "image": "images/moog-music-inc.-mf-107.jpg",
+    "function": [
+        "Distortion",
+        "Expression",
+        "Synth Voice"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$369 Price in €",
+    "width": 152,
+    "height": 229,
+    "details": "FreqBox The MF-107 is like no other effect on the planet. Modulate the internal oscillator with your input signal for classic hard sync effects or crank up the envelope follower and the VCO frequency responds to the dynamics of your playing. Connect an expression pedal to the frequency to discover the FREAK in the FreqBox.\nThe MF-107 FreqBox is different from other effects – the effected sound is not a processed version of your input signal, but the sound of the input signal modulating an internal oscillator. It contains a VCO with continuously variable waveshape, and the capacity to modulate that Oscillator in the following ways:\n\nthe VCO can be hard synced by the input signal\nThe VCO can be frequency modulated (FM) by the input signal\nThe VCO frequency can be modulated by an envelope follower which tracks the dynamics of the input signal\nThe Amplitude of the VCO also tracks the dynamics of the input signal\n\nHard sync is a classic analog synthesis technique where the start of an oscillator’s cycle can be reset by another. The oscillator being synced takes on the frequency characteristics of the other oscillator, and when its frequency is swept, it reinforces the harmonics of the fundamental frequency. In the case of the FreqBox, the input signal is used to reset the FreqBox’s VCO.\nFM is a technique used to get really rich sounds from simple waveforms. The type of FM used in the FreqBox is linear FM. Sounds range from gong or bell-like tones to sizzly sweeps.\nThe FreqBox, like all moogerfoogers, works with any instrument to line-level input. In addition to the panel controls there are control inputs for use with expression pedals or control voltages and control outputs for interconnecting moogerfoogers like you would a modular synth.\nThe FreqBox can provide some really unusual processing to all types of signals – guitars, synths, drum sounds, vocals or wind instruments allowing you to enter previously unexplored sonic territory.\nhttps://www.moogmusic.com/products/moogerfoogers/mf-107-freqbox",
+    "hrid": "moog-music-inc.-mf-107"
+}

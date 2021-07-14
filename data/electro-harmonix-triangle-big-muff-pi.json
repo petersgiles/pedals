@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19007",
+    "name": "Triangle Big Muff Pi",
+    "image": "images/electro-harmonix-triangle-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "Distortion/SustainerWe have reissued the original Version 1 Big Muff and it’s dripping with vintage Electro-Harmonix DNA and tone. Dubbed the Triangle Big Muff because of the layout of its Volume, Sustain and Tone controls, this is the one that started it all. The new Triangle Big Muff is a faithful re-creation of the original circa 1969 circuit now housed in a pedalboard friendly, die-cast chassis.\nElectro-Harmonix founder, Mike Matthews, says: “The Big Muff Pi is the pedal we are best known for so I wanted to commemorate EHX’s 50th Anniversary (1968-2018) by re-releasing V1, the very first Big Muff. Original pedals are now selling for hundreds of dollars and this reissue absolutely nails that creamy, violin-like sustain and musical tone at a price a working musician can afford.”\nThe Triangle Big Muff features the following nods to convenience: an LED to indicate effect status, true bypass switching and the option of being powered by a 9-volt AC adapter.\nQuick Specs\n\nThe authentic V1 Triangle Big Muff reissued in a nano-sized chassis\nEffect status LED\nTrue bypass\nVintage look and graphics\n9V battery included, also accepts optional EHX 9.6VDC-200mA power supply\nCurrent Draw: 2.2mA @ 9VDC\nDimensions in inches: 2.75(w) x 4.5(l) x 2.1(h)\nDimensions in mm: 70(w) x 115(l) x 54(h)\n\nhttps://www.ehx.com/products/triangle-big-muff-pi",
+    "hrid": "electro-harmonix-triangle-big-muff-pi"
+}

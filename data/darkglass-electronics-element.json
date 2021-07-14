@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28470",
+    "name": "Element",
+    "image": "images/darkglass-electronics-element.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$258 Price in €",
+    "width": 75,
+    "height": 111,
+    "details": "Headphone Amp & Cabinet SimulatorA world of tone intended only for you. The Darkglass Element Headphone Amp and Cabinet Simulator will let you crank the volume of your instrument - but only you will hear it. They allow for easy silent practise, so you don’t have to wake the neighbours when you're practising. But there's much more to this nifty little box.\nWith built-in IR cabinet simulators, you'll be able to mould your tone by shaping it with different cab models. And the free Darkglass Suite lets you load additional IRs using USB or Bluetooth. So, not only will this headphone amp let you practise in silence, but it will also help you sound better than ever before.\nOne comprehensive device, that out of the box offers a bank of 5 cabinet simulations, and the ability to change them through the Darkglass Suite, Bluetooth technology to listen to backing tracks while playing, rehearsing, or studying. Two headphone outputs to allow interaction among musicians. XLR output to connect the Element to your audio interface or PA system. With a uniquely innovative approach, the Element provides in one device an immensely practical tool to empower modern musicians. \nhttps://www.darkglass.com/creations/element/",
+    "hrid": "darkglass-electronics-element"
+}

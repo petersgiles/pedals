@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29070",
+    "name": "Blower Box",
+    "image": "images/idiotbox-effects-blower-box.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Volume"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$173 Price in €",
+    "width": 66,
+    "height": 119,
+    "details": "Bass DistortionAt first the Blower Box was my attempt to capture the classic Voivod Blacky sound on the Nothing Face album. \nThey are my favorite band of all time and Blacky is my favorite bass player of all time. \nI was lucky enough to get Away to do the graphics for it and even got the whole band to sign the first VERY limited run of 15!\nBut it turned out to not just be a pigeon holed \"specific\" tone pedal, but a KILLER bass overdrive/distortion beast!\nOne of my main goals was to make it sound great no matter what setup was used. Small thin practice amp to monster rig.\nControls are Top Left - Volume, Bottom Left - Distortion, Top Right - High cut/boost, Bottom Right - Low cut/boost.\nThe low boost brings tons of beef and the high boost adds the snap. This thing KILLS on guitar and synths also!\nAll feedback on this sucker is 100% positive and I couldn't be more stoked!!!\nhttps://www.idiotboxeffects.com/product/blower-box-bass-distortion",
+    "hrid": "idiotbox-effects-blower-box"
+}

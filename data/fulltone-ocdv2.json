@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18345",
+    "name": "OCDv2",
+    "image": "images/fulltone-ocdv2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$134 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "overdrive distortion\nhttps://www.fulltone.com/products/ocd-v2",
+    "hrid": "fulltone-ocdv2"
+}

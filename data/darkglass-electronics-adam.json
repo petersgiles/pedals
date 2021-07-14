@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30871",
+    "name": "ADAM",
+    "image": "images/darkglass-electronics-adam.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$507 Price in €",
+    "width": 180,
+    "height": 120,
+    "details": "Aggressively Distorting Advanced MachineOut of the box, ADAM offers a bank of 5 IR Cabinet Simulations and the ability to add many more through the Darkglass Suite, via USB or wirelessly via Bluetooth. In addition to a continuously increasing database of Impulse Responses, the Darkglass Suite also has the potential to load any custom IR that you may have, from different sources. Plus, as time goes on, there will be future upgrades that further increase the functionality of the pedal.\nThe Compressor section is based on an emulation of a classic rackmount FET compressor unit, plus ADAM also features a separate multiband compressor for the clean side chain. While the Drive section is based on all the various dirt tones Nolly uses and is known for, captured to perfection.\nADAM sports a unique and innovative touch slider interface for its 6-band EQ. Utilising fully-tactile slider potentiometers, each with multi-colour positioning LEDs, not only render ADAM visually appealing, they also make it extremely intuitive to use along with top-notch precision. In addition, all the main potentiometer controls also feature LED ‘light-rings’, so you can see what your settings are at a glance.\nThe three innovative, fully programmable rotating preset footswitches are capable of storing and instantly recalling your unique blend of compression, distortion, impulse responses, EQ parameters and signal chain settings.\nIncluding a USB-C audio interface and balanced stereo outputs for studio monitors, ADAM is also equipped with an accurate chromatic tuner that works perfectly with down-tuned guitars and basses too. Add in the latest Bluetooth A2DP technology to listen to backing tracks from your smartphone or tablet while playing, rehearsing or studying and a headphone output and the ADAM becomes one of the most helpful tools you will have to help you make music!\nMain Features:\nAdam “Nolly” Getgood signature pedal - captures his trademark signal chain in a compact enclosure\nExclusive blend of Compression, Distortion, Cabinet Simulation, EQ and signal chain settings\nThree separately switchable channels controlled via 3 multi-function switches (push/rotate) A / ‘FET-Style’ Compressor - 5 modes + bypass\nB / Distortion - 5 modes + bypass\nC / Cabinet simulation - 5 Impulse Responses + bypass\nSeparate Clean side-chain Multiband Compressor\n6-band graphic equalizer with unique touch sensitive sliders\n5 potentiometer controls for Compression, Drive, Character, Blend and Level\nIntegrated HQ headphone amp with separate volume control\nFree Darkglass Suite via USB for PC/Mac or Bluetooth via mobile app for loading additional IRs\ncontrol of Bluetooth audio in\ncontrol of audio interface\nTwo balanced 6.3 mm (Left/Right). balanced XLR and 3.5 mm headphone outputs\nBluetooth and 3.5 mm Aux connections (allows jamming with backing tracks)\nUSB-C audio interface\nMIDI IN via 3.5 mm TRS\nPowered by 9 V DC PSU (centre -, 2.1 mm, ~ 500 mA current draw)\nhttps://www.darkglass.com/creations/adam/",
+    "hrid": "darkglass-electronics-adam"
+}

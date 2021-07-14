@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12174",
+    "name": "VT-3",
+    "image": "images/roland-vt-3.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 210,
+    "height": 175,
+    "details": "Voice Transformer Vocoder Formant Filter\nhttps://www.roland.com/global/products/vt-3/",
+    "hrid": "roland-vt-3"
+}

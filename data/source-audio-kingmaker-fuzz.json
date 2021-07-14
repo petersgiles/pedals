@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24698",
+    "name": "Kingmaker Fuzz",
+    "image": "images/source-audio-kingmaker-fuzz.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "3 mode FuzzInside the Kingmaker Fuzz's compact enclosure live the sizzling tones of over 50 years of fuzz and overdrive technology. On its own the Kingmaker features three killer fuzz tones including a highly saturated yet articulate fuzz for violin-like lead tones and pummeling rhythm, a responsive fuzz that cleans up nicely with reduced input signal, and an octave circuit that unleashes a screaming, octave fuzz in the style of vintage Octavio pedals. Connect the Kingmaker to the Neuro Desktop Editor or Mobile App (free download for iOS,Android, Mac, and Windows) and access a massive collection of additional overdrive, fuzz and distortion tones with extended parametric EQ capabilities, stereo routing options, and internal stacking functionality. ​​\nhttps://www.sourceaudio.net/kingmaker-fuzz.html",
+    "hrid": "source-audio-kingmaker-fuzz"
+}

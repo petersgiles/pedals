@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12010",
+    "name": "Gate",
+    "image": "images/hotone-gate.jpg",
+    "function": [
+        "Utility",
+        "Noise Gate"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$73 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Noise Supressor & GateThe Hotone Gate is an effective way to get silence annoying hiss and static from your signal when you're not playing. It's got a very smooth algorithm that gradually silences depending on the gate threshold you choose. It's musical and subtle without cutting into notes. You can tailor to just come on when the notes die away leaving silent bliss in between songs. A Hard gate can be chosen with the press of a switch. Also provides adjustable low and high cut filters to target specific frequencies. [Cheaperpedals.com]",
+    "hrid": "hotone-gate"
+}

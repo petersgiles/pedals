@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11444",
+    "name": "Canyon",
+    "image": "images/electro-harmonix-canyon.jpg",
+    "function": [
+        "Delay",
+        "Looper"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$174 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Delay and looperPacked with more power than pedals taking up more real estate, the compact Canyon features a collection of awe-inspiring effects. From pristine digital delay to warm and warbly tape echo, reverse and modulated delays, cascading octave delay and shimmer… even an exquisite Deluxe Memory Man emulation. There are ten different effects in all plus a fully featured looper. Internal or external Tap Tempo with tap divide and a chasm full of intuitive secondary knob controls deliver a truly grand experience.\nFeatures 11 modes:\n1. ECHO: digital delay \n2. MOD: modulated delay\n3. MULTI: multi-tap delay\n4. REVRS: reverse delay\n5. DMM: Deluxe Memory Man\n6. TAPE: tape delay\n7. VERB: reverb plus delay\n8. OCT: octave delay\n9. SHIM: shimmer\n10. S/H: sample and hold\n11. LOOP: looper mode w/max loop length of 62 seconds\nhttps://www.ehx.com/products/canyon",
+    "hrid": "electro-harmonix-canyon"
+}

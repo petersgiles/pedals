@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21023",
+    "name": "Torpedo C.A.B. M",
+    "image": "images/two-notes-torpedo-c.a.b.-m.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 96,
+    "height": 121,
+    "details": "TORPEDO “CABINETS IN A BOX” M: the best speakersim stombox gets better",
+    "hrid": "two-notes-torpedo-c.a.b.-m"
+}

@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12952",
+    "name": "OWL Pedal",
+    "image": "images/rebel-technology-owl-pedal.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital",
+        "Distortion",
+        "Filter",
+        "Flanger",
+        "Phase Shifter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Rebel Technology",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$302 Price in €",
+    "width": 130,
+    "height": 110,
+    "details": "An open source. fully programmable. FX pedal.The OWL Pedal is an open source, programmable stage effects pedal, made for guitarists, musicians, hackers and programmers. Users can program their own effects, or download ready-made patches from our growing online patch library.\nIt boasts more than 150 patches, including polyphonic synthesisers, drum machines, glitchers, phasers, flangers, loopers, droners, delays, reverbs, crushers, shapers, screamers, laughers and more. 40 of these patches come pre-loaded, with the possibility of storing your own selection on the device. It is powered by standard 9v DC or USB, and you don’t need to connect a computer to use it.\nHardware\n8kHz to 96kHz sampling rate\n24 bit stereo codec\n3500 operations per sample @ 48kHz\nPowerful STM32F4 microcontroller:\n168MHz 32bit ARM Cortex M4\n192Kb RAM, 1Mb Flash memory\nIntegrated DSP, FPU, DMA\n1Mb 10nS SRAM\nUSB MIDI\nConnections\n2 1/4inch Audio Inputs\n2 1/4inch Audio Outputs\n1 Expression Pedal Input\n1 Micro USB\n1 9v DC\nhttp://www.rebeltech.org/products/owl-pedal/",
+    "hrid": "rebel-technology-owl-pedal"
+}

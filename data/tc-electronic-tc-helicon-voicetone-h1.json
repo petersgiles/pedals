@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23315",
+    "name": "TC HELICON VoiceTone H1",
+    "image": "images/tc-electronic-tc-helicon-voicetone-h1.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 12 V / DC / Negative Center",
+    "cost": "",
+    "width": 90,
+    "height": 140,
+    "details": "Vocal harmonizerAmazing guitar-sensing feature keeps your harmonies in tune\nKey selector lets you dial in harmonies to fit a particular song\nHigh quality signal path and tough enclosure\nCan be chained to additional VoiceTone Singles\nRemote on/off via optional TC-Helicon MP-75 mic\nRoadworthy die-cast metal case\nBalanced XLR in/out\nPhantom power\nhttps://www.tc-helicon.com/Categories/Tchelicon/Vocal/Stompboxes/VOICETONE-H1/p/P0DE1",
+    "hrid": "tc-electronic-tc-helicon-voicetone-h1"
+}

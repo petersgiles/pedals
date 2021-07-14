@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14477",
+    "name": "Space Spiral",
+    "image": "images/earthquaker-devices-space-spiral.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "38 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 64,
+    "height": 125,
+    "details": "Modulated DelayThe Space Spiral is a dark and dreamy modulated delay designed to take you across the highways of fantasy. While the delay may be designed around a “dawn of digital” echo processor, the sound is out of this world, man. If you are a fan of the dreary echoes produced by old oil can delays or the ethereal sound of a well-loved tape delay, the Space Spiral is totally going to tickle your tone bone.\nThe Space Spiral’s delay time ranges from a tight 30ms to a fast and loose 600ms. Can you imagine having 600ms of delay time at your fingertips? Out of this world! With all of this adjustable delay time you create anything from a classic slapback to a rhythmic wash of cosmic proportions. You want to take it even further? Maybe to an astral plane? Crank up the repeats and let the infinite oscillation of the Space Spiral take you to the other side.\nSpace Spiral™… It’ll get you through the night.\nhttps://www.earthquakerdevices.com/space-spiral",
+    "hrid": "earthquaker-devices-space-spiral"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17659",
+    "name": "Rusty Fuzz",
+    "image": "images/tc-electronic-rusty-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$60 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Silicon-Based Fuzz with Vintage Gated and Velcro-Like TonesRUSTY FUZZ delivers those vintage silicon-based fuzz tones of yesteryear that we’ve all come to know and love, but at a price point so low everyone can play along. From silky-smooth sustain to ripping velcro-fuzz tones, RUSTY FUZZ does it all! So whether you’re experienced or not (See what we did there?), this compact true bypass pedal is sure to cover your old-school Fuzz Face craving.\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/RUSTY-FUZZ/p/P0CAX",
+    "hrid": "tc-electronic-rusty-fuzz"
+}

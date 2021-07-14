@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21580",
+    "name": "Harbinger",
+    "image": "images/matthews-effects-harbinger.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "RAT",
+    "hrid": "matthews-effects-harbinger"
+}

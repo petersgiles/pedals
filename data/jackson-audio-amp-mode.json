@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26317",
+    "name": "Amp Mode",
+    "image": "images/jackson-audio-amp-mode.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 46,
+    "height": 102,
+    "details": "MOSFET transistor boostThe AMP MODE Boost is a MOSFET transistor boost and is the exact same circuit that is found in our best selling PRISM Preamp! Ask anyone who owns a PRISM and they'll most likely tell you that their favorite mode of the PRISM is the AMP MODE.\nSince we released the PRISM in 2016, we have been inundated with requests to come out with a stand-alone product based on the AMP MODE of the PRISM. You asked and we listened!\nhttps://jackson.audio/products/ampmode",
+    "hrid": "jackson-audio-amp-mode"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20952",
+    "name": "Choka Tremolo",
+    "image": "images/tc-electronic-choka-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$62 Price in €",
+    "width": 74,
+    "height": 132,
+    "details": "Vintage-Flavored All-Analog Tremolo PedalTremolo is one of the most subtle and easy-to-use modulation effects, and should be part of any good amp – but sadly, that’s not always the case. CHOKA TREMOLO’s brings this sweet vibe to your setup with an intuitive 3-knob layout that lets you crank out fast waves that can either cut deep or shallow furrows across your tone, or build slow tides that ebb and flow with just the right amount of white-capped, tube-laden goodness to produce the ultimately-sublime surf tone.\nSurf’s up, bro! Hang loose!\n•    Vintage style tremolo pedal\n•    All-analog circuitry\n•    True Bypass\n\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/CHOKA-TREMOLO/p/P0CQC",
+    "hrid": "tc-electronic-choka-tremolo"
+}

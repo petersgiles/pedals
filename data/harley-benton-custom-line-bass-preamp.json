@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28078",
+    "name": "Custom Line Bass Preamp",
+    "image": "images/harley-benton-custom-line-bass-preamp.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Dynamics",
+        "Equalizer",
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$92 Price in €",
+    "width": 128,
+    "height": 93,
+    "details": "Bass Preamphttps://www.thomann.de/de/harleybentoncustomlinebassdiexpander.htm?offid=1&affid=164",
+    "hrid": "harley-benton-custom-line-bass-preamp"
+}

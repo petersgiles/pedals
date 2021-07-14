@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12738",
+    "name": "NR300 Noise Reducer",
+    "image": "images/behringer-nr300-noise-reducer.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-nr300-noise-reducer"
+}

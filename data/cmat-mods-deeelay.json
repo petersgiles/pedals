@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18921",
+    "name": "Deeelay",
+    "image": "images/cmat-mods-deeelay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "CMAT Mods",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "cmat-mods-deeelay"
+}

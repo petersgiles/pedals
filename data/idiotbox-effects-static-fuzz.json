@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11822",
+    "name": "Static Fuzz",
+    "image": "images/idiotbox-effects-static-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 63,
+    "height": 115,
+    "details": "FuzzThe Static Fuzz is a fuzz that filters through a white noise generator. \nDrive, Volume, Tone and White Noise controls.\n4.4\" x 2.4\" x 1.2\" enclosure, true bypass switching, common 9vdc center negative BOSS style power input and battery snap.\nCurrent draw 3.1mA.\nhttp://idiotboxeffects.bigcartel.com/product/static-fuzz",
+    "hrid": "idiotbox-effects-static-fuzz"
+}

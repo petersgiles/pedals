@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22042",
+    "name": "Leveline",
+    "image": "images/mooer-leveline.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$95 Price in €",
+    "width": 55,
+    "height": 128,
+    "details": "Volume PedalA volume pedal is one of the most essential elements in many professional musicians rigs. It can be used in many different ways to adjust signal level or create interesting effects depending where it is used in the signal chain. A common problem with traditional volume pedals, particularly for guitarists with crowded pedalboards, is they are very large and not easy to place in different parts of the signal chain.\nThe MOOER Leveline provides comfortable operation, smooth transition with no loss of tone and a very convenient size for squeezing into tight spots on your pedalboard and easy transportation.\nhttp://www.mooeraudio.com/product/Leveline-179.html",
+    "hrid": "mooer-leveline"
+}

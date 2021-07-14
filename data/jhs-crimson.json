@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27960",
+    "name": "Crimson",
+    "image": "images/jhs-crimson.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 91,
+    "height": 144,
+    "details": "Recreation of the green Russian Big Muff Fuzz",
+    "hrid": "jhs-crimson"
+}

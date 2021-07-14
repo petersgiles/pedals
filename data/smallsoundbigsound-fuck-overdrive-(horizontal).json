@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22639",
+    "name": "Fuck Overdrive (Horizontal)",
+    "image": "images/smallsoundbigsound-fuck-overdrive-(horizontal).jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 129,
+    "height": 85,
+    "details": "Older horizontal version of the Fuck",
+    "hrid": "smallsoundbigsound-fuck-overdrive-(horizontal)"
+}

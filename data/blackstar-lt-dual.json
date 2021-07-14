@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12976",
+    "name": "LT-Dual",
+    "image": "images/blackstar-lt-dual.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 90,
+    "height": 122,
+    "details": "",
+    "hrid": "blackstar-lt-dual"
+}

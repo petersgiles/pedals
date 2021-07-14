@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12265",
+    "name": "LIVE Multiverb Unit",
+    "image": "images/shift-line-live-multiverb-unit.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "ReverbThe pedal’s diverse sound is constituted by 8 reverb algorithms (patches) that add depth and color to the guitar signal via different reverberation types, such as room, long hall, plate, spring and organ hall. The available algorithms provide reverb types that fit any style of music and are specifically programmed to let you achieve a great sound by simply choosing an algorithm and adjusting the mix. \nLIVE can be used as a standalone device for acoustic sounds; add a distortion pedal to it, and you’ll get a minimal but sufficient pedalboard for any style of music, from jazz and Soviet pop to really heavy genres. \nTogether with a distortion pedal, LIVE will provide a bright, clean and dynamic sound with a 100% analog dry signal path in a compact and lightweight casing (just 350 grams). \nhttp://shift-line.com/card.php?device=10082",
+    "hrid": "shift-line-live-multiverb-unit"
+}

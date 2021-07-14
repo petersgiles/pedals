@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12194",
+    "name": "MX400",
+    "image": "images/behringer-mx400.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 102,
+    "height": 57,
+    "details": "Micromix MX400 4-channel Mono Mixer, with 4 x TS Inputs and 1 x TS Out",
+    "hrid": "behringer-mx400"
+}

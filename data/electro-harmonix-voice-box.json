@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14938",
+    "name": "Voice Box",
+    "image": "images/electro-harmonix-voice-box.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Vocal Harmony Machine/VocoderQuick Specs\nHarmonically matches any electric instrument you plug into it\nProfessional quality pitch shifting algorithm produces realistic harmonies\nThe Low & High Harmony independently produces two harmony notes: 3rd and 5th\n9 accessible programmable presets\nNatural Glissando\nGender Bender knob allows for male/female formant modification\nBuilt-In Mic Pre with Phantom Power & Gain Switch\nBalanced XLR Line Output: Interface directly with any mixing board or A/D converter\nUS96DC-200BI power supply included\nDimensions in inches: 4.75 (w) x 5.75 (l) x 2.5 (h)\nDimensions in mm: 146 (w) x 121 (l) x 64 (h)\nhttps://www.ehx.com/products/voice-box",
+    "hrid": "electro-harmonix-voice-box"
+}

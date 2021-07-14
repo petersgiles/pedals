@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18516",
+    "name": "CabDryVR",
+    "image": "images/digitech-cabdryvr.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 67,
+    "height": 112,
+    "details": "The new DigiTech CabDryVR Dual Cabinet Simulator pedal features a selection of 14 all new great sounding guitar and bass cabinet impulse responses. Now you can run direct from your pedal board or preamp through the CabDryVR to your mixing board, in-ear monitors or DAW and get high quality cabinet emulation without the need for a real cabinet.  \nhttps://digitech.com/en/products/cabdryvr",
+    "hrid": "digitech-cabdryvr"
+}

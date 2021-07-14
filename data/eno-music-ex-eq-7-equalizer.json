@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18052",
+    "name": "EX EQ 7 Equalizer",
+    "image": "images/eno-music-ex-eq-7-equalizer.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 41,
+    "height": 94,
+    "details": "7 Band EQ Mini PedalFeatures:\nEqualizer pedal with true bypass designed for electric guitars.\n7-band EQ slider, ±15dB adjustable gain range per band.\n7 frequency centers: 63Hz, 125Hz, 250Hz, 500Hz, 1.0KHz, 2.2KHz, 5KHz.\nWith one slider for adjusting the level of overall output.\nON/OFF LED for indicating effects or bypass status.\nFull metal shell and compact size, durable and portable.\nComes with a small pouch for convenient storage and carry.\nSpecifications:\nInput: 1/4\" monaural Jack(impedance 510K Ohms)\nOutput: 1/4\" monaural Jack (impedance 1K Ohms)\nCurrent Draw: 10mA\nPower Supply: DC 9V AC adapter (center minus plug)\nItem Size: 9.5 * 4 * 3.5cm / 3.7 * 1.6 * 1.4in\nItem Weight: 150g / 5.3oz\nhttps://www.tomtop.com/p-i3115.html",
+    "hrid": "eno-music-ex-eq-7-equalizer"
+}

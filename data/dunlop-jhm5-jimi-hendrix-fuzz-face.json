@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23386",
+    "name": "JHM5 Jimi Hendrix Fuzz Face",
+    "image": "images/dunlop-jhm5-jimi-hendrix-fuzz-face.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "",
+    "hrid": "dunlop-jhm5-jimi-hendrix-fuzz-face"
+}

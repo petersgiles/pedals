@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12088",
+    "name": "OCT-1 Octaver",
+    "image": "images/eno-music-oct-1-octaver.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "TC-01\nhttp://www.ex-amp.com/?p=737",
+    "hrid": "eno-music-oct-1-octaver"
+}

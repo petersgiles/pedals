@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18673",
+    "name": "Bitcrusher Custom",
+    "image": "images/hexe-guitar-electronics-bitcrusher-custom.jpg",
+    "function": [
+        "Digital",
+        "Digital Glitch",
+        "Distortion",
+        "Sampling"
+    ],
+    "manufacturer": "Hexe Guitar Electronics",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$392 Price in €",
+    "width": 92,
+    "height": 117,
+    "details": "Lo-Fi digital distortionIn addition to real bitcrushing (messing up the digital sample) the pedal features a flexible and nice sounding downsampler with modulation option. Downsampling utlizes an aliasing effect to inject\na rich harmonic content into the signal.\nGenerally speaking, a bitcrusher is an example of creation though destruction process.\nIt downgrades the signal in a very musical fashion. If you ever heard an audiophile talking about his \"system\", what this pedal does is exactly the opposite.\nFeatures:\n 2bit digital signal path, instead of a classic bit reduction effect, the BCIII distorts the sample\nin a more unique, musical sounding way,\n downsampling can be static, LFO modulated or externally controlled via the expression pedal input,\n INPUT GAIN switch allows to match the input signal level and makes the pedal more versatile when working with different types of instruments,\n thanks to the BLEND control, the pedal is very bass friendly!\n the latest revision of the pedal has an internal Filter Type switch, allows to switch the TELEPHONE filter between a band pass (stock) or lowpass type (perhaps more useful when the pedal is used as a classic distortion),\n reliable, long lasting relay based true bypass, the footswitches do not carry any audio signal.\nControls:\n CRUSH, bit mess/digital distortion parameter,\n DOWNSAMPLE, sets the sampling frequency, range from 32kHz (at zero) to 1kHz (at max),\n TELEPHONE, bandpass (350Hz-3.5kHz) filter for ultra lo-fi sound,\n BLEND, dry/wet mix ratio knob,\n LEVEL, output volume regulator,\n EXP In, expression pedal input (jack stereo),\n EXP Pedal Assign, switch, allows to assign the Crush, Downsample or both of them together to the expression pedal,\n INPUT GAIN, settings: signle coil, humbucker, line level signal.\n MODULATE, activates/deactivates the modulation mode for the DOWNSAMPLE parameter,\n ON/OFF, true bypass footswitch,\n internal FILTER TYPE switch, allows to choose the TELEPHONE filter response (bandpass or lowpass).\nhttp://www.hexeguitar.com/pedals/bc3",
+    "hrid": "hexe-guitar-electronics-bitcrusher-custom"
+}

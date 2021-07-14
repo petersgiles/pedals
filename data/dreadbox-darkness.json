@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32628",
+    "name": "Darkness",
+    "image": "images/dreadbox-darkness.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$280 Price in €",
+    "width": 100,
+    "height": 140,
+    "details": "Digital Stereo ReverbDarkness is the deficiency or absence of light. I Love You But I’ve Chosen Darkness…\nDreadbox DARKNESS is a Digital Stereo Reverb effect pedal suitable for fretted instruments and synthesizers. Instead of having several switched algorithms, DARKNESS has a single versatile and flexible algorithm, that can create from small and smooth reflections up to huge shimmering and endless reverbs.\n\nFlexible Shimmer Reverb with Gate function\n32bit @ 48kHz Digital Effects Processor\nVariable Time Scale with Modulation (Triangle or Sample & Hold)\nSelectable Pitch Shift (+/-12 semitones) with variable mix amount for shimmering sounds\nUp to 30sec Decay Times\n2-Pole Damping Filter (High Pass or Low Pass)\nFreeze function (loops 150ms of the input signal)\nVersatile Gate effect with variable Attack and Release Times\nTrue Stereo (Input and Output)\nSelectable Tails Bypass\n\nhttps://www.dreadbox-fx.com/darkness/",
+    "hrid": "dreadbox-darkness"
+}

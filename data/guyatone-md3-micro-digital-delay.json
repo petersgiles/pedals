@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27346",
+    "name": "MD3 Micro Digital Delay",
+    "image": "images/guyatone-md3-micro-digital-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 97,
+    "details": "The Micro Digital Delay Pedal offers the most authentic note reproduction of any delay device available, period. Notes come back exactly as you played them: Not rounder, harsher, warmer, colder, or altered in any manner whatsoever. If you've ever played a tape echo, you know that their tone is not dark sounding like some people claim, but actually quite bright and clear. The MD-3 gives the user the crispness and clarity of a tape echo combined with the longer delay time of a digital device, while its controls react like an analog unit. 30-2600 milliseconds of delay time are available; more than enough to create an entire range of classic delay effects from rockabilly slapback to arena-rock washes of excess and everything in between. \nAt higher feedback setting (above 3 o'clock) the MD-3 will self-oscillate like an analog delay, creating cacophonous cascades of repeats, UFO-landings, ray guns, and other bizarre sound effects. \nAt lower feedback settings (around 2 o'clock) the MD-3 digital effects pedal can be used for multi-layering of short parts, creating beautiful, ethereal soundscapes that slowly fade into infinity. In addition, the MD-3 Delay has a lower current draw than other digital units, which means you'll spend less time changing batteries and more time playing!",
+    "hrid": "guyatone-md3-micro-digital-delay"
+}

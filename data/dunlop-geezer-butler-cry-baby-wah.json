@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19721",
+    "name": "Geezer Butler Cry Baby Wah",
+    "image": "images/dunlop-geezer-butler-cry-baby-wah.jpg",
+    "function": [
+        "Bass",
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 100,
+    "height": 252,
+    "details": "Signature Bass WahDesigned specifically for Geezer Butler, with internal Q control that is factory-set to Geezer Butler’s preferences.\nhttps://www.jimdunlop.com/product/gzr95-7-10137-09614-1.do?sortby=ourPicks&refType=&from=fn&ecList=&ecCategory=",
+    "hrid": "dunlop-geezer-butler-cry-baby-wah"
+}

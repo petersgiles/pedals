@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12892",
+    "name": "BF-2B Bass Flanger",
+    "image": "images/boss-bf-2b-bass-flanger.jpg",
+    "function": [
+        "Bass",
+        "Flanger"
+    ],
+    "manufacturer": "Boss",
+    "current": "14 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Bass FlangerBy optimizing the BF-2 circuit for a lower frequency band, the BF-2B Bass Flanger was born. The Bass Flanger was not directly replaced when the BF-2B production stopped. After almost 10 years Boss replaced it with the BF-3.\nThe BF-2B Bass Flanger adds swirling and dynamic effects to the bass sound. The bass fundamentals remain untouched as flanging is added to the harmonics only. The LFO (Low Frequency oscillator) is variable between 100ms and 16 seconds and this gives a wide specter of flanging sounds. The MANUAL knob controls the delay time, the DEPTH knob controls the sweep range, the RATE knob sets the sweep speed and the RESONANCE knob sets the amount of feedback desired.\nSpecifications\nControls: Manual, Depth, Rate, Res\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 14 mA (DC 9V)\nWeight: 400 g (15 oz.)\nInput Impedance: 470 kOhm\nResidual Noise Level: -95 dBu (IHF-A, Typ.)\nRecommended Load Impedance: 10kOhm or greater\nDelay Time: 0.5 ms ~ 6.5 ms\nLFO Speed: 100 ms ~ 16 s\nRecommended AC Adaptor: ACA Series\nLabels\nGreen – Made In Japan\nGreen – Made In Taiwan\nThe BF-2B was sold from February 1987 to November 1994.\nhttp://www.bossarea.com/boss-bf-2b-bass-flanger/",
+    "hrid": "boss-bf-2b-bass-flanger"
+}

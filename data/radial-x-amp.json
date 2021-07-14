@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28905",
+    "name": "X-Amp",
+    "image": "images/radial-x-amp.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "400 mA / 15 V / DC / Positive Center",
+    "cost": "$199 Price in €",
+    "width": 140,
+    "height": 89,
+    "details": "Active re-amperThe Radial X-Amp™ is an active Re-amper™ that allows the engineer to play a pre-recorded track back through guitar amplifiers and pedals. \nhttps://www.radialeng.com/product/x-amp",
+    "hrid": "radial-x-amp"
+}

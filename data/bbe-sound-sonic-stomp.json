@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11736",
+    "name": "Sonic Stomp",
+    "image": "images/bbe-sound-sonic-stomp.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "Sonic Maximizer Upgrade everything with the all-analog Sonic Stomp, the one piece of gear which improves the performance of your whole rig. Whether you’re a guitarist or bassist, get ready to be amazed. With Sonic Stomp’s proprietary BBE Sonic Maximizer technology, you’ll hear your amp cut through the band mix better with dramatically improved note definition in chords and solos. Even with a wall of distortion, the distinct harmonic elements of each note can be heard like never before. Time-based effects take on a level of realism and dimension you never thought possible. And if low-end punch is your thing, you’ll discover the Lo Contour control is the ticket to meaty chunk without the mud.\nIt’s like lifting a blanket off your amp to reveal the full potential of your gear and your musical expression. When you’re ready to Maximize Your Tone, get your hands on a Sonic Stomp.\nhttp://bbesound.com/products/stomp-boxes/Sonic-Stomp_SS-92.aspx",
+    "hrid": "bbe-sound-sonic-stomp"
+}

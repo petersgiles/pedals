@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15884",
+    "name": "dB+ V2 Buffer / Clean Boost Pedal",
+    "image": "images/wampler-db+-v2-buffer--clean-boost-pedal.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 40,
+    "height": 90,
+    "details": "Boost pedal made by Wampler\nhttps://www.sweetwater.com/store/detail/DBPlus?gclid=CjwKCAiAk4XUBRB5EiwAHBLUMQ0MDvZSt2VrjsJoTdQ1Hrb9ZQ96WA3Kr2OBzHHB-drr3EhnoVVUMRoCTioQAvD_BwE",
+    "hrid": "wampler-db+-v2-buffer--clean-boost-pedal"
+}

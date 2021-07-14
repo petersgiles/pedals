@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11886",
+    "name": "EF103 Guitar Disruptor (OG Big Box)",
+    "image": "images/electro-faustus-ef103-guitar-disruptor-(og-big-box).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Faustus",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 132,
+    "height": 76,
+    "details": "Distortion",
+    "hrid": "electro-faustus-ef103-guitar-disruptor-(og-big-box)"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11446",
+    "name": "Alter Ego X4 Vintage Echo",
+    "image": "images/tc-electronic-alter-ego-x4-vintage-echo.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$312 Price in €",
+    "width": 235,
+    "height": 145,
+    "details": "Vintage echo / looperAlter Ego X4 Vintage Echo's 12 delay types\n– Binson Echorec 1*\n– Binson Echorec 2\n– Electro-Harmonix Deluxe MemoryMan Chorus\n– Electro-Harmonix Deluxe MemoryMan Vibrato*\n– Tel Ray Organ Tone\n– TC Electronic 2290 Modulated\n– Reverse Modulated\n– Boss DM-2\n– Watkins Copykat\n– Maestro Echoplex 2*\n– Electro-Harmonix Echo Flanger*\n– Roland Space Echo\n* exclusive to X4\nTonePrint slots 1 to 4\nThe slots “1”, “2”, “3” and “4” of the Delay Type Selector are “placeholders” for TonePrints. You can load one TonePrint into each of these slots, giving you access to four additional TonePrints.\nThe Alter Ego X4 Vintage Echo comes equipped with the following default TonePrints:\n– Delay TonePrint by Steve Morse\n– Basic Delay TonePrint by Bumblefoot\n– Basic Delay TonePrint by Doug Aldrich\n– Synth Delay by James “Munky” Shaffer\nhttps://www.tcelectronic.com/product.html?modelCode=P0CLI",
+    "hrid": "tc-electronic-alter-ego-x4-vintage-echo"
+}

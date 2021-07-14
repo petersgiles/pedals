@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17519",
+    "name": "Defector",
+    "image": "images/foxpedal-defector.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Foxpedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "FuzzFOR YOUR EYES ONLY: This former fuzz intelligence officer has snuck across our borders and is ready to trade state secrets for its freedom. Bringing with it all the fuzz it could pack in this little case, it packs a punch like no other. Classic Russian muff tones can certainly be had, but that's not what has the Kremlin sweating this breach.\nThe independent \"Pre\" linear clean boost pushes the fuzz into full saturation at the touch of a button (notably, it also works standalone, but we really shouldn't leak that little secret to the public at large). Mid tones can be shaped from the full classic mid scoop, through flat mids all the way down to a mid hump.\nClassic silicon clipping gives you the breakup you know and love, switch to LED clipping for a more open attack, or (if you dare) go full Red Dawn by lifting the clipping diodes all together. Unbutton the hood and adjust the signal saturation via a trimpot on the PCB. And last but not least, enter the secret code to unlock the fuzz feedback mode -- a highly interactive and dare we say, dangerous, fuzz revolution.\nFeatures:\nClassic four-stage transistor Fuzz\nIndependent linear pre-boost.\nSpecial \"Feedback\" mode unlocks crazy tones\n3-way clipping switch\nMids control gives full control over tone\nHand-wired Neutrik top-mount jacks\nSoft-touch switching\n9V Center-negative standard power supply\nHandmade in Richland, WA, USA\n\nCurrent Draw: ~20mA\nhttps://foxpedal.com/products/defector",
+    "hrid": "foxpedal-defector"
+}

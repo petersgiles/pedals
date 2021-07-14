@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26971",
+    "name": "8-Bit Power Synthesizer",
+    "image": "images/rucci-electronics-8-bit-power-synthesizer.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 145,
+    "height": 121,
+    "details": "Lo-Fi 8-Bit SynthThe 8-Bit Power Synthesizer produces lo-fi sounds reminiscent of retro video games. It has a single octave keyboard with an octave control knob to sweep through a full six octaves. It is monophonic and only the highest key pressed will sound.\nSeven different modes allow for lots of variety and are selectable with a mode control knob. A drone switch plays the last pitch played indefinitely, hands free. There is also a speed control to manipulate patches as well as a low-pass filter and volume control.\nModes\n1. Simple Square-wave\n2. Oscillating between two octaves\n3. Ramping up and down by octave\n4. Minor Pentatonic Arpeggios (Key selects the root)\n5. Vibrato\n6. Random Octave (Octave control sets maximum range.)\n7. Drum Loop Mode (26 loops selectable with each key and drone switch. Octave control acts as pitch control in this mode.)\nA CV input (0-5V, 1/8” jack) overrides the octave control. Clock Out (5V, 1/8” jack) provides pulses in time with suitable modes to sync with other devices. CV IN is located next to Power IN and Clock OUT is next to Audio OUT. \nThe die-cast aluminum enclosure is painted with an NES inspired light-gray paint job. This was designed and hand-built in Oakland, California.\nAudio Out: 1/4″ mono\nClock Output: 1/8″ mono (5V)\nCV Input: 1/8″ mono (0-5V), overrides octave control\nPower: 9V Battery or 9V DC Center-Negative\n\nhttps://handmadeelectronicinstruments.com/product/8-bit-power-synthesizer/",
+    "hrid": "rucci-electronics-8-bit-power-synthesizer"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18294",
+    "name": "Bass POD",
+    "image": "images/line6-bass-pod.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 260,
+    "height": 180,
+    "details": "Bass Amp ModelerBass POD Features\nBass Amp Models: 16, customizable\nDigital Effects: 16\nCabinet Models: 16\nUser Programmable Channels: 36\nHeadphone out & Midi: Yes\nD.I. Output: Direct Out with optional Apply FX to D.I. switch\nPower: N/A\nConfiguration: Bass Guitar\nAward winning Line 6 Amp Models that emulate an all-star collection of legendary amplifiers.\n36 user memory locations so that you can create your own customized collection of killer sounds. Organize them to match your set list, your session needs, or any doggone thing you want. After all, it's YOUR POD!\nSeparate Headphone output to keep your neighbors (or your spouse, for that matter) from staging a counterattack when you're writing that first big hit in your apartment at 3am.\nChromatic Tuner, because playing out of tune isn't cool.\nCabinet Tuning Mode. The Amp/Direct switch allows POD to be optimized for different applications. Select Direct when running POD directly into a mixer or recorder. Select Amp when using POD as a tone-shaping front end for another amp. POD delivers several tuning modes for the Amp position, selectable at power-up. For example, by default, POD products for guitar expect to be plugged into the guitar input of an open-backed combo. Other tuning modes allow POD to be optimized for connection to the power amp input of a closed-back system, or into closed-back cabinets.\nhttps://line6.com/legacy/basspod/",
+    "hrid": "line6-bass-pod"
+}

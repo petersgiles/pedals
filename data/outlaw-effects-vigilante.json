@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21718",
+    "name": "Vigilante",
+    "image": "images/outlaw-effects-vigilante.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Outlaw Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 80,
+    "height": 173,
+    "details": "Low Profile Chorus",
+    "hrid": "outlaw-effects-vigilante"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11785",
+    "name": "Supa Trem ST-1",
+    "image": "images/fulltone-supa-trem-st-1.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 152,
+    "height": 82,
+    "details": "",
+    "hrid": "fulltone-supa-trem-st-1"
+}

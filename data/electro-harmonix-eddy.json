@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32299",
+    "name": "Eddy",
+    "image": "images/electro-harmonix-eddy.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Chorus / VibratoBucket-brigade based vibrato and chorus with an all analog signal path\nEnvelope and EXP pedal control over modulation rate and depth expand the versatility of the Eddy’s classic sounds\nLFO shape warping can take the modulation shape from standard to totally asymmetric\nTone knob lets you tweak the tonality of the effect\nPedalboard friendly footprint, but a full complement of controls\nWhite status LED plus a blue strobing LED to display the modulation rate and shape\nPower adapter included\nhttps://www.ehx.com/products/eddy/",
+    "hrid": "electro-harmonix-eddy"
+}

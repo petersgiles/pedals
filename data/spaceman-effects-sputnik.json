@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19670",
+    "name": "Sputnik",
+    "image": "images/spaceman-effects-sputnik.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 76,
+    "height": 127,
+    "details": "Spaceman SputnikThe Sputnik is a unique all-germanium fuzz featuring vintage Soviet transistors.  An extremely versatile fuzz in a compact enclosure, with three main control knobs enabling an uncommonly wide range of fuzz tones",
+    "hrid": "spaceman-effects-sputnik"
+}

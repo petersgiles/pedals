@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12147",
+    "name": "Phase Distortion PD1",
+    "image": "images/ross-phase-distortion-pd1.jpg",
+    "function": [
+        "Distortion",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ross",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 152,
+    "height": 127,
+    "details": "",
+    "hrid": "ross-phase-distortion-pd1"
+}

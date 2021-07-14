@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22008",
+    "name": "SE-PEQ",
+    "image": "images/artec-se-peq.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Artec",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$36 Price in €",
+    "width": 75,
+    "height": 115,
+    "details": "Parametic EQLow cost parametric eq with true bypass\nhttp://artecsound.com/effect/se-peq.htm",
+    "hrid": "artec-se-peq"
+}

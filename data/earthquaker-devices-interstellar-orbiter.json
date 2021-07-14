@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15356",
+    "name": "Interstellar Orbiter",
+    "image": "images/earthquaker-devices-interstellar-orbiter.jpg",
+    "function": [
+        "Filter",
+        "Ring Modulator"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$230 Price in €",
+    "width": 121,
+    "height": 144,
+    "details": "Dual Resonant Filter",
+    "hrid": "earthquaker-devices-interstellar-orbiter"
+}

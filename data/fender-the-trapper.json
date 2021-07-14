@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32150",
+    "name": "The Trapper",
+    "image": "32150.b.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fender",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 124,
+    "height": 95,
+    "details": "Dual FuzzFuzz is essential to the sound of modern music. Ranging from smooth and polite to sputtering and broken-sounding, this effect is the heart of rock and roll. The Trapper® combines two discrete fuzz voices into one chassis with global Tone and Contour controls to shape your sound to taste. The softer-sounding first voice includes a switchable high octave—perfect for generating synth-like tones—while the grittier second voice includes a highly interactive noise gate.\nDesigned by our in-house team of experts, the Trapper® Dual Fuzz is an all-original Fender circuit. The chassis is crafted from lightweight, durable anodized aluminum, and the Amp Jewel LED gives your pedalboard the classic Fender look. The switchable LED-backlit knobs show your control settings on a dark stage at a glance.\nDual fuzz effect pedal\n    Two discrete fuzz voices\n    Switchable high octave\n    Interactive noise gate\n    Global Tone and Contour controls\nhttps://shop.fender.com/en-US/effects-pedals/boost-gain/the-trapper-dual-fuzz/0234545000.html",
+    "hrid": "fender-the-trapper"
+}

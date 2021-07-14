@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29964",
+    "name": "Dan Bulldog Tru FET Buffer",
+    "image": "images/lovepedal-dan-bulldog-tru-fet-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$105 Price in €",
+    "width": 39,
+    "height": 92,
+    "details": "Dumble style bufferA good buffer can help prevent tone sucking issues like the loss of signal level, decreased high end frequency response and a complete lack of low end punch. This Buffer goes a step further by making it small enough so it can find a home on any pedalboard and has a unique tone to it. Most buffers are meant to be boring, exact copies of your original signal feed to combat known issues such as cable capacitance and impedance issues. The Dan Bulldog actually sweetens up your tone! If you are wondering WHO the HECK is Dan Bulldog? Dan Bulldog is the translation in “another country” for Dumble Amplifiers. Now, we are not saying that your amp is instantly going to transform into a $30,000 Dumble OD Special by using our buffer but Dan Bulldog amplifiers are known to have a Tru FET input section and are generally sweeter sounding amplifiers because of this.. Chances are you’re missing something even though you thought you were safe with all of those true bypass pedals on your pedal board. 9VDC -18VDC input. Very low current draw (4mA).",
+    "hrid": "lovepedal-dan-bulldog-tru-fet-buffer"
+}

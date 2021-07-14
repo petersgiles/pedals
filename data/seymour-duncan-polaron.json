@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31620",
+    "name": "Polaron",
+    "image": "images/seymour-duncan-polaron.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 91,
+    "height": 122,
+    "details": "Analog PhaserAnalog phase shifters have been a huge part of the soundtrack to our lives. Their swirly, dreamy, spacey sounds can take a normal tone and transform it into something otherworldly. Some phasers are super-simple one-knob affairs, others are more complex machines. The Polaron is the perfect blend of instant-gratification simplicity and deep, feature-rich sound design. \nThe soul of the Polaron is its adjustable 2– to 16–stage analog filter array, which provides an amazing range of phaser tones—from subtle pulses to radical sweeps, with rotary, vocal, and flange-type sounds along the way. In addition to Depth and Rate controls, the Tune and Resonance knobs allow you to further tailor your phase shifter effects. This 100% analog signal path delivers beautiful, warm sound quality, but we didn’t stop there. The Polaron also features a totally separate digital processor to control LFO and envelop follower functions, for maximum flexibility plus the ability to save and store presets.  \nIn LFO mode, the Polaron can be operated like a traditional phaser, manually adjusting the controls. You can also use the Tap Tempo function to sync the phasing to the groove. Engaging ENV mode lets your pick attack govern how the Polaron reacts, for a dynamic, interactive phase experience. Auto wah, talk box, and robot voices are all right there, along with more understated colors and textures. \nWhen you discover a great sound in the Polaron (which you will again and again), it’s easy to save it as a preset that you can recall at any time. This feature allows you to experiment, explore, and create, safe in the knowledge that you won’t lose yesterday’s or today’s favorite envelope, depth, rate, and tune settings.  \nThe Polaron Analog Phase Shifter—Any pedal can shift phase. This one can shift your perspective. \nLike all Seymour Duncan pedals, Polaron was dreamed, designed, and built right here in the US, and features true-bypass switching. \nhttps://www.seymourduncan.com/single-product/polaron",
+    "hrid": "seymour-duncan-polaron"
+}

@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11825",
+    "name": "Space",
+    "image": "images/eventide-space.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Multieffect",
+        "Pitch Shifter",
+        "Reverb",
+        "Tremolo",
+        "MIDI"
+    ],
+    "manufacturer": "Eventide",
+    "current": "500 mA / 9 V / DC / Positive Center",
+    "cost": "$500 Price in €",
+    "width": 190,
+    "height": 122,
+    "details": "Halls, Rooms, Plates from the Eventide flagship rack processors.Space offers a variety of spatial effects including basic reverbs, delays and unique combination effects.\n\n100 Presets, including Artist presets\nStudio Quality Sound\nInstant Program Change\nReal-time control with 10 knobs, MIDI or expression pedal\nTap Tempo and MIDI Clock Sync/Generate\nTrue Analog Bypass\nRugged cast metal construction\nMetal footswitches for instant Preset access\nMono or Stereo operation\nGuitar or Line Level Inputs and Outputs\nProgrammable HotSwitch\n\nhttps://www.eventideaudio.com/products/stompboxes/reverb/space",
+    "hrid": "eventide-space"
+}

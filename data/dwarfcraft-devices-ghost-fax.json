@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18158",
+    "name": "Ghost Fax",
+    "image": "images/dwarfcraft-devices-ghost-fax.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$249 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Phase ComputerWe are calling Ghost Fax a phase computer for a reason. Though traditionally an analog effect, it wouldn’t be a Dwarfcraft phaser if we didn’t add some new capabilities, along with the traditional features.\nThe pedal has four modes of operation: Standard, Manual, Envelope Up, and Envelope Down.  \nThe Poles knob allows users to select the number of all-pass filters used in the phase effect. The pedal has up to 32 poles, which means that audibly, there are sixteen different spots on the dial to visit. When the Ghost Hax is set for high feedback, switching pole settings also generates a unique, percussive sound reminiscent of a complex modular synth patch.\nA Feedback control allows users to tune in the “ringing” artifacts produced by the phaser, allowing for subtle phase shifting sounds to full on electronic sound generation.  \nThe Action knob controls the Speed, Phase, or Depth, depending on what mode you are in.\nGhost Fax also includes a Pause footswitch, giving users the ability to pause the motion of the phaser at any time.\nThe best part, though, is the secret settings. If you hold down both the Pause and Bypass switches, you unlock an additional bank of controls, depending on what mode you are in. \nPower Requirements= 75mA\nEnclosure Size = 4.7\" x 3.7\" x 2.2\" \nhttp://www.dwarfcraft.com/ghost-fax.html",
+    "hrid": "dwarfcraft-devices-ghost-fax"
+}

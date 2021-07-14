@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31686",
+    "name": "Polysaturator",
+    "image": "images/pigtronix-polysaturator.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 15 V / DC / Negative Center",
+    "cost": "",
+    "width": 112,
+    "height": 61,
+    "details": "JFET Distortion",
+    "hrid": "pigtronix-polysaturator"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11826",
+    "name": "Infinity Looper",
+    "image": "images/pigtronix-infinity-looper.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "200 mA / 18 V / DC / Negative Center",
+    "cost": "$450 Price in €",
+    "width": 188,
+    "height": 117,
+    "details": "Stereo looper\n2 Stereo Loops with Sync\nLoop 2 Multiplier x1, x2, x3, x4, x6\nSeries or Parallel Looping Modes\n50 presets (100 loops)\n24bit / 48kHz recording\nLatency Free Looping\nAnalog pass through of clean tone\nUSB access to saved loops\nSupports upload of virtually ANY audio format via USB\nInput Split for recording separate instruments on each loop\nRemote switch for UNDO/REDO, REVERSE, Rec>Overdub>Play, Instant Clear and Varispeed control\nSupports 256 (or more) overdubs per loop\nAux Loop Out for Drum Monitor\nExpression Pedal for Loop audio volume, Loop Aging and Varispeed control\nActive MIDI Beat Clock Sync\nComplete MIDI control of all functions\nVarispeed (pitch up & down) via MIDI or remote control\nREVERSE Playback\nVariable Feedback Decay (aka Loop aging)\nAll commands are instantaneous\nStutter Mode\n5 Stop Modes for flexible performance options\nVoltage: 18V DC\nCurrent Draw: 200mA @ 18V\n\nhttps://pigtronix.com/infinity/",
+    "hrid": "pigtronix-infinity-looper"
+}

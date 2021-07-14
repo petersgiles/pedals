@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28107",
+    "name": "Delay Llama XTREME",
+    "image": "images/jam-pedals-delay-llama-xtreme.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "130 mA / 9 V / DC / Negative Center",
+    "cost": "$355 Price in €",
+    "width": 147,
+    "height": 122,
+    "details": "Analogue Delay with Tap Tempo and XTREME trails modesThe Delay Llama XTREME introduces new functionality and exciting features to our Delay Llama series, challenging preconceived notions of what an analog delay pedal can do. Featuring 3 x 3205 BBD chips and a thoughtful layout, the Delay Llama XTREME appeals to traditional delay users and sound explorers alike.\nIt comes equipped with 4 presets, 800ms of max. delay time, tap tempo w/ subdivisions, hold function, kill-dry, trails (buffered) OR true bypass modes, delay time expression pedal / CV input, remote tap tempo input and remote preset selection input. It also features 4 trail effects you can get lost in for hours on end!\nThese 4 XTREME modes are the result of us experimenting with the Delay Time and musically taming it to create inspiring trails effects.\nVibrato: sine-wave LFO modulation w/ controls for Depth and Speed\nTape-age: this mode emulates the slight and random pitch variations (warble) a physical “worn-down” tape would produce in vintage tape-echo machines, w/ control for frequency  of deviation occurrences \nRandom: this mode randomly changes the ms value of the repeats over fixed time increments resulting in abrupt pitch and rhythmic changes\nPitch-shift: this mode will give you 5 distinct pitch-shifted intervals and 5 playback patterns the last of which is a 5-mode sequencer\nWe sent the Delay Llama to the future and it finally made its way back with a taste for the XTREME! So strap in, get comfortable and ride this Llama into uncharted sonic fields.",
+    "hrid": "jam-pedals-delay-llama-xtreme"
+}

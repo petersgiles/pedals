@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22669",
+    "name": "EQ-200",
+    "image": "images/boss-eq-200.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Equalizer",
+        "MIDI"
+    ],
+    "manufacturer": "Boss",
+    "current": "170 mA / ? V / AC",
+    "cost": "$249 Price in €",
+    "width": 101,
+    "height": 138,
+    "details": "Two wide-ranging 10-band EQ channelsClass-leading sound quality with 32-bit AD/DA, 32-bit floating point processing, and 96 kHz sampling rate\nDual 10-band EQs that can be used in stereo, parallel, or series\nInsert function for processing external effects with pre and/or post tone shaping\nThree different range settings: 30 Hz to 12.8 kHz, 32.1 Hz to 16 kHz, and 28 Hz to 14 kHz\n15 dB boost/cut on each band, plus overall level control for each channel\nStereo link function for operating both EQ channels together\nIntuitive interface with hands-on sliders and graphic EQ display\nReal-time panel setting and four memories for storing favorite sounds\nPanel Lock function disables controls to prevent unwanted changes\nTwo onboard footswitches with customizable assignments\nSupport for expanded control via external footswitches, an expression pedal, or MIDI\nFull MIDI I/O provided with mini TRS jacks (BMIDI-5-35 adaptor cable available separately)\nMicro USB jack for firmware updates\nRuns on PSA-series AC adaptor or three AA-size batteries\nhttps://www.boss.info/us/products/eq-200/",
+    "hrid": "boss-eq-200"
+}

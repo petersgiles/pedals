@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26466",
+    "name": "Twin Twelve V1",
+    "image": "images/jhs-twin-twelve-v1.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 65,
+    "height": 121,
+    "details": "Silvertone 1484 Style OverdriveThe “Twin Twelve” channel drive is the first ever all-analog stompbox to replicate the classic tones of the Silvertone 1484 \"Twin Twelve\" amplifier.",
+    "hrid": "jhs-twin-twelve-v1"
+}

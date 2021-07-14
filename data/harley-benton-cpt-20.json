@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13852",
+    "name": "CPT-20",
+    "image": "images/harley-benton-cpt-20.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$21 Price in €",
+    "width": 46,
+    "height": 95,
+    "details": "TunerChromatic floor tuner for guitar and bass\nLED/LCD Display for fast and precise tuning\nTrue Bypass\nTuning range: A (27.5 Hz) thomann up to C (4168 Hz)\nAccuracy: ±1%\nOn/Off switch\n6.3 mm Jack in and output\nDimensions: 95 x 46 x 49 mm\nWeight: 112 g\nSuitable DC power supply: Article Nr 108096 (not included)\nNote: Not operable with batteries!\nhttps://www.thomann.de/de/harley_benton_cpt_20.htm?ref=search_rslt_Harley+Benton+CPT-20_340471_0",
+    "hrid": "harley-benton-cpt-20"
+}

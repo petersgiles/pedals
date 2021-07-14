@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16816",
+    "name": "BIM",
+    "image": "images/oto-machines-bim.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "OTO Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$588 Price in €",
+    "width": 145,
+    "height": 145,
+    "details": "12-BIT DELAY UNITBIM is a 12-bit stereo delay unit inspired by some studio delay processors built in the early 80s. These monophonic processors have been renowned for the quality and musicality of their sound. The processing was mainly analog (companders, limiters, low-pass filters, feedback path,…), and the signal was converted to digital just for the delay section, using 12-bit AD/DA converters and some RAM memory chips.\nThe advantage of this technology is particularly obvious when the sound is feedbacked many times through the whole analog and 12-bit circuitry. You’ll hear a sweet degradation and dark damping that the 100% digital delay boxes can’t offer. When we designed BIM, we wanted to create a unique, modern and versatile effects processor based on this 80’s technology.\nWe managed to mix the fabulous sound of an old 12-bit digital delay with modern features such as stereo processing, extra FXs, many user presets, MIDI control, tap tempo, compact size… therefore BIM is the best of both worlds!\nBIM is the perfect companion for the musician, producer, sound engineer or live performer who is looking for a unique, warm and musical delay processor.\nFEATURES\n• Up to 3276 milliseconds in stereo\n• True 12-bit converters, analog limiter, companders, filters and feedback path\n• 4 delay types: Normal, Dual Head, Disto, Lo-Fi\n• Delay high-pass filter: 20Hz, 100Hz, 250Hz or 500Hz\n• Delay low-pass filter: 16kHz, 8kHz, 4kHz or 2kHz\n• Feedback filters: flat, hi cut, lo cut or both\n• LFO with 4 waveforms and 4 Rate ranges (from 0.025 Hz to 147 Hz)\n• Tap Tempo with sub-division settings\n• Freeze switch with normal or reverse play\n• Delay input gain from 0 to +15dB\n• 36 user presets\n• MIDI input: BIM responds to MIDI Clock, CC and Pgm Change\n• 3 bypass modes: Relay, Spillover and Aux\n• Nice and simple user interface via 16 white LEDs\n• Rugged steel enclosure\n• Neutrik® jack connectors\n• Power supply included\nhttps://www.otomachines.com/product/bim/",
+    "hrid": "oto-machines-bim"
+}

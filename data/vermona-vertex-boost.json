@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16793",
+    "name": "VERTEX BOOST",
+    "image": "images/vermona-vertex-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Vermona",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 81,
+    "height": 117,
+    "details": "BoostThe Vertex Boost is expertly crafted to be a clean boost, buffer and volume pedal in one. The Boost is designed to leave your tone unchanged, while boosting the level of your signal. The Boost also features an ultra-linear buffer to condition your line with ZERO tonal coloration, even with dozens of pedals in your chain. Additionally, you have total volume control by connecting the Boost with any EXP or Volume Pedal and adjusting your volume as you would with a normal volume pedal. When the Boost is OFF, the EXP will function as a volume pedal (sweeping from silent to unity gain). When the Boost is ON, the EXP or Volume Pedal will control the boosted volume (sweeping from silent to wherever the Boost level knob is set). Since your guitar signal is isolated from the impedance of your chosen EXP or Volume Pedal, your tone remains open and full-range, and most importantly, it feels like you're plugged straight into your amp.\nTHE FEATURES INCLUDE:\nBuffered Bypass\n100% Analog Circuitry\nTotal Control of Output Level via EXP\nUp to +16dB of Available Clean Boost\nAssembled in California",
+    "hrid": "vermona-vertex-boost"
+}

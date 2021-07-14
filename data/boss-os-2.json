@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13633",
+    "name": "OS-2",
+    "image": "images/boss-os-2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$89 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Overdrive/DistortionThe OS-2 gives players a choice of overdrive or distortion or lets them combine both--all in a single compact pedal. Its distortion maintains the subtle nuances of single-coil guitar pickups.\nhttps://www.boss.info/us/products/os-2/",
+    "hrid": "boss-os-2"
+}

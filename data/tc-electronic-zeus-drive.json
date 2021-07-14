@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33447",
+    "name": "Zeus Drive",
+    "image": "images/tc-electronic-zeus-drive.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$64 Price in €",
+    "width": 56,
+    "height": 99,
+    "details": "Klon CloneDynamic Overdrive Boost Pedal with FAT Mod Switch and Optional Buffered Bypass\nhttps://www.tcelectronic.com/product.html?modelCode=P0EBW",
+    "hrid": "tc-electronic-zeus-drive"
+}

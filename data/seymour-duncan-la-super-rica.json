@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30033",
+    "name": "La Super Rica",
+    "image": "images/seymour-duncan-la-super-rica.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "7 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 66,
+    "height": 124,
+    "details": "FuzzLa Super Rica means “super rich”, and this silicon fuzz is just that. Inspired by iconic fuzz sounds, we built on the classic with a parametric midrange for maximum versatility.\nWe started with our favorite silicon fuzz circuit – you know, the one used by all your favorite guitar players from the sixties and seventies – and set out to see if we could improve on the classic.\nFirst we brought it up to modern standards by adding a true-bypass switch, an LED and a standard 9v power connection. We also bumped up the overall volume of the pedal so that it would be easier to match levels with your amp and added a low-contour voicing switch with three settings – so whether you’re using single coils, humbuckers, or even a bass, La Super Rica can keep up.\nWe could have stopped there, but we weren’t satisfied yet. What we wanted most was the ability to shape how La Super Rica sits in a mix. Many fuzz pedals don’t allow you to shape the mid-range, resulting in either a scooped sound that gets lost when you add bass and drums to the equation, or unpleasant frequencies that can lead to ear fatigue. So, after some pondering, we added a parametric mid-range control so you can dial in as much (or as little) of exactly the right frequency to fit your mix.\nThe result is a super rich fuzz pedal that is as versatile as it is toneful – capable of reproducing the iconic sounds that inspired it, as well as a surprising array of other fuzz tones – from blues and psychedelic rock to desert rock and stoner metal. How you use it is up to you. Designed and made in the USA, La Super Rica continues our legacy of attention to detail and quality.\nhttps://www.seymourduncan.com/single-product/la-super-rica",
+    "hrid": "seymour-duncan-la-super-rica"
+}

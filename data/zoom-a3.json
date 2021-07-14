@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19349",
+    "name": "A3",
+    "image": "images/zoom-a3.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Multieffect",
+        "Reverb",
+        "Tuner"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 108,
+    "height": 160,
+    "details": "A3 Acoustic Effects  Pedal\nhttps://www.zoom-na.com/products/guitar-bass-effects/acoustic/zoom-a3-pre-amp-effects-acoustic-guitar",
+    "hrid": "zoom-a3"
+}

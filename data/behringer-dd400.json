@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16403",
+    "name": "DD400",
+    "image": "images/behringer-dd400.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Digital DelayKnockoff of Boss DD-5, 1.3 second delay",
+    "hrid": "behringer-dd400"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14211",
+    "name": "Discumbobulator",
+    "image": "images/emma-electronic-discumbobulator.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Emma Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$212 Price in €",
+    "width": 94,
+    "height": 123,
+    "details": "Auto Wah\nhttp://www.emmaelectronic.com/discumbobulator/",
+    "hrid": "emma-electronic-discumbobulator"
+}

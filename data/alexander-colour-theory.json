@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19073",
+    "name": "colour theory",
+    "image": "images/alexander-colour-theory.jpg",
+    "function": [
+        "Digital",
+        "Digital Glitch",
+        "Filter",
+        "Multieffect",
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "sequencer multi effect\nhttps://www.alexanderpedals.com/shop/colour-theory",
+    "hrid": "alexander-colour-theory"
+}

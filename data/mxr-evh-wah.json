@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31400",
+    "name": "EVH Wah",
+    "image": "images/mxr-evh-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "MXR",
+    "current": "2 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 100,
+    "height": 200,
+    "details": "Wah based on EVH's 'Holy Grail' wah pedalThe EVH Wah was developed after intensive design collaboration with the legendary guitarist, Eddie Van Halen. Early on in the process, Eddie handed over his “Holy Grail” Cry Baby Wah—a standard Cry Baby customized in the early Nineties with a more vocal-like, High Q inductor and a wider frequency sweep. Amazingly, we found that over the years Eddie’s unique wah style, which uses mostly the middle range of the pedal’s action, had carved his own curve into the pot’s resistive element, making the middle range even more defined and increased the low-end sweep. Our clones of the worn-in pot and hand-selected inductor give the new EVH Wah Wah the same “Holy Grail” feel and tone, and its true hardwire bypass, dual bright blue bypass LEDs, and graphics based on the black and yellow-striped guitar featured on Van Halen II round out this EVH-approved Cry Baby with a voice and look all its own.\nhttps://www.jimdunlop.com/evh-wah/",
+    "hrid": "mxr-evh-wah"
+}

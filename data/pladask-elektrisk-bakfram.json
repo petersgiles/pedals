@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27166",
+    "name": "BAKFRAM",
+    "image": "images/pladask-elektrisk-bakfram.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$235 Price in €",
+    "width": 66,
+    "height": 126,
+    "details": "Granular Synthesizer / Glitch DelayBAKFRAM is a granular synthesizer masquerading as a forward and reverse delay. It can delay stuff, timestretch stuff, freeze stuff, pitch stuff upwards, pitch stuff downwards and generally make lots of narly noises. BAKFRAM expands on the limited BAKVENDT.\nhttps://pladaskelektrisk.com/product/bakfram/",
+    "hrid": "pladask-elektrisk-bakfram"
+}

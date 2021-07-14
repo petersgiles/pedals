@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12189",
+    "name": "Twin Peaks Tremolo",
+    "image": "images/david-rolo-twin-peaks-tremolo.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$246 Price in €",
+    "width": 93,
+    "height": 114,
+    "details": "TAPFLO Pedal Analog signal-digital controlThe Twin Peaks is a tap tempo tremolo with 4 modes:\nClassic ( like Black Face tremolo ,regular volume modulation)\nHarmonic (like the Harmonic Vibrato in old Fender Brown Face amps, pans between treble and bass)\nBass Only (Bass modulation only, with fixed treble)\nTreble Only (Treble modulation only, with fix bass)\nThe LFO has 8 available modulation shapes:\nSawtooth, Reversed Sawtooth, Square, Triangle, Sine, Lump, Reverse Lump, Random\nControls:\nRate, Division, Tone, Depth, Shape, Shape distortion\nWhile the Tap tempo LFO section is digital, the audio path is 100% analog. The tremolo effect is achieved using optocouplers.\nhttp://www.davidrolo.com/effects/twin-peaks-tap-tremolo/",
+    "hrid": "david-rolo-twin-peaks-tremolo"
+}

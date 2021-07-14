@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11889",
+    "name": "MIDI Grande 6F1D",
+    "image": "images/microdesignum-midi-grande-6f1d.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Microdesignum",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$213 Price in €",
+    "width": 250,
+    "height": 80,
+    "details": "MIDI Controller\nhttps://www.microdesignum.cz/EN/Products/MIDI-Controllers/MIDI-Grande",
+    "hrid": "microdesignum-midi-grande-6f1d"
+}

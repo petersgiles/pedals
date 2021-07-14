@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12841",
+    "name": "Banshee Talkbox",
+    "image": "images/rocktron-banshee-talkbox.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$190 Price in €",
+    "width": 127,
+    "height": 216,
+    "details": "",
+    "hrid": "rocktron-banshee-talkbox"
+}

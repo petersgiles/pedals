@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15446",
+    "name": "EXP-20",
+    "image": "images/korg-exp-20.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$207 Price in €",
+    "width": 90,
+    "height": 268,
+    "details": "Expression pedal",
+    "hrid": "korg-exp-20"
+}

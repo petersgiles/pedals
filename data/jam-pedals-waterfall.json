@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11711",
+    "name": "WaterFall",
+    "image": "images/jam-pedals-waterfall.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$279 Price in €",
+    "width": 70,
+    "height": 120,
+    "details": "",
+    "hrid": "jam-pedals-waterfall"
+}

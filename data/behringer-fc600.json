@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24298",
+    "name": "FC600",
+    "image": "images/behringer-fc600.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Behringer",
+    "current": "Pedal is passive",
+    "cost": "$62 Price in €",
+    "width": 112,
+    "height": 298,
+    "details": "Heavy-Duty Foot Pedal for Volume and Expression Control \nVolume control for musical instruments and high-impedance sources\nExpression pedal function for keyboard modulation control\nHeavy-duty aluminum die-cast body\nUltra-smooth pedal movement for utmost control\nRubberized pedal surface for non-slip action and comfort\nAdjustable minimum volume setting\nIndependent tuner output connector for silent tuning\nFully adjustable pedal feel (torque)\nHigh-quality VR (Variable Resistor) for utmost reliability and smooth audio performance\n\nhttps://www.behringer.com/Categories/Behringer/Accessories/Footswitches-and-Remote-Controls/FC600/p/P0B3Q",
+    "hrid": "behringer-fc600"
+}

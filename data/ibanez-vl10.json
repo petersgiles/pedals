@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25312",
+    "name": "VL10",
+    "image": "images/ibanez-vl10.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "Pedal is passive",
+    "cost": "$67 Price in €",
+    "width": 89,
+    "height": 201,
+    "details": "Volume PedalIn addition to the obvious function as a volume pedal, the VL10 has unique features that make it possibly the most versatile volume pedal available. Operating as a volume pedal, mono or stereo signals can be adjsuted live by raising or lowering the pedal. A minimum volume control allows a preset lowest volume to be achieved in the up position. The tuner output sends the signalout regardless of pedal position. Most unique is the balancer mode, which allows the player to actually mix or pan two signals while playing. The VL10 works well with all instruments, without tonal coloration or high frequency loss.\nPRODUCT SPECS\nItem Number: 12587\nMake: Ibanez\nModel: VL10 Volume Pedal\nCondition: Good\nFinish: Black\nCategories: effects-and-pedals ⇒ controllers-volume-and-expression ⇒ pedal\nMade In: Japan\nhttp://www.ibanez.de/fileadmin/downloads_brands/ibanez//Kataloge/Katalogarchiv/1990/1990%20Sound%20Effects.pdf",
+    "hrid": "ibanez-vl10"
+}

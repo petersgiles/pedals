@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23076",
+    "name": "Envelope Filter",
+    "image": "images/analogman-envelope-filter.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 115,
+    "details": "",
+    "hrid": "analogman-envelope-filter"
+}

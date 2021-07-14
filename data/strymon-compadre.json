@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27460",
+    "name": "Compadre",
+    "image": "images/strymon-compadre.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics"
+    ],
+    "manufacturer": "Strymon",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Dual voice compressor and boostStart your signal chain with the best possible version of your guitar tone. Treat your guitar signal to true studio quality analog compression with two distinct voices for smooth transparency or vintage squeeze. Hit the Boost switch to add clean boost or soft-clipped dirty boost, with the EQ curve of your choice. Mix in some dry signal for natural attack even with extreme compression settings. Feel the perfectly tailored dynamic response, feeding your amp and effects just what they need to sound their best.\nhttps://www.strymon.net/products/compadre/",
+    "hrid": "strymon-compadre"
+}

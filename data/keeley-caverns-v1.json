@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13087",
+    "name": "caverns v1",
+    "image": "images/keeley-caverns-v1.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 122,
+    "details": "",
+    "hrid": "keeley-caverns-v1"
+}

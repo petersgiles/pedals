@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17292",
+    "name": "Echo-X",
+    "image": "images/rainger-fx-echo-x.jpg",
+    "function": [
+        "Delay",
+        "Distortion"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$178 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Echo-X digital delay (& Igor) mini-pedalThe Echo-X has 540ms of delay time available, and has level, rate, feedback, input, and volume controls. ‘Level’ goes from no echo, to slightly louder than the input signal. ‘Feedback’ meanwhile goes from a single repeat to runaway overloading feedback oscillation.\n‘Input’ governs the input signal, and if this is too loud the red ‘overload’ LED comes on and it needs to be turned down. The volume knob however can push the volume back up.\nhttps://www.raingerfx.com/product/echo-x-digital-delay-igor/",
+    "hrid": "rainger-fx-echo-x"
+}

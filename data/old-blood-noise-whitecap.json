@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22976",
+    "name": "Whitecap",
+    "image": "images/old-blood-noise-whitecap.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 117,
+    "height": 92,
+    "details": "Asynchronous Dual TremoloOne analog trem and one digital trem, in series or in parallel, with tap tempo and ramp",
+    "hrid": "old-blood-noise-whitecap"
+}

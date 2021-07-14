@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27887",
+    "name": "PurPLL",
+    "image": "images/montreal-assembly-purpll.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice"
+    ],
+    "manufacturer": "Montreal Assembly",
+    "current": "? mA / ? V / DC / Negative Center",
+    "cost": "",
+    "width": 150,
+    "height": 124,
+    "details": "Phase Locked LoopThe PURPLL is a phase-locked-loop (PLL) type pedal. It can be used as a fuzzed out harmonizer, drone synth and more.\nCheck out the videos below and the manual linked here  for more details. And yes, the backplates are dated 2017/2018 because that is the year we started making them. (:\n\n\nhttps://mtlasm.com/product/test/",
+    "hrid": "montreal-assembly-purpll"
+}

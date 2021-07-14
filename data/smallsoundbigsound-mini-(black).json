@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22637",
+    "name": "MINI (black)",
+    "image": "images/smallsoundbigsound-mini-(black).jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 65,
+    "height": 124,
+    "details": "Overdrive\nhttps://www.smallsoundbigsound.com/products/mini/",
+    "hrid": "smallsoundbigsound-mini-(black)"
+}

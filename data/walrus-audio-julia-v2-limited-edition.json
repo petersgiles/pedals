@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26192",
+    "name": "Julia V2 limited edition",
+    "image": "images/walrus-audio-julia-v2-limited-edition.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 63,
+    "height": 117,
+    "details": "",
+    "hrid": "walrus-audio-julia-v2-limited-edition"
+}

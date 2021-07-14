@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11801",
+    "name": "Echoplex Preamp",
+    "image": "images/dunlop-echoplex-preamp.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "",
+    "hrid": "dunlop-echoplex-preamp"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24954",
+    "name": "Chill",
+    "image": "images/jam-pedals-chill.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "6 mA / 9 V / DC",
+    "cost": "$190 Price in €",
+    "width": 70,
+    "height": 111,
+    "details": "Sine Wave Tremolo\nhttps://www.jampedals.com/the-chill/",
+    "hrid": "jam-pedals-chill"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18760",
+    "name": "Loop Core Deluxe",
+    "image": "images/nux-loop-core-deluxe.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$124 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "24-bit Looper PedalLoop Core Deluxe allows you to record loop phrases up to 8 hours with unlimited layers in 24-bit high-resolution audio quality into 99 saved memories.\nhttps://www.nuxefx.com/loop-core-deluxe.html",
+    "hrid": "nux-loop-core-deluxe"
+}

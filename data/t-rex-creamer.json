@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32721",
+    "name": "Creamer",
+    "image": "images/t-rex-creamer.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$89 Price in €",
+    "width": 60,
+    "height": 115,
+    "details": "Reverb3 reverb types (spring, room, hall)\n    Tone control for adjusting the high frequencies of the reverb\n    Analog dry signal keeps the tone intact\n    High quality reverb algorithms\n    Small, ultra simple operation - and versatility\nhttps://www.t-rex-effects.com/creamer",
+    "hrid": "t-rex-creamer"
+}

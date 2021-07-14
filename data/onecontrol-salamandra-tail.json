@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25234",
+    "name": "Salamandra Tail",
+    "image": "images/onecontrol-salamandra-tail.jpg",
+    "function": [
+        "Looper",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "160 mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 114,
+    "height": 112,
+    "details": "Programmable Effects Switching System with 3 Loops, 16 User Presets, and Tuner OutputWith three independent effects loops and 16 possible routing configurations, the One Control Salamandra Tail Loop switch offers comprehensive control over your effects pedals. And its diminutive size - about the same size as a standard stompbox - means it won't take over your pedalboard. Hook up your effects pedals to the effects loops, save your different routing choices as presets, then reconfigure your effect pedal routing just by stepping on a footswitch. If you want a better way to manage your collection of effects pedals, check out the One Control Salamandra Tail Loop switcher.\nhttps://www.sweetwater.com/store/detail/Salamandra--one-control-salamandra-tail-loop-effects-switching-system",
+    "hrid": "onecontrol-salamandra-tail"
+}

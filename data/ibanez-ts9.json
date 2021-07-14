@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30653",
+    "name": "TS9",
+    "image": "images/ibanez-ts9.jpg",
+    "function": [],
+    "manufacturer": "Ibanez",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 74,
+    "height": 124,
+    "details": "Ibanez TS9, But Gold!",
+    "hrid": "ibanez-ts9"
+}

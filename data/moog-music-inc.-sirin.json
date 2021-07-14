@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24891",
+    "name": "Sirin",
+    "image": "images/moog-music-inc.-sirin.jpg",
+    "function": [
+        "MIDI",
+        "Synth Voice",
+        "Utility"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "Pedal is passive",
+    "cost": "$599 Price in €",
+    "width": 218,
+    "height": 79,
+    "details": "The first Taurus Bass synthesizer able to summon lead sounds.Sirin Analog Messenger Of Joy is a limited-production analog synthesizer module based on the legendary Moog Taurus Bass sound engine, and created in celebration of the 2019 Moog House of Electronicus experience in Los Angeles, California. \nSecured in a brushed stainless steel enclosure with a retro-inspired color palette, Sirin foretells of future joys and transports interdimensional energy with ease. An intoxicating conjuror of both quintessential lead and menacing Moog bass, Sirin’s fully-recallable analog sound engine originates with two analog Taurus Bass oscillators modified to soar octaves above the boundaries of its mythical ancestors. Sirin is the first instrument in Moog’s Taurus family of bass synthesizers designed to generate pitches far above middle C, inviting searing, soft, and even clangorous lead sounds with ease. \nSirin’s harmonic transmissions are dynamically shaped and sculpted by a classic 4-pole Moog Ladder filter, which operates in consummate harmony with two lightning-fast ADSR envelopes and a multi-wave LFO, offering a wide spectrum of expressive timbral variety and versatility.\nComplemented with a classic knob-per-function interface and free Editor / Librarian software, Sirin is an easy-to-use analog instrument designed to effortlessly integrate with any DAW or MIDI controller to unlock a portable world of powerful analog sound anywhere you go. Save up to 128 presets in hardware, automate parameters, unlock hidden features, and explore the vast magical realms of analog synthesis. \nA limited production run of Sirin are being produced by the employee-owners at the Moog Factory in Asheville, NC--after which no more will be available.\nhttps://www.moogmusic.com/products/sirin",
+    "hrid": "moog-music-inc.-sirin"
+}

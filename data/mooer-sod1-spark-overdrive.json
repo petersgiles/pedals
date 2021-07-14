@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31682",
+    "name": "SOD1 Spark Overdrive",
+    "image": "images/mooer-sod1-spark-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mooer",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 62,
+    "details": "80's vintage overdrive toneClassic overdrive tones in a pedal perfect for any pedal board.\nThe Spark Overdrive creates '80s vintage overdrive tone perfectly suited for blues, classic rock and many more styles. Use it as a boost to push your amplifier or as a standalone overdrive/boost. Its full metal housing is built to take abuse and features a special surface treating technology, giving it maximum durability. It also features true bypass maximizes signal integrity when not in use. Power supply sold separately.\nFeatures\n* Vintage overdrive tones\n* Boost capabilities\n* Compact size\n* Sturdy metal housing with special surface treatment\n* True bypass\nhttps://www.amazon.com/MOOER-Spark-overdrive-Mooer-Overdrive/dp/B00MTDMIME",
+    "hrid": "mooer-sod1-spark-overdrive"
+}

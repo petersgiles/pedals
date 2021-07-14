@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12499",
+    "name": "Sansamp Classic",
+    "image": "images/tech-21-sansamp-classic.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 97,
+    "height": 119,
+    "details": "Tech21 Sansamp ClassicThe design of the Classic inspired many of our products but there’s still only one original. Of all the pedal models, this is the most sophisticated. Its unconventional design not only keeps the unit compact, it is key to the wide range of sounds you can achieve. Made almost entirely by hand, the main module contains a bank of eight Character switches, which adjust the fine and subtle nuances of tonality, harmonics and dynamics. A three-position Input switch gives you a choice of pre-amp styles: Lead (Marshall®-style), Normal (Mesa Boogie®-style), and Bass (Fender®-style) which is excellent for rhythm as well as bass guitar. \nThe SansAmp Classic’s knob controls shape pre-amp contours, power amp contours, volume and final tone.\nSansAmp Classic was specifically engineered with a flat output to provide maximum flexibility and control with external EQ.\nhttp://www.tech21nyc.com/products/sansamp/classic.html",
+    "hrid": "tech-21-sansamp-classic"
+}

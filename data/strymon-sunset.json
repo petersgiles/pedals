@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11456",
+    "name": "Sunset",
+    "image": "images/strymon-sunset.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 105,
+    "height": 120,
+    "details": "Dual Overdrive",
+    "hrid": "strymon-sunset"
+}

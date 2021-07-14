@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15922",
+    "name": "Bass Preamp",
+    "image": "images/mxr-bass-preamp.jpg",
+    "function": [
+        "Bass",
+        "Equalizer",
+        "PreAmp"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "The MXR Bass Preamp combines a pristine bass preamp with a studio-quality Direct Out in a Phase 90-sized box, providing clear tone without hogging precious pedalboard space. Use it to add a new voice to an old passive bass, sweeten up any amp, or put some special sauce on a particular song. Dial it in just the way you want it and send it straight to the house-pre or post-EQ-with the built-in Direct Out.\nThe Bass Preamp features separate Input and Output level controls and a 3-band EQ section with sweepable midrange-from 250hz to 1khz-for extensive tonal flexibility. It's all delivered super clean with high headroom thanks to our own Constant Headroom Technology™ , and you can use the PRE/POST EQ switch to set whether or not your Direct Out signal is affected by the Bass Preamp's EQ section. And of course, the Bass Preamp features a GROUND LIFT switch in case you encounter ground loop hum.\nThe Bass Preamp is factory preset to operate in ¼\" out buffered bypass and Direct Out active. For players who only want to use the ¼\" out, there are two internal switches that disable the Direct Out and ¼\" out buffered bypass for true ¼\" out bypass mode.\nhttps://www.jimdunlop.com/product/m81-7-10137-07277-0.do",
+    "hrid": "mxr-bass-preamp"
+}

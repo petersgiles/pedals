@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12725",
+    "name": "BF-1 Flanger",
+    "image": "images/boss-bf-1-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 120,
+    "height": 180,
+    "details": "1st Boss flanger, Reticon BBDFirst ever Boss flanger. utilizes Reticon SAD1024 BBD chip.",
+    "hrid": "boss-bf-1-flanger"
+}

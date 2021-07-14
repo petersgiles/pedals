@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28912",
+    "name": "PX5D",
+    "image": "images/korg-px5d.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 3 V / DC",
+    "cost": "$149 Price in €",
+    "width": 118,
+    "height": 75,
+    "details": "Multi effect processorThe PX5D multi effect processor joins Korg's respected PANDORA series.\nhttps://www.korg.com/us/support/download/product/1/171/",
+    "hrid": "korg-px5d"
+}

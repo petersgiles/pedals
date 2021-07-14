@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12331",
+    "name": "PDS 2700 Double Play",
+    "image": "images/digitech-pds-2700-double-play.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 152,
+    "height": 127,
+    "details": "",
+    "hrid": "digitech-pds-2700-double-play"
+}

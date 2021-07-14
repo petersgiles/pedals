@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16015",
+    "name": "Buffer",
+    "image": "images/empress-effects-buffer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 114,
+    "details": "",
+    "hrid": "empress-effects-buffer"
+}

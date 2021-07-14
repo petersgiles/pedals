@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17413",
+    "name": "MS-60B",
+    "image": "images/zoom-ms-60b.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 77,
+    "height": 130,
+    "details": "Multistomp Pedal for Bass58 bass effects and amp/preamp/DI models, including modulation, equalization, delay, and reverb \nUp to 4 effects can be used simultaneously, in any order\n50 memory locations for the storage of user-created patches\n30 preset patches\nPatch cycling\nOnboard chromatic tuner supports all standard bass tunings\nTap Tempo for synchronization of delay times or modulation rates\nAuto Save function for automatic saving of all patch parameters\n¼\" input jack (both active and passive instruments supported)\nDual ¼\" output jacks   \nBacklit LCD with contrast control for easy viewing in low-light environments\nUSB port for power and firmware updates\nLightweight and small enough to fit in your gig bag\nEasily integrated into any existing pedalboard\nRuns on 2 AA batteries, with alkaline battery life of up to 7 hours\nOptional AC adapter\n\nhttps://www.zoom-na.com/products/guitar-bass-effects/multistomp/zoom-ms-60b-multistomp-bass-pedal",
+    "hrid": "zoom-ms-60b"
+}

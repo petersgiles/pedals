@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12134",
+    "name": "Clari-Not",
+    "image": "images/mid-fi-clari-not.jpg",
+    "function": [
+        "Chorus",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Mid-Fi",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 125,
+    "height": 65,
+    "details": "The Clari(not) is an Envelope controlled Vibrato/chorus/wow and flutter simulator, with the ability to modulate over an octave. \nIt is available as a \"Clean\" 4-knob version or the \"Fuzz\" 5-knob version, which adds a Volume knob.\nCONTROLS\nDelay\nDepth\nBlend\nTracking\nFEATURES\nTrue Bypass\n9V DC (negative tip)\nhttp://www.midfielectronics.com/clarinot",
+    "hrid": "mid-fi-clari-not"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11532",
+    "name": "Echolapse",
+    "image": "images/kleissonic-echolapse.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Kleissonic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "Analog lo-fi dual delayThe Echolapse is an echo device that simulates an old tape echo machine.\nIt is true bypass and the time range is 42mS to 900mS.\nEcholapse’s sound result is “dark” repetitions because of the diminishing of the higher freuquencies.\nIt has the same philosophy with the old tapes that because of their age and they cannot be magnetized adequately at high frequencies.\nAdditionally, Echolapse is calibrated so as to have disturbances on the top end of the repetitions and uses the same process of how the tape friction influences the sound.\nIt has two echo stages:\nin MONO mode it provides two different time delays, more headroom and really deep and dark repetitions. Depending on the Tap Tempo, the user can hear the separate time delays that has adjusted. With fast Tempo the signal goes to both echo stages and the two time delays are mixed together.\nIn STEREO mode the signal follows separate paths. That means that you can have separate time delays, which pan between the two Amps depending on the Tap Tempo. With fast Tempo the signal goes to both echo stages and stops the panning and the user can hear the two amps in the same time but with separate time delays.\nThe minimum Tempo is 4 seconds and the maximum can be 150mS.\nRequirements: 9V DC, center negative power supply,70mA minimum.\nhttp://www.kleissonic.com/pedals/echolapse",
+    "hrid": "kleissonic-echolapse"
+}

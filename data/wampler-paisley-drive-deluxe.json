@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25603",
+    "name": "Paisley Drive Deluxe",
+    "image": "images/wampler-paisley-drive-deluxe.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "33 mA / 9 V / DC / Negative Center",
+    "cost": "$260 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "BRAD PAISLEY OverdriveWhen talking about country superstar Brad Paisley, it’s a sure thing that people will all agree on one thing. He has incredible tone. Brad has a long relationship with Wampler products. We’ve all heard the story of how years ago Brian threw a pedal up on the stage that led to Brad ‘discovering’ us, but until the release of the Paisley Drive Deluxe, the other half of Brad’s secret recipe of Wampler tone has been unavailable to buy new. As well as the standard Paisley Drive, Brad has ALWAYS been a huge fan, and prolific user, of a limited edition pedal Brian released around 10 years ago called the Underdog. After years and years of seeing Brad having an UnderDog in his live rig, and him buying every one he could find as backup - We, as in Brad and us, decided it was about time to consolidate the two pedals into the ultimate Wampler/Paisley tone machine, the Paisley Drive Deluxe, or as it’s become affectionately known by Brad as the “Paisley Dog”. \nIn channel 1 you have a ‘v2’ Underdog, exactly to Brads specs, complete with a switchable gain boost and full 3 band active EQ. In channel 2 you have a refined original Paisley Drive. With extensive routing options (first seen in the Tom Quayle Dual Fusion) you have an incredibly versatile dual overdrive that can slot in any rig, for any genre of music, with complete control for the player. To get the most out of your new pedal, you'll want to become very familiar with the controls. The Paisley Drive Deluxe features 7 adjustment knobs and 3 switches, spread over both channels allowing for a great deal of flexibility. With a twang-friendly single coil guitar, you can get anything from fatter cleans to some rocking drive. With a more aggressive axe, there's enough dirt on tap to get into more than a little bit of grinding distortion. And regardless of your gain needs, the extreme flexibility of the EQ in this pedal makes it outrageously good. We'll go over each set of controls in detail, and offer some suggestions that will give you a great tone so you don't have to start from scratch unless you want to.\nhttps://www.wamplerpedals.com/products/distortion-overdrive/brad-paisley-paisley-deluxe/",
+    "hrid": "wampler-paisley-drive-deluxe"
+}

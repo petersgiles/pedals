@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31197",
+    "name": "JF-310 Orange Juice",
+    "image": "images/joyo-jf-310-orange-juice.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Joyo",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 38,
+    "height": 70,
+    "details": "Orange RB Amp SImThe Orange Juice Amp Simulator re-creates the in your face sound of some great British Amps, influencing Punk, Classic Rock. Every sound that requires a dirty sound with some attitude will find a friend in the Orange Juice Pedal. Whether you use it direct into your sound interface or in front of your amp.\nControls:\nTone\nGain / Drive\nMid Boost /Voice\nVolume\nSpecifications:\nTrue By Pass\nAmp Simulator\nInput Impedance: 1m\nOutput Impedance: 10k\nRunning Current: 25mA\nPower: DC 9V negative polarity adapter, not supplied.\nDimensions:\n7.3cm long\n4.3cm wide\n5 cm tall.\nWeight : 220g\nhttps://www.joyoaudio.co.uk/JF-310-orange-juice",
+    "hrid": "joyo-jf-310-orange-juice"
+}

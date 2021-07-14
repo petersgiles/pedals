@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14296",
+    "name": "Epsilon",
+    "image": "images/dreadbox-epsilon.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 116,
+    "height": 147,
+    "details": "versatile Distortion",
+    "hrid": "dreadbox-epsilon"
+}

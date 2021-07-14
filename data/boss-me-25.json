@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15999",
+    "name": "ME-25",
+    "image": "images/boss-me-25.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 300,
+    "height": 191,
+    "details": "Guitar ProcessorThe affordable new ME-25 is packed with powerful BOSS features to make you sound like a pro, yet it’s as fun and easy to use as a stompbox. The built-in SOUND LIBRARY gives you instant access to dozens of classic and modern effects. Simply choose a category, select a variation, and play. Customize your sound with simple twists of the Drive, Tone, and Volume knobs. With COSM amp models onboard, plus Super Stack and Phrase Loop, the ME-25 is a dream processor for upstart guitarists who want great sound and ease of use.\nhttps://www.boss.info/us/products/me-25/",
+    "hrid": "boss-me-25"
+}

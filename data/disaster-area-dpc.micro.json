@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24741",
+    "name": "DPC.micro",
+    "image": "images/disaster-area-dpc.micro.jpg",
+    "function": [
+        "Controller",
+        "MIDI"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 122,
+    "height": 66,
+    "details": "Compact loop switching controllerThe DPC.micro is our most compact loop switching controller, featuring three true bypass effects loops in a 125B enclosure.\nThe DPC.micro works as a standalone device, to switch three separate pedals or signal chains, or as a MIDI-controlled loop expander for your rig.\nEach loop may be controlled using a MIDI CC message or program change message, and the DPC.micro can store up to 120 preset combinations for instant recall over MIDI.\nThe DPC.micro is also available in an under-board mount version with no footswitches.  The under-board version features a programming pushbutton to select the loops and save presets, located on the side next to the MIDI input.\nFeatures:\nThree true-bypass effects loops using gold-contact relays\nAdjustable muting relay for click / pop suppression or audio mute function\nStandard 5-pin MIDI input and output to interface with other devices or controllers\nCompact Size – 4.8″ x 2.6″ x 1.4″, same size as Boss, Chase Bliss, or Alexander pedals\nAvailable with soft-touch footswitches or in a switchless version with programming button on the right side.\nMulti-color LED indicators to show loop status or preset selection\nUSB port connects to your DAW or mobile device for MIDI communication or firmware update.\nRuns on standard 9V power, 100mA or less",
+    "hrid": "disaster-area-dpc.micro"
+}

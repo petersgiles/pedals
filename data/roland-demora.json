@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13150",
+    "name": "Demora",
+    "image": "images/roland-demora.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo",
+        "Multieffect"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$335 Price in €",
+    "width": 106,
+    "height": 128,
+    "details": "Programmable high-resolution delay with CV/Gate and Eurorack compatibility. DEMORA is a unique modular effect combining an all-new, high-resolution delay with unprecedented control and flexibility. Able to be used as a tabletop unit or as a Eurorack module, and with an array of CV/Gate inputs, this compact 21 HP unit has a wide range of uses from studio production to live performance. Not only for modular synth users, DEMORA is perfect for keyboard players, guitarists, DJs or any adventurous musician looking to expand their sound. Carefully crafted in Japan, DEMORA has large, ultra-smooth controls with over 16 million steps of resolution and is fully re-programmable via computer, smartphone or tablet.\nDEMORA is an all new delay algorithm with a smooth, creamy sound and quick response that is as fun to tweak as it is to hear. With the massive range of delay times and buffer hold function you can create anything from ultra-subtle widening to dramatic rhythmic effects. Using the large comfortable controls or standard 1/8\" patch cables, you can independently control the delay time, feedback, width, wet/dry signal, delay hold and signal bypass. Both the delay time and feedback parameters have input level controls for adjusting the modulation range when controlled from an external source. Two inputs and two outputs make DEMORA a stereo-capable, 24bit/96kHz audio interface for Eurorack systems and AIRA Link USB compatibility gives it single-cable, plug and play connectivity with the MX-1 Mix Performer.\nhttp://www.roland.com/products/demora/",
+    "hrid": "roland-demora"
+}

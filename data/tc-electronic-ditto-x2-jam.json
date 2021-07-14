@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18712",
+    "name": "Ditto X2 Jam",
+    "image": "images/tc-electronic-ditto-x2-jam.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$252 Price in €",
+    "width": 113,
+    "height": 135,
+    "details": "Looper\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/DITTO-JAM-X2-LOOPER/p/P0DAT",
+    "hrid": "tc-electronic-ditto-x2-jam"
+}

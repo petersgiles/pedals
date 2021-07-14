@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29188",
+    "name": "GA Custom",
+    "image": "images/korg-ga-custom.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 111,
+    "height": 74,
+    "details": "Card-type compact tuners have long-been KORG’s most popular tuners. The diverse lineup includes the GA series for guitar/bass and the multi-use CA series, and has continued to support the tuning needs of beginners and professionals alike. We now introduce a new model: the GA Custom.\nThe GA Custom features a large 3D visual meter, the first of its kind for a compact tuner. Three-dimensional lights and versatile display modes deliver an unprecedented level of visibility. Its ultra-high ±0.1 cent tuning precision also meets professional needs. The flat body with rubberized exterior is even more compact and portable than ever. A high-sensitivity mic is built-in, allowing it to be used not only with guitar/bass but also with orchestral and acoustic instruments. The GA Custom is a new type of compact tuner that packs a ton of high-end functionality into a convenient and highly portable package.\nhttps://www.korg.com/nz/products/tuners/ga_custom/index.php",
+    "hrid": "korg-ga-custom"
+}

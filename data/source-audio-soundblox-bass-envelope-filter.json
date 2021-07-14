@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13890",
+    "name": "Soundblox Bass Envelope Filter",
+    "image": "images/source-audio-soundblox-bass-envelope-filter.jpg",
+    "function": [
+        "Bass",
+        "Filter"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 184,
+    "details": "",
+    "hrid": "source-audio-soundblox-bass-envelope-filter"
+}

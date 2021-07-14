@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11477",
+    "name": "SpectraComp Bass Compressor",
+    "image": "images/tc-electronic-spectracomp-bass-compressor.jpg",
+    "function": [
+        "Dynamics",
+        "Bass",
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$111 Price in €",
+    "width": 48,
+    "height": 94,
+    "details": "Effect Pedal for Bass GuitarUltra-compact multiband bass compressor offers you phenomenal tone and built-in TonePrint technology in a tiny form factor\nAdvanced studio-quality compression algorithm is perfectly tuned to bass frequencies, giving a unified and balanced sound across your strings\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\n\nDesign your own customized compression effects from scratch with free TonePrint Editor for PC, Mac* and iPad*\n\nSimple one-knob control lets you focus on playing\n\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\n\nHigh-quality components to give you a true studio-grade compressor in a pedal format\n\nExtra-small enclosure easily fits on any pedal board\n\nSturdy die-cast metal case designed for life on the road\n\n3-Year Warranty Program*\n\nDesigned and engineered in Denmark\n\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Bass/Stompboxes/SPECTRACOMP-BASS-COMPRESSOR/p/P0DDP#",
+    "hrid": "tc-electronic-spectracomp-bass-compressor"
+}

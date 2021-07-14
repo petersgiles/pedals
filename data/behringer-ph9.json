@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31217",
+    "name": "PH9",
+    "image": "images/behringer-ph9.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Behringer",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 69,
+    "height": 113,
+    "details": "Classic 90° Phase ShifterLooking for a pedal that provides both classic and modern phase shifting, without the steep learning curve? With just a single knob and switch, the PHASER PH9 gives you ultra-warm and bubbly phasing tones that will keep your audience totally mesmerized.\nThanks to its simple control layout, the PH9 serves up amazing 90° phase shifting with spacey warbles and mind-blowing, hypnotic swirls, with the absolute minimal amount of tweaking. The dedicated Rate control sets the speed of the effect, while the Swirl switch alternates the phasing character between modern to vintage.\nDesigned to withstand the rigors of the road, the PH9’s build quality is second to none. A status LED for effect on/off and battery check is included, plus there is a true hard-wire bypass for the ultimate in signal integrity. You can power the PH9 with a 9 V battery or our PSU-SB DC power supply (not included).\nhttps://www.behringer.com/product.html?modelCode=P0522",
+    "hrid": "behringer-ph9"
+}

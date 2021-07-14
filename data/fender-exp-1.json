@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16536",
+    "name": "EXP-1",
+    "image": "images/fender-exp-1.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 88,
+    "height": 210,
+    "details": "Volume/Expression pedal for Mustang amps\nhttps://shop.fender.com/en-PL/accessoriespedals-power-products/exp-1-expression-pedal/2301050000.html",
+    "hrid": "fender-exp-1"
+}

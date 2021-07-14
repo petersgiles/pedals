@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16306",
+    "name": "Multidrive",
+    "image": "images/empress-effects-multidrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "Overdrive, Distortion and FuzzOverview\nThe idea of blending amps together has been a studio trick used on countless recordings over the years. Being able to blend the strengths of certain amplifiers and have other amps fill in the weaknesses produces a richer, better balanced sound. Up until now, the only way to repoduce this live was to haul a few amps around with you on the road. After a few gigs of doing that, a lot of players end up compromising tone for the ease of carrying 1 amp around with them. This is where the multidrive shines. \nThe multidrive allows you to blend Overdrive, Distortion and Fuzz together, creating a full and rich array of tones that would not be available otherwise. Let the sustain of fuzz, the bite of distortion and the clarity and note definition of overdrive all work together! It's like having an overdrive pedal, a fuzz pedal, and a distortion pedal, all in one box. \nFeatures\nAll Analog Signal Path - innovative analog signal path which harnesses the best characteristics of germanium diodes, class-a BJT amplifiers, FET distortion and soft led clipping curves to deliver amp-like tones.\nUltimate Control - independent control over the amount of fuzz, distortion and overdrive that gets added in parallel to create the final sound. Each can have a high pass or low pass filter engaged.\nIncredible Value - The Empress Multidrive is three pedals in one!\nClassic Fuzz - great fuzz sound which allows for smooth, rich sustain and great note definition.\nVintage Overdrive - Unique overdrive circuit which has athe smooth germanium break-up and the compressed characteristics of a tube amp.\nVersatile Distortion Pedal- With three modes, the distortion will go from controlled to sizzling, all while retaining a super tight low end. It naturally compresses at high gains like a hi-gain amp.\nBass - Works great on bass! It's easy to blend a distorted top end with a crystal clean low end to get an aggressive vibe with punchy and dynamic lows.\nComprehensive EQ - Smooth sounding high and low shelving EQ combined with a powerful frequency selectable mid band bell.\nTrue Bypass - The Empress Mmultidrive employs true bypass, so you can be sure that it's not affecting the signal when disengaged.\nPresets - Use the select switch to toggle between 2 preset combinations\nSmall Size - The enclosure measures approximately 4.5\" by 3.5\" by 1.5\", which is delightfully small when considering all the features packed into this unit.\nTrue Display LEDs - Bright multi-color LEDs always let you know what the Multidrive is doing.\nBeautiful Case - It has a sparkle you can't deny!\nhttps://empresseffects.com/products/multidrive",
+    "hrid": "empress-effects-multidrive"
+}

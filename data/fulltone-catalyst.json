@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22367",
+    "name": "Catalyst",
+    "image": "images/fulltone-catalyst.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$134 Price in €",
+    "width": 69,
+    "height": 102,
+    "details": "",
+    "hrid": "fulltone-catalyst"
+}

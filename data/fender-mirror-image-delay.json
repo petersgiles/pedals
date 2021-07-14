@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17555",
+    "name": "Mirror Image Delay",
+    "image": "images/fender-mirror-image-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Fender",
+    "current": "72 mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 95,
+    "height": 124,
+    "details": "Mirror Image DelayThere’s no denying the power of a good delay; ranging from subtle to smashing, this ambient effect is one of the cornerstones of modern music. The Mirror Image Delay brings this atmospheric effect to your rig, giving you the ability to create depth with a simple slapback or develop an epic soundscape with modulated repeats. Digital, Analog, and Tape modes—each with two voicing variations—make this expressive and inspiring pedal indispensable. It even has the option to add a dotted-eighth note for those Irish-inspired washes of sound. The delay tails continue when the pedal is bypassed, ensuring a natural sound.\nhttps://shop.fender.com/en-US/effects-pedals/time-based/mirror-image-delay/0234535000.html",
+    "hrid": "fender-mirror-image-delay"
+}

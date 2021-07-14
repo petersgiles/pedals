@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29836",
+    "name": "Joker Octave",
+    "image": "images/lovepedal-joker-octave.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$162 Price in €",
+    "width": 62,
+    "height": 115,
+    "details": "Octave up and down",
+    "hrid": "lovepedal-joker-octave"
+}

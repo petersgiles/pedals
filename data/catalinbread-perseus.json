@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20121",
+    "name": "Perseus",
+    "image": "20121.b.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$190 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Sub Octave FuzzThe Catalinbread Perseus Sub Octave Fuzz pedal provides the bludgeoning one-two punch of both an octave down effect and beefy fuzz in one compact pedal. Allowing you to set your octave tone either one or two octaves below your playing and dial just the amount of fuzz you want, you can achieve everything from clean, dubby bass to a righteous wall of heavy metal tone. Whether you're playing leads in a stoner rock trio or looking to thicken up your tone for an experimental indie project, the Catalinbread Perseus can serve up all the fuzzy low-end power you need.\nhttps://catalinbread.com/products/perseus",
+    "hrid": "catalinbread-perseus"
+}

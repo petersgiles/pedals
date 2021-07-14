@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17370",
+    "name": "Vox v845 wah",
+    "image": "images/vox-vox-v845-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$69 Price in €",
+    "width": 102,
+    "height": 252,
+    "details": "v845 Wah\nhttp://www.voxamps.com/v845",
+    "hrid": "vox-vox-v845-wah"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17641",
+    "name": "Bad Horsie",
+    "image": "images/morley-bad-horsie.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Morley",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 152,
+    "height": 235,
+    "details": "Wah BAD HORSIE WAH FEATURES (MODEL VAI-1)·\n* Electro-Optical Switching: Your pedal features Electro-Optical switching circuitry that allows the Bad Horsie pedal to go into Wah mode without actuating a switch.\n*Silent Switching: To further enhance the noiseless operation of our Electro-Optical design, we've added FET silent switching. Standard foot switches will pop and click when switching from Wah to Bypass. Your Bad Horsie offers a smooth and quiet transition, making this pedal ideal for studio recording as well as live performances.·  \n*Buffer Circuit: Morley's \"Clear Tone\" buffer circuit prevents \"loading\" of the guitar signal. Ensures a strong, clean & consistent output level in Wah or bypass mode.\nADJUSTABLE OFF DELAY: The Bad Horsie Wah has a unique switchless feature. Steve's personal preference was to have a slight delay time on the bypass (when you take your foot off it takes about one second for the pedal to automatically switch to bypass). After numerous requests for this to be adjustable, we incorporated an adjustment located in the pedal. The pedals are still set to Steve's specifications at the factory. If you would like to adjust the off time, follow these steps:\n1) Remove four bottom cover screws and bottom cover. \n2) Locate trim-pot labeled \"WAH OFF DELAY\" (it is about 3 inches up and about 1-1/2\" left from the center heel end of pedal.\n3) Use a miniature screwdriver (like the ones used for eye glasses) to turn the center adjustment of the trim-pot to customize it for your setting.\n4) Turning the trim-pot clockwise shortens the off delay time. Counter-clockwise lengthens the off delay time. The off delay time can be adjusted from instantaneous up to 3.5 seconds. \n5) If you have questions about this procedure, feel free to call 847-639-4646 (ext 14).\nPOWER: 9 Volt Battery or Morley's 9VDC 300 milliamp regulated adapter (center pin in negative)\nCURRENT DRAW: 12 mA @ 9 VDC\nWEIGHT: 3.3 lb./ 1.51 kg\nINDICATOR: Wah effect on or Bypassed",
+    "hrid": "morley-bad-horsie"
+}

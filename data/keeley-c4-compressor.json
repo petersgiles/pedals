@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11626",
+    "name": "C4 Compressor",
+    "image": "images/keeley-c4-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$261 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Effects pedal",
+    "hrid": "keeley-c4-compressor"
+}

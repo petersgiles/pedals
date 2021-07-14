@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27605",
+    "name": "Back Talk",
+    "image": "images/danelectro-back-talk.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "82 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 59,
+    "height": 111,
+    "details": "Reverse DelayOne of Danelectro's most coveted effects pedals is back, in the Back Talk reverse delay pedal. If you're a fan of delay pedals, you've probably encountered dozens that offer a reverse delay mode — so why do original Back Talk pedals from the '90s go for hundreds of dollars in the used marketplace? Danelectro worked some sonic magic with this circuit, delivering some of the richest, tape-like reverse delay and echo effects ever created. Guitarists at Sweetwater will freely admit it's not an effect you need on every song — but when you need it, the Danelectro Back Talk reverse delay pedal's rich, chewy character speaks for itself.\nhttps://danelectro.com/pedals/back-talk-roebuck/",
+    "hrid": "danelectro-back-talk"
+}

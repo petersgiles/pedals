@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20451",
+    "name": "VIBRATO",
+    "image": "images/kokko-vibrato.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Kokko",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 53,
+    "height": 94,
+    "details": "Pitch vibratoPitch vibrato with similar tone to the classical boss VB-2.\nHas a hold feature to turn the effect on while pressing and off on release. The ramp knob controls how long it takes to the hold function start the effect.\nThere isn't a vibrato category, so I've put it in pitch shifting.",
+    "hrid": "kokko-vibrato"
+}

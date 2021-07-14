@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23071",
+    "name": "Fuzz Phrase LTD",
+    "image": "images/jam-pedals-fuzz-phrase-ltd.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "3 mA / 9 V / AC/DC",
+    "cost": "$369 Price in €",
+    "width": 74,
+    "height": 119,
+    "details": "Germanium Fuzz FaceDescription\nAs our stock of Fuzz Phrase-compatible CV7003s is gradually depleting, we are proud to re-introduce it, celebrating its uniqueness and scarcity with point- to-point wiring housed in a luxurious leather enclosure.\nThe most crucial ingredient when it comes to a Germanium Fuzz pedal’s quality, sound and “clean- ability”, is transistor choice. In our experience there’s nothing quite like the CV7003, military-spec OC44 germanium transistors.\nThe few-and-far-between CV7003, are extremely consistent and heat-resistant, much more so than the AC128 and NKT275 transistors, placing the Fuzz Phrase in a league of its own. The CV7003’s consistency is so dependable that an external bias pot is rendered unnecessary. You are likely to never have to adjust the bias on your pedal!\nEach individual transistor is measured for gain and leakage and then hand picked and matched through sound audition.\nAlong with the use of carbon comp resistors and tropical fish capacitors, the result is pure vintage fuzz goodness! Just mess around with the guitar volume to find the sweet spots, from clean, to rude, to devastating!\nhttps://www.jampedals.com/fuzz-phrase/",
+    "hrid": "jam-pedals-fuzz-phrase-ltd"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12269",
+    "name": "Sunday Driver",
+    "image": "images/lehle-sunday-driver.jpg",
+    "function": [
+        "PreAmp",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 90,
+    "height": 92,
+    "details": "PreampThe Lehle Sunday Driver is a high end preamp with a convenient compact format. It features JFET-based circuitry and provides two modes of operation, with selection via a mode selector switch with gold-plated contacts: \"D\" stands for Driver; in this mode, the guitar signal is amplified, with absolutely no modification, at the input impedance of a guitar amp, efficiently eliminating losses on the route through leads and effects; the signal remains strong and clear, retaining its full dynamics. The second setting \"S\" - as in Sunday - multiplies input impedance by four, bringing out previously inaudible details and, as gain increases, imparting to the guitar sound a characteristic and unmistakable warmth that has given this preamp its name - the result is a sound as mellow as a sunny Sunday afternoon! Even at a 15dB gain setting, the Lehle Sunday Driver always stays clean and absolutely free of background noise, thanks to its studio-standard signal-to-noise ratio of over -100 dB. To exploit the dynamics of tube amplifiers to the full, the input voltage is also rectified from the power supply socket, then filtered, stabilized and doubled to 18V. With its broad output range of 20 to 100,000 Hz, the Lehle Sunday Driver, powered by a standard 9V (PP3) battery, can be used anywhere, whether as a cable driver for stadium and other large stages, in complex effects set-ups, or as a recording preamp - and not just Sundays!\nSuccessor: SUNDAY DRIVER II\nhttps://lehle.com/EN/Lehle-Sunday-Driver-II",
+    "hrid": "lehle-sunday-driver"
+}

@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17333",
+    "name": "Spectravibe",
+    "image": "images/endangered-audio-research-spectravibe.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion",
+        "Filter",
+        "Multieffect",
+        "Rotary",
+        "Tremolo"
+    ],
+    "manufacturer": "Endangered Audio Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$285 Price in €",
+    "width": 140,
+    "height": 140,
+    "details": "Analog Multi-FXThe Endangered Audio Research Spectravibe is an all-analog multi-effect pedal that is about to become your pedalboard's new secret weapon. Based off the retired Gristleizer stompbox, the Spectravibe is a new evolution in modulation and distortion that is destined to become the pulsating heart of your rig.\nhttp://www.endangeredaudioresearch.com/pedals/#/spectravibe/",
+    "hrid": "endangered-audio-research-spectravibe"
+}

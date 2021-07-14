@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13636",
+    "name": "Boost D.L.A. (ver. 3)",
+    "image": "images/tech-21-boost-d.l.a.-(ver.-3).jpg",
+    "function": [
+        "PreAmp",
+        "Chorus",
+        "Delay",
+        "Digital",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 97,
+    "height": 119,
+    "details": "Analog Delay Emulator with Clean Boost and Tap TempoTech 21 brings a fresh perspective to the standard delay pedal. By incorporating a clean Boost function, up to 9dB, your solos will jump out with greater dimension. The Boost DLA is designed with user-tweakable, “lo-fi” analog technology. By manipulating the controls, you can infuse degrees of warmth and life characteristic of vintage delays. The circuitry intentionally injects the inherent imperfections of vintage units, which is what makes them so seductive and nostalgic. A single, continuously-variable Time control provides a full sweep, up to 1000 milliseconds, of delay. The Boost DLA parameters are engineered so that you can explore and custom tailor such delay styles as digital, vintage tape and bucket brigade. \nhttp://www.tech21nyc.com/products/effects/boostdlatt_v3.html",
+    "hrid": "tech-21-boost-d.l.a.-(ver.-3)"
+}

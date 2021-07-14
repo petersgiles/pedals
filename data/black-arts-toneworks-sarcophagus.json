@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12292",
+    "name": "Sarcophagus",
+    "image": "images/black-arts-toneworks-sarcophagus.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Black Arts Toneworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$365 Price in €",
+    "width": 145,
+    "height": 119,
+    "details": "Pharaoh and LSTR in one pedalThe Sarcophagus takes two massive circuits and combines them into one unit, saving space, cabling and powering. The Pharaoh and LSTR are both present in the entirety with the addition of a toggle to reverse effect order. Pharaoh into LSTR or LSTR into Pharaoh. Built especially for the gain freaks, those who love more. More gain, more low end, more volume. A pedal of unruly proportions, taking your tone to the underworld. This pedal operates on a Standard 9VDC power supply. No battery connection.\nhttps://www.blackartstoneworks.com/pedal/sarcophagus/",
+    "hrid": "black-arts-toneworks-sarcophagus"
+}

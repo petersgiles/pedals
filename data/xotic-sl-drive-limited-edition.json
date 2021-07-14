@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23458",
+    "name": "SL Drive Limited Edition",
+    "image": "images/xotic-sl-drive-limited-edition.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Xotic",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$224 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "SL DRIVE CHROMEStompboxes with small footprints are an obvious plus for any pedalboard, and Xotic’s new SL Drive Chrome Edition ($124 street), packs a lot into a rugged cast-aluminum enclosure that measures only 3.5\" x 1.5\" x 1.5\". Only 3,000 units are being produced in this limited-edition package, which also includes the Xotic Voltage Doubler, a small unit that interfaces between the SL Drive and an optional 9VDC power supply to increase the voltage up to 18VDC for increased headroom and presence\nhttps://xotic.us/effects/sl-drive/",
+    "hrid": "xotic-sl-drive-limited-edition"
+}

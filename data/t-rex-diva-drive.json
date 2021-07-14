@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33463",
+    "name": "Diva Drive",
+    "image": "images/t-rex-diva-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "11 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 70,
+    "height": 117,
+    "details": "OverdriveDIVA was built to enhance your sound—not replace it. No matter how much gain you add, no matter how you choose to beef up your low end, DIVA will respect your musicianship, your gear and your personal tone. Use it for that subtle “one more notch” effect. Or lay on the gain for some serious, punchy bite. Any way you use it, you’ll sound amazing, just like you.\nVERSATILE PREMIUM OVERDRIVE\nGorgeous “JRC4558” overdrive gain\n\nAdds juice, but leaves core tone intact\n\nVirtuoso performance at any gain level\n\nMix in clean signal for extra punch\n\n3 low-end boost options match any guitar\n\nhttps://www.t-rex-effects.com/diva-drive",
+    "hrid": "t-rex-diva-drive"
+}

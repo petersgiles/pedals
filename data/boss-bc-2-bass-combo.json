@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12798",
+    "name": "BC-2 Bass Combo",
+    "image": "images/boss-bc-2-bass-combo.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation",
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "45 mA / 9 V / DC / Negative Center",
+    "cost": "$70 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Classic “AC-inspired” British combo-amp toneWide range of tones with a single knob —from classic crisp clean and punchy crunch to creamy overdrive with long sustain and beyond\nNatural and dynamic response to picking nuance at any knob position\nProvides warm combo tones and authentic combo-amp cabinet resonance\nhttps://www.boss.info/us/products/bc-2/",
+    "hrid": "boss-bc-2-bass-combo"
+}

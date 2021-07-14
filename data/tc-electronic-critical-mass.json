@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28904",
+    "name": "Critical Mass",
+    "image": "images/tc-electronic-critical-mass.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$119 Price in €",
+    "width": 89,
+    "height": 137,
+    "details": "TC-Helicon Critical Mass Pedal for Gang Vocals, Melodic Vocals & ReverbStudio-Quality Vocal Stompbox for Large Group-Sound Effects\nhttps://www.tc-helicon.com/product.html?modelCode=P0CGT",
+    "hrid": "tc-electronic-critical-mass"
+}

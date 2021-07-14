@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27365",
+    "name": "Doppelganger",
+    "image": "images/lovetone-doppelganger.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Phase Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Lovetone",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 200,
+    "height": 185,
+    "details": "Twin oscillator phaser / vibratoThe DOPPELGANGER™ is a mesmerising twin oscillator phaser/vibrato but being in the grand Lovetone tradition it offers a whole range of classic (and non-classic!) uses never previously available in one unit. Its trademark is an unparalleled purity and transparency of tone and harmonic richness making it a real texture machine. The subtle yet ever-changing way the controls interact has a truly mesmerising effect which speaks directly to the sub-conscious mind (as well as the stoned mind!). It covers the whole spectrum from mellow and virtually subliminal, to Hendrix-y, to crunchy and chomping (reminiscent of the ubiquitous 70's phase sound), to swirling rotary-type FX.\nhttp://www.lovetone.com/doppelg.html",
+    "hrid": "lovetone-doppelganger"
+}

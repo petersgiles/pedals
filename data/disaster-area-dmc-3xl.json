@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19052",
+    "name": "DMC-3XL",
+    "image": "images/disaster-area-dmc-3xl.jpg",
+    "function": [
+        "Controller",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 122,
+    "height": 66,
+    "details": "",
+    "hrid": "disaster-area-dmc-3xl"
+}

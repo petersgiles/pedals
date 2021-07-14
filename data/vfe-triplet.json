@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19533",
+    "name": "Triplet",
+    "image": "images/vfe-triplet.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "VFE",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "COMP + OCTAVE + DIST\nhttp://www.vfepedals.com/the-triplet.html",
+    "hrid": "vfe-triplet"
+}

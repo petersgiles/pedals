@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22223",
+    "name": "Tone Burst",
+    "image": "images/mesa-engineering-tone-burst.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 73,
+    "height": 122,
+    "details": "Boost/Overdrive\nhttps://www.mesaboogie.com/pedals--related/electric-guitar-pedals/boost-pedals/tone-burst.html",
+    "hrid": "mesa-engineering-tone-burst"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19584",
+    "name": "Pitchblack Advance PB-AD",
+    "image": "images/korg-pitchblack-advance-pb-ad.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 68,
+    "height": 111,
+    "details": "TunerCutting-edge design, with a superbly visible display\nUltra-high tuning accuracy of +/- 0.1 cents\nFour meter display modes\nTrue bypass has absolutely no effect on the sound\nDC out allows parallel connection for powering other pedals\nCompletely eliminates noise caused by using a power supply\nAchieves up to 60 hours of battery life\n\nhttps://www.korg.com/us/products/tuners/pitchblack_advance/",
+    "hrid": "korg-pitchblack-advance-pb-ad"
+}

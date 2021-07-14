@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31958",
+    "name": "Tube EQ",
+    "image": "images/electro-harmonix-tube-eq.jpg",
+    "function": [
+        "Equalizer",
+        "Tube"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "1000 mA / 12 V / AC",
+    "cost": "$255 Price in €",
+    "width": 157,
+    "height": 270,
+    "details": "Analog Parametric/Shelving EqualizerGlobal warming! Plain and simple, the Tube EQ is the first affordable vacuum tube equalizer that guarantees the warmest balancing of tone. There is nothing like quality vacuum tube equalization.\n• True bypass using a mechanical relay\n• Parametric EQ lets you change the EQ's center frequency and Q, allowing you to zero in on and boost specific frequencies\n• Gain control for parametric EQ to set amount of frequency boost\n• High/low shelving filter allows boosting or cutting the treble and bass frequencies\n• Professional EQ package with professional sound\n• Expression pedal input to sweep the parametric EQ's center frequency for use as a wah\n• Great to warm up the signal chain in home studios\n• Two 12AX7WA vacuum tubes\n• 12VAC-1000 power supply\nhttps://www.bestbuy.ca/en-ca/product/electro-harmonix-tube-eq-analog-parametric-shelving-equalizer/10475848",
+    "hrid": "electro-harmonix-tube-eq"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15149",
+    "name": "ABC",
+    "image": "images/morley-abc.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Morley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 168,
+    "height": 111,
+    "details": "Selector Combiner SwitcherIf you use three different guitars or three different amps on your gigs, this little routing pedal is a lifesaver. No more muting and unplugging your cable to switch between e.g. two electric and one acoustic guitar. Just connect it all to the ABC and route any three inputs to the same output – or any one input to three separate outputs.\nPLEASE NOTE! DO NOT use on powered speaker lines. You WILL damage your amp, speakers or both!\nMAIN FEATURES & SPECS\nFlexible Routing – Route 1 input to 3 outputs, or 3 inputs to 1 output.\nABC – Simply select and combine as needed.\nVisual Feedback – 3 LEDs gives you a clear status overview of the channels.\nTrue Bypass and Passive – The ABC is passive and requires no power to work. Power is needed only for the LEDs.\nPower – Morley 9V 300mA adapter or 9V battery.\nEasy Battery Access – No tools needed with the Quick Clip battery door.\nBuilt to Last – Road-worthy, cold-rolled steel housing.\nDimensions – 6.63″ L x 4.38″ W x 2″ H\nCurrent Draw – 2 mA\n1 Year Warranty – Please keep your purchase receipt.\n\nhttp://www.morleypedals.com/abc-selector-combiner-switch/",
+    "hrid": "morley-abc"
+}

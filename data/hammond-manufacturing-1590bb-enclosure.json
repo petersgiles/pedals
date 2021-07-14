@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15700",
+    "name": "1590BB Enclosure",
+    "image": "images/hammond-manufacturing-1590bb-enclosure.jpg",
+    "function": [],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$5 Price in €",
+    "width": 94,
+    "height": 119,
+    "details": "Diecast 1590BB size stombox enclosure.\nhttp://hammondmfg.com/dwg.htm",
+    "hrid": "hammond-manufacturing-1590bb-enclosure"
+}

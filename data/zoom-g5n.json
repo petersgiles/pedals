@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21967",
+    "name": "G5n",
+    "image": "images/zoom-g5n.jpg",
+    "function": [
+        "Expression",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$330 Price in €",
+    "width": 457,
+    "height": 241,
+    "details": "Multi-effects Processor for GuitaristsWhen we designed the G5n, our goal was to create the finest collection of guitar effects ever offered in one innovative package. From \"FunkSauce\" to \"Texas Toast,\" from \"Carlos\" to \"Heavensent,\" the G5n delivers dozens of tonalities sure to please the most discerning guitarist.\nhttps://www.zoom-na.com/products/guitar-bass-effects/guitar/zoom-g5n-multi-effects-processor",
+    "hrid": "zoom-g5n"
+}

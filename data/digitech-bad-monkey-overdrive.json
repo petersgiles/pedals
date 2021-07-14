@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12247",
+    "name": "Bad Monkey Overdrive",
+    "image": "images/digitech-bad-monkey-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$34 Price in €",
+    "width": 79,
+    "height": 114,
+    "details": "",
+    "hrid": "digitech-bad-monkey-overdrive"
+}

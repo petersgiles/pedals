@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12140",
+    "name": "The Fanout Box",
+    "image": "images/rmc-the-fanout-box.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "RMC",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 241,
+    "height": 44,
+    "details": "polyphonic pickup Patch Bay and Mix unitHalf-Rack format for efficient use of rack space\nCompatible with all current MIDI converters: Roland GR-09, GR-1, GI-10, GR-30, Yamaha G50, AXON NG-66, AXON AX-100 etc...\nCompatible with all current Polyphonic Processors: Roland VG-8, etc...\nAllows one instrumetn to drive 2 Guitar Synths or 1 Guitar Synth or MIDI Converter and 1 Polyphonic Processor simultaneously\nProvides 6 separate String Outputs (jacks 1-6) for connection to 6 separate inputs of sound mixing console or P.A. system\nIndependent A & B custom mixes with independent String Select Switching for string splits & stereo sound\nIndependent A & B loops for split or stereo effects\nStudio quality performance 90dB S/N typical\nPoly IN accepts standard 13-pin connection and is connected to ring connections of jacks #1-11 so they can be used as discrete outputs\nPoly OUT 1 jack connected to tips of jacks #1-11 so they can also be used as inputs (I/O port configuration)\nPoly OUT 2 jack parallel to Poly IN jack allows independent control of second Polyphonic Processor or Guitar Synth\nRemote D.C. Volume (Synth Vol.) jack\nRemote SW 1 and SW 2 jacks\nAccess to pin 9 (spare line in Roland pinout) useful for additional custom remote control features\nThe FANOUT BOX is a polyphonic Patch Bay and Mix unit which allows the separate string signals of a polyphonic guitar or bass to be individually routed to an array of amplifiers, a sound console or a multi-track recording system. It also allows the separate recorded tracks to be played back into a pitch-to-MIDI converter or other Polyphonic processor. This provides the musician with full polyphonic control over recording, mixdown, processing and amplification. The unit also provides two Custom String Mixes (A & B) each one with its discrete Loop (send/return) connection for separate external processing, as well as a Mono Out for the main instrument signal.\nThe FANOUT BOX also allows a single polyphonic instrument to drive two different polyphonic units by using Poly-OUT 1 jack on the front panel, and Poly-OUT 2 jack on the back panel.\nBecause most of the connections in the unit are of the I/O (input/output) type, it is possible to use the FANOUT BOX to connect a microphone or other monophonic Live or recorded signal source to a guitar/synth or guitar-to-MIDI converter for single-note pitch detection applications. \nThe 2-pound half-rack unit is very easy to use. The User Maual is brief and easy to read. The possibilities are limitless . . . \nMany of our customers are using the unit in conjunction with our line of pickups and polyphonic Active Electronics to connect separate string signals to different overdrive/delay processors and amplifiers for incredible acoustic and electric effects onstage and in the studio.\nhttp://www.rmcpickup.com/fanoutbox.html",
+    "hrid": "rmc-the-fanout-box"
+}

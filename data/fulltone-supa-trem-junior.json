@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31734",
+    "name": "Supa-Trem Junior",
+    "image": "images/fulltone-supa-trem-junior.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$226 Price in €",
+    "width": 99,
+    "height": 102,
+    "details": "Compact, full-featured tremoloSupa-Trem Junior\nThe logical progression to the beloved Supa-Trem1 is here!\nIt's a much, much smaller than the ST-1 at only 3.9\" wide x 4\" deep, and more intelligent version of the epic Supa-Trem1. Sporting True-Bypass,Tap-Tempo, external Tap jack, Half/Double hold feature, up to 15dB boost, true Square, Sine, and the natural heartbeat-like Warble wave-forms! It also can do speeds so slow that a full cycle takes around 10 seconds, and fast speeds beyond 220bpm. The heart of the ST-1 is still there, the warm Analog Devices JFET preamp. And this pedal is so small it will fit in your pocket, and with its top-mounted jacks, will fit in any little spot on your board. Don't forget, just like the ST-1, the Jr also works as an incredible clean boost with the Mix control turned down!\nFEATURES\nDimensions: 3.9\" wide x 4\" deep x 2.5\" tall\n9-18VDC operation, green circuit design pulling only 30mA of current.\nTiny package! only 3.9\" wide x 4\" deep x 2.5\" tall.\n16 gauge cold rolled steel chassis with easy battery access via 2 thumbscrews.\nLike the ST-1, controlled by the Fulltone-designed and manufactured Opto-1 Photocell.\nTrue-Bypass switching with Bright Red LED & exclusive Fulltone “No-Pop” circuit.\nConstantly flashing Blue LED for Tempo (even when pedal off to easily match song)\n100% Built in the USA.\nTap-Tempo.\nExternal Tap jack!\nHalf/Double feature accessed by holding down Tap switch for ¾ of a second.\nUp to 15dB boost (cool feature!) Turn \"Mix\" knob all the way down and the pedal becomes the world's best clean boost pedal!\nTop-mounted jacks and DC port.\n3 switchable waveforms:\nSquare, (modified)Sine, and (heartbeat-like) Warble wave-forms. Digital Brain (for the oscillator only) with 100% analog signal path. Unlike the ST-1, the Jr can do speeds so slow that a full cycle takes around 10 seconds, and fast speeds beyond 220bpm. The heart of the ST-1 is still there, the warm Analog Devices JFET preamp. And this pedal is so small it will fit in your pocket, and with its top-mounted jacks, will fit in any little spot on your board. Just like the ST-1, the Jr also works as an incredible clean boost with the Mix control turned down!\nhttps://www.fulltone.com/products/supa-trem-junior",
+    "hrid": "fulltone-supa-trem-junior"
+}

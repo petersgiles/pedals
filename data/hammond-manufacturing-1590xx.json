@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20708",
+    "name": "1590XX",
+    "image": "images/hammond-manufacturing-1590xx.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 145,
+    "height": 121,
+    "details": "1590XX Enclosure",
+    "hrid": "hammond-manufacturing-1590xx"
+}

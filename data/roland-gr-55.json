@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12143",
+    "name": "GR-55",
+    "image": "images/roland-gr-55.jpg",
+    "function": [
+        "MIDI",
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$599 Price in €",
+    "width": 405,
+    "height": 244,
+    "details": "Guitar SynthSound Generator\nPCM: 2 tones\nModeling: 1 tone\nTones\nPCM: 910 types\nModeling: \n23 types (guitar mode)\n17 types (bass mode)\nEffects\nMFX (Multi-Effects): 20 types\nAMP (Preamp): 42 types\nMOD (Modulation): 14 types\nDELAY: 7 types\nREVERB: 5 types\nCHORUS: 4 types\nEQ: 1 type\nPatch Memory\nGuitar mode\nPreset: 270 + User: 297\nBass mode\nPreset: 90 + User: 297\nAD Conversion\n24-bit (GK Pickup)\n24-bit + AF method ** (Normal Pickup)\nDA Conversion\n24-bit\nSampling Frequency\n44.1 kHz\nNominal Output Level\nOUTPUT jacks: -10 dBu\nGUITAR OUT jack: -10 dBuOutput ImpedanceOUTPUT jacks: 2 k ohms\nGUITAR OUT jack: 2 k ohms\nUSB Memory \nAudio Player\nFile Format: WAV, AIFF\nDisplay\nGraphic LCD 240 x 64 dots\nConnectors\nGK IN connector (13 pins DIN type)\nGUITAR OUT jack (1/4-inch phone type)\nOUTPUT L/MONO, R jacks (1/4-inch phone type)\nPHONES jack (Stereo 1/4-inch phone type)\nMIDI connectors (IN, OUT) (5-pin DIN type)\nUSB COMPUTER connector (supports Hi-Speed USB, USB MIDI and\nUSB Audio)\nUSB MEMORY connector (supports Hi-Speed USB Flash Memory)\nDC IN jack\nPower Supply\nDC 9 V\nCurrent Draw\n700 mA\nAccessories\nAC adaptor\nOwner's manual\nDivided pickup (GK-3) (only for GK included model)\nGK cable (5 m) (only for GK included model)\nOptions (sold separately)\nDivided pickup: GK-3 (for guitar), GK-3B (for bass guitar)\nGK cable: GKC-5 (5 m), GKC-10 (10 m)\nMIDI foot controller: FC-300\nUnit selector: US-20\nSIZE AND WEIGHT\nWidth\n405 mm\n16 inches\nDepth\n244 mm\n9-5/8 inches\nHeight\n78 mm\n3-1/8 inches\nWeight\n3.3 kg\n7 lbs. 5 oz.\nhttps://www.roland.com/us/products/gr-55/",
+    "hrid": "roland-gr-55"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13420",
+    "name": "DynaVerb",
+    "image": "images/ebs-dynaverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$240 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "EBS DynaVerb High Dynamics Stereo Reverb PedalWith just two knobs and two switches, the EBS DynaVerb gives you access to a stunning selection of pristine, dynamic reverb sounds. With 24-bit DSP circuitry, it delivers eight different reverbs: three room reverbs, three plate reverbs, and two hall reverbs. Controls include a Reverb level knob, Tone knob, reverb mode switch, and reverb type selector switch. It also has stereo inputs and outputs.\nEBS bass effect pedals are designed to preserve the entire frequency range of your bass signal, use noiseless FET switching, are suitable both for studio and live use, feature robust construction, and are easy to use.\nhttp://ebssweden.com/content2/ebs-dynaverb-guitar-edition/",
+    "hrid": "ebs-dynaverb"
+}

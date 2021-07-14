@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11654",
+    "name": "Koji Comp",
+    "image": "images/suhr-koji-comp.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Suhr",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Electric Guitar Effects Device\nhttps://www.suhr.com/electronics/pedals/compression/suhr-koji-comp-pedal/",
+    "hrid": "suhr-koji-comp"
+}

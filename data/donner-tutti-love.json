@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16010",
+    "name": "Tutti Love",
+    "image": "images/donner-tutti-love.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 40,
+    "height": 89,
+    "details": "",
+    "hrid": "donner-tutti-love"
+}

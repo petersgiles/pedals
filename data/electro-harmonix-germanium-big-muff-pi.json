@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12399",
+    "name": "Germanium Big Muff Pi",
+    "image": "images/electro-harmonix-germanium-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$105 Price in €",
+    "width": 146,
+    "height": 64,
+    "details": "The Electro-Harmonix Germanium 4 Big Muff Pi overdrive and distortiuon pedal is a classic 1960's overdrive based around a hand-selected germanium transistor. The Electro-Harmonix Germanium 4 Big Muff Pi overdrive and distortiuon pedal is a classic 1960's overdrive based around a hand-selected germanium transistor. To get the best results from the E-H Germanium 4, just set aside some time to practice in a quiet room-just you, your amp, and the Germaium OD. The interaction of each control will reward you with many different flavors of exceptional vintage overdrive.\nIn addition to a Gain control, the Electro-Harmonix Germanium 4 overdrive lets you control Bias for attack and the circuit volts for that sweet spot found when a battery's voltage dips. \nThe Gain control adjusts the amount of input signal that is fed to the Electro-Harmonix Germanium 4. The more the knob is rotated the harder the germanium transistor and drive components are hit. The Bias control adjusts the current gain that is sent to the Germanium transistor. It works together with the Voltage control to attain the over all tone. The bias control works specifically with the Germanium transistor. The Volts knob controls the amount of voltage that is applied to the Germanium OD. Set at full, 9V is applied. When set at minimum, 3V is applied. By limiting the voltage a number of interesting saturations can be set up for variations in tone. \nA footswitch turns true bypass on or off.\nThe Electro-Harmonix Germanium 4 runs off of a 9V battery or you can connect a 9VDC adapter capable of delivering at least 100mA to the 9V power jack. The optional 9V power supply from Electro-Harmonix is 9.6DC-200BI (same as used by Boss and Ibanez) 9.6 Volts DC 200mA. The AC power adapter must have a barrel connector with center negative. The battery may be left in or taken out when using an adapter.\nhttp://www.ehx.com/products/germanium-4-big-muff",
+    "hrid": "electro-harmonix-germanium-big-muff-pi"
+}

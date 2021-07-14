@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17472",
+    "name": "Iron Horse V1 Limited",
+    "image": "images/walrus-audio-iron-horse-v1-limited.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "walrus-audio-iron-horse-v1-limited"
+}

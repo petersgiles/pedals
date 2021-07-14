@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22952",
+    "name": "TS-2 True Selector",
+    "image": "images/amt-ts-2-true-selector.jpg",
+    "function": [
+        "Controller",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "AMT",
+    "current": "Pedal is passive",
+    "cost": "$90 Price in €",
+    "width": 73,
+    "height": 111,
+    "details": "A/B channel/pedal passive selectorAMT TRUE SELECTOR TS-2 passive switch (further TS-2) is intended for studio use and live performances.\nTS-2 passive switch is intended for switching of two pedal groups (external signal processing devices) in order to combine them in a single flexible complex which allows you to switch from one sound character to another in no time at all.\nhttps://amtelectronics.com/new/amt-ts-2/",
+    "hrid": "amt-ts-2-true-selector"
+}

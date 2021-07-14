@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24045",
+    "name": "Drone Rainger",
+    "image": "images/rainger-fx-drone-rainger.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$336 Price in €",
+    "width": 104,
+    "height": 116,
+    "details": "Digital DelayDigital delay with 1 second maximum delay time\nTwo built-in fully-tuneable drones for instant atmospheric backing\nCan switch between two notes on-the-fly\nDeeply cool 7-sided custom enclosure\nOne-tone-down spot effect\nPitch ramp-up for major/minor modes\nAerial view of dystopian city lurking inside! (1:1780 scale!)\nChorus effect for extra tone generator 'movement'\n'Dry guitar' option for pedal use purely as a sound source\nTurn down the drone section straightforward delay pedal function.\n\nhttps://www.raingerfx.com/product/drone-rainger-digital-delay/",
+    "hrid": "rainger-fx-drone-rainger"
+}

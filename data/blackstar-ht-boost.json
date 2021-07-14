@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16101",
+    "name": "HT Boost",
+    "image": "images/blackstar-ht-boost.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 119,
+    "details": "",
+    "hrid": "blackstar-ht-boost"
+}

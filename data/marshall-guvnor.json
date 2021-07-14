@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14321",
+    "name": "Guvnor",
+    "image": "images/marshall-guvnor.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 127,
+    "height": 127,
+    "details": "Distortion with advanced EQThis pedal was created in the late 80s to replicate the drive tones of the Marshall Plexi and JCM800 amps. The Guv'nor allows you to control the gain, level, EQ, and sports a loop output for use of other pedals.",
+    "hrid": "marshall-guvnor"
+}

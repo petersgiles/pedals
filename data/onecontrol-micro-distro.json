@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20587",
+    "name": "Micro Distro",
+    "image": "images/onecontrol-micro-distro.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 98,
+    "height": 35,
+    "details": "Power Supply\nhttp://www.one-control.com/micro-distro.html",
+    "hrid": "onecontrol-micro-distro"
+}

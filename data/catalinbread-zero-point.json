@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19207",
+    "name": "Zero Point",
+    "image": "images/catalinbread-zero-point.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$210 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Authentic studio through-zero flanging the way it was originally doneIt’s uncertain what exactly the origin of flanging was. It could have been the result of trying to push the boundaries of multitrack recording, probably due to running a couple tape machines in parallel but not quite in sync… Maybe a guy messing around in the studio brushed up against a take-up reel flange accidentally?  Maybe that guy was Les Paul, maybe it was John Lennon and George Martin? It is unclear. But, what is clear is that the mechanical studio method of achieving the effect became, within a decade, commonplace enough for companies to simulate the effect electronically. The electronic approaches were pretty cool and groundbreaking, but by the 80s became tired and worn out. At Catalinbread we attribute this to the fact that these units controlled the flange effect using an LFO that went up and down at a predictable rate taking the life and freshness out of the effect. When we decided to design a flanger, we knew we would approach it the way they originally did it…\nhttps://www.catalinbread.com/index.php?category=all&product=zero-point",
+    "hrid": "catalinbread-zero-point"
+}

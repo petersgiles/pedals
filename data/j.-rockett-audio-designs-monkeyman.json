@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19905",
+    "name": "Monkeyman",
+    "image": "images/j.-rockett-audio-designs-monkeyman.jpg",
+    "function": [
+        "Distortion",
+        "Reverb"
+    ],
+    "manufacturer": "J. Rockett Audio Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 59,
+    "height": 100,
+    "details": "",
+    "hrid": "j.-rockett-audio-designs-monkeyman"
+}

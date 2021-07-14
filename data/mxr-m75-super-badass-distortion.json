@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11489",
+    "name": "M75 Super Badass Distortion",
+    "image": "images/mxr-m75-super-badass-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$146 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Analog distortion pedal for electric guitar",
+    "hrid": "mxr-m75-super-badass-distortion"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15869",
+    "name": "Chorus",
+    "image": "images/malekko-heavy-industry-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 38,
+    "height": 90,
+    "details": "Transparent true bypass analog chorus pedalFor those knowledgeable on the subject, the long since discontinued MN3007 IC’s result in a much nicer sound than it’s little brother, the MN3207. The MN3007 are coveted by pedal builders and the D.I.Y. community for their superior sound quality. Often counterfeited, these ICs are tricky to purchase. Early in the year 2009 Malekko acquired a giant lot of actual obsolete MN3007 BBD ICs and went to work. The result is a superior lush analog chorus pedal in an unprecedented tiny enclosure…all at an affordable price.\nThis transparent true bypass pedal does not add unwanted frequencies, like some chorus pedals are known to do. Small and simple to use, our chorus has two control pots: speed and depth. From subtle warble to super lush seasickness, this chorus sounds fantastic!\nAlthough this chorus pedal will operate with a 9VDC regulated neg tip power supply (not included), it will sound fuller, richer, and have more headroom with a 18VDC regulated neg tip power supply (not included).\nhttps://malekkoheavyindustry.com/product/chorus/",
+    "hrid": "malekko-heavy-industry-chorus"
+}

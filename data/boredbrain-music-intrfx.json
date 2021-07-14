@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22894",
+    "name": "INTRFX",
+    "image": "images/boredbrain-music-intrfx.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Boredbrain Music",
+    "current": "75 mA / 9 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 94,
+    "height": 94,
+    "details": "Eurorack FX InterfaceThe INTRFX facilitates effects processing between eurorack, guitar pedals and electronic instruments.\n\n3 channels of send & return level conversion\nPer-channel selection of either eurorack thru pedals or line-instrument thru eurorack\nFX blend control with CV input\nCapable of FX feedback and linear VCA functionality\nSmall tabletop form-factor\n\nhttps://www.boredbrainmusic.com/product/intrfx/",
+    "hrid": "boredbrain-music-intrfx"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18352",
+    "name": "Dumbler",
+    "image": "images/rowin-dumbler.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 48,
+    "height": 94,
+    "details": "Overdrive/Tube\nhttps://www.amazon.com/Rowin-Analog-Dumbler-Overdrive-Guitar/dp/B01IUVFXQG/",
+    "hrid": "rowin-dumbler"
+}

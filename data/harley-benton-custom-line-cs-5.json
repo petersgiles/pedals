@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11640",
+    "name": "Custom Line CS-5",
+    "image": "images/harley-benton-custom-line-cs-5.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$44 Price in €",
+    "width": 120,
+    "height": 95,
+    "details": "Compressor Sustainor, pedal for electric guitar",
+    "hrid": "harley-benton-custom-line-cs-5"
+}

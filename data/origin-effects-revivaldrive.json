@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16571",
+    "name": "RevivalDrive",
+    "image": "images/origin-effects-revivaldrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$649 Price in €",
+    "width": 117,
+    "height": 160,
+    "details": "Preamp, overdriveWhen it comes to overdrive, nothing comes close to the sound of a vintage non-master-volume valve amp. So when we set out to design the RevivalDRIVE, we began by looking not at other pedals but at amps.\nWe listened to and analysed countless classic amps to figure what made them sound so good. Then we figured out how to reproduce not just one but all of those sounds in a pedal, with controls that would allow the player to precisely dial in each one – or to mix and match different elements to create something new.\nhttps://origineffects.com/product/revivaldrive/",
+    "hrid": "origin-effects-revivaldrive"
+}

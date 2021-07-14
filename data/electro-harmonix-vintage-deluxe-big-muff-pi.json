@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12956",
+    "name": "Vintage Deluxe Big Muff Pi",
+    "image": "images/electro-harmonix-vintage-deluxe-big-muff-pi.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 200,
+    "height": 175,
+    "details": "Distortion & Compression Pedal",
+    "hrid": "electro-harmonix-vintage-deluxe-big-muff-pi"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13215",
+    "name": "Flux Drive",
+    "image": "images/mesa-engineering-flux-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 121,
+    "details": "Overdrive PedalThe FLUX-DRIVE™ is the overdrive pedal for those who want more of all the best things from an overdrive! It has more liquid gain and enhanced sustain that easily feeds into rich harmonic overtones making it incredibly addictive and inspiring to play, whether into a clean amp channel or especially to enhance a crunch or higher gain channel! It also offers a more complete tone-shaping network with individual Treble and Bass controls. This architecture makes the FLUX-DRIVE a more complete preamp with added versatility beyond that of most overdrive pedals.\nhttp://www.mesaboogie.com/pedals--related/electric-guitar-pedals/drive-pedals/flux-drive.html",
+    "hrid": "mesa-engineering-flux-drive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16164",
+    "name": "Boost Chorus",
+    "image": "images/tech-21-boost-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 127,
+    "height": 102,
+    "details": "Chorus-100% analog Mix, Tone and Level controls for warm, organic sounds.\n-Speed and Depth work in conjunction to control their respective functions of the modulation.\n-Pre-Delay (Boost Chorus) adds delay to the chorus effect before mixing it back in, achieving a wide range from flange/chorus to regular chorus to chorus/doubler.\nThe evolution of the chorus effect seems to have gotten stuck in '80s pop, along with over-processed guitars, cheesy synths and popped collars. This ain't that kind of chorus. When we designed the Boost Chorus pedals we went back to the '70s, when choruses were rich, smooth and manly. We figured out what made these vintage stompboxes sound so good and poured that knowledge into a new kind of chorus pedal with greatly improved performance and a whole slew of never-before-heard sounds. Slapback, echo, flanging and doubling effects are all possible from the modestly named Boost Chorus pedals.\nhttp://www.tech21nyc.com/products/effects/boostchorus.html",
+    "hrid": "tech-21-boost-chorus"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23935",
+    "name": "Octave Up",
+    "image": "images/chicago-stompworks-octave-up.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Chicago Stompworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Green Ringer clone\"Green Ringer\" clone \"octave up\" pedal from boutique builder Chicago Stompworks. The sound comes from a 60's era transistor circuit that recreates the \"Purple Haze\" solo effect. It's glitchy, dirty, vintage, not suitable for bass guitar, not intended as a fuzz box although it can do some way-out transistor grind... This one is an all-out space cadet.\n-handbuilt boutique quality throughout\n-true bypass wiring\n-best in class Neutrik brand jacks\n-standard center negative \"Boss style\"9v jack or internal battery",
+    "hrid": "chicago-stompworks-octave-up"
+}

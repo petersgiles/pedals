@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23285",
+    "name": "Box of Rock",
+    "image": "images/zvex-box-of-rock.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "3 mA / 9 V / DC / Negative Center",
+    "cost": "$219 Price in €",
+    "width": 119,
+    "height": 60,
+    "details": "Box of Rock Vexter editionThis Box of Rock™ simulates Zachary’s favorite amp turned up all the way, a 1966 Marshall® JTM45.\nIncludes a Super-hard on boost switch.\nhttps://www.zvex.com/guitar-pedals/box-of-rock-vexter-guitar-effects-pedal",
+    "hrid": "zvex-box-of-rock"
+}

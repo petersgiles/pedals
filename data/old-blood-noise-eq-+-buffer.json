@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16567",
+    "name": "EQ + BUFFER",
+    "image": "images/old-blood-noise-eq-+-buffer.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "",
+    "hrid": "old-blood-noise-eq-+-buffer"
+}

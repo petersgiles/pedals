@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22337",
+    "name": "VT Bass Deluxe",
+    "image": "images/tech-21-vt-bass-deluxe.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Tech 21",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 251,
+    "height": 133,
+    "details": "Bass Overdrive and Amp Simulator\nhttp://www.tech21nyc.com/products/sansamp/vtbass-deluxe/",
+    "hrid": "tech-21-vt-bass-deluxe"
+}

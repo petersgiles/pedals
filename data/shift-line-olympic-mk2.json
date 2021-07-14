@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15265",
+    "name": "Olympic mk2",
+    "image": "images/shift-line-olympic-mk2.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "Shift Line",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 119,
+    "height": 93,
+    "details": "Bass Preamp",
+    "hrid": "shift-line-olympic-mk2"
+}

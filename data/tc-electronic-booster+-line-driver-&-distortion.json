@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13834",
+    "name": "BOOSTER+ Line Driver & DISTORTION",
+    "image": "images/tc-electronic-booster+-line-driver-&-distortion.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Noise Gate"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 98,
+    "height": 124,
+    "details": "Boost & DistiortionThis boost was made for rocking! Close encounters with thousands of foot soles, millions of miles on the road and a history of being kicked and trot on, this pedal, if any, has truly earned its claim to fame.\nWhether you use this baby as an always on signal booster to make your tubes work harder, as an occasional boost for highlighting a solo, lick or passage or as a distortion pedal to go with a clean amp, this pedal will always stay true to your tone with absolutely no coloration or degradation of the original signal.\nThe built-in noise gate holds feedback in a firm leg lock only letting through the boosted, yet uncolored, roaring signal from your strokes.\nhttp://www.tcelectronic.com/classic-booster-plus-distortion/",
+    "hrid": "tc-electronic-booster+-line-driver-&-distortion"
+}

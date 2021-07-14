@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25734",
+    "name": "Amp",
+    "image": "images/lovepedal-amp.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 119,
+    "height": 97,
+    "details": "Overdrive/BoostThe unit features a COT50 and a ETERNITY Overdrive in one box with independent switching. Check out the video demo below to get an idea of how good this thing is! Highly sought after by professional guitarists and collectors worldwide it has been my mission to produce this unit from time to time in custom small batch builds.. This unit blows minds! It sounds and feels so natural you will swear there is an amp in this box!\nFor years Lovepedal enthusiasts have been stacking the Eternity O.D. with the COT50 as this combination simply explodes in rich harmonics. Sean finally built the combination in a single box with a few tweaks to each circuit, resulting in what he quotes as “the sweetest COT50 build ever!”. The pedal features Independent Switching and limited edition \"Psych girl graphics\". ﻿﻿Simply put, this pedal absolutely smokes.\nhttp://www.lovepedal.com/cot50-eternity-stack/",
+    "hrid": "lovepedal-amp"
+}

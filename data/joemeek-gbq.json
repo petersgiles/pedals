@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12521",
+    "name": "gbQ",
+    "image": "images/joemeek-gbq.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Joemeek",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$185 Price in €",
+    "width": 220,
+    "height": 154,
+    "details": "British Distortion & EQThe \"GB\" part of the name stands for \"Guitar and Bass\" but it could also be read as \"Great British\" since - like all the other JOEMEEK products - the pedals were dreamed up in the Devonshire home of pre-eminent audio designer Allan Bradford: \"I started off as a kid building analogue synthesisers back in the 70s and those were all about giving people endless combinations of sounds to play with. I also made guitar amplifiers and effects pedals for myself and friends, when we were all playing in bands, so really with the gbQ I am revitalising a lot of those old ideas.\"\nThe gbQ is a full featured distortion generator. Incorporating both odd and even distortion control. The gbQ adds a structure control which sweeps a Joemeek proprietary designed filter to shape the tone allowing the gbQ to emulate all types of distortion pedal sounds and tones. The gbQ can behave and mimic many different boutique distortion pedals. With controls like pre/post EQ distortion, 3 Band sweep EQ, Hard/Soft knee, DI output with level and ground lift, and you have a distortion/EQ pedal with full control and functionality that you can own.\nFeatures:\nHi-Impedance FET Class-A Preamp with up to 20dB of gain\nOdd and Even Harmonic Distortion or Clean Enhancement\nUnique \"Structure\" control for even more tone shaping\n3-band swept MeEQualizer - pre or post distortion\nMaster Volume\nOverall Bypass switch\nSend and Return\nDI Output with Earth Lift\nHeadphone Output\nhttp://www.joemeek.com/gbq.html",
+    "hrid": "joemeek-gbq"
+}

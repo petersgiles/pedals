@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23329",
+    "name": "RemoteLoopy 2",
+    "image": "images/the-gigrig-remoteloopy-2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$133 Price in €",
+    "width": 123,
+    "height": 65,
+    "details": "remote effects loops",
+    "hrid": "the-gigrig-remoteloopy-2"
+}

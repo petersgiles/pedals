@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27429",
+    "name": "CP-22 Purple Smoke Clear Boost",
+    "image": "images/caline-cp-22-purple-smoke-clear-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$28 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Clean boost pedal",
+    "hrid": "caline-cp-22-purple-smoke-clear-boost"
+}

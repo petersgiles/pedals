@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26594",
+    "name": "Driver 5000",
+    "image": "images/zoom-driver-5000.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zoom",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 116,
+    "height": 160,
+    "details": "Digital Drive pedal\nhttps://www.zoom-na.com/products/guitar-bass-effects/guitar/5000-zoom-driver",
+    "hrid": "zoom-driver-5000"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28479",
+    "name": "Flanger",
+    "image": "images/akai-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Akai",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "Akai Professional Analog Custom Shop Flanger Guitar Effects PedalThe Akai Professional Analog Custom Shop Flanger Guitar Effects Pedal is a great example of a classic sound improved. Flanger includes Rate, Depth, Manual and Res knobs in heavy-duty polished stainless-steel housing. True-bypass switching and four adjustable knobs provide precision control. \nAt first glance Flanger looks a breeze but once explored reveals a perfect storm of sound. The Rate knob sets how often the oscillation effect waveform repeats as well as the resulting pitch and depth of the signal. Depth sets the intensity of the flange effect, ranging from a mellow stir to an intense swirling maelstrom. Manual and Res work in combination to both delay and increase the intensity of the overall effect. \nIn the right hands, Flanger unlocks a key to the instantly recognizable, cradle-rocking sound of 80's hard rock.\nFlanger is powered by the included 9-volt battery or 9v AC adapter (sold separately).\nAs with previous Akai Professional guitar pedals like the E2 Headrush and SB1 Deep Impact Bass Synth, the Analog Custom Shop line is a collection of pedal effects designed to exacting standards, using the highest quality components. Analog Custom Shop pedals provide rich tone, texture and character to immediately enhance and inspire players of any musical style.\"\nFEATURES:\nRich 100% analog flanging\nDepth, resonance, speed and manual controls\nTrue Bypass for retaining a pure signal when the effect is disengaged\nCONTROLS:\nRATE: Turn this knob to adjust the rate of the effect (how quickly the flanging occurs)\nDEPTH: Turn this knob to adjust the balance between the \"dry\" (unaffected) signal and the \"wet\" (flanging) signal.\nMANUAL: Turn this knob to adjust the mid frequency of the filter sweep - the flanging sound. To hear how this effect works, set the RATE and DEPTH knobs at low settings and the RES knob to a high setting, then adjust the MANUAL knob. (NOTE: if the DEPTH setting is high, this knob won't seem to be influencing much.)\nRES: Turn this knob to adjust the flanger's resonance - how much of the affected signal is fed back into the input. Turning this knob to higher settings can cause the flanger to start generating its own tone at loud volumes, so be mindful of your amp volume when adjusting this knob.\nBYPASS SWITCH: Step on this switch to turn the effect on or off. This pedal features a true bypass switch, meaning your signal won't be coloured by the pedal's circuitry when the effect is off.",
+    "hrid": "akai-flanger"
+}

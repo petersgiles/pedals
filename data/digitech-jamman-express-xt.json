@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11922",
+    "name": "JamMan Express XT",
+    "image": "images/digitech-jamman-express-xt.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$110 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Compact Stereo Looper with JamSyncThe DigiTech® JamMan Express XT is the most full featured compact looper on the market. It’s simple, small, and very sophisticated. With true-bypass, 10 minutes of stereo looping, Silent Clear™, and JamSync™ the Express XT is a perfect looper for your pedalboard or addition to your JamMan® XT looping set-up. It’s incredibly easy to use with dedicated LEDs clearly showing its status. The Express XT uses a 9V battery, or you can power it with an optional power supply. When looping, timing is everything; JamSync takes care of it. JamSync automatically synchronizes with another Express XT or JamMan Solo XT allowing you to create independent yet perfectly synchronized loops. Using JamSync you can build a custom multi-track looper or build loops with your band. The Express XT is the first looper to feature DigiTech’s new Silent Clear feature. The Express XT automatically recognizes when you press to clear the loop and stops the loop from playing through your amp. Silent Clear saves you from reaching over to turn down your amp or your looper while you clear it. The Express XT is an incredibly simple looper and easy to use. It works just like every other looper with record, stop, play, unlimited overdubs, and undo. We made it even easier with a dedicated LED per status. Not only is the Express XT the best, most full-featured compact looper in the world, it’s also the most affordable. \nhttp://digitech.com/en/products/jamman-express-xt",
+    "hrid": "digitech-jamman-express-xt"
+}

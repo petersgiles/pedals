@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16269",
+    "name": "Surf Trem",
+    "image": "images/carl-martin-surf-trem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 170,
+    "height": 115,
+    "details": "50s Fenderish style tremoloRemember the great tremolo tones of the 50’s and 60’s? The ‘Surf Trem’ gets its’ trem circuit from the CM Tremovibe. With just a ‘speed’ and ‘depth’ control (just like our old tube amp) those classic tones are easy to achieve. The retro heavy diecast case with 9 volt battery compartment, cool colour and heavy duty bypass switch, make the ‘Surf Trem’ a must have in every pedal box.",
+    "hrid": "carl-martin-surf-trem"
+}

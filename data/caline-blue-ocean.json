@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18351",
+    "name": "Blue Ocean",
+    "image": "images/caline-blue-ocean.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 64,
+    "height": 112,
+    "details": "Analog Echo/Delay\nhttps://www.amazon.com/Caline-CP-19-digital-analog-Effects/dp/B01ERMH5PO",
+    "hrid": "caline-blue-ocean"
+}

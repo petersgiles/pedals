@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24893",
+    "name": "Tumnus v2",
+    "image": "images/wampler-tumnus-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 42,
+    "height": 92,
+    "details": "Overdrive and boostClassic overdrive and boost voicings for your guitar rig\nSmall footprint will fit any pedalboard\nDial in anything from subtle boosts to hard-hitting overdrives\nHigh-grade film capacitors and resistors picked for their superior sound and response\nPower via 9-volt power supply (not included)",
+    "hrid": "wampler-tumnus-v2"
+}

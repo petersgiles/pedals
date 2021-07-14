@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28828",
+    "name": "Mini SuperCollider",
+    "image": "images/earthbound-audio-mini-supercollider.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Earthbound Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$169 Price in €",
+    "width": 67,
+    "height": 122,
+    "details": "FuzzThe SUPERCOLLIDER distortion / fuzz has been a favorite among bass players and heavy guitarists for the aggressive attack and huge low end. This version crams the classic circuit into a smaller, pedalboard-friendly 125b enclosure. The toggle switch selects between the standard gain setting (down) or an even higher gain setting (up) for extra creamy sustain.\nhttps://earthboundaudio.bigcartel.com/product/supercollider",
+    "hrid": "earthbound-audio-mini-supercollider"
+}

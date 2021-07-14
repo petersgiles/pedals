@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21022",
+    "name": "MPX8",
+    "image": "images/akai-mpx8.jpg",
+    "function": [
+        "Drum",
+        "MIDI",
+        "Sampling"
+    ],
+    "manufacturer": "Akai",
+    "current": "1000 mA / 5 V / DC",
+    "cost": "$80 Price in €",
+    "width": 295,
+    "height": 102,
+    "details": "Mobile SD Sample PlayerLoad virtually any sample via standard SD or SDHC card and assign it to any of the MPX8’s eight backlit velocity- and pressure-sensitive pads. Use it in the studio. Use it live on stage or on air. MPX8 packs proven Akai Pro technology into a compact, durable design that’s built to perform.\nMPX8 also has USB MIDI plus standard MIDI inputs and outputs. Control everything from music software on your laptop to outboard MIDI gear. The included USB cable and 1/8\"-to-MIDI adapter make it easy to connect. With the included sample kit editor, you can easily arrange, tune, and add reverb to your samples on your Mac or PC before loading them onto MPX8. The editor’s drag-and-drop functionality makes loading your samples as easy as possible.\nMPX8 also comes with a free Loop Library download from Akai Pro, plus a large library of standard samples built in, which can be used for live performance in front of a crowd, on a radio show, or for in-studio production.\nIt’s compact, easy to load, and ready to go. MPX8 packs the sounds you need under great-feeling pads inside a solid Akai Pro design. You get quick and convenient one-touch access to a virtually unlimited number of sounds, shots, stabs, and drops. It’s that simple.\nhttps://www.akaipro.com/mpx-8",
+    "hrid": "akai-mpx8"
+}

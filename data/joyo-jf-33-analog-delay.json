@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14478",
+    "name": "JF-33 Analog Delay",
+    "image": "images/joyo-jf-33-analog-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Joyo",
+    "current": "40 mA / 9 V / DC / Negative Center",
+    "cost": "$42 Price in €",
+    "width": 62,
+    "height": 118,
+    "details": "Boss-style analog delayInput impedance: 1M Ohms\nOutput impedance: 1K Ohms\nRunning Current: 40mA\nPower: 6F22 9V Battery / DC 9V adapter\nDimension: 118(L) x 68(W) x 50(H) mm",
+    "hrid": "joyo-jf-33-analog-delay"
+}

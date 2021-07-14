@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32168",
+    "name": "no moon",
+    "image": "images/idiotbox-effects-no-moon.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "17 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 202,
+    "height": 120,
+    "details": "RAT, big muff, tubescreamer clone running in parallelThat's no moon! It's a Big Muff, Tube Screamer and RAT all in one giant enclosure running parallel, ready to destroy the galaxy!\nSPECS:\nLarge and in charge 7.38\" x 4.70\" x 1.30\" sized enclosure, buffered bypass switching, common 9vdc \"CENTER NEGATIVE\" 2.1mm BOSS style power input only. Current draw 17mA. Power supply not included.\nhttps://www.idiotboxeffects.com/product/thatsnomoon",
+    "hrid": "idiotbox-effects-no-moon"
+}

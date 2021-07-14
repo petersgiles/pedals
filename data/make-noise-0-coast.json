@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20921",
+    "name": "0 Coast",
+    "image": "images/make-noise-0-coast.jpg",
+    "function": [
+        "Synth Voice",
+        "MIDI"
+    ],
+    "manufacturer": "Make Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$499 Price in €",
+    "width": 229,
+    "height": 140,
+    "details": "Make Noise 0 Coast desktop synthThe 0-COAST music synthesizer is a single voice patchable synthesizer. Its name reflects the fact that it utilizes techniques from both the Moog and Buchla paradigms (aka “East Coast,” and “West Coast,” due to their locations), but is loyal to neither and thus implements “no coast synthesis.”\nWhile the 0-COAST utilizes classic modular synthesis techniques, we designed it to operate with or without the use of patch cables. The necessary connections have been made from circuit to circuit so it operates as an expressive, musical MonoSynth. Using only the MIDI controller of your choice you could apply new timbres to your existing musical forms!\nUsing the included Patch Cables you could get more scientific, experimenting with new ways to wire up the circuits. You might even forgo MIDI altogether, disappearing into a cloud of analog FM induced Sidebands and harmonics scattered around a single fundamental drone that has nothing to do with any form of music you’ve ever known.\nhttp://www.makenoisemusic.com/synthesizers/ohcoast",
+    "hrid": "make-noise-0-coast"
+}

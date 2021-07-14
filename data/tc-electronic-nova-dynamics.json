@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14806",
+    "name": "Nova Dynamics",
+    "image": "images/tc-electronic-nova-dynamics.jpg",
+    "function": [
+        "Dynamics",
+        "Multieffect",
+        "Noise Gate",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 130,
+    "height": 130,
+    "details": "High quality dual engine compression and noise gate made stompbox simplePacked with never before seen functionalities Nova Dynamics sets new standards to floor-based dynamics control. Its dual engine design offers a variety of setup and control options that allow you to tailor Nova Dynamics to fit your rig. Use the two engines for different compression settings or switch between stomp compression for that classic \"squash\" and TC's advanced multiband compression for subtle, studio-style dynamics control. You can even split the two engines in Nova Dynamics and have a compressor in front of your amp and noise gate in your amp effects loop for true noise reduction of high gain signals. \nThe Dry Blend feature lets you blend your dry signal in with the compressed signal for optimized attack with no eating into the dynamics while the automatic input gain adjustment on both engines brings perfect settings for e.g. both a Strat and a Les Paul at the flick of a switch.\nhttp://www.tcelectronic.com/ndy-1-nova-dynamics/",
+    "hrid": "tc-electronic-nova-dynamics"
+}

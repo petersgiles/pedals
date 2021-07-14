@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29839",
+    "name": "VINTAGE OVERDRIVE PRO (VOP-9)",
+    "image": "images/maxon-vintage-overdrive-pro-(vop-9).jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$162 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Clean Booster/Overdrive designed for tube ampsThe VOP-9 was designed with the seasoned guitarist in mind, yet it can be a great addition to any player’s rig.\nIt’s difficult to put into words what makes the VOP-9 stand out from other OD pedals.  In the simplest terms, it accentuates the connection between your guitar and amp rather than getting in the way of it.\nThe VOP makes your fingers feel like they are working effortlessly – notes jump off the fretboard with vibrant, singing sustain and even the most subtle picking nuance is reproduced with exacting dynamic accuracy.\nThe VOP has a warm, smooth tone without the “fizziness” or mid-spike associated with many solid state pedals.  It offers a tight, punchy bottom end with just a hint of mild compression and works equally well with clean or distorted amps to produce a rich, velvety guitar tone.\nBased on Maxon’s legendary “808” circuit, the VOP-9 has a few hidden tricks in the design that set it apart from your ordinary overdrive.\nThe VOP-9 features an internal charge pump that allows it to run at 9 or 18 volts.  In 9 volt setting the VOP reacts more like a traditional overdrive, while the 18-volt setting it offers increased headroom and a fuller frequency response for a more expressive, dynamic effect.\nWhile most overdrive’s pass some degree of clean signal, the VOP-9 allows you to control the amount via the dual-function Drive knob - a dual-ganged pot that controls the amount of Gain as well as the mix between clean and distorted signals.\nAt zero Drive setting the VOP can function as a completely clean booster, perfect for boosting solos or driving a distorted amp.\nWhether you’re looking for the ultimate blues tone or that added push to take your solos over the top, the VOP-9 will bring your sound to life.\nhttps://maxonfx.com/products/vintage-overdrive-pro-vop-9",
+    "hrid": "maxon-vintage-overdrive-pro-(vop-9)"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25095",
+    "name": "Dyna-ssoR",
+    "image": "images/jam-pedals-dyna-ssor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 111,
+    "details": "CompressorWhether you are after the squashing power of a dinosaur, capable of that vintage thumpy attack and endless sustain, or you just want to musically tame your dynamic range, the NOS CA3080 chip equipped Dyna- ssoR will effortlessly nail it for you.\nWe are committed to creating well tuned circuits that allow our designs to feature the minimum number of straight-forward and responsive controls and sound great no matter how you dial them in. The Dyna-ssoR is a great testament to exactly this effort!\nIt makes everything sound like “more”!\nhttps://www.jampedals.com/dyna-ssor/",
+    "hrid": "jam-pedals-dyna-ssor"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28371",
+    "name": "R-15 Preamp House",
+    "image": "images/joyo-r-15-preamp-house.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Joyo",
+    "current": "320 mA / 9 V / DC / Negative Center",
+    "cost": "$178 Price in €",
+    "width": 130,
+    "height": 110,
+    "details": "18 Guitar Amp Simulators in 1The JOYO Preamp House delivers 9 classic guitar amp preamps in one pedal!\nTurn the dial to select the amp simulation and you can switch from a vintage Fender-y clean to a dirty Mesa-y drive, 9 different amps & 2 channels.\nWe dropped in a built in Impulse Response loaded 4 x 12 cab simulation with 3 controls to turn it off or switch it between the 6.35 out or the balanced XLR output. The Headphone out uses the cab simulation all the time.\nEach preamp has 2 channels, clean / distortion and allows you to save your settings on both channels for all amps. Select between the 2 amp settings Clean or Distortion using the A & B footswitch, pressing both together will give you Bypass mode.\nSelect from the following Guitar Preamp Simulations:\nF 65 Twin Reverb\nM JCM 900\nV AC 30\nMB LONESTAR\nMB DUAL RECTIFIER\nEVH 5150\nENG POWERBALL\nOR TH 200\nOR BE 100\nThe guitar pedal has a built in FX LOOP interface for external FX pedals so you can position your modulation, delay, reverb and e.g., as you would with your classic head.\nThe JOYO Preamp House is a user friendly tone solution, the design is a result of 10 years of our best selling amp simulator guitar effect pedals. The JOYO AmpHouse transforms those classic & vintage guitar amp tones we crave straight onto your board and into your ears, without the expensive amp!\nJOYO Amp Simulators can be used as a DI (Direct Interface) directly into a mixing console, audio recording interface, or in front of a clean amp for a tonal drive, pushing your existing amp to a whole new level.\nControl\nXLR Output\n9 Position Amp Selector\nGain\nCab Sim toggle\nTreble\nMaster Guitar Volume\nLift Switch\nFootswitch A Clean\nFootswitch B Distortion\nMono Input / Output\nHeadphone output\nUSB for firmware updates.\nGroovy Ambient Lighting\nSpecs\nDimensions: 130mm * 110mm * 50 mm\nWeight:450g\nInput Impedance: 1MΩ\nOutput Impedance: 600Ω\nXLR Output Impedance: 600Ω\nSample Rate 44.1l\nSample Resolution : 24bit\nRated Current Consumption: 320mA\nDelay Time: about 500ms\nWorking Voltage: DC 9V (center negative)\nhttps://www.joyoaudio.co.uk/preamphouse-guitar-amp-simulator",
+    "hrid": "joyo-r-15-preamp-house"
+}

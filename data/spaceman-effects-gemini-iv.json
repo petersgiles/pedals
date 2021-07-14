@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23161",
+    "name": "Gemini IV",
+    "image": "images/spaceman-effects-gemini-iv.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 92,
+    "height": 114,
+    "details": "Dual Fuzz GeneratorCreated by Spaceman effects.\nCombination silicon and germanium fuzz pedal.",
+    "hrid": "spaceman-effects-gemini-iv"
+}

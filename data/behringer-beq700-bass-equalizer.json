@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22737",
+    "name": "BEQ700 Bass Equalizer",
+    "image": "images/behringer-beq700-bass-equalizer.jpg",
+    "function": [
+        "Bass",
+        "Equalizer"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$25 Price in €",
+    "width": 70,
+    "height": 123,
+    "details": "Bass Equalizer",
+    "hrid": "behringer-beq700-bass-equalizer"
+}

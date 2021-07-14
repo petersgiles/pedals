@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11597",
+    "name": "Mimiq Doubler",
+    "image": "images/tc-electronic-mimiq-doubler.jpg",
+    "function": [
+        "Digital",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Studio-quality Double-tracked SoundsThe TC Electronic Mimiq Doubler effects pedal puts the sound of your favorite multi-tracked guitar lines onto your pedalboard. With a tap of your toe, the Mimiq Doubler instantly simulates all the intricacies and imperfections that create the massive tones of double-tracked guitars. Controls for Tightness, Dry, Effect, and Dubs dial the sound in for a tighter sound, a bit looser for a more organic feel, or even a sound with up to 4 tracks simultaneously. And the Mimiq is an especially big hit at Sweetwater for its powerful stereo I/O.\nhttp://www.tcelectronic.com/mimiq-doubler/",
+    "hrid": "tc-electronic-mimiq-doubler"
+}

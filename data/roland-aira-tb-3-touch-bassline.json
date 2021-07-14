@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28983",
+    "name": "AIRA TB-3 Touch Bassline",
+    "image": "images/roland-aira-tb-3-touch-bassline.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Roland",
+    "current": "500 mA / 6 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 241,
+    "height": 173,
+    "details": "The Magic of the TB-303 with New Sounds \nhttps://www.roland.com/global/products/tb-3/",
+    "hrid": "roland-aira-tb-3-touch-bassline"
+}

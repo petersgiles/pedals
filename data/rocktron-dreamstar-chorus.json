@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11717",
+    "name": "Dreamstar Chorus",
+    "image": "images/rocktron-dreamstar-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$66 Price in €",
+    "width": 95,
+    "height": 122,
+    "details": "",
+    "hrid": "rocktron-dreamstar-chorus"
+}

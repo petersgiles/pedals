@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17363",
+    "name": "JDI-01",
+    "image": "images/joyo-jdi-01.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$40 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "DI boxImpedance matcher with speaker simulation, COMBO / 4 * 12 speaker analog selection, 15K ohm LINE IN input, 600 ohm balanced XLR output, can be connected to the speaker after the output (when you select this connection, you must connect the speaker or so Effective load), with Ground lift switch, you can use the 9V power supply or 48V phantom power.\nSize: 11.8 (length) X6.4 (height) X3.8 (width) cm\nWeight: 0.38KG \nClean sounding DI box with amp simulation\n4x12 Guitar Cab (speaker simulation) switch\n15k Ohm IN, 600 Ohm balanced XLR OUT\nGround lift switch, 9V DC and +48V Phantom Power\nConnect to amp's speaker out for line level conversion",
+    "hrid": "joyo-jdi-01"
+}

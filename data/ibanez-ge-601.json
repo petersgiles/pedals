@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15958",
+    "name": "GE-601",
+    "image": "images/ibanez-ge-601.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 124,
+    "details": "Graphic EQ",
+    "hrid": "ibanez-ge-601"
+}

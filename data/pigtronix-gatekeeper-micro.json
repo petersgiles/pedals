@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15088",
+    "name": "Gatekeeper Micro",
+    "image": "images/pigtronix-gatekeeper-micro.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 38,
+    "height": 95,
+    "details": "Noise Gate\nhttps://pigtronix.com/product/gatekeeper-micro/",
+    "hrid": "pigtronix-gatekeeper-micro"
+}

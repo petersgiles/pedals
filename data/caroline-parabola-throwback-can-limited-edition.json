@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31335",
+    "name": "Parabola Throwback Can Limited Edition",
+    "image": "images/caroline-parabola-throwback-can-limited-edition.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Solid State TremoloThe Parabola is a solid state, transistor generated waveform tremolo. The oscillator is strongly influenced by the vintage Schaller TR-68/TR-316 “West Germany” tremolo pedals that I fell in love with in the 1990s. They have a gorgeous analog waveform that actually changes shape with the depth control.\nhttps://carolineguitar.com/product/tremelo/",
+    "hrid": "caroline-parabola-throwback-can-limited-edition"
+}

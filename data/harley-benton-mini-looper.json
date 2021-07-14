@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11411",
+    "name": "Mini Looper",
+    "image": "images/harley-benton-mini-looper.jpg",
+    "function": [
+        "Looper"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 42,
+    "height": 95,
+    "details": "Effect pedal for electric guitar and bass\nhttps://harleybenton.com/product/mini-looper/",
+    "hrid": "harley-benton-mini-looper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16408",
+    "name": "SO400",
+    "image": "images/behringer-so400.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Super OctaverKnockoff of Boss OC-3 Super Octave",
+    "hrid": "behringer-so400"
+}

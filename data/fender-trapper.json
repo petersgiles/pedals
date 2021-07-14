@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30826",
+    "name": "Trapper",
+    "image": "images/fender-trapper.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "Fender",
+    "current": "80 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 95,
+    "height": 125,
+    "details": "Bass Distortion PedalThe Trapper Bass Distortion pedal was created by the in-house team of eggheads over at Fender and boasts an all-original, genuine Fender circuit. It's the perfect next addition to your pedalboard.\nCrunch & Bite\nEnhancing your low-end with a welcome amount of crunch is the name of the game with this pedal. Two dedicated, stackable distortion circuits form the backbone of the Trapper. It's been crafted to suit the ever increasing demands and tonal requirements of the electric bass - and if anyone is in the right position to tackle this, it's Fender.\nDeadly Duo\nThe two channels operate in different manners. Its main distortion channel utilises a crossover blend circuit. This manages to maintain clean low frequencies, guaranteeing a great mix of punch, power and clarity. A solo distortion channel then offers you copious gain and crunch. You can then harness the sub level and frequency controls to augment your sound further and achieve your ideal tone.\nSuitable for the Stage\nThis pedal has been designed for gigging. The lightweight anodized aluminium case is extremely rugged and will stand up to any punishment thrown at it while you’re performing. It’s especially suitable for heavy stomping! Each knob is backlit with an LED too, ensuring you can quickly and easily reference your settings on a dark stage.\nhttps://shop.fender.com/en-US/effects-pedals/boost-gain/the-trapper-dual-fuzz/0234545000.html",
+    "hrid": "fender-trapper"
+}

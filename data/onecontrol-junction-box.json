@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21713",
+    "name": "Junction Box",
+    "image": "images/onecontrol-junction-box.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "OneControl",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 94,
+    "height": 50,
+    "details": "Junction Box",
+    "hrid": "onecontrol-junction-box"
+}

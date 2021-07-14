@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13261",
+    "name": "BUF300 Ultra Bass Flanger",
+    "image": "images/behringer-buf300-ultra-bass-flanger.jpg",
+    "function": [
+        "Bass",
+        "Flanger"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 71,
+    "height": 122,
+    "details": "",
+    "hrid": "behringer-buf300-ultra-bass-flanger"
+}

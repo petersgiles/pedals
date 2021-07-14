@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23873",
+    "name": "EV-2",
+    "image": "images/fractal-audio-systems-ev-2.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Fractal Audio Systems",
+    "current": "Pedal is passive",
+    "cost": "$120 Price in €",
+    "width": 81,
+    "height": 191,
+    "details": "Expression/Volume PedalThe EV-2 is a compact expression pedal, perfect for use with all Fractal Audio Systems products and many 3rd party devices. Unlike most expression pedals it has a true linear response with planetary gearing and a long, smooth pedal throw. The EV-2 doubles as an analog volume pedal, with separate IN and OUT jacks connected to an audio-taper pot. It features a sturdy cast metal housing, comfortable non-slip rubber tread. It is available only in black. In comparison to the EV-1, the EV-2 is smaller and lighter. \nhttps://shop.fractalaudio.com/ev-2-expression-volume-pedal/",
+    "hrid": "fractal-audio-systems-ev-2"
+}

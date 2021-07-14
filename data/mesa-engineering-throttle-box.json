@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17354",
+    "name": "Throttle Box",
+    "image": "images/mesa-engineering-throttle-box.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 73,
+    "height": 121,
+    "details": "Mesa/Boogie Throttle Box Distortion Pedal Distortion Pedal with True Bypass Switching, Low-/High-gain Switch, Tone Control, Mid-Cut Control, Internal EQ/Boost Switch, and up to 20dB of Boost\nhttp://www.mesaboogie.com/pedals--related/electric-guitar-pedals/drive-pedals/throttle-box.html",
+    "hrid": "mesa-engineering-throttle-box"
+}

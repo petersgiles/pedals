@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20805",
+    "name": "Whitey Tighty",
+    "image": "images/jhs-whitey-tighty.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 47,
+    "height": 95,
+    "details": "CompressorJHS Pedals Whitey Tighty mini compressor effects pedal, analog operation, FET based circuitry, parallel operation - lets dry be blended to compressed signal, from subtle tone smoothing to pleasing squash, true bypass, controls for Volume, Compression, and Blend, bypass footswitch, status LED, metal housing, 6.3 mm mono IN/OUT jacks, power supply via optional 9V DC adapter, 2.1 mm x 5.5 mm barrel plug, polarity negative (-)- center, battery operation not supported, current draw less than 100 mA, dimensions (W x D x H) 47 x 95 x 35 mm, weight 150 g, made in USA",
+    "hrid": "jhs-whitey-tighty"
+}

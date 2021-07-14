@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15541",
+    "name": "Voyager 1",
+    "image": "images/spaceman-effects-voyager-1.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Spaceman Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 114,
+    "height": 70,
+    "details": "Optical Tremolo \nhttps://spacemaneffects.com/products/voyager/",
+    "hrid": "spaceman-effects-voyager-1"
+}

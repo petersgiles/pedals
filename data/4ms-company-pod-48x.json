@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22473",
+    "name": "Pod 48X",
+    "image": "images/4ms-company-pod-48x.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "4ms Company",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$155 Price in €",
+    "width": 248,
+    "height": 160,
+    "details": "48HP deep eurorack skiff",
+    "hrid": "4ms-company-pod-48x"
+}

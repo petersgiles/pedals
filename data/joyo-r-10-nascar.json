@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31926",
+    "name": "R-10 Nascar",
+    "image": "images/joyo-r-10-nascar.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Joyo",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 125,
+    "height": 79,
+    "details": "Analog delay\nhttps://www.joyoaudio.com/product/200.html",
+    "hrid": "joyo-r-10-nascar"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28535",
+    "name": "Russian Fuzz Factory 7",
+    "image": "images/zvex-russian-fuzz-factory-7.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 92,
+    "height": 122,
+    "details": "Like a Fuzz Factory 7, But Russian",
+    "hrid": "zvex-russian-fuzz-factory-7"
+}

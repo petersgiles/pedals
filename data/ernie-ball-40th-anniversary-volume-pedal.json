@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15548",
+    "name": "40th Anniversary Volume Pedal",
+    "image": "images/ernie-ball-40th-anniversary-volume-pedal.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "https://www.ernieball.com/guitar-accessories/pedals/40th-anniversary-volume-pedal#P06110",
+    "hrid": "ernie-ball-40th-anniversary-volume-pedal"
+}

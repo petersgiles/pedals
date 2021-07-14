@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18325",
+    "name": "Cali76 Blue",
+    "image": "images/origin-effects-cali76-blue.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Origin Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 142,
+    "details": "",
+    "hrid": "origin-effects-cali76-blue"
+}

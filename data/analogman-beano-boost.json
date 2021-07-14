@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15969",
+    "name": "Beano Boost",
+    "image": "images/analogman-beano-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Full sized Beano Boost \nhttp://www.analogman.com/beano.htm",
+    "hrid": "analogman-beano-boost"
+}

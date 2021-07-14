@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11470",
+    "name": "D-SEED",
+    "image": "images/harley-benton-d-seed.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$76 Price in €",
+    "width": 105,
+    "height": 97,
+    "details": "Delay\nhttp://joyoaudio.com/en/product/show_189.html",
+    "hrid": "harley-benton-d-seed"
+}

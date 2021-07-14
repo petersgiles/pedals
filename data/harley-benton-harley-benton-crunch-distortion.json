@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19968",
+    "name": "Harley Benton Crunch Distortion",
+    "image": "images/harley-benton-harley-benton-crunch-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$32 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Distortion\nhttps://www.thomann.de/pl/harley_benton_crunch_distortion.htm",
+    "hrid": "harley-benton-harley-benton-crunch-distortion"
+}

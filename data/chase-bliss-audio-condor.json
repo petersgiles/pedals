@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15759",
+    "name": "Condor",
+    "image": "images/chase-bliss-audio-condor.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer",
+        "Filter",
+        "MIDI"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 69,
+    "height": 124,
+    "details": "Analog Pre/EQ/FilterCondor™ is an analog multi-effect that allows sophisticated control over a wide range of effects including EQ, overdrive, boost, tremolo and filter tones. The pedal has a powerful parametric mids control that ranges from 150Hz to 5kHz along with a three separate low pass filter or bass boost/cut modes. Along with expansive frequency controls, Condor™ has gain and volume knobs and a switchable overdrive circuit for sculpting your ideal guitar tone. Like all Chase Bliss Audio™ pedals, all of these settings can be stored in presets, ramped, or controlled via expression pedal. Every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog and never gets digitally processed.\nhttps://chaseblissaudio.com/shop-pedals/condor",
+    "hrid": "chase-bliss-audio-condor"
+}

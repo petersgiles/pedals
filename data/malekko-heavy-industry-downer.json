@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18005",
+    "name": "Downer",
+    "image": "images/malekko-heavy-industry-downer.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 63,
+    "height": 139,
+    "details": "Wavefolder / Saturation / Octave / FilterDOWNER combines the power of wavefolding or saturation, pitch shifting down to one octave, and both high-pass and low-pass filters all in one compact package with just 6 knobs. The PREAMP drives the Wavefolding or Saturation from subtle to extreme. The BLEND control adjusts the Dry/Octave balance from 100% Dry to 100% Octave. the High-pass and Low-pass filters allow for sculpting the perfect tone. Add the ability to assign an expression pedal to your own combinations and settings within these features and in one sweep, you can dial your tone from classic, heavy fuzz to screaming experimental madness!\nhttps://malekkoheavyindustry.com/product/downer/",
+    "hrid": "malekko-heavy-industry-downer"
+}

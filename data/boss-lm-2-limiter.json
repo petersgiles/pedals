@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12721",
+    "name": "LM-2 Limiter",
+    "image": "images/boss-lm-2-limiter.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Boss",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "The LM-2 suppresses the peak of the input signal, retaining a certain dynamic range. Adopting a high quality VCA , the LM-2 allows little tone quality deterioration and low noise. The high-speed envelope detecting circuits enable natural limiting effect. With the use of the Tone Control, the Limiter can create a wide variety of sounds. The limiter was mainly used by bass players and this is why all later limiters have been bass effects.\nSpecifications\nControls: Level, Tone, Release, Threshold\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 12 mA (DC 9V)\nWeight: 400g/0.88 lbs.\nInput Impedance: 1Mohm\nResidual Noise Level: Less than -100dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nRecommended AC Adaptor: ACA Series\nhttp://www.bossarea.com/boss-lm-2-limiter/",
+    "hrid": "boss-lm-2-limiter"
+}

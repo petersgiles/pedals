@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33354",
+    "name": "HT-DRIVE",
+    "image": "images/blackstar-ht-drive.jpg",
+    "function": [
+        "PreAmp",
+        "Tube"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 160,
+    "height": 119,
+    "details": "Overdrive\nhttps://www.blackstaramps.com/es/products/ht-drive",
+    "hrid": "blackstar-ht-drive"
+}

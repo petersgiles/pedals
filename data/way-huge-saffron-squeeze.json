@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11634",
+    "name": "Saffron Squeeze",
+    "image": "images/way-huge-saffron-squeeze.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$155 Price in €",
+    "width": 92,
+    "height": 121,
+    "details": "Compression Pedal",
+    "hrid": "way-huge-saffron-squeeze"
+}

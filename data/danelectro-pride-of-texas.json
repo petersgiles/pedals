@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32722",
+    "name": "Pride of Texas",
+    "image": "images/danelectro-pride-of-texas.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 58,
+    "height": 135,
+    "details": "TS like. same as Texas Trouble",
+    "hrid": "danelectro-pride-of-texas"
+}

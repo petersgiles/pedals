@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11929",
+    "name": "Chorus Space-C CC300",
+    "image": "images/behringer-chorus-space-c-cc300.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 70,
+    "height": 121,
+    "details": "",
+    "hrid": "behringer-chorus-space-c-cc300"
+}

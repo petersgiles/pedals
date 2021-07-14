@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13946",
+    "name": "Chromatic Pedal Tuner",
+    "image": "images/monoprice-chromatic-pedal-tuner.jpg",
+    "function": [
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Monoprice",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$20 Price in €",
+    "width": 73,
+    "height": 110,
+    "details": "Chromatic Pedal TunerEasily tune your guitar or bass on stage with this Chromatic Pedal Tuner from Monoprice!\nThis tuner is designed to fit into your pedal rack and features a heavy-duty metal construction and activation button. It has two 1/4\" TS outputs, Normal and Bypass. The Normal output is muted whenever the tuner is activated and the Bypass output ignores the tuner completely and outputs whatever comes in over the 1/4\" TS Input jack.\nIt has a tuning range from A0 (27.5Hz) to C8 (4186Hz) and is accurate to within ± 1 cent. It can be calibrated to between 436 ~ 445Hz in 1Hz increments and supports the application of 1, 2, or 3 flats to the tuning. The pedal is powered with either a 9V alkaline or heavy-duty battery or with a 9VDC power adapter. Batteries and power adapters sold separately.\nhttps://www.monoprice.com/product?c_id=115&cp_id=11501&cs_id=1150108&p_id=611220&seq=1&format=2",
+    "hrid": "monoprice-chromatic-pedal-tuner"
+}

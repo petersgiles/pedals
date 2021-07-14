@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20182",
+    "name": "California TrueTone",
+    "image": "images/joyo-california-truetone.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 108,
+    "height": 132,
+    "details": "Distortion PreampCalifornia sound distortion pedal from JOYO. The modern rockers all prefer high-gain lead and rhythm channels, and the JF-15 circuit was designed to replicate the sound of these incredible amps.\nGleaming with sparkle and smooth saturation, just like a modern tube amp from mesa boogie, the California sound will work its way into your pedal chain for good reason. The features on this distortion pedal really provide flexibility and various sounds. You can dial in high gain scooped mid rhythm tones in seconds. Or full out searing lead tones with the twist of a few knobs. This pedal is capable of a massive amount of tones, from low gain overdrive to thick, full, distortion.\nPerhaps the greatest feature of this pedal is the fact that it has inbuilt cabinet emulation meaning you can go from the pedal directly to a mixing desk, a DAW or directly to your computer/laptop with a jack to usb lead. So this pedal is essentially a DI. You can use it instead of an amp and it can save your gig if your amp fails, just put it at the end of all your other pedals and set it clean like your amp then just take the output from the American sound straight to the desk. Gig saved. Or by going direct into a DAW or even your laptop you can record direct from the pedal.\nThe California sound is also brilliant on bass as well as guitar. Giving a massive low end sound whether you're using it as a DI or an overdrive.\nWith the output near max and drive backed off a bit it provides a really smooth, subtle overdrive (used as a clean boost to get just a bit more sparkle out of an old champ-style tube amp).\nThe JF15 is an overdrive/boost pedal that has been likened to the rich and warm overdrive tones of the Boogie MK2 amplifier, one of the most revered tube amps ever made.\n3 band EQ section and controls for level, gain and voice gives you huge scope for tone shaping to get the most accurate all California cream sound! Rugged Aluminium case and true bypass circuitry make this the best value Boogie pedal around!\nhttps://www.joyoaudio.co.uk/JOYO-JF-15-california-sound-effect-pedal",
+    "hrid": "joyo-california-truetone"
+}

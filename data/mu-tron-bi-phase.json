@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13124",
+    "name": "Bi-Phase",
+    "image": "images/mu-tron-bi-phase.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Mu-Tron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,500 Price in €",
+    "width": 349,
+    "height": 273,
+    "details": "",
+    "hrid": "mu-tron-bi-phase"
+}

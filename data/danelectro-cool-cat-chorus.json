@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12589",
+    "name": "Cool Cat Chorus",
+    "image": "images/danelectro-cool-cat-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "? mA / 18 V / DC / Negative Center",
+    "cost": "$56 Price in €",
+    "width": 117,
+    "height": 163,
+    "details": "",
+    "hrid": "danelectro-cool-cat-chorus"
+}

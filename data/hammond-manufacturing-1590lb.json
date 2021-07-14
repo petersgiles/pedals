@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23941",
+    "name": "1590LB",
+    "image": "images/hammond-manufacturing-1590lb.jpg",
+    "function": [],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 51,
+    "height": 51,
+    "details": "",
+    "hrid": "hammond-manufacturing-1590lb"
+}

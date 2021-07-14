@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13106",
+    "name": "FET Driver",
+    "image": "images/mxr-fet-driver.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 65,
+    "height": 140,
+    "details": "Tube Overdrive\nhttps://www.jimdunlop.com/product/m264-7-10137-06837-7.do",
+    "hrid": "mxr-fet-driver"
+}

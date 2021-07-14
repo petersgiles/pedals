@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32246",
+    "name": "Earthquaker Devices Avalanche Run v2 Stereo Delay and Reverb CME Exclusive Black/White",
+    "image": "images/earthquaker-devices-earthquaker-devices-avalanche-run-v2-stereo-delay-and-reverb-cme-exclusive-blackwhite.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 105,
+    "height": 118,
+    "details": "Stereo Reverb & Delay with Tap TempoJust when you thought the maniacs at EarthQuaker Devices couldn't push the envelope further comes the Avalanche Run: a massively open-ended stereo delay and reverb that brings a powerful DSP platform to the EarthQuaker arsenal for the first time.\nThe Avalanche Run is a sonic exploratory multi-tool that includes up to 2 seconds of delay time, reverse delay, tap tempo with subdivision control, sound-on-sound looping, and an assignable expression control. The delay section allows tweaking from tape emulation to bucket brigade styles, and the cavernous plate-style reverb has just touch of modulation reminding us of the Dispatch Master and Afterneath. Otherworldly reverse delay and a swell reverb settings are accessible through a 3-way switch, and an expression knob maps any function to an expression pedal.\nThe Avalanche Run represents not only new territory for Earthquaker Devices, but an entirely new experience for the noise-loving musicians of planet earth.\nTech Specs:\nInputs: 2 x 1/4\" instrument\nOutputs: 2 x 1/4\" + Expression Out\nHeight: 1.18\" x Width: 3.7\" x Depth: 4.7\"\nMax Delay Time: 2 seconds\n425mA current draw. Use the included 9V center negative 1 Amp DC power supply for best results\n24-bit 96kHz A/D & D/A converters\n115dB Typical signal to noise\nInput impedance: 1M Ohm. Output impedance: 100 Ohm\nAll analog dry signal path\nAll digital wet signal path with 20hz-20kHz Frequency response\nSelectable relay-based true bypass or buffered analog tails modes\nFeatures:\nStereo ins/outs\nReverse delay mode\nSwell delay and reverb mode\nTap Tempo with subdivison control\nAssignable expression control\nTails/True Bypass modes\nSound-on-sound style looping with adjustable length in tails mode\nSelf-oscillation by holding down tap switch",
+    "hrid": "earthquaker-devices-earthquaker-devices-avalanche-run-v2-stereo-delay-and-reverb-cme-exclusive-blackwhite"
+}

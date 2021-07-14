@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22299",
+    "name": "Thrash Master",
+    "image": "images/dod-thrash-master.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$89 Price in €",
+    "width": 76,
+    "height": 127,
+    "details": "DOD FX59 Thrash MasterDOD introduced the FX59 Thrash Master with three other distortion pedals (FX52, FX53, FX58) in early 1990, although serial number data imply a few pedals were built at the end of 1989. Using the same circuitboard as the soon-to-be discontinued FX56 American Metal, the FX59 Thrash Master used slightly different component values and appears to have been voiced for a more \"modern\" (for the time) heavy metal distortion sound. While DOD's marketing department gave the FX59 an appropriate name, its hot pink paint job suggested Poison rather than Metallica and might have turned off potential buyers. Based on serial number data, production of the FX59 was probably discontinued in late 1994, although it may have been sold into early 1995.\nControls: Level, Presence, Distortion\nFrom the manual: \"The FX 59 Thrash Master screams over the edge with overwhelming distortion and super-edgy tone for raging speed freaks who only live for hyperspeed solos and warp-speed beat. For dealers in death and destruction only.\"\nNotable IC chips: first three LM1458N op-amps, then one TL022CP op amp and two LM1458N chips \nhttp://www.americaspedal.net/fx59/",
+    "hrid": "dod-thrash-master"
+}

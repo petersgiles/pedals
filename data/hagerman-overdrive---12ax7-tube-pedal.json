@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31977",
+    "name": "Overdrive - 12AX7 Tube Pedal",
+    "image": "images/hagerman-overdrive---12ax7-tube-pedal.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Hagerman",
+    "current": "500 mA / 9 V / AC / Positive Center",
+    "cost": "$219 Price in €",
+    "width": 102,
+    "height": 127,
+    "details": "Overdrive - 12AX7 Tube PedalThe OVERDRIVE is a boutique all-analog vacuum tube pedal with enough gain to push itself into classic preamp-style overdrive, delivering warm, fat, crunchy, and rich tones. Primarily designed for studio use, this pedal offers superb signal-to-noise performance, implements true-bypass, and provides a buffered output capable of driving long cables or other pedals with ease. Doubles as a clean boost / buffer or EQ pedal at lower gains.\nEqualization and gain are flat when controls are set to center, allowing for a wide range of operation and tonality. For lower gain, other tubes can be substituted, such as the 5751, 12AT7, or 12AY7.\nHand built in USA.\nSpecifications\nTrue bypass\n1 x 12AX7, all analog circuit\n30dB maximum gain\n220k ohm input impedance\n35mV input, onset of clipping\n180V tube supply\nNon-inverting polarity\n4.0\" x 5.0\" x 4.5\"\nIncludes 9V supply, tube, 10-year warranty\nhttps://www.hagamps.com/collections/pedals/products/overdrive",
+    "hrid": "hagerman-overdrive---12ax7-tube-pedal"
+}

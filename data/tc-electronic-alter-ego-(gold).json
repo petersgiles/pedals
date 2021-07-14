@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12296",
+    "name": "Alter Ego (gold)",
+    "image": "images/tc-electronic-alter-ego-(gold).jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 72,
+    "height": 122,
+    "details": "DelayTwo exclusive delay modes custom tuned by ProGuitarShop\n11 delay types including looper \nAudio Tapping\n7 seconds of delay\n40 second looper\nStereo in & out \nTrue Bypass\nAnalog-Dry-Through\nDelay Time, Feedback and Repeat controls\nSpillover on/off\nEasy battery access \nSmall footprint \nHigh quality components\nRoad-ready design\nhttp://www.tcelectronic.com/alter-ego-delay/",
+    "hrid": "tc-electronic-alter-ego-(gold)"
+}

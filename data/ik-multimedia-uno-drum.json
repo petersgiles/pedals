@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33383",
+    "name": "UNO Drum",
+    "image": "images/ik-multimedia-uno-drum.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "IK Multimedia",
+    "current": "2100 mA / 5 V / DC / Positive Center",
+    "cost": "$250 Price in €",
+    "width": 257,
+    "height": 150,
+    "details": "Analog/PCM drum machineUNO Drum offers 6 true analog drum sounds for the warmest, richest, and most dynamic drum sounds possible. This includes 2 different kick drums, snares, claps, and hi-hats - the core kit that characterizes the most iconic analog drum sounds of all time.\nPlus, added PCM elements (with 54 samples to choose from) are available for additional sonic flavors. Toms, rims, cowbells, rides, and crash cymbals help you create complex, unique, and full rhythm tracks. UNO Drum lets you use up to 12 elements in total between analog and digital sounds (11 voice polyphony).\nAll of the above can be stored and recalled on the fly with 100 drum kit presets, all pre-programmed and fully editable at your leisure. It’s a breeze to find an IK inspired kit that catches your ear and tweak to fit your taste, or create your custom kits from scratch. Make something you like and save and store for later use – UNO Drum is ready to recall your beats whenever you are.\nUNO Drum also offers 3 master effects: analog drive and compressor and a stutter effect. Turn up the drive to make your grooves hit harder with an aggressive edge. Add compression to make your tracks tighter, gluing together your rhythm with a fat and heavy punch. Like what you hear? Good. Your settings will save right with your kit for instant recall. Stutter offers adjustable depth, from subtle tremolos to full-on slices, to create different feeling sounds and grooves.\nhttps://www.ikmultimedia.com/products/unodrum/",
+    "hrid": "ik-multimedia-uno-drum"
+}

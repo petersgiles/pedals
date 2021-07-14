@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14527",
+    "name": "Compressor plus",
+    "image": "images/keeley-compressor-plus.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Keeley",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$167 Price in €",
+    "width": 68,
+    "height": 116,
+    "details": "",
+    "hrid": "keeley-compressor-plus"
+}

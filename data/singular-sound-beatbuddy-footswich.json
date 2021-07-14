@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16299",
+    "name": "Beatbuddy footswich",
+    "image": "images/singular-sound-beatbuddy-footswich.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Singular Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 127,
+    "height": 89,
+    "details": "",
+    "hrid": "singular-sound-beatbuddy-footswich"
+}

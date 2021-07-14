@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21690",
+    "name": "PHILOSOPHER’S TONE GERMANIUM GOLD MICRO",
+    "image": "images/pigtronix-philosopher’s-tone-germanium-gold-micro.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 44,
+    "height": 95,
+    "details": "Compressor and Germanium DistortionPhilosopher’s Tone Germanium Gold is a variation on the original Philosopher's Tone, featuring the same optical sustain engine with the addition of an optional layer of germanium-enhanced distortion. The unique diode arrangement found in the Philosopher's Tone Germanium Gold delivers a smooth top end and rich midrange response, tailored to match the characteristics of the optical sustainer driving it. The clean side of the Philosopher’s Tone remains the same—dial in your Blend and Volume to get your desired signal, and Sustain for compression. What defines Germanium Gold is the Grit control. More than a simple gain knob, Grit acts a blend for the supreme germanium-enhanced distortion folded into the unit.\nhttps://www.pigtronix.com/pedals/philosophers-tone-germanium-gold-micro/#specs",
+    "hrid": "pigtronix-philosopher’s-tone-germanium-gold-micro"
+}

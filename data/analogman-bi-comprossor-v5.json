@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15159",
+    "name": "Bi-CompROSSor v5",
+    "image": "images/analogman-bi-comprossor-v5.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Dual CompressorWe have a new 2017 version of the Bicomp with 5 knobs in a row (MIX and ATTACK knobs). They are wider than they are tall, like the KOT, switches are wider apart for easier stomping. If you want black instead of the antique silver, ask as we may have some black ones left.\nRev5 circuit- MIX control available in 2016!\nIn April, 2013 we came out with REV4, which improved the COMPROSSOR (left side of BICOMP) circuit. Mike had been playing in a band for a few years, and noticed that SOME pedals on his board would not drive a load well, they would get dark and dull, due to a bad (high) output impedance. This is easily tested by running pedals into something like a low impedance volume pedal, with a switchable buffer between them. The ARDX20 with the delay level down is excellent for testing - when ON it's a great buffer, when OFF it's true bypassed. To test a pedal, simply turn the buffer on and off and listen for a change in tone. With most pedals, like our Chorus, Juicer, etc, there is no difference - they can drive the signal to your amp through long cables or volume pedals no problem. But the Comprossor sounded dull when the buffer was removed. The original Ross, Dynacomp, and all the other Ross clones do the same exact thing- they really need a buffer after them to sound good.\nAlso these pedals don't have a very loud output, especially when you hit them hard, for example with humbuckers or a boosted signal. One other problem all these pedals have is phase reversal - they flip the phase of your signal when you turn them ON. This may not be a problem for most people, but if you split your signal and combine it, or run into two amps, the out of phase signals will cancel and you will get a VERY thin sound. Also, for use as a clean boost, there was too much compression even with the SUSTAIN pot all the way down. So we reduced the minimum compression amount, without changing the maximum amount. Now the pedal is more usable as a clean boost, and also sounds great left on all the time as a tone sweetener/buffer. It's great stacked into dirt pedals, chorus, vibes, etc now. With these problems fixed, there is no need for a blend knob, you should be able to keep your pure tone without the need for additional circuitry.\nAll of these problems are fixed in the REV4 circuit -\nExcellent output impedance for a clearer tone with no signal loss or need for a buffer\nMore available output for boosting your amp\nNo phase reversal\nLess compression available\nhttps://www.buyanalogman.com/Analog_Man_Bi_Comprossor_p/am-bicomp.htm",
+    "hrid": "analogman-bi-comprossor-v5"
+}

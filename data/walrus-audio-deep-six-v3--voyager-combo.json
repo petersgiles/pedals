@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29349",
+    "name": "Deep Six V3 / Voyager Combo",
+    "image": "images/walrus-audio-deep-six-v3--voyager-combo.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "Deep Six V3 and Voyager Preamp/Overdrive/Compressor in one pedal Channel strip in a stompbox with transparent-sounding overdrive and studio-grade compressor\nSimple 3-knob layout makes dialing in your dirt a breeze on Voyager\nLevel, Sustain, Attack, Tone, and Blend compressor controls on Deep Six V3\nAdds clarity to your notes at lower-gain settings and gives edge to your solos at higher-gain settings\nShapes your tone at low compression settings and adds sustain at high settings\nD+V, D/V switch enables you to use the effects individually, exclusively, or in combination\nTrue-bypass switching preserves your tone when the effect is switched off\nRuns internally at 18 volts for maximum headroom\nOnboard polarity-correction circuit\nRobust, attractive die-cast enclosure\nhttps://www.sweetwater.com/store/detail/Deep6Voyager--walrus-audio-deep-six-v3-voyager-sweetwater-exclusive-preamp-overdrive-compressor-pedal",
+    "hrid": "walrus-audio-deep-six-v3--voyager-combo"
+}

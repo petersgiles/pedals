@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12046",
+    "name": "6116141 Overdrive",
+    "image": "images/monoprice-6116141-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Monoprice",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 73,
+    "height": 115,
+    "details": "https://www.monoprice.com/product?p_id=611614",
+    "hrid": "monoprice-6116141-overdrive"
+}

@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11434",
+    "name": "Flashback X4",
+    "image": "images/tc-electronic-flashback-x4.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$261 Price in €",
+    "width": 235,
+    "height": 145,
+    "details": "16 Delay Types, 3 Presets and Tap TempoExceptional TonePrint-enabled delay pedal offers you an intuitive and flexible delay engine with 16 delay types\n12 delay types and 4 spaces for TonePrint delays are on board to give you a broad sonic palette of legendary TC quality\n3 preset footswitches give you the power to swap between delay sounds instantly\nTap tempo control to keep your delay effects right on the beat\nTonePrint-enabled to let you beam cool signature tones into your pedal with the free TonePrint App\nDesign your own customized delay effects from scratch with free TonePrint Editor for PC, Mac*, and iPad*\n40 second looper with undo/redo is on an independent engine to let you add delay to your loops for total creative freedom\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off\nOptional buffered bypass mode prevents high frequency loss from long cable runs\nAnalog-Dry-Through maintains total integrity of analog dry signal path even when delay effect is engaged\nKill-Dry feature removes the dry signal path for use with parallel effects loops\nExpression pedal and MIDI inputs let you control parameters remotely and lock delay effects to external MIDI tempo\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/FLASHBACK-X4-DELAY/p/P0CKU#googtrans(en|en)",
+    "hrid": "tc-electronic-flashback-x4"
+}

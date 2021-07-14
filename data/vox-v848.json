@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32900",
+    "name": "V848",
+    "image": "images/vox-v848.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 254,
+    "details": "The Clyde McCoy Wah-Wah Pedal\"Vox created the world's first wah-wah pedal while designing a device using a variable version of the Vox MRB (mid-range boost) circuit made famous in their amps. The pedal imitated the sound of a trumpet being muted and the company recruited Clyde McCoy, a famous trumpet player of the day who was best known for his expressive use of the trumpet mute, as an endorser of the pedal, hence the name: Vox Clyde McCoy Wah-Wah Pedal. The Clyde McCoy Wah-Wah pedal includes details like a custom-tuned inductor made by the original manufacturer and a true bypass switch.\" - Excerpted from the 2002 Vox catalog    \nThe Vox V848 Clyde McCoy Wah pedal was a reissue of the original Vox Clyde McCoy Wah Pedal. The original \"Clyde\" was designed by Thomas Organ engineer Brad Plunkett and offered by Vox from late 1966 through mid 1967. The reissue V848 \"Clyde\" was offered by Vox from 2002 through 2004. It featured a chrome rocker pedal with a rubber tread, a dark gray base, a vintage style \"Fasel\" inductor, a jack for a 9VDC external power supply, a true bypass switch, a vinyl carrying bag and a line drawing of Clyde McCoy on the base plate.\nThe reissue V848 Clyde McCoy Wah pedal was produced for Vox by Dunlop Manufacturing of Benecia CA. Dunlop also produced the \"standard\" V847 wah for Vox, along with two limited edition versions of the V847, the gold plated V847G wah and the V847UJ wah with Union Jack graphics.\nThe original 1966-67 Clyde McCoy Wah circuit had two transistors, nine ½ watt resistors, five capacitors and a 500mH \"halo\" inductor. The reissue V848 Clyde McCoy pedal had a more complex circuit that included three transistors, sixteen ½ watt resistors, nine capacitors and a 500 mH red \"Fasel\" inductor (see photo at lower left). This red Fasel inductor was similar to the inductor found in 1970's era Vox wahs built by JEN in Italy.\nOne might expect that the only difference between the Vox V847 \"standard\" wah and the V848 \"Clyde\" would be the Fasel inductor in the V848. In fact, the V847 and V848 had completely different circuits. The V847 circuit had two transistors, eleven ½ watt resistors and five capacitors.",
+    "hrid": "vox-v848"
+}

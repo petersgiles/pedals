@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17915",
+    "name": "Sending",
+    "image": "images/electronic-audio-experiments-sending.jpg",
+    "function": [
+        "PreAmp",
+        "Delay",
+        "Distortion"
+    ],
+    "manufacturer": "Electronic Audio Experiments",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 130,
+    "height": 160,
+    "details": "",
+    "hrid": "electronic-audio-experiments-sending"
+}

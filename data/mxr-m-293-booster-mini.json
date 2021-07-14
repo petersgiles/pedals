@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13234",
+    "name": "M 293 Booster Mini",
+    "image": "images/mxr-m-293-booster-mini.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 40,
+    "height": 90,
+    "details": "Dunlop MXR M 293 Booster Mini, boost / preamp effects pedal",
+    "hrid": "mxr-m-293-booster-mini"
+}

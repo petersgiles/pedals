@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16527",
+    "name": "ValveDrive DI",
+    "image": "images/ebs-valvedrive-di.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$357 Price in €",
+    "width": 127,
+    "height": 152,
+    "details": "Preserve the low range  Suitable for live and studio use  Analog Signal Processing  Use as preamp or overdrive pedal  Vintage or modern tube sound  Balanced floating XLR-output\nhttp://ebssweden.com/content2/ebs-valvedrive-di/",
+    "hrid": "ebs-valvedrive-di"
+}

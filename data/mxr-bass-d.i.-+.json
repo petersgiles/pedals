@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14817",
+    "name": "Bass d.i. +",
+    "image": "images/mxr-bass-d.i.-+.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion",
+        "Multieffect",
+        "Noise Gate"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$222 Price in €",
+    "width": 146,
+    "height": 114,
+    "details": "The Bass D.I.+ features a D.I., separate clean and distortion channels, an array of controls to fine-tune your sound, an a noise gate trigger control to eliminate hum and hiss.Finally, all the essentials in one tough little box. You need a serious D.I. for playing live and laying down killer tracks. You've got to have a preamp and finely tuned EQ to add punch to your tones. And you definitely can't do without some rich, custom distortion. This one-of-a-kind pedal gives you the whole deal in a bomb-proof enclosure that will survive even the most out of control gigs-and players. Built with the highest quality components, the M-80 can give you eve everything from warmth and transparency to a volcanic roar, without making you scroll through menu screens or an indecipherable manual. Engage the color switch for some sweet preset EQ, then tweak your tone with three band control. Dial in your ideal distortion with the gain knob and blend just the right amount into your clean signal, then kick it on and off at will. The adjustable noise gate pours on the sustain and cuts out hum and hiss. With XLR and parallel 1/4 outputs and a phantom power switch, you'll never have a problem delivering your choice new tones.\nhttps://www.jimdunlop.com/product/m80-7-10137-01975-1.do",
+    "hrid": "mxr-bass-d.i.-+"
+}

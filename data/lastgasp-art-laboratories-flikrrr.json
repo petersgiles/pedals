@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16293",
+    "name": "Flikrrr",
+    "image": "images/lastgasp-art-laboratories-flikrrr.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$228 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Flickering tremoloThe \"FLIKRRR - flickering tremolo\" (FLK) is a tremolo effect pedal inspired by the natural patterns and fluctuations found throughout nature.\nStyled upon the natural phenomenon known as 1/f fluctuation, it is characterized here by gentle swaying tremolo patterns.\nYou can make volume changes reminiscent of the soft sway of a candle flame, or the flicker of a fluorescent lamp.\nhttp://lalweb.com/flk/flk-e.html",
+    "hrid": "lastgasp-art-laboratories-flikrrr"
+}

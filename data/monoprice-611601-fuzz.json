@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11959",
+    "name": "611601 Fuzz",
+    "image": "images/monoprice-611601-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Monoprice",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$27 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "https://www.monoprice.com/product?p_id=611601",
+    "hrid": "monoprice-611601-fuzz"
+}

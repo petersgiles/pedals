@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12865",
+    "name": "Cutting Room Floor",
+    "image": "images/recovery-effects-and-devices-cutting-room-floor.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch"
+    ],
+    "manufacturer": "Recovery Effects and Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 127,
+    "height": 95,
+    "details": "Glitch, Pitch, Echo, ModulateOperates on a standard Boss style 9vdc power supply.\nhttp://www.graigmarkelmusic.com/Graig_Markel_Music/Cutting_Room_Floor.html",
+    "hrid": "recovery-effects-and-devices-cutting-room-floor"
+}

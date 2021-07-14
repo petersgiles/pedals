@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29835",
+    "name": "Smalls Overrated Special Overdrive",
+    "image": "images/way-huge-smalls-overrated-special-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$162 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "Way Huge WM28 Smalls Overrated Special Overdrive - Joe BonamassaDesigned in conjunction with bluesman Joe Bonamassa, the Way Huge Smalls Overrated Special Overdrive delivers a range of bold, punchy grit. Jeorge Tripps took an old school Green Rhino OD, hot-rodded it for a more pronounced midrange, and added a Freq control so that you can punch up the low mids. Volume, Tone, and Drive controls round out a straightforward user interface so you can plug in and get right to\nit. Run the Overrated Special OD in front of a clean amp for a gritty boost, or slam an already distorted channel for an electrifying surge of gain and sustain worthy of Joe Bonamassa’s searing leads. Now in a Way Huge Smalls housing, this little box of dirt will find an easy home on your pedalboard.\nhttps://www.jimdunlop.com/way-huge-smalls-overrated-special-overdrive/",
+    "hrid": "way-huge-smalls-overrated-special-overdrive"
+}

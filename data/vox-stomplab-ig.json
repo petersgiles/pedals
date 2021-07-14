@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15863",
+    "name": "Stomplab IG",
+    "image": "images/vox-stomplab-ig.jpg",
+    "function": [
+        "Multieffect"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$90 Price in €",
+    "width": 145,
+    "height": 125,
+    "details": "Multi-effectThe StompLab series of effect pedals are impressive new contenders that pack powerful sounds into compact and sophisticated looking metal bodies. Sound variations are categorized by style, such as rock, blues, and ballad, making it easy for even novice users to recall the desired sound. In addition to the StompLab IG's dedicated guitar modeling and the StompLab IB dedicated bass modeling, the lineup also includes the StompLab IIG and IIB which provide an expression pedal. With high-quality looks, plus its high quality sound, the StompLab series will be a great companion for the guitarist or bassist for years to come.\nhttp://voxamps.com/stomplab",
+    "hrid": "vox-stomplab-ig"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21312",
+    "name": "FX64 Ice Box Stereo Chorus",
+    "image": "images/dod-fx64-ice-box-stereo-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 77,
+    "height": 130,
+    "details": "Analog Stereo Chorus",
+    "hrid": "dod-fx64-ice-box-stereo-chorus"
+}

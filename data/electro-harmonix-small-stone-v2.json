@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14398",
+    "name": "Small Stone V2",
+    "image": "images/electro-harmonix-small-stone-v2.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$130 Price in €",
+    "width": 85,
+    "height": 135,
+    "details": "4-stage OTA phase shifter V2 (1977-1978)From dreamy swooshes to otherworldly sonic flares, nothing beats the warmth and richness of the New York City-made Small Stone. One of the most desired effect pedals for performance and recording. The Small Stone is the definitive phase shifter. Countless recordings and live performances rely on the Small Stone's superior tone. The Color Switch adds feedback and phase intensity.\nhttps://www.ehx.com/products/small-stone-classic-chassis",
+    "hrid": "electro-harmonix-small-stone-v2"
+}

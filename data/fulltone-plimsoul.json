@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12381",
+    "name": "Plimsoul",
+    "image": "images/fulltone-plimsoul.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$159 Price in €",
+    "width": 68,
+    "height": 116,
+    "details": "For many, many years you've basically had 2 choices for your Overdrive/Distortion pedals: You could either get \"Soft-clipped\" Bluesy, slightly compressed, (Toob Screemer, FD2, etc.) type Overdrive pedals... or you could get \"Hard-Clipped\" (OCD, Distortion+, Boss DS-1, etc.) type Distortion pedals.\nWhat if there was a pedal that offered both? There is now... the Fulltone PlimSoul with it's Patented (US Patent#8471136) and completely unique dual stage clipping circuit which VERY accurately replicates not only the sound, but *the feel *of a tube amp with all of its subtleties and complexities.\nPlimSoul has those Softer Bluesey, Compressed capabilities but also has a Second Stage that you can roll in with the turn of a little dial to add that firmer, crunchier, British output tube style Distortion! What's more is you not only hear and feel it... you can SEE the pedal reacting to your every mood via a firey LED that glows brighter and dimmer depending on how distorted it is and how hard you're hitting it.\nTouch sensitive? Doesn't get any better.\nClean up with the guitar's volume control? More than any, yes, even more than the OCD.\nSpeaking of OCD, people ask \"What's the comparison?\" Easy answer: OCD has an honest flat EQ, won't change your amp's tone. PlimSoul has a gorgeous enhanced Midrange and Lower midrange... excellent to transform a combo into a Marshall-like lead machine, not so necessary if you already have a Marshall-like amp. I use PlimSoul on any combo, I use my OCD on both combos and larger Marshall-style amps/cabinets.\nGood with Humbuckers as well as Single coils? Yep.\nDoes it play nice with other pedals? Yes, it has an Ideal 500K Input Impedance, ideal super low 10K output impedance.\nCan I blend the 2 types of Distortion? Yes, and you can have ONLY Soft clipped or ONLY Hard Clipped :)\nIn a Nutshell? Extremely good Sustain/Feedback qualities, just the right amount of Mids, bottom, Great touch sensitivity, dynamics, and all those in-between shades available when you know how to use your guitar's volume control. I guess I should be flattered, I'm already starting to see pedal builders taking notice and \"getting inspired\" by the PlimSoul's unique design, which combines independently adjustable soft & hard clipping and successfully emulates the \"sag\" and other behaviors associated with a tube amp's output section and tube rectifier. With the OCD, I gooped the pcb for 5 years or so to slow them down, but you're now seeing a handful of \"OCD inspired\" pedals being sold under various names. Now I'm seeing Photoshop renderings popping up from other makers claiming to be developing \"emulates output tube distortion\" pedals ala Plimsoul. I didn't bother gooping the PlimSoul, but we are well into the Patent process. :)",
+    "hrid": "fulltone-plimsoul"
+}

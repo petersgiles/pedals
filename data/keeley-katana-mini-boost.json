@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13855",
+    "name": "Katana Mini Boost",
+    "image": "images/keeley-katana-mini-boost.jpg",
+    "function": [
+        "PreAmp",
+        "Volume"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 47,
+    "height": 92,
+    "details": "",
+    "hrid": "keeley-katana-mini-boost"
+}

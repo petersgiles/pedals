@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11761",
+    "name": "M 236 Super Badass Variac Fuzz",
+    "image": "images/mxr-m-236-super-badass-variac-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$188 Price in €",
+    "width": 64,
+    "height": 111,
+    "details": "Fuzz effects pedal",
+    "hrid": "mxr-m-236-super-badass-variac-fuzz"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25545",
+    "name": "Mini OD-503",
+    "image": "images/mr.-black-mini-od-503.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 47,
+    "height": 94,
+    "details": "Mini Format Dynamic Amplifier OverdrivePurpose built to give you more of your instrument and amp, the OD-503 enhances the drive and natural harmonic content of your instrument, effortlessly giving you even more of what you already have and love!\nWith its extraordinary dynamics and immediate feel, the OD-503 responds naturally and cleans up beautifully with either your pick-attack or your guitar's volume control while adding that \"extra something\" that makes your rig really sing.\nThree simple controls, matched impedances, true-bypass and daisy-chain friendly \"industry standard\" 9VDC power make mating the OD-503 up to your setup a quick and satisfying affair, and when that red light kicks on the riffs begin to flow!\nEvery OD-503 is entirely handmade and built-to-last by real people right here in Portland, Oregon, using exclusively premium, top-grade components to ensure superior tone and years of dependable performance.\nAs they say: Feeling is believing.\nControls:\nOutput (Master Volume/Output Level)\nTreble (High-Frequency Content)\nDrive (Overdrive Gain/Level)\nTech Specs:\nTrue-Bypass\nInput Impedance: ~500KΩ\nOutput Impedance: ~20KΩ\nhttps://www.mrblackpedals.com/collections/pedals/products/mini-od-503",
+    "hrid": "mr.-black-mini-od-503"
+}

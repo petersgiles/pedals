@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11890",
+    "name": "Shigeharu",
+    "image": "images/caroline-shigeharu.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 91,
+    "height": 119,
+    "details": "Fuzz\nhttp://www.carolineguitar.com/portfolio/shigeharu/",
+    "hrid": "caroline-shigeharu"
+}

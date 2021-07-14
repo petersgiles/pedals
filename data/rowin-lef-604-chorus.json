@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17650",
+    "name": "LEF-604 Chorus",
+    "image": "images/rowin-lef-604-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Rowin",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 38,
+    "height": 89,
+    "details": "ChorusFeatures:\nExquisite workmanship, mini and portable.\nPure Analog chorus effect, clear, gental, plump.\nWhole Aluminium alloy chassis, stable and strong.\nTrue bypass provides transparent tone.\nLED indicator shows the working state.\nRubber pads on the backside is anti-skid, which enhances the stability and avoids friction between the effect pedal and the ground.\nSpecifications:\nBrand: Rowin\nModel: LEF-604\nMain Material: Aluminium alloy\nInput Impedance: 490K Ohms\nOutput Impedance: 490K Ohms\nWorking Current: 10mA\nPower Supply: 9V AC Adapter (Positive Tip)\nItem Size: 9.5 * 4.5 * 4.8cm / 3.7 * 1.8 * 1.9in(D * W * H)\nItem Weight: 149g / 5.3oz\nPackage Size: 12.2 * 6.3 * 6.3cm / 4.8 * 2.5 * 2.5in\nPackage Weight: 224g / 7.9oz\nhttps://www.ebay.com/itm/Rowin-LEF-604-High-quality-Chorus-Pedal-Mini-Guitar-Effect-Pedal-Green-N4V3-/222297490874",
+    "hrid": "rowin-lef-604-chorus"
+}

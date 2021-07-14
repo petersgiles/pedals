@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31228",
+    "name": "OD-3 Overdrive",
+    "image": "images/nux-od-3-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$80 Price in €",
+    "width": 77,
+    "height": 121,
+    "details": "Overdrive",
+    "hrid": "nux-od-3-overdrive"
+}

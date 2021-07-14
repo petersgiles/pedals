@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30880",
+    "name": "Tempest",
+    "image": "images/dave-smith-modular-tempest.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Dave Smith Modular",
+    "current": "? mA / ? V / AC",
+    "cost": "",
+    "width": 393,
+    "height": 230,
+    "details": "Analog Drum MachineTempest is the brainchild of legendary instrument designers, Dave Smith and Roger Linn. It’s a professional drum machine that generates its sounds using six powerful analog synthesis voices, and uses an innovative, performance-oriented operating system that permits an extraordinary level of control to create, edit, arrange, and manipulate beats in real time without ever stopping.\nThe performance-oriented operating system, ninety panel controls, and bright 256 x 64 dot OLED display work together to provide a tightly integrated, non-stop workflow.\nRecord a drumbeat in real-time\n    Switch to another drumbeat and use the lit pads to record it using step programming\n    Switch to another drumbeat and record tuned keyboard parts\n    Use the two touch controllers to record real-time note sound animations or perform beat-wide sound changes\n    Use the generous sound controls to edit any of the drum sounds\n    Tweak the analog effects or drum mix\n    Arrange beats in real time and record the live arrangement into a song\n    And all of the above without ever stopping play\nhttps://www.sequential.com/product/tempest/",
+    "hrid": "dave-smith-modular-tempest"
+}

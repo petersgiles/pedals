@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22511",
+    "name": "Helix HX Effects",
+    "image": "images/line6-helix-hx-effects.jpg",
+    "function": [
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 274,
+    "height": 201,
+    "details": "More than 100 HX effectsHX Effects™ was created for guitarists and bassists who want our flagship Helix® effects for traditional amp and pedalboard setups. Powered by the same audio engine as Helix processors, HX Effects includes the full array of Helix effects plus legacy effects from the M-Series and Stompbox Modeler pedals. All in a compact pedal that fits easily on your pedalboard.\nhttps://line6.com/hx-effects/",
+    "hrid": "line6-helix-hx-effects"
+}

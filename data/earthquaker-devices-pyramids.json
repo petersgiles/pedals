@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17091",
+    "name": "Pyramids",
+    "image": "images/earthquaker-devices-pyramids.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Flanger"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "460 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 105,
+    "height": 118,
+    "details": "Stereo Flanging DevicePyramids is a Stereo Flanging Device with five presets, eight flanger modes, tap tempo, tap subdivision, a multifunction Modify control, positive and negative Feedback, and a variable Mix control, which is something you don’t see on a flanger every day.\nBuilt upon the same proprietary DSP architecture as the Avalanche Run™, Pyramids delivers convincing jet-engine roar, authentic through-zero tape-style warble, infinite barber pole sweeps, flexible I/O routing, and the ability to re-trigger the LFO cycle via footswitch opens up a fourth dimension of rhythmic possibilities that’s sure to tickle your third ear.\nhttps://www.earthquakerdevices.com/pyramids",
+    "hrid": "earthquaker-devices-pyramids"
+}

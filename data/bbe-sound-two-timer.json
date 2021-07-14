@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20826",
+    "name": "Two Timer",
+    "image": "images/bbe-sound-two-timer.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "BBE Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 90,
+    "height": 120,
+    "details": "Analog Delay\nhttp://www.bbesound.com/products/stomp-boxes/Two-Timer_TT-2.aspx",
+    "hrid": "bbe-sound-two-timer"
+}

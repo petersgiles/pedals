@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11781",
+    "name": "Dallas Arbiter Fuzz Face",
+    "image": "images/dunlop-dallas-arbiter-fuzz-face.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 178,
+    "height": 178,
+    "details": "",
+    "hrid": "dunlop-dallas-arbiter-fuzz-face"
+}

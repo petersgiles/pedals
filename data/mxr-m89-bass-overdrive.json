@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20519",
+    "name": "M89 BASS OVERDRIVE",
+    "image": "images/mxr-m89-bass-overdrive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 63,
+    "height": 110,
+    "details": "BASS OVERDRIVEThe Bass Overdrive delivers burly overdriven tones with a Clean control to blend in a pre-set EQ clean signal.\nThe MXR Bass Overdrive is an original design that delivers warm, tube-like overdrive. Along with standard Volume, Tone and Drive controls, this pedal features a Clean control so you can blend a pre-set EQ clean signal with the overdrive signal, resulting in sweet burly bass overdrive.\nhttps://www.jimdunlop.com/product/m89-7-10137-06406-5.do",
+    "hrid": "mxr-m89-bass-overdrive"
+}

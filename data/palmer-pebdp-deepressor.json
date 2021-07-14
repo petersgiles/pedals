@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11630",
+    "name": "PEBDP Deepressor",
+    "image": "images/palmer-pebdp-deepressor.jpg",
+    "function": [
+        "Dynamics",
+        "Bass"
+    ],
+    "manufacturer": "Palmer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$75 Price in €",
+    "width": 120,
+    "height": 60,
+    "details": "Bass Effects Pedal",
+    "hrid": "palmer-pebdp-deepressor"
+}

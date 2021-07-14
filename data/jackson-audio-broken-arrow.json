@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22243",
+    "name": "Broken Arrow",
+    "image": "images/jackson-audio-broken-arrow.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$279 Price in €",
+    "width": 72,
+    "height": 130,
+    "details": "https://jackson.audio/brokenarrow/",
+    "hrid": "jackson-audio-broken-arrow"
+}

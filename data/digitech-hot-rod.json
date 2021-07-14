@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12779",
+    "name": "Hot Rod",
+    "image": "images/digitech-hot-rod.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 79,
+    "height": 125,
+    "details": "distortion",
+    "hrid": "digitech-hot-rod"
+}

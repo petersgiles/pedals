@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14827",
+    "name": "Supermoon Eclipse",
+    "image": "images/mr.-black-supermoon-eclipse.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 94,
+    "height": 119,
+    "details": "True Stereo ReverbTrue stereo I/O, trails, expression assignable control, full-wet reverb on Chrome side, preset.\nhttps://www.mrblackpedals.com/collections/pedals/products/supermoon-eclipse",
+    "hrid": "mr.-black-supermoon-eclipse"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16692",
+    "name": "Sugar Drive",
+    "image": "images/mxr-sugar-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 40,
+    "height": 90,
+    "details": "Klon Clone",
+    "hrid": "mxr-sugar-drive"
+}

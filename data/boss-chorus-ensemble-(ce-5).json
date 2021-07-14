@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27059",
+    "name": "Chorus Ensemble (CE-5)",
+    "image": "images/boss-chorus-ensemble-(ce-5).jpg",
+    "function": [
+        "Chorus",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$139 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Chorus pedalThe CE-5 Chorus Ensemble is BOSS' ultimate compact chorus pedal, covering a wide frequency range and featuring high- and low-cut filters. This lets users create any kind of chorus effect--from a mild, natural chorus to the clear and penetrating stereo chorus effect popular in contemporary music.\nUltra-high quality compact chorus pedal for guitarists and keyboardists\nHigh- and Low-cut filters for shaping tonality of the chorus\nOffers Effect Level, Rate, Depth and Filter knobs for complete control\nMono input and Stereo outputs for connection to dual amps or for studio use\nProduces a range of chorusing effects, from subtle to extreme\nBOSS five-year warranty\n\nhttps://www.boss.info/us/products/ce-5/features/",
+    "hrid": "boss-chorus-ensemble-(ce-5)"
+}

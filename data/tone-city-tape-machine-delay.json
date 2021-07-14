@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20621",
+    "name": "Tape Machine Delay",
+    "image": "images/tone-city-tape-machine-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Tone City",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 52,
+    "height": 80,
+    "details": "An analog voiced tape delay in a tiny package.\nhttps://www.riffcityguitaroutlet.com/products/tone-city-tape-machine-delay-pedal?gclid=Cj0KCQiAj4biBRC-ARIsAA4WaFiO1fHcuygF-DvqoHyCcUzJnprSjboBw7ETZ3HtY0uTNj1GPu6YGFgaAsgqEALw_wcB",
+    "hrid": "tone-city-tape-machine-delay"
+}

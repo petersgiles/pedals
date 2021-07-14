@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27766",
+    "name": "Lluna",
+    "image": "images/lastgasp-art-laboratories-lluna.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$229 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Fuzz Drive & Voltage DropperThe LastGasp Art Laboratories Lluna is an overdrive/fuzz pedal that makes use of a built-in oscillator configuration and voltage dropper. The former provides a broad distortion level range while the latter generates a distortion sound whenever the power voltage drops. The pedal is capable of anything from soft overdriven characteristics to self-oscillating chaos. Proceed with caution.",
+    "hrid": "lastgasp-art-laboratories-lluna"
+}

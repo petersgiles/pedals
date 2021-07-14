@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23424",
+    "name": "OD-808X Overdrive Extreme",
+    "image": "images/maxon-od-808x-overdrive-extreme.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 70,
+    "height": 114,
+    "details": "Modified version of OD808 Overdrive\nModified version of classic OD808 Overdrive\nExtended frequency response improves note definition and clarity\nIncreased Output (+5 dB over OD808) for extra Volume Boost\nHarder clipping yields more aggressive, amp-like Distortion\nBuffered Bypass Switching",
+    "hrid": "maxon-od-808x-overdrive-extreme"
+}

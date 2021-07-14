@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11858",
+    "name": "Generation Loss",
+    "image": "images/cooper-fx-generation-loss.jpg",
+    "function": [
+        "Digital",
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 94,
+    "height": 117,
+    "details": "VHS tape decayThe Generation Loss recreates the degradation found on old worn out VHS tapes. The Generation Loss can be used to create lo-fi textures featuring random pitch fluctuations, high and low frequency loss, white noise, and sample rate reduction.",
+    "hrid": "cooper-fx-generation-loss"
+}

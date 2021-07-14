@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27319",
+    "name": "Plasma Coil",
+    "image": "images/gamechanger-audio-plasma-coil.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Gamechanger Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$312 Price in €",
+    "width": 96,
+    "height": 148,
+    "details": "“THE PLASMA LITERALLY STRIPS PAINT OFF WALL.\nWE CHALLENGE YOU TO FIND A SINGLE PEDAL THAT TAKES YOUR SOUND FROM CLEAN TO THIS LEVEL OF INSANITY, WHILST STILL BEING FULLY PLAYABLE BOTH WITH POWER CHORDS, LOW RIFFS AND SOLOS.”\nhttps://www.gamechangeraudio.com/plasma-coil/",
+    "hrid": "gamechanger-audio-plasma-coil"
+}

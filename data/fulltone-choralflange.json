@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15147",
+    "name": "ChoralFlange",
+    "image": "images/fulltone-choralflange.jpg",
+    "function": [
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 178,
+    "height": 102,
+    "details": "Chorus/ FlangerGuitarists and Bassists, your search for the ultimate analog modulation pedal has ended.... this is the real thing, not a sterile Digital or \"Modelling\" sound! The FLANGING is amazing! Very musical and very reminiscent of \"House Burning Down\" and \"High Landrons.\" And without a bunch of noise... in ((STEREO)) too.\nThe CHORUS is wide ranging, getting everything from thick pitch-bent vibrato'd vintage CE-1 style sounds to very transparent splits, but without the sterility of the popular hi-end choruses. And there's more headroom so that there isn't any input overload distortion if you use heavy strings (like me) or play bass. This thing does great Leslie simulations as well, in both stereo and mono operation.\nFeatures include:\nDelay Time knob allowing for subtle or wildly detuned chorus/Vibratos.\nMix knob for balancing between Effected and straight Guitar/Bass signals\nDepth knob for effect Intensity and thickness.\nRate knob with LED indicator for a visual to match with song tempo...doubles as.\nExternal trimmer for Gain, and mini-toggleswitch for Range (1 or 2 Octave sweep) and Function (selects between Chorus or Flanger).",
+    "hrid": "fulltone-choralflange"
+}

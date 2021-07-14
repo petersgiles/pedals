@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11965",
+    "name": "Angry Charlie V4",
+    "image": "images/jhs-angry-charlie-v4.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 119,
+    "details": "The Angry Charlie has become a staple of the JHS line over the years, and it’s a force to be reckoned with in the high-gain pedal territory. Its ability to convincingly and accurately breathe JCM800 tones into any rig has made it a popular choice for guitarists of all genres. And unlike many other British amp-in-a-box pedals, the Angry Charlie V3 sports a 3-band tone stack, just like the Marshalls, helping nail those warm yet searing tones and boundless sustain. If you are a glutton for high-gain overdrive/distortion that has a British flavor, the Angry Charlie V3 will change your life. Well, your gear life.\nFurious-sounding amp in a box\nTurn the Drive control down, and you might be surprised how bluesy and vintage-like this pedal sounds. But through its different versions, our Angry Charlie distortion has always been one of the more aggressive British amp-in-a-box pedals out there. Either way, you’ll be injecting your amp with the grit and attitude of the UK amplifier heads that gave rock ‘n’ roll its teeth.\n- Turns any amp into a screaming Marshall stack\n- Go from bluesy Hendrix-like breakup to high-gain Brit tones with a twist of the Drive knob\n- Drive and Volume control interact the same as a master volume amp head\n- Back off your guitar’s volume to control your gain levels without losing clarity\nMarshall-style tone stack\nAfter a couple of extremely well-received versions of the Angry Charlie, we realized that to really nail the ultimate Marshall-style tone, we had to add Marshall-style control. So we gave you a finely tuned Marshall-style 3-band EQ. Enjoy!\n- Fine-tune your tone with controls for Bass, Middle, and Treble\n- Active controls boost and cut their selected frequencies\nThis pedal requires standard 9V DC Negative power, consumes less than 100mA, and measures 2.6\"x4.8\"x1.6\".",
+    "hrid": "jhs-angry-charlie-v4"
+}

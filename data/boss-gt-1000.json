@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20538",
+    "name": "GT-1000",
+    "image": "images/boss-gt-1000.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "1200 mA / ? V / AC",
+    "cost": "$999 Price in €",
+    "width": 462,
+    "height": 248,
+    "details": "Guitar Multi-Effects Pedal with AIRD Amp/Cab ModelingDelivering unmatched sound quality and musical expression, the GT-1000 ushers in a new era of performance in amp/effects processors. This premium tone machine debuts the groundbreaking new AIRD (Augmented Impulse Response Dynamics) technology, realized with decades of advanced BOSS research and supported by an ultra-fast DSP engine, 32-bit AD/DA, 32-bit floating-point processing, and 96 kHz sampling rate throughout.\nBased on BOSS’s acclaimed Tube Logic approach, the comprehensive AIRD system in the GT-1000 brings unparalleled musical response and flexibility to a digital guitar processor. AIRD amplifiers live and breathe like real tube amps, providing inspiring feel and authentic tonal dynamics that were previously unattainable. And with sophisticated AIRD Output Select functionality, you’re able to consistently achieve this amazing sound with any setup, from standard guitar amps to full-range playback systems.\nThe GT-1000 also features a huge range of cutting-edge BOSS effects to enhance your tones, with numerous routing options and extensive real-time control at your command. And with the convenience of built-in Bluetooth®, you can adjust sounds, configure control assignments, and organize patches wirelessly from your mobile device using the BOSS Tone Studio app. Packing immense creative power in a streamlined pro design, the GT-1000 is a game changer that brings new levels of musical expression to guitarists everywhere.\nhttps://www.boss.info/us/products/gt-1000/",
+    "hrid": "boss-gt-1000"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11401",
+    "name": "Big Muff π",
+    "image": "images/electro-harmonix-big-muff-π.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 118,
+    "height": 165,
+    "details": "Sovtek VersionThe Green Russian Big Muffs Pi's are the most common Sovtek BMPs to be found from the 1990s era. Also known as the Tall Font and Bubble Font Green Russians. The tank-like military appearance made these very mean looking pedals, and very desirable. They shipped in the same military style wood crate with Russian lettering as the Mike Matthews Red Army Overdrive, and previous Sovtek BMPs, though the box graphics changed sometime during the third edition run. These were made in St. Petersburg Russia.\nvia Big Muff π page",
+    "hrid": "electro-harmonix-big-muff-π"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32648",
+    "name": "Parametric Preamp",
+    "image": "images/carl-martin-parametric-preamp.jpg",
+    "function": [
+        "PreAmp",
+        "Equalizer"
+    ],
+    "manufacturer": "Carl Martin",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$266 Price in €",
+    "width": 100,
+    "height": 120,
+    "details": "3-band parametric equalizerCarl Martin 3 Band Parametric Pre-Amp has been specially developed for musicians who play ACOUSTIC GUITAR, VIOLIN, ACCORDION, DOUBLE BASS, etc.\nThese musicians often use combo amps and do not find the use of 19″ rack equipment very practical. Experience has shown us that these instruments often require a high quality EQ and balanced line driver. We have integrated those features into a handy stomp box format.\nFor maximum flexibility, we found it necessary to create a high quality 3 band semi-parametric EQ.\nCarl Martin 3 Band Parametric Pre-Amp works equally well for tweaking the sound of electric guitars, basses and other electronic instruments as well as for direct studio recordings.\nhttps://www.carlmartin.com/3-band-parametric-eq",
+    "hrid": "carl-martin-parametric-preamp"
+}

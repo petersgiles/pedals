@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29346",
+    "name": "El Guapo",
+    "image": "images/jackson-audio-el-guapo.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Jackson Audio",
+    "current": "160 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 69,
+    "height": 124,
+    "details": "Overdrive/DistortionThe Mateus Asato Signature El Guapo Overdrive/Distortion was developed over a 10+ prototype revision process. During this two year process every detail was painstakingly refined to ensure that both the distortion and overdrive channels would work together to recreate the soulful overdriven tones, as well as the liquid high gain tones that legendary guitarist Mateus Asato is known for! \nDesigned as a complete 'Marshall-in-a-box' pedal, the distortion channel of the El Guapo features a high-gain distortion circuit that perfectly recreates the detail and harmonic complexity of the legendary JCM800 amplifier, while the overdrive channel delivers the smooth overdrive and touch sensitivity of a vintage Marshall Plexi. \nThe new changes in the production version are:\nMore clarity in the overall tone of the distortion circuit\nVolume, Tone and Gain controls broken out for the overdrive circuit\n4 overdrive clipping options for the overdrive circuit\nMIDI control\nhttps://jackson.audio/products/elguapo",
+    "hrid": "jackson-audio-el-guapo"
+}

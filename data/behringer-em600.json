@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11849",
+    "name": "EM600",
+    "image": "images/behringer-em600.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Echo Machine",
+    "hrid": "behringer-em600"
+}

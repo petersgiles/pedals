@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17003",
+    "name": "SS-850 Solid State Echo Chamber",
+    "image": "images/mr.-black-ss-850-solid-state-echo-chamber.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$230 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "https://www.mrblackpedals.com/products/ss-850",
+    "hrid": "mr.-black-ss-850-solid-state-echo-chamber"
+}

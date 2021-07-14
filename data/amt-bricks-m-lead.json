@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22951",
+    "name": "Bricks M-Lead",
+    "image": "images/amt-bricks-m-lead.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "AMT",
+    "current": "300 mA / 12 V / DC / Negative Center",
+    "cost": "$196 Price in €",
+    "width": 55,
+    "height": 95,
+    "details": "1 channel tube guitar preamp (JCM800 Emulation)AMT Electronics presents the new X-Lead/X-Clean line of tube guitar preamplifiers. This line is a part of the AMT Bricks series of devices. The AMT Bricks series includes various devices (preamps, effect pedals, noise suppressors, cabinet simulators, controllers, pedalboards, etc.). Uniting the AMT Bricks series factor is their design and functional compatibility. Most of the devices of the series can be used both independently and together.\nThe AMT Bricks series and the X-Lead / X-Clean tube preamps’ line are expanding constantly. Small dimensions, versatility, and “adult” sound – under this motto the new line of pedals was created. The pedals are built depending on the number of amplification stages either entirely on vacuum triodes or on the hybrid Tube + Semiconductors technology.\nhttps://amt-sales.com/preamps/bricks-preamps/m-lead/",
+    "hrid": "amt-bricks-m-lead"
+}

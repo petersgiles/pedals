@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13540",
+    "name": "Polytune 3",
+    "image": "images/tc-electronic-polytune-3.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$118 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Tuner with bufferThe most advanced PolyTune yet\nBuilt-in BonaFide Buffer preserves your tone for long cable runs\nSwitchable true bypass option puts you in charge of your signal path\nAlternate tuning modes make it fast and easy to explore open/slide tunings\nAlways On option (Buffer mode only) provides continuous tuning feedback as you play\nSave time tuning all strings at once*, or tune string by string — PolyTune 3 adjusts automatically\nPrecise strobe tuner is accurate to within 0.1 cents — great for double-tracking\nFast chromatic tuner (+/- 0.5 cents) automatically detects the note you're playing\nAuto-dimming LED display is easy to read on dark stages or in direct sunlight\n3-year manufacturer warranty makes the PolyTune 3 a smart investment\nDesigned and engineered in Denmark\nRequires a standard 9V power supply (not included)\nhttp://www.tcelectronic.com/polytune-3/",
+    "hrid": "tc-electronic-polytune-3"
+}

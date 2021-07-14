@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20252",
+    "name": "Hypnosis",
+    "image": "images/dreadbox-hypnosis.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Reverb",
+        "Multieffect"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 250,
+    "height": 150,
+    "details": "Time Effects Processor3 Independent Effects :\nAnalog Spring Reverb with a 3-Spring Tank and a Unique Pitch Modulation Circuit\nStereo Analog BBD Chorus-Flanger with 3 LFO Waves\nStereo Digital Delay with 3 Delay Types and Freeze Function\nVariable Input and Output Gain Controls (from MIC to Eurorack Levels)\nSaves up to 49 Presets\nAvailable in Summer 2019.\n(Measurements are approximate until more information is available.)\nhttps://www.dreadbox-fx.com/hypnosis/",
+    "hrid": "dreadbox-hypnosis"
+}

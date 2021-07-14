@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14920",
+    "name": "Euphoria",
+    "image": "images/wampler-euphoria.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "D-Style Colored OverdriveNatural, transparent overdrive\nThe Euphoria has been world renowned for many things over the years, but primarily it has become famous for its versatility and that old boutique catch phrase “transparency”.\nWhen Brian created the circuit that would eventually become the Euphoria, he was working on creating a pedal that would go from clean tones to extremely fat tones while adding a bit of warmth, a natural overdrive… the goal was to make a pedal that does NOT sound like a pedal – it needed to be dynamic, have a great choice of tones (from  gritty to smooth) yet be able to respond to the volume knob like a tube amp.\nThe hidden secret of the Euphoria is the pre-gain bass control. This gives the tone a fatness that a regular EQ stack cannot give you, it gives you a warmth and sustain to the tone that is extremely similar to that famous, elusive amp that attracts the the kind of price tag in the used market that could literally buy you a home.\nIf you love the sound of your clean tone, and just wish you could have more hair on the note… a little bit of grit without any change in tonality, the Euphoria will do that with ease. The 3 completely separate gain stages give you 3 distinct styles of overdrive – So, from that famous smooth amp style drive, to an open and free tone that just pushes your natural tone all the way up to a more aggressive crunch style, the Euphoria will be the first, and quite possibly last, choice you make for an overdrive pedal.\n\nSee more at: https://www.wamplerpedals.com/euphoria#sthash.WE0VhdXV.dpuf\n\nhttps://www.wamplerpedals.com/euphoria",
+    "hrid": "wampler-euphoria"
+}

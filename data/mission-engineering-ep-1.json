@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23166",
+    "name": "EP-1",
+    "image": "images/mission-engineering-ep-1.jpg",
+    "function": [
+        "Expression"
+    ],
+    "manufacturer": "Mission Engineering",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 99,
+    "height": 251,
+    "details": "expression pedal",
+    "hrid": "mission-engineering-ep-1"
+}

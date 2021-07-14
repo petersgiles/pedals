@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32479",
+    "name": "Patchulator v2",
+    "image": "images/boredbrain-music-patchulator-v2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Boredbrain Music",
+    "current": "Pedal is passive",
+    "cost": "$130 Price in €",
+    "width": 143,
+    "height": 143,
+    "details": "8-Channel Mini PatchbayPatchulator is the ultimate tool for quick experimental signal routing of guitar pedals, synths and more.\n\nRe-order audio effects easily\nSwap effects between instruments\nExperiment with signal flow\nIncludes eight 6-inch patch cables (TRS)\n\nVersion 2 has been upgraded with new high-quality 3.5 mm jacks, premium finish with fresh UV printed graphics, and is completely lead-free.\nIs your pedalboard brain-dead? The Patchulator provides a tangle-free way to change the order of your effects to create new tones using little to no brainpower! With the provided mini cables, just patch signal from your guitar or bass into (and out of) each effect, then back out to your amp or mixer. Invent new and interesting sounds while your synapses are firing, simply by rearranging the sequence of effects! All your gear and cabling stays put. Oh, and any effect not patched is “truly” bypassed… Genius!\nAre your cables giving you a brain tumor? In the world of electronic music, the Patchulator desktop patchbay becomes a powerful nerve center for your instruments, allowing you to share and swap effects all around your setup, without needing to solve a brainteaser. Just connect your keyboards, synthesizers, samplers, drum machines (or any sound source) to a few channels, then fill the other channels with your effects’ ins and outs. Using the mini patch cables, you can then route any of the effects into and out of the signal path of any instrument, just like a real patch bay! Hmmm… what will you mastermind?\nIn the world of modular synthesizers, the Patchulator is the brainstem between your modules and outboard gear, since it uses both standard and mini phono plugs. So if your brain tissue needs some electro-stimulation, simply inject control voltages and audio signals directly from your modular into effects units and chains. Better yet, use two Patchulators and seriously expand your cranial capacity! Whatever it is that you can brainstorm – guitar pedals and studio effects, synths and samplers, grooveboxes and drum machines, modulars and modulation signals, mixers and recording interfaces – the Patchulator allows it all to interconnect.\nhttps://boredbrainmusic.com/product/patchulator-v2/",
+    "hrid": "boredbrain-music-patchulator-v2"
+}

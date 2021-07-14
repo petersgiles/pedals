@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19896",
+    "name": "Mudhoney II",
+    "image": "images/t-rex-mudhoney-ii.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$167 Price in €",
+    "width": 100,
+    "height": 55,
+    "details": "Two channel distortionTwo channel distortion by T-Rex\nhttps://www.t-rex-effects.com/mudhoney-2",
+    "hrid": "t-rex-mudhoney-ii"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24379",
+    "name": "Silver Spring Reverb",
+    "image": "images/lovepedal-silver-spring-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Lovepedal",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 62,
+    "height": 112,
+    "details": "Spring Reverb",
+    "hrid": "lovepedal-silver-spring-reverb"
+}

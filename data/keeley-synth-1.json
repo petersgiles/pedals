@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21050",
+    "name": "Synth-1",
+    "image": "images/keeley-synth-1.jpg",
+    "function": [
+        "Distortion",
+        "Synth Voice"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 93,
+    "height": 118,
+    "details": "Synth-1 Reverse Attack Fuzz Wave GeneratorThe Synth-1 allows you to create fuzzed-out synth waves!  Use the Filter and Blend controls to mix your guitar with the fuzz from the synth.  Go from churning slow-gear reverse swells to sounding like a light saber.\nThe Keeley Synth-1 is a guitar-triggered, single-note wave generator.  You control the tone of the wave with the Filter Control.  The lead-in time or swell of the note is controlled with the Attack knob.  Then use the Blend control to remove the natural tone from your guitar as you slide through synth-sounding fuzz waves.  Use an expression pedal to control the Filter, and now you have Wah-Wah-like control of the Synth-1.\nSynth Wave Generator – Create fuzzed-out, single note synth sounds\nReverse Attack – Volume Swell Effect – put your guitar in slow gear!\nChaos Switch – change dimensional triggering and octaves and stuff\nFilter – shape the EQ and tone of your fuzz wave\nWave Selector – change wave modes on the fly with your foot!\nControl the Blend of your natural guitar and the wave generator\nSide Mount Expression Jack for TRS control of the Filter\nTop Mounted Jacks, True-Bypass\nDesigned and Made in the USA\nhttps://robertkeeley.com/product/synth-1-reverse-attack-fuzz-wave-generator/",
+    "hrid": "keeley-synth-1"
+}

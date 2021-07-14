@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32571",
+    "name": "Dark Waves",
+    "image": "images/idiotbox-effects-dark-waves.jpg",
+    "function": [
+        "Chorus",
+        "Delay"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "66 mA / 9 V / DC / Negative Center",
+    "cost": "$129 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Echo chorusThe Dark Waves is a chorus, the Dark Waves is an echo. Combined to bring about that gothic darkness that you know and love.\nVOLUME controls the chorus output volume. ECHO controls the amount of echo. RATE controls the speed of the chorus. DEPTH controls the reach. SWELL takes it from a quick rise and slow fall to a slow rise and quick fall and everywhere in between. FILTER shapes for more or less subtle effecting.\nThis thing kills on guitar and totally rules on bass. Instant death rock. You need this in your life.\nhttps://www.idiotboxeffects.com/product/dark-waves-echo-chorus",
+    "hrid": "idiotbox-effects-dark-waves"
+}

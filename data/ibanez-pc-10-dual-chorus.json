@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12398",
+    "name": "PC-10 Dual Chorus",
+    "image": "images/ibanez-pc-10-dual-chorus.jpg",
+    "function": [
+        "Chorus",
+        "Flanger"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 54,
+    "details": "stereo chorusSo, you have been out looking at stereo choruses and flangers and you like the unique quality that each one gives to your instrument, but you are not yet ready to buy two separate pedals. Well, look no farther. For just about the price of either you can have both in the new Ibanez PC10. The PC10 has two completely seperate modulation sections that can be accessed by either the top mounted A/B switch or by plugging in an optional footswitch. In the \"A\" mode, depressing the unit's footswitch will give you effect \"A\" or dry. In the \"B\" mode, depressing the unit's footswitch will give you effect \"B\" or dry. In the A/B mode, depressing the unit's footswitch will give you effect A or effect B alternately. In addition there is a stereo output jack that when accessed by a 1/4\" stereo plug gives you both normal and inverted effect outputs enabling you to play in true stereo.\nUse\nLike the TC10, the PC10 is a chorus with 2 modulators (or L.F.O.'s). The same dual chorusing is available with mnay new variations because one of the modulators can also create flanging effects by decreasing delay time and increasing intensity. These are some of the most lush sounds available through processing. Set the flanger intensity on modulator B to \"0\" and delay time to \"2\" to create identical function of both modulators (like the TC10). Of course different speeds and widths on A and B give best results.\nBy using the footswitch \"toggle\" feature described previously, 2 presets can be used for convenience in live performance. Two different chorus sounds or a chorus and flanger are available instantly.\nhttps://reverb.com/item/200057-ibanez-pc10-prime-dual-chorus-analog-80-s",
+    "hrid": "ibanez-pc-10-dual-chorus"
+}

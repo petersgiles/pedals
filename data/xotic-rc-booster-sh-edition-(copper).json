@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13392",
+    "name": "RC Booster SH edition (Copper)",
+    "image": "images/xotic-rc-booster-sh-edition-(copper).jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Xotic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 65,
+    "height": 119,
+    "details": "Ltd Ed Scott Henderson RC Booster in copper colorDesigned in conjunction with jazz fusion and blues guitarist Scott Henderson, the RC Booster SH model improves on the original RC by adding an additional gain switch that gives players access to a whole new level of gain control.\nhttps://xotic.us/effects/rcsh-limited",
+    "hrid": "xotic-rc-booster-sh-edition-(copper)"
+}

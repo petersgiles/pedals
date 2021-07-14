@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11708",
+    "name": "Mini Deja Vibe CS-MDV-1",
+    "image": "images/fulltone-mini-deja-vibe-cs-mdv-1.jpg",
+    "function": [
+        "Chorus",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$301 Price in €",
+    "width": 134,
+    "height": 102,
+    "details": "",
+    "hrid": "fulltone-mini-deja-vibe-cs-mdv-1"
+}

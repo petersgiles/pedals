@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15673",
+    "name": "Exit Index",
+    "image": "images/death-by-audio-exit-index.jpg",
+    "function": [
+        "Distortion",
+        "Tremolo"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 80,
+    "height": 121,
+    "details": "Analog Warped Tremolo & Distortion (Ltd Edition)Exit Index is an all-analog warped tremolo and dirty overdrive that responds to input levels dynamically.\nTremolo is cool but usually safe. This pedal pushes tremolo somewhere strange. Violent, Leslie-like thump. Reverse delay-like sounds. Ambient, psychedelic swirls with minute variations in the tempo of the LFO. Hit it hard and hear the tremolo only in the decay. Play softer and let the whole sound get affected. Or turn up the \"Blood\" knob and let things get really strange and aggressive.",
+    "hrid": "death-by-audio-exit-index"
+}

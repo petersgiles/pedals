@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29873",
+    "name": "PowerPlant ISO-12 Pro",
+    "image": "images/harley-benton-powerplant-iso-12-pro.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 192,
+    "height": 70,
+    "details": "",
+    "hrid": "harley-benton-powerplant-iso-12-pro"
+}

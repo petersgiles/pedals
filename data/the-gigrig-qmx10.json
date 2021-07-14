@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16697",
+    "name": "QMX10",
+    "image": "images/the-gigrig-qmx10.jpg",
+    "function": [
+        "Controller",
+        "Looper",
+        "Switch"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 680,
+    "height": 40,
+    "details": "true bypass looper",
+    "hrid": "the-gigrig-qmx10"
+}

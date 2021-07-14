@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12252",
+    "name": "PXL-PRO",
+    "image": "images/joyo-pxl-pro.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$157 Price in €",
+    "width": 540,
+    "height": 70,
+    "details": "Looper switch\nhttp://www.joyoaudio.com/en/product/show_187.html",
+    "hrid": "joyo-pxl-pro"
+}

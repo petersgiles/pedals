@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13698",
+    "name": "Anamnesis Echo",
+    "image": "images/sub-decay-anamnesis-echo.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Modulated Delay",
+    "hrid": "sub-decay-anamnesis-echo"
+}

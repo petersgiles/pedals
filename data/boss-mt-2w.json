@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19708",
+    "name": "MT-2W",
+    "image": "images/boss-mt-2w.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 60,
+    "details": "Waza Craft Metal ZonePremium Waza Craft pedal with all-analog audio circuitry\nInnovative dual-stage gain circuit built with discrete analog components\nStandard mode updates the famous MT-2 Metal Zone sound with improved clarity and lower noise\nCustom mode delivers full-throttle gain tones with wider range, increased dynamics, and tighter low end\nPowerful three-band EQ provides intense sound customization with High, Low, and sweepable Midrange and up to 15 dB boost/cut on each band\nPremium buffer for clean and clear tone when bypassed\nMade in Japan\nBOSS five-year warranty\nhttps://www.boss.info/us/products/mt-2w/",
+    "hrid": "boss-mt-2w"
+}

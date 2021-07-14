@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19198",
+    "name": "Paisley Drive",
+    "image": "images/wampler-paisley-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$219 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "OverdriveIt's true, at a gig Brian once threw a modified pedal at the feet of Brad Paisley in the hope that he would pick it up and try it. Fortunately for us, and you, Brad’s tech picked it up, played it - digged it and gave it to Brad who took it away and LOVED it. From that point on, he has used and loved Wampler Pedals. After a few years of using our pedals (Ego, Underdog and Faux AnalogEcho) Brad’s tech at the time, Chad, mentioned to Brian that Brad wasn’t 100% content with his tone and maybe we should all work together to make the perfect overdrive for Brad to record and tour with. His requirements were quite “simple”… it needs to be clean but get crunchy with some “beef” to it. It needs to have a fluid tone when soloing. It needs to add a little hair to the tone but then but then has to be able to give flat out ball busting gain, oh… but please do not wreck the tonality. It needs to have everything, in a pedal format, but do not make it sound like a pedal! Over a period of months, Brian made some circuits and sent them off, there were a couple of “tweaks” here and there to be made and then finally, when official “prototype v2.0” landed, it went straight into the live rack and out on the 2010 “Brad Paisley: H20” world tour. Brad Paisley: “…we actually recorded this (pedal) in the studio, you know, trying it out. I turned up a Trainwreck Amp that I’ve got and compared the sound of the distortion and it was very, very similar. And that’s a very good test because any time a pedal can mimic a great overdriven amp then you’re on to something…”\nhttps://www.wamplerpedals.com/products/distortion-overdrive/brad-paisley-paisley-drive/",
+    "hrid": "wampler-paisley-drive"
+}

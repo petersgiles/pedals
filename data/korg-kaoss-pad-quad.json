@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13187",
+    "name": "Kaoss Pad Quad",
+    "image": "images/korg-kaoss-pad-quad.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Filter",
+        "Multieffect",
+        "Reverb"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$350 Price in €",
+    "width": 185,
+    "height": 213,
+    "details": "Dynamic Effects ProcessorBrilliant, colorful LED touchpad illuminations move in sync with your performance\nControl multiple effects in realtime using the intuitive Kaoss X-Y touchpad\nCreate your own Kaoss combinations and use up to four effects at once\nChoose one of five effects from each of four effect groups; a total of 1,295 combinations!\nFreeze button holds the effect settings after you release your finger, for dazzling hands-free use\nNew Looper effects – Forward, Reverse and Slice – add new audio intensity\nMix it up with new DJ emulation Vinyl Break and Ducking Compressor effects\nAuto BPM engine detection and Tap Tempo functions keep your Kaoss locked to the beat\nhttp://www.korg.com/us/products/dj/kaoss_pad_quad/",
+    "hrid": "korg-kaoss-pad-quad"
+}

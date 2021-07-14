@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24407",
+    "name": "Outward V2",
+    "image": "images/cooper-fx-outward-v2.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Digital Glitch",
+        "Sampling"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 94,
+    "height": 102,
+    "details": "Digital sampling deviceThe Outward is a digital sampling device that records audio and plays it back in different ways, depending on the mode. With freezing, stutter, and time stretching effects, there’s a lot the Outward is capable of.\nhttps://www.cooperfx.com/product-page/outward",
+    "hrid": "cooper-fx-outward-v2"
+}

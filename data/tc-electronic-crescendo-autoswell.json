@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15336",
+    "name": "Crescendo Autoswell",
+    "image": "images/tc-electronic-crescendo-autoswell.jpg",
+    "function": [
+        "Volume"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$59 Price in €",
+    "width": 72,
+    "height": 132,
+    "details": "Boss Slow Gear cloneLets you create rolling and powerful volume swells\nInstantly accessible 2-knob interface featuring sensitivity and attack\nControls attack time to create almost violin-like guitar lines\nTrue bypass for ultimate signal integrity\n“Built-like-a-tank” metal chassis",
+    "hrid": "tc-electronic-crescendo-autoswell"
+}

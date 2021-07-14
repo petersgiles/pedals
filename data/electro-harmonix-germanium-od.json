@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12238",
+    "name": "Germanium OD",
+    "image": "images/electro-harmonix-germanium-od.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$77 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Vintage overdrive\nhttps://www.sweetwater.com/store/detail/GermaniumOD",
+    "hrid": "electro-harmonix-germanium-od"
+}

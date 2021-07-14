@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30560",
+    "name": "JH-1",
+    "image": "images/dunlop-jh-1.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC",
+    "cost": "",
+    "width": 101,
+    "height": 253,
+    "details": "Jimi Hendrix Wah Wah Pedal Original Thomas Design",
+    "hrid": "dunlop-jh-1"
+}

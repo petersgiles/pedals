@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11981",
+    "name": "King of Tone",
+    "image": "images/analogman-king-of-tone.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "http://www.analogman.com/kingtone.htm",
+    "hrid": "analogman-king-of-tone"
+}

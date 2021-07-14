@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11853",
+    "name": "Noise Swash",
+    "image": "images/4ms-company-noise-swash.jpg",
+    "function": [
+        "Distortion",
+        "Equalizer",
+        "Filter",
+        "Synth Voice",
+        "Tremolo"
+    ],
+    "manufacturer": "4ms Company",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$300 Price in €",
+    "width": 188,
+    "height": 188,
+    "details": "A custom Noise Swash pedal built by 4MS PedalsSwash: sweetspot heart of the noise circuit\nNoisegait: music-noise flow control\nVolume: plenty of it!\nTone: Bass/treble mix\nPregain: first stage gain\nPostgain: third stage gain\nPreclip: diode clipping select\nPlus lots more control.\nAlso, this:\nbreath-e the spectral noise layers of saturated soothingly blazing cymbals of pourring rushingwhiteness and sonics\nwith guitar or audiosonics creating devise the musician produces atethered spectrums of sheering whiteness... beyond thee traditionalle distortion|fuzz boxes\nnoise swash distortion plethorizes the gainationing of the sounnd to naturallieshatterr glasse and rumble the lands....\nOr something",
+    "hrid": "4ms-company-noise-swash"
+}

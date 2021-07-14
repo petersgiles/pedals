@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23703",
+    "name": "Downtown Express",
+    "image": "images/fender-downtown-express.jpg",
+    "function": [
+        "Bass",
+        "Dynamics",
+        "Distortion",
+        "Equalizer",
+        "Utility"
+    ],
+    "manufacturer": "Fender",
+    "current": "400 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 188,
+    "height": 124,
+    "details": "Bass Preamp / DIYour one-stop shop for bass tone-shaping, the Downtown Express bass multi-effect puts everything you need for killer bass tone right at your feet. All the bass essentials are there—compressor, 3-band EQ and overdrive—each switchable on its own, or you can use the Mute switch to kill the signal for silent tuning. The Direct Output makes it easy to integrate this pedal into any performance situation—stage or studio. We recognize that a truly powerful signal chain needs to be flexible, so we included a switch that lets you reorder the compressor and overdrive circuits to taste.\nhttps://shop.fender.com/en-US/effects-pedals/bass/downtown-express-bass-multi-effect-pedal/0234538000.html",
+    "hrid": "fender-downtown-express"
+}

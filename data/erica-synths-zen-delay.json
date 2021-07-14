@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25962",
+    "name": "Zen Delay",
+    "image": "images/erica-synths-zen-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Erica Synths",
+    "current": "? mA / 12 V / AC/DC",
+    "cost": "$560 Price in €",
+    "width": 210,
+    "height": 150,
+    "details": "Dub Delay Effects UnitNinja Tune - an English independent record label based in London and Erica Synths have teamed up to create a custom dub delay effects unit, the Zen Delay.\nFeatures\nControls\ndelay time, feedback, delay mod (5 presets), tap button, dry/wet, bypass switch, filter cutoff, resonance, drive,  input level, filter mode\nInputs \nStereo In: 2x standard jack\nMIDI In: standard MIDI socket \nCV In: standard jack\nOutputs\nStereo Out: 2 x standard jack\nDelay times\n1-5000ms with 1/8...x8 of clock/tap rate in beat mode \nhttps://www.ericasynths.lv/shop/standalone-instruments-1/zen-delay/",
+    "hrid": "erica-synths-zen-delay"
+}

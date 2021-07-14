@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11460",
+    "name": "Echobrain Analog Delay",
+    "image": "images/tc-electronic-echobrain-analog-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$69 Price in €",
+    "width": 72,
+    "height": 132,
+    "details": "All analog BBD delayVintage-style delay pedal\nLegendary, all-analog bucket-brigade (BBD) circuit\nClassic slap-back echo\nUp to 300 ms of delay time\nTrue Bypass for ultimate signal integrity\n“Built-like-a-tank” metal chassis\nRuns on 9 V battery or the TC Electronic Powerplug 9 (not included)\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/ECHOBRAIN-ANALOG-DELAY/p/P0CBE#googtrans(en|en)",
+    "hrid": "tc-electronic-echobrain-analog-delay"
+}

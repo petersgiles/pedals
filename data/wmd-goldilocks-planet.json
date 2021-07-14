@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17476",
+    "name": "Goldilocks Planet",
+    "image": "images/wmd-goldilocks-planet.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "WMD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "The Goldilocks Planet is a distortion pedal with 3 different methods of clipping, a variable tone stack, and a knob for \"density\" which brings out more low end and body to your signal.\nOur simplest to use pedal, the Goldilocks Planet is for guitarists and bassists alike who want to dial in great tone fast on a pedal that doesn't take up too much space.\nTrue bypass switching\n3 different modes of clipping\n\"Density\" feature introduces low end commonly cut by distortion pedals\nVariable Tone stack for more sonic shaping\nhttps://wmdevices.com/collections/effects-pedals/products/goldilocks-planet",
+    "hrid": "wmd-goldilocks-planet"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29666",
+    "name": "Horseman",
+    "image": "images/nux-horseman.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "",
+    "width": 51,
+    "height": 94,
+    "details": "Overdrive",
+    "hrid": "nux-horseman"
+}

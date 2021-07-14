@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33724",
+    "name": "Typhon",
+    "image": "images/dreadbox-typhon.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Distortion",
+        "Dual/Stereo",
+        "Filter",
+        "Flanger",
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "Dreadbox",
+    "current": "500 mA / 5 V / DC",
+    "cost": "$356 Price in €",
+    "width": 230,
+    "height": 130,
+    "details": "Analog monophonic synthesizer with complex modulation matrix, sequencer, audio input and effects.\nAnalog Circuit including 2 Classic Dreadbox Oscillators, a 4-pole Low Pass Filter, and Multiple Analog VCAs\n2 Envelope Generators for the Filter and the Amp\n3 Modulators with 4 Different Modes\n(LFO, EG, Random, Parameter Step Sequencer)\nand Multiple Active Targets\n12 DSP stereo effects (32bit, 96kHz) developed by Sinevibes, including Distortion, Bit crusher, Chorus, Ensemble,Flanger, Delay and Reverb\n32 Note Sequencer that can be used to sequence notes in the traditional way or used as a modulation source\n256 preset memory, with import/export support\nExternal audio input affected by the filter and effects\nPortable, Powered via USB. Full MIDI and CC Implementation via MIDI DIN5.\n\nhttps://www.dreadbox-fx.com/typhon/",
+    "hrid": "dreadbox-typhon"
+}

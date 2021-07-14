@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16282",
+    "name": "Titan",
+    "image": "images/red-witch-titan.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Red Witch",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 118,
+    "height": 94,
+    "details": "Triple Delay PedalThree independent 1200 m/sec delays\nEffects loop on delay 1 wet repeat\nUse all three delays in series or parallel\nUltimate analog voicing – classic analog companding and frequency response\nTrue bypass\nDC 9volt wall wart only\nhttp://www.redwitchpedals.com/titan",
+    "hrid": "red-witch-titan"
+}

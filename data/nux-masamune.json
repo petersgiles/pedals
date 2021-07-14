@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20599",
+    "name": "Masamune",
+    "image": "images/nux-masamune.jpg",
+    "function": [
+        "PreAmp",
+        "Dynamics"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 105,
+    "height": 115,
+    "details": "Booster & KompressorBoth pedals are now available in one convenient metal housing, and it comes with selectable signal routing.  The Boost Section comes with Boost Level, Drive, and Hi-Cut controls.  The Compressor Section comes with Komp Level, Sustain, Blend, and Clip controls. The Masamune has an external foot-switch jack Input, you can easily operate the pedal by using an additional remote switch.\nIt forges your dry-signal, enhancing your sound before sending your signal to your amp, and/or any effects unit.  The Booster adds beneficial color to your signal, and, if necessary, after you adjust the boost & drive levels, you can cut high frequencies on your Input signal with the Hi-Cut Toggle Switch.\nMasamune’s Kompressor does a remarkable job managing and enhancing your signal:  Komp Level knob adjusts the final Output level for the Compressor, perfectly balancing your Input and Output signals.  Sustain knob adjusts the compression ratio, and increases sustain. Higher sustain levels will squash your signal harder when you hit the strings and creates a longer, richer sustain.  Blend knob adjusts the compressor transparency from 50% to 100%, so you can dial-in the exact amount of compressed dry-signal blend you want.\nClip Toggle allows you to choose the clipping range of your Input signal.  The Toggle-UP position will squeeze the signal for voluminous sound, and Toggle-DOWN will open up more space on your clipping range.\nNUX Masamune Booster & Kompressor has inside routing with 3 Functions: \n- Use both effects in parallel connection.                  \n- Toggle-UP the MUTEX to engage only one effect at a time.\n- Choose which effect you want to come first on your signal chain. ​\nhttp://www.nuxefx.com/show-7-279-1.html",
+    "hrid": "nux-masamune"
+}

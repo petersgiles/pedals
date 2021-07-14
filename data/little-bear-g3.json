@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30070",
+    "name": "G3",
+    "image": "images/little-bear-g3.jpg",
+    "function": [
+        "Tube"
+    ],
+    "manufacturer": "Little Bear",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 87,
+    "height": 116,
+    "details": "Tube Overdrive",
+    "hrid": "little-bear-g3"
+}

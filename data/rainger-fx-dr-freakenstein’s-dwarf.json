@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12317",
+    "name": "Dr FREAKENSTEIN’S DWARF",
+    "image": "images/rainger-fx-dr-freakenstein’s-dwarf.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rainger FX",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 44,
+    "height": 108,
+    "details": "Mini extreme full-on fuzz distortionMONSTER DISTORTION IN A MINI PACKAGE!\nHARMONIC OVERTONES CONTROLLED BY KNOB OR UNIQUE FOOT-CONTROLLED PRESSURE PAD (DUAL SENSITIVITY)\nBUILT-IN NOISE GATE\nVOLUME THUMBWHEEL\nHI/LO INTENSITY BUTTON\nDOES HI-PASS FILTER, BIT-CRUSHER, AND PITCH DOWN SOUNDS\nALL SOCKETS ON TOP END PANEL! NO – REALLY!!!\nCOMES WITH AN IGOR FOOT-CONTROLLER – WITH TWO AVAILABLE PRESSURE SENSITIVITIES.\nCUSTOM-DESIGNED STEEL ENCLOSURE\nPOWERED BY 9V POWER SUPPLY (NOT INCLUDED)\nTRUE BYPASS FOOTSWITCHING\nhttp://www.raingerfx.com/product/dr-freakensteins-dwarf-and-igor/",
+    "hrid": "rainger-fx-dr-freakenstein’s-dwarf"
+}

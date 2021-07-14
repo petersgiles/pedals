@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16497",
+    "name": "Bluetooth Page Turner",
+    "image": "images/donner-bluetooth-page-turner.jpg",
+    "function": [
+        "Utility",
+        "Controller",
+        "Switch"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$64 Price in €",
+    "width": 180,
+    "height": 140,
+    "details": "10+ meters wireless Bluetooth range. 50+ hours on a single charge using the built-in rechargeable battery. Reliable, turn one page only with one tread , 100% precision. Convenient and simple, blue-teeth  control, more safe without strings. Easy usage, no instalation, no extra setting， only press the button you need, and that page turned.\nClean, modern design featuring no bulky cables sticking out, durable and lightweight ABS plastic, rubber grip pedals to ensure full contact with the pedal every time, and easily readable LED's indicating mode selection and battery life. Enabling Bluetooth on your device, and pressing sync! personalized, choose whatever color you like. Enjoy your own fun and colorful music life.\nWorks with many apps for Apple iOS,  iphones, ipads and ipods, Bluetooth equipped Android devices, PC’s and MAC’s. Reading apps including: forScore, OnSong, Planning Center Music Stand, NextPage, MusicReader4, Teleprompt+3, unrealBook, Paperless Music, piaScore and many more simply by turning on the unit.\nhttps://www.amazon.com/Donner-Bluetooth-Turner-Tablets-Rechargeable/dp/B06XNW9LRP",
+    "hrid": "donner-bluetooth-page-turner"
+}

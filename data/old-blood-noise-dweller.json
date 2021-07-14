@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18332",
+    "name": "Dweller",
+    "image": "images/old-blood-noise-dweller.jpg",
+    "function": [
+        "Delay",
+        "Phase Shifter"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 68,
+    "height": 121,
+    "details": "Phase Repeater\nhttps://www.oldbloodnoise.com/pedals/dweller-phase-repeater",
+    "hrid": "old-blood-noise-dweller"
+}

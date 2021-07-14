@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20183",
+    "name": "JF-326 Irontune Chromatic mini Pedal Tuner",
+    "image": "images/joyo-jf-326-irontune-chromatic-mini-pedal-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 43,
+    "height": 74,
+    "details": "Chromatic mini Pedal Tuner\nhttps://www.joyoaudio.co.uk/JOYO-JF-326-Irontune-pedal-tuner",
+    "hrid": "joyo-jf-326-irontune-chromatic-mini-pedal-tuner"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11492",
+    "name": "SD-1",
+    "image": "images/boss-sd-1.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$67 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Super Overdrive PedalThe following appears to have been copied from a commercial description. Formatting has been adjusted.\nWarm, Tube Drive Sounds\nOverview\nThe SD-1 Super OverDrive pedal produces the warm, natural distortion of an overdriven tube amplifier while maintaining the subtle nuances of a player's picking technique. This is one of BOSS' more subtle and smooth overdrive pedals, perfect for blues and rock\n\nCompact overdrive pedal with warm, smooth overdriven sounds\nUnique asymmetric overdrive circuitry for a classic, natural tube amp growl\nTone control provides precise adjustment of drive sound\nBOSS five-year warranty\n\nSpecifications\n\nNominal Input Level: -20 dBu\nInput Impedance: 1 M ohm\nNominal Output Level: -20 dBu\nOutput Impedance: 1 k ohm\nRecommended Load Impedance: 10 k ohms or greater\nBypass: Buffered bypass\nControls\n\n\nDRIVE knob\nTONE knob\nLEVEL knob\nPedal switch\n\nIndicator: CHECK indicator (Used for indication of check battery)\nConnectors\n\n\nINPUT jack: 1/4-inch phone type\nOUTPUT jack: 1/4-inch phone type\nDC IN jack\n\nPower Supply\n\n\nCarbon-zinc battery (9 V, 6F22) or Alkaline battery (9 V, 6LR61)\nAC adaptor (PSA series: sold separately)\n\nCurrent Draw: 10 mA\nExpected battery life under continuous use\n\n\nCarbon: Approx. 60 hours\nAlkaline: Approx. 90 hours\n*These figures will vary depending on the actual conditions of use.\n\nAccessories:\n\n\nOwner's manual\nLeaflet (\"USING THE UNIT SAFELY,\" \"IMPORTANT NOTES,\" and \"Information\")\nCarbon-zinc battery (9 V, 6F22)\n\nOptions (sold separately): AC adaptor: PSA series\nSize and Weight\n\n\nWidth: 73 mm (2-7/8 inches)\nDepth: 129 mm (5-1/8 inches)\nHeight: 59 mm (2-3/8 inches)\nWeight (including battery): 360 g (13 oz)\n\n0 dBu = 0.775 Vrms\n*The specifications are subject to change without notice.\n\nhttps://www.boss.info/us/products/sd-1/",
+    "hrid": "boss-sd-1"
+}

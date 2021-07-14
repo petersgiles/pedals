@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19037",
+    "name": "Stereo Compress",
+    "image": "images/bugbrand-stereo-compress.jpg",
+    "function": [
+        "Dynamics",
+        "Equalizer"
+    ],
+    "manufacturer": "BugBrand",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$538 Price in €",
+    "width": 191,
+    "height": 133,
+    "details": "Stereo CompressorThe Stereo Compress (equal stress on the COM and the PRESS) further rounds out the line of red processors with a supreme quality stereo VCA compressor providing the proverbial sonic glue or adding a healthy dose of smash to your sounds. Happy gently coaxing the stereo bus or punching individual instruments into shape, the circuitry springs from a classic of British compression but entirely rebuilds the internals while combining several new twists, and is presented in a package that demands deep discovery within the realms of transient shaping.\nThe Stereo Compress is best considered in two parts - Audio & Sidechain.\nAudio Section\nThe audio path is kept minimal with high quality components for low noise operation. The left and right channels are identical, each featuring Balanced Input Buffer, Compression VCA (2164 quad IC), Dry/Wet Blend VCAs (equal power crossfading for parallel compression) and Output Buffer. The unit can be used as a single mono compressor (use either left or right side) or ganged stereo, with the side-chain feeds being tapped post input buffer.\nSideChain\nThe SideChain signal is taken initially as an equal sum of left & right inputs, but this sum can either be externally processed using Send/Return loop, or a different signal can be inserted. The Insert point is followed by Low and High Cut filters (12dB/Oct) allowing frequency dependent compression.\nThe SideChain processing is arranged around a Feedback VCA stage and contains rectification, ratio setting (2:1, 4:1, 10:1), fully variable Attack and Release time constants, and wide range Threshold and Make Up Gain controls. A Gain Reduction meter shows how hard the unit is being driven and features internal LED indication to show when the unit is Active (low red glow for bypass, brighter white glow for active).\nSpecifications\nInputs - Electronically balanced 1/4\" TRS - input Impedance 20k\nOutputs - Impedance balanced 1/4\" TRS - output Impedance 100r\nSleeve selectable chassis or signal 0V via jumper (chassis as standard)\nSideChain\nTip - Return - 10k Input Imp\nRing - Send - 100r Output Imp\nSleeve - Signal 0V\nLow Cut Filter - 12dB/Oct - 20Hz to 3kHz\nHigh Cut Filter - 12dB/Oct - 250Hz to 20kHz\nAttack - 0.05 to 50 m/Sec\nRelease - 50 ms to 1.2Sec\nRatio 2:1, 4:1, 10:1\nThreshold +15dBU to -50dBU\nMakeup Gain 0 to +30 dBU\nMeter shows approx 0 to 14dB Reduction\nFreq response - 20-20kHz within 0.5dB\nPower - 12V DC 500mA supply, centre-positive, 2.1mm connector.\n(worldwide 90-240VAC wall-wart provided with interchangeable mains plug adaptors)\nThe Stereo Compress is enclosed in a custom aluminium case (based on the Modular line) with PCB material front and side panels. Dimensions approx 5.25\" x 7.5\" x 3.5\"\nhttp://www.bugbrand.co.uk/index.php?main_page=product_info&cPath=24&products_id=122",
+    "hrid": "bugbrand-stereo-compress"
+}

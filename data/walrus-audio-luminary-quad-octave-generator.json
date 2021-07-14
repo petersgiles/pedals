@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13370",
+    "name": "Luminary Quad Octave Generator",
+    "image": "images/walrus-audio-luminary-quad-octave-generator.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$250 Price in €",
+    "width": 119,
+    "height": 93,
+    "details": "Octave Generator Walrus cannot be more thrilled to release the Luminary Quad Octave Generator; the Luminary is a powerful polyphonic quad octave generator with features for creating inspiring symphonic gusts of sound. Operating on the Analog Devices Sharc platform, the Luminary gives you the ability to dial in any combination of four separate octaves including -2, -1, +1, and +2, the user can craft many different complex sounds and textures with crystal clear and immediate octave tracking. The Luminary has three onboard presets available for saving your go-to sounds, as a well as live mode. This means the user can have up to four custom sounds available at any moment. Get epic steel sounds with the modulation control unengaged. You’ll find more experimental options with the filter control or a swirling chorus with the flutter control. Couple the Luminary with an expression pedal to expand its creativity even more.\nhttps://www.walrusaudio.com/products/luminary",
+    "hrid": "walrus-audio-luminary-quad-octave-generator"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25709",
+    "name": "Julia V2",
+    "image": "images/walrus-audio-julia-v2.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$200 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Chorus Vibrato",
+    "hrid": "walrus-audio-julia-v2"
+}

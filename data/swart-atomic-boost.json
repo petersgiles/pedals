@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18944",
+    "name": "Atomic Boost",
+    "image": "images/swart-atomic-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Swart",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 59,
+    "height": 112,
+    "details": "Swart Amplification - 60s Treble Booster \nhttp://swartamps.com/swart_atomic_boost_pedal.htm",
+    "hrid": "swart-atomic-boost"
+}

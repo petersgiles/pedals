@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33372",
+    "name": "Fluorescent Orange",
+    "image": "images/onecontrol-fluorescent-orange.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "OneControl",
+    "current": "2 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 39,
+    "height": 100,
+    "details": "Rockerverb Amp Sim DriveDesigned to reproduce the iconic “crude distortion” of an orange-colored amp.  With 56dB gain and -80dB noise level, the Fluorescent Orange is ideal for the classic hard-rock sound.\nSpecifications\nInput impedance: 500K\nOutput impedance: 25K\nDrive voltage: 6V～18V\nCurrent consumption: 2mA @ 9V\nS/N ratio: -80dBm/\nWeight: Approx. 160 grams\nTrue-Bypass Switching\nHigh Quality Aluminum Enclosure\nPower: 9V Battery or Standard DC Power Supply\nhttps://www.proaudiostar.com/one-control-fluorescent-orange.html",
+    "hrid": "onecontrol-fluorescent-orange"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11566",
+    "name": "M 234 Analog Chorus",
+    "image": "images/mxr-m-234-analog-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 65,
+    "height": 111,
+    "details": "Analog Chorus Effects PedalThis all-analog pedal uses bucket-brigade circuitry to create classically lush, liquid textures that you just can't get with digital circuitry. Rate, Level, and Depth controls, as well as knobs for cutting High and Low frequencies allow ultimate tone control. Like all MXR pedals, the M-234 comes in a heavy-duty housing with durable jacks and switches for a lifetime on the road.",
+    "hrid": "mxr-m-234-analog-chorus"
+}

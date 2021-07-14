@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19816",
+    "name": "Vowel Wah",
+    "image": "images/donner-vowel-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Donner",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$39 Price in €",
+    "width": 66,
+    "height": 149,
+    "details": "",
+    "hrid": "donner-vowel-wah"
+}

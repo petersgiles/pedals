@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13049",
+    "name": "G2 Switching System",
+    "image": "images/the-gigrig-g2-switching-system.jpg",
+    "function": [
+        "Controller",
+        "Switch"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$1,099 Price in €",
+    "width": 440,
+    "height": 130,
+    "details": "G2 is the most advanced effects pedal board switching system in the world. Born of an obsession for tone, it's beautiful, powerful, compact, and unbelievably simple to use. Most important of all: it has the cleanest, most transparent audio possible.\nhttps://www.thegigrig.com/g2",
+    "hrid": "the-gigrig-g2-switching-system"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21152",
+    "name": "Cosmonaut V1",
+    "image": "images/matthews-effects-cosmonaut-v1.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "matthews-effects-cosmonaut-v1"
+}

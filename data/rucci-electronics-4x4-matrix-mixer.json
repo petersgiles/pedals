@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21560",
+    "name": "4x4 Matrix Mixer",
+    "image": "images/rucci-electronics-4x4-matrix-mixer.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Rucci Electronics",
+    "current": "Pedal is passive",
+    "cost": "$95 Price in €",
+    "width": 145,
+    "height": 121,
+    "details": "Passive 4x4 Matrix MixerThis is a 4×4 Matrix Mixer. With four mono inputs and four mono outputs there are many routing options. Each input has four volume controls, one for each output. This could be used to create four unique mixes from mono sources or run the outputs through different signal chains or amplifiers. You can also send an output through effects and then back in on itself to create a feedback loop.\nThe circuit is completely passive and requires no power, as with all passive matrix mixers there is some gain loss and crosstalk. It is housed in a rugged raw aluminum die cast case.\nThis will operate in either direction. The knobs can be pulled off and reorientated depending on what works best for your setup. Handmade in Oakland, CA USA.\nhttp://handmadeelectronicinstruments.com/product/4x4-matrix-mixer/",
+    "hrid": "rucci-electronics-4x4-matrix-mixer"
+}

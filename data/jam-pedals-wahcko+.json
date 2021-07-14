@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13748",
+    "name": "Wahcko+",
+    "image": "images/jam-pedals-wahcko+.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Jam Pedals",
+    "current": "5 mA / 9 V / DC",
+    "cost": "$324 Price in €",
+    "width": 124,
+    "height": 254,
+    "details": "Vocal vintage sounding wah pedalAfter long and painful research, we are proud to finally come out with what we believe is a true, vocal and vintage-sounding wah pedal !\nFeaturing :\n\nRED Fasel inductor for pure vintage sound\nThe best wah-pot in the market !\nCarbon-Comp resistors\n6-position rotary switch for 6 different frequency sweep ranges\ninternal trimmer for adjusting the input gain\nAdjustable tension control to determine how tight or loose you need the foot pedal to be (Allen screw in the back of the pedal).\nmini LED\nOptional Seagull effect ! (You engage the effect with the optional toggle switch)\n\nUseful Tip:\nUse your Wahcko+ as a tone-shaping tool. Turn the Wahcko+ on, leave it at the toe-down position and experiment with the 6 different settings of the rotary switch. We bet you can find many interesting tones for your lead or rhythm overdriven parts\nhttp://www.jampedals.com/wahcko-plus/",
+    "hrid": "jam-pedals-wahcko+"
+}

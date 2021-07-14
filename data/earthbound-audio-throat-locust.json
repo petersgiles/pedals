@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33091",
+    "name": "Throat Locust",
+    "image": "images/earthbound-audio-throat-locust.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Earthbound Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$175 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Chainsaw distortionThe THROAT LOCUST is a heavy distortion pedal based on the legendary, out of production HM2 Heavy Metal. This pedal expands on the tone possibilities of the original circuit while preserving the gnarly character of the distortion.\nA brief overview of the controls:\nDIST : Intensity of distortion. Turn cw for more distortion. Audio taper potentiometer is stock for more variation of lower gain settings.\nLEVEL : Final output volume. Adjust to taste. Note that Mode B is much louder than Mode A.\nA / B SWITCH : Mode A is standard silicon clipping diodes for a saturated rich distortion. Mode B is a mix of silicon and LED clipping for tighter lows, less saturation and more output volume.\nLOW : Boosts (cw) or cuts (ccw) low frequencies centered at approximately 72 Hz.\nMID : Boosts (cw) or cuts (ccw) midrange frequencies centered at approximately 1 kHz (MF knob fully cw) down to 325 Hz (MF knob fully ccw).\nHIGH : Boosts (cw) or cuts (ccw) high/high mid frequencies centered at approximately 1.3 kHz.\nMF : Alters the center frequency of the MID knob. With MF fully cw the MID control center frequency is approximately 1kHz. Turning the MF knob ccw lowers center frequency down to approximately 325 Hz.\nhttps://earthboundaudio.bigcartel.com/product/throat-locust",
+    "hrid": "earthbound-audio-throat-locust"
+}

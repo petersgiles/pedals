@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13462",
+    "name": "Rupture RP-2",
+    "image": "images/audible-disease-rupture-rp-2.jpg",
+    "function": [
+        "Looper",
+        "Switch"
+    ],
+    "manufacturer": "Audible Disease",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Feedback looperThe madness continues with the Audible Disease Rupture RP-2. The Rupture creates a feedback loop that takes almost any signal-processing device and churns out frenzied sonic cruelty. You can control the amount of feedback in one of two ways. A built in photo eye shifts your sound into audio hell based on the amount of light the eye sees. Flick the switch and you can manipulate the amount of feedback with a twist of the knob. Put a delay pedal in the loop and concoct a demented swelling wall of noise. Filters, Chorus, Phasers, and Flangers sound like a bus wreck times infinity. A distortion pedal in the loop creates sick screeching sounds you can use to breed audio anguish. Experiment with anything and everything to get the most psychotic sounds you have ever heard! Be warned though, The Rupture can create exceedingly loud sounds. Caution must be used at extreme volumes. \nhttps://www.audibledisease.com/product/rupture_rp-2",
+    "hrid": "audible-disease-rupture-rp-2"
+}

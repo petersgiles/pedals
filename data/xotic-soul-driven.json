@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22652",
+    "name": "Soul Driven",
+    "image": "images/xotic-soul-driven.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Xotic",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "",
+    "width": 64,
+    "height": 112,
+    "details": "Overdrive",
+    "hrid": "xotic-soul-driven"
+}

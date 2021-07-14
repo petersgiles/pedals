@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12013",
+    "name": "Echo Degrader",
+    "image": "images/industrialectric-echo-degrader.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Industrialectric",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$260 Price in €",
+    "width": 89,
+    "height": 140,
+    "details": "Delay﻿THE ECHO DEGRADER IS A UNIQUE AND VERY melodic Lo-Fi delay that can go from a tubby reverb sound, to full out crushing slow distorted repeats (UP TO 10 SECONDS) The degrade knob cuts down the signal going INto the delay which produces a comb filter static sound and at short delay times can ring into arpeggiations. The tape stability function is very interactive with whatever instrument or signal you have going into the delay and can produce very nice modulated repeats to full out tape machine on fire. The momentary footswitch serves as a kill, oscillation, trail, stutter, and modulation switch in different kinds of settings. The one unique function of this delay is the ability to repeat infinitely without going into oscillation, a lot like a looper pedal, you can construct beats and play over them just with hitting your strings or whatever sound you can put into it. The threshold/tone and repeat/blend knobs control that function and everything else can be used to manipulate it. THESE ARE JUST SOME OF THE FUNCTIONS, THERE ARE INFINITE SOUNDS TO BE FOUND IN THIS DEVICE.\n\npowered with a standard (-9v) Boss, one spot, adapter\nEVERY ENCLOSURE FINISH IS COMPLETELY UNIQUE\nBUILT ON A PROFESSIONAL PCB, COMPLETELY HAND MADE FROM SCRATCH\nreverse polarity circuit protection\nENCLOSURE SIZE: 5.5'' L X 3.5'' W X 2'' D\n\nhttp://www.industrialectric.com/echo-degrader.html",
+    "hrid": "industrialectric-echo-degrader"
+}

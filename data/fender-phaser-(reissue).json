@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15134",
+    "name": "Phaser (Reissue)",
+    "image": "images/fender-phaser-(reissue).jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 100,
+    "height": 280,
+    "details": "Phaser“Shift” into high gear with the Fender Phaser, great for both guitar and bass and really super-whoooshy-sounding! Stylishly retro ’70s-era good looks, sure, of course—but you also get efficiently versatile intensity, rate, bypass and frequency controls that let you tailor that ethereal phasing sound to utter perfection. You can easily emphasize treble or bass frequencies, and the big “rate” dial glows blue and red in synch with the phase shift rate, which is really cool and scientific-looking and stuff.",
+    "hrid": "fender-phaser-(reissue)"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13737",
+    "name": "OC-10 Octave",
+    "image": "images/valeton-oc-10-octave.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 48,
+    "height": 94,
+    "details": "Compact octave pedal producing notes one octave lower and two octaves lower than the direct signaCompact octave pedal producing notes one octave lower and two octaves lower than the direct signal\nCarefully designed circuit for accurate octave notes\nBuffer bypass\n100% Analog signal path\nZinc-alloy die cast casing to withstand wear and tear\nHeavy duty metal pedal switch and on/off status LED\nEasy-to-use, readily accessible knobs onboard\nGreat tone with low noise level\nIndividual octaves and dry signal control knobs for creating sound variations\n\nhttp://www.valeton.net/html/en/index.php?ac=article&at=read&did=62",
+    "hrid": "valeton-oc-10-octave"
+}

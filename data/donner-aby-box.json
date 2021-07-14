@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28221",
+    "name": "ABY Box",
+    "image": "images/donner-aby-box.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Donner",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$30 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "PASSIVE ABY Line Selector Mini Pedal\n\n\n\n\n\n\n\n\nThis unit can work without power. Power supply is for LED display only. * * * * *\n\n\n\n\n\nDonner ABY BOX can be used to solve any number of complex audio switching problems. Use it to switch one input signal to either or both outputs, or it can also be used in the opposite direction. Route one signal to two outputs or two inputs to one output. Then choose A, B or A & B combined. LED's show you which signal is active.\nLED indicator shows the working state\nFlexible ABY box designed for a variety of scenarios\n\n_____Features:\n1.Convenient compact size\n2.True bypass provide transparent tone,LED indicator shows the working state.\n3.Signal path from A/B to Y, or from Y to A/B\n4.DC 9V Jack:For power supply, use a 9-volt DC regulated by AC adapter, (plug polarity is positive on the barrel and negative in the center).This unit can work without power. Power supply is for LED display only.\n_____Specifications:\n1.Input: 1/4″Monaural Jack.\n2.Output: 1/4″Monaural Jack.\n3.Power Supply: DC 9V (Negative in the center ).\n4.Working Current: 10mA.\n5.Dimensions: 42x93.5x52mm\n6.Material: Aluminum alloy\n7.Weight: 220g  \n\nhttps://www.donnerdeal.com/products/donner-aby-box-pedal-aby-line-selector-mini-pedal",
+    "hrid": "donner-aby-box"
+}

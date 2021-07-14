@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12598",
+    "name": "22500",
+    "image": "images/electro-harmonix-22500.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$276 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Dual Stereo Looper\nDual stereo loops with independent or locked loop lengths\nSequential looping mode enables verse/chorus switching\nParallel looping mode allows simultaneous playback of two loops\n16 built-in drum loops\nSelectable microphone input with phantom power\nReverse and Octave functions\nUndo-Redo your last overdub or recording\nQuantize or non-quantize (free running) modes\nUSB port enables backup/restore to PC or Mac\nProgrammable third footswitch for Stop or Tap Tempo\nOptional external Loop Up/Down Foot Controller\nStandard 9.6VDC 500mA power supply included\nDimensions in inches: 4.75 (w) x 5.75 (l) x 2.5 (h)\nDimensions in mm: 146 (w) x 121 (l) x 64 (h)\n\nhttp://www.ehx.com/products/ehx-22500",
+    "hrid": "electro-harmonix-22500"
+}

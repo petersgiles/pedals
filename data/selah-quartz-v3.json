@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19642",
+    "name": "Quartz V3",
+    "image": "images/selah-quartz-v3.jpg",
+    "function": [
+        "Controller",
+        "Expression",
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Selah",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "MIDI Controller/Tap TempoControlling your pedals is about to get a whole lot easier!\nPacked in this small footprint is a controller that can be completely customised to your liking and will let you control your entire pedal board from the one place. Not only can you control your devices via Midi, but also via the 4 TRS Jacks (most commonly used as tap tempo outputs).\nWhether your pedal accepts a Normally Open tap signal, Normally Closed tap signal, TRS tap configuration, MIDI Clock, or needs a custom Midi Message sent every quarter note, the Quartz can sync them to a specified BPM.\nName each of your songs (or parts of songs) with up to 30 characters per name. Each song can be a different colour. Then arrange your songs in a setlist so you don't have to scroll through them all.\nEach output can be latched/un-latched per preset for amp switching or other favourite switching on those pedals that might not have Midi.\nIt is also a powerful Midi Controller, sending Program Changes, Control Changes, or any other MIDI message you’d like. Not only can it generate these signals, but can it receive MIDI Clock and other Midi Messages, at the same time passing any other incoming messages through. This enables it to fit in with your favourite MIDI Controller. Each preset can send up to 11 custom midi messages, so you aren't stuck with pre-defined MIDI functions set by the manufacturer.\nYou can also use it as a Midi converter. If your controller can only send one type of message and is set per preset, the Quartz can take that and convert it into 11 custom messages. At the same time syncing all of your pedals to a certain tempo.\nPlug in up to 6 external footswitches into the Quartz and make it even easier to control on the fly. Please see our Q:Expander. With 2 footswitches you get 4 extra actions (tapping and holding for each) at your toe-tips and you can choose what these functions are. So if you don't like what the footswitches do, change them!\nIf you only need one footswitch, that's fine, because you can also choose what the on-board footswitch does.\nUse Jacks 2 and 4 as Midi outputs to control pedals from manufacturers such as Empress, Chase Bliss Audio, and Meris. No special connector required, just a 1/4″ stereo TRS lead.\nExpression pedal input. Plug your Expression pedal in to Jack 1 and convert it to a list of Midi messages all sent at once. Set the range of the sweep and whether it is inverted or not. This allows you to control 10 devices at once. The list of messages that are sent out can change per preset also. This allows you to (for example) use your Expression pedal as a volume pedal for one song and as a filter sweep for another.\nConvert a BPM to CV output on Jack 3 (0 – 3V). Range set by you.\nMost settings on the pedal are assignable per preset, allowing you to have COMPLETE control. Your footswitch could be an on/off switch for 3 of your pedals on one preset, and for the next preset you could tap in a new tempo with the same footswitch! This lets you get tricky and really utilise the one footswitch.\nIt can also translate a standard metronome audio signal into a BPM that it can use to generate Midi and Tap signals.\nThe Quartz V3 is easy to customise and powerful when you do. But you can use it as simply or as complex as you'd like and the features that you don't use won't get in the way.\nhttp://www.selaheffects.com/product/quartz-v3/",
+    "hrid": "selah-quartz-v3"
+}

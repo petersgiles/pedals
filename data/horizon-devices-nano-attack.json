@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30138",
+    "name": "Nano Attack",
+    "image": "images/horizon-devices-nano-attack.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Horizon Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 40,
+    "height": 90,
+    "details": "Mini version of Precision Drive\nhttps://horizondevices.com/products/nano-attack",
+    "hrid": "horizon-devices-nano-attack"
+}

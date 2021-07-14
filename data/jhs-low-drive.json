@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30213",
+    "name": "Low Drive",
+    "image": "images/jhs-low-drive.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "100 mA / 9 V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 122,
+    "details": "Bass Overdrive PedalBeen wanting a versatile overdrive pedal for your bass? Take a look at the JHS Low Drive, which gives you intense low-end response while maintaining the definition of your mids and highs. No mud here. This minimalist-looking pedal has just Volume, Tone, and Drive knobs to take you from mild to wild, and will even run on 18v power for a punchier drive. Use the JHS Low Drive for its intended bass purposes or throw it into your guitar's rig for a crazy overdrive. \nhttps://www.jhspedals.info/discontinued-and-rare",
+    "hrid": "jhs-low-drive"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26191",
+    "name": "ARP-87 limited edition",
+    "image": "images/walrus-audio-arp-87-limited-edition.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 65,
+    "height": 119,
+    "details": "",
+    "hrid": "walrus-audio-arp-87-limited-edition"
+}

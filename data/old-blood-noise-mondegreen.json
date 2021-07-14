@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17443",
+    "name": "Mondegreen",
+    "image": "images/old-blood-noise-mondegreen.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "Modulated Delay",
+    "hrid": "old-blood-noise-mondegreen"
+}

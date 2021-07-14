@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12680",
+    "name": "TZm5 Torrid Fuzz",
+    "image": "images/guyatone-tzm5-torrid-fuzz.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Guyatone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 66,
+    "height": 100,
+    "details": "Mighty Micro Fuzz Distortion PedalA new take on the classic three-transistor fuzz circuit, the TZm5 Torrid Fuzz was designed by notable Japanese engineer Toshi Torii of HAO fame.\nThe Torrid Fuzz offers a variety of wild and wooly tones that can emulate many classic fuzz pedals or create all-new fuzz effects.  Level and Depth controls vary the output and degree of distortion while Tone controls a hi-cut filter.  +/- Phase control allows for additional tuning of the fuzz effect, while the Attenuator control allows the TZm5 to be optimized for single coils or humbuckers.\nFrom classic Fuzz-in-your-Face spit to nu-rock shock, the TZm5 packs a plethora of fuzz effects into a pint-sized package!\nhttps://guyatoneus.com/shop/tzm5-torrid-fuzz/",
+    "hrid": "guyatone-tzm5-torrid-fuzz"
+}

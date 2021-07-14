@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16400",
+    "name": "AM400",
+    "image": "images/behringer-am400.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Acoustic Modelerknockoff of the Boss AC-3 Acoustic Simulator",
+    "hrid": "behringer-am400"
+}

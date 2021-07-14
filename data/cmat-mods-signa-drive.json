@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22839",
+    "name": "Signa Drive",
+    "image": "images/cmat-mods-signa-drive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "CMAT Mods",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Overdrive (TS9/TS808)RC 4558p Chip\n   Heavy Duty Aluminum Enclosure\n   Durable powder coated  finish\n   Davies knobs\n   Switchcraft jacks\n   Alpha pots\n   1% Metal Film Resistors\n   Blue LED\n   EH 3DPT true bypass switch\n   Military grade wiring\n   Double sided PCB with plated holes\n   Hand picked and matched parts for tone and durability\n   Works on a 9V Battery or Adapter\nhttp://www.cmatmods.com/signa-drive.html",
+    "hrid": "cmat-mods-signa-drive"
+}

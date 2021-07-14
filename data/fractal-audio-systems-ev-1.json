@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23874",
+    "name": "EV-1",
+    "image": "images/fractal-audio-systems-ev-1.jpg",
+    "function": [
+        "Expression",
+        "Volume"
+    ],
+    "manufacturer": "Fractal Audio Systems",
+    "current": "Pedal is passive",
+    "cost": "$140 Price in €",
+    "width": 90,
+    "height": 190,
+    "details": "Expression/Volume PedalThe EV-1 is an expression pedal, perfect for use with all Fractal Audio Systems products and many 3rd party devices. Unlike most expression pedals it has a true linear response with planetary gearing and a long, smooth pedal throw. The EV-1 doubles as an analog volume pedal, with separate IN and OUT jacks connected to an audio-taper pot. It features a sturdy cast metal housing, comfortable non-slip rubber tread, and is available in either Silver or Black. It is larger than the EV-2.\nhttps://shop.fractalaudio.com/ev-1-expression-volume-pedal/",
+    "hrid": "fractal-audio-systems-ev-1"
+}

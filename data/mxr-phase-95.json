@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17484",
+    "name": "PHASE 95",
+    "image": "images/mxr-phase-95.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 41,
+    "height": 92,
+    "details": "Two MXR Phasers in a Single Mini PedalThe Phase 95 combines the Phase 45 and Phase 90 circuits-toggled by the 45/90 switch-in a mini housing, featuring a Script switch to toggle between modern and vintage style phasing.\nMXR has combined two of the most-used phaser pedals ever made in the MXR Mini Phase 95 pedal. The original Phase 90 pedal was a four-stage phaser that practically defined the phaser sound for electric guitar, and the Phase 45 that followed was a two-stage phaser that delivered a smoother sound that blended better with certain music styles. You get both flavors in the MXR Mini Phase 95 pedal, switchable with the 45/90 toggle switch. The \"Script\" switch toggles feedback in the effect, providing a pronounced sweep when on and a lusher, more subdued sound when off. Many Sweetwater guitarists choose MXR phasers for their pedalboards, and the MXR Mini Phase 95 pedal offers two iconic phaser effects in a single road-worthy stompbox.\nhttps://www.jimdunlop.com/product/m290-7-10137-09558-8.do",
+    "hrid": "mxr-phase-95"
+}

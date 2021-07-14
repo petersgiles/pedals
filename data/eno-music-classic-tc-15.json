@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12078",
+    "name": "Classic TC-15",
+    "image": "images/eno-music-classic-tc-15.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 36,
+    "height": 91,
+    "details": "Marshall In A Box ( MIAB ) style pedal\nhttp://www.ex-amp.com/?p=832",
+    "hrid": "eno-music-classic-tc-15"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15692",
+    "name": "Crystal Dagger",
+    "image": "images/blackout-effectors-crystal-dagger.jpg",
+    "function": [
+        "Distortion",
+        "Phase Shifter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$255 Price in €",
+    "width": 142,
+    "height": 122,
+    "details": "OCTAVEFUZZPHASERINGMODThe CRYSTAL DAGGER; resonantly rising like a modern Fortress of Solitude from beneath the icy depths of normalcy, to reanimate sad, listless guitars all around the world. The CRYSTAL DAGGER is a dual harmonic device comprised of independent circuits; a scorching octave-up fuzz and a unique conglomeration of ring modulation, unpredictable octaving, and phasing. The circuits are both true-bypass footswitchable and run in series, from input to (OCT)FUZZ circuit to (MOD)RING circuit to output. Did we mention that it’s all analog?\nhttp://www.blackouteffectors.com/?page_id=1168",
+    "hrid": "blackout-effectors-crystal-dagger"
+}

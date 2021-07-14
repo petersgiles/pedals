@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14303",
+    "name": "WH-1",
+    "image": "images/amt-wh-1.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "AMT",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 69,
+    "height": 114,
+    "details": "Optical WAH-WAH pedal for guitarAMT WH-1 is an optical version of a classic \"WAH-WAH\" effect with bandpass filter range selection (3-way switch). Optical frequency control increases the service life of the effect eliminating frequent replacements of maintenance and replacement of the control potentiometer.\nAMT WH-1 features low noise and expanded frequency tuning range due to the use of original JFET-based circuit design. AMT WH-1 boasts great versatile sound and processes both clean guitar sound and Ultra high gain overdrive equally well. \nAMT WH-1 features:\n* 100% analog WAH-WAH effect; \n* Fixed switching among bandpass filter ranges: 0.2-1kH, 0.3-1,5 kH, 0.4-2kH;\n* True bypass;\n* Fixed effect selection by pressing the movable front end part of the pedal;\n* Removable support feet (the option is useful when you install the AMT WH-1 on the pedal board);\n* Effect monitoring by using blue LEDs on both pedal sides (visible engaged AMT WH-1 mode);\n* AMT WH-1’s steel heavy body is stable and confidently responds to foot control;\n* Adjustable pedal movement by means of an axial screw;\n* Powered by DC adapter or 9-12V 9V battery;\n* Low power consumption (approx. 7mA);\n* Small size: 110 x 62 x 58 mm (fits easily into your guitar case);\n* Weight (without battery) 0.45 kg.\nhttps://amt-sales.com/effects/amt-wh-1-wah-wah-for-guitar/",
+    "hrid": "amt-wh-1"
+}

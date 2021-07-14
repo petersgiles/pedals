@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16463",
+    "name": "Positive",
+    "image": "images/montreal-assembly-positive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Montreal Assembly",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 63,
+    "height": 115,
+    "details": "Overdrive\nhttp://mtlasm.blogspot.co.uk/p/positive.html",
+    "hrid": "montreal-assembly-positive"
+}

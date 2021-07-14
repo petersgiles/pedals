@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22171",
+    "name": "24K Reverb",
+    "image": "images/outlaw-effects-24k-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Outlaw Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 38,
+    "height": 41,
+    "details": "",
+    "hrid": "outlaw-effects-24k-reverb"
+}

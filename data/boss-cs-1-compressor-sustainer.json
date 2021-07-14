@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12990",
+    "name": "CS-1 Compressor Sustainer",
+    "image": "images/boss-cs-1-compressor-sustainer.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Boss",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "This is the first Compression/Sustainer pedal released from Boss. It builds on the lagacy of the Roland AS-1. Like all compression pedals it reduces the output of sounds over a set threshold relative to the strength of the input signal, making levels consistent and improving sustain. In the CS-1 this is done by means of photocouplers. The later CS-2 and CS-3 used VCA’s (Voltage Controlled Amplifier) to create the same effect. The sound of the CS-1 is thus very different from its successors.\nSpecifications\nControls: Level, Sustain, 2 Way Mode Switch\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 5 mA (DC 9V)\nRecommended AC Adaptor: ACA Series\nLabels\nBlack – Made In Japan\nThe CS-1 was sold from July 1978 to February 1982.\nhttp://www.bossarea.com/boss-cs-1-compression-sustainer/",
+    "hrid": "boss-cs-1-compressor-sustainer"
+}

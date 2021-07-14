@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11856",
+    "name": "Throne Torcher",
+    "image": "images/abominable-electronics-throne-torcher.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Abominable Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 94,
+    "height": 117,
+    "details": "DistortionTweaked Boss HM-2 circuit, alternate clipping switch",
+    "hrid": "abominable-electronics-throne-torcher"
+}

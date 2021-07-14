@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31091",
+    "name": "Starcaster Flanger",
+    "image": "images/fender-starcaster-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Fender",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 76,
+    "height": 229,
+    "details": "Flanger\"Depth\" control increases the depth of the flanging effect.\n\"Rate\" control adjusts the speed of the flanging effect.\n\"Manual\" control adjusts the degree of phase-shifting in the effect.\n\"Resonance\" control adjusts the intensity of the flanging effect.\nSounds ranging from subtle sonic \"swooshing\" to a passing jet airplane!",
+    "hrid": "fender-starcaster-flanger"
+}

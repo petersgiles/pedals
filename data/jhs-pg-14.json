@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25761",
+    "name": "PG-14",
+    "image": "images/jhs-pg-14.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 69,
+    "height": 120,
+    "details": "Paul Gilbert distortionJHS Pedals teamed up with the legendary shredder Paul Gilbert to create the PG-14, a new and unique distortion pedal specifically designed to Paul's specifications. At the heart of the circuit is a FET based distortion engine that emulates the touch, feel, and the response of a pushed tube amplifier. This circuitry allows the player to have the dynamics and tone of loud, stadium-level amplifier at low/moderate volume levels.\nA second unique and essential feature of the design is that an active mid-frequency preamp is located at the front of the FET distortion circuitry. This design feature gives the user a vast sweep of tonal possibilities with any amp or guitar combination.\nThe PG-14 is an end-all pedal for adding the ultimate dirt channel to your amplifier. A bonus feature is that it gives you all of Paul Gilbert's talent, decades of experience, and countless years of practice! Just hit the footswitch!\nThe Paul Gilbert PG-14 runs on 9V DC negative center power.",
+    "hrid": "jhs-pg-14"
+}

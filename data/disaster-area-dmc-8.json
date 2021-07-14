@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20571",
+    "name": "dmc-8",
+    "image": "images/disaster-area-dmc-8.jpg",
+    "function": [
+        "MIDI"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 254,
+    "height": 66,
+    "details": "Disaster Area DMC-8\nhttps://www.disasterareaamps.com/shop/dmc-8-gen3",
+    "hrid": "disaster-area-dmc-8"
+}

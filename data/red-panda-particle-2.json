@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21096",
+    "name": "Particle 2",
+    "image": "images/red-panda-particle-2.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Red Panda",
+    "current": "250 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 77,
+    "height": 121,
+    "details": "Granular Synthesis PedalDelay/Pitch shifting/Granular synthesis pedal\nParticle™ is a granular delay / pitch shifting pedal. It chops your signal into small grains and then does various strange, trippy, robot things to it, using the techniques of granular synthesis in real time. Results range from radical pitch and delay modulation to shimmering repeats to stutter/glitch sounds.\nNew in Version 2:\nStereo in/out (TRS)\n2.5 second delay time\nSoft touch footswitches\nTap tempo with divisions\nAssignable expression pedal\nUSB MIDI and firmware updates\nAdditional parameters via MIDI Presets (4 on front, 127 via MIDI)\nImproved fidelity\nSmaller enclosure, jacks on top\nhttp://www.redpandalab.com/products/particle",
+    "hrid": "red-panda-particle-2"
+}

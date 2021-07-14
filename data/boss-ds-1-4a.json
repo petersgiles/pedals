@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16445",
+    "name": "DS-1-4A",
+    "image": "images/boss-ds-1-4a.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 71,
+    "height": 58,
+    "details": "DS-1 Distortion 40th Anniversary\nhttps://www.boss.info/global/promos/40th_anniversary_compact_pedals/",
+    "hrid": "boss-ds-1-4a"
+}

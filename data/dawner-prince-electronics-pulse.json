@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30507",
+    "name": "Pulse",
+    "image": "images/dawner-prince-electronics-pulse.jpg",
+    "function": [
+        "Rotary"
+    ],
+    "manufacturer": "Dawner Prince Electronics",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$340 Price in €",
+    "width": 116,
+    "height": 91,
+    "details": "Revolving Speaker EmulatorPulse™ is an open cabinet revolving speaker emulator, inspired by Pink Floyd’s legendary rotary speaker Doppola and Gibson’s® Maestro Rover RO-1. \nRevolving speaker cabinet is one of the highest revered musical devices, but recreating it soundwise in the pedal form is quite a challenge. We spent countless hours on R&D, measuring every detail on a real physical model and using advanced math to emulate its complex sound image along with all the physics and mechanics behind it. And it’s all in there - a realistic three-dimensional sound that swirls as the speaker accelerates, exact spatial modulation and the feel of the air moving with every spin.\nPulse utilizes stereo outputs, an external input for an expression pedal or remote speed switch and seven onboard controls covering every feature of the speaker cabinet, all packed in a compact Hammond® 1590BB sized enclosure. \nhttps://dawnerprince.com/products/pulse",
+    "hrid": "dawner-prince-electronics-pulse"
+}

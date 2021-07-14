@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11729",
+    "name": "Phasor 201",
+    "image": "images/dod-phasor-201.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 67,
+    "height": 119,
+    "details": "DOD PhaserOne of the first phaser effect pedals ever made, the original DOD Phasor 201, blazed the trail for all phaser pedals after it. The new DOD Phasor 201 (2013) brings the classic analog phaser effect driven by 40+ years of tone creating experience. The new 2013 DOD Phasor 201 is better than ever before with true bypass, a crisp blue LED indicator, and modern 9V DC power supply input.  Redesigned with a lighter aluminum chassis, sleek blue metallic flake and flat black matte bottom paint job, the undefined DOD Phasor 201 pedal is a refined take on classic phasing effects, with an incredible new look.  \nThe operation of the undefined DOD Phasor 201 is pure simplicity. Like the original, the Speed knob controls the depth and speed of the phasing effect, with great tone at any range. True bypass allows your guitar tone to remain pristine even when the DOD Phasor 201 (2013) is off.  This is a big difference from the original which would color your bypassed tone. The modern 9V DC power supply input make the pedal more pedalboard friendly.\nhttp://digitech.com/en/products/phasor-201-2013",
+    "hrid": "dod-phasor-201"
+}

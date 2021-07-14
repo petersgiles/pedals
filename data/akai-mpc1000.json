@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24273",
+    "name": "MPC1000",
+    "image": "images/akai-mpc1000.jpg",
+    "function": [
+        "Sampling"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / ? V / AC",
+    "cost": "",
+    "width": 330,
+    "height": 229,
+    "details": "Sampler / Music Production CenterMPC1000 inherits all of the essential MPC features such as 32-voice stereo sampling, 64-track sequencing, and 16 velocity and pressure-sensitive MPC pads, fitting all the production capability into a compact, affordable package. 16MB of on-board memory comes standard and can be expanded up to 128MB. You can save your work to a Standard Compact Flash Card (up to 2GB). A preloaded CF card with popular Akai Pro samples is included to get you going.\nWhen connected to a Mac or PC via its built-in USB port, you can simply drag and drop data between the computer and MPC1000's CF card. MPC1000 is small, rugged and incredibly portable for an easy fit into a backpack or laptop bag for the traveling producer.\nhttps://www.akaipro.com/mpc1000",
+    "hrid": "akai-mpc1000"
+}

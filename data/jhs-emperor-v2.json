@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17400",
+    "name": "Emperor v2",
+    "image": "images/jhs-emperor-v2.jpg",
+    "function": [
+        "Chorus",
+        "Multieffect",
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "JHS",
+    "current": "57 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 70,
+    "height": 121,
+    "details": "Chorus/VibratoVersion 2 of JHS's Emperor packs the warm, vibrant modulation of its popular predecessor into a smaller footprint. Create shimmering chorus and warbling vibrato effects, while using the tap tempo footswitch to dial in the perfect modulation speed. Gigging guitarists dig the flexibility of the Emperor V2 — switchable true bypass/buffered switching and mono/stereo outputs make this pedal easy to integrate into any guitar rig. When your music calls for the undeniably smooth, liquid sound of analog chorus and vibrato, look to the Emperor V2.",
+    "hrid": "jhs-emperor-v2"
+}

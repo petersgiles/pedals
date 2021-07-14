@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26862",
+    "name": "Infinity Looper 2",
+    "image": "images/pigtronix-infinity-looper-2.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Looper"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 114,
+    "height": 66,
+    "details": "Double LooperPigtronix Infinity Looper 2 \nStereo looper with 2 independent loops of very low latency\n24bit/44 kHz recording \nUSB port for saving loops and uploading audio files\n5 min loop time\nControls:\nDecay, Volume, button: Stop, Once, Octave, Undo, \nFootswitches: Loop 1 and Loop 2\nConnectors: 2x In (1/4\" jack), 2x Output (1/4\" jack), footswitch connector (1/4\" jack)\nDimensions: 11.4 x 6.60 x 3.30 cm (4,5\" x 2,6\" x 1,3\"), \nPower supply: 9 V DC 100 mA\nhttps://pigtronix.com/product/infinity-looper-2/",
+    "hrid": "pigtronix-infinity-looper-2"
+}

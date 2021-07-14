@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29838",
+    "name": "TRUE TUBE OVERDRIVE (TOD-9)",
+    "image": "images/maxon-true-tube-overdrive-(tod-9).jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Maxon",
+    "current": "260 mA / 9 V / DC / Negative Center",
+    "cost": "$189 Price in €",
+    "width": 74,
+    "height": 124,
+    "details": "Maxon’s classic OD-9 circuit plus tube gain stage at the front endThe Maxon OD-9 circuit has achieved a legendary status among tone connoisseurs as the ultimate tool for driving a tube amp.  Yet sometimes you need that little “something extra,” and the TOD-9 provides this missing ingredient in spades.\nThe TOD features a mil-spec 5703WB JAN Raytheon sub-miniature vacuum tube complete with its own separate Gain control (Tube knob).  This tube stage is positioned at the front of the audio path, driving the OD-9 circuit.\nWith the Tube knob at zero, the TOD sounds exactly like an OD-9.  Engage this control and experience the unmistakable magic of tube tone – a big, FAT, natural-sounding bottom end and the characteristic tube “sag” that makes lead lines sing.\nWith the Drive knob down, the Tube knob will add warmth and dimension to your tone.  With Drive knob up you’ll get all this extra girth as well as increased saturation as the tube drives the clipping stage of the pedal.\nIf big, warm tube tones are your bag, the TOD-9 offers them up in a familiar package that continues to withstand the tests of time.\nThe TOD-9 provides all the classic tonality of the Maxon OD-9 with the ability to blend in Tube-generated warmth and additional saturation.\nhttps://maxonfx.com/products/true-tube-overdrive-tod-9",
+    "hrid": "maxon-true-tube-overdrive-(tod-9)"
+}

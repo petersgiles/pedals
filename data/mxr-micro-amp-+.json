@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13419",
+    "name": "Micro Amp +",
+    "image": "images/mxr-micro-amp-+.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "The Micro Amp + upgrades a classic boost circuit with EQ controls, low-noise op-amps, and true bypass switching to take this powerful boost box to the next level.\nhttps://www.jimdunlop.com/product/m233-7-10137-09527-4.do",
+    "hrid": "mxr-micro-amp-+"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13492",
+    "name": "Blues Overdrive LSEBOD",
+    "image": "images/washburn-blues-overdrive-lsebod.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Washburn",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 72,
+    "height": 114,
+    "details": "Blues Overdrive",
+    "hrid": "washburn-blues-overdrive-lsebod"
+}

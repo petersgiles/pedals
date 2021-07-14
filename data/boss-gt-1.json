@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11409",
+    "name": "GT-1",
+    "image": "images/boss-gt-1.jpg",
+    "function": [
+        "Delay",
+        "Distortion",
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$222 Price in €",
+    "width": 305,
+    "height": 152,
+    "details": "Multi Effect For Electric Guitar\nhttps://www.boss.info/de/products/gt-1/",
+    "hrid": "boss-gt-1"
+}

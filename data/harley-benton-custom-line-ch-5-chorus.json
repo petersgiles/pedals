@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11700",
+    "name": "Custom Line CH-5 Chorus",
+    "image": "images/harley-benton-custom-line-ch-5-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$44 Price in €",
+    "width": 120,
+    "height": 95,
+    "details": "",
+    "hrid": "harley-benton-custom-line-ch-5-chorus"
+}

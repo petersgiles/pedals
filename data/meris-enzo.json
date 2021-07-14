@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18664",
+    "name": "Enzo",
+    "image": "images/meris-enzo.jpg",
+    "function": [
+        "Synth Voice",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Meris",
+    "current": "150 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 108,
+    "height": 114,
+    "details": "SynthThe Meris Enzo is a multi-voice synthesizer that will track your guitar for tight monosynth leads, complex chord polyphony, or multi-note sequenced arpeggiation. All without any special pickup installation. Just put it on your board and discover your own reality.\nThe Enzo isn’t limited to guitar; use it on any instrument whether drum machine, vocals or other synths. Completely transform your input signal and synthesize. Use the full synth palette of multimode analog style synth filters, ring modulation, envelopes and much much more to drive punchy, thick synth textures. Or, explore an altered state of your pure instrument signal by transforming it with pitch, time and modulation effects. Plug in to a revelation generator.\nColossal multi-voice dual oscillator synth architecture with selectable waveforms\nThree Synth modes: Poly Synth, Mono Synth, and Arpeggiated Synth\nTwo distinct tunable envelope types: Triggered and Envelope Follower\nTunable portamento time for smooth transitions between synth notes and pitch shifts\nSustain control for extending your volume envelope all the way to endless synth hold\nTwo Tap Delay with Time, Feedback, Modulation, and special two stage level control (530 mS max delay time)\nAdjustable compressor with threshold and mix for your input signal (Dry mode)\nCustom 6 mode filter with frequency, bandwidth (resonance), and envelope\nWide-ranging ring modulation with ability to assign envelope control\nDigitally controlled analog mix control\nStereo input and output\nSwitchable input / output headroom level for guitar or synth / line level\nExpression pedal control over all parameters simultaneously\nPresets available via external 4-preset switch or MIDI\nMIDI in/out over TRS via the EXP jack\nExternal tap tempo over TRS\nMIDI beat clock synchronization\nPremium analog signal path and 24-bit AD/DA w/32 bit floating point DSP\nPremium analog devices JFET input section\nhttps://www.meris.us/product/enzo/",
+    "hrid": "meris-enzo"
+}

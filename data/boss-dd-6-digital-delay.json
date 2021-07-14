@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11509",
+    "name": "DD-6 Digital Delay",
+    "image": "images/boss-dd-6-digital-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "55 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 75,
+    "height": 132,
+    "details": "Digital Stereo Delay PedalStereo input/output for true stereo delay and panning effects\nOver 5 seconds of delay time (5200ms)\nHold function records phrases up to 5,200ms\nTempo mode permits tap tempo without external footswitch\nFirst-of-its-kind Warp mode generates radical delay effects instantly\nReverse mode creates cool backwards effects\nhttps://www.boss.info/us/products/dd-6",
+    "hrid": "boss-dd-6-digital-delay"
+}

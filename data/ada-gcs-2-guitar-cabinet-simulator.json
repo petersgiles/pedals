@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11754",
+    "name": "GCS-2 GUITAR CABINET SIMULATOR",
+    "image": "images/ada-gcs-2-guitar-cabinet-simulator.jpg",
+    "function": [
+        "Utility",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "ADA",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 83,
+    "height": 120,
+    "details": "Cab SimTurn any full-range passive or powered monitor speaker or sound system into a dynamic guitar cabinet, loaded with your choice of drivers.\nThe new ADA GCS-2 is an easy-to-use guitar cabinet simulator in a small, rugged package designed for guitar players and sound engineers who are looking for high quality analog solutions for live sound reinforcement systems, stage monitors and recording electric guitar.\nThe new ADA GCS-2 is ideally suited for live performance and studio applications. A unique feature of the GCS-2 is that it replicates the low frequency natural resonance of a guitar speaker cabinet at loud volumes, which is especially noticeable in the SEALED CABINET configuration.\nThe GCS-2 is inserted between the output of your preamplifier (or effects pedal chain) and a mixing or recording console to replace the close proximity microphone that is typically used to mic a guitar speaker cabinet. This eliminates the problem of bleed through or crosstalk from other instruments or amplifiers in live situations. The GCS-2 is especially useful for owners of our APP-1 guitar pedal preamp because it can split the output of the APP-1 for sending the signal to a guitar amplifier and to a mixing console for recording, house sound systems and stage monitor systems.\nWe have tested the GCS-2 in live performances by sending a feed to a stage monitor for the guitarist and eliminating the combo or head with stack. The same feedback that you get from a stack or a hot-rod combo can easily be produced in the monitor, and interestingly, with more control.\nADA GCS-2 Guitar Cabinet Simulator Features:\nSelectable 10” or 12” Speaker Size\nSelectable VINTAGE (Alnico) or MODERN (Ceramic) Speaker Character\nSelectable OPEN BACK or SEALED Cabinet Type\nVariable MICROPHONE PLACEMENT Control to “position” the mic for deep or bright frequency response.\n¼” phone jack INPUT with a direct, un-buffered PASS THROUGH ¼” phone jack. This effectively splits the signal to feed both a guitar amplifier (the THRU) and a mixing console (one of the outputs, either ¼” phone single ended or XLR balanced)\nXLR Balanced Output has selectable LINE or MIC LEVEL Output and a GROUND LIFT for Pin 1\nPure Analog Circuit Design using thru-hole, low-noise components\nRugged all-steel chassis with durable powder coat finish\nPowered by a single industry standard 9-volt AC Adapter, but runs internally at 18 volts for higher headroom and lower noise\nDesigned and manufactured in California",
+    "hrid": "ada-gcs-2-guitar-cabinet-simulator"
+}

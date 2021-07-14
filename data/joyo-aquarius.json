@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26956",
+    "name": "Aquarius",
+    "image": "images/joyo-aquarius.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "Joyo",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 67,
+    "height": 109,
+    "details": "Multi Delay & LooperJOYO Aquarius Multi Delay & Looper Guitar Effect Pedal\nThe JOYO R-07 Aquarius guitar effect pedal is a multi-mode delay guitar effect pedal & looper. Use it as a delay pedal, a looper pedal, or both at the same time. The Aquarius has 8 digital delay effects built in with tap tempo to set the delay time and has 300 second recording, playback, dub, stop and delete.JOYO Aquarius Multi Delay Pedal\nThe JOYO Aquarius has 8 different delay settings to select from, they are:\nDigital Delay - For crisp note delays, retaining the shape and tone\nAnalog Delay - For smooth rounded delays, gradually losing shape.\nTape Echo - Sounding like a tape echo, crisp modulating repeats.\nTube Echo - Sounding like a true tube and tape echo, gradually losing shape.\nReverse Echo - It makes everything backwards and shoegazey.\nLow Bit - glitchy 8 bit, for some nice lo-fi glitch repeats\nGalaxy - far out spacey, a little bit of glitchy reverse, out of this world..\nMod - adds chorus modulation to the repeats.\nThe Tap Tempo function enables you to adjust the delay’s speed inbetween the repeats. Hold down the footswitch for 2 seconds to activate the tap tempo mode the LED goes red. Then tap the switch for the start and tap again for the end. The time between is the delay time.\nLooper 5 minutes recording time.\nControllers: Level, Time, Feedback, Delay Mode Selector, Looper ON/OFF, LED Toggle\nInput Impedance: 2.2 MO\nOutput Impedance: 100 O\nRated Current Consumption: 100mA\nWorking Voltage: DC 9V (center negative)\nDimensions:  1096748 mm\nWeight: 248g\nhttps://www.joyoaudio.co.uk/joyo-aquarius-multi-delay-and-looper-guitar-effect-pedal",
+    "hrid": "joyo-aquarius"
+}

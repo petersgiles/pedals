@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15558",
+    "name": "Mini core SE TIMER",
+    "image": "images/nux-mini-core-se-timer.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$44 Price in €",
+    "width": 53,
+    "height": 94,
+    "details": "delay\nhttps://www.thomann.de/fr/nux_mini_core_se_timer.htm?ref=search_rslt_nux_402867",
+    "hrid": "nux-mini-core-se-timer"
+}

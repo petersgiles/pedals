@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18270",
+    "name": "Dirty Shirley",
+    "image": "images/friedman-dirty-shirley.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Friedman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 78,
+    "height": 122,
+    "details": "Distortion\nhttp://friedmanamplification.com/friedman-pedals/dirty-shirley-pedal",
+    "hrid": "friedman-dirty-shirley"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12765",
+    "name": "RV-6 Reverb",
+    "image": "images/boss-rv-6-reverb.jpg",
+    "function": [
+        "Delay",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "65 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Reverb pedalCombining high-end sound and wide-ranging versatility, the RV-6 takes pedal-based reverb to the next level. Reaching beyond the capabilities of previous generations, this powerful stomp employs the latest tech and legendary BOSS know-how to make it easy to get amazing reverb tones instantly. From subtle rooms to modern shimmer effects to long, evocative reverbs, the RV-6 envelops your tone in lush ambient spaces that endlessly inspire.\nhttps://www.boss.info/us/products/rv-6/",
+    "hrid": "boss-rv-6-reverb"
+}

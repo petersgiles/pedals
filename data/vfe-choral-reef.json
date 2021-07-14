@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29848",
+    "name": "Choral Reef",
+    "image": "images/vfe-choral-reef.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "VFE",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$219 Price in €",
+    "width": 66,
+    "height": 111,
+    "details": "Analog MN3008-based Chorus PedalThe CHORAL REEF analog chorus pedal took 2 years and many failed attempts to perfect. The result was a no-compromise design built upon the MN3008 bucket brigade chip to satisfy VFE’s high standards for noise, headroom, and versatility. A whole host of chorus tones are available, including flanger and vibrato. The unique feedback circuitry lets you add a touch of resonance or dive into deep modulated chaos that rings on after you stop playing.\nhttp://www.vfepedals.com/sps.html",
+    "hrid": "vfe-choral-reef"
+}

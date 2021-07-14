@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30494",
+    "name": "Bliss Factory",
+    "image": "images/chase-bliss-audio-bliss-factory.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "MIDI"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$399 Price in €",
+    "width": 69,
+    "height": 125,
+    "details": "Z.vex Fuzz Factory Collaboration We may have finally caught bliss.\nThis is the very famous five-knob, two germanium transistor fuzz we’ve always dreamed of collaborating with ZVEX on. In short, it’s a souped-up Fuzz Factory™ with digital control and a resonant low pass filter.\nAlthough the five knobs are named for the parameters over which they seem to have the most control, please don’t hold us to it. They are controls for various operating levels and biases, shaping you a personalized fuzz.\nLike all Chase Bliss Audio™ pedals, all of these settings can be stored in presets, ramped, or controlled via expression pedal. Every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog and never gets digitally processed.",
+    "hrid": "chase-bliss-audio-bliss-factory"
+}

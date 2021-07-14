@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19010",
+    "name": "Mute Switch",
+    "image": "images/jhs-mute-switch.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$55 Price in €",
+    "width": 38,
+    "height": 91,
+    "details": "",
+    "hrid": "jhs-mute-switch"
+}

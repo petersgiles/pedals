@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13088",
+    "name": "Procession V2",
+    "image": "images/old-blood-noise-procession-v2.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "Modulation Reverb\nhttp://www.oldbloodnoise.com/pedals/procession-reverb",
+    "hrid": "old-blood-noise-procession-v2"
+}

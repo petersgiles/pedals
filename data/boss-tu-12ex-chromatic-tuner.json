@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20581",
+    "name": "TU-12EX Chromatic Tuner",
+    "image": "images/boss-tu-12ex-chromatic-tuner.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 148,
+    "height": 54,
+    "details": "Chromatic Tuner for Guitar and BassThis successor to the legendary TU-12 provides BOSS’ famous needle/LED indicators for fast, accurate tuning. Other features include Flat Tuning of up to six half steps, ACCU-PITCH with an audible beep, a reference tone, a built-in microphone for acoustic instruments and battery-saving Auto-Off.\nIn the tradition of its top-selling TU-12 predecessor, the new TU-12EX offers needle-accurate metering for precision tuning, including high-visibility sharp and flat indicators to ensure perfect tuning. Never play out of tune again!\nFor guitarists who drop-tune, the TU-12EX offers a special Flat Tuning mode, which lowers the pitch in user-defined semitone increments. The range can be set for up to six semitones.\nThe TU-12EX offers two forms of input: a line input or the built-in microphone. Plug your electric guitars and basses into the Line input, or simply point the built-in mic at acoustic guitars or other instruments that aren’t equipped with a pickup. It’s super convenient!\nhttps://www.boss.info/us/products/tu-12ex/",
+    "hrid": "boss-tu-12ex-chromatic-tuner"
+}

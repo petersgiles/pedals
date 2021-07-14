@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11800",
+    "name": "MF-104M",
+    "image": "images/moog-music-inc.-mf-104m.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$699 Price in €",
+    "width": 152,
+    "height": 229,
+    "details": "https://www.moogmusic.com/products/moogerfoogers/mf-104m-analog-delay",
+    "hrid": "moog-music-inc.-mf-104m"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14726",
+    "name": "Pickup booster",
+    "image": "images/seymour-duncan-pickup-booster.jpg",
+    "function": [
+        "PreAmp",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Seymour Duncan",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$121 Price in €",
+    "width": 66,
+    "height": 124,
+    "details": "Pickup booster and line driver.\nhttps://www.seymourduncan.com/pedal/pickup-booster",
+    "hrid": "seymour-duncan-pickup-booster"
+}

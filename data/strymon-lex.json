@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11583",
+    "name": "Lex",
+    "image": "images/strymon-lex.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Tremolo",
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Rotating Speaker Effects PedalLex provides you with a complete, accurately reproduced rotary system: the low-frequency bass rotor, the rotating treble horn, the tube-driven amplifier, finely tuned microphone placement, and all the complex sonic interactions between these elements.\nUtilizing a ridiculously powerful SHARC DSP, every drop of processing power is harnessed to authentically represent these details.\nhttp://www.strymon.net/products/lex/",
+    "hrid": "strymon-lex"
+}

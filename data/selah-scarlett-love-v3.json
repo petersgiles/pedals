@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14005",
+    "name": "Scarlett Love v3",
+    "image": "images/selah-scarlett-love-v3.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Selah",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 122,
+    "height": 66,
+    "details": "",
+    "hrid": "selah-scarlett-love-v3"
+}

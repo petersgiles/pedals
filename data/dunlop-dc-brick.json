@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25913",
+    "name": "DC Brick",
+    "image": "images/dunlop-dc-brick.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / DC",
+    "cost": "",
+    "width": 81,
+    "height": 70,
+    "details": "Power SupplyNew and improved (formerly the Juice Box) provides a reliable and consistent way to power your effects board. Drives up to 10 pedals from the same source. Seven 9V and three 18V outputs. More than a power supply, this box is a power conditioner as well.",
+    "hrid": "dunlop-dc-brick"
+}

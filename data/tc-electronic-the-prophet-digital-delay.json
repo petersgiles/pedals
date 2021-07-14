@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11427",
+    "name": "The Prophet Digital Delay",
+    "image": "images/tc-electronic-the-prophet-digital-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$55 Price in €",
+    "width": 72,
+    "height": 132,
+    "details": "Studio quality digital delay pedal\nAward-Winning TC ELECTRONIC Algorithm\nUp to 1300 ms delay time\nTrue Bypass for ultimate signal integrity\n“Built-like-a-tank” metal chassis\nRuns on 9 V battery or the TC Electronic Powerplug 9 (not included)\n3-Year Warranty Program*\nDesigned and engineered in Denmark\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/THE-PROPHET-DIGITAL-DELAY/p/P0CAZ#googtrans(en|en)\nhttp://www.tcelectronic.com/de/the-prophet-digital-delay/",
+    "hrid": "tc-electronic-the-prophet-digital-delay"
+}

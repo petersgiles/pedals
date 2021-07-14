@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17406",
+    "name": "Eterna",
+    "image": "images/mr.-black-eterna.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Shimmering Reverberator Infinity and the magnitude of time.\nThe breath of yesterday delicately caresses a shadow of tomorrow, as a touch of shimmering radiance soars across the endless sky. What once was dissolves into forever. Breathtaking, beautiful and inspirational, we bring forth: Eterna.\nA remarkable, lush and fully capable reverberator.",
+    "hrid": "mr.-black-eterna"
+}

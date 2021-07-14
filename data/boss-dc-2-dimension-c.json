@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12724",
+    "name": "DC-2 Dimension C",
+    "image": "images/boss-dc-2-dimension-c.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$400 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "chorus",
+    "hrid": "boss-dc-2-dimension-c"
+}

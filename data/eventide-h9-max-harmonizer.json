@@ -1,0 +1,22 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11426",
+    "name": "H9 Max Harmonizer",
+    "image": "images/eventide-h9-max-harmonizer.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Multieffect",
+        "Reverb",
+        "Dual/Stereo",
+        "Looper",
+        "MIDI"
+    ],
+    "manufacturer": "Eventide",
+    "current": "? mA / 9 V / DC",
+    "cost": "$674 Price in €",
+    "width": 118,
+    "height": 133,
+    "details": "Eventide H9 MAX Multi-effects PedalWith the H9 Max, you can employ all of Eventide's stompbox effects using a single pedal. You get all 49 algorithms and associated presets from Space, TimeFactor, PitchFactor, and ModFactor, as well as PitchFuzz, SpaceTime, Crushstation, Sculpt, UltraTap Delay, Resonator, and Compressor EQ. On top of that, all future H9 effect algorithms are free for you to download. The H9 Max ships with 99 factory presets, and you can download over 500 more via the free H9 Control app on your Bluetooth-equipped device. Featuring a simple, one-knob user interface, the H9 Max adds legendary Eventide sounds to your tonal tool kit.\nhttps://www.eventideaudio.com/products/stompboxes/multi-effect-processor/h9",
+    "hrid": "eventide-h9-max-harmonizer"
+}

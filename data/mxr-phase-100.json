@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12063",
+    "name": "Phase 100",
+    "image": "images/mxr-phase-100.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 92,
+    "height": 123,
+    "details": "DESCRIPTION\n• Big brother of the Phase 90 with a broader range of sounds\n• Four-position rotary switch selects four preset waveforms\n• Spacey, psychedelic ambience for guitar solos or chords\nPOWER \nOne 9-volt battery (remove bottom plate to install) or a 9-volt AC adapter.\nSPECIFICATIONS\nInput Impedance: 500 kΩ\nOutput Impedance: 3 kΩ\nMaximum Intput Level: +5 dB \nMaximum Output Level: +8 dB\nNoise Floor*: 95 dBV \nPhase Shift Range: 180 Degrees  \nBypass: Hardwire\nCurrent Draw: 6 mA \nPower Supply: 9 volts DC \nhttps://www.jimdunlop.com/product/m107-7-10137-00656-0.do?",
+    "hrid": "mxr-phase-100"
+}

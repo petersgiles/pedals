@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18977",
+    "name": "Ultra Wah UW300",
+    "image": "images/behringer-ultra-wah-uw300.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 65,
+    "height": 121,
+    "details": "Auto Wah FilterThe UW300 provides an immense array of wah tones thanks to its dedicated Sensitivity, Depth, Rate and Manual controls. The Manual dial gives you the power to specify the frequency where the effect starts working. For example, high Manual settings decrease the sweep range because the low end of the frequency sweep is moved upwards. The Sensitivity control provides control over when the auto-wah is activated, and is totally dependent on how hard you play. So, whether you've dialed in a traditional wah-wah whine or a thick psychedelic haze, the UW300 responds instantly to your performance dynamics.\nThe UW300' bright blue LED tells you when it's activated (it can also be used for a UFO landing beacon), and the excellent electronic on/off switch maintains pristine signal integrity in bypass mode. You can power the UW300 with a 9 V battery or our PSU-SB DC power supply (not included).",
+    "hrid": "behringer-ultra-wah-uw300"
+}

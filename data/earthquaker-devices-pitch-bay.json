@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12045",
+    "name": "Pitch Bay",
+    "image": "images/earthquaker-devices-pitch-bay.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 64,
+    "height": 117,
+    "details": "Dirty Polyphonic HarmonizerHey Shredders! Patch a Pitch Bay in your effects chain and blast your three-part guitar harmonies into the stratosphere! This Device packs a three-part polyphonic harmonizer and overdrive circuit into a compact unit that saves precious pedalboard real estate while still being completely intuitive.\nEach of the Pitch Bay’s polyphonic harmonizers (“Pitch Up” and “Pitch Down”) are tunable in semitones from one octave below the root to one octave above, and every interval in between. You’ll find everything from rumbling sub-octaves, dissonant tone clusters, soaring octave-up lead sounds, to ripping NWOBHM lead guitar harmonies.  Rounding out the top row of controls is the “Gain” knob, which can go from totally clean to heavily distorted, unleashing the dirty hesher within.\nThe bottom row of controls is the Pitch Bay’s mixer section where you can adjust the volume of your upper voice, lower voice, and the all-analog “Root” signal to create the perfect polyphonic blend of sounds. The digital pitch-shifting engine tracks across the harmonic spectrum, making the Pitch Bay perfect for dense chords, synthesizers, vocals, bass guitar, drum machines, and just about anything with a ¼” output. Sky’s the limit, reap the whirlwind, reach for the stars, break a leg, ride the lightning, YOLO, etc.…\nEach Pitch Bay is true bypass and imagineered one at a time by a team of rocket scientists in the space station orbiting the alien landing site of Akron, Ohio, USA.\nhttps://www.earthquakerdevices.com/pitch-bay/",
+    "hrid": "earthquaker-devices-pitch-bay"
+}

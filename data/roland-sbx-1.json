@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21935",
+    "name": "SBX-1",
+    "image": "images/roland-sbx-1.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 220,
+    "height": 135,
+    "details": "Multi-format Sync for Computers and Electronic InstrumentsThe SBX-1 lets computers and electronic instruments communicate and synchronize with each other. It supports a vast array of both analog and digital devices through DIN SYNC, MIDI and USB, and any of these can be the master clock source. You can use the SBX-1 itself as the master sync and control your external devices with its rock-steady internal clock. With hands-on control over timing and groove, and support for CV/GATE, the SBX-1 is far from just an ordinary sync box.\nSimultaneous conversion between MIDI, DIN SYNC, and USB/MIDI\nControl external devices with SBX-1 as the master sync source\nShuffle adds swing to patterns generated on devices without swing, such as TR-808 and TB-303\nCV/GATE jacks introduce enormous creative possibilities\nSYNC button corrects timing errors with a single press\nOutput up to three channels of triggers or LFOs with different characteristics\nDIN SYNC supports both Sync24 and Sync48 compatible with a variety of rhythm machines\nWorks great with the TR-8 through optimized AUX jack\nRuns on USB bus power or with AC adapter",
+    "hrid": "roland-sbx-1"
+}

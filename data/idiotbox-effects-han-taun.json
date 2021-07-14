@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13140",
+    "name": "Han-Taun",
+    "image": "images/idiotbox-effects-han-taun.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$129 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "OverdriveThe Han-Taun is my take on the Klon Centaur overdrive so you know it sounds just as bad ass as it looks! It's pretty damn close to the legit Centaur reissue with a bit more beef and tighter high end. Makes any guitar stand out and totally slays on bass!!!\nhttp://idiotboxeffects.bigcartel.com/product/han-taun-overdrive",
+    "hrid": "idiotbox-effects-han-taun"
+}

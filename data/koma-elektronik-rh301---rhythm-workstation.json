@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14121",
+    "name": "RH301 - Rhythm Workstation",
+    "image": "images/koma-elektronik-rh301---rhythm-workstation.jpg",
+    "function": [
+        "Controller",
+        "Expression",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "KOMA Elektronik",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$357 Price in €",
+    "width": 200,
+    "height": 230,
+    "details": "The best buddy in your setup for clock signals, tap tempo and tempo synced LFO / ADSRThe beating heart of the RH301 is the master clock, of which the tempo can be set by turning the Tempo knob, by tapping a tempo on the tap button, by syncing it to MIDI, DIN Sync or an external analog clock signal. The generated clock signal can be passed on via two clock outputs, two division outputs or via the MIDI Output and DIN Sync Output. An incoming MIDI signal can also be passed along via the MIDI Thru and MIDI Out sockets.\nAnd that’s not all: besides having a master clock section, the RH301 is also fitted with a LFO which can be synced to the master clock, a division of the master clock, or run freely from 0,25 Hz to 260 Hz in five different waveforms: sine, triangle, square, S&H and noisine. This means the pedal can also be used as an lo-fi oscillator, when you turn the LFO up into the audible range. The LFO has two separate outputs on the patch bay: LFO out and LFO inverted out. Some of the features of the LFO can also be modulated via control voltage, the pedal boasts CV inputs for LFO SPEED, LFO RESET and LFO SYMMETRY.\nThe third main feature of the RH301 is an Envelope Generator which can easily be synced to the master clock, a division of the master clock or run in loop mode. Besides the normal controls for ATTACK, DECAY, SUSTAIN and RELEASE the pedal comes with a RANGE knob to change the time range of the envelope created. The envelope generator comes with a normal envelope output, but also an inverted envelope output and can be triggered by an external gate / trigger via the external gate Input.\nhttps://koma-elektronik.com/?product=rh301-rhythm-workstation-utility-tool",
+    "hrid": "koma-elektronik-rh301---rhythm-workstation"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11508",
+    "name": "RV-5 Digital Reverb",
+    "image": "images/boss-rv-5-digital-reverb.jpg",
+    "function": [
+        "Reverb",
+        "Digital",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Digital Stereo Reverb PedalCompact pedal with stereo input/output for use with other stereo effects\n6 high-quality reverb modes on par with rackmount processors\nNew Spring reverb emulation offers realistic spring reverb sounds\nNew Gate reverb derived from high-end Roland studio gear\nModulate mode detunes the reverb sound for added spaciousness\nhttps://www.boss.info/us/products/rv-5",
+    "hrid": "boss-rv-5-digital-reverb"
+}

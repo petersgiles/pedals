@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11624",
+    "name": "Deep Six",
+    "image": "images/walrus-audio-deep-six.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$223 Price in €",
+    "width": 66,
+    "height": 124,
+    "details": "Effect Pedal for Electric Guitar",
+    "hrid": "walrus-audio-deep-six"
+}

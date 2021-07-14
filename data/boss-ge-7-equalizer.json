@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11980",
+    "name": "GE-7 Equalizer",
+    "image": "images/boss-ge-7-equalizer.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Graphic Equalizer For Electric Guitar\nhttps://www.boss.info/us/products/ge-7/",
+    "hrid": "boss-ge-7-equalizer"
+}

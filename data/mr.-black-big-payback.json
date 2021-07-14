@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17495",
+    "name": "Big Payback",
+    "image": "images/mr.-black-big-payback.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$180 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "VCA-based, feed-back compressorUnbelievably quiet, the Big Payback is one damned fine VCA-based, feed-back compressor boasting up to a 40:1 compression ratio, lightning-fast or molasses-slow response time (controlled via the Attack knob), and even a Dynamic-Expansion mode (with comp knob set to minimum)!\nEndless sustain and controlled clean or dirty feedback are easily available at higher settings, all while retaining individual note clarity and complete tonal transparency.\nhttps://www.mrblackpedals.com/products/big-payback",
+    "hrid": "mr.-black-big-payback"
+}

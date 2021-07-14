@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25544",
+    "name": "Mini Vintage Chorus",
+    "image": "images/mr.-black-mini-vintage-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "60 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 47,
+    "height": 94,
+    "details": "Mini Format Vintage ChorusDirectly modeled after the original late 70's \"Ensemble\" chorus that started it all, the Mini Vintage Chorus delivers old-school BBD-style chorusing and true pitch-vibrato in a super tiny package.\nThree simple controls and daisy-chain friendly \"industry standard\" 9VDC power let you slip glistening, watery chorus and warbly pitch-vibrato into the tightest of pedal-boards!\nHandmade and built to last by real live humans, right here in Portland, Oregon using only premium parts for superior tone and years of dependable service.\nControls:\nMix (Effect wet/dry, CCW = 100% dry, CW = 100% wet)\nWidth (Oscillator width)\nRate (Oscillator speed)\nTech Specs:\nTrue-Bypass\nInput Impedance: ~500KΩ\nOutput Impedance: ~2KΩ\nhttps://www.mrblackpedals.com/collections/mini-pedals/products/mini-vintage-chorus",
+    "hrid": "mr.-black-mini-vintage-chorus"
+}

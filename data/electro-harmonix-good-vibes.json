@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12061",
+    "name": "Good Vibes",
+    "image": "images/electro-harmonix-good-vibes.jpg",
+    "function": [
+        "Chorus",
+        "Tremolo"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$138 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Uni-Vibe clone\nSelectable Chorus or Vibrato delivers classic 1960's tone and vibe\nSimple control set: Volume, Intensity, Speed\nExpression pedal control of Speed or Intensity\nBoosted power rails for extended headroom and definition\nAlways-on Speed indicator\nRugged and compact die-cast chassis\nTrue Bypass\n9.6DC (very picky with power)\n\nEXP Jack – This ¼” EXPression jack accepts a TRS expression pedal connector or a Tip-Sleeve 0-5V control voltage input. Some suggested Expression Pedals include: EHX Expression Pedal, M-Audio® EX-P, Roland® EV-5 or Boss® FV-500L. The polarity of the expression pedal’s plug must connect the Sleeve to the heel position, Ring connected to the toe position, and the Tip connected to the wiper. The nominal expression pedal impedance is 10kΩ, but it can accept impedances ranging from 6kΩ – 100kΩ.\nhttp://www.ehx.com/products/good-vibes",
+    "hrid": "electro-harmonix-good-vibes"
+}

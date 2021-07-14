@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12460",
+    "name": "Subnup Mini Octaver",
+    "image": "images/tc-electronic-subnup-mini-octaver.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Mini Pitch Shifter/OctaverDelivering all of the polyphonic octave pleasantries that you know from its bigger brother, the Sub 'N' Up Mini sounds huge but looks tiny.\nFocusing on simplicity and ease of use, we did away with the mini toggle switch and the two octaves down knob.\nNaturally, you can still turn Sub 'N' Up Mini into an old school monophonic octaver for that crackling pitch glitch of the olden days.\nIf you're into a more modern sound and feel, the polyphonic octave algorithm keeps all your notes tracking true even when playing chords and harmonies or laying down the bottom pitch.\nOr, tap into the inspiring tones of our TonePrint family of artists. Just use the free TonePrint app to beam in your tone of choice and strap in for something really pitchin'!\nhttps://www.tcelectronic.com/product.html?modelCode=P0CQF",
+    "hrid": "tc-electronic-subnup-mini-octaver"
+}

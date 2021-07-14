@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20434",
+    "name": "R-05 Maximum Mosfet Overdrive",
+    "image": "images/joyo-r-05-maximum-mosfet-overdrive.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$59 Price in €",
+    "width": 125,
+    "height": 79,
+    "details": "R-05 JOYO Maximum Overdrive – If you are after the full tonal range of an overdriven amp then you cant get better than taking it to the maximum.\nWe could have called it the Ultimate 2, but we didn’t we called it the Maximum because this pedal is just full of tonal capabilities and has more features.\nFrom smooth & crunchy vintage overdriven tones to producing immense distortion sustained tones, this pedal delivers it all. Definitely a pedal for those who are obsessed about Rolling stones, Pearl Jam, Cream & more.\nIt’s an amazing all rounder guitar effect pedal from vintage to modern, this pedal dials it all in. With tone, gain and boost control, you will find 2 toggle switches, the left one for adjusting the brightness of Mid-frequency, 3 positions are available. The right switch toggles between di¬fferent circuit clippings, MOSFET and diode mod.\nUse it as a Boost pedal, Drive pedal, or combine both to take it to the Maximum drive level.\nThe R Series, or Revolution series from JOYO are the 4th generation of guitar effects and all feature some very cool ambient LED lighting. The lights can be toggled from a switch on the rear of the pedal..3 modes of lighting are available to adjust when they come on.\n'Sync' to the footswitch - The LED ambient lighting on the front and rear of the pedal with shine bright when the footswitch is pressed, also illuminating the LED effect indicator on the top of the pedal.\n'Always' - The lights are always on, but the pedal is only activated when you press the footswitch and the LED effect indicator comes on.\n'Off' - Okay, so Tron may not be your favourite and you want to stick to something a little less futuristic. The lights are off, the LED effect indicator comes on when you stomp on it and activate the pedal..\nThe pedal features controls for Volume, Gain, Tone & Boost.\nMosfet / Diode Clip toggle switch.\nHard / Flat / Smooth Clip Mode\nhttps://www.joyoaudio.co.uk/joyo-maximum-mosfet-overdrive-guitar-effect-pedal-revolution-r-series",
+    "hrid": "joyo-r-05-maximum-mosfet-overdrive"
+}

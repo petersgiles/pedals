@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12210",
+    "name": "East river drive",
+    "image": "images/electro-harmonix-east-river-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "Overdrive\nhttps://www.sweetwater.com/store/detail/EastRiverOD",
+    "hrid": "electro-harmonix-east-river-drive"
+}

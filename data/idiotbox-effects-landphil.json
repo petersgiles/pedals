@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32655",
+    "name": "Landphil",
+    "image": "images/idiotbox-effects-landphil.jpg",
+    "function": [
+        "Bass",
+        "Distortion"
+    ],
+    "manufacturer": "IdiotBox Effects",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 94,
+    "height": 120,
+    "details": "Bass distortionThe Landphil is the signature bass distortion pedal for Landphil, the bassist for the badass cossover thrash band Municipal Waste and killer death metal band Cannabis Corpse! It is a modified and much more tweakable version of the Blower Box Bass Distortion. It has the same awesome HI/LOW-boost/cut, distortion and volume controls as the original but has an extra control for each giving a much wider range of bad ass bass distortion tones!\nhttps://www.idiotboxeffects.com/product/landphil",
+    "hrid": "idiotbox-effects-landphil"
+}

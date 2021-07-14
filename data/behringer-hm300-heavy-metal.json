@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12740",
+    "name": "HM300 Heavy Metal",
+    "image": "images/behringer-hm300-heavy-metal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$25 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Metal style distortion",
+    "hrid": "behringer-hm300-heavy-metal"
+}

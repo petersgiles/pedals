@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26175",
+    "name": "Holy Grail Plus",
+    "image": "images/electro-harmonix-holy-grail-plus.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$167 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "Variable ReverbThe Holy Grail Plus starts with the Holy Grail's amazing spring, hall, and flerb reverbs, and adds a graceful room reverb. The Plus' multifunction control lets you control decay, damping and modulation speed. The Grail has gotten even more divine!\nhttps://www.ehx.com/products/holy-grail-plus",
+    "hrid": "electro-harmonix-holy-grail-plus"
+}

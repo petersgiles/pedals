@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18058",
+    "name": "Quartermaster 4",
+    "image": "images/the-gigrig-quartermaster-4.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 280,
+    "height": 40,
+    "details": "4-Channel True Bypass SwitcherSimple loop switching for your pedals\nHigh-quality true bypass strip loop control for your effects pedals. Compact easy switching solution to keep your tone intact. \nTheGigRig QMX has all the same great features as the standard QuarterMaster including; \n\nUses TheGigRig 'True Bypass' relay technology keeping your tone perfectly intact and your switching quiet. \nTough aluminium enclosure and small footprint will keep your pedalboard light and compact \nUses the new GigRig 'OptoKick' Optical Foot switch which we believe is the most reliable foot switch in the world.\n\nPLUS, the QMX has a very clever ace up its sleeve. \nEach loop has a push button next to the loop return that gives you the option to turn a standard loop into a flip/flop loop. \nInstantly switch between any selected loops while adding other loops on top. Its great if there are effects on your board that you never stack like multiple delays, or drive units. \nBy using the QMX returns as instrument inputs you can easily and quietly switch between your favourite guitars \nFor your simple compact board, TheGigRig QuarterMaster QMX just makes life that little bit easier. \nhttps://www.thegigrig.com/quartermaster",
+    "hrid": "the-gigrig-quartermaster-4"
+}

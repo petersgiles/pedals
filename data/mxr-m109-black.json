@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15448",
+    "name": "M109 Black",
+    "image": "images/mxr-m109-black.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 64,
+    "height": 140,
+    "details": "EQ 6 Band",
+    "hrid": "mxr-m109-black"
+}

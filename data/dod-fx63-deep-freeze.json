@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12228",
+    "name": "FX63 Deep Freeze",
+    "image": "images/dod-fx63-deep-freeze.jpg",
+    "function": [
+        "Bass",
+        "Chorus"
+    ],
+    "manufacturer": "DOD",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 77,
+    "height": 131,
+    "details": "Bass Chorus",
+    "hrid": "dod-fx63-deep-freeze"
+}

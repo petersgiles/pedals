@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20797",
+    "name": "Model D",
+    "image": "images/behringer-model-d.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Behringer",
+    "current": "1000 mA / 12 V / DC / Positive Center",
+    "cost": "$323 Price in €",
+    "width": 374,
+    "height": 136,
+    "details": "Behringer 3-Oscillator SynthesizerAnalog Synthesizer with 3 VCOs, 24 dB Ladder Filter, LFO, 16-Voice Poly Chain and Eurorack Format\nTriple VCO design\n    Reproduction of the currently produced Moog Model “D”\n    0.1% Thin Film resistors and Polyphenyline Sulphide capacitors for signal stability\n    Analog signal path based on classic VCO, VCF and VCA designs\n    5 variable oscillator shapes with pulse width variation\n    24 dB ladder filter with resonance\n    Fully analog triangle/square wave LFO\n    Switchable low/high pass filter mode\n    16-voice Midi Poly Chain\n    Overdrive circuit\n    Complete Eurorack compatibility, – main module can be transferred to a standard Eurorack case\n    46 controls for real-time access of all important parameters\n    External audio input for processing external sound sources\n    Low and high level outputs\n    Comprehensive MIDI implementation with MIDI channel and Voice Priority selection\nhttps://www.behringer.com/product.html?modelCode=P0CQJ",
+    "hrid": "behringer-model-d"
+}

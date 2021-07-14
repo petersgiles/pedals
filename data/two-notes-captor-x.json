@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26065",
+    "name": "Captor X",
+    "image": "images/two-notes-captor-x.jpg",
+    "function": [
+        "MIDI",
+        "Modeling/Simulation",
+        "Utility"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC",
+    "cost": "$549 Price in €",
+    "width": 128,
+    "height": 175,
+    "details": "Reactive load box, tube amp attenuator, miked cab simulator, IR loaderFeatures summary\n•   Compact Reactive Load Box (8 Ohm, 100-watt RMS).\n•   Tube Amp Attenuator: Home (-38dB), Club (-20dB), Stadium (0db).\n•   Torpedo IR-based technology creating Dual-miked Virtual Cabinets.\n•   Dual IR Loader: 512 memory slots for custom IR files.\n•   Loaded with 32 Virtual Cabinets, 128 preset locations.\n•   Instantly select your favorite preset direct on the hardware (PRESET).\n•   Choose from 8 microphones per cabinet and 8 room simulations.\n•   Torpedo Remote for effortless control of all parameters e.g. position of mics.\n•   XLR DI Outputs (3 routing options: Stereo, Dual Mono, Dry / Wet).\n•   Silent playing with Immersive Headphone Experience.\n•   Stereo Reverb including SPACE control on hardware.\n•   EQ: Semi-parametric in Torpedo Remote, VOICING hardware control.\n•   Twin Tracker virtual guitarist.\n•   Enhancer with Body, Brilliance and Thickness controls.\n•   Noise gate with learn function.\n•   Dual Mono: Send dedicated signals to FOH and monitors with different EQ & Reverb.\n•   Dry / Wet: Send Cab Sim to audio interface from one output and dry on the other.\n•   Two notes Wall of Sound plugin included for processing of dry recordings.\n•   Audition 300+ Virtual Cabinets via the Torpedo Remote online library.\n•   Explore / purchase official cabinets from MESA/Boogie™, Celestion™, Orange™, Suhr™, REVV™ and more at store.two-notes.com\n•   Rugged, metal case: road ready and portable.\n•   USB Torpedo Remote (Windows and macOS) connectivity.\n•   MIDI Torpedo Remote connectivity\n•   Wireless (Phone / Tablet) Torpedo Remote connectivity (Android and iOS).\nSpecifications\n•   Dimensions: 128 (w) x 175 (d) x 64 (h) mm\n•   Weight: 1.3 kg\n•   SPEAKER IN: 1/4″ jack unbalanced (TS)\n•   SPEAKER OUT: 1/4″ jack unbalanced (TS)\n•   PHONES output: 1/4″ jack balanced (TRS)\n•   LEFT/RIGHT outputs: XLR Balanced (Maximum output level: 15 dBu. Impedance: 600 Ohms)\n•   MIDI input: 1/8″ jack balanced TRS. Jack to MIDI cable adapter supplied.\n•   Micro USB B port. Micro USB-B to USB-A cable supplied.\n•   Mains power adapter: 100-240v AC / Output: 12V DC, 1A supplied.\n•   24 bits / 96 kHz converters\n•   Bandwidth (-1dB): 30Hz – 19 kHz\n•   Signal/Noise ratio: > 95 dB\n•   Internal processing at 32 bits\n•   Latency: 2.2 ms (SPEAKER IN to LEFT/RIGHT OUTPUTS)\nhttps://www.two-notes.com/torpedo-captorx",
+    "hrid": "two-notes-captor-x"
+}

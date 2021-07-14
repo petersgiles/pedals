@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21156",
+    "name": "DFAM",
+    "image": "images/moog-music-inc.-dfam.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$622 Price in €",
+    "width": 319,
+    "height": 133,
+    "details": "Semi-modular analogue percussion synthesizerDFAM® is the first addition to the Mother-32 family of synthesizers and presents an expressive hands-on approach to percussive pattern creation. It requires no patching, and absolutely no experience is needed for human-beings of any age to quickly begin synthesizing new and unique rhythmic compositions.\nhttps://www.moogmusic.com/products/dfam-drummer-another-mother",
+    "hrid": "moog-music-inc.-dfam"
+}

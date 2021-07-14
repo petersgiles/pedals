@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11756",
+    "name": "Clyde Deluxe Wah",
+    "image": "images/fulltone-clyde-deluxe-wah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 95,
+    "height": 266,
+    "details": "WahThe Deluxe version of the CLYDE wah has all the features that players have come to know and love about the original \"CLYDE Standard\" but with the following additions:\n10-step Variable Input Level Control\nTrue-Bypass w/ bright side-viewable low current Pilot light status indicator\n3 selectable modes:\nWacked\nJimi\" (Clyde Standard)\nShaft\nThe three-way mode switch and variable input control pot will let you dial in almost any type of wah sound you can imagine. All the way from classic Voodoo Chile... to biting funk... to down and dirty low-end grunt. The CLYDE Deluxe can do it all!\nAll CLYDE Deluxes sport the most authentic '60's Vox type inductor available, which happens also the quietest... our hand-wound MuMetal shielded Fulltone 500mH inductor and the long-life Fulltone-1 wah pot.",
+    "hrid": "fulltone-clyde-deluxe-wah"
+}

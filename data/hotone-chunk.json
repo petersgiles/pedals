@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12035",
+    "name": "Chunk",
+    "image": "images/hotone-chunk.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Distortion",
+    "hrid": "hotone-chunk"
+}

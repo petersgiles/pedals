@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19321",
+    "name": "OD-2r Turbo OverDrive pedal",
+    "image": "images/boss-od-2r-turbo-overdrive-pedal.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$56 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Two stages gain overdriveControls: Level, Tone, Drive, 2-way Mode switch\nConnectors: Input, Output, AC Adaptor\nInput Impedance: 1Mohm\nOutput Load Impedance: 10kohm or more\nEquivalent Input Noise: -118dBm or less (IHF-A, Tone center, Input Short)\nRecommended AC Adaptor: ACA Series\nCurrent Draw: 10mA @ 9V\nhttp://www.bossarea.com/boss-od-2r-turbo-overdrive/",
+    "hrid": "boss-od-2r-turbo-overdrive-pedal"
+}

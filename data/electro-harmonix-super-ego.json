@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11868",
+    "name": "Super Ego",
+    "image": "images/electro-harmonix-super-ego.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "140 mA / 9 V / DC / Negative Center",
+    "cost": "$214 Price in €",
+    "width": 102,
+    "height": 121,
+    "details": "SuperEgo Synth EngineThe polyphonic SUPEREGO Synth Engine reinvents sample and hold, performs fluid glissandos and creates oscillator like, synthesizer effects. It can stack sounds or create infinite sustain, it even lets you tweak attack and decay, or use its effects loop to invent novel synth patches. Indulge your guilty pleasures!\nAuto mode captures and freezes notes and chords as you play\nControllable glissando\nSustain notes and chords as long as wanted\nInsert effects into the wet signal with the effects loop\nLatch mode with a layer feature to stacksounds\n9 Volt power supply provided\nhttps://www.ehx.com/products/superego",
+    "hrid": "electro-harmonix-super-ego"
+}

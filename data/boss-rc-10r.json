@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22977",
+    "name": "RC-10R",
+    "image": "images/boss-rc-10r.jpg",
+    "function": [
+        "Drum",
+        "Looper",
+        "MIDI",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "250 mA / ? V / AC",
+    "cost": "$299 Price in €",
+    "width": 101,
+    "height": 138,
+    "details": "Performance LooperNext-generation performance tool combining song-based looping and dynamic rhythms in a small footprint\nCover nearly any genre with over 280 preset rhythm styles that include two unique sections, intro/ending fills, and two transition fills\nSixteen versatile drum kits with high-quality sounds from the BOSS and Roland rhythm libraries\nStereo looper engine with six hours of recording time and class-leading 32-bit AD/DA and 32-bit floating-point processing\nSerial two-track operation for building loop performances with two independent song parts\nTwo circular indicators display loop and rhythm playback status\nSimple operation with informative LCD and intuitive interface\nOnboard storage for 99 phrase memories and 50 user rhythms\nSelectable output filter to optimize guitar and rhythm sounds for a guitar amp or full-range sound system\nSupport for expanded control via external footswitches, an expression pedal, or MIDI\nFull MIDI I/O provided with space-saving mini TRS jacks (BMIDI-5-35 adaptor cable available separately)\nMac/Windows software for importing WAV loops and user rhythms in SMF format\nAdditional content available for download at BOSS Tone Central\nhttps://www.boss.info/us/products/rc-10r/",
+    "hrid": "boss-rc-10r"
+}

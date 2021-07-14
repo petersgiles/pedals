@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26480",
+    "name": "Stammen",
+    "image": "images/david-rolo-stammen.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Looper",
+        "Reverb"
+    ],
+    "manufacturer": "David Rolo",
+    "current": "120 mA / 9 V / DC / Negative Center",
+    "cost": "$280 Price in €",
+    "width": 93,
+    "height": 114,
+    "details": "Micro looper / time stretcher / glitch delay / audio freeze / reverbFrom David Rolo:\nStamme[n] is a pedal that originated from an initial idea of Kent Sommer (aka UglyCasanova). He asked me if I could make him a pedal that would loop short samples but whose sample size could be set by tapping a tempo. From there the pedal went through many iterations and a few months later we had something that seemed like a useful tool. It was a fun project and I really want to thank Kent for his input, ideas and the nice chats.\nFrom the original tap tempo micro looper idea, it has evolved (now in it’s V3 iteration) into a micro looper / time stretcher / glitch delay / audio freeze / reverb\nhttps://www.drolofx.com/product/stammen/",
+    "hrid": "david-rolo-stammen"
+}

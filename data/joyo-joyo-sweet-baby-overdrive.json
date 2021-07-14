@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16616",
+    "name": "Joyo Sweet Baby Overdrive",
+    "image": "images/joyo-joyo-sweet-baby-overdrive.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Joyo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$30 Price in €",
+    "width": 62,
+    "height": 118,
+    "details": "The JOYO JF-36 Sweet Baby Overdrive is referred to as a dynamic overdrive. This Sweet Baby will push your clean channel into overdrive based on your picking dynamics while it will jolt your drive channel into a wonderful frenzy! The JF-36 offers Volume and Drive controls like most overdrives, but the Focus control is what separates this pedal from the pack. Heres where you can adjust the sensitivity to touch and playing dynamics for the tone you desire. \nhttps://www.amazon.com/Joyo-JF-36-Audio-Sweet-Baby/dp/B00HB2ZVRC",
+    "hrid": "joyo-joyo-sweet-baby-overdrive"
+}

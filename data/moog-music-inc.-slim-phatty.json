@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28979",
+    "name": "Slim Phatty",
+    "image": "images/moog-music-inc.-slim-phatty.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "100 mA / 120 V / AC",
+    "cost": "$649 Price in €",
+    "width": 432,
+    "height": 133,
+    "details": "Monophonic analog synthMonophonic analog synthesizer manufactured by Moog Music from 2011 - 2014. \nhttps://www.moogmusic.com/products/slim-phatty",
+    "hrid": "moog-music-inc.-slim-phatty"
+}

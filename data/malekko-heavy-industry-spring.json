@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19380",
+    "name": "Spring",
+    "image": "images/malekko-heavy-industry-spring.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Reverb"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 45,
+    "height": 95,
+    "details": "Omicron Series Spring Reverb Emulator PedalBack in the 2000’s, Malekko hatched an idea for a spring reverb pedal that was so radical, so risky, so dangerous, so goddamned crazy, that the so-called Powers That Be became too scared and tried to squash it, much like the eggless omelet. That pedal was the visionary Spring Chicken spring reverb emulator pedal, a pedal of great renown who’s short run was mourned by many.\nThe Spring Chicken’s demise was brought on by the release of the equally ground-breaking CHICKLET, a hatchling of supreme capabilities, combining small size, simple controls, and tons of sweet spring reverb dwell. Unfortunately, a meteorite caused the Chicklet’s extinction, and once again, reverb lovers were shell-shocked…\nOnly now, in the worst reverb drought of Malekko history, have the Fowl Gods allowed the re-birth of the mighty Malekko reverb to rise like the Phoenix and bless mankind with a new superlative mini spring reverb emulator pedal: SPRING.\nSPRING is our Oregon-built Chicklet successor, boasting a super small size, very low noise, and a near bottomless depth of spring reverb sound due to it’s dwell circuit. This tiny reverb pedal is an evolutionary strut in spring reverb emulation and sounds HUGE! All the great sound of a reverb tank in a small little pedal!\nhttps://malekkoheavyindustry.com/product/spring/",
+    "hrid": "malekko-heavy-industry-spring"
+}

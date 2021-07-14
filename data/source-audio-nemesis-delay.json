@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11417",
+    "name": "Nemesis Delay",
+    "image": "images/source-audio-nemesis-delay.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$334 Price in €",
+    "width": 114,
+    "height": 114,
+    "details": "Delay Pedal\nhttp://www.sourceaudio.net/products/one_series/nemesis_delay.php",
+    "hrid": "source-audio-nemesis-delay"
+}

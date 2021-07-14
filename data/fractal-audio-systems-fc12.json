@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23810",
+    "name": "FC12",
+    "image": "images/fractal-audio-systems-fc12.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "Fractal Audio Systems",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 512,
+    "height": 233,
+    "details": "Fractal Audio FC12 Foot Controller",
+    "hrid": "fractal-audio-systems-fc12"
+}

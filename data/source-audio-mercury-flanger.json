@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11713",
+    "name": "Mercury Flanger",
+    "image": "images/source-audio-mercury-flanger.jpg",
+    "function": [
+        "Flanger",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$144 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "",
+    "hrid": "source-audio-mercury-flanger"
+}

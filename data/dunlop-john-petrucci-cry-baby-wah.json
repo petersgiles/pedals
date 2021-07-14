@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11536",
+    "name": "John Petrucci Cry Baby Wah",
+    "image": "images/dunlop-john-petrucci-cry-baby-wah.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$290 Price in €",
+    "width": 100,
+    "height": 250,
+    "details": "",
+    "hrid": "dunlop-john-petrucci-cry-baby-wah"
+}

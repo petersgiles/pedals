@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16341",
+    "name": "Hotone Liftup Boost",
+    "image": "images/hotone-hotone-liftup-boost.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "The Hotone LIFTUP Clean Boost stompbox is the perfect way to raise your volume while maintaining the original sound of your guitar.\nUse the TONE control to shape your ideal clean boost, and try the WARM function button to further construct your own VOLUME UP solution.\nThis pedal was designed with two principles in mind: “Keep the signal super clean”, and “Lots of tone shaping capability”.\nIt can volume up the signal without any distortion: the secret weapon of getting a transparent tone with great dynamic expression.\nhttp://www.hotoneaudio.com/products/skyline/dynamic/10.html",
+    "hrid": "hotone-hotone-liftup-boost"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12066",
+    "name": "Miniswitch",
+    "image": "images/strymon-miniswitch.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Strymon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 51,
+    "height": 46,
+    "details": "Tap/Favorite/Boost SwitchWant to recall a preset of your Favorite settings on your Brigadier, Deco, DIG, El Capistan, Flint, Lex, or Riverside? Or remotely tap tempos for your BigSky, Deco, DIG, Flint, Mobius, or TimeLine? Or engage the Boost or Favorite on your Riverside? Add our tiny MiniSwitch and connect to your Strymon pedal with the included 1/4″ TRS cable.\nhttps://store.strymon.net/miniswitch-tap-favorite-boost-switch/",
+    "hrid": "strymon-miniswitch"
+}

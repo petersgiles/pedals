@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24217",
+    "name": "Hax2",
+    "image": "images/dwarfcraft-devices-hax2.jpg",
+    "function": [
+        "Filter",
+        "Ring Modulator"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Ring Mod / Envelop Follower / FilterHAX2 is lightyears beyond the circuit that inspired it. You now have the choice of a square or sine wave ring mod, allowing for classic sci-fi tones and jarring new textures. Both waveforms have an extremely broad frequency range, from subsonic tremolo to laser blaster highs or, with just the right blend settings, a warm chorus-like effect. An envelope follower can apply your right hand dynamics to the frequency of the ring mod for subtle to extreme shifts that react to the vibe of the song.\n​\nHAX2 also boasts afilter mode that has a high preset resonance for maximum harmonic content without self-oscillation, and it shares the envelope following capabilities of the ring mod. This feature will allow for exciting percussive sounds, funky wah-wahs and synth-like tone shaping.\nhttps://www.dwarfcraft.com/store/p124/HAX2.html#/",
+    "hrid": "dwarfcraft-devices-hax2"
+}

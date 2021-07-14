@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13199",
+    "name": "The Milkman",
+    "image": "images/jhs-the-milkman.jpg",
+    "function": [
+        "PreAmp",
+        "Delay"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 122,
+    "height": 66,
+    "details": "The Milkman is a collaborative idea between Josh Scott of JHS Pedals and Tim Marcus of Milkman Sound.The concept is simple: a single pedal that offers up an echo/slap delay and a boost that can also be used as an always-on enhancer. So here we are, an easy-to-use boost/echo 2-in-1 pedal with a small footprint that fits into any rig with ease. We’d love to go on and on about The Milkman, but its beauty is in its simplicity...and tone of course. If you play country, rockabilly, swing, surf, or any other style of good old American twang, you need a slap echo and you need a boost. You need The Milkman.\nJHS and Milkman Sound\nTim Marcus from Milkman Sound crafts some of our favorite amplifiers, is a good friend, and a killer pedal steel/Tele-type player. So when we found out he was looking for the perfect pedal for his brand of Americana picking, we jumped at the chance to make it for him. Here you go Tim!\n\nDelay tuned for slap-back junkies\nTransparent boost is great for getting above the mix or pushing an amp into overdrive\nCompact enclosure will sit comfortably on a cramped pedalboard\n\nYou’re gonna get slapped\nThe echo effect on this stomp is finely tuned to deliver a hybrid of tape and bucket brigade tone with the ability to easily dial in the exact settings you want. There are plenty of do-it-all delay pedals, but we don’t think any of them can out slap The Milkman.\n\nMaximum delay time of about 240ms makes dialing in the perfect slap much easier\nControls for Slap (time), Mix (delay level), Repeat (number of repeats), and EQ (tone of repeats)\nTuned to sound great on any setting\n\nAn addictive clean boost\nWe’re quite proud of our boosts around JHS. These simple, single-knob affairs can drive your rig into thick overdrive, punch you up above the band, or even massage your tone as an always-on preamp.\n\nDiscrete amplifier-based circuit with tons of power and character\nAt unity settings, it adds clarity and a 3D quality to your tone\nCan be used independent of the pedal’s echo effect\n\nThe Milkman uses standard 9v DC Negative power only.\nhttps://www.jhspedals.com/products/guitar-pedals/the-milkman/#!lightbox[8062]/0/",
+    "hrid": "jhs-the-milkman"
+}

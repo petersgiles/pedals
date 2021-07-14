@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15319",
+    "name": "MO-FM Fuzz Moo",
+    "image": "images/moen-mo-fm-fuzz-moo.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Moen",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 98,
+    "height": 142,
+    "details": "FuzzThe MOEN Fuzz Moo is a distortion/fuzz effect pedal that is capable of extremely long sustain. The smooth, fuzzy effect can be tweaked to achieve violin like sounds. \nThe FUZZ MOO supplies a sustain knob which allows the guitarist to adjust the length of a sustained sound. With a little adjusting on the box and your amp, you can get it to sing some sustain.\nThe tone knob on the pedal is a single band equalizer which allows the guitar player to adjust the tone of the sound to taste. It can sound sweet but it also gets very mean and can get away from you.\nSpecial tool-free battery cover design, very convenient for battery replacement.\nhttp://www.moenfx.com/fm.html",
+    "hrid": "moen-mo-fm-fuzz-moo"
+}

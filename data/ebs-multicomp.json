@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13891",
+    "name": "Multicomp",
+    "image": "images/ebs-multicomp.jpg",
+    "function": [
+        "Bass",
+        "Dynamics"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 115,
+    "details": "",
+    "hrid": "ebs-multicomp"
+}

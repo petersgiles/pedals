@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25154",
+    "name": "Aeros Loop Studio",
+    "image": "images/singular-sound-aeros-loop-studio.jpg",
+    "function": [
+        "Looper",
+        "MIDI",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Singular Sound",
+    "current": "360 mA / 9 V / DC / Negative Center",
+    "cost": "$599 Price in €",
+    "width": 198,
+    "height": 142,
+    "details": "6 Track, Stereo Looper Pedal with Touch Enabled ScreenThe Aeros Loop Studio includes 3 hours of mono recording time (1.5 stereo), upgradeable to 48 hours when using SD card\nOur looper pedal includes 2 x 1/4″ (6.35mm) inputs, 2 x 1/4″ (6.35mm) outputs, expression pedal support, MIDI in/out, 1/4″ (6.35mm) stereo aux input, and 1/4″ (6.35mm) stereo aux output.\nBuilt in WiFi and bluetooth for over the air updates, the Aeros Loop Studio offers a revolutionary looping experience\nhttps://singularsound.com/product/aeros-loop-studio/",
+    "hrid": "singular-sound-aeros-loop-studio"
+}

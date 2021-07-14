@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19554",
+    "name": "Pitchblack Mini White",
+    "image": "images/korg-pitchblack-mini-white.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$70 Price in €",
+    "width": 45,
+    "height": 93,
+    "details": "Mini Tuner Pedal\nhttps://www.korg.com/us/products/tuners/pitchblack_mini/",
+    "hrid": "korg-pitchblack-mini-white"
+}

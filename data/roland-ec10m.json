@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18237",
+    "name": "Ec10m",
+    "image": "images/roland-ec10m.jpg",
+    "function": [
+        "Drum"
+    ],
+    "manufacturer": "Roland",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$235 Price in €",
+    "width": 175,
+    "height": 135,
+    "details": "Cajon mic processor",
+    "hrid": "roland-ec10m"
+}

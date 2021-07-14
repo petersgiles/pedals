@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16581",
+    "name": "Minos Fuzz",
+    "image": "images/kma-audio-machines-minos-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "KMA Audio Machines",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 65,
+    "height": 112,
+    "details": "A modern take on the legendary Tonebender Mk.II Conqueror of old lands and cursed with the unholy horned bastard son, King Minos has returned, filled with anger to deliver those ancient tones of fuzz-history! The Minos is KMA Audio Machines’ modern approach to the old-fashioned and beloved three-stage germanium fuzz sound, derived from and inspired by the legendary Tonebender MKII and the unique, but now hard-to-find Superfuzz pedals.\nHowever, much more than just mere recreations of these classics, Minos is a versatile tool for many different styles of fuzz sounds and music. With the INPUT control, you can dial in the perfect amount of pre-gain and bass input. Turn it to the left and it gives you a gritty and crisp overdriven tone, which is perfect for garage and blues, while turning it in the other direction gives you a thick and woolly fuzz. Our attempt of the ‘Tonebender-ish’ style of pedal has a much broader range of gain structures though. Sweep through any shades of dirty tone, from raunchy low gain distortion to thick angry fuzz. Every combination of amp and instrument behaves differently, so to help tailor the pedal to your own rig, we added some additional tone-shaping controls. Tailor the bass response at the output with the three-way switch. This allows you to choose between lo-fi jangle, punchy low mid or a deep and boomy fuzz that will tear down everything! If it is all too shrill though, you can modify the high-end with the tone-cut, which tames the brightness on full gain. The overall character of the fuzz can be changed with two internal trim-pots which set the bias of the second and third transistor. Change that bias at your own risk though, as it may unleash the wrath of the Minotaur!\nPowered by an optional standard 9V DC (max.) PSU (negative center, 2.1mm, approx. 5mA current draw)\nEvery pedal is designed, assembled, silkscreened, tested and numbered by hand in our small workshop. We use doublesided PCBs which are designed, tested and assembled by ourselfs, to guarantee a high quality standard and keep the price of our pedals reasonable. The use of an indestructible powdercoated die-cast enclosure ensures a maximum durability.\nhttp://kma-machines.com/m_minos.html",
+    "hrid": "kma-audio-machines-minos-fuzz"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20536",
+    "name": "GT-1B Bass Effects Processor",
+    "image": "images/boss-gt-1b-bass-effects-processor.jpg",
+    "function": [
+        "Bass",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Boss",
+    "current": "200 mA / ? V / AC",
+    "cost": "$199 Price in €",
+    "width": 305,
+    "height": 152,
+    "details": "Bass Multi-Effects Pedal with MDP EffectsThe GT-1B gives bass players a massive range of pro tone-shaping power in a small and robust package. Backed by BOSS’s premium sound engine, you have full access to a huge selection of bass-optimized amps and effects for stage and studio playing. The streamlined interface lets you dial in sounds fast, while the onboard control switch and expression pedal enable you to adjust multiple effects in real time. And by connecting to BOSS TONE CENTRAL, you can download new patches, editing software, and more. Compact, rugged, and battery powered, the GT-1B is the ultimate mobile tone companion for every bassist.\nEquipped with a bass-tuned version of BOSS’s most advanced sound engine, the GT-1B is absolutely packed with top-quality sound tools. A wide range of preamps are available for shaping your core tone, including updated favorites from the GT-10B and two all-new models. Premium MDP effects like limiter and distortion feature advanced BOSS tech to maintain your instrument’s character and response, enabling free-flowing musical expression. Graphic EQ, T-Wah, and other essentials are on hand too, plus impact effects such as Harmonist, Bass Synth, Defretter, and more. There’s also a complete array of mod, delay, and reverb effects, and even a looper for jamming and on-the-fly creativity.\nThe GT-1B’s three footswitches are smartly designed to provide patch selection, tuner access, looper control, and more in a minimal footprint. The dedicated CTL1 switch is freely assignable to functions like tap tempo, effects on/off, and numerous others, while the expression pedal and toe switch are assignable to volume, wah, pitch shift, and various effects parameters. If you crave even more control, there’s a jack for connecting up to two external footswitches or an expression pedal. And in addition to providing access to BOSS Tone Central and BOSS Tone Studio, the GT-1B’s USB jack lets you record tones directly to your favorite DAW.\nThe GT-1B is designed for bassists on the move. It’s surprisingly lightweight and compact, making it ideal for tight stage setups and situations where you need to travel light. The rugged modern design is easy to slip in the accessory compartment of a bass bag, with no worries of hard edges causing damage to your instrument. AC or battery power provides flexibility for any performing situation, so you can always take your tone with you everywhere you play.\nhttps://www.boss.info/us/products/gt-1b/features/",
+    "hrid": "boss-gt-1b-bass-effects-processor"
+}

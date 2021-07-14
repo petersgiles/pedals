@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30685",
+    "name": "The WYE ABY Box",
+    "image": "images/outlaw-effects-the-wye-aby-box.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Outlaw Effects",
+    "current": "8 mA / 9 V / AC/DC",
+    "cost": "$42 Price in €",
+    "width": 45,
+    "height": 95,
+    "details": "ABY BoxVersatile, 2-way signal routing tool\nInstantly switch between two inputs or two outputs, or to use two inputs or two outputs simultaneously.\nFor example: alternate between two different amps or amp channels; or quickly switch between two guitars going into one amp.\nIn A or B Mode, the footswitch is used to select either Input/Output A or Input/Output B.  In Y (A+B) Mode, both Input/Output A and Input/Output B are in use simultaneously, and the footswitch is inactive.\nhttp://www.outlawguitareffects.com/pedals/the-wye",
+    "hrid": "outlaw-effects-the-wye-aby-box"
+}

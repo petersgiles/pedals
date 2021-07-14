@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12677",
+    "name": "Subdecay Starlight flanger",
+    "image": "images/sub-decay-subdecay-starlight-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 58,
+    "height": 112,
+    "details": "",
+    "hrid": "sub-decay-subdecay-starlight-flanger"
+}

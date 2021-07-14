@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11837",
+    "name": "PS-5",
+    "image": "images/boss-ps-5.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Super ShifterThe BOSS PS-5 Super Shifter is a next-generation intelligent pitch shifting pedal with killer sounds and BOSS first features. This single box provides pitch shifting, harmonies, detuning, and wild tremolo arm/flutter effects--all with simple, knob-based control.\nCompact pedal with high-quality pitch shifting, Harmonist and tremolo arm effects\n Intelligent, key-specific pitch shifting of single notes using simple Pitch and Key knobs with scale display\n Key Shift outputs continuous shifted tone for playing in different keys\n Detune effect provides slight shifting for \"fattening\" a guitar sound\n Tremolo Arm effect bends single notes up or down to a pre-selected value when pedal is activated; optional expression pedal can be connected for realtime control\n Flutter effect simulates fast or slow \"slap\" or \"slam\" of tremolo bar when pedal is depressed\n BOSS 5-year warranty\nSpecs:\nNominal Input Level: -20 dBu\nInput Impedance: 1 M ohms\nNominal Output Level: -20 dBu\nOutput Impedance: 1 k ohms\nDynamic Range: 115 dBu or greater (Direct), 98 dBu or greater (Effect)\nConnectors: (side-mount) INPUT Jack, OUTPUT Jack A (mono)/ B, EXP Jack, (top-mount) AC Adaptor Jack (9 V DC)\nPower Supply: 9 V DC: Dry Battery 9 V type (6F22/9 V), AC Adaptor\nAccessories: Dry Battery 9 V type (6F22/9 V)\nOption: AC Adaptor (PSA-Series), Expression Pedal (Roland EV-5)\nHeight: 59 mm: 2-3/8 inches\nWeight: 450 g: 0 lbs. 15 oz.\nhttps://www.boss.info/us/products/ps-5/",
+    "hrid": "boss-ps-5"
+}

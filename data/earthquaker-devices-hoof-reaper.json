@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12688",
+    "name": "Hoof Reaper",
+    "image": "images/earthquaker-devices-hoof-reaper.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$295 Price in €",
+    "width": 140,
+    "height": 114,
+    "details": "Fuzz",
+    "hrid": "earthquaker-devices-hoof-reaper"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19871",
+    "name": "Oblivion Vintage Delay",
+    "image": "images/alexander-oblivion-vintage-delay.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 127,
+    "height": 89,
+    "details": "Digital Delay Pedal",
+    "hrid": "alexander-oblivion-vintage-delay"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25620",
+    "name": "Shiba Drive Reloaded Mini",
+    "image": "images/suhr-shiba-drive-reloaded-mini.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Suhr",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 46,
+    "height": 98,
+    "details": "OverdriveShiba Drive Re|Loaded Overdrive Tone DNA\nCompact, Pedal Board Friendly Design\n2-Position Smooth Switch (Hi-Cut)\n Drive, Tone & Level Controls\nTrue Bypass\nOn/Off LED Status Indicator\nPowder Coated, Die-Cast Enclosure\nPowered by any 9V DC center negative power \nhttps://www.suhr.com/electronics/pedals/overdrive/suhr-shiba-mini/",
+    "hrid": "suhr-shiba-drive-reloaded-mini"
+}

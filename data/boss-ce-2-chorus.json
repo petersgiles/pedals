@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12993",
+    "name": "CE-2 Chorus",
+    "image": "images/boss-ce-2-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Boss",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Special edition Waza Craft pedal delivers the ultimate BOSS tone experience\nStandard mode provides a perfect reproduction of the legendary CE-2 sound\nCE-1 mode features chorus and vibrato, authentically reproducing the two stereo sound modes in the world’s first chorus pedal\nIncludes new sounds not available in the original pedals, including CE-2 stereo output and variable depth for CE-1 chorus sounds\nRate and Depth knobs provide fine sound adjustment in both pedal modes\nPremium all-analog circuitry with bucket-brigade (BBD) delay line\nMade in Japan to celebrate the 40th anniversary of BOSS effects\nBOSS five-year warranty\nhttps://www.boss.info/us/products/ce-2w/",
+    "hrid": "boss-ce-2-chorus"
+}

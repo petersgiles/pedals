@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29843",
+    "name": "Proctavia",
+    "image": "images/voodoo-lab-proctavia.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$135 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "Octave fuzz\nhttp://voodoolab.com/proctavia.htm",
+    "hrid": "voodoo-lab-proctavia"
+}

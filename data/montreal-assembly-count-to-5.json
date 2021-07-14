@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11740",
+    "name": "Count to 5",
+    "image": "images/montreal-assembly-count-to-5.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Sampling",
+        "Digital Glitch",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Montreal Assembly",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$260 Price in €",
+    "width": 63,
+    "height": 115,
+    "details": "Delay - Sampler The Montreal Assembly Count to Five Delay is an incredibly creative delay pedal that offers three distinct modes of operation covering a wide variety of effects. Mode one is a straightforward granular delay that offers expression pedal control of the 'tape' direction, buffer length or feedback. Mode two allows the sampling of a clip and control of granular slicing length and randomness, while Mode three allows looping sampled clips with as many as three digital 'tape heads' playing back the sampled sound. The ability to overdub more loops or samples in Mode two and three enables the creation of rolling, complex textures. An amazing sound design tool for indie leaning rock or pop, the Montreal Assembly Count to Five is a truly unique pedal that offers a wealth options to guitarists who value depth and originality in their pedals.\nhttp://mtlasm.blogspot.com.ar/p/count-to.html",
+    "hrid": "montreal-assembly-count-to-5"
+}

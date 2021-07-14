@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15962",
+    "name": "MF Boost V2",
+    "image": "images/moog-music-inc.-mf-boost-v2.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 83,
+    "height": 144,
+    "details": "Boost",
+    "hrid": "moog-music-inc.-mf-boost-v2"
+}

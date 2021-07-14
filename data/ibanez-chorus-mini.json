@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12751",
+    "name": "Chorus Mini",
+    "image": "images/ibanez-chorus-mini.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "",
+    "hrid": "ibanez-chorus-mini"
+}

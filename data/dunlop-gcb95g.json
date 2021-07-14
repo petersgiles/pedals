@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30652",
+    "name": "GCB95G",
+    "image": "images/dunlop-gcb95g.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 99,
+    "height": 245,
+    "details": "Cry Baby Wah, But GOLD\nhttps://reverb.com/p/dunlop-gcb95g-50th-anniversary-cry-baby-wah-2017",
+    "hrid": "dunlop-gcb95g"
+}

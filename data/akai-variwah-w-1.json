@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30743",
+    "name": "Variwah W-1",
+    "image": "images/akai-variwah-w-1.jpg",
+    "function": [
+        "Filter",
+        "Rotary",
+        "Wah"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / 9 V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 218,
+    "height": 218,
+    "details": "Wah Filter ThingyAkai's Variwah combines a traditional pedal wah, touch wah, and swell wah in one unit. Touch wah settings control the automatic wah each time a chord or note exceeds the touch sensitivity threshold. Simply by hitting a chord or note, the swell wah allows users to activate an oscillator, continuing the wah effect until the strings are muted. Variwah features a foot switch and assignable foot pedal which control many user defined settings. Regardless of wah mode, the foot pedal can be used to change wah speed or depth and can also be specifically assigned to change swell wah depth, swell wah speed, wah filter movement, and touch sensitivity.",
+    "hrid": "akai-variwah-w-1"
+}

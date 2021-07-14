@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26345",
+    "name": "Tube Zipper",
+    "image": "images/electro-harmonix-tube-zipper.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Tube"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "1000 mA / 12 V / AC",
+    "cost": "",
+    "width": 157,
+    "height": 270,
+    "details": "Auto-Filter and Tube distortionUnzip your soul! Just picture your guitar signal being massaged by a complex set of filters moving through a vacuum tube maze. Energized by two Electro-Harmonix 12AX7 tubes, the Tube Zipper's patented moving filter tastefully adds controlled analog harmonics to your signal. In typical EHX fashion, each control can be set over-the-edge, generating a host of novel tones. Tron or Trill a la mode!\nhttps://www.ehx.com/products/tube-zipper",
+    "hrid": "electro-harmonix-tube-zipper"
+}

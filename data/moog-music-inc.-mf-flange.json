@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11716",
+    "name": "MF Flange",
+    "image": "images/moog-music-inc.-mf-flange.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$245 Price in €",
+    "width": 83,
+    "height": 144,
+    "details": "",
+    "hrid": "moog-music-inc.-mf-flange"
+}

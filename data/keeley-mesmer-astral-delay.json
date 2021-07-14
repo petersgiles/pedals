@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15957",
+    "name": "Mesmer Astral delay",
+    "image": "images/keeley-mesmer-astral-delay.jpg",
+    "function": [
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Keeley",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 65,
+    "height": 121,
+    "details": "",
+    "hrid": "keeley-mesmer-astral-delay"
+}

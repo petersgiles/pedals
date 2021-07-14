@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24736",
+    "name": "UNITY Mk.II",
+    "image": "images/malekko-heavy-industry-unity-mk.ii.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 83,
+    "height": 140,
+    "details": "WOLFTONE ANALOG FUZZ COMPRESSOR PEDALUNITY is a multi-tap 2 transistor fuzz pedal fused with a compression section allowing maximum fuzztone flexibility and feel. From over-the-top fuzz mayhem to super buttery fuzz smoothness, the UNITY, like all WOLFTONE pedals, is extremely musical and very responsive to a player’s dynamics.\nhttps://malekkoheavyindustry.com/product/unity-mkii/",
+    "hrid": "malekko-heavy-industry-unity-mk.ii"
+}

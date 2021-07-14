@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13207",
+    "name": "Microtubes B7K Ultra",
+    "image": "images/darkglass-electronics-microtubes-b7k-ultra.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Equalizer"
+    ],
+    "manufacturer": "Darkglass Electronics",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$389 Price in €",
+    "width": 120,
+    "height": 107,
+    "details": "Overdrive/EQThe Microtubes B7K Ultra features all the versatility and sonic possibilities its predecessor is known for plus amazing features: (1) A dedicated Footswitch to engage the overdrive section independently. (2) A Master volume to control the overall unit level. (3) Three-way toggle switches for each mid control, with a total of 6 different mid frequencies at your disposal the B7K Ultra allows you to create and tailor your tone to perfection: From crisp, punchy clean preamp to obliterating high gain distortion, and everything in between. The B7K is a universal tone crafting machine.\nhttp://sxpro.co.uk/darkglass-b7k-ultra",
+    "hrid": "darkglass-electronics-microtubes-b7k-ultra"
+}

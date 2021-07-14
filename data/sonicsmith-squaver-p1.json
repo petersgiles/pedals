@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12718",
+    "name": "Squaver P1",
+    "image": "images/sonicsmith-squaver-p1.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice",
+        "Utility"
+    ],
+    "manufacturer": "Sonicsmith",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$365 Price in €",
+    "width": 190,
+    "height": 200,
+    "details": "Semi-modular, audio controlled analog synthesizerSemi-modular, audio controlled analog synthesizer.\nUsing our proprietary chip the Audio Controlled Oscillator already grants you many benefits, but when you add PWM, VCF, expression pedal inputs and foot-switches this analog synth turns into a performance craze.\nOffering one ACO with it's square and sawtooth waves mix, the Squaver P1 pulls the whole analog audio - synth - CV performance together. Along with two envelope followers that can be assigned to either the VCA, PWM or the VCF and still have all the important CV ins and outs on the front panel to create your own patches. \nThe input preamp is powerful and clean with +40dB gain to accommodate electric instruments as well as dynamic mics. Two input filters are used in cases help with pitch detection is needed: a switchable 2 pole HPF and our brand new patent pending auto-adjusting filter. The expression pedal input can be assigned to either the VCF cutoff frequency, octave CV or harmony CV via the Expression destination 4 position switch as well as to any other destination via it's dedicated \"Exp CV\" output. The ENV is generated from an ENV follower that can extract the dynamics from the main audio input and a second ENV follower extracts dynamics from the side-chain audio input. Both the main input and side has their thru jacks for chaining an infinite amount of synths together for a multi voice synth chain. An ENV amount knob can determine how much you want to mimic the input dynamics from 1:1 to a completely flat response or completely reverse the ENV. ACO CV inputs for octave and semitones are accessible via front panel knobs and stereo minijack for easy arpeggiation from external CV sources like analog sequencers and LFO's. Two foot-switches \"ACO CV In on\" and \"Side-chain on\" give you real-time control over activating the arpeggiation CV inputs and engaging the alternative ENV follower input instead of the main input's ENV.\nhttp://sonicsmith.com/products/squaver-p1/",
+    "hrid": "sonicsmith-squaver-p1"
+}

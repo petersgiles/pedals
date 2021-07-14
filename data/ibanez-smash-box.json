@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15502",
+    "name": "Smash Box",
+    "image": "images/ibanez-smash-box.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 75,
+    "height": 125,
+    "details": "Overdrive / distortion pedalOverdrive pedal with two-band EQ, waveshaping functions. Part of Ibanez's Tone-Lok series.",
+    "hrid": "ibanez-smash-box"
+}

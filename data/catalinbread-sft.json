@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15093",
+    "name": "SFT",
+    "image": "images/catalinbread-sft.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "Overdrive, Amp in a BoxThe Catalinbread SFT is an Ampeg voiced foundation overdrive that bridges the Stones and the Stoner eras.\nhttps://www.catalinbread.com/index.php?category=all&product=sft",
+    "hrid": "catalinbread-sft"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11797",
+    "name": "Contraband",
+    "image": "images/walrus-audio-contraband.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 59,
+    "height": 112,
+    "details": "Fuzz\nhttps://www.walrusaudio.com/collections/pedals/products/contraband-fuzz",
+    "hrid": "walrus-audio-contraband"
+}

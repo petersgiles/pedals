@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15501",
+    "name": "95000",
+    "image": "images/electro-harmonix-95000.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Looper",
+        "MIDI"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 320,
+    "height": 150,
+    "details": "Performance Loop LaboratoryThe 95000 Performance Loop Laboratory, the company’s most advanced looper to date, features six mono tracks and one stereo mixdown track per loop. It will record up to 375 minutes and 100 loops with a 16GB Micro SD card and switching between loops is quick and easy.\nThe 95000 is housed in a rugged, aluminum, all metal chassis with a control layout that has been optimized for use as both a tabletop and foot-pedal unit. This design ensures that the player can take maximum advantage of the looper’s powerful performance capabilities.\nThe 95000 also features a robust I/O including two audio inputs, each capable of handling a microphone (phantom power is included), instrument or unbalanced line input so the unit can readily connect to all sound sources. Left / right outputs, a Monitor out and a Headphone Out are included.\nQuick Specs\n\nImport / export .WAV files to MAC or PC via the built-in USB port\nTAP Button allows you to set loop BPM\nQuantize or non-quantize (free running) recording modes\nSpeed adjust over a 2-octave range\nOverdub or punch in / out recording\nReverse playback and recording\nLoop progress may be displayed in Bar/Beat format\nExpression pedal control over loop volume\nLeft/right outputs, Monitor Out, Headphone Output\nEHX 9.6DC-500 power supply included\nCurrent Draw: 400mA @ 9VDC\nDimensions in inches: 12.6(w) x 5.9(l) x 2.6(h)\nDimensions in mm: 320(w) x 150(l) x 66(h)\n\nhttps://www.ehx.com/products/95000",
+    "hrid": "electro-harmonix-95000"
+}

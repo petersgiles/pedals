@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23619",
+    "name": "Jekyll N Hyde",
+    "image": "images/retro-mechanical-labs-jekyll-n-hyde.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Retro Mechanical Labs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 189,
+    "height": 127,
+    "details": "Dual filter and distortionThe Jekyll n Hyde is a dual LP filter distortion box with enhanced resonant feedback. One Transistor ladder filter and one Diode ladder filter. The input can be linked to feed a mono signal into each filter creating a wide stereo effect. This sounds great with mono analog synths. Both filters have a pre drive/distortion, a post gain and germanium clipping. Each filter also has a slow drifting LFO for subtle modulation and CV ins for filter control.\nJnHwesiteCardThe filters can also be used separately for stereo processing.  Just unlink the inputs with the M/S toggle in the back. Depending on how you have it dialed in the you can create a very wide stereo field or a more natural one. Both filters have a different method of distortion in the pre-drive section. Jekyll is cleaner, Hyde can be made to be fully distorted.",
+    "hrid": "retro-mechanical-labs-jekyll-n-hyde"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12433",
+    "name": "Big Muff Pi",
+    "image": "images/electro-harmonix-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 140,
+    "height": 173,
+    "details": "FuzzThe NYC original. Hendrix and Santana were among the first to get a piece of the Pi, and for over 40 years the Big Muff Pi has been defining the sound of rock guitar. Revered by contemporary guitarists and rock legends for its rich, creamy, violin-like sustain, from Pink Floyd to The White Stripes, everyone still wants a piece of the Pi!",
+    "hrid": "electro-harmonix-big-muff-pi"
+}

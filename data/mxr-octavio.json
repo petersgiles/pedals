@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28571",
+    "name": "Octavio",
+    "image": "images/mxr-octavio.jpg",
+    "function": [
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$130 Price in €",
+    "width": 60,
+    "height": 110,
+    "details": "Octave fuzzExplore the furthest reaches of silicon saturation in a trusted vessel with the MXR Octavio Fuzz. Just set the Level and Fuzz controls to your desired volume and intensity, and allow your picking and plucking dynamics to coax out the pedal’s legendarily searing, synth-like tones.\nhttps://www.jimdunlop.com/mxr-octavio-fuzz/",
+    "hrid": "mxr-octavio"
+}

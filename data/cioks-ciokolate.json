@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16334",
+    "name": "CIOKOLATE",
+    "image": "images/cioks-ciokolate.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Cioks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$401 Price in €",
+    "width": 292,
+    "height": 98,
+    "details": "16-Outlet Professional Power Supply CIOKS was founded in year 1991 and the first product out was the Baby power supply. It was released for sale in August 1992. To mark our 20th anniversary we’ve made one of most powerful and versatile power supplies for effect pedals on the market – CIOKS CIOKOLATE.\nWith some additions and a slightly different design we’ve put the DC10 and AC10 power supplies in one box. Loads of power, almost endless compositions of different voltages and a great selection of included Flex cables make this power supply a really strong tool for powering big pedal boards with many different pedals.\nCIOKS CIOKOLATE power supply will power several high current digital pedals, high voltage 18, 24 or even 40V pedals, one or two AC pedals, one or two Radial Tonebone pedals or simulating a dying battery it will power your old favourite fuzz or overdrive. On top of all that it will of course also power all your standard 9V pedals from its many isolated outlets.\nOutlet 1: 4-15V DC / 100mA\nOutlet 2-4: 9V DC / 100mA each\nOutlet 5: 18 or 24V DC / 100mA\nOutlet 6-7: 9 or 12V DC / 200mA each\nOutlet 8-9: 9 or 12V DC / 400mA each\nOutlet 10-11: 9 and 12 or 15V DC / 400mA\nOutlet 12-13: 9 and 12 or 15V DC / 600mA*\nOutlet 14: 9 or 12V AC / 800mA*\nOutlet 15-16: 9, 12 or 16V AC / 800mA\n\nonly one of these two sections can be used\n\n16 outlets configured in 12 isolated sections\nTwo toroidal transformers with additional electromagnetic field shielding\n4 powerful DC sections, three with 400mA each and one with 600mA\n2 powerful AC sections with 800mA each and voltages 9, 12 and 16V AC\nTwo 15V outlets for Radial Tonebone pedals\nPossibility of 18 or 24V with 100mA from a single outlet\nOne outlet with adjustable voltage in the range 4-15V\nWill power a vintage 40V Electro-Harmonix pedal with Stack Flex (15V+24V)\nShort circuit protection of all outlets\nAdvanced LED monitoring of each isolated section\n120 or 230V mains voltage operation\nTotal of 24 Flex cables included\nSplit Flex for powering two pedals of one outlet included\n3-way daisy chain Flex powering 3 pedals of one outlet included\nTwo types of Stack Flex making a series connection (adding voltages of two outlets) included\nFlex cable for Electro-Harmonix vacuum tube pedals included\nCompatible with Pedaltrain and Temple Audio pedalboards\nTwo mounting brackets and all pedalboard mounting hardware included\nhttps://cioks.com/products/ciokolate",
+    "hrid": "cioks-ciokolate"
+}

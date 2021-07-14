@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13669",
+    "name": "Kommander",
+    "image": "images/koma-elektronik-kommander.jpg",
+    "function": [
+        "Controller"
+    ],
+    "manufacturer": "KOMA Elektronik",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$78 Price in €",
+    "width": 63,
+    "height": 12,
+    "details": "Optical controllerThe KOMMANDER is a handheld dual infrared X-Y motion controller that makes controlling your electronic instruments intuitive and fun. The device measures the distance to your hand or any other surface and sends out corresponding CV signals between 0 and 8 volts. The closer you have your hand to the KOMMANDER, the higher the output voltage. This will allow you to create complex synth sounds, trigger a drum machine, control your KOMA effect pedals or any other instrument that is capable of receiving CV / Gate signals.\nThe attenuators on the backpanel are connected to the CV outputs to allow the user to attenuate the maximum voltage output, so you can e.g. set the range from 0V to 5V instead of 0V to 8V. Just plug the KOMMANDER into your synthesizer and create!\nhttps://koma-elektronik.com/?product=kommander",
+    "hrid": "koma-elektronik-kommander"
+}

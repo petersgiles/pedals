@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11620",
+    "name": "OB.1",
+    "image": "images/strymon-ob.1.jpg",
+    "function": [
+        "Dynamics",
+        "PreAmp"
+    ],
+    "manufacturer": "Strymon",
+    "current": "25 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 102,
+    "height": 114,
+    "details": "Effects Pedal",
+    "hrid": "strymon-ob.1"
+}

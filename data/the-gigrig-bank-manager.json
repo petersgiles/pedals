@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13627",
+    "name": "Bank Manager",
+    "image": "images/the-gigrig-bank-manager.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$45 Price in €",
+    "width": 37,
+    "height": 45,
+    "details": "scroll through the 8 banks on your G2 with a footswitch\nhttps://shop.thegigrig.com/g2-bank-manager/",
+    "hrid": "the-gigrig-bank-manager"
+}

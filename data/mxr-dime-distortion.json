@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11818",
+    "name": "Dime Distortion",
+    "image": "images/mxr-dime-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$196 Price in €",
+    "width": 107,
+    "height": 92,
+    "details": "Effects Pedal",
+    "hrid": "mxr-dime-distortion"
+}

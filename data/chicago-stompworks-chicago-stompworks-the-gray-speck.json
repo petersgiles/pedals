@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12004",
+    "name": "Chicago Stompworks The Gray Speck",
+    "image": "images/chicago-stompworks-chicago-stompworks-the-gray-speck.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Chicago Stompworks",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "OD250™ GREY SPEC  CloneThe \"Gray Speck\" is a brand new, in stock, ready-to-ship DOD OD250 \"1979 gray spec\" clone overdrive pedal from boutique builder Chicago Stompworks. \n-handbuilt boutique quality throughout\n-true bypass, point-to-point wiring\n-best in class Neutrik brand jacks, Alpha brand pots\n-standard center negative \"Boss style\"9v jack or internal battery\nThe original circuit, reproduced here, is the favorite of Yngwie and many others - unleash the fury with this classic boost!\nhttp://www.chicagostompworks.com/store/p5/Gray_Speck_OD250_grey_spec_clone_.html",
+    "hrid": "chicago-stompworks-chicago-stompworks-the-gray-speck"
+}

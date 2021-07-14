@@ -1,0 +1,21 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29010",
+    "name": "Coriolis Effect",
+    "image": "images/catalinbread-coriolis-effect.jpg",
+    "function": [
+        "Delay",
+        "Digital Glitch",
+        "Distortion",
+        "Expression",
+        "Filter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$230 Price in €",
+    "width": 125,
+    "height": 100,
+    "details": "Sustainer, Wah, Filter, Pitch Shifter, and HarmonizerThe Coriolis Effect is a phenomenon in classical mechanics where a trajectory becomes altered due to a rotating frame of reference. The Catalinbread Coriolis Effect has three main parameters to change the equations of motion for your guitar signal. Turning down the Velocity and Acceleration controls drags your playing into the heart of a black hole, redshifting your tone into a lower pitch and filtering out the high frequencies. The Hold button will instantly pull you into the black hole stopping time completely. Plug in and explore where humanity has never shredded before! In short: Think of the Coriolis Effect as a sustainer, wah, filter, pitch shifter, and harmonizer rolled into one—the sonic possibilities are endless!\nhttps://catalinbread.com/products/coriolis-effect",
+    "hrid": "catalinbread-coriolis-effect"
+}

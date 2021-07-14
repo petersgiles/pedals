@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31927",
+    "name": "HD PITCH NTU-2",
+    "image": "images/nux-hd-pitch-ntu-2.jpg",
+    "function": [
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Nux",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$55 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "Pedal tuner with buffer\nhttps://www.nuxefx.com/hd-pitch.html",
+    "hrid": "nux-hd-pitch-ntu-2"
+}

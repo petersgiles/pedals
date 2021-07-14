@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17301",
+    "name": "The Alchemist",
+    "image": "images/matthews-effects-the-alchemist.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Utility"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 39,
+    "height": 92,
+    "details": "",
+    "hrid": "matthews-effects-the-alchemist"
+}

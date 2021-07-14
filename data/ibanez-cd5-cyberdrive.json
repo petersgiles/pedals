@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33461",
+    "name": "CD5 Cyberdrive",
+    "image": "images/ibanez-cd5-cyberdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$27 Price in €",
+    "width": 70,
+    "height": 120,
+    "details": "https://www.noisefx.com/product_details/ibanez_cyberdrive_cd5_fx0385",
+    "hrid": "ibanez-cd5-cyberdrive"
+}

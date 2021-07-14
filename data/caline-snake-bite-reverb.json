@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16684",
+    "name": "Snake Bite Reverb",
+    "image": "images/caline-snake-bite-reverb.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Caline",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 64,
+    "height": 112,
+    "details": "Reverb pedals can be very expensive. This is one of the best value reverb (not just slap back delay) pedals on the market. It provides a range of excellent useable reverb tones. Comes in a durable metal enclosure and is true bypass.\nThe controls have the following functions:\nRES - Think of this control as how big the room is that the echo is in.\nCFR - A tone control.\nLPF - Adds warmth to the effect.\nPRD - Sets delay time.\nMIX - Sets the amount of reverb.\nDECAY - Sets the length of reverb.\nFeatures:\n1. Power Requirement: 9V DC center negative\n2. Current consumption: 50mA\n3. Product Dimensions: 11.2x6.4x3.4cm\n4. Weight:0.23kgs\nhttps://www.amazon.co.uk/Caline-CP-26-Snake-Reverb-Pedal/dp/B00SV12BO8",
+    "hrid": "caline-snake-bite-reverb"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16999",
+    "name": "Tremolessence",
+    "image": "images/dr-scientist-tremolessence.jpg",
+    "function": [
+        "Dual/Stereo",
+        "Tremolo"
+    ],
+    "manufacturer": "Dr Scientist",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 69,
+    "height": 119,
+    "details": "",
+    "hrid": "dr-scientist-tremolessence"
+}

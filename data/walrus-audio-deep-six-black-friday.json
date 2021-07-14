@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17415",
+    "name": "Deep Six Black Friday",
+    "image": "images/walrus-audio-deep-six-black-friday.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Walrus Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 66,
+    "height": 121,
+    "details": "Compressor",
+    "hrid": "walrus-audio-deep-six-black-friday"
+}

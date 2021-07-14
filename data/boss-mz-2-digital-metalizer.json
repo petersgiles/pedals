@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12884",
+    "name": "MZ-2 Digital Metalizer",
+    "image": "images/boss-mz-2-digital-metalizer.jpg",
+    "function": [
+        "Digital",
+        "Distortion"
+    ],
+    "manufacturer": "Boss",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$95 Price in €",
+    "width": 91,
+    "height": 141,
+    "details": "The MZ-2 is a somewhat unusual distortion pedal as it has 3 doubling modes, 2 chorus modes as well as a normal distortion mode. The distortion is produced in an analog circuit while the chorus and delay functions are created using a digital chip. The pedal has 2 main circuit boards where one of them is analog and the other one digital. The MZ-2 has stereo outputs which is unusual for a distortion pedal but makes perfect sense because of the doubling modes.\nThe MZ-2 has 6 different modes. Straight distortion, distortion/delay (3 modes) and distortion/chorus (2 modes). The MZ-2 remained unchanged throughout its 4 year life time. Production came to an end some time 1991 but the pedal was still marketed for another year.\nSpecifications\nControls: Level, Tone, Drive, 6-way Mode switch\nConnectors: Input, Output A, Output B, AC Adaptor\nCurrent Draw: 70 mA (DC 9V)\nWeight: 450g/0.99 lbs.\nInput Impedance: 1Mohm\nEquivalent Input Noise: -120 dBm (IHF-A)\nRecommended Load Impedance: 10kOhm or greater\nRecommended AC Adaptor: PSA Series\nLabels\nBlue – Made In Japan\nThe MZ-2 was sold from December 1987 to August 1992.\nhttp://www.bossarea.com/boss-mz-2-metalizer/",
+    "hrid": "boss-mz-2-digital-metalizer"
+}

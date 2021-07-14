@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17550",
+    "name": "Panther Cub V2",
+    "image": "images/jhs-panther-cub-v2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$299 Price in €",
+    "width": 66,
+    "height": 117,
+    "details": "Analog Delay100% Analog Bucket Brigade Technology\nThe Panther Cub V2 is voiced to deliver the dark and chewy repeats that analog delay fans clamor for. The Panther Cub offers you 1,000ms (one full second) of delay time! Bring in beautiful, ambient modulation with the pedal's modulation controls.\n\n1,000ms of Delay (1 full second)\nFour 3205 Bucket Brigade Delay chips\nOnboard Modulation that stays accurate even when using Tap Tempo\n\nExtensive Onboard Control\nThanks to its groundbreaking feature set, the Panther Cub Delay has been one of our most intriguing pedals to date. It's not often you find an all-analog delay with onboard tap tempo and a 4-section RATIO control with settings for quarter, dotted-eighth, eighth, and triplet divisions. In fact, our original Panther Delay was the first to do it in 2011!\n\nSoft-touch Tap Tempo switch\n4-position RATIO control (1/4, 1/8, dotted 1/8, Triplets)\nTrue Speed LED (indicates rate of actual delay)\n\nExternal Tone-shaping Power\nThe Panther Cub's control and tweakability extend further than what you'll find onboard.  An expression pedal input can be assigned to change many of the pedal's settings on the fly. And you even have the opportunity to externally control your tap tempo and tap slave the Panther Cub to your other time-based pedals.\n\nDry Out (via TRS splitter) for stereo field of sound\nAssignable Expression (control Time, Ratio, Modulation)\nTap Input/Output allows external tap controller or tap slaving\n\nAdditional Panther Cub Benefits:\n\nEven smaller Pedalboard-friendly size\nSpace-saving top-mounted Input/Output jacks\nTrue Bypass Switching\nStandard 9V DC negative power\n\n100% Designed, Populated, and Assembled in Kansas City USA\nhttps://www.jhspedals.com/products/guitar-pedals/panther-cub-v2/",
+    "hrid": "jhs-panther-cub-v2"
+}

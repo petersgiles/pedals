@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12735",
+    "name": "US600 Ultra Shifter/Harmonist",
+    "image": "images/behringer-us600-ultra-shifterharmonist.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$45 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "The ultimate Pitch Shifter/Harmonist to shift single notes and chords or even create intelligent harmonies to your notes?at the touch of a footswitch\nReal Sound Modeling (RSM) combines state-of-the-art DSP technology with sophisticated algorithms to emulate real acoustic environments\nTake off with incredible Tremolo Arm/Flutter effects to bend single notes up to +/-2 octaves or simulate the movement of the tremolo bar\nDedicated Mode, Pitch, HR Key, Delay time/speed and Balance controls for awesome sound shaping\nStatus LED for effect on/off and battery check\nRuns on 9 V battery or the Behringer PSU-SB DC power supply (not included)\nFirst-class electronic On/Off switch for highest signal integrity in bypass mode\nhttps://www.behringer.com/product.html?modelCode=P0532",
+    "hrid": "behringer-us600-ultra-shifterharmonist"
+}

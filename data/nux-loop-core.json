@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13240",
+    "name": "Loop Core",
+    "image": "images/nux-loop-core.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$90 Price in €",
+    "width": 64,
+    "height": 122,
+    "details": "Looper pedal, a cheaper BOSS RC-3Turbo-charged version of our original, and now, the most versatile Looper available! Sure, we covered all the basics in a Looper that allows you to record and play back multiple layers, but now we've added a whole new level of goodies.  Featuring 40 built-in drum patterns and 99 Personal-User memories--and now, a whole new array of carefully thought-out user assists.  Whether you practice, compose, or play live gigs, you’ll be inspired by the ground-breaking features of the all new NUX Loop Core!\nhttp://www.nuxefx.com/show-49-18-1.html",
+    "hrid": "nux-loop-core"
+}

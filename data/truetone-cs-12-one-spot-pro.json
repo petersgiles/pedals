@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12164",
+    "name": "CS-12 One Spot Pro",
+    "image": "images/truetone-cs-12-one-spot-pro.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 206,
+    "height": 86,
+    "details": "12 fully isolated outputs\n5 voltage options provide power for virtually any effect pedal\nVariable 4-9Vdc, 12 Vdc, 18 Vdc, 9Vdc and 9Vac\nDesigned with cutting-edge technology, not just transformers\nNoiseless operation with far more power\nIncludes brackets for mounting under Pedaltrain® pedalboards\nCables and converter plugs included\nSwitchable Worldwide Input Voltage\nhttp://truetone.com/power-supplies/1-spot-pro/1-spot-pro-c12zzz/",
+    "hrid": "truetone-cs-12-one-spot-pro"
+}

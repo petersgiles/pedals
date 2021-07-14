@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27604",
+    "name": "3699 Fuzz",
+    "image": "images/danelectro-3699-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Danelectro",
+    "current": "9 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 59,
+    "height": 111,
+    "details": "Fuzz / Octaver Pedal with Mid-BoostDanelectro® owner Steve Ridinger created the FOXX® pedal line in the 1970’s. Steve priced the FOXX® Tone Machine® at $49. Today originals sell for $600+. Now Steve brings back his original circuit with some important tweaks. He made the ­octave way more ­pronounced, the ­octave is foot switchable, the tone is warmer, and there is a “mids boost” toggle that counteracts the mid cut of the ­original pedal. Velvet tone for sure! Play one! \nhttps://danelectro.com/pedals/3699-fuzz/",
+    "hrid": "danelectro-3699-fuzz"
+}

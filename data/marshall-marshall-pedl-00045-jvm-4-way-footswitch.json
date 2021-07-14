@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17661",
+    "name": "Marshall PEDL-00045 JVM 4 Way Footswitch",
+    "image": "images/marshall-marshall-pedl-00045-jvm-4-way-footswitch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$75 Price in €",
+    "width": 275,
+    "height": 110,
+    "details": "4 Way Switch designed for use with the Marshall JVM Series of Heads and CombosMarshall JVM 4 Way Foot Controller is a four way programmable footswitch with Memory. Authorized Marshall controller for the JVM Series. Blank areas above switches can be tailored to your preferences. These use a simple 1/4\" plug. Can work with other Marshall series but check first.\nhttps://www.gear4music.com/us/en/Guitar-and-Bass/Marshall-PEDL-00045-JVM-4-Way-Footswitch/MJN",
+    "hrid": "marshall-marshall-pedl-00045-jvm-4-way-footswitch"
+}

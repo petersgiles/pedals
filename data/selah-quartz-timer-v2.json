@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17533",
+    "name": "Quartz Timer V2",
+    "image": "images/selah-quartz-timer-v2.jpg",
+    "function": [
+        "MIDI",
+        "Switch"
+    ],
+    "manufacturer": "Selah",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 66,
+    "height": 122,
+    "details": "MIDI Clock / Tap Tempo\nhttp://www.selaheffects.com/product/quartz-timer-v2/",
+    "hrid": "selah-quartz-timer-v2"
+}

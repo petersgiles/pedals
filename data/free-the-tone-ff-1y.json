@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20743",
+    "name": "FF-1Y",
+    "image": "images/free-the-tone-ff-1y.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$420 Price in €",
+    "width": 145,
+    "height": 120,
+    "details": "Phase Modulation Delay“Creation of a new sound” ― this was the motto for the development of FREE THE TONE “FUTURE FACTORY” FF-1Y. Many digital delay units that implement a modulation function have been introduced to date. In general, the phase of a low frequency oscillator (LFO) used in these modulation circuits changes regularly at a preset cycle. However in our “FUTURE FACTORY,” we succeeded in creating a new modulation sound with a unique method in which signal’s phase changes at random when the signal crosses a certain attenuation level. This creates an unprecedented effect in which a fluctuating spacious sound seems to float in the air. (This function works best when used in Stereo mode.) \nhttp://www.freethetone.com/en/products/effects/ff1y.html",
+    "hrid": "free-the-tone-ff-1y"
+}

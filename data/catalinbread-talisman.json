@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23574",
+    "name": "Talisman",
+    "image": "images/catalinbread-talisman.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "62 mA / 9 V / DC / Negative Center",
+    "cost": "$220 Price in €",
+    "width": 70,
+    "height": 127,
+    "details": "Plate Reverb Pedal with Key Sidechain EffectsCatalinbread takes an extremely thorough, thoughtful approach to every pedal they make. Case in point: the Catalinbread Talisman Plate Reverb Pedal. The Talisman reproduces the lush, natural-sounding magic of a 7' x 4' vintage plate reverb in a tour-friendly pedal format. To do so faithfully, Catalinbread included the studio-style side-chain effects that made the original units so useful and natural-sounding. The Talisman can be powered by any good-quality 9V–18V DC power supply (not included), and it features Highpass, Time, Pre Delay, Mix, and Volume controls, all supported by a tough metal chassis and a rugged footswitch that are ready for the road.\nhttps://catalinbread.com/products/talisman",
+    "hrid": "catalinbread-talisman"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31821",
+    "name": "acidbox 3",
+    "image": "images/erica-synths-acidbox-3.jpg",
+    "function": [
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Erica Synths",
+    "current": "? mA / 12 V / DC / Positive Center",
+    "cost": "$469 Price in €",
+    "width": 185,
+    "height": 140,
+    "details": "Desktop Polivoks FilterPolivoks core stereo lowpass/bandpass VCF with the original programmable op-amps\n    Unique audio overdrive circuit\n    Versatile syncable LFO with 8 waveforms\n    Tap tempo button\n    Envelope follower with modulation level attenuverter\n    Master modulation control\n    Manual and CV control over cutoff frequency\n    Configurable control input for footswitch, expression pedal and external LFO/cutoff control\n    Adjustable input gain \nThe Acidbox III has adjustable input gain, therefore it works with various sound sources – guitars, units with line level signals (synthesizers, grooveboxes, etc.) and modular synths. Configurable control input allows you to connect a bypass footswitch, expression pedal, external cutoff control voltage source and LFO synchronization trigger. This makes the Acidbox an ideal companion in almost every production or live performance setup.\nhttps://www.ericasynths.lv/shop/standalone-instruments-1/acidbox-iii/",
+    "hrid": "erica-synths-acidbox-3"
+}

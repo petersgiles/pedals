@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23353",
+    "name": "5 Looper w/Tuner Out & Master Bypass",
+    "image": "images/loop-master-5-looper-wtuner-out-&-master-bypass.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Loop-Master",
+    "current": "4 mA / 9 V / DC / Negative Center",
+    "cost": "$165 Price in €",
+    "width": 406,
+    "height": 56,
+    "details": "5 Looper w/Tuner Out & Master BypassTurn on multiple effects with one click. (See below)\nUse as a simple interface for activating back row effects on the front row of your pedalboard.\nAdd true bypass capABility to any effect and eliminate tone-sucking effects from your signal path. When you want them off, they'll be COMPLETELY off. (each loop grounds out the send for zero bleedover)\nUse for effects that do not have on/off switches.\nChain (1) or more effects per loop. \"Send\" on the loop-Master connects to the \"In\" on your effect and \"Receive\" on the loop-Master connects to the \"Out\" on your effect. Leave the effect \"on\" at all times but turn it on and off via the loop-Master switch.\nIf chaining multiple effects per loop, connect them all together using patch cABles and the input of the first effect in that chain will connect to the loop-Master \"Send\" and the output in the last effect in that chain will connect to the loop-Master \"Receive\". This will allow you to turn on multiple effects with one click. The upside to using an effect loop Switcher like this is just that, you can turn on/off multiple effects with one click. The downside to this is, is that each effect won't be assigned it's own switch so choose accordingly. We have many models.\nOn models with the \"Tuner\" switch (*see models with the tuner out), plug your tuner into the \"Tuner\" jack and tune silently at anytime.\nOn models with the \"Bypass\" switch (*see models with the master bypass switch), bypass all your loops with one switch no matter how many loops are on. This switch can also be used as a pre-select switch too. Turn the bypass \"on\" and turn the loop(s) of your choice on and then deselect the master bypass and boom!\nModels with LED's use Boss/Ibanez style 9v 2.mm barrel-style adapter for LED power only. Will work without power minus LED indication. Our LED circuits does not screw with your tone.\nAnd also only on models with LED's, you can choose any led colors you like but you MUST list them in the comments box of checkout when placing the order. Choose and assign where you want them. I have amber, blue, green, red, yellow, and white leds. If you don't assign these or list them, we will mix them for you.\nhttps://www.loop-master.com/looper-wtuner-master-bypass-p-131.html",
+    "hrid": "loop-master-5-looper-wtuner-out-&-master-bypass"
+}

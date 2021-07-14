@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31059",
+    "name": "Gate of Kahn",
+    "image": "images/joyo-gate-of-kahn.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Joyo",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$65 Price in €",
+    "width": 38,
+    "height": 73,
+    "details": "Noise gateWith just one simple 'threshold' control this pedal makes it exquisitely easy to get rid of all that unwanted noise from your signal chain.\nAdjust it so that when you play a note or chord with it on it is the same volume level as when it is off. In the unlikely event that you're still getting more noise than you want then ever so slightly increase the threshold control but remember a little adjustment goes a long way!!!\nInput Impedance: 1M Ω\n    Output Impedance: 100 Ω\n    Running Current: 20mA\n    Power: DC 9V centre - \n    Dimension(mm):73x43x50\n    Weight: 220g\nhttps://www.joyoaudio.co.uk/joyo-jf-324-gate-of-kahn-noise-gate-ironman-mini-guitar-effects-pedal",
+    "hrid": "joyo-gate-of-kahn"
+}

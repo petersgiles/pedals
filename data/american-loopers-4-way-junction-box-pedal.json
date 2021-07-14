@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33132",
+    "name": "4 Way Junction Box Pedal",
+    "image": "images/american-loopers-4-way-junction-box-pedal.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "American Loopers",
+    "current": "Pedal is passive",
+    "cost": "",
+    "width": 64,
+    "height": 115,
+    "details": "4 Way Junction Box Pedal",
+    "hrid": "american-loopers-4-way-junction-box-pedal"
+}

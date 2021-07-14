@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12261",
+    "name": "Downward Spiral",
+    "image": "images/mr.-black-downward-spiral.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$180 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "Modulated Analog DelayOnly in dreams...\nThe fall lasts forever and the bottom never comes.  This is not a normal sound.  Spinning down into the abyss the echoes of infinity are reborn anew and the cycle becomes:  the Downward Spiral.  \nhttps://www.mrblackpedals.com/products/downward-spiral",
+    "hrid": "mr.-black-downward-spiral"
+}

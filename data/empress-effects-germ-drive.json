@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26301",
+    "name": "Germ Drive",
+    "image": "images/empress-effects-germ-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "OverdriveTrue to the tweed tube amps of the 50’s, the germ drive delivers warm, harmonically rich overdrive that cleans up with a twist of your volume knob. Its tube-like break-up sounds extremely natural and will enhance your sound without masking the original tone of your instrument.\nThis true bypass overdrive offers gain control, two bands of EQ and output control to fully tweak your sound.\nhttps://empresseffects.com/products/germ-drive",
+    "hrid": "empress-effects-germ-drive"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32488",
+    "name": "AM-VB Jimi Nova",
+    "image": "images/moen-am-vb-jimi-nova.jpg",
+    "function": [
+        "Chorus",
+        "Phase Shifter",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Moen",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 64,
+    "height": 115,
+    "details": "Chorus/UnivibeDunlop Uni-Vibe clone.",
+    "hrid": "moen-am-vb-jimi-nova"
+}

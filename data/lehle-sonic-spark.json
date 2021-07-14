@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19900",
+    "name": "sonic spark",
+    "image": "images/lehle-sonic-spark.jpg",
+    "function": [
+        "Bass",
+        "PreAmp"
+    ],
+    "manufacturer": "Lehle",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 60,
+    "height": 145,
+    "details": "harmonic generator",
+    "hrid": "lehle-sonic-spark"
+}

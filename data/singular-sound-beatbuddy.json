@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16298",
+    "name": "Beatbuddy",
+    "image": "images/singular-sound-beatbuddy.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Singular Sound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$380 Price in €",
+    "width": 86,
+    "height": 127,
+    "details": "",
+    "hrid": "singular-sound-beatbuddy"
+}

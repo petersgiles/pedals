@@ -1,0 +1,14 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14542",
+    "name": "1590G",
+    "image": "images/hammond-manufacturing-1590g.jpg",
+    "function": [],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$6 Price in €",
+    "width": 50,
+    "height": 100,
+    "details": "DIY Enclosure\nhttps://guitarpedalparts.com/product/1590g-enclosure/",
+    "hrid": "hammond-manufacturing-1590g"
+}

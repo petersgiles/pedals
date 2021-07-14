@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32799",
+    "name": "TremCoder",
+    "image": "images/sub-decay-tremcoder.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 66,
+    "height": 120,
+    "details": "Tremolo / sequencerThe TremCoder gives you options but won’t require a masters degree in modular synth madness to operate. A variety of LFOs drive a stereo tremolo/panner and lock into your groove with tap tap tempo.\nBut wait, where’s the tap tempo switch? External input? Nope. You just tap the bypass switch twice and the tremolo starts on the following beat. Tap up to five times for greater accuracy. When tapping stops the effect turns on like magic. After two seconds simply press the switch once to turn the effect off.\nControls:\nDepth: Controls the effect depth.\nSpeed: Selects ratio for tap tempo in LFO modes. Selects sequences in sequence modes.\nShape: There are 9 LFO shapes and 2 sequence banks\nShort Pulse: Shorter on time than a square wave. 33% on time.\nSquare: Same as Pulse but on 50% of the time.\nLong Pulse: longer time than a square wave. 75% on time.\nSine wave: The classic modulation waveform for a tremolo effect.\nTriangle: Similar to the sinewave. Less “throb” or “bounce.” Especially useful for a wide panning effect.\nRamp / Saw: It’s like half triangle and half square.\n8 Step / 16 Step: These are similar to sequences, but particularly useful for panning.\nSequences: Individual sequences are set by the speed knob and all have fixed ratios.\nBank A: 1-3 are simple LFOs modulated by another LFO. For example Bank A Seq. 1 is a sine wave with the amplitude modulated by a slower triangle wave. This makes the tremolo effect fade in and out over four beats. A5 – A11 are simple rhythmic patterns. A10 and A11 are timed with triplets.\nBank B: All 32 step rhythmic patterns that repeat over a four beat measure. Unlike Bank A, these are not depicted on the pedal. (See the Sequence B drawing.)\nhttps://subdecay.com/effect/tremcoder-tremolo-sequencer",
+    "hrid": "sub-decay-tremcoder"
+}

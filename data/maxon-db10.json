@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19197",
+    "name": "DB10",
+    "image": "images/maxon-db10.jpg",
+    "function": [
+        "PreAmp",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Maxon",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 70,
+    "height": 113,
+    "details": "Dual Booster",
+    "hrid": "maxon-db10"
+}

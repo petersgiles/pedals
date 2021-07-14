@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18982",
+    "name": "RP-355",
+    "image": "images/digitech-rp-355.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 445,
+    "height": 222,
+    "details": "Guitar Multi-EffectsThe RP355 guitar multi-effect processor gives you 126 amps, cabinets, stompboxes, and effects allowing you to get virtually any sound you want, just like the pros. With USB streaming audio and Cubase LE4, the RP355 allows you to easily record directly to your computer with sounds so good people will think that your song was recorded in a major studio.\nNo compromises.\nhttps://digitech.com/en-US/products/rp355",
+    "hrid": "digitech-rp-355"
+}

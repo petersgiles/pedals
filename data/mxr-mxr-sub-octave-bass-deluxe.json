@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22402",
+    "name": "MXR Sub Octave Bass Deluxe",
+    "image": "images/mxr-mxr-sub-octave-bass-deluxe.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$274 Price in €",
+    "width": 124,
+    "height": 92,
+    "details": "Bass Octave Fuzz",
+    "hrid": "mxr-mxr-sub-octave-bass-deluxe"
+}

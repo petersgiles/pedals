@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13242",
+    "name": "Black Fountain V2",
+    "image": "images/old-blood-noise-black-fountain-v2.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Old Blood Noise",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 67,
+    "height": 121,
+    "details": "The Black Fountain reflects back to the days before digital delay, emulating the sounds of the famed and elusive \"oil can delay\" units.  These units emphasized a chorus-like modulation on the repeats of the effect signal as well as a beautiful and warm repeat cycle.  \nThe Modern mode emulates the classic long delay \"oil can\" units such as the Morley EDL, Tel-Ray Model 10 and Fender Echo-Reverb. The Time and Repeat controls mimic the functions of the vintage units, while the Fluid control introduces modulation based on the characteristic \"wobble\" of the electrostatic delay platter.  The Vintage mode is similar in function to the Modern mode, but has a grittier and gainier feel to the repeats.  Both the Modern and Vintage mode have a delay time of 800 milliseconds.\nThe Organ Tone mode is based on the Tel-Ray Deluxe Organ Tone, Fender Dimension IV and other short-delay \"oil can\" units.  The vintage units had a fixed delay time of approximately 20 milliseconds, which is implemented here, but the Black Fountain goes above and beyond the original units by incorporating variable Rate and Depth controls for the modulation effect. In addition, the Mix control is capable of dialing a 100% wet signal so a vibrato effect may be produced. The Organ Tone mode also features a simple reverb that mimics the single-spring tank in the original Deluxe Organ Tone effect.  The Organ Tone mode has a delay time of 211 milliseconds.\nThe Black Fountain now features an expression out jack and clickless switching.  The output level can be tweaked via an internal trimpot for boost, slight drop, or unity gain.",
+    "hrid": "old-blood-noise-black-fountain-v2"
+}

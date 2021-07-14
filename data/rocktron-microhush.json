@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25271",
+    "name": "MicroHUSH",
+    "image": "images/rocktron-microhush.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "15 mA / 9 V / DC / Negative Center",
+    "cost": "$119 Price in €",
+    "width": 54,
+    "height": 92,
+    "details": "Noise reduction in a micro chassisWith pedal board space at a premium these days, and smaller pedals in demand, Rocktron is pleased to provide the MicroHUSH to wipe out hiss, unwanted feedback and pickup buzz by providing up to 65dB of signal cleanup, while maintaining your music signal integrity. Guitar Player Magazine wrote that a \"HUSH pedal will work for all guitar-related noise problems: it's perfect\" and \"its potent noise-killing abilities will be fully appreciated.\"\nRocktron's MicroHUSH pedal is built into a compact yet rugged chassis, minimizing the footprint it has on your pedal board. The MicroHUSH is a TRUE BYPASS pedal; when you turn it off, it is out of your signal path!\nPlug the MicroHUSH in AFTER distortion boxes, wahs, noisy vintage effects, or other noisy units and turn the THRESHOLD control knob until the noise goes away. It's that easy! Unlike noise \"gates\" that chop off the end of your notes, or ruin your sustain, the MicroHUSH (and other Rocktron HUSH products) are actually a form of single-ended noise reduction that tracks your signal all the way and pushes the noise floor down below the point where your ear can hear the noise. The MicroHUSH will not alter your sustain or chop the end of your notes. Simply use the THRESHOLD knob to smooth out your signal while saying goodbye to noise forever!\nThe MicroHUSH does not eliminate 60 cycle ground loop hum. If you are experiencing 60 cycle ground loop hum, we recommend the Rocktron Buzz Kill AC HUM Audio Isolation Transformer.\nThe MicroHUSH requires a 9V DC power source (sold separately); we recommend the Rocktron DC OnTap Universal Power Supply adaptor. \nhttp://www.rocktron.com/microhush.html",
+    "hrid": "rocktron-microhush"
+}

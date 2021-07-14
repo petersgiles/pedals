@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28911",
+    "name": "Kaoss Pad KP3+",
+    "image": "images/korg-kaoss-pad-kp3+.jpg",
+    "function": [
+        "Looper",
+        "Multieffect",
+        "Sampling"
+    ],
+    "manufacturer": "Korg",
+    "current": "1000 mA / 12 V / DC / Positive Center",
+    "cost": "$319 Price in €",
+    "width": 211,
+    "height": 226,
+    "details": "Intuitive touch-pad effects unitThe Kaoss Pad series of effects units is famed for its intuitive touch-pad interface. \nhttps://www.korg.com/us/products/dj/kaoss_pad_kp3_plus/",
+    "hrid": "korg-kaoss-pad-kp3+"
+}

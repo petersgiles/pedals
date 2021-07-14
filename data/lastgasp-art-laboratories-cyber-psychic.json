@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12529",
+    "name": "Cyber Psychic",
+    "image": "images/lastgasp-art-laboratories-cyber-psychic.jpg",
+    "function": [
+        "Distortion",
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$435 Price in €",
+    "width": 120,
+    "height": 90,
+    "details": "Parametric Oscillo FilterThe \"CYBER PSYCHIC parametric oscillo filter\" (CP) is a parametric filter pedal with it's own internal oscillation system.\nThe parametric filter is a filter effect that changes the tone by passing only the signal of specific frequency bands, thus cutting the signal of other frequency bands. \nIt creates sounds by mixing the input signal with oscillation sounds. These oscillating sounds are created by a combination of three self-generated oscillating systems within the pedal.\nIt can filter softly, or make chaotic noise with it's self generated oscillation. The \"CP parametric oscillo filter\" is a filter with an added touch!\nhttp://lalweb.com/cp/cp-e.html",
+    "hrid": "lastgasp-art-laboratories-cyber-psychic"
+}

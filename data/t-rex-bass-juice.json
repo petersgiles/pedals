@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12674",
+    "name": "Bass Juice",
+    "image": "images/t-rex-bass-juice.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "T-Rex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$134 Price in €",
+    "width": 76,
+    "height": 102,
+    "details": "",
+    "hrid": "t-rex-bass-juice"
+}

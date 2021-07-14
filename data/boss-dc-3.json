@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11544",
+    "name": "dc-3",
+    "image": "images/boss-dc-3.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Digital Dimension Chorus",
+    "hrid": "boss-dc-3"
+}

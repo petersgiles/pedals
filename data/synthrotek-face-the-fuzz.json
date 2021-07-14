@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17653",
+    "name": "Face the Fuzz",
+    "image": "images/synthrotek-face-the-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Synthrotek",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 57,
+    "height": 109,
+    "details": "Fuzz Face CloneVirtually Zero control. It is fuzz, albeit a good fuzz, with limited tone control. \n2 controls – Fuzz & Level – to tweak your tone. Fuzz sends your tone from subtle to razor blades and Level adjusts your output level for boosts. An on-board bias trim pot (accessed by unscrewing the back panel) lets you adjust transistor bias level for a variety of new Fuzz tones!\nUses temperature-stable BC558 silicon transistors or NOS Germanium AC128 Transistors.\nWider frequency response than the Arbiter Fuzz Face Clone.\n3PDT switch allows for true bypass switching and LED indicator gives you a visual cue when your circuit is engaged and using power\nDual power supplies allow you to have the battery as backup or as the main power. Use a 9V Battery and 9V center negative DC adapter (can be daisy-chained by using a 1 Spot or equivalent adapter)\nInput jack switching – No instrument cable plugged in, no power used. Save life on your expensive batteries!\nStomp-ready graphics on a powder-coated white case (complete version only – kits come with an unpainted case and no graphic)\nDIYers can choose between a PCB-mount kit or a wired kit\nPCB silkscreen, through-hole components with careful on-board placement, and wire-tension relief holes were designed with the DIYer in mind!\nPCB Dimensions: 2 1/8″ x 3 1/8″ (5.4cm x 7.9cm)\nhttps://www.synthrotek.com/products/effect-pedal-circuits/face-the-fuzz/",
+    "hrid": "synthrotek-face-the-fuzz"
+}

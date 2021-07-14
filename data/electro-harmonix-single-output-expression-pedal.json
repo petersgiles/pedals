@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22686",
+    "name": "Single-output Expression Pedal",
+    "image": "images/electro-harmonix-single-output-expression-pedal.jpg",
+    "function": [
+        "Controller",
+        "Expression"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "Pedal is passive",
+    "cost": "$50 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "Single output expression pedal, matches E-H pedalsA single-output pedal that’s versatile enough to control virtually any device with an EXP input.\n\nSingle-output design\nThe pedal’s sweep can be fine-tuned with the range knob while sweep direction can be flipped with the reverse button\nPolarity switch for maximum compatibility with a wide range of gear\nAdvanced polymer construction yields a roadworthy pedal with a significant weight savings\nAffordable\nSix foot TRS cable included",
+    "hrid": "electro-harmonix-single-output-expression-pedal"
+}

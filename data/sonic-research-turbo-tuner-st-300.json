@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11748",
+    "name": "Turbo Tuner ST-300",
+    "image": "images/sonic-research-turbo-tuner-st-300.jpg",
+    "function": [
+        "Tuner"
+    ],
+    "manufacturer": "Sonic Research",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 61,
+    "height": 113,
+    "details": "TunerA True Strobe Tuner in a Stompbox Format\nSuper bright LED display readable in direct sunlight\nTrue bypass\nFlexible Output: Muted output with quiet relay switching or signal passthrough (no mute)\nChromatic and guitar/bass modes\nFully programmable for alternate tunings and temperaments\nUSB port for ease of customizing\nExtreme accuracy: ±.02 cents guaranteed\nRugged die-cast aluminum case\nDual power jacks\n$129.99\nMade in USA\nhttps://www.turbo-tuner.com/pages/manual-st300fs.htm",
+    "hrid": "sonic-research-turbo-tuner-st-300"
+}

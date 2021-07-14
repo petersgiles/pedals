@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26501",
+    "name": "PowerPlant Powerbank",
+    "image": "images/harley-benton-powerplant-powerbank.jpg",
+    "function": [
+        "Power",
+        "Utility"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$44 Price in €",
+    "width": 65,
+    "height": 148,
+    "details": "Mobile 10000 mAH Powerbank for Effect DevicesCapacity: 10,000 mAH\nCan be loaded during use\n2 x 9 V DC outputs for effect pedals, (minus), total 1.2 A\n1 x USB 5V 2 mA port for smartphones etc.\n1 x Micro USB port\nIntegrated LED lighting\n4-LED battery indicator\n3.7V lithium battery\nCharging time: approx. 5 hours\nAutomatic overload protection\nDimensions: 148 x 65 x 17 mm\nWeight: 220 g\nIncludes 1 x USB charging cable, 2x 60 cm DC 9 V cable for effects devices, 1 x 10 cm Polarity DC adapter cable for effects devices and 1 x Daisy-Chain DC cable with 5 outputs for effects devices\nhttps://www.thomann.de/intl/harley_benton_powerplant_powerbank.htm",
+    "hrid": "harley-benton-powerplant-powerbank"
+}

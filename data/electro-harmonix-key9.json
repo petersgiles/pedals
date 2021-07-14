@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16058",
+    "name": "Key9",
+    "image": "images/electro-harmonix-key9.jpg",
+    "function": [
+        "Modeling/Simulation",
+        "Pitch Shifter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 102,
+    "height": 121,
+    "details": "",
+    "hrid": "electro-harmonix-key9"
+}

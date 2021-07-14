@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16532",
+    "name": "Neuro Hub",
+    "image": "images/source-audio-neuro-hub.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 76,
+    "height": 51,
+    "details": "The Neuro Hub brings full MIDI functionality to all of Source Audio's One Series and Soundblox 2 pedals. Connect the Hub to as many as five pedals and combine them into a thoroughly integrated multi-pedal system. This breakthrough in effect technology introduces Source Audio’s new scene saving functionality, enabling the creation of up to 128 single or multi-pedal presets (i.e. “scenes”), each recallable via MIDI Program Change messages. Simply dial in your One Series and Soundblox 2 effects as you would any traditional pedalboard, then hit SAVE on the Hub and your pedal settings are captured! Enjoy the power of one-step scene recall without the headache of navigating a complicated multi-effects processor.\nhttps://www.sourceaudio.net/neuro-hub.html",
+    "hrid": "source-audio-neuro-hub"
+}

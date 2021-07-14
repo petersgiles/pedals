@@ -1,0 +1,23 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25736",
+    "name": "Beebo",
+    "image": "images/poly-effects-beebo.jpg",
+    "function": [
+        "Chorus",
+        "Dual/Stereo",
+        "Multieffect",
+        "Phase Shifter",
+        "Digital Glitch",
+        "MIDI",
+        "Reverb",
+        "Synth Voice"
+    ],
+    "manufacturer": "Poly Effects",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$449 Price in €",
+    "width": 152,
+    "height": 125,
+    "details": "Modulation PedalBeebo is a pedal that gives you the power of a modular synth in an easy to use touch screen format. If you want great live tools, to push the boundaries of sound design, capture real spaces or simulate a sitar, it's all possible. Beebo now includes all the features of the previous Digit firmware as well. Older units can be updated to the latest firmware.\nIf you’re looking for conventional effects, the auto swell, delay, reverbs, cab sim, amp sim, chorus, looping delay, mono & stereo EQ, mono & stereo compressor, pan, phaser, reverse, rotary, saturator, phaser, warmth and through zero flanger will cover your needs.\nEach effect is a powerful algorithm when used alone, but the real magic comes when you combine them and control them. The rotary for example, exposes more than 30 parameters for those who want to dig deep into its detailed physical model. Combining effects, and controlling one module from another is what it’s all about in Beebo.\nConvolution reverb allows you to capture a real space. It has become the dominant technology for studio reverb but it's very high CPU requirements have restricted its use in hardware before. With Beebo it's now possible. You can easily capture a space or a vintage reverb tank you like the sound of or download one of the thousands online. You can then accurately have the sound of famous studios, concert halls, deep caves, your own bathroom or giant plate reverbs. You can also use convolution in creative ways by loading non-reverb sounds.\nYou can make the foot switches change a value, or connect up parameters to a random source, an LFO or an envelope follower. Modules that generate control signals can be controlled too, which is the power of a modular workflow. For example, If you don’t get everything you want out of the built in chorus or flanger modules you can build your own by adding a few delay modules and modulating them.\nYou can also send control signals out as MIDI CC to control other pedals. Beebo plays well with others and It’s easy to share presets, just plug in a usb flash drive and export or import them.\nIf you want modular or weirder effects, the bitmangle, freeze, granular, 6 different virtual analog filters, powerful LFOs, time stretch, turntable stop, step sequencer, twist delay, VCA, wavefolder, quantiser, attenuverter and more will cover it.\nThere’s some very powerful modules ported from the best eurorack modules including a granular texture synthesiser, a 16 model macro oscillator voice and a meta modulator with 7 blendable signal combining algorithms including ring modulation, comparators and cross folding.\nThe MIDI to V/oct module allows you to drive the synthesis modules from MIDI note input.\nhttps://www.polyeffects.com/polyeffects/p/beebo",
+    "hrid": "poly-effects-beebo"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18605",
+    "name": "R60 Flanger",
+    "image": "images/ross-r60-flanger.jpg",
+    "function": [
+        "Flanger"
+    ],
+    "manufacturer": "Ross",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 152,
+    "height": 127,
+    "details": "",
+    "hrid": "ross-r60-flanger"
+}

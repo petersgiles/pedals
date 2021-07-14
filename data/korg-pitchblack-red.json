@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23705",
+    "name": "Pitchblack Red",
+    "image": "images/korg-pitchblack-red.jpg",
+    "function": [
+        "Tuner",
+        "Utility"
+    ],
+    "manufacturer": "Korg",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 69,
+    "height": 119,
+    "details": "Korg Pitchblack Chromatic Pedal Tuner Metallic RedYou get chromatic guitar/bass tuning with a big, bright display and legendary 1-cent KORG accuracy. Signal-friendly true-bypass and muted tuning with 4 modes: Meter, Strobe, Half Strobe, and Mirror. Wide tuning range and calibration options. AC or battery power and a 9V DC output for powering your other pedals. The KORG Pitchblack Chromatic Tuner is now available in various collectible colors, but only for a limited time. The Pitchblack Chromatic Pedal Tuner offers you high precision, advanced functionality, and sleek style to make it KORG's most advanced guitar/bass stompbox-style tuner yet. The Pitchblack tuner has a tough aluminum die-cast body that will endure hard use on the road or in the studio. The large LED meter and note name display with light-emitting surface is easy to read in any setting from daylight to stage light to no light. The extremely smooth eleven-segment LED meter allows accurate visual tuning from any angle. The Pitchblack has a red LED to indicate on/off status and a tuning range of E0 (20.60 Hz) to C8 (4,186 Hz) with adjustable calibration between 436-445Hz. The Pitchblack's LED meter can be switched among four display modes including: Meter, Full Strobe, Half Strobe, and Mirror. Meter mode Similar to using a needle meter, tune your instrument so that the green LED in the center of the LED display lights and both tuning guide LED's are lit. The tuning LED's will be to the right of center if your instrument is sharp, and to the left of the center if your instrument is flat. Full Strobe mode Tune your instrument so that the LED meters stop streaming and both tuning guide LED's are lit. The LED meters will stream from left to right if your instrument is sharp and from right to left if your instrument is flat. Half Strobe mode Tune your instrument so that the LED meters stop streaming and only the green LED in the center is lit and both tuning guide LED's are lit.",
+    "hrid": "korg-pitchblack-red"
+}

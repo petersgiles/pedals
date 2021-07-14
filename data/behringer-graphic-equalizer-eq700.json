@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12727",
+    "name": "Graphic Equalizer EQ700",
+    "image": "images/behringer-graphic-equalizer-eq700.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "7-Band Graphic EqualizerThe EQ700 covers the audio spectrum from below 100 Hz to over 6.4 kHz, allowing you to effectively cut or boost a slew of frequencies to help bring focus to your sound. \nhttps://www.behringer.com/product.html?modelCode=P0350",
+    "hrid": "behringer-graphic-equalizer-eq700"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11560",
+    "name": "RAT2",
+    "image": "images/proco-rat2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "ProCo",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$99 Price in €",
+    "width": 89,
+    "height": 104,
+    "details": "DistortionThe beauty of the RAT 2 lies in its versatility. Used as a primary distortion, it excels at arena rock rhythm tones and soaring leads. Do you have a powerful amp with too much headroom for the gig? The RAT 2 nails that sweet spot where a tube amp goes from sparkly clean to warm overdrive. Maybe you already love your amp's distortion. Use the RAT 2 as a boost for solos and get the extra kick you need.\nhttp://www.guitarcenter.com/Pro-Co/RAT2-Distortion-Pedal.gc",
+    "hrid": "proco-rat2"
+}

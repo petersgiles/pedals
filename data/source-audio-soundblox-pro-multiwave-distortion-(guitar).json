@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11885",
+    "name": "Soundblox Pro Multiwave Distortion (Guitar)",
+    "image": "images/source-audio-soundblox-pro-multiwave-distortion-(guitar).jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$225 Price in €",
+    "width": 152,
+    "height": 178,
+    "details": "Distortion/Fuzz/Wavefolder",
+    "hrid": "source-audio-soundblox-pro-multiwave-distortion-(guitar)"
+}

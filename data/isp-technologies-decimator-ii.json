@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33013",
+    "name": "Decimator II",
+    "image": "images/isp-technologies-decimator-ii.jpg",
+    "function": [
+        "Noise Gate"
+    ],
+    "manufacturer": "ISP Technologies",
+    "current": "35 mA / 9 V / DC / Negative Center",
+    "cost": "$134 Price in €",
+    "width": 73,
+    "height": 129,
+    "details": "Noise gateISP Technologies introduces the Decimator II™, second generation of the Decimator Noise reduction. The Decimator II includes improved performance and innovations so unique that it is covered under two new patents pending for these new innovative improvements.\nThe Decimator II also features improvements in the expander tracking with our new Linearized Time Vector Processing™. This novel improvement provides a more linear release time-constant response for the exponential release curve of the downward expander. While the expander is exponentially increasing expansion and dynamically changing its response to fit the envelope of the input signal, the release response remains linear over a given time period. This increases the smoothness of the release response of the expander and provides the most transparent release response of any noise reduction system available and virtually eliminates any release ripple for incredibly smooth decay of longer sustained notes.\nhttps://www.isptechnologies.com/portfolio/decimator-ii-pedal/",
+    "hrid": "isp-technologies-decimator-ii"
+}

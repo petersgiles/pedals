@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13610",
+    "name": "Evil Filter",
+    "image": "images/death-by-audio-evil-filter.jpg",
+    "function": [
+        "Filter",
+        "Distortion"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "21 mA / 9 V / DC / Negative Center",
+    "cost": "$380 Price in €",
+    "width": 117,
+    "height": 191,
+    "details": "Psycho HP/BP/LP filter with a sleek, laser etched enclosure. Can be pushed past the limit into octaves up, down, and folding envelopes. Its medical grade IC chip creates a hyper precise filter that sounds like no other. The Evil Fuzz takes signals into a much darker dimension, offering an inverted compression toggle to push sounds even further into the depths. Using the CV/Expression input, you can control the filter cutoff frequency with an expression pedal or synthesizer.  \nhttps://deathbyaudio.com/products/evil-filter-1",
+    "hrid": "death-by-audio-evil-filter"
+}

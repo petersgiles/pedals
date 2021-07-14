@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18066",
+    "name": "Micro Preamp 013 Matchbox",
+    "image": "images/mooer-micro-preamp-013-matchbox.jpg",
+    "function": [
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$170 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Micro PreampMOOER micro preamps are sonically accurate digital recreations of the preamp sections of popular tube amplifiers. We have developed these by directly analyzing real tube amplifiers using a brand new technology to capture their sound, dynamics and response. Each Micro Preamp comes complete with dual channels, integrated speaker cabinet simulation and dual operating modes to suit the needs of all users.\nhttp://www.mooeraudio.com/?product/201712143897.html",
+    "hrid": "mooer-micro-preamp-013-matchbox"
+}

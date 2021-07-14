@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14865",
+    "name": "B:ASSMASTER",
+    "image": "images/malekko-heavy-industry-bassmaster.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "180 mA / 9 V / DC / Negative Center",
+    "cost": "$255 Price in €",
+    "width": 171,
+    "height": 133,
+    "details": "HARMONIC OCTAVE ANALOG DISTORTION PEDALThe Malekko Barker ASSMASTER is inspired by the original Maestro Bass Brassmaster octave fuzz pedal. Hand-built by us, this modern version delivers the same octave overdrive/harmonic generation effect in a quiet, fully controllable pedal. The 5 controls provide complete control over the tone, overtones, harmonics and mix of the dry and wet signal. True bypass.\nhttps://malekkoheavyindustry.com/product/b-assmaster/",
+    "hrid": "malekko-heavy-industry-bassmaster"
+}

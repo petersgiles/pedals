@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13284",
+    "name": "Zoom Choir 5050",
+    "image": "images/zoom-zoom-choir-5050.jpg",
+    "function": [
+        "Chorus",
+        "Delay",
+        "Reverb"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$115 Price in €",
+    "width": 116,
+    "height": 160,
+    "details": "Chorus, Delay, ReverbThe Zoom corporation has been known for its cheap multi-effects units for as long as most of us can remember. As musicians grow and mature, they develop a taste for more expensive gear. As such, generations of musicians look back on Zoom products like an old bicycle with training wheels. Fortunately, the earliest Zoom pedals are real winners, and the Choir is uncontested at the top. It features five lush modes of chorus, including chorus delay and chorus reverb. At the end of the dial is a crystal clear digital delay. The pedals aren't easy to find.",
+    "hrid": "zoom-zoom-choir-5050"
+}

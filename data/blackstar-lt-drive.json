@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12978",
+    "name": "LT Drive",
+    "image": "images/blackstar-lt-drive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 122,
+    "details": "",
+    "hrid": "blackstar-lt-drive"
+}

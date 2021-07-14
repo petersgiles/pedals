@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24297",
+    "name": "LWA120",
+    "image": "images/lone-wolf-audio-lwa120.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Lone Wolf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 170,
+    "height": 121,
+    "details": "Matamp Preamp",
+    "hrid": "lone-wolf-audio-lwa120"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19226",
+    "name": "Mantra",
+    "image": "images/blackout-effectors-mantra.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Blackout Effectors",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$195 Price in €",
+    "width": 51,
+    "height": 102,
+    "details": "Distortion TECHNICAL SPECS |\n9V – 18V!!! Negative center supply with 2.1mm plug required; top mounted.\nMono input/output jacks; side mounted.\n10-15mA current draw\n4.75″ tall x 2.75″ wide; 2.5″ height\nTreble, Bass, Gain, Volume controls\nExtremely touch sensitive cleanup, guitar volume knob clean up\nMade by hand in Asheville, NC USA\nTrue bypass switching",
+    "hrid": "blackout-effectors-mantra"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29060",
+    "name": "Auto Wah",
+    "image": "images/eno-music-auto-wah.jpg",
+    "function": [
+        "Wah",
+        "Filter"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "Pedal is passive",
+    "cost": "$36 Price in €",
+    "width": 41,
+    "height": 94,
+    "details": "Auto Wah\nhttps://www.amazon.com/ammoon-TC-61-Guitar-Effect-Bypass/dp/B071GZ3ZKN",
+    "hrid": "eno-music-auto-wah"
+}

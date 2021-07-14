@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17551",
+    "name": "2880 Foot Controller",
+    "image": "images/electro-harmonix-2880-foot-controller.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 200,
+    "height": 200,
+    "details": "",
+    "hrid": "electro-harmonix-2880-foot-controller"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16365",
+    "name": "ARF",
+    "image": "images/dwarfcraft-devices-arf.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$259 Price in €",
+    "width": 143,
+    "height": 117,
+    "details": "Attack Release Filter\nhttps://www.dwarfcraft.com/arf.html",
+    "hrid": "dwarfcraft-devices-arf"
+}

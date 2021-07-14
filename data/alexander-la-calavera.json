@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33814",
+    "name": "La Calavera",
+    "image": "images/alexander-la-calavera.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Alexander",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "",
+    "hrid": "alexander-la-calavera"
+}

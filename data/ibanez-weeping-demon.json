@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15990",
+    "name": "Weeping Demon",
+    "image": "images/ibanez-weeping-demon.jpg",
+    "function": [
+        "Wah"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 150,
+    "height": 260,
+    "details": "",
+    "hrid": "ibanez-weeping-demon"
+}

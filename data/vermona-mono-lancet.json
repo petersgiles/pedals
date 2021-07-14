@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31514",
+    "name": "Mono Lancet",
+    "image": "images/vermona-mono-lancet.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Vermona",
+    "current": "1000 mA / 12 V / DC",
+    "cost": "$499 Price in €",
+    "width": 210,
+    "height": 145,
+    "details": "Analog synthesizerPRODUCT DETAILS\nVERMONA MONO LANCET\nVermona’s Mono Lancet synthesizer is an all-analog powerhouse with a straightforward interface and loads of possibilities. The unit is comprised of two analog oscillators, each with PWM that can be controlled via MIDI or CV. There's also an onboard glide generator with legato mode. The Mono Lancet’s filter section consists of a 24dB low-pass filter that is capable of self-oscillating, producing a remarkably stable sine wave with a 2 1/2 octave range. Users can control the cutoff frequency via MIDI.\nAdditionally, the Mono Lancet has VCA and Envelope sections, as well as an LFO capable of producing six waveforms. Finally, the rear of the Mono Lancet houses a 25 pin sub-D connector for connecting the “Mono Lancet Modular Dock”, which adds additional ins and outs for both control and audio signals. \nMONO LANCET FEATURES\nAll-analog design\nTwo analog oscillators\nOnboard glide generator w/legato mode\n24dB low-pass filter\nVCA, Envelope, and LFO sections\n25 pin sub-D connector for connection to \"Mono Lancet Modular Dock\" (sold separately)",
+    "hrid": "vermona-mono-lancet"
+}

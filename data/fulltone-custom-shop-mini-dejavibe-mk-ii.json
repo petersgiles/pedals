@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18376",
+    "name": "Custom Shop Mini DejaVibe Mk II",
+    "image": "images/fulltone-custom-shop-mini-dejavibe-mk-ii.jpg",
+    "function": [
+        "Chorus",
+        "Filter"
+    ],
+    "manufacturer": "Fulltone",
+    "current": "? mA / 18 V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 99,
+    "height": 58,
+    "details": "Deja Vibe\nhttps://www.fulltone.com/products/custom-shop-mini-dejavibe-mkii",
+    "hrid": "fulltone-custom-shop-mini-dejavibe-mk-ii"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19527",
+    "name": "Route 66 v1",
+    "image": "images/truetone-route-66-v1.jpg",
+    "function": [
+        "Dynamics",
+        "Distortion"
+    ],
+    "manufacturer": "Truetone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 126,
+    "height": 153,
+    "details": "",
+    "hrid": "truetone-route-66-v1"
+}

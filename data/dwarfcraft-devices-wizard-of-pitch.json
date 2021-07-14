@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12622",
+    "name": "Wizard of Pitch",
+    "image": "images/dwarfcraft-devices-wizard-of-pitch.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "43 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Pitch shifterThe Wizard began as a simple idea: Cut the Pitchgrinder down to a\nsingle pitch shifter, with a mix control.  What it became is something much more exciting, with brand new capabilities.\nThe pedal’s resolution has been cranked up to 32 bits from the\n‘Grinder’s 8, but the same lo-fi glitchy sound.  There is a mix control. Then we have the “speed” control.  When set to zero, the Wizard behaves like a standard pitch shifter, but as you turn up the speed your output will cross fade between the wet and dry signals, allowing for beautiful moving soundscapes, or stimulating modulation at higher rates.\nThe “Bender” toggle engages a doppler type effect, in which the pitch falls in conjunction with the input signal’s decay. Until the pedal reaches the end of it’s shifting range, where it starts again.\nEngaging the “steps” toggle will further confuse the Wizard, snapping to pitches, rather than sliding, and creating almost random arpeggios. When the Bender mode is active, the speed knob will control the rate of the pitch changes, rather than a cross fade.\nWhile the pedal is perfectly useful for traditional pitch shifting, it\nis much more at home creating new sounds for adventurous musicians.\nhttps://www.dwarfcraft.com/wizard-of-pitch.html#/",
+    "hrid": "dwarfcraft-devices-wizard-of-pitch"
+}

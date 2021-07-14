@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17496",
+    "name": "Boost Tiger",
+    "image": "images/mr.-black-boost-tiger.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 60,
+    "height": 111,
+    "details": "Treble boost",
+    "hrid": "mr.-black-boost-tiger"
+}

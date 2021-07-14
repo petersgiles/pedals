@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13198",
+    "name": "cataPulp",
+    "image": "images/wampler-catapulp.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 63,
+    "height": 114,
+    "details": "A more aggressive and edgy British stack tone, bringing you the citrus power and tone to your amp We wanted to make a pedal that could faithfully reproduce the tones of a specific citrus colored, British amp made famous by artists like Jimmy Page, Weezer, Queens of the Stone Age, and Slipknot… A distinctive tone that stands out in terms of power, width and dirt. After spending countless hours tweaking the circuit and testing it against many tones from those great amps, we were able to produce the one pedal that captures that attitude – the cataPulp.\nThe cataPulp’s gain structure truly represents what every great amp in a box (AIAB) should be – with super clean tones that get increasingly dirtier after the “12 o’clock” setting; it allows you to cover a lot of ground between those classic rock inspired tones all the way to a thick syrupy metal territory – You can use this pedal as a tone shaper or a secondary gain stage – as always with a Wampler, it’s a truly versatile tonal workhorse! The cataPulp also features an active 3 band EQ that will allow you to tweak and control your tone perfectly.\nThe cataPulp can provide you with everything from pristine cleans to the edgy, aggressive, grittier side of British distortion. It’s time to stand back and let your tone do the fighting.",
+    "hrid": "wampler-catapulp"
+}

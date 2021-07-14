@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27870",
+    "name": "SY-1000",
+    "image": "images/boss-sy-1000.jpg",
+    "function": [
+        "Multieffect",
+        "Synth Voice"
+    ],
+    "manufacturer": "Boss",
+    "current": "800 mA / ? V / AC",
+    "cost": "$999 Price in €",
+    "width": 342,
+    "height": 245,
+    "details": "Guitar synthBOSS’s most powerful guitar/bass synth and modeling processor ever\nNext-generation synth engine with custom DSP and 48 kHz/32-bit processing throughout\nUnprecedented sound and expression with three simultaneous instrument types and advanced real-time signal processing\nEach instrument provides pitch, level, and panning of each string for instant alternate tunings and wide, layered voicings\nNew Dynamic Synth perfectly follows the guitar’s natural envelope for uncompromised tone shaping\nNew sound engine and GK 13-pin interface deliver clear, dynamic sound and precision tracking with zero latency\nDynamic Synth includes two 16-part step sequencers for evolving control of pitch, filter, and amplitude\nNewly refreshed versions of historic BOSS/Roland guitar synth and modeling technologies: OSC Synth, GR-300, E.Guitar, E.Bass, Acoustic, VIO Guitar, and Poly FX\nNormal ¼-inch guitar/bass input for blending and Dynamic Synth processing\nPremium effects and amps derived from the flagship GT-1000\nLarge LCD and intuitive editing interface for free-flowing sound creation\nEight freely assignable footswitches, external control support, effects loop, and configurable Main/Sub outputs\nUSB Audio/MIDI and MIDI I/O, plus Guitar-to-MIDI/Bass-to-MIDI function\nDedicated Guitar and Bass modes\nCustomize sounds with the BOSS Tone Studio editor and download pro patches at BOSS Tone Central\nRoland GK-compatible pickup and 13-pin cable required for full access to all synth and modeling features\nhttps://www.boss.info/global/products/sy-1000/",
+    "hrid": "boss-sy-1000"
+}

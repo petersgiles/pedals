@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18056",
+    "name": "Reese Lightning",
+    "image": "images/dwarfcraft-devices-reese-lightning.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "35 mA / 9 V / AC/DC / Negative Center",
+    "cost": "$209 Price in €",
+    "width": 93,
+    "height": 119,
+    "details": "FuzzAt Dwarfcraft, we do not fear the storm, we do not run from it. We are the storm. First came the Eau Claire Thunder, and then the Baby Thunder. Perhaps you only heard distant rumblings, but now you can see the Reese Lightning on the horizon.\nIt’s versatile, it’s compact, and it will wreck whatever you point it at. Reese picks up where the Thunder left off. It’s brighter and dirtier.  The Timewarp toggle connects/disconnects a clipping diode for some octave-up artifacts to scratch your psych itch.  Toneblast bypasses the tone control, for EVEN MORE volume and more timbral changes. The Feedback switch and knob are especially savage and enjoyable, practically begging you to let your freak flag fly.\nWe’ve also implemented some of the most common customer requests. This bad boy has true bypass soft switching, top-mounted jacks, and for the bass players, a clean blend. \nThe name “Reese Lightning” comes from the age old synthesis technique called “Reese Bass.” So you better believe it’ll sound cool on your keytar or your theremin.\nPower Requirements= 35mA\nEnclosure Size = 4.67\" x 3.68\" x 1.18\" ​\nhttp://www.dwarfcraft.com/reese-lightning.html",
+    "hrid": "dwarfcraft-devices-reese-lightning"
+}

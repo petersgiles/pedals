@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12457",
+    "name": "Fuck Overdrive",
+    "image": "images/smallsoundbigsound-fuck-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Smallsound/Bigsound",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 85,
+    "height": 129,
+    "details": "",
+    "hrid": "smallsoundbigsound-fuck-overdrive"
+}

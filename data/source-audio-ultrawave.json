@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31950",
+    "name": "Ultrawave",
+    "image": "images/source-audio-ultrawave.jpg",
+    "function": [
+        "Distortion",
+        "Digital Glitch",
+        "Synth Voice",
+        "Tremolo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 114,
+    "details": "Multiband DistortionThe Source Audio Ultrawave pedal takes a pioneering approach to traditional broadband overdrive, tremolo, and compression effects. By splitting each band of a polyphonic guitar or a synthesizer signal into up to 10 bands and letting users treat each band as its own signal — each complete with its own adjustable parameters — Ultrawave is able to forge new ground for the adventurous sonic spelunker.",
+    "hrid": "source-audio-ultrawave"
+}

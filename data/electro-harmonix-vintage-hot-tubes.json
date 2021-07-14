@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12955",
+    "name": "Vintage Hot Tubes",
+    "image": "images/electro-harmonix-vintage-hot-tubes.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$175 Price in €",
+    "width": 200,
+    "height": 175,
+    "details": "Tube amp overdrive simulator",
+    "hrid": "electro-harmonix-vintage-hot-tubes"
+}

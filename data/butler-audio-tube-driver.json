@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12336",
+    "name": "TUBE DRIVER",
+    "image": "images/butler-audio-tube-driver.jpg",
+    "function": [
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Butler Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$275 Price in €",
+    "width": 104,
+    "height": 173,
+    "details": "http://www.butleraudio.com",
+    "hrid": "butler-audio-tube-driver"
+}

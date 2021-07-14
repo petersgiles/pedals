@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13247",
+    "name": "DVP4 Volume (X) Mini Pedal",
+    "image": "images/dunlop-dvp4-volume-(x)-mini-pedal.jpg",
+    "function": [
+        "Volume",
+        "Expression"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "Pedal is passive",
+    "cost": "$120 Price in €",
+    "width": 75,
+    "height": 155,
+    "details": "Mini Volume Pedal\nhttps://www.jimdunlop.com/product/dvp4-7-10137-09463-5.do",
+    "hrid": "dunlop-dvp4-volume-(x)-mini-pedal"
+}

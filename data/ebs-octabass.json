@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16590",
+    "name": "OctaBass",
+    "image": "images/ebs-octabass.jpg",
+    "function": [
+        "Bass"
+    ],
+    "manufacturer": "EBS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$140 Price in €",
+    "width": 71,
+    "height": 102,
+    "details": "The EBS OctaBass is a first-class, all-analog octave dividerThe EBS OctaBass is a first-class, all-analog octave divider. It creates a single note one octave below the pitch of the note you play, even recognizing two- or three-note chords. The incredibly fast tracking circuitry lets you play at the speed you want, not at the speed the divider will allow. It has Normal and Octave level knobs as well as a switch that lets you select from three modes: High (synth), Mid (classic divider), and Low (sub-shaking lows).\nhttps://www.musiciansfriend.com/amplifiers-effects/ebs-octabass-triple-mode-octave-divider-pedal",
+    "hrid": "ebs-octabass"
+}

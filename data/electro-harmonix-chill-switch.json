@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12030",
+    "name": "Chill Switch",
+    "image": "images/electro-harmonix-chill-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$40 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "The CHILLSWITCH Momentary Line Selector is a new, utilitarian Electro-Harmonix pedal. In Kill Mode, the CHILLSWITCH can be used to provide instant muting. It can also be used to create interesting stutter effects by turning the instrument's signal abruptly on and off for hard rhythmic in/out transitions.\nIn Line Selector Mode, the scope of the pedal's use is only limited by the player's creative vision. It can, for example, be used to quickly switch in the effects loop, introducing a burst of distortion, analog delay induced feedback or ring modulation. It can also be tapped in time with what is being played to bring effects in and out of the signal path rhythmically. This is especially interesting when one of those effects is a delay with tap tempo. The many and varied uses of this pedal are an open invitation for the modern player who wishes to explore the world of unorthodox sound creation and manipulation.\nQuick Specs\nMomentarily toggle your instrument's signal path between an external efx loop and dry thru\nMute your instrument when no effects loop is connected\nSwitchable control over the on/off state of the footswitch\nSilent switching\nBuffered bypass\nBattery powered / optional 9 volt power supply\nDimensions in inches: 2.75 (w) x 4.5 (l) x 2.1 (h)\nDimensions in mm: 70 (w) x 115 (l) x 54 (h)\nhttp://www.ehx.com/products/chillswitch",
+    "hrid": "electro-harmonix-chill-switch"
+}

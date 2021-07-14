@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12889",
+    "name": "LM-2B Bass Limiter",
+    "image": "images/boss-lm-2b-bass-limiter.jpg",
+    "function": [
+        "Bass",
+        "Dynamics"
+    ],
+    "manufacturer": "Boss",
+    "current": "16 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 73,
+    "height": 129,
+    "details": "Bass LimiterThe LM-2 was targeted towards guitar players but feedback from the market told the Boss engineers that it was more often bass players that was using it. When the second generation limiter was launched, it was labeled Bass Limiter to make it clear that this was for bass use.\nWith different touch techniques and clear sounds, bass players have a very large dynamic area of sound. With the LM-2B, you can limit this area in order to make the weakest signals appear louder and the loudest signals appear weaker. The LM-2 gives you a little volume drop when it is turned on. The LM-2B has a built in enhancer circuit to couteract this.\nSpecifications\nControls: Enhance, Level, Threshold\nConnectors: Input, Output, AC Adaptor\nCurrent Draw: 16mA\nWeight: 400g\nInput Impedance: 1 Mohm\nResidual Noise Level: less than -90dBm (IHF-A)\nRecommended Load Impedance: More than 10kOhm\nRecommended AC Adaptor: ACA Series\nLabels\nSilver – Made In Taiwan\nThe LM-2B was sold from April 1990 to December 1994.\nhttp://www.bossarea.com/boss-lm-2b-bass-limiter/",
+    "hrid": "boss-lm-2b-bass-limiter"
+}

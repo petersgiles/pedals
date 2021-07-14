@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27125",
+    "name": "ProMS2",
+    "image": "images/radial-proms2.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Radial",
+    "current": "Pedal is passive",
+    "cost": "$120 Price in €",
+    "width": 84,
+    "height": 127,
+    "details": "Passive 2-Way Microphone Splitter The ProMS2™ is a balanced mic-level splitter designed to send a signal to multiple destinations simultaneously on stage, with one transformer-isolated output and two direct outputs.\nhttps://www.radialeng.com/product/proms2",
+    "hrid": "radial-proms2"
+}

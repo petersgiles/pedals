@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13632",
+    "name": "Callisto",
+    "image": "images/catalinbread-callisto.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "19 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Analog Chorus/VibratoThe Catalinbread Callisto is a Chorus/Vibrato pedal, which employs an MN3007 Bucket Brigade chip at its core. It’s interface is simple, intuitive, and provides a multitude of sounds ranging from subtle and shimmer to rotary speaker-like to off-kilter warping/warble sounds.\nThe Callisto’s small size and elegant, versatile feature set make it a great addition to any pedalboard. The Callisto is powered using a 9v negative tip DC power supply or 9V battery, is true bypass, and integrates various highest quality components to achieve the best tonal response possible. Catalinbread utilizes an old school MN3007 bucket brigade chip, just like early chorus pedals, and uses an audiophile Burr Brown OPA2134 chip in the audio path to give the Callisto a natural feel and dynamic playability.\nhttps://catalinbread.com/products/callisto-blem",
+    "hrid": "catalinbread-callisto"
+}

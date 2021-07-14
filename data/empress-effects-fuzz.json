@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26299",
+    "name": "Fuzz",
+    "image": "images/empress-effects-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$149 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "FuzzThis classic sounding fuzz offers smooth, rich sustain with great note definition. A tighter low end makes it ideal for full chords as well as sustaining single notes.\nThe empress fuzz is true bypass and has gain control, two bands of EQ and output control to fully tailor your sound.\nhttps://empresseffects.com/products/fuzz",
+    "hrid": "empress-effects-fuzz"
+}

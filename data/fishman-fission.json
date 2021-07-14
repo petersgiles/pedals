@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31611",
+    "name": "Fission",
+    "image": "images/fishman-fission.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Multieffect",
+        "Noise Gate",
+        "Pitch Shifter"
+    ],
+    "manufacturer": "Fishman",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 184,
+    "height": 121,
+    "details": "Bass Powerchord FX PedalAdd stacked harmonies over bass lines, through an intuitive set of controls and footswitches, several combinations of octaves, 4th and 5th above the root note combine to produce powerchords or octave-up effects.\nFour footswitch LEDs give visible indication of the selected harmony. When the effect is off, the LEDs dim making it easy to set up a harmony before turn on the chord. It’s also a multi-effect pedal with up to 3 voices of harmony, adjustable noise gate, overdrive, tone and effect level. This power-effect combo gives creative control over anything from subtle octaves to thick, grinding effects that even guitar players will envy.\nHoused in a lightweight, yet sturdy metal enclosure, Fission Bass uses state-of-the-art 32-bit signal processing and 24-bit audio conversion. Its monophonic input accepts a wide range of pickups. The mix output is perfect for single amp operation and an effect-only output for feeding a dedicated bass amp.\nFishman PRO-FSN-BAS Features:\nCreates stacked harmonies above the root note:\nOctave up\nOctave & 5th up\n4th & Octave up\nOctave up, 5th up & 2nd octave up\nUnique footswitch LEDs let you ‘see’ the harmony before you kick it on\nNoise Gate control\nOverdrive control\nTone control\nEffect Level control\nFishman PRO-FSN-BAS Specifications:\nSingle 1/4\" input with trim control accepts active or passive instruments\n1/4” Mix Output\n1/4” Effect Output\n24 bit A/D/A\n32-bit processing\nDurable all-metal construction",
+    "hrid": "fishman-fission"
+}

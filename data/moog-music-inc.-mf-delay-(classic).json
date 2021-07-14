@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14400",
+    "name": "MF Delay (Classic)",
+    "image": "images/moog-music-inc.-mf-delay-(classic).jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Moog Music Inc.",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 80,
+    "height": 135,
+    "details": "The MF Delay is a 100% analog delayThe MF Delay is a 100% analog delay providing 35mS-700mS of rich, blooming analog repeats. At shorter settings, the MF Delay is fast and articulate. This is perfect for creating classic slap-back sounds with expressive swells, and even plate-verbs. At medium and long settings, the repeats become darker, naturally trailing into a beautiful warmth and character not found in any other delay pedal. Connect an expression pedal and dynamically control feedback swells, or switch to delay time to create chorus/flange and tape delay effects. The MF Delay was designed with over 300 carefully selected components including 4 Bucket Brigade Delay chips, a discrete JFET input stage, and a vintage compander circuit for superior tone and feel.\nhttps://www.moogmusic.com/products/minifoogers/mf-delay",
+    "hrid": "moog-music-inc.-mf-delay-(classic)"
+}

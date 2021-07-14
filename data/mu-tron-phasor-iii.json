@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32592",
+    "name": "Phasor III",
+    "image": "images/mu-tron-phasor-iii.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Mu-Tron",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$279 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Classic phaser design, updatedQuite possibly the finest and fullest compact optical phasor ever made.  The all analog Phasor III takes the legendary opts-circuitry of the vintage Phasor II and Bi-Phase pedals and packs into a compact 9 volt enclosure akin to the Micro-Tron III and Octavider pedals.   In addition to re-creating the creamy phase of the Phasor II,  the Phasor III also offers a 4 stage mode with a fixed feedback to get the classic rock tones that work well with overdrive and distortion harmonics. Finally, there is a control voltage input that will allow for real-time control of Rate or Depth to give the musician utmost expression and “Leslie Speaker” type of sounds.  The pedal also supports control voltage out so that 2 or more Phasor III pedals can be linked to offer BiPhase and TriPhase types of applications.\nFeatures:\nModular optical design which allows for consistency across units\nHigh internal 18 volt operations insures high headroom and low noise\n4 stages with a set feedback allows for classic phase that works well with saturated signal\nSquare and sine wave operation\nControl voltage assignable to rate to achieve “Leslie” fast and slow control\nControl Voltage in and out allows for synchronized cascading of effects\nLED (light emitting diode) indicators to show operating status of effects.\n9V DC powered in rugged Mu-Tron enclosure.\nControls:\nFeedback controls the level of phase feedback in 6 stage mode\nRate controls speed of phase in 4 and 6 stage modes\nDepth controls intensity of phase effect\nShape selects square or sine wave\nCV maybe assigned to rate, depth or none\nStage (4/6) determines 4 or 6 stages of phasing\nhttps://mu-tron.com/products/phasor-iii/",
+    "hrid": "mu-tron-phasor-iii"
+}

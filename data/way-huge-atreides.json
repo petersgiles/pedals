@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31586",
+    "name": "Atreides",
+    "image": "images/way-huge-atreides.jpg",
+    "function": [
+        "Filter",
+        "Synth Voice"
+    ],
+    "manufacturer": "Way Huge",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 131,
+    "height": 171,
+    "details": "Analog Weirding Module",
+    "hrid": "way-huge-atreides"
+}

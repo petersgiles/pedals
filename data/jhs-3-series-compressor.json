@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29913",
+    "name": "3 Series Compressor",
+    "image": "images/jhs-3-series-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "JHS",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 60,
+    "height": 112,
+    "details": "Compression pedalThe JHS Pedals 3 Series Compressor is a simple and powerful compressor that will give you everything from subtle tone smoothing to a super squashed sound. The Attack and Sustain knobs allow you to dial in the compression's overall feel and response to your playing, while the Volume knob enables you to set the overall volume at unity or boosted. The Bright toggle engages a brighter EQ so that your tone doesn't get lost in certain situations. \nThe JHS Pedals 3 Series Compressor runs on 9V DC Negative Center power and consumes 8mA.\nhttps://www.jhspedals.info/3-series-compressor",
+    "hrid": "jhs-3-series-compressor"
+}

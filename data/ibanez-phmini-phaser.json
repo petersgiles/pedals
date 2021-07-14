@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32485",
+    "name": "PHMINI Phaser",
+    "image": "images/ibanez-phmini-phaser.jpg",
+    "function": [
+        "Phase Shifter"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "5 mA / 9 V / AC/DC",
+    "cost": "$120 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "Mini PhaserIbanez is proud to announce a new addition to the MINI pedal lineup. The Phaser MINI is made in Japan and features three controls; DEPTH, FEEDBACK and SPEED. Through these controls, the Phaser MINI offers a variety of sounds ranging from subtle texture to deep saturation. Moreover, it is designed to retain a clarity of dry signal even when set to the highest effect intensity. It also features switchable STAGE mode, 4 or 6. 4-STAGE mode delivers traditional Phaser tones, typically used in classic rock. 6-STAGE mode provides more intense and dramatic effect. The PHMINI also features 100% pure analog circuitry and a true bypass switch. The PHMINI delivers a multitude of analog Phaser features, while occupying minimal space on your pedalboard!　\nhttps://www.ibanez.com/eu/products/detail/phmini_01.html",
+    "hrid": "ibanez-phmini-phaser"
+}

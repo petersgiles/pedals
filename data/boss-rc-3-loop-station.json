@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11871",
+    "name": "RC-3 Loop Station",
+    "image": "images/boss-rc-3-loop-station.jpg",
+    "function": [
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "70 mA / 9 V / DC / Negative Center",
+    "cost": "$179 Price in €",
+    "width": 74,
+    "height": 130,
+    "details": "Stereo looper pedal with 99 memory slots and rhythm patternsThe RC-3 is powerfully equipped yet conveniently housed in a compact pedal. Enjoy up to three hours of stereo recording time, storage for 99 loops, a “real drums” rhythm guide, and USB 2.0 compatibility all in a small BOSS stompbox.\nCompact and powerful stereo stompbox looper\nMassive internal memory with up to three hours of stereo recording time\n99 onboard memories for storing loops\nUSB 2.0 port allows you to connect to a PC and import/export WAV audio\nRhythm guide with real drums\nRuns on a single 9-volt battery or optional AC power supply\nBOSS five-year warranty\n\nhttps://www.boss.info/us/products/rc-3/",
+    "hrid": "boss-rc-3-loop-station"
+}

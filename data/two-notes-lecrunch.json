@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14488",
+    "name": "LeCrunch",
+    "image": "images/two-notes-lecrunch.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Two Notes",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$336 Price in €",
+    "width": 124,
+    "height": 189,
+    "details": "Tube Preamp",
+    "hrid": "two-notes-lecrunch"
+}

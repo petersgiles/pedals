@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11810",
+    "name": "Shin-Juku Drive Ltd",
+    "image": "images/mxr-shin-juku-drive-ltd.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$183 Price in €",
+    "width": 64,
+    "height": 111,
+    "details": "Overdrive effects pedal",
+    "hrid": "mxr-shin-juku-drive-ltd"
+}

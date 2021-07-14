@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "32902",
+    "name": "CP-54",
+    "image": "images/caline-cp-54.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Caline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 64,
+    "height": 112,
+    "details": "\"The Big Orange\" OverdriveCaline's CP-54 The Big Orange overdrive is exactly what it says it is. Big and Orange. Well it's not big in size. But in sound. Like the crispy pant fluttering kind of power of an Orange amp turned up.\nWhether you want light grit or full on distortion, loads of tone with lots of string clarity that doesn't drop out as you turn it up.\nSustain, Volume, Attack Controls\nTrue Bypass\nSuper Solid Metal Casing\nUses 9V Battery (with included battery clip) or Standard Boss Style Adapter (not included)\nBrand: Caline\nWeight: 0.8 lb",
+    "hrid": "caline-cp-54"
+}

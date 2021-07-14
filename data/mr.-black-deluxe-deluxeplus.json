@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14079",
+    "name": "Deluxe DeluxePlus",
+    "image": "images/mr.-black-deluxe-deluxeplus.jpg",
+    "function": [
+        "Reverb",
+        "Tremolo"
+    ],
+    "manufacturer": "Mr. Black",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 108,
+    "height": 57,
+    "details": "Tremolo/ReverbReverb on the Right, Tremolo on the Left!\nOne at a time, or two in tandem for the double whammy, Deluxe.\nSplish-spash with dripping-wet spring reverb, ride the motion of the ocean with buttery bias-modulating tremolo, and cruise easy as the Deluxe DeluxePlus features two independent effects all in one compact pedal!\nDeluxe model now features independent switching and reverb trails!!\nThis is Deluxe, dude. Truly Deluxe.\nhttps://www.mrblackpedals.com/products/deluxe-deluxeplus",
+    "hrid": "mr.-black-deluxe-deluxeplus"
+}

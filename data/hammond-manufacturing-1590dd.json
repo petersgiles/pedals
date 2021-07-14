@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15223",
+    "name": "1590DD",
+    "image": "images/hammond-manufacturing-1590dd.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Hammond Manufacturing",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$5 Price in €",
+    "width": 188,
+    "height": 110,
+    "details": "Pedal Enclosure Generic 1590DD enclosure",
+    "hrid": "hammond-manufacturing-1590dd"
+}

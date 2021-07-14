@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28135",
+    "name": "Dark Horse",
+    "image": "images/rock-stock-pedals-dark-horse.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Rock Stock Pedals",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 114,
+    "height": 89,
+    "details": "Fuzz DistortionThe Dark Horse is a super-versatile silicon fuzz. This pedal covers a ton of ground for guitar and bass players from cool lo-fi tones to all out saturated, high-gain fuzz.\n• Wide fuzz/gain range\n• Volume, Treble, Sustain (gain) controls\n• Retains low end for use with bass guitar\n• Standard 9VDC power\n• True bypass switching\nhttps://www.rockstockpedals.com/product/dark-horse-fuzz/",
+    "hrid": "rock-stock-pedals-dark-horse"
+}

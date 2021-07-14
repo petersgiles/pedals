@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12802",
+    "name": "DelayLab",
+    "image": "images/vox-delaylab.jpg",
+    "function": [
+        "Delay",
+        "Looper",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Vox",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$179 Price in €",
+    "width": 260,
+    "height": 164,
+    "details": "Multi Delay / LooperFeatures:\n• 30 types of delay effects, ranging from vintage to standards to originals\n• Stereo Looping can capture up to 28 seconds; multiple variations and types\n• Combine Loop and Delay effects simultaneously for exciting performances\n• Thirty diverse rewritable preset programs, ready for immediate use\n• Delay time is adjustable in 1 ms steps, to a maximum of four seconds\n• High-quality 24-bit/48 kHz audio sampling rivals professional equipment\n• Stereo Inputs; Stereo Outputs (all 1/4\")\nhttp://www.voxamps.com/DelayLab",
+    "hrid": "vox-delaylab"
+}

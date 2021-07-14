@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13204",
+    "name": "matrise",
+    "image": "images/pladask-elektrisk-matrise.jpg",
+    "function": [
+        "PreAmp",
+        "Utility",
+        "Volume"
+    ],
+    "manufacturer": "Pladask Elektrisk",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$240 Price in €",
+    "width": 150,
+    "height": 125,
+    "details": "matrix mixer by pladask4x4 matrix mixer with bi/uni switch for each channel\nhttps://pladaskelektrisk.com/product/matrise-v2/",
+    "hrid": "pladask-elektrisk-matrise"
+}

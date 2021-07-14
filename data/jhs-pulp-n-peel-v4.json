@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19078",
+    "name": "Pulp N Peel V4",
+    "image": "images/jhs-pulp-n-peel-v4.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$229 Price in €",
+    "width": 70,
+    "height": 120,
+    "details": "",
+    "hrid": "jhs-pulp-n-peel-v4"
+}

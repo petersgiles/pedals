@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13612",
+    "name": "16 Second Delay (Reissue)",
+    "image": "images/electro-harmonix-16-second-delay-(reissue).jpg",
+    "function": [
+        "Delay",
+        "Looper"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 200,
+    "height": 150,
+    "details": "Delay",
+    "hrid": "electro-harmonix-16-second-delay-(reissue)"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23064",
+    "name": "Screamer Fuzz Bass",
+    "image": "images/cusack-music-screamer-fuzz-bass.jpg",
+    "function": [
+        "Bass",
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Cusack Music",
+    "current": "7 mA / 9 V / DC / Negative Center",
+    "cost": "$185 Price in €",
+    "width": 61,
+    "height": 112,
+    "details": "Screamer Fuzz w/ More Low EndScreamer Fuzz Bass - Screamer Fuzz w/ More Low End\nRegular price $185.00\nDescription:\nIf you’ve ever plugged your bass into a regular fuzz box and been unimpressed, it’s because they’re designed to limit the extreme low end allowed into the amp. This is fine for the 6-stringers, but not ideal at all for bass. \nThe Screamer Bass Fuzz is designed to fix this. Like the Screamer Bass, it’s Tube Screamer-inspired overdrive is modified for bass guitar, but with an additional fuzz circuit for EVEN MORE GAIN. \nYou can mix either the overdrive or the fuzz to your liking. As a result, the Screamer Bass Fuzz runs the full gamut of gain, from subtle grit to buzz saw. Whether you’re covering Cream or Muse, or creating your own sounds, this pedal should help get you there.\nFeatures:\n-Level (volume)\n-Scream (gain)\n-Fuzz\n-3-way clipping toggle (left: silicon, center: asymmetrical LED, right: Schottky)\nPower:\n-Standard center negative 9V DC supply, or 9V battery (neither included)\n-Current draw: ~7mA\nDimensions:\n-4.42\" L x 2.39\" W x 1.24\" H\nhttps://cusackmusic.com/collections/all-products/products/screamer-fuzz-bass",
+    "hrid": "cusack-music-screamer-fuzz-bass"
+}

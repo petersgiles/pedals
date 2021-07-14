@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17373",
+    "name": "Mod Core",
+    "image": "images/nux-mod-core.jpg",
+    "function": [
+        "Chorus",
+        "Flanger",
+        "Multieffect",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$59 Price in €",
+    "width": 72,
+    "height": 120,
+    "details": "Nux Mod Core\nhttp://www.nuxefx.com/show-49-17-1.html",
+    "hrid": "nux-mod-core"
+}

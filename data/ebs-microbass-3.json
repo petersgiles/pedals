@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23126",
+    "name": "MicroBass 3",
+    "image": "images/ebs-microbass-3.jpg",
+    "function": [
+        "PreAmp",
+        "Dual/Stereo",
+        "Bass"
+    ],
+    "manufacturer": "EBS",
+    "current": "750 mA / 9 V / DC / Negative Center",
+    "cost": "$349 Price in €",
+    "width": 168,
+    "height": 124,
+    "details": "2-Channel PreampThe EBS MicroBass 3 is a 2-channel preamp, built exclusively with premium components. It is engineered by EBS in Sweden with technologies from the famous HD360 and Fafner II amplifier designs. The preamp operates at a signal level equal to a professional mixing console (+/- 15V) which gives you plenty of headroom. The high signal level makes it suitable to use as a preamp in combination with any type of power amp.\nRun the Clean and Drive channels in series or parallel. Use the dual balanced XLR-outputs to tap the signal post and pre EQ at the same time. If you run the Effects loop in stereo mode, the balanced outputs become a Left and Right output instead. With 10 Mohms input impedance, it handles any type of bass – passive, active or with piezo pickups.\nThe built-in tuner makes it easy to tune between songs without the need of an external device. The MicroBass 3 also carries an onboard compressor, similar to the one found on several EBS amplifiers, and several more features.\nThe analog EBS MicroBass 3 ensures your sound – every time.\nhttps://ebssweden.com/content2/effects/ebs-microbass-3-professional-outboard-preamp/",
+    "hrid": "ebs-microbass-3"
+}

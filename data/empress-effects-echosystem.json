@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11570",
+    "name": "Echosystem",
+    "image": "images/empress-effects-echosystem.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Empress Effects",
+    "current": "300 mA / 9 V / DC / Negative Center",
+    "cost": "$449 Price in €",
+    "width": 145,
+    "height": 95,
+    "details": "Dual Engine DelaySpanning the gambit of known delay possibilities and beyond, the Echosystem could be the ultimate delay-crafting tool. Faithful emulations of classics like digital, tape and analog delays are numerous, as well as Empress' own take on each of these delay styles. Moving beyond the traditional, the vast amount of sonic ground the Echosystem can cover becomes apparent. Check out the ambient modes when you're feeling chilled out, or perhaps a visit to the multi tap modes for a taste of inspiration. \nThe Dual Engine functionality allows any two of these delays to be used together, routed in either parallel, series, or left/right configurations. \nIn addition to delays, there's the super-useful reverb combos, which will elevate any guitar part. Oh, and don't forget Whisky mode, best accompanied by a dram of whatever you've got! \nhttps://empresseffects.com/products/echosystem",
+    "hrid": "empress-effects-echosystem"
+}

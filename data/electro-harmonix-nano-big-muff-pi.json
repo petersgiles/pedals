@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15993",
+    "name": "Nano Big Muff Pi",
+    "image": "images/electro-harmonix-nano-big-muff-pi.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$72 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Classic Fuzz PedalEverything you love about the legendary Big Muff, in a compact pedal that's perfect for any pedalboard! The electro-harmonix Big Muff Pi Nano distortion/fuzz pedal serves up a wide range of aggressive tones that have been favored by Jimi Hendrix, Santana, Pink Floyd, and countless others. The tone control covers expansive sonic territory, while the sustain control lets you dial in just how huge your sound is. The Big Muff Pi is one of the most popular distortion/fuzz boxes at Sweetwater for electric guitar or bass, and now you can have it in a more convenient smaller size with the ehx Big Muff Pi Nano!\nhttps://www.ehx.com/products/nano-big-muff-pi",
+    "hrid": "electro-harmonix-nano-big-muff-pi"
+}

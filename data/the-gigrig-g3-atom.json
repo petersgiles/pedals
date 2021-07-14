@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30091",
+    "name": "G3 Atom",
+    "image": "images/the-gigrig-g3-atom.jpg",
+    "function": [
+        "MIDI",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "650 mA / 9 V / DC / Negative Center",
+    "cost": "$999 Price in €",
+    "width": 300,
+    "height": 130,
+    "details": "True-bypass Looper & MIDI ControllerG3 ATOM Key Features\n99 Banks with up to 16 Pre-sets per Bank\nProgramable Pre Effects Loop Buffer/Boost\nProgramable Post Effects Loop True Stereo VCA Amplifier\n6 x True-Bypass passive Stereo effects loops\nFully movable loops - Reorganise your entire signal chain, Per Pre-set, in seconds \n2 x Programable Outputs one of which is transformer isolated and phase reversible to eliminate earth loops and phase problems when using two amps\nBuilt in Parallel and Wet/Dry configuration\nSend up to 15 x programable mappable PC/CC MIDI Messages per pre-set\n2 x Expression pedal inputs capable of controlling the onboard pre and post effect loop amplifiers as well as sending multiple MIDI CC messages, each with separate heel/toe values\nProgram Reverb and Delay Trails/Spillover from any loop or combination of loops \nSimple intuitive programming via easily navigated built in menu system\nUltra clean signal path to ensure your guitar signal is as pure as possible \nBluetooth enabled - *Connect to G3 iOS app to update software, backup pre-sets, and edit song lists\nHigh Resolution Ultra-Bright TFT LCD screen displaying Bank, Pre-set Number /Name and Pre/Post Gain levels and menu system (Brightness Adjustable)\nBlack anodized aluminium chassis – Light weight and hard wearing\nWater resistant/ splash proof overlay with quick select, tactile embossed membrane switches\n8 x GigRig 'Optokick' Optical Footswitches - Designed by The GigRig, our footswitches use light instead of mechanics to do the foot switching and are milled from stainless steel, making them more robust than their mechanical alternatives. We believe these are the most reliable foot switches in the world.\nFREE GigRig Generator Power Supply - The Heart of our Modular Power Supply range, with UK Mains lead included as standard.\nTechnical Info\nPhysical size: 29cm x 13cm x 7.8cm / 11.4\" x 5.1\" x 3.07\"\nScreen size: Approximately 5 x 3.8cm / 1.96\"x 1.5\"\nPower Requirements: 9V DC (2.1mm centre neg) @ 650mA.We recommend the use of The GigRig Generator power supply supplied with The G3 Switching System. (Strymon Zuma, True Tone 1-Spot and Voodoo Labs Pedal Power 2 have been tested to power G3 sufficiently).\nWeight: 1.65kgs / 3.64lbs\nhttps://shop.thegigrig.com/G3-Atom",
+    "hrid": "the-gigrig-g3-atom"
+}

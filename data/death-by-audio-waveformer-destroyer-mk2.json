@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21534",
+    "name": "Waveformer Destroyer MK2",
+    "image": "images/death-by-audio-waveformer-destroyer-mk2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Filter"
+    ],
+    "manufacturer": "Death By Audio",
+    "current": "6 mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 117,
+    "height": 191,
+    "details": "Hundreds of possible distortion sounds at your fingertips, customizable via four selectable foot switches and eight external orange rocker switches. The most gnarliest fuzz sounds other people would dare for you to experiment with now easily accessible to a select few. This bad arse machine is a brute and will definitely dwarf the rest of your pedal collection. Get ready for some real usable tones to DI into your daw, blow up your amp, roll your drums down a hill, or as a conversation piece on a blind date. This is gooey rareness for a select few. Sorry for all who can't get their hands on this but they are a honkey tonk to build to this quality and we won't do anything less.\nhttps://deathbyaudio.com/products/mk-ii-waveformer-destroyer",
+    "hrid": "death-by-audio-waveformer-destroyer-mk2"
+}

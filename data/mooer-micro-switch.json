@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14395",
+    "name": "Micro Switch",
+    "image": "images/mooer-micro-switch.jpg",
+    "function": [
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Mooer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$44 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "ABY switchMicro ABY Mk2 can be used in two ways, the signal path can flow from A/B to Y, or from Y to A/B\nCan work without power supply (LED will not be lit up)\nFull metal shell\nVery small and exquisite\nTrue bypass DC\nRequires 9V Adapter power supply",
+    "hrid": "mooer-micro-switch"
+}

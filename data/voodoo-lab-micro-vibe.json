@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20198",
+    "name": "Micro Vibe",
+    "image": "images/voodoo-lab-micro-vibe.jpg",
+    "function": [
+        "Chorus",
+        "Rotary"
+    ],
+    "manufacturer": "Voodoo Lab",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "Rotary Speaker - Uni-VibeThe Voodoo Lab Micro Vibe delivers the same juicy, swinging tone as an original 1968 Uni-Vibe.* Designed as a Leslie® rotating speaker simulator, the original Uni-Vibe circuit is a variation of a four-stage phase shifter. While it didn’t do so well with keyboard players, its unique sound achieved legendary status when Jimi Hendrix used the effect on his Band of Gypsys record, and his landmark Woodstock performance of “The Star Spangled Banner.” Numerous recordings by guitar heroes like Robin Trower, David Gilmour, and Stevie Ray Vaughan also helped make the Uni-Vibe a tone classic.\nMicro Vibe includes the same sinewave oscillator, incandescent lamp, and photocells, which give the original Uni-Vibe its groovy swagger. Thanks to Voodoo Lab’s dedicated, guitar playing engineers, our Micro Vibe gives you the same lush, psychedelic colors of the original, but in an ultra-compact, pedalboard friendly 9V stompbox!\nhttp://www.voodoolab.com/microvibe.htm",
+    "hrid": "voodoo-lab-micro-vibe"
+}

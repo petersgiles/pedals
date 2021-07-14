@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21680",
+    "name": "Rototron",
+    "image": "images/pigtronix-rototron.jpg",
+    "function": [
+        "Rotary",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Pigtronix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$319 Price in €",
+    "width": 155,
+    "height": 130,
+    "details": "Analog Rotary Speaker EffectPigtronix Rototron is an all analog rotary speaker effect that combines frequency modulation, phase shifting, tremolo, bucket brigade-based chorusing and a three-way crossover all meticulously voiced to achieve unsurpassed, three-dimensional rotary realism in a compact, easy to use pedal.\nhttps://pigtronix.com/product/rototron/",
+    "hrid": "pigtronix-rototron"
+}

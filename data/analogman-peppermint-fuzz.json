@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30076",
+    "name": "Peppermint Fuzz",
+    "image": "images/analogman-peppermint-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Analogman",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 70,
+    "height": 110,
+    "details": "FuzzA little history\nThere were some nasty, buzzy fuzz pedals made in the mid 1960s. Some best examples are the Mosrite Fuzzrite, Maestro Fuzz Tone, Jordan Bosstone, Kay fuzz, etc. We found some super high gain germanium transistors in late 2006 that could be tuned to get those sounds so we are able to offer these pedals, which we named the PEPPERMINT FUZZ in tribute to the song INCENSE AND PEPPERMINTS which features this very sound. It can also be used for some later punk rock sounds like the Stooges, etc. It can also do a decent late 60s Fuzzface sound if dialed in properly, and can get close to the oldest 2 knob TONE BENDER pedals (MK-I and MK-II).\nAll Peppermint fuzz pedals have always been hand made in the USA.\nhttps://www.buyanalogman.com/ProductDetails.asp?ProductCode=AM-Peppermint-Fuzz",
+    "hrid": "analogman-peppermint-fuzz"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29975",
+    "name": "Fuzz Factory 7 UnderViolet",
+    "image": "images/zvex-fuzz-factory-7-underviolet.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Zvex",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 92,
+    "height": 122,
+    "details": "",
+    "hrid": "zvex-fuzz-factory-7-underviolet"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12422",
+    "name": "TS-1",
+    "image": "images/dunlop-ts-1.jpg",
+    "function": [
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 127,
+    "height": 133,
+    "details": "Stereo Tremolo/Pan",
+    "hrid": "dunlop-ts-1"
+}

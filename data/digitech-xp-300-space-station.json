@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14502",
+    "name": "XP-300 Space Station",
+    "image": "images/digitech-xp-300-space-station.jpg",
+    "function": [
+        "Multieffect",
+        "Pitch Shifter",
+        "Ring Modulator",
+        "Synth Voice"
+    ],
+    "manufacturer": "Digitech",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 203,
+    "height": 203,
+    "details": "",
+    "hrid": "digitech-xp-300-space-station"
+}

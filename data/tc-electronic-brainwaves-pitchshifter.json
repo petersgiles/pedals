@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21200",
+    "name": "Brainwaves Pitchshifter",
+    "image": "images/tc-electronic-brainwaves-pitchshifter.jpg",
+    "function": [
+        "Pitch Shifter",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$149 Price in €",
+    "width": 72,
+    "height": 122,
+    "details": "Dual Pitchshifter\nhttps://www.tcelectronic.com/Categories/Tcelectronic/Guitar/Stompboxes/BRAINWAVES-PITCH-SHIFTER/p/P0DI1",
+    "hrid": "tc-electronic-brainwaves-pitchshifter"
+}

@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17624",
+    "name": "TUBE KING TK999HT",
+    "image": "images/ibanez-tube-king-tk999ht.jpg",
+    "function": [
+        "Bass",
+        "Distortion",
+        "Tube"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$224 Price in €",
+    "width": 203,
+    "height": 203,
+    "details": "Bass Tubedistortion",
+    "hrid": "ibanez-tube-king-tk999ht"
+}

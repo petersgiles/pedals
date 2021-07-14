@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25217",
+    "name": "Hall of Fame 2 Mini",
+    "image": "images/tc-electronic-hall-of-fame-2-mini.jpg",
+    "function": [
+        "Reverb"
+    ],
+    "manufacturer": "TC Electronic",
+    "current": "100 mA / 9 V / DC / Negative Center",
+    "cost": "$97 Price in €",
+    "width": 48,
+    "height": 93,
+    "details": "Mini Reverb PedalTiny iconic reverb pedal returns better than ever with an innovative pressure-sensitive footswitch and new TonePrints.\nMASH footswitch gives you powerful effect-specific real-time parameter control\nNext-generation reverb algorithms including the new spine tingling Shimmer reverb.\nDedicated knobs for Decay, Tone and Mix let you fine tune your reverb easily\nBeam all HALL OF FAME 2 reverbs into your pedal with the free TonePrint App.\nCraft your own reverbs and customize MASH functionality with free TonePrint Editor (PC, Mac*, iPhone*, Android* and iPad*).\nSimple, easy-to-use controls let you focus on playing.\nWorks flawlessly with guitar and FX loop signals.\nExtra-small enclosure easily fits on any pedal board.\nTrue bypass allows for optimum clarity and zero high-end loss when the pedal is off.\nAnalog-Dry-Through maintains integrity of analog dry signal path when reverb is on.\n3-Year Warranty Program.\nDesigned and engineered in Denmark.",
+    "hrid": "tc-electronic-hall-of-fame-2-mini"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25924",
+    "name": "Super Oscillo Fuzz 88",
+    "image": "images/lastgasp-art-laboratories-super-oscillo-fuzz-88.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Lastgasp Art Laboratories",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$280 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Oscillating FuzzThe \"Hachihachi shiki kebadate hizumaseki SUPER OSCILLO FUZZ\" (88) is a fuzz distortion pedal with its own internal oscillation system. Using a combination of it's six switches, many different kinds of distortion can be chosen.\nHowever, the main feature of this pedal is the huge variety of oscillations that can be chosen by using any combination of these six switches. The 88 can make an almost unlimited variety of fuzz distortion and oscillation sounds. This is a \"SUPER\" OSCILLO FUZZ!!\nThe design motif for this pedal is based on Japanese WW2 \"Zero\" fighter planes. Our previous pedals are also based on the old naming traditions and designs of Japanese planes. Our previous models are the \"Hachi roku\" (the 86) and the \"Hachi nana\" (the 87). The meaning of this pedal? \"Hachihachi shiki\"(Type 88), \"kebadate\" (fuzz) \"hizumase\" (distortion) and \"ki\" (machine). So the name translated into English means \"FUZZ DISTORTION PEDAL TYPE 88\"\nhttp://lalweb.com/88/88-e.html",
+    "hrid": "lastgasp-art-laboratories-super-oscillo-fuzz-88"
+}

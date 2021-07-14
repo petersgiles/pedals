@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11550",
+    "name": "Crayon Full-Range Overdrive",
+    "image": "images/electro-harmonix-crayon-full-range-overdrive.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "10 mA / 9 V / DC / Negative Center",
+    "cost": "$63 Price in €",
+    "width": 70,
+    "height": 53,
+    "details": "Dirty Boost / Overdrive with Bass and Treble ControlsThe EHX Crayon Full-Range Overdrive is a versatile overdrive with independent Bass and Treble controls and an open frequency range that provides players with a musical alternative to customary mid-focused overdrive pedals. It delivers a range of sounds going from a suggestion of dirt to full-on distortion and is equally impressive all by itself or when driving another overdrive pedal.\nFull-range overdrive with a lush, rich, warm tone\n    Independent Bass and Treble controls\n    True Bypass for maximum signal path integrity\n    Compact pedalboard-ready pedal\n    9V battery included\nhttps://www.ehx.com/products/crayon/",
+    "hrid": "electro-harmonix-crayon-full-range-overdrive"
+}

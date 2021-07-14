@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12080",
+    "name": "Myomorpha TC-13",
+    "image": "images/eno-music-myomorpha-tc-13.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Eno Music",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$49 Price in €",
+    "width": 42,
+    "height": 93,
+    "details": "Clone of RAT\nhttp://www.ex-amp.com/?p=755",
+    "hrid": "eno-music-myomorpha-tc-13"
+}

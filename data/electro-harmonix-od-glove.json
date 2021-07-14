@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16955",
+    "name": "OD Glove",
+    "image": "images/electro-harmonix-od-glove.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$67 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Overdrive/Distortion MOSFETRich, overtone laden sound that doesn’t get muddy. Responsive controls that take you from sparkling, clean boost through brown crunch and all the way to thick, saturated hi-gain. Advanced features like Tone Shift and selectable 9 or 18V internal voltage for surgical sound sculpting. The new OD Glove delivers overdrive and distortion with impact, and the modern player in mind.\nhttps://www.ehx.com/products/od-glove",
+    "hrid": "electro-harmonix-od-glove"
+}

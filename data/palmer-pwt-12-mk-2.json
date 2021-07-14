@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26998",
+    "name": "PWT 12 MK 2",
+    "image": "images/palmer-pwt-12-mk-2.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "Palmer",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$156 Price in €",
+    "width": 193,
+    "height": 70,
+    "details": "Power supplyThe PWT 12 is a heavy duty (2000 mA) universal pedal board power supply with 12 isolated 9 V DC, centre-negative female pin-connector outputs. Four of the outputs feature adjustable voltage from 9 to 18 volts. The variable outputs enable the simulation of voltage drop or 'battery sag' in old batteries. The power supply is regulated for constant voltage supply and protected against short circuit and overloading. The PWT 12 is equipped with a power LED and a two-colour LED output status indicator. It is supplied with an AC adapter and a set of DC cables. The PWT 12 is the ideal solution for power-hungry foot pedals or 9-volt effects units that can be operated at higher voltages for increased dynamics and stability.\n\nFully regulated universal pedalboard power supply\n12 standard centre negative outlets with 2,000 mA output total\n8 x 9 V outlets (300 mA each)\n4 variable voltage outlets 6 to 18 V (500 mA each)\nShort circuit and overload protection for each outlet\nDC cables and mains adapter included\n\nInput voltage : 100 - 250 V\nOutputs : 12\nOutput connectors : 2.1 x 5.5 mm\nOutput voltage : 12 V , 18 V , 9 V\nMax. output current : 2000 mA A\nIsolated outputs : Yes\nPolarity : center negative\nCord length : 25 - 50 cm\nIndicators : fault , Power\nControls : Output voltage selector\nWidth : 193 mm\nDepth : 70 mm\nHeight : 30 mm\nWeight : 0,4 kg \nhttps://www.palmer-germany.com/en/products/power-supplies-chargers/18553/pwt-12-mk-2",
+    "hrid": "palmer-pwt-12-mk-2"
+}

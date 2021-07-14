@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11659",
+    "name": "Dunes",
+    "image": "images/earthquaker-devices-dunes.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Ultimate Overdrive\nhttps://www.earthquakerdevices.com/dunes/",
+    "hrid": "earthquaker-devices-dunes"
+}

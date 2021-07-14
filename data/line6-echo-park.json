@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11571",
+    "name": "Echo Park",
+    "image": "images/line6-echo-park.jpg",
+    "function": [
+        "Delay",
+        "Modeling/Simulation",
+        "Dual/Stereo",
+        "Digital"
+    ],
+    "manufacturer": "Line6",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 86,
+    "height": 143,
+    "details": "Multi-function delay modelerModels tape, digital, and analog delays, with tap tempo, various delay patterns, modulation, and optional trails.\nDetails on Time knob ranges:\nNormal = 53ms to 2235ms\n8th-note triplet = 18ms to 745ms\n8th-note dotted = 40ms to 1676ms\nSlap = 10ms to 150ms\nDetails on Tap Tempo ranges:\nNormal = 40ms to 2500ms\n8th-note triplet = 13ms to 833ms\n8th-note dotted = 30ms to 1875ms\nSlap = 10ms to 625ms\nhttp://line6.com/tonecore/echoPark.html",
+    "hrid": "line6-echo-park"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33489",
+    "name": "The General Fuzz",
+    "image": "images/outlaw-effects-the-general-fuzz.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Outlaw Effects",
+    "current": "5 mA / 9 V / DC / Negative Center",
+    "cost": "$59 Price in €",
+    "width": 48,
+    "height": 95,
+    "details": "The General Germanium FuzzDelivers the warm, vintage fuzz tones of a late 60s’-era germanium transistor-based pedal\nCovers a range of retro fuzz sounds, from darker, more sustained/compressed sounds to more subtle, Texas Blues-sounding dirt \nResponsive to your guitar’s volume level: dial back your volume knob for a cleaner sound whose bite is a little more understated\nhttps://www.outlawguitareffects.com/pedals/the-general",
+    "hrid": "outlaw-effects-the-general-fuzz"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14855",
+    "name": "Kilobyte VK (Vintage King) Edition",
+    "image": "images/caroline-kilobyte-vk-(vintage-king)-edition.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Caroline",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 95,
+    "height": 121,
+    "details": "Lo-fi digital delay pedalKilobyte™ is our highly anticipated lo-fi digital delay pedal. Kilobyte™ was the second pedal that we successfully funded with Kickstarter.com, raising 285% of its project goal, and is now available from our retailers.\nIf you’re reading this, you must be getting ready to party like it’s 1983. We’ve kept your original, dry signal path analog and pure, then given you a +21db boost/overdrive preamp to smash a low fidelity digital delay chip designed for karaoke machines and kids’ toys into smeared, repeated glory. Yeah, we’re going back in time – back to when they measured data in KILOBYTES!\nThis pedal is VERY capable of fun runaway oscillations, both by turning up the summation knob, or a controlled, high-pass filtered oscillation from the Havoc momentary foot switch. If you’ve ever struggled to make your delays come through prominently in the mix, or lost definition from your original signal, the attack and level controls can allow you to dial up everything from crisp, clean slapbacks to dirty, muted echoes and loud, powerful repeats. A beautiful, subtle modulation circuit courtesy of our friend Jack DeVille also sweetens the repeats with just the right amount of movement.\nhttp://www.carolineguitar.com/portfolio/kilobyte/",
+    "hrid": "caroline-kilobyte-vk-(vintage-king)-edition"
+}

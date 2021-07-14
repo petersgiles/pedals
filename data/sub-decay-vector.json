@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "33459",
+    "name": "Vector",
+    "image": "images/sub-decay-vector.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Sub decay",
+    "current": "? mA / 9 V / AC/DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 110,
+    "details": "11 Types of Distortion/Fuzz/Overdrive",
+    "hrid": "sub-decay-vector"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27599",
+    "name": "VPJR Tuner / Volume",
+    "image": "images/ernie-ball-vpjr-tuner--volume.jpg",
+    "function": [
+        "Tuner",
+        "Volume"
+    ],
+    "manufacturer": "Ernie Ball",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 89,
+    "height": 254,
+    "details": "2-in-1 Volume and TunerThe Ernie Ball VPJR Tuner is the perfect combination 2-in-1 pedal offering precise volume control with an enhanced definition digital tuner. The pedal features a fast and accurate chromatic tuner with graphic volume display that is visually attractive and easy to operate. The large display automatically switches between tuner and volume modes depending on the signal level, allowing the player to tune at minimal volume. However, other “always on” configurations are accessible via a double tap on the touch screen. The tuner can also be calibrated to a variety of ideal reference pitches. The pedal’s compact, rugged design consists of an aluminum housing, and features a stronger, more durable PVC coated Kevlar cord ensuring consistent tension throughout the foot sweep.\nTUNING + VOLUME\nThis pedal features a fast and accurate chromatic tuner with graphic volume display that is visually attractive and easy to operate.\nTOUCHSCREEN MODES\nFeaturing an enhanced definition, vibrant touchscreen display that offers multiple modes to show you a graphic volume display, as well as a fast, accurate, and easy to read chromatic tuner.\nGROUND CONTROL\nThe VPJR Tuner can be used as a master or a gain control on your pedal rig and has up to 18 volts of headroom. Utilize this pedal with almost any 9-18 volt adapter on the market.\nDURABILITY\nThe VPJR Tuner features a compact, rugged aluminum housing and features a stronger, more durable PVC coated Kevlar cord to ensure a smooth consistent tension throughout the foot sweep.\nhttps://shop.ernieball.com/vp-jr-tuner-pedals.html?___store=eb",
+    "hrid": "ernie-ball-vpjr-tuner--volume"
+}

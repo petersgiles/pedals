@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27812",
+    "name": "Bass EQ",
+    "image": "images/rowin-bass-eq.jpg",
+    "function": [
+        "Equalizer"
+    ],
+    "manufacturer": "Rowin",
+    "current": "8 mA / 9 V / DC / Negative Center",
+    "cost": "$35 Price in €",
+    "width": 45,
+    "height": 95,
+    "details": "5-band slider with ±18dB adjustable gain range, centers of frequency:62.5Hz,125Hz,500Hz,1 KHz,4 KHz.\nVolume button to adjust the output level, the control button with LED indicator inside to show the working status.\nWorking current: 8mA; Power supply: DC 9V (plug polarity is negative in the center).\nDimensions: 3.74x1.77x1.89 inch; Weight: 8.47oz(with box). Small and exquisite design with aluminum alloy shell.\nPackage list: 1 x guitar effect pedal, 1 x user manual.",
+    "hrid": "rowin-bass-eq"
+}

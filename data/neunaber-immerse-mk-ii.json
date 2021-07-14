@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19343",
+    "name": "Immerse Mk II",
+    "image": "images/neunaber-immerse-mk-ii.jpg",
+    "function": [
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Neunaber",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$249 Price in €",
+    "width": 73,
+    "height": 117,
+    "details": "ReverberatorThe Immerse Mk II raises the bar with eight magical stereo reverbs in one compact pedal. We have really outdone ourselves this time.\nWith richer reverbs and a Mix knob that goes 100% wet, the Immerse Mk II is our best-sounding reverberator to date. Delivering the same no-nonsense flexibility as its predecessor, it’s more user-friendly than ever before.\nExperience studio-quality tone in a pedal that can be used with instruments of all stripes. The Immerse Mk II is packed with eight versatile reverb effects, including the new W3T™ and Sustain effect.\nW3T (Wet version 3) — exclusive to the Mk II, our new flagship reverb is smoother and more three-dimensional sounding than ever before. Now with adjustable pre-delay, it enhances what you play without covering it.\nPlate – Bright and diffuse like a studio plate reverb.\nHall – The lush, open sound of a concert hall, now with adjustable modulation depth for achieving deep modulated tones.\nSpring – The distinctive twerp of a tube-driven spring reverb. Now with adjustable modulation speed, it can achieve a vibrato-spring sound.\nSustain  – A new algorithm built on the W3T reverb. This magical, versatile effect can be configured as a sustainer or infinite reverb.\nEcho – Combining the W3T reverb with stereo echo.\nDetune – Adds a detuned double of the dry signal with reverb, now with true blend control between detune and detuned reverb.\nShimmer – Reminiscent of a synth pad that follows what your instrument plays, this effect combines the best qualities of our previous shimmers.\nhttps://neunaber.net/products/immerse-mk-ii",
+    "hrid": "neunaber-immerse-mk-ii"
+}

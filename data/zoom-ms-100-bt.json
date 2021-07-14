@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11972",
+    "name": "MS-100 BT",
+    "image": "images/zoom-ms-100-bt.jpg",
+    "function": [
+        "Multieffect",
+        "Digital",
+        "Dual/Stereo",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Zoom",
+    "current": "500 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 78,
+    "height": 130,
+    "details": "MultiStomp Guitar Pedal with BluetoothThe most advanced model to date in Zoom's revolutionary line of multi-stomp pedals, the MS-100BT MultiStomp Guitar Pedal with Bluetooth combines the power and flexibility of a multi-effects pedal and amp modeler with Bluetooth technology in a single stompbox design. In addition to its 100 preloaded stompbox effects and amp models, the MS-100BT allows you to use Zoom's free iOS StompShare app (available for download in Apple's App Store) with your iPhone, iPad or iPod touch, to buy and download additional effects via Bluetooth.\nhttps://www.zoom-na.com/products/guitar-bass-effects/multistomp/zoom-ms-100bt-multistomp-guitar-pedal-bluetooth",
+    "hrid": "zoom-ms-100-bt"
+}

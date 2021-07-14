@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26051",
+    "name": "Bass Active 2-Channe Mixer w/ Switches",
+    "image": "images/saturnworks-bass-active-2-channe-mixer-w-switches.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Saturnworks",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 110,
+    "height": 65,
+    "details": "An active two-channel mixer tuned to let bass frequencies through with switches to mute each channel.Using active electronics to balance the signals and eliminate crosstalk, the Saturnworks 2 and 3 channel active mixers blend two inputs into one output. Saturnworks mixers combine inputs from various instruments with differing impedance. Saturnworks active mixers are also perfect for the mixer section of a parallel pedal chain setup.\nWhile inexpensive and simple, passive mixers cannot isolate the channels. If you turn down one channel on a passive mixer, the other gets slightly softer as well. This is known as crosstalk. The active version fixes crosstalk problems by using active circuitry to isolate both channels. This means that one channel’s level doesn’t affect the level of the other(s). The active circuitry also balances mismatched input impedance.\nSaturnworks active mixer pedal comes in 2, 3, and 4 channel versions as well as versions with or without independent footswitches for each channel.\nThe bass versions tweak the design to allow the bass’ lower frequencies to enter the mixer circuit.\nThe versions with the MP3 mod modifies one of the inputs of the mixer to accept a low-impedance TRS input from an MP3, computer, or phone. The pedal mixes both the stereo MP3 input and the guitar input into a single mono (TS) output. The MP3 mod versions come with a 1/4″ – 1/8″ adapter to make plugging in an Mp3 player a breeze. Please note: the MP3 input does not work well for a standard guitar input. It should be used as a dedicated MP3 input only.\nThe active mixer with a phase switch adds an active phase reversal switch, which can help with out-of-phase issues when summing.\nhttps://saturnworkspedals.com/product/summer-mixer-pedal/",
+    "hrid": "saturnworks-bass-active-2-channe-mixer-w-switches"
+}

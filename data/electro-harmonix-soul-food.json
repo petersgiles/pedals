@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11872",
+    "name": "Soul Food",
+    "image": "images/electro-harmonix-soul-food.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$78 Price in €",
+    "width": 70,
+    "height": 115,
+    "details": "Overdrive / Boost\nhttp://www.ehx.com/products/soul-food",
+    "hrid": "electro-harmonix-soul-food"
+}

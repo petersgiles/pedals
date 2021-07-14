@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31553",
+    "name": "DCL Digital Stereo Chorus",
+    "image": "images/ibanez-dcl-digital-stereo-chorus.jpg",
+    "function": [
+        "Chorus"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "52 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Digital Stereo ChorusVintage digital chorus, features speed, width, delay time, and effect level control for a dry/wet blend. \n1985-86 Made in Japan.",
+    "hrid": "ibanez-dcl-digital-stereo-chorus"
+}

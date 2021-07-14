@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14461",
+    "name": "Vibratrem",
+    "image": "images/marshall-vibratrem.jpg",
+    "function": [
+        "Multieffect",
+        "Pitch Shifter",
+        "Tremolo"
+    ],
+    "manufacturer": "Marshall",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$65 Price in €",
+    "width": 65,
+    "height": 120,
+    "details": "https://marshallamps.com/products/pedals/vt-1-vibratrem/",
+    "hrid": "marshall-vibratrem"
+}

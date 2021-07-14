@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17244",
+    "name": "Vertigo",
+    "image": "images/source-audio-vertigo.jpg",
+    "function": [
+        "Tremolo",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Source Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$202 Price in €",
+    "width": 70,
+    "height": 114,
+    "details": "",
+    "hrid": "source-audio-vertigo"
+}

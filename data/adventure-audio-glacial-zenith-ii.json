@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19415",
+    "name": "Glacial Zenith II",
+    "image": "images/adventure-audio-glacial-zenith-ii.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "Overdrive & BoostThe earth moans as a torrent of ice and stone carves its way through the land.  And here, atop it all: The Glacial Zenith II\nAt its most basic, the GZII is a Drive, a 3-band EQ, and a Boost, all in a box together. What really takes it to the peak is the ability to put them in effectively whatever order you want.  \nMuch like a real glacier, the many parts of the Glacial Zenith II are able to shift past one another, allowing the pedal to take many forms.\nThink of the Drive stage fixed at the center, while the other sections can move around it. The heart of the beast: a churning cauldron of brittle roughness\nhttps://www.adventurepedals.com/shop/glacialzenith2",
+    "hrid": "adventure-audio-glacial-zenith-ii"
+}

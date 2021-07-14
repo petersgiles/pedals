@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "26246",
+    "name": "Bass Comp Jr",
+    "image": "images/diamond-bass-comp-jr.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Diamond",
+    "current": "20 mA / 9 V / DC / Negative Center",
+    "cost": "$199 Price in €",
+    "width": 62,
+    "height": 98,
+    "details": "Optical Bass Compressor Following in the footsteps of the original, the new Bass Comp Jr offers the same high quality optical compression and a simple but effective ‘Tilt style’ EQ control with selectable center frequency (900Hz or 250Hz), an extended frequency response and high headroom to suit a wide variety of passive or active 4/5/6 string basses. All in a smaller, more pedalboard friendly package that is compatible with a wider range of pedalboard power supplies.\nThe Diamond Bass Comp Jr is designed to be powered from either a 9V battery (included), standard 9V negative tip DC power adapter or from a multi pedal power supply. However, for maximum headroom and tone, we recommend using a negative tip, 18V power supply. Current draw of the Bass Comp Jr is very low- only 20mA.\nNote that the Comp Jr is the opposite polarity of the original Bass Comp- power supplies are not interchangeable between the two units.\n– Selectable 250Hz or 900Hz EQ tilt point\n– Optimized gain staging and use of ultra low noise transistors and op-amps in the signal path for lowest possible noise and extended signal headroom\n– Premium audio components, including Elna electrolytic capacitors, 2% film capacitors and 1% metal film resistors\n– Bi-color LED provides visual indication of depth of compression\n– True Bypass operation\nhttps://www.diamondpedals.com/bass-comp-jr/",
+    "hrid": "diamond-bass-comp-jr"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "18208",
+    "name": "Glacial Zenith",
+    "image": "images/adventure-audio-glacial-zenith.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Adventure Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$169 Price in €",
+    "width": 89,
+    "height": 114,
+    "details": "OD and BoostThe Glacial Zenith, tip of the iceberg. The remaining 90% of the marvel goes unseen below the surface. What you see is another overdrive. What you don't see is a dynamic dirt box, capable of mild to wild. Go from true transparency to square wave fuzz\nhttps://www.adventurepedals.com/shop/glacial-zenith",
+    "hrid": "adventure-audio-glacial-zenith"
+}

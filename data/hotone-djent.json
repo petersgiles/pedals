@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23894",
+    "name": "Djent",
+    "image": "images/hotone-djent.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Hotone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$60 Price in €",
+    "width": 44,
+    "height": 74,
+    "details": "Modern Hi Gain DistortionThis mini monster meets the need of every djentleman. More than that, it's an all-round mega tool for modern tone maniacs.\nFeaturing wideranged mid and gain control, a tight low end and great definition, from raw crunch, classic heavy metal to modern prog metal and heavy core, you get the whole gamut with extended switching options.\nUse the 3-way mini toggle to select from 3 finely tuned sound characters.\nhttps://www.hotoneaudio.com/products/skyline/distortion/148.html",
+    "hrid": "hotone-djent"
+}

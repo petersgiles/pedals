@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27726",
+    "name": "OD-S Nu:Tekt Nutube Overdrive DIY Pedal",
+    "image": "images/korg-od-s-nutekt-nutube-overdrive-diy-pedal.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Tube",
+        "Volume"
+    ],
+    "manufacturer": "Korg",
+    "current": "46 mA / 9 V / DC / Negative Center",
+    "cost": "$250 Price in €",
+    "width": 122,
+    "height": 96,
+    "details": "Build-your-own analog overdrive pedal kitKorg Nu:Tekt OD-S Nutube Overdrive DIY kit\nBuilding your own custom effects pedal from scratch is now possible with the OD-S Overdrive kit. Experience the fun of DIY by easily building and customizing your own overdrive pedal; no soldering required!\nFurthermore, the OD-S is equipped with a powerful Nu:tube fully analog triode? vacuum tube for a warm sound and rich harmonic response that will delight all guitarists.\nBuild your own FX pedal:\nCreating your own pedal can seem like a daunting task and the results aren't guaranteed. The OD-S offers a solderless, easy-to-build kit that is also customizable to help you shape the overdrive tone that's as individual as you.\nAuthentic tube sound:\nNutube is a revolutionary fully analog triode vacuum tube developed by KORG INC. and Noritake Itron Corporation. The same as a conventional vacuum tube, Nutube is constructed with an anode, grid and filament, and operates as a complete triode tube, effectively generates the same performance response and rich harmonic characteristics of conventional vacuum tubes in a more compact, stable and energy-efficient way.\nPlenty of sonic possibilities:\nThe OD-S has 2 GAIN knobs. In addition to adjusting the input level to the vacuum tube (GAIN), the anode load of the vacuum tube amplification circuit can be changed using the TUBE GAIN. This allows you to accurately adjust the sound from the vacuum tube to your liking.\nThe OD-S also incorporates a switch that lets you choose between 2 different overdrive types (with different Low - High ranges) along with True Bypass; making it an ideal pedal for live performances.\nFor advanced users who want to customize their tone further, the modification-friendly layout allows you to change out discrete components to create your own unique pedal to match your desired tone and performance. The possibilities are endless. Circuit diagrams are readily available in the download section.\nhttps://www.korg.com/us/products/effects/od_s/",
+    "hrid": "korg-od-s-nutekt-nutube-overdrive-diy-pedal"
+}

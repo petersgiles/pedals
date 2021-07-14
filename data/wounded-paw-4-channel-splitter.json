@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12651",
+    "name": "4 Channel Splitter",
+    "image": "images/wounded-paw-4-channel-splitter.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Wounded Paw",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$125 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Four Channel SplitterSplit your instrument signal into up to 4 outputs for tuners, separate amplifiers or different effects chains. Every output is fully buffered to eliminate any interaction (tone or volume loss) between the channels.\nHeavy duty 'BB' size, 4.7\" x 3.7\" Hammond aluminum enclosure\nBright Blue LED\nUses standard 9v adaptor or a single 9V battery.\nhttps://www.woundedpawaudio.ca/fx/index.php?main_page=product_info&cPath=2&products_id=16",
+    "hrid": "wounded-paw-4-channel-splitter"
+}

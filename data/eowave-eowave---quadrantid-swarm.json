@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31421",
+    "name": "eowave - Quadrantid Swarm",
+    "image": "images/eowave-eowave---quadrantid-swarm.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Eowave",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$593 Price in €",
+    "width": 203,
+    "height": 102,
+    "details": "Digital Semimodular SynthesizerThe Quandrantid Swarm is a digital synthesizer that features a percussive element to give it a unique sound. It contains a two-pole analog filter, an LFO with eight waveforms, and a spring reverb. The eight touch keys can be used as a mono keyboard, polyphonic keyboard or an eight-step sequencer. The Quandrantid Swarm has MIDI and CV/Trig connectivity. Its normalized pre-patching allows you start creating immediately, but its semi-modular design allows you to use patch cables to explore the potential of this instrument.\nhttp://www.eowave.com/synthesizers/quadrantid-swarm/",
+    "hrid": "eowave-eowave---quadrantid-swarm"
+}

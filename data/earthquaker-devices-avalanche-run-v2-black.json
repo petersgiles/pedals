@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17177",
+    "name": "Avalanche Run V2 Black",
+    "image": "images/earthquaker-devices-avalanche-run-v2-black.jpg",
+    "function": [
+        "Delay",
+        "Dual/Stereo",
+        "Reverb"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "410 mA / 9 V / DC / Negative Center",
+    "cost": "$299 Price in €",
+    "width": 105,
+    "height": 118,
+    "details": "Stereo Reverb & Delay with Tap TempoThe Avalanche Run is a dreamy stereosonic exploratory multi-tool that includes up to 2 seconds of delay time, reverse delay, tap tempo with subdivision control, switchable true bypass or buffered bypass with 5 different tail lengths (including a sound-on-sound style lo-fi looping mode) and an assignable expression control that maps the expression jack to a control of your choice, including the toggle! The delay section allows tweaking from tape emulation to bucket brigade styles with a twist of the wide-range Tone control. The cavernous, plate-style reverb has just a touch of modulation similar to the one found in our precious Dispatch Master only more lush with an adjustable Decay. Otherworldly reverse delay and dynamic swelling reverb settings are accessible through a 3-way toggle switch. And that’s just the beginning...\nhttps://www.earthquakerdevices.com/avalanche-run",
+    "hrid": "earthquaker-devices-avalanche-run-v2-black"
+}

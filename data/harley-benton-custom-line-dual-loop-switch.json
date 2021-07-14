@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31352",
+    "name": "Custom Line Dual Loop Switch",
+    "image": "images/harley-benton-custom-line-dual-loop-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Harley Benton",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$42 Price in €",
+    "width": 120,
+    "height": 56,
+    "details": "2 chenal pedal loop/switcherCommutateur de signal\nhttps://harleybenton.com/product/custom-line-dual-loop-switch/",
+    "hrid": "harley-benton-custom-line-dual-loop-switch"
+}

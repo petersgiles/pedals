@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12654",
+    "name": "Spires",
+    "image": "images/earthquaker-devices-spires.jpg",
+    "function": [
+        "Distortion",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "44 mA / 9 V / DC / Negative Center",
+    "cost": "$195 Price in €",
+    "width": 89,
+    "height": 60,
+    "details": "Nü-Face Double FuzzChannel Switch: Selects between Red (Dream Crusher) and Green (Nu Fuzz) channels\nActivate Switch: Turns the effect on and off\nGreen Controls\nTone: Changes the tonal character of the fuzz. Darker counterclockwise, brighter clockwise.\nGreen: Sets the output level when the green LED is lit.\nRed Controls\nFuzz: Adjusts the fuzz amount, dirtier clockwise, cleaner counterclockwise\nRed: Sets the output level when the red LED is lit.\nhttps://www.earthquakerdevices.com/spires",
+    "hrid": "earthquaker-devices-spires"
+}

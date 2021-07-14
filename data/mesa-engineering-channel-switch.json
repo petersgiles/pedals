@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14324",
+    "name": "Channel Switch",
+    "image": "images/mesa-engineering-channel-switch.jpg",
+    "function": [
+        "Switch"
+    ],
+    "manufacturer": "Mesa Engineering",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$35 Price in €",
+    "width": 57,
+    "height": 111,
+    "details": "Single channel foot switchSingle channel foot switch with LED\nWhere used: Dual Rectifier - 2 Channel, Mini Rectifier 25, Recto-Verb 25, TransAtlantic TA-15, Tremoverb, Triple Rectifier - 2 Channel.\nhttps://store.mesaboogie.com/products/footswitch-channel-switching-single-button-with-led.html",
+    "hrid": "mesa-engineering-channel-switch"
+}

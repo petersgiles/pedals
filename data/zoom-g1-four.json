@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "20765",
+    "name": "G1 FOUR",
+    "image": "images/zoom-g1-four.jpg",
+    "function": [
+        "Digital",
+        "Modeling/Simulation",
+        "Multieffect"
+    ],
+    "manufacturer": "Zoom",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$80 Price in €",
+    "width": 130,
+    "height": 156,
+    "details": "Guitar Multi-Effects Pedal\nhttps://www.zoom.co.jp/products/guitar-bass-effects/guitar/g1-four-g1x-four-guitar-multi-effects-processors",
+    "hrid": "zoom-g1-four"
+}

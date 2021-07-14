@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17780",
+    "name": "Paraloop",
+    "image": "images/dwarfcraft-devices-paraloop.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$150 Price in €",
+    "width": 66,
+    "height": 121,
+    "details": "Two fx loops“I wish I could have two different sounds at the same time.”\nWish granted.\n“I Wish I could put a clean blend on this thing.”\nWish granted.\n“I wish I could kick a switch and send my guitar to two other amps.”\nWish granted.\n“I JUST NEED A LITTLE MORE VOLUME!”\nWish granted, but seriously, there are cheaper clean boosts, my friend.\n“I want to mix two instruments with 1/4” audio outputs together, BUT I DON’T WANT TO USE A MIXER!”\nWish granted, I guess…\n“I need a device about the size of a mobile phone but taller and heavier to hold down blue prints for my ‘companion robot’ when my oscillating fan passes my desk!”\nYeah, ok, I don’t think we’re really on the same page here.\nWe have that thing and it’s called the PARALOOP! Your instrument goes in the right side, and comes out the left. There are two effects loops built into the pedal. Each of them is “normally closed” meaning a buffered clean signal comes through. Your “send level” knob allows you a boost into both loops, or if they are empty, just an overall volume boost (Or attenuation) when the pedal is engaged.\nAdd effects into one loop, and you are left with a clean signal next to your FX. Add FX into the remaining loop and you are parallel processing! Independent distortion flavors, side by side delay and reverb, flange and chorus, my goodness! Take a day off work, friend, because you’ve got some experimenting to do.\nThe Paraloop was designed to have maximum flexibility. In addition to the intended uses explained above, you can indeed split your signal to two amps. For example, Amp A is connected to the output of the Paraloop, and amp B is connected to the SEND 1 jack. When the pedal is engaged, your input signal will come out BOTH OF THOSE HOLES. You could even have an amp C connected to Send 2… then when the pedal was engaged sound would go to amps B and C, but not A.",
+    "hrid": "dwarfcraft-devices-paraloop"
+}

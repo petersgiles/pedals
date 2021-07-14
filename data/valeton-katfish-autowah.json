@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15405",
+    "name": "Katfish Autowah",
+    "image": "images/valeton-katfish-autowah.jpg",
+    "function": [
+        "Filter",
+        "Wah"
+    ],
+    "manufacturer": "Valeton",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$55 Price in €",
+    "width": 50,
+    "height": 93,
+    "details": "Envelope FilterValeton Katfish Auto Wah, Coral series effect pedal for electric guitar & bass, fully controllable auto wah pedal with high thomann accurate and fast tracking, 100% analog, true bypass, solid aluminium chassis, controls: sense, freq, reso & decay, on/off switch with status LED, jack input & output, power consumption 12mA, requires 9V power supply (not included, optional #409939), dimensions:93mm (D) x 50mm (W) x 46.5mm (H), weight: 175g\nhttps://www.thomann.de/gb/valeton_katfish_auto_wah.htm",
+    "hrid": "valeton-katfish-autowah"
+}

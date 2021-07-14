@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "22389",
+    "name": "Band of Gypsys Fuzz Face Mini",
+    "image": "images/dunlop-band-of-gypsys-fuzz-face-mini.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Dunlop",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 89,
+    "height": 89,
+    "details": "Hendrix-Style FuzzOver the course of '69 & '70, Jimi Hendrix appeared at his most noted live appearances-Live at Woodstock, Live at Berkeley, and Live at the Fillmore East-using a mysterious red Fuzz Face Distortion with white knobs. That fuzz box sounded like a completely different animal from any of the other Fuzz Face pedals in Jimi's arsenal, snarling with a far more aggressive, biting tone.\nThe pedal itself has been lost to history, but its unmistakably unique tone lives on in the recordings of those three iconic shows, and Hendrix aficionados have tried to cop that sound for years. We are happy to say that their tonal quest can finally come to a glorious end.\nPoring tirelessly over all of the different customized circuit designs Jimi used over the years, our engineers narrowed down this elusive fuzz tone to a version of the Octavio® circuit that didn't have the octave up signal. After making a few tweaks, they nailed it with the Band of Gypsys Fuzz Face Mini Distortion.\nNow, you can get the same Fuzz Face tone Jimi used to woo the masses at some of his most famous performances. It comes in a pedalboard-friendly Fuzz Face Mini housing, complete with an AC power jack and an on/off status LED.\nhttps://www.jimdunlop.com/product/ffm6-7-10137-08150-5.do",
+    "hrid": "dunlop-band-of-gypsys-fuzz-face-mini"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "29816",
+    "name": "Octabvre MK III",
+    "image": "images/3leaf-audio-octabvre-mk-iii.jpg",
+    "function": [
+        "Pitch Shifter"
+    ],
+    "manufacturer": "3Leaf Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$269 Price in €",
+    "width": 64,
+    "height": 118,
+    "details": "Bass OctaverTHE analog octave divider.\nMKIII is here. All the features of the MKII version packed into a smaller footprint. Cut the dry signal on the fly with the SUB footswitch and cross the astral plane into the THICC dimension. The circuit has been reconfigured as volume/volume and it sounds better than ever. The enclosure features an eye-catching new black oxide finish.\nControls: clean vol / octave vol / octave tone / TIM MODE / sub vol trimpot\nYou all know what it sounds like by now, but check out the clip below of Tim Lefebvre working his magic with an older Octabvre.",
+    "hrid": "3leaf-audio-octabvre-mk-iii"
+}

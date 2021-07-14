@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13380",
+    "name": "Generator",
+    "image": "images/the-gigrig-generator.jpg",
+    "function": [
+        "Power"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$112 Price in €",
+    "width": 110,
+    "height": 60,
+    "details": "power supplyThe GigRig power base unit.",
+    "hrid": "the-gigrig-generator"
+}

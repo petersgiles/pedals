@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11493",
+    "name": "Mini Ego Compressor",
+    "image": "images/wampler-mini-ego-compressor.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Wampler",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 42,
+    "height": 90,
+    "details": "Effect Pedal",
+    "hrid": "wampler-mini-ego-compressor"
+}

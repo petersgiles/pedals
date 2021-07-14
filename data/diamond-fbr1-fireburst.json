@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16021",
+    "name": "FBR1 FIREBURST",
+    "image": "images/diamond-fbr1-fireburst.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Diamond",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$212 Price in €",
+    "width": 130,
+    "height": 110,
+    "details": "Fuzz with mid-boostThick saturated fuzz with footswitchable mid-boost eq and pre/post gain circuit.\n– true bypass signal path\n– footswitchable between fuzz and mid-boosted distortion\n– all discrete-component distortion and mid-boost circuit\n– active Baxandall bass/treble tone control system\n– battery or standard negative tip 9V DC adaptor operation\nhttp://www.diamondpedals.com/products/fireburst/",
+    "hrid": "diamond-fbr1-fireburst"
+}

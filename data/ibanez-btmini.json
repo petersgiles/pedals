@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "31688",
+    "name": "BTMINI",
+    "image": "images/ibanez-btmini.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$99 Price in €",
+    "width": 51,
+    "height": 93,
+    "details": "Boost\nhttps://www.ibanez.com/eu/products/detail/btmini_01.html",
+    "hrid": "ibanez-btmini"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13080",
+    "name": "DPC-5 Gen 3",
+    "image": "images/disaster-area-dpc-5-gen-3.jpg",
+    "function": [
+        "MIDI",
+        "Switch"
+    ],
+    "manufacturer": "Disaster Area",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$399 Price in €",
+    "width": 254,
+    "height": 64,
+    "details": "Switching System with MIDI\nhttp://www.disasterareaamps.com/shop/dpc5-gen3",
+    "hrid": "disaster-area-dpc-5-gen-3"
+}

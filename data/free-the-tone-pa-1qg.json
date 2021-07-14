@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14803",
+    "name": "PA-1QG",
+    "image": "images/free-the-tone-pa-1qg.jpg",
+    "function": [
+        "Equalizer",
+        "MIDI"
+    ],
+    "manufacturer": "Free the Tone",
+    "current": "130 mA / 9 V / DC / Positive Center",
+    "cost": "$380 Price in €",
+    "width": 119,
+    "height": 102,
+    "details": "Programmable analog 10 band EQThe Free The Tone PA-1Q series are epoch-making devices produced by pursuing integration of digital and analog technologies cultivated through the development of the AMBI SPACE and TRI AVATAR.\nAt first glance the PA-1Q series look like digital equalizer effects units but are “analog equalizers.” Including I/O sections, the equalizer circuits through which the guitar/bass signals pass are all fully analog and contour the rich tones of your guitar/bass as analog signals. This is the same signal processing method you will find in graphic equalizers with conventional slider volume controls. The PA-1Q series are analog effects units, but the parameter control section is a digital circuit that can precisely store and process the status of various parameters in the digital domain. This enables real-time parameter control via presets and MIDI.\nAfter more than ten years of development from the conception and repeated trial and error, Free The Tone has finally completed its innovative product PA-1Q series.\nThe PA-1Q series are effects units that fuses rich analog sound with the ease and versatility of a digital control device while maintaining a high level of sound quality.\nhttps://www.freethetone.com/en/products/detail18/",
+    "hrid": "free-the-tone-pa-1qg"
+}

@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11982",
+    "name": "Drive3 Distortion",
+    "image": "images/akai-drive3-distortion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Akai",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$100 Price in €",
+    "width": 75,
+    "height": 125,
+    "details": "Analog distortionLush analog distortion with 3 modes for finding the perfect sound.\nAkai Professional's Analog Custom Shop Tri-Mode Distortion Guitar Effects Pedal is an excellent alternative to the more costly Deluxe Distortion. Tri-Mod Distortion combines Level, Tone and Distortion knobs with a Fat, Boost and Warm Tri-Mode switch in heavy-duty polished stainless-steel housing. True-bypass switching, three adjustable knobs and tone toggle switch provide precision tone control. \nTri-Mode Distortion's Tri-Mode toggle-switch gives guitarists detailed gain control ranging from a speck of dust to a thick, dirty tornado of sound. Select Fat, Boost or Warm to enable soaring leads, lush chords and satisfying rhythm tones. Tone may be further adjusted using the three precision Level, Tone and Distortion knobs. \nTri-Mode Distortion is powered by the included 9-volt battery or 9v AC adapter (sold separately). \nAs with previous Akai Professional guitar pedals like the E2 Headrush and SB1 Deep Impact Bass Synth, the Analog Custom Shop line is a collection of pedal effects designed to exacting standards, using the highest quality components. Analog Custom Shop pedals provide rich tone, texture and character to immediately enhance and inspire players of any musical style.\nFEATURES\nTriple-throw switch for Fat, Boost and Warm\nPure analog with top quality components\nLarge vintage style knobs for easy setting and viewing\nLevel, Distortion and Tone controls.\nTrue Bypass for retaining a pure signal when the effect is disengaged",
+    "hrid": "akai-drive3-distortion"
+}

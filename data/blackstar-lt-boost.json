@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12977",
+    "name": "LT Boost",
+    "image": "images/blackstar-lt-boost.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion",
+        "Volume"
+    ],
+    "manufacturer": "Blackstar",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 80,
+    "height": 122,
+    "details": "",
+    "hrid": "blackstar-lt-boost"
+}

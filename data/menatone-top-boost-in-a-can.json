@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13452",
+    "name": "Top Boost in a Can",
+    "image": "images/menatone-top-boost-in-a-can.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Menatone",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$199 Price in €",
+    "width": 121,
+    "height": 140,
+    "details": "Vox in a boxThe first of its kind, the Top Boost in a Can is the first pedal to utilize the entire circuit of the amp its based upon.  From sparkling cleans, to the elusive \"edge of breakup\", to full blown class A amp meltdown, it's all in there with a twist of a knob...  and, with a full British EQ to compliment the goods, you might just find an endless stream of creativity is waiting at your feet.",
+    "hrid": "menatone-top-boost-in-a-can"
+}

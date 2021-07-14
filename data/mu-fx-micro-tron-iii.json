@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "16421",
+    "name": "Micro-Tron III",
+    "image": "images/mu-fx-micro-tron-iii.jpg",
+    "function": [
+        "Filter"
+    ],
+    "manufacturer": "Mu-FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 64,
+    "height": 121,
+    "details": "A compact, convenient and affordable version of the classic Mu-Tron III™ envelope filterThe NEW Mu-FX Micro-Tron III is the newest reincarnation of the classic Mu-Tron III™ envelope filter. The Micro-Tron III provides all the classic Jerry tone and Bootsy funk, in a pedalboard-friendly size and powered by industry-standard 9V DC. We’ve also added an OUTPUT level control and the ability to footswitch select between UP and DOWN drives. It’s never been easier to cruise down “Shakedown Street” or get to “Higher Ground” – the Micro-Tron III sounds amazing on guitar, bass, keys, horns, harmonica… you name it!\nhttps://mu-fx.com/shop/pedals/micro-tron-iii/",
+    "hrid": "mu-fx-micro-tron-iii"
+}

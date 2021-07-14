@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "30463",
+    "name": "MS10 Metal Charger",
+    "image": "images/ibanez-ms10-metal-charger.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Ibanez",
+    "current": "12 mA / 9 V / DC / Negative Center",
+    "cost": "$100 Price in €",
+    "width": 70,
+    "height": 125,
+    "details": "Distortion If you are looking for that hot and heavy, massive metalmania distortion, hook up with an Ibanez MS10. It has more \"raw gain\" than any other distortion available. It has five controls to let you really capture the rage in your guitar. There is a Drive control that varies the amount of distortion, an Attack control for predistortion, treble and boost and Punch and Edge controls that provide post distortion equalization. Plug into an MS10 and you will swear that you have a wall of power behind you.\nhttp://www.effectsdatabase.com/model/ibanez/10/ms10",
+    "hrid": "ibanez-ms10-metal-charger"
+}

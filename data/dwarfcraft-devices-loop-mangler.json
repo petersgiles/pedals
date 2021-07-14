@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13038",
+    "name": "Loop Mangler",
+    "image": "images/dwarfcraft-devices-loop-mangler.jpg",
+    "function": [
+        "Utility"
+    ],
+    "manufacturer": "Dwarfcraft Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 119,
+    "height": 94,
+    "details": "Two Channel Feedback Looper with Joystick and Tunable FeedbackThe Dwarfcraft Devices Loop Mangler is a pair of effects loops arranged in parallel, mixed via joystick, with feedback capabilities. The feedback is tunable via traditional rotary knobs on the face of the unit. The unit is entirely passive, so no power needed. Plug in any two of your own FX boxes into the effects loops and create bizzarre feedback drones, noise, and more.",
+    "hrid": "dwarfcraft-devices-loop-mangler"
+}

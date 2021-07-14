@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21993",
+    "name": "Morning Star",
+    "image": "images/nux-morning-star.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "Nux",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$50 Price in €",
+    "width": 51,
+    "height": 94,
+    "details": "Blues Breaker style overdrive\nhttp://www.nuxefx.com/show-70-10-1.html",
+    "hrid": "nux-morning-star"
+}

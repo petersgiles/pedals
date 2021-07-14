@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "13888",
+    "name": "Guitar Silencer",
+    "image": "images/rocktron-guitar-silencer.jpg",
+    "function": [
+        "Noise Gate",
+        "Utility"
+    ],
+    "manufacturer": "Rocktron",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 95,
+    "height": 121,
+    "details": "",
+    "hrid": "rocktron-guitar-silencer"
+}

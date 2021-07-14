@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "25757",
+    "name": "Whaler v2",
+    "image": "images/matthews-effects-whaler-v2.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Matthews Effects",
+    "current": "20 mA / 9 V / DC",
+    "cost": "$189 Price in €",
+    "width": 64,
+    "height": 114,
+    "details": "Variable FuzzPedal Type: Fuzz\nInputs: 1 x 1/4\" (instrument)\nOutputs:    1 x 1/4\"\nTrue Bypass:    Yes\nPower Source:   9V DC 50mA power supply (sold separately)\nPower Usage:    20mA\nHeight: 1.5\"\nWidth:  2.5\"\nDepth:  4.5\"\nManufacturer Part Number:   Whaler v2\nhttps://www.matthewseffects.com/store/pedals/whaler-v2-fuzz/",
+    "hrid": "matthews-effects-whaler-v2"
+}

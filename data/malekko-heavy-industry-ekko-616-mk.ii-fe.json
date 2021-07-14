@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "24733",
+    "name": "EKKO 616 Mk.II FE",
+    "image": "images/malekko-heavy-industry-ekko-616-mk.ii-fe.jpg",
+    "function": [
+        "Delay"
+    ],
+    "manufacturer": "Malekko Heavy Industry",
+    "current": "50 mA / 9 V / DC / Negative Center",
+    "cost": "$150 Price in €",
+    "width": 140,
+    "height": 83,
+    "details": "650MS ANALOG DELAYNOW TAKING PRE-ORDERS!! WILL SHIP ON OR AROUND NOVEMBER 30TH\nDue to public demand, we’re building up the last of our OG 616 pedals and making them a fancy color with different color knobs!\nThis final run of 616 analog delays is available only through our website and limited to the first 200 orders! Still a steal at $150!\nThe EKKO 616 MKII specially voiced repeats allow a larger bandwidth to pass than most traditional analog delays. Turn the mix pot all the way up and the repeats will be slightly louder than the dry signal if needed, allowing greater flexibility. The regeneration pot will take you from a simple slapback to a nice gentle decay of a few repeats then all the way to taking off into outer space with just a turn of the pot! Engage the modulation button and it takes on a whole new personality, from subtle chorusing or beautiful vibrato to way WAY beyond. The EKKO 616 MKII also allows you to select your type of bypass between buffered or true bypass. Tired of annoying volume drops? An internal trimpot (labeled “gain”) will allow you to set the pedal’s level to your specific setup.\nThe EKKO 616 MKII additional features:\n– The modulation range has been massaged to allow much finer tuning for a more balanced overall effect\n– The MIX pot now allows louder effect levels\n– Improved buffering circuit resulting in flat response and allows hotter inputs, which makes it great for keyboard or outboard use!\n– Redesigned protection circuit for enhanced component safety\nThese changes add up to a cleaner, richer, sweeter, more flexible and musical analog delay.\nCurrent draw is 50mA and operates on a 9V battery or optional 9VDC neg tip regulated power supply.\nNOTE ABOUT OUR BYPASS CIRCUIT:\nThe bypass circuit is only active when the effect is off. Choosing buffered will light the LED; true is LED off.\nIf you have the buffered bypass circuit on and the LED goes out when you engage the effect, the pedal is working correctly.\nhttps://malekkoheavyindustry.com/products/#effects",
+    "hrid": "malekko-heavy-industry-ekko-616-mk.ii-fe"
+}

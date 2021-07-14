@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "23886",
+    "name": "Wah-II",
+    "image": "images/joyo-wah-ii.jpg",
+    "function": [
+        "Volume",
+        "Wah"
+    ],
+    "manufacturer": "Joyo",
+    "current": "30 mA / 9 V / DC / Negative Center",
+    "cost": "$88 Price in €",
+    "width": 75,
+    "height": 160,
+    "details": "Multimode wah / wolumeMULTIMODE WAH is a multifunctional WAH-WAH pedal, featuring both WAH-WAHand VOLUME functions. With a WAHWAH sound Q value knob, ensuring the sound changes from compact, sharp to mellow, wide style. Moreover, 6 WAH-WAH frequency ranges are available, you can choose different center frequencies to get diverse tones catering to various music styles. In VOLUME Control Mode, minimum volume control knob is one of its characteristics, by adjusting this knob you can obtain volume while toeing down the pedal completely. For example, you can turn down the volume a lot according to the needs of your performance, or just attenuate half of the volume. The feel for MULTIMODE WAH pedal is amazing and the range of motion is ergonomic, besides, skidproof rubber cushion for the feet enhances durability, the bright LEDs on both sides indicate the pedal’s working status.\n● Its RM shielded inductance is specially designed for WAHWAH sound, which guarantees outstanding tone.\n● It takes lesser space of the pedal board, lightweight and portable.\n● Easy to operate, with WAH-WAH / VOLUME and WAH-WAH / BYPASS toggle switch and minimum volume control knob.\n● With a WAH-WAH sound Q value knob.\n● WAH-WAH frequency range: 6 are available.\n● With both WAH-WAH and VOLUME functions.\n● LED indicators on both sides clearly show the pedal’s working status.\n● TrueBypass(for WAH-WAH mode only).\n● Active volume control circuit design ensures tone’s minimum signal loss and the signal intact.\n● Size: L160xW(63+12)xH55mm (including knobs)\nhttp://joyoaudio.com/en/product/show_320.html",
+    "hrid": "joyo-wah-ii"
+}

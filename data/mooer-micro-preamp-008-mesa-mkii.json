@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28332",
+    "name": "Micro Preamp 008 Mesa MkII",
+    "image": "images/mooer-micro-preamp-008-mesa-mkii.jpg",
+    "function": [
+        "Distortion",
+        "Modeling/Simulation"
+    ],
+    "manufacturer": "Mooer",
+    "current": "200 mA / 9 V / DC / Negative Center",
+    "cost": "$120 Price in €",
+    "width": 42,
+    "height": 94,
+    "details": "Based on a Californian modern day classic, CALI MK3 is a session players dream. The clean channel can go from pure clarity to light crunch. The drive channel starts where the clean channel left off and goes all the way to ultra high-gain that would make even the most hardened metal head go weak at the knees. With an incredibly variable EQ stack on each channel, CALI MK3 can achieve tones for just about every style of music, making it an incredibly versatile piece of kit.\nMOOER micro preamps are sonically accurate digital recreations of the preamp sections of popular tube amplifiers. We have developed these by directly analyzing real tube amplifiers using a brand new technology to capture their sound, dynamics and response. Each Micro Preamp comes complete with dual channels, integrated speaker cabinet simulation and dual operating modes to suit the needs of all users.\nInitially we are releasing a set of 10 models, each based on a different popular tube amplifier from a range of manufacturers. These have been designed to be used with the upcoming MOOER power amp or in the effects return of any standard guitar amplifier. The speaker cab simulation allows the user to connect direct to a soundcard, powered monitor or P.A. without the need for a guitar amp or speaker cab at all.\nhttp://www.mooeraudio.com/product/008---Cali-MK-3--59.html",
+    "hrid": "mooer-micro-preamp-008-mesa-mkii"
+}

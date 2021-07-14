@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11452",
+    "name": "Deluxe Memory Boy",
+    "image": "images/electro-harmonix-deluxe-memory-boy.jpg",
+    "function": [
+        "Digital",
+        "Delay"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$212 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "",
+    "hrid": "electro-harmonix-deluxe-memory-boy"
+}

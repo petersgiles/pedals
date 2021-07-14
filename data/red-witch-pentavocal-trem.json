@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "21682",
+    "name": "Pentavocal Trem",
+    "image": "images/red-witch-pentavocal-trem.jpg",
+    "function": [
+        "Tremolo"
+    ],
+    "manufacturer": "Red Witch",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$189 Price in €",
+    "width": 118,
+    "height": 94,
+    "details": "Analog FET TremoloThe Pentavocal Tremolo features multiple functions that are completely unique and unavailable elsewhere.\nTremolo was the first effect available on amplifiers. With a fixed wave shape and controls for depth and speed the key differentiator was the size and number of speakers coupled with the size of the cabinet. A little amplifier with one eight inch speaker would sound light and fluttery whereas a large amp with two twelve inch speakers would sound deep and throbby.\nTraditional tremolo pedals offer controls for speed, depth, volume and waveshape.\nThe Pentavocal Tremolo takes a different path.\nIt has five different voices to choose from. You can select the “voicing” (frequency response) by turning the rotary selector to the desired setting.\nFrom a delicate, shimmery, flutter trem to a pulsy low end throb, they're all there.\nIt also has another completely unique feature - the bottom control which allows the user to dial in and out the high end end pulse whilst the low end remains effected.\nThe Pentavocal Tremolo can certainly deliver the classic sound of a vintage valve trem and then soooo much more.\nThe Pentavocal has been seen to grace the stage with Bono (U2),  Jonathan Chancellor (TOOL) and INXS amongst others.\nhttp://www.redwitchpedals.com/pentavocal",
+    "hrid": "red-witch-pentavocal-trem"
+}

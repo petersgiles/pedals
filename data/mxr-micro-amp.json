@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14816",
+    "name": "Micro Amp",
+    "image": "images/mxr-micro-amp.jpg",
+    "function": [
+        "Bass",
+        "PreAmp"
+    ],
+    "manufacturer": "MXR",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$66 Price in €",
+    "width": 60,
+    "height": 111,
+    "details": "The Micro Amp allows you to boost your signal with a preset amount of gain up to +26dB.Adding a preset amount of gain with just a single control, the Micro Amp is a great way to boost your signal for lead work or adjust between two different guitars with unmatched output (i.e. humbuckers to single-coils). It can also provide a permanent boost in a long effects chain where signal drop off is a problem.\nhttps://www.jimdunlop.com/product/m133-7-10137-00660-7.do",
+    "hrid": "mxr-micro-amp"
+}

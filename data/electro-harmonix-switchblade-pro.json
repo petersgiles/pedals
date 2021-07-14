@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "27647",
+    "name": "SwitchBlade Pro",
+    "image": "images/electro-harmonix-switchblade-pro.jpg",
+    "function": [
+        "Bass",
+        "Dual/Stereo",
+        "Switch",
+        "Utility"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "165 mA / 9 V / DC / Negative Center",
+    "cost": "$123 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "Switchblade+ with line level and channel volume controlThe Switchblade Pro is our deluxe switching box featuring true mechanical bypass, soft switching, high quality and low noise buffers, volume controls for all input signals, high headroom and a multitude of possible configurations for all your signal routing needs. This compact pedal is a versatile and indispensable tool!\nhttps://www.ehx.com/products/switchblade-pro",
+    "hrid": "electro-harmonix-switchblade-pro"
+}

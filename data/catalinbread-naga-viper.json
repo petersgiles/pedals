@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "14853",
+    "name": "Naga Viper",
+    "image": "images/catalinbread-naga-viper.jpg",
+    "function": [
+        "PreAmp"
+    ],
+    "manufacturer": "Catalinbread",
+    "current": "1 mA / 9 V / DC / Negative Center",
+    "cost": "$170 Price in €",
+    "width": 65,
+    "height": 115,
+    "details": "Advanced Treble BoosterThe Catalinbread Naga Viper is our take on the classic Dallas Rangemaster Treble Booster with added features allowing users to dial it in with any amplifier.\nThe Naga Viper is a booster that lives in the grand old tradition of the Dallas Rangemaster “Treble-Booster”. The original Rangemaster has been used by many influential British guitarists including Tony Iommi, Brian May, Marc Bolan, and KK Downing and Glen Tipton of Judas Priest. These guitarists, while completely unique in their styles, share the Rangemaster as the secret of boosting their cranked British tube amps into a juicy, harmonic-laden rock tone that always cuts through the mix and is ultimately proto-metal. The Naga Viper is hommage to this famous circuit. Beyond it’s basic tuning, the Naga enhances the classic circuit with the addition of two extra controls – Range and Heat. The original Rangemaster had just one control – Boost which everybody dimed anyway but essentially controlled the output volume. Our RANGE knob is a continuous control which allows you to go from classic treble-boost to a full-range boost and anywhere in-between – as the original could only function as a set frequency “treble-booster”. The HEAT knob gives you control over the gain level saturation, unlike the original which was fixed at maximum gain.\nhttps://catalinbread.com/products/naga-viper",
+    "hrid": "catalinbread-naga-viper"
+}

@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15135",
+    "name": "V256",
+    "image": "images/electro-harmonix-v256.jpg",
+    "function": [
+        "MIDI",
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$222 Price in €",
+    "width": 146,
+    "height": 121,
+    "details": "VocoderRobotize, Harmonize… Rule the vocoder world! The V 256 welds your voice to your axe inspiring the twist of creativity that can make all of the difference. Bend your gender, drone your tone and invite aliens into your work of art. You want flexibility? The V 256 lets you adjust the vocoder from 8 to 256 bands taking you back to the 80’s and propelling you into the future at the same time. Bring your vocals up to snuff with advanced processing “Reflex Tune”... today’s most popular pitch correction effect.\nhttps://www.ehx.com/products/v256",
+    "hrid": "electro-harmonix-v256"
+}

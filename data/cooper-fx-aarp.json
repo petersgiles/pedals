@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11867",
+    "name": "AARP",
+    "image": "images/cooper-fx-aarp.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Cooper FX",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 165,
+    "height": 125,
+    "details": "Sequencer",
+    "hrid": "cooper-fx-aarp"
+}

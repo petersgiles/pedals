@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12532",
+    "name": "Micro Synthesizer",
+    "image": "images/electro-harmonix-micro-synthesizer.jpg",
+    "function": [
+        "Synth Voice"
+    ],
+    "manufacturer": "Electro-Harmonix",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$220 Price in €",
+    "width": 200,
+    "height": 160,
+    "details": "Analog Guitar SynthesizerThe reissue of the vintage Electro-Harmonix Guitar Micro Synth pedal lets you produce analog synth sounds with your guitar. 10 slider controls shape your sound. 4 independent and mixable voices are modified by a filter section, enabling you to produce and control an almost limitless variety of colors, including resonant filter sweeps.",
+    "hrid": "electro-harmonix-micro-synthesizer"
+}

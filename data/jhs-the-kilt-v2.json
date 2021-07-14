@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "17731",
+    "name": "The Kilt V2",
+    "image": "images/jhs-the-kilt-v2.jpg",
+    "function": [
+        "PreAmp",
+        "Distortion"
+    ],
+    "manufacturer": "JHS",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "",
+    "width": 72,
+    "height": 124,
+    "details": "When the opportunity to work with StuG came about (legendary guitarist, writer, producer, and founding member of UK band Delirious) we couldn’t pass it up. Right out of the gate Stu G wanted a dirt box that could essentially cover any-and-all ground he needed for his studio work and extensive touring gigs. From that request the Kilt was born, and for the V2 we have refined it to be a compact and versatile tone-machine.\nThe Kilt V2 still has the fantastic circuit at the heart of the version one: a heavily tweaked Expandora style dirt box that gives you more tonal options than you might ever be able to use. We use a specifically chosen op-amplifier that offers super low noise, improved slew rate for a smoother structure, and a character that just feels better than the original Expandora. Then there are three toggles that enhance the tweak-ability even further. The cut/flat toggle gives you the option to cut the low end frequencies to better sit in the mix. When in the “flat” position, the bass response is much beefier than the original Expandora for those heavy guitar riffs or bass grit. The G1 and G2 toggles let you select various forms of distortion via select resistance values that switch in and out in the clipping section of the circuit. This method is very different than your normal diode clipping selectors that you commonly see on drive pedals. This gives you multiple configurations and tonal options, helping the Kilt V2 cover light transparent drive all the way to a wall of fat fuzz/distortion and everything found in-between.\n– When both toggles are down, you are in the lightest gain setting. Amp-like chimey breakup.\n– G1 flipped up adds a touch of drive for more riffy grit.\n– G2 flipped up puts you almost into distortion land, with more saturation and sustain for lead tones.\n– Both toggles flipped up sends the Kilt V2 into almost uncontrollable gated fuzz/distortion that will cut through anything.\nFor the V2 we have added the ability to switch the G2 toggle with a Red Remote! This gives you the ability to flip into heavy overdrive or fuzz with a footswitch on the fly, making the V2 just as versatile as the V1 but more compact.\nSo put on your Kilt and raise a pint to rock and roll!",
+    "hrid": "jhs-the-kilt-v2"
+}

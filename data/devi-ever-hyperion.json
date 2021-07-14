@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "28699",
+    "name": "Hyperion",
+    "image": "images/devi-ever-hyperion.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "Devi Ever",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "",
+    "width": 60,
+    "height": 112,
+    "details": "Big Muff killerThe Hyperion is a titan fuzz God in guitar geek mythology, literally translating to ‘I can’t hear anything anymore’. Imagine, if you will, a Big Muff with enough steroids in its system to kill an ox with its proverbial little finger. The new Hyperion 2 also adds oscillation to this heavy-hitter’s already impressive resumé, opening Pandora’s Box for all sorts of sonic mayhem, mischief and whimsy. The Hyperion 2 also shares its name with a legendary British thoroughbred stallion. It’s no coincidence that it’s just as well-equipped in the trouser department. Isn’t it about time that your pedalboard got hung like a horse?",
+    "hrid": "devi-ever-hyperion"
+}

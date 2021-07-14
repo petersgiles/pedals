@@ -1,0 +1,20 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11428",
+    "name": "DD-500 Digital Delay",
+    "image": "images/boss-dd-500-digital-delay.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Multieffect",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Boss",
+    "current": "200 mA / ? V / AC",
+    "cost": "$350 Price in €",
+    "width": 170,
+    "height": 138,
+    "details": "Multiple DelayFilled with newly developed BOSS technology, the DD-500 is the most powerful and versatile stompbox delay ever created. This incredible sound-creation toolbox offers 12 distinctive delay modes with exceptional audio quality, plus deep editing controls, a graphic display, patch memories, MIDI, and much more. From basic echo to dead-on emulations of classic delays to incredibly lush spatial textures that take your breath away, the DD-500 will launch your music places you never thought possible.\nDD-500 Version 2 Software: New and Improved Control Parameters, Routing Options, and Effects for Increased Performance Flexibility\nThe feature-packed Version 2 software update brings powerful new performance enhancements and unparalleled flexibility to the DD-500. Even more control has been added, with an improved A/B simultaneous mode for advanced routing as well as new Series and Parallel modes. Five new effect types have been added to the current delay algorithms, plus many updated parameters common to all modes. The update also offers lots of user-requested features, including additional MIDI controls, new modulation types, a feedback loop function for inserting external effects, adjustable input and output levels, selectable EQ position, and more.\nhttps://www.boss.info/us/products/dd-500/",
+    "hrid": "boss-dd-500-digital-delay"
+}

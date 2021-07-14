@@ -1,0 +1,19 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "12729",
+    "name": "DR400 Digital Reverb/Delay",
+    "image": "images/behringer-dr400-digital-reverbdelay.jpg",
+    "function": [
+        "Delay",
+        "Digital",
+        "Reverb",
+        "Dual/Stereo"
+    ],
+    "manufacturer": "Behringer",
+    "current": "? mA / 9 V / DC / Negative Center",
+    "cost": "$50 Price in €",
+    "width": 71,
+    "height": 122,
+    "details": "Digital Stereo Reverb/DelayPowered by our proprietary Real Sound Modeling (RSM) processor, the DR400 offers 3 delay styles, 4 reverb styles and 4 styles that combine both. Dedicated Tone and Reverb Time dials double as Feedback and Delay Time, depending on which mode you’re in, while the Balance dial determines the perfect blend of clean and affected tone. There’s even a Tap function that allows you to dial in the delay tempo by pressing the footswitch in time with the music.\nhttps://www.behringer.com/product.html?modelCode=P0534",
+    "hrid": "behringer-dr400-digital-reverbdelay"
+}

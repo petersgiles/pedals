@@ -1,0 +1,18 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "15167",
+    "name": "Quartermaster QMX - 6",
+    "image": "images/the-gigrig-quartermaster-qmx---6.jpg",
+    "function": [
+        "Controller",
+        "Looper",
+        "Utility"
+    ],
+    "manufacturer": "The GigRig",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$280 Price in €",
+    "width": 410,
+    "height": 58,
+    "details": "Loop Switcher (6 loops)\nhttps://shop.thegigrig.com/quartermaster-qmx-6/",
+    "hrid": "the-gigrig-quartermaster-qmx---6"
+}

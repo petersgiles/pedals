@@ -1,0 +1,17 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11863",
+    "name": "Brothers",
+    "image": "images/chase-bliss-audio-brothers.jpg",
+    "function": [
+        "Distortion",
+        "PreAmp"
+    ],
+    "manufacturer": "Chase Bliss Audio",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$349 Price in €",
+    "width": 68,
+    "height": 124,
+    "details": "Dual boost/drive/fuzz circuitsDesigned in collaboration with Resonant Electronic™, Brothers™ is built upon two independent JFET / IC analog channels comprising a total of six unique boost, drive, or fuzz circuits in one small enclosure. The pedal can be routed in thirty-three distinct ways, including mixing them in parallel or changing the order of the effects. As with every Chase Bliss pedal, you can save everything and recall presets instantly, on-the-fly either on the pedal or with MIDI. Every knob and switch is connected to a little digital brain while your guitar signal stays 100% analog the entire time and never gets digitally processed.\nhttp://chaseblissaudio.com/brothers/",
+    "hrid": "chase-bliss-audio-brothers"
+}

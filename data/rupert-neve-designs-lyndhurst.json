@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "11651",
+    "name": "Lyndhurst",
+    "image": "images/rupert-neve-designs-lyndhurst.jpg",
+    "function": [
+        "Dynamics"
+    ],
+    "manufacturer": "Rupert Neve Designs",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$305 Price in €",
+    "width": 82,
+    "height": 121,
+    "details": "Effects Pedal",
+    "hrid": "rupert-neve-designs-lyndhurst"
+}

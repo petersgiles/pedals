@@ -1,0 +1,16 @@
+{
+    "py/object": "mylib.pedal.Pedal",
+    "id": "19543",
+    "name": "Black Ash",
+    "image": "images/earthquaker-devices-black-ash.jpg",
+    "function": [
+        "Distortion"
+    ],
+    "manufacturer": "EarthQuaker Devices",
+    "current": "? mA / ? V / AC/DC",
+    "cost": "$200 Price in €",
+    "width": 64,
+    "height": 121,
+    "details": "Endangered FuzzLimited to 1500 units worldwide, Black Ash is a fuzz/overdrive that takes some cues from the vintage “three-knob Bender.” It uses a highly curated cache of rare and irreplaceable components including paper-in-oil capacitors and NOS half-watt carbon composition resistors from EQD President Jamie Stillman’s personal stash to light a fire under this classic fuzz/drive with an explosive-yet-detailed treble response, a sturdy midrange, and subterranean bass extension.\nhttps://www.earthquakerdevices.com/black-ash/",
+    "hrid": "earthquaker-devices-black-ash"
+}
