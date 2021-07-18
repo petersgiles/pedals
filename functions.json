@@ -1,168 +1,138 @@
 [
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Noise Gate",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "PreAmp",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Equalizer",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Flanger",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Distortion",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Expression",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Controller",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
         "function": "MIDI",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Digital Glitch",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Pitch Shifter",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Utility",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Multieffect",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Tube",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Fuzz",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Reverb",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Dynamics",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Modeling/Simulation",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Rotary",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Drum",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Delay",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Dual/Stereo",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Phase Shifter",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Volume",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Digital",
-        "weight": 0
+        "weight": 35
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
         "function": "Unlisted",
-        "weight": 0
+        "weight": 37
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Chorus",
-        "weight": 0
+        "function": "Phase Shifter",
+        "weight": 2
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Tremolo",
-        "weight": 0
+        "function": "Expression",
+        "weight": 32
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Bass",
-        "weight": 0
+        "function": "Filter",
+        "weight": 99
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
         "function": "Sampling",
-        "weight": 0
+        "weight": 27
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Ring Modulator",
-        "weight": 0
+        "function": "Modeling/Simulation",
+        "weight": 99
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Looper",
-        "weight": 0
+        "function": "Distortion",
+        "weight": 7
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Dual/Stereo",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Dynamics",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Multieffect",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Reverb",
+        "weight": 30
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
         "function": "Synth Voice",
-        "weight": 0
+        "weight": 99
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Power",
-        "weight": 0
+        "function": "Pitch Shifter",
+        "weight": 14
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Equalizer",
+        "weight": 11
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Noise Gate",
+        "weight": 22
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Switch",
+        "weight": 34
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Digital",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Tremolo",
+        "weight": 21
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Utility",
+        "weight": 31
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Controller",
+        "weight": 33
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Volume",
+        "weight": 20
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Tube",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "PreAmp",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Chorus",
+        "weight": 17
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Digital Glitch",
+        "weight": 26
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Ring Modulator",
+        "weight": 16
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
@@ -171,17 +141,47 @@
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Looper",
+        "weight": 28
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Fuzz",
+        "weight": 8
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Drum",
+        "weight": 29
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Bass",
+        "weight": 99
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Delay",
+        "weight": 25
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Flanger",
+        "weight": 18
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
+        "function": "Power",
+        "weight": 36
+    },
+    {
+        "py/object": "mylib.pedal_function.PedalFunction",
         "function": "Wah",
-        "weight": 0
+        "weight": 1
     },
     {
         "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Switch",
-        "weight": 0
-    },
-    {
-        "py/object": "mylib.pedal_function.PedalFunction",
-        "function": "Filter",
-        "weight": 0
+        "function": "Rotary",
+        "weight": 99
     }
 ]
