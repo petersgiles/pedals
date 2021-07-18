@@ -32,7 +32,7 @@ mnemonic = [
 # 'Tube',
 
 
-path = 'merged_file.json'
+path = 'all_pedals.json'
 with open(path, 'r') as f:
     pedals = jsonpickle.loads(f.read())
 

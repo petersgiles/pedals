@@ -19,7 +19,7 @@ for path in pathlist:
 
         pedal.image = str(imagetarget)
         ic(f'{image} {imagetarget}')
-        serialized = jsonpickle.encode(pedal, max_depth=2) # max_depth is optional
+        serialized = jsonpickle.encode(pedal) # max_depth is optional
 
         with open(f'out/{pedal.hrid}.json', 'w', encoding='utf-8') as f:
             json.dump(json.loads(serialized), f, ensure_ascii=False, indent=4)
