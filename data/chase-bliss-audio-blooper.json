@@ -4,8 +4,8 @@
     "name": "Blooper",
     "image": "images/chase-bliss-audio-blooper.jpg",
     "function": [
-        "Digital Glitch",
         "Looper",
+        "Digital Glitch",
         "Sampling"
     ],
     "manufacturer": "Chase Bliss Audio",

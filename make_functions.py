@@ -15,7 +15,7 @@ mnemonic = [
     'Pitch', 'Vibrato', 'Pitch Shifter',
     'Modulation', 'Ring Modulator', 'Chorus', 'Flanger', 'Filter'
     'Level', 'Volume', 'Tremolo', 'Noise Gate', 'Limiter', 
-    'Echo', 'Delay', 'Digital Glitch', 'Sampling', 'Looper', 'Drum',
+    'Echo', 'Delay', 'Sampling', 'Looper', 'Digital Glitch', 'Drum',
     'Reverb',
     'Utility', 'Expression', 'Controller', 'Switch', 'MIDI',  'Power', 'Unlisted'
 ]

@@ -4,9 +4,9 @@
     "name": "Mood",
     "image": "images/chase-bliss-audio-mood.jpg",
     "function": [
-        "Digital Glitch",
+        "Sampling",
         "Looper",
-        "Sampling"
+        "Digital Glitch"
     ],
     "manufacturer": "Chase Bliss Audio",
     "current": "150 mA / 9 V / DC / Negative Center",
