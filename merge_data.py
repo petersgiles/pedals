@@ -12,7 +12,7 @@ pathlist = Path('data').glob('**/*.json')
 
 result = []
 for path in pathlist:
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         pedal: Pedal = jsonpickle.loads(f.read(), classes=Pedal)
         result.append(pedal)
 

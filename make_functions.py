@@ -8,8 +8,9 @@ from pathlib import Path
 
 mnemonic = [
     'Tuner',
-    'Wah', 'Fuzz', 'Phase Shifter', 'Phaser',
-    'Compression','Compressor',
+    'Wah', 'Phase Shifter', 'Phaser',
+    'Fuzz',
+    'Compression', 'Compressor', 'Dynamics',
     'Overdrive','Distortion', 'Gain', 'Crunch',
     'Equalizer',
     'Pitch', 'Vibrato', 'Pitch Shifter',
@@ -23,7 +24,6 @@ mnemonic = [
 # 'Bass',
 # 'Digital',
 # 'Dual/Stereo',
-# 'Dynamics',
 # 'Modeling/Simulation',
 # 'Multieffect',
 # 'PreAmp',
@@ -33,7 +33,7 @@ mnemonic = [
 
 
 path = 'all_pedals.json'
-with open(path, 'r') as f:
+with open(path, 'r', encoding='utf-8') as f:
     pedals = jsonpickle.loads(f.read())
 
     functions = (p.function for p in pedals)
